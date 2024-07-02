@@ -34913,27 +34913,6 @@ Vendor: Xterminal <xterminal@xterminal.cn>
 
 Package: redisviewer
 Architecture: amd64
-Version: 2.4.4
-Priority: optional
-Section: default
-Maintainer: 124410675@qq.com
-Installed-Size: 254265
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: development/redisviewer/redisviewer_2.4.4_amd64.deb
-Size: 79195696
-MD5sum: efe735a027418c1a184a005dc2166fa5
-SHA1: bd0c82ec91471147187229ff4d43915f6e427141
-SHA256: a2117e0f62188537cc221384731e60f281cf17d2054c97b6bc313ecf0b841c7d
-SHA512: 167c562cd7eb59718fd56cafaec65b1b383c71d0614c94914ff349516ccc4268f5e82fb5a8ece22b6b436a9d51cc65d349583494a382cf318b1de7947de47aae
-Homepage: https://github.com/redisviewer
-Description: 
-  优秀跨平台Redis可视化客户端工具
-License: unknown
-Vendor: 124410675@qq.com
-
-Package: redisviewer
-Architecture: amd64
 Version: 2.4.5
 Priority: optional
 Section: default
