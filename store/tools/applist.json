@@ -625,21 +625,6 @@
 }
 ,
 {
-   "Name":"以管理员身份打开文件（夹）",
-   "Version":"1.1.1",
-   "Filename":"admin-xdg-open_1.1.1_all.deb",
-   "Pkgname":"admin-xdg-open",
-   "Author":"zty199",
-   "Contributor":"zty199",
-   "Website":"https://gitee.com/zty199/",
-   "Update":"2020-09-15 01:40",
-   "Size":"1.64KB",
-   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
-   "Tags":"community;deepin;uos"
-}
-
-,
-{
     "Name": "玲珑应用商店",
     "Version": "1.2.7",
     "Filename": "linglong-store_1.2.7_amd64.deb",
@@ -655,6 +640,21 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/81327aebdbf34cb7b4db311d60a49b62.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/ae289faced3f4913a79b67eea5d63249.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/9a34488d62c844ee980647fba27b5e58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/668fef8d30a74c2d820136f4d73b83f6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/5c0d27f8e1944862b975185fbd1749fc.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/27/a32ea2f8a1064f34af3b5951673ce1a0.png"
 }
+,
+{
+   "Name":"以管理员身份打开文件（夹）",
+   "Version":"1.1.1",
+   "Filename":"admin-xdg-open_1.1.1_all.deb",
+   "Pkgname":"admin-xdg-open",
+   "Author":"zty199",
+   "Contributor":"zty199",
+   "Website":"https://gitee.com/zty199/",
+   "Update":"2020-09-15 01:40",
+   "Size":"1.64KB",
+   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
+   "Tags":"community;deepin;uos"
+}
+
 ,
 {
    "Name":"Intel核心管理器",
@@ -1660,23 +1660,6 @@
 }
 ,
 {
-    "Name": "desktop 图标生成器",
-    "Version": "1.2.1-20231212",
-    "Filename": "z-tools-desktop-generater_1.2.1-20231212_amd64.deb",
-    "Torrent_address": "z-tools-desktop-generater_1.2.1-20231212_amd64.deb.torrent",
-    "Pkgname": "z-tools-desktop-generater",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "http://gitee.com/zinface/z-tools",
-    "Update": "2023-12-12 14:14:01",
-    "Size": "55.87 KB",
-    "More": "Linux toolbox under development\n .\n Build for Uos20 through spark-deb-build.\n\nv1.2.1: 支持 desktop 文件拖入解析(仅获取基本的键值)",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/57fedafeb46041c3ba4ce942f1f01fd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/9d7d30aa350849d6aabe197c8adbeb47.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/12/132604db6d7f48db86bbec13e5111a21.png"
-}
-,
-{
     "Name": "Scrcpy安卓手机投屏",
     "Version": "2.4+szbt4",
     "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
@@ -1691,6 +1674,23 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
+}
+,
+{
+    "Name": "desktop 图标生成器",
+    "Version": "1.2.1-20231212",
+    "Filename": "z-tools-desktop-generater_1.2.1-20231212_amd64.deb",
+    "Torrent_address": "z-tools-desktop-generater_1.2.1-20231212_amd64.deb.torrent",
+    "Pkgname": "z-tools-desktop-generater",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "http://gitee.com/zinface/z-tools",
+    "Update": "2023-12-12 14:14:01",
+    "Size": "55.87 KB",
+    "More": "Linux toolbox under development\n .\n Build for Uos20 through spark-deb-build.\n\nv1.2.1: 支持 desktop 文件拖入解析(仅获取基本的键值)",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/57fedafeb46041c3ba4ce942f1f01fd3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/12/9d7d30aa350849d6aabe197c8adbeb47.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/12/132604db6d7f48db86bbec13e5111a21.png"
 }
 ,
 {
@@ -1998,6 +1998,22 @@
 }
 ,
 {
+    "Name": "手机管理大师",
+    "Version": "1.0.0-1",
+    "Filename": "com.apowersoft.apowermanager_1.0.0-1_amd64.deb",
+    "Pkgname": "com.apowersoft.apowermanager",
+    "Author": "Apowersoft",
+    "Contributor": "shenmo",
+    "Website": "https://www.apowersoft.com/phone-manager",
+    "Update": "2021-12-12 00:26:39",
+    "Size": "56.27 MB",
+    "More": "轻松导入 、导出 、删除、存储各种文件资料 。支持在电脑大屏预览 、键盘操作 ，让您的照片 、视频 、 音乐触手可及 ， 短信 、 联系人 、 通话记录轻松传输 。\n",
+    "Tags": "uos;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
+}
+,
+{
     "Name": "腾讯御点",
     "Version": "2.1.0.348-1.uos20",
     "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
@@ -2012,22 +2028,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
-}
-,
-{
-    "Name": "手机管理大师",
-    "Version": "1.0.0-1",
-    "Filename": "com.apowersoft.apowermanager_1.0.0-1_amd64.deb",
-    "Pkgname": "com.apowersoft.apowermanager",
-    "Author": "Apowersoft",
-    "Contributor": "shenmo",
-    "Website": "https://www.apowersoft.com/phone-manager",
-    "Update": "2021-12-12 00:26:39",
-    "Size": "56.27 MB",
-    "More": "轻松导入 、导出 、删除、存储各种文件资料 。支持在电脑大屏预览 、键盘操作 ，让您的照片 、视频 、 音乐触手可及 ， 短信 、 联系人 、 通话记录轻松传输 。\n",
-    "Tags": "uos;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
 }
 ,
 {
@@ -2128,6 +2128,23 @@
 }
 ,
 {
+    "Name": "GXDE 内核管理器 1.1.0",
+    "Version": "1.1.0",
+    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-kernel-manager",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
+    "Update": "2024-05-12 17:25:58",
+    "Size": "1.07 MB",
+    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
     "Name": "奔图打印机驱动",
     "Version": "7.4.176-1+uos",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
@@ -2159,23 +2176,6 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/e44eaf70-1783-11ed-b704-136e1b5b46da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/dfa2daa0-1783-11ed-b704-136e1b5b46da.png"
-}
-,
-{
-    "Name": "GXDE 内核管理器 1.1.0",
-    "Version": "1.1.0",
-    "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-kernel-manager_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-kernel-manager",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-kernel-manager",
-    "Update": "2024-05-12 17:25:58",
-    "Size": "1.07 MB",
-    "More": "GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。 目前支持 amd64、arm64、mips64 和 loong64 四个架构 \n\n\nQQ 交流群：881201853\n\n警告：请不要随意操作内核除非你知道你在做什么！",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
 ,
 {
@@ -2466,6 +2466,23 @@
 }
 ,
 {
+    "Name": "Apk 文件查看器",
+    "Version": "1.1-20231207",
+    "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
+    "Torrent_address": "z-tools-base-apk-view_1.1-20231207_amd64.deb.torrent",
+    "Pkgname": "z-tools-base-apk-view",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "Update": "2023-12-07 18:14:48",
+    "Size": "1.59 MB",
+    "More": "如图：但依赖于 aapt 工具\n\nfeat: 拥有了双击 apk 即可预览的能力\nplugin: 添加用于 zToolsBox 的扩展构建",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/d89de06007bd414db3a959c247617626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/4c0dd3a9d7ec45d8a7bf57cfdba5a3a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/3e97058339ea481fb304517375e69ec8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/db4b10f23e4c4457b76d95be833c99ba.png"
+}
+,
+{
     "Name": "Debreate",
     "Version": "0.7.13",
     "Filename": "debreate_0.7.13_all.deb",
@@ -2496,23 +2513,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/02/c9cd975959b14de8915cf13463475162.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/02/e6c8e979077a4bfebb9205162013f246.png"
-}
-,
-{
-    "Name": "Apk 文件查看器",
-    "Version": "1.1-20231207",
-    "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
-    "Torrent_address": "z-tools-base-apk-view_1.1-20231207_amd64.deb.torrent",
-    "Pkgname": "z-tools-base-apk-view",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "Update": "2023-12-07 18:14:48",
-    "Size": "1.59 MB",
-    "More": "如图：但依赖于 aapt 工具\n\nfeat: 拥有了双击 apk 即可预览的能力\nplugin: 添加用于 zToolsBox 的扩展构建",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/d89de06007bd414db3a959c247617626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/4c0dd3a9d7ec45d8a7bf57cfdba5a3a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/3e97058339ea481fb304517375e69ec8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/db4b10f23e4c4457b76d95be833c99ba.png"
 }
 ,
 {
@@ -2583,23 +2583,6 @@
 }
 ,
 {
-    "Name": "超级工具箱（xjavafxtools）",
-    "Version": "0.3.2",
-    "Filename": "xjavafxtool_0.3.2_amd64.deb",
-    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
-    "Pkgname": "xjavafxtool",
-    "Author": "xwintop",
-    "Contributor": "shenmo",
-    "Website": "https://gitee.com/xwintop/xJavaFxTool",
-    "Update": "2022-08-21 16:47:39",
-    "Size": "85.82 MB",
-    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
-}
-,
-{
     "Name": "PeaZip",
     "Version": "9.8.0",
     "Filename": "peazip_9.8.0_amd64.deb",
@@ -2614,6 +2597,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/037ee370fbff44c68c5dfac8c52aef9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/9a8e3ce1c6df482facd559b6a8a671c9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/13/7f997f2d995e454c806191248f559ac1.png"
+}
+,
+{
+    "Name": "超级工具箱（xjavafxtools）",
+    "Version": "0.3.2",
+    "Filename": "xjavafxtool_0.3.2_amd64.deb",
+    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
+    "Pkgname": "xjavafxtool",
+    "Author": "xwintop",
+    "Contributor": "shenmo",
+    "Website": "https://gitee.com/xwintop/xJavaFxTool",
+    "Update": "2022-08-21 16:47:39",
+    "Size": "85.82 MB",
+    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
 }
 ,
 {
@@ -4856,6 +4856,23 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3b5c6390-d82a-11ed-96e3-3560d378947d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3ba4de40-d82a-11ed-96e3-3560d378947d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/11/79969090-d82a-11ed-96e3-3560d378947d.png"
+}
+,
+{
+    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
+    "Version": "10.0.9.0.8-903spark1",
+    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
+    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
+    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
+    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.taotics.com/",
+    "Update": "2024-07-02 07:41:36",
+    "Size": "59.98 MB",
+    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
 }
 ,
 {

@@ -6486,6 +6486,26 @@ SHA512: 08eb828a663b07db515a7182bdad66997477b6b83d180955bced4ed066db1ad7b30b6dfa
 Homepage: https://www.virtualbox.org/
 Description: Oracle VM VirtualBox VirtualBox is a powerful PC virtualization solution allowing you to run a wide range of PC operating systems on your Linux system.    This includes Windows, Linux, FreeBSD, DOS, OpenBSD and others.    VirtualBox comes with a broad feature set and excellent performance, making it the premier virtualization software solution on the market.
 
+Package: com.sogou.ime.ng.fcitx5.deepin
+Architecture: amd64
+Version: 10.0.9.0.8-903spark1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Source: sogou-ime-ng
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 183340
+Conflicts: com.sogou.ime.ng.uos.desktop, com.sogou.ime.ng.uos.tablet, sogou-ime-ng-license-single, sogou-ime-ng-uos-desktop, sogou-ime-ng-uos-tablet, sogou-ime-ng, sogou-ime-ng-cpis-dict-keyboard-chs-pcpy, sogou-ime-ng-cpis-dict-keyboard-chs-pcwb, sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen, sogou-ime-ng-cpis-dict-handwriting-chinese, cpis-base
+Replaces: com.sogou.ime.ng.uos.desktop, com.sogou.ime.ng.uos.tablet, sogou-ime-ng-license-single, sogou-ime-ng-uos-desktop, sogou-ime-ng-uos-tablet,sogou-ime-ng, sogou-ime-ng-cpis-dict-keyboard-chs-pcpy, sogou-ime-ng-cpis-dict-keyboard-chs-pcwb, sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen, sogou-ime-ng-cpis-dict-handwriting-chinese, cpis-base
+Filename: tools/com.sogou.ime.ng.fcitx5.deepin/com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb
+Size: 62898040
+MD5sum: def8203ab45b1fbe1d02e649d76dd8ac
+SHA1: a813f9d6cce6d00e8aa0973b95794b06b9f4ade7
+SHA256: 464ac980c77f6d52640a7346e4f4818dfdb8775dca7af3127b9808d376025fe9
+SHA512: 75076193bb3162e98e40228b1e906acbc19258484399710e62693c3c7125e6873d81ed1a739bbff2155b0ce7def19b3a15352543f0e1141ff45c6f9a50fd3090
+Homepage: https://www.taotics.com/
+Description: package com.sogou.ime.ng.fcitx5.uos.
+
 Package: podman-desktop-companion
 Architecture: amd64
 Version: 4.1.0-rc.28
@@ -13343,6 +13363,23 @@ SHA512: 7e2811b6e2bfa45187177fb2e389de34b0b32e60cb0e5425e564fe2a19d57afe035dab11
 Homepage: https://github.com/meowtec/Imagine
 Description: PNG/JPEG optimization app.
 
+Package: com.iseekanpro.deepin
+Architecture: all
+Version: 3.9.3.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 北京远图科技有限公司
+Installed-Size: 11998
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.iseekanpro.deepin/com.iseekanpro.deepin_3.9.3.0_all.deb
+Size: 12005024
+MD5sum: 5fb104ca1250aa3ad56a2cec510eeb5c
+SHA1: 0e1564853ceee9e4f4cfb112761e4575df41a46d
+SHA256: 51b3735b3061007c3c0c99b1e603d7a120cd8a2c1e70506f3708dd8d63f4aede
+SHA512: 2c751310bdc6ff1a40e772b3355adba3e2bd3f79eec828b05e44992c822def54d53303e853ac2ce7c4e1003d5996f996298bdeb554e4e39e98b9067a2bd4881e
+Description: .See图片专家照片处理速度快，诸多人像美容、照片修复等功能都可一键搞定。
+
 Package: rawtherapee
 Architecture: amd64
 Version: 5.8
@@ -13390,6 +13427,23 @@ SHA1: 99b281b56d247631db8a82e0bf28d6b539fdbcf4
 SHA256: fbd0711b9451cfdbabafcb498edbdb1586e8f11d49faa9ab60128491066c09b5
 SHA512: 3b61110e6d4289c8aa8d133c9b15eefcb8887f872977051e0645bf9fcbdb2e4e066cf1ee5596cb211785fd14dbc0deeb9db89226fcb163b3af289b7cffc737da
 Description: .主要功能：图片压缩，缩小图片尺寸，图片旋转，图片加文字或图片水印，调整亮度与对比度，图片去色，去除图片Exif信息(拍摄时间，相机型号信息)，CMYK转RGB等，全部支持批量处理。支持处理的图片格式：JPG, PNG, BMP, GIF(静态), PSD, TBI。
+
+Package: com.quicksee.deepin
+Architecture: all
+Version: 1.2121.1040.820
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 天津斐文网络科技有限公司
+Installed-Size: 7816
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.quicksee.deepin/com.quicksee.deepin_1.2121.1040.820_all.deb
+Size: 7822292
+MD5sum: bf8aca541db5c91f97af39270a9b67c3
+SHA1: cd90f07e17b1a73ef0fe1718023f8b0f10a90ae9
+SHA256: 8432e5a83fb4a5eccd313d6a49511ab34f5fb9802ce3d954e3dc6eb1eaec488a
+SHA512: dbc43eec9acd87d94f30a504cba15fee77c509c7a9950b33591c389731a669037070d6290539b269a8f5b50404f657ece8ccc73d8cba7d9779e5f56ee4b22bb6
+Description: .一款小巧好用的图片浏览器
 
 Package: com.vieas.deepin
 Architecture: all
@@ -24163,6 +24217,23 @@ Description: Master PDF Editor is the complete solution for viewing, printing an
  * Adding a digital signature and Signing PDF Documents. 
  * Changing font attributes (size, family, color etc).
 
+Package: com.seppdf.deepin
+Architecture: all
+Version: 3.5.2.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 1567
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/com.seppdf.deepin/com.seppdf.deepin_3.5.2.0_all.deb
+Size: 1573328
+MD5sum: e0b424dc3392533d08fa1c7d0744963d
+SHA1: ed1405d4c534903723b86ae88fe807e992759683
+SHA256: 97bbc206c2c17be3695015aff9e2ab1abbfccf0935d7fb418328abf9757b9f95
+SHA512: 8fe081274624b8bdc0a8064a30b2bc32112ecb35fe0ec706339800bcf1decdb42ddf76c066068e9b0dc581e57aae75e5da2e1e1ed3f28c45d4897449c9fd85b0
+Description: .SepPDF是一款PDF文件分割器软件，支持自定义页数切割。
+
 Package: wonderpen
 Architecture: amd64
 Version: 2.2.4
@@ -30864,6 +30935,23 @@ SHA256: 9bff5a51ae72f5fbbe7a1db2c83ade2cda295bd09e5bda5e9f90fb4ab900ac2c
 SHA512: 74971024dd56aa120bc9c0ab0bc31884021d69c20225eb634ab48349117d113215fd4ee530049494fa531145fdf1f305eaf014321c72ad8dfa7f217d942bd907
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+
+Package: com.gzdltgyx.earth.deepin
+Architecture: all
+Version: 1.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 良师多媒体工作室
+Installed-Size: 81813
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.gzdltgyx.earth.deepin/com.gzdltgyx.earth.deepin_1.0.0_all.deb
+Size: 81826732
+MD5sum: 5300819d2ba991abf7ec3a7dfe1f5ec5
+SHA1: 4675a4c60c66cbb0474eec6942c76e8b662f90da
+SHA256: 2e5ef8b8ef3a81bc53c9dea4dbc2fd77a98716614ba6e7d6bceee383b0b220d5
+SHA512: bd130010a3ac9e678c3d1171f0d01c64b40e2ef7e46d9dac3a05afc75d2392bd8f2691417c8c9187234be9318ffc658ed81b6d9a7bc053e90c87fb12c5f3a1d6
+Description: .高中地理通关游戏――宇宙中的地球将宇宙中的地球这一章的主干知识、重难点知识等内容以通关游戏的形式制作成了交互动画。本游戏总共包含10个小游戏，游戏的操作可分为拼图、判断和填空等方式。
 
 Package: nfs-browser
 Architecture: amd64

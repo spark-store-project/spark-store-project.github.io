@@ -439,23 +439,6 @@
 }
 ,
 {
-    "Name": "deepin IDE (深度IDE)",
-    "Version": "1.3.3-1",
-    "Filename": "deepin-unioncode_1.3.3-1_amd64.deb",
-    "Torrent_address": "deepin-unioncode_1.3.3-1_amd64.deb.torrent",
-    "Pkgname": "deepin-unioncode",
-    "Author": "Deepin Packages Builder <packages@linuxdeepin.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://www.deepin.org",
-    "Update": "2024-06-16 01:20:50",
-    "Size": "70.5 MB",
-    "More": "深度集成开发环境是由深度公司自主研发，具有多语言、跨平台兼容特性的轻量级集成开发环境。\n\n只支持deepin 20 23",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/f1cfbf0b4dc94e1da43d3e3824bf170a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/b048a7b1b38c4799868073e69f4004ac.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/f1df0a36bc784b73bdb25062169d398b.png"
-}
-,
-{
     "Name": "GoLand",
     "Version": "2024.1",
     "Filename": "jetbrains-goland_2024.1_all.deb",
@@ -470,6 +453,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/3a8cbdfddb1f44f988a7ed110308266d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab232604044f42948d274bc00ff3aa5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab01336670cc48fa9d7f6bea37e584ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/38bb3199b4b44a69a73ae0b4ad828d27.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/dd01ad51da544038b35930fb2a8c85e6.png"
+}
+,
+{
+    "Name": "deepin IDE (深度IDE)",
+    "Version": "1.3.3-1",
+    "Filename": "deepin-unioncode_1.3.3-1_amd64.deb",
+    "Torrent_address": "deepin-unioncode_1.3.3-1_amd64.deb.torrent",
+    "Pkgname": "deepin-unioncode",
+    "Author": "Deepin Packages Builder <packages@linuxdeepin.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://www.deepin.org",
+    "Update": "2024-06-16 01:20:50",
+    "Size": "70.5 MB",
+    "More": "深度集成开发环境是由深度公司自主研发，具有多语言、跨平台兼容特性的轻量级集成开发环境。\n\n只支持deepin 20 23",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/f1cfbf0b4dc94e1da43d3e3824bf170a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/b048a7b1b38c4799868073e69f4004ac.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/f1df0a36bc784b73bdb25062169d398b.png"
 }
 ,
 {
@@ -1772,6 +1772,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 21 Full",
+    "Version": "21.0.3+10",
+    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java21-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:09:43",
+    "Size": "281.55 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+,
+{
     "Name": "quardCRT",
     "Version": "0.47",
     "Filename": "quardcrt_0.47_amd64.deb",
@@ -1820,23 +1837,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/07/1c1f3b5289464592a20b32c10ae96361.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/07/3987f041f03a4c83b4624ebe1c3699a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/07/f2b0bc1c35fc430e946b1c8cd01689ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/07/67e947a5dfc0414e96ba9225a26a371b.png"
-}
-,
-{
-    "Name": "Liberica JDK 21 Full",
-    "Version": "21.0.3+10",
-    "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java21-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:09:43",
-    "Size": "281.55 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
 }
 ,
 {
@@ -1939,6 +1939,23 @@
 }
 ,
 {
+    "Name": "HeidiSQL(wine)",
+    "Version": "12.7.0.6850",
+    "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
+    "Torrent_address": "com.heidisql.spark_12.7.0.6850_i386.deb.torrent",
+    "Pkgname": "com.heidisql.spark",
+    "Author": "heidisql",
+    "Contributor": "ThinkYoung",
+    "Website": "https://www.heidisql.com/",
+    "Update": "2024-05-05 22:45:53",
+    "Size": "34.57 MB",
+    "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
+}
+,
+{
     "Name": "360易创API示例",
     "Version": "16.0.3",
     "Filename": "com.360.electron360-api-demos_16.0.3_amd64.deb",
@@ -2004,23 +2021,6 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
-}
-,
-{
-    "Name": "HeidiSQL(wine)",
-    "Version": "12.7.0.6850",
-    "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
-    "Torrent_address": "com.heidisql.spark_12.7.0.6850_i386.deb.torrent",
-    "Pkgname": "com.heidisql.spark",
-    "Author": "heidisql",
-    "Contributor": "ThinkYoung",
-    "Website": "https://www.heidisql.com/",
-    "Update": "2024-05-05 22:45:53",
-    "Size": "34.57 MB",
-    "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
 }
 ,
 {
@@ -2411,6 +2411,23 @@
 }
 ,
 {
+    "Name": "Mind+",
+    "Version": "202307011900",
+    "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
+    "Torrent_address": "com.dfrobot.mindplus_202307011900_amd64.deb.torrent",
+    "Pkgname": "com.dfrobot.mindplus",
+    "Author": "DFRobot <mindplus@dfrobot.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://mindplus.cc/",
+    "Update": "2024-06-22 20:45:08",
+    "Size": "674.81 MB",
+    "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
+}
+,
+{
     "Name": "myled",
     "Version": "2024.06.02",
     "Filename": "myled_2024.06.02_amd64.deb",
@@ -2442,23 +2459,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/d722996b-ee34-4f59-84c3-55186b7cd490.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
-}
-,
-{
-    "Name": "Mind+",
-    "Version": "202307011900",
-    "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
-    "Torrent_address": "com.dfrobot.mindplus_202307011900_amd64.deb.torrent",
-    "Pkgname": "com.dfrobot.mindplus",
-    "Author": "DFRobot <mindplus@dfrobot.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://mindplus.cc/",
-    "Update": "2024-06-22 20:45:08",
-    "Size": "674.81 MB",
-    "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
 }
 ,
 {
