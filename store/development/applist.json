@@ -944,19 +944,19 @@
 ,
 {
     "Name": "RedisViewer",
-    "Version": "2.4.4",
-    "Filename": "redisviewer_2.4.4_amd64.deb",
-    "Torrent_address": "redisviewer_2.4.4_amd64.deb.torrent",
+    "Version": "2.4.5",
+    "Filename": "redisviewer_2.4.5_amd64.deb",
+    "Torrent_address": "redisviewer_2.4.5_amd64.deb.torrent",
     "Pkgname": "redisviewer",
     "Author": "124410675@qq.com",
     "Contributor": "jun.shao <124410675@qq.com>",
-    "Website": "https://github.com/redisviewer",
-    "Update": "2024-05-31 11:46:46",
-    "Size": "75.53 MB",
+    "Website": "https://zhuanlan.zhihu.com/p/86337312",
+    "Update": "2024-07-02 16:19:24",
+    "Size": "76.18 MB",
     "More": "支持Java反序列化，追求极致性能（海量数据下低内存占用）、极简布局、高效交互、跨平台的redis可视化客户端工具.124410675@qq.com",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/638e4f5be0004059af4a962f6b6a9e70.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/acfcd1d3f69c4067b5f4e5beabdef236.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/541db7c647cf447890753599bbc8e0ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/e384a0c09ff341daaacdb5f0ca7bd4ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/1a3727a167cd40c49524dffe2e0a764d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/6804396d1fc346b5861542c8037a7607.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/7b3939c9def44e6c9e2a950d8f2fd85b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/5548623b612541d380d60be6c9ab1d72.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/06b31ca4f4114c5685ab589d25ae5f2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/c815fefc7ad34005a5f0451eb21d32d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/8a7d8d5a28a74e1c9fc6b79ae7336453.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d723df8965a54af6b0ba070b2fcdd6fd.png"
 }
 ,
 {
@@ -1756,6 +1756,23 @@
 }
 ,
 {
+    "Name": "quardCRT",
+    "Version": "0.47",
+    "Filename": "quardcrt_0.47_amd64.deb",
+    "Torrent_address": "quardcrt_0.47_amd64.deb.torrent",
+    "Pkgname": "quardcrt",
+    "Author": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
+    "Contributor": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
+    "Website": "https://github.com/QQxiaoming/quardCRT",
+    "Update": "2024-06-26 10:09:17",
+    "Size": "50.19 MB",
+    "More": "quardCRT一款多功能终端仿真/图形桌面软件，支持多种后端协议，无依赖跨平台使用，windows/linux/mac使用体验完全一致，支持多标签页和历史记录管理等传统终端软件功能，同时支持一些独具特色的细节功能。\n\n目前支持的终端协议\n\n- ssh\n- telnet (支持带websocket封装)\n- serial\n- loaclshell\n- rawsocket\n- windows:NamedPipe（linux/macos:unix domain socket）\n\n目前支持的图形桌面协议\n\n- vnc\n\n基本功能\n\n- 会话记录管理\n- 多标签页管理，标签页克隆，标签页拖拽排序\n- 双列分屏显示，标签页自由拖拽至分列\n- 终端样式配置（配色方案，字体）\n- HEX显示\n- 终端背景图片配置\n- 终端滚动行数设置\n- XYZmodem支持\n- 支持深色/浅色主题\n- UI支持多语言（简体中文/繁体中文/英语/日语/韩语/西班牙语/法语/俄语）\n\n特色功能 \n\n- 浮动窗口支持，可将标签页拖拽至浮动窗口\n- SSH2会话一键打开SFTP文件传输窗口\n- 本地终端工作目录书签\n- 自动化发送\n- 终端背景图片支持gif动画和视频\n- 终端关键词高亮匹配\n- 选中文本翻译功能\n- 路径匹配与一键直达\n- 工作路径直达\n\nV0.4.7版本说明：\n此更新包含功能和修复，可实现更流畅的工作流程。广播会话、标签颜色和改进的选择选项可提高您的效率。\n使用用户定义的光标颜色和信息丰富的工具提示享受自定义。此外，高级选项允许微调您的启动 shell。\n我们还解决了崩溃、上下文菜单放置和光标对齐问题。现在，文本粘贴在用户控制下更加可靠。\n体验更强大的 SSH 连接和改进的窗口管理。\n完整详细信息可在线获取。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/53b630acf10c4fca9b2beeedc94750ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/3e3d4c468a2e4c76896e2c0b1d8e6437.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/6cd562c5f1d348c0927027773c24f81c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/34045cd57ca044ea965d182ba5039bbd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/170585db45904e539989e95bc6c85e3a.png"
+}
+,
+{
     "Name": "CHINER元数建模",
     "Version": "3.5.4spark0",
     "Filename": "chiner.spark_3.5.4spark0_amd64.deb",
@@ -1786,23 +1803,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
-}
-,
-{
-    "Name": "quardCRT",
-    "Version": "0.47",
-    "Filename": "quardcrt_0.47_amd64.deb",
-    "Torrent_address": "quardcrt_0.47_amd64.deb.torrent",
-    "Pkgname": "quardcrt",
-    "Author": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
-    "Contributor": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
-    "Website": "https://github.com/QQxiaoming/quardCRT",
-    "Update": "2024-06-26 10:09:17",
-    "Size": "50.19 MB",
-    "More": "quardCRT一款多功能终端仿真/图形桌面软件，支持多种后端协议，无依赖跨平台使用，windows/linux/mac使用体验完全一致，支持多标签页和历史记录管理等传统终端软件功能，同时支持一些独具特色的细节功能。\n\n目前支持的终端协议\n\n- ssh\n- telnet (支持带websocket封装)\n- serial\n- loaclshell\n- rawsocket\n- windows:NamedPipe（linux/macos:unix domain socket）\n\n目前支持的图形桌面协议\n\n- vnc\n\n基本功能\n\n- 会话记录管理\n- 多标签页管理，标签页克隆，标签页拖拽排序\n- 双列分屏显示，标签页自由拖拽至分列\n- 终端样式配置（配色方案，字体）\n- HEX显示\n- 终端背景图片配置\n- 终端滚动行数设置\n- XYZmodem支持\n- 支持深色/浅色主题\n- UI支持多语言（简体中文/繁体中文/英语/日语/韩语/西班牙语/法语/俄语）\n\n特色功能 \n\n- 浮动窗口支持，可将标签页拖拽至浮动窗口\n- SSH2会话一键打开SFTP文件传输窗口\n- 本地终端工作目录书签\n- 自动化发送\n- 终端背景图片支持gif动画和视频\n- 终端关键词高亮匹配\n- 选中文本翻译功能\n- 路径匹配与一键直达\n- 工作路径直达\n\nV0.4.7版本说明：\n此更新包含功能和修复，可实现更流畅的工作流程。广播会话、标签颜色和改进的选择选项可提高您的效率。\n使用用户定义的光标颜色和信息丰富的工具提示享受自定义。此外，高级选项允许微调您的启动 shell。\n我们还解决了崩溃、上下文菜单放置和光标对齐问题。现在，文本粘贴在用户控制下更加可靠。\n体验更强大的 SSH 连接和改进的窗口管理。\n完整详细信息可在线获取。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/53b630acf10c4fca9b2beeedc94750ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/3e3d4c468a2e4c76896e2c0b1d8e6437.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/6cd562c5f1d348c0927027773c24f81c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/34045cd57ca044ea965d182ba5039bbd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/170585db45904e539989e95bc6c85e3a.png"
 }
 ,
 {
@@ -1922,6 +1922,23 @@
 }
 ,
 {
+    "Name": "多功能调试助手",
+    "Version": "1.0.1.5",
+    "Filename": "fire-tool_1.0.1.5_amd64.deb",
+    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
+    "Pkgname": "fire-tool",
+    "Author": "东莞野火科技有限公司",
+    "Contributor": "freeor",
+    "Website": "https://embedfire.com/",
+    "Update": "2024-05-21 10:56:06",
+    "Size": "17.28 MB",
+    "More": "串口、网络、pid等多功能调试助手",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
+}
+,
+{
     "Name": "Heynote",
     "Version": "1.7.0spark0",
     "Filename": "com.heynote.spark_1.7.0spark0_amd64.deb",
@@ -2004,23 +2021,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/17dab5b448eb4b12bef925b996a54d9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/608c7938c203468487a8cd6b730a2234.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/eb2a4b6534cb4db68c35da00efb9611e.png"
-}
-,
-{
-    "Name": "多功能调试助手",
-    "Version": "1.0.1.5",
-    "Filename": "fire-tool_1.0.1.5_amd64.deb",
-    "Torrent_address": "fire-tool_1.0.1.5_amd64.deb.torrent",
-    "Pkgname": "fire-tool",
-    "Author": "东莞野火科技有限公司",
-    "Contributor": "freeor",
-    "Website": "https://embedfire.com/",
-    "Update": "2024-05-21 10:56:06",
-    "Size": "17.28 MB",
-    "More": "串口、网络、pid等多功能调试助手",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
 }
 ,
 {

@@ -7461,6 +7461,23 @@ Description: fast, lightweight graphical web browser
   * Support for extensions (written in C).
   * Custom context menu actions.
 
+Package: com.gzdltgyx.earth.deepin
+Architecture: all
+Version: 1.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 良师多媒体工作室
+Installed-Size: 81813
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.gzdltgyx.earth.deepin/com.gzdltgyx.earth.deepin_1.0.0_all.deb
+Size: 81823612
+MD5sum: 09b1cd7e2f2e1767c2fc76f78b117600
+SHA1: 24c973282f156926175163b72b5bd251d2eec23a
+SHA256: b48a08cd5f0b57e13ee88776c1b12999b55740883948f5be0c1b5a219e8f6fe9
+SHA512: 62fb9e99ea48c7d783c11ec4c9f27c08fbb84ba08f3723772bb36ef80586948f776eb0a9ca2862d1cce50a347e8c6d66f10f7b919eb1b06707ca3122b0ebec7e
+Description: .高中地理通关游戏――宇宙中的地球将宇宙中的地球这一章的主干知识、重难点知识等内容以通关游戏的形式制作成了交互动画。本游戏总共包含10个小游戏，游戏的操作可分为拼图、判断和填空等方式。
+
 Package: firefox-spark
 Architecture: arm64
 Version: 127.0.2+build1-0ubuntu0.22.04.1~mt1
