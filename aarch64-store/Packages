@@ -4987,23 +4987,6 @@ SHA512: b915cbb2d1000d226a7ba9009ed0b52df040c99c5c9e63a9931e8d099a92d310748d6987
 Homepage: https://github.com/sdlpal/sdlpal
 Description: 仙剑奇侠传的sdl开源移植版，由SDLPAL项目组维护
 
-Package: com.steampowered.steam
-Architecture: all
-Version: 1.0
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: shenmo<shenmo@spark-app.store>
-Installed-Size: 246209
-Depends: spark-wine9, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/com.steampowered.steam/com.steampowered.steam_1.0_all.deb
-Size: 246226636
-MD5sum: 5cb9064f05a3285b3ed5a607b7c8d734
-SHA1: c209cd122e3c53269dc92e6f5d3a17face9a9e0b
-SHA256: 97f0b561f6f1627accc0b118ed1b1cb31ac70a82c59701a857ddd8254718ac0a
-SHA512: 8f02afcf4effedee815574e32e10aeb91ff2f0d2d3a8c887a2fe1f04fee1b6e869b3a5bff52609f864ca4d6c850f4744db05838c48c47403ca45a755914a9528
-Description: com.steampowered.steam
-
 Package: ltmx.doushouqi.linux
 Architecture: arm64
 Version: 1.0.0
@@ -7346,6 +7329,40 @@ Description: 远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端
  .
  The machines to turn on need to be shut off with the Wake on LAN magic packet
  enabled.
+
+Package: com.ode.deepin
+Architecture: all
+Version: 0.8.3
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 70368
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.ode.deepin/com.ode.deepin_0.8.3_all.deb
+Size: 70379624
+MD5sum: 2456dffe894649a69bc161463fef0ca6
+SHA1: cdfafcd8f80da9f94384394aebe2c8289a3c658f
+SHA256: 6fc0b9ef567f0f8099fb4879d650dd9f678a4bccfff146700fa56b416a91c45a
+SHA512: 94944e3c798d9a0fdcdf6991a5a1ce17c84eb5db11e32a97afdc78d30869f37c1f035c852ee9b30040e3cf1473cef1ceada525efab76a0bffd8f443efcc8ef63
+Description: .其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。
+
+Package: com.ode.deepin
+Architecture: all
+Version: 0.8.4
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 139721
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.ode.deepin/com.ode.deepin_0.8.4_all.deb
+Size: 139739144
+MD5sum: f67929122cbaee3b8f575a6516c63be9
+SHA1: 145e7502fafe13a8c6bb156b85d3f3d156b63cc4
+SHA256: c0748879cba861a10269d44dcbde66bc3caf8ab27f57e6ea906940ba23d324d9
+SHA512: 06a6b8cfff8911016cb2dba3a6e84e94b98f3a2e3e6185695371e11520990205d1243409521375ac68070607f7bd1e84a433a2b83de33e3352f279e180fbdc13
+Description: .这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。
 
 Package: xbyyunpan
 Architecture: arm64

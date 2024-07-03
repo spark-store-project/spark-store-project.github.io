@@ -30689,6 +30689,23 @@ SHA256: 6fc0b9ef567f0f8099fb4879d650dd9f678a4bccfff146700fa56b416a91c45a
 SHA512: 94944e3c798d9a0fdcdf6991a5a1ce17c84eb5db11e32a97afdc78d30869f37c1f035c852ee9b30040e3cf1473cef1ceada525efab76a0bffd8f443efcc8ef63
 Description: .其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。
 
+Package: com.ode.deepin
+Architecture: all
+Version: 0.8.4
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 139721
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: network/com.ode.deepin/com.ode.deepin_0.8.4_all.deb
+Size: 139739144
+MD5sum: f67929122cbaee3b8f575a6516c63be9
+SHA1: 145e7502fafe13a8c6bb156b85d3f3d156b63cc4
+SHA256: c0748879cba861a10269d44dcbde66bc3caf8ab27f57e6ea906940ba23d324d9
+SHA512: 06a6b8cfff8911016cb2dba3a6e84e94b98f3a2e3e6185695371e11520990205d1243409521375ac68070607f7bd1e84a433a2b83de33e3352f279e180fbdc13
+Description: .这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。
+
 Package: yolx
 Architecture: amd64
 Version: 0.3.8+1

@@ -478,22 +478,6 @@
 }
 ,
 {
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
-}
-,
-{
     "Name": "rdp远程桌面连接工具",
     "Version": "1.2.0-1",
     "Filename": "spark-simple-remote-desktop-accessor_1.2.0-1_amd64.deb",
@@ -508,6 +492,22 @@
     "Tags": "community;ubuntu;deepin;uos;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0b9d2a60-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bb60990-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bbe1fe0-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bdaf6b0-dee1-11ec-9a20-d5abed6e3fbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/29/0bcc77c0-dee1-11ec-9a20-d5abed6e3fbc.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/29/026f01c0-dee1-11ec-9a20-d5abed6e3fbc.png"
+}
+,
+{
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
 }
 ,
 {
@@ -1349,23 +1349,6 @@
 }
 ,
 {
-    "Name": "局域网文件分享服务器",
-    "Version": "1.0.0-deepin20.08",
-    "Filename": "fynelanshare_1.0.0-deepin20.08_amd64.deb",
-    "Torrent_address": "fynelanshare_1.0.0-deepin20.08_amd64.deb.torrent",
-    "Pkgname": "fynelanshare",
-    "Author": "fu huizhong <fuhuizn@163.com>",
-    "Contributor": "rocket049 <fuhuizn@163.com>",
-    "Website": "https://gitee.com/rocket049/fyne-lan-share",
-    "Update": "2023-04-26 14:49:48",
-    "Size": "11.76 MB",
-    "More": "这个程序用于解决局域网中的几台电脑、手机之间互相传送文件问题。这是 fileserver 程序的 fyne GUI 版本。运行后会显示访问 URL ，输入浏览器就可以下载上传。同时也会显示一个二维码，可以用手机扫描二维码访问电脑。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/26/d4cc8e583cf34849914dbc8fd03fc025.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/26/391c20e0e11f4ecf906b512e859dba44.png"
-}
-,
-{
     "Name": "Internet Download Manager（IDM）（Wine）",
     "Version": "6.42",
     "Filename": "com.idm.spark_6.42_all.deb",
@@ -1380,6 +1363,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
+}
+,
+{
+    "Name": "局域网文件分享服务器",
+    "Version": "1.0.0-deepin20.08",
+    "Filename": "fynelanshare_1.0.0-deepin20.08_amd64.deb",
+    "Torrent_address": "fynelanshare_1.0.0-deepin20.08_amd64.deb.torrent",
+    "Pkgname": "fynelanshare",
+    "Author": "fu huizhong <fuhuizn@163.com>",
+    "Contributor": "rocket049 <fuhuizn@163.com>",
+    "Website": "https://gitee.com/rocket049/fyne-lan-share",
+    "Update": "2023-04-26 14:49:48",
+    "Size": "11.76 MB",
+    "More": "这个程序用于解决局域网中的几台电脑、手机之间互相传送文件问题。这是 fileserver 程序的 fyne GUI 版本。运行后会显示访问 URL ，输入浏览器就可以下载上传。同时也会显示一个二维码，可以用手机扫描二维码访问电脑。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/26/d4cc8e583cf34849914dbc8fd03fc025.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/26/391c20e0e11f4ecf906b512e859dba44.png"
 }
 ,
 {
@@ -2498,19 +2498,19 @@
 ,
 {
     "Name": "ODE 多功能助手",
-    "Version": "0.8.3",
-    "Filename": "com.ode.deepin_0.8.3_all.deb",
-    "Torrent_address": "com.ode.deepin_0.8.3_all.deb.torrent",
+    "Version": "0.8.4",
+    "Filename": "com.ode.deepin_0.8.4_all.deb",
+    "Torrent_address": "com.ode.deepin_0.8.4_all.deb.torrent",
     "Pkgname": "com.ode.deepin",
-    "Author": "wang",
+    "Author": "爱蚂蚁爱生活",
     "Contributor": "wang",
     "Website": "https://www.123pan.com/s/qEbeVv-Zh663.html",
-    "Update": "2024-06-21 22:02:10",
-    "Size": "67.12 MB",
+    "Update": "2024-07-02 21:36:14",
+    "Size": "133.27 MB",
     "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。如遇启动白板请重启电脑。",
     "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/0f25bed889654d0793a2cbebbf725dc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/3cb9e747fef64f518e321ee43c870958.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/ee88a4fa32a544a88710667fe7e304d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/0ce395e9ed424069b5bc9361aa422e49.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/21/a72139c745d64d0b83054a9a6500db2f.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/7d012eaeba6247af9d9e0999a0369d37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/4b214f0678d544899809a9717a63a6c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/836ab7bb99e1414ca922d36f1824da3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/133f0f1694564e44882b6cce183d3c14.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/10abec1efc3945a1b635671fdeb6bd8b.png"
 }
 ,
 {

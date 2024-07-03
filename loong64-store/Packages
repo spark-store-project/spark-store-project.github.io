@@ -6212,23 +6212,6 @@ SHA256: 72196dfa56ac0782ce9101ebffe55547cee4174f36a813f46c02a1203a9fb848
 SHA512: b6c28e583dd816623cbf2d9eb5d9999300b11f754245a683e4a58790f1b3de61d58c13d05739638b4c9e4435b5124153df807099ec12bada011bc18312886caf
 Description: 蜘蛛纸牌 By Spark Wine 8 Stable And Build By Wine Runner Easy Packager
 
-Package: com.steampowered.steam
-Architecture: all
-Version: 1.0
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: shenmo<shenmo@spark-app.store>
-Installed-Size: 246209
-Depends: spark-wine9, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/com.steampowered.steam/com.steampowered.steam_1.0_all.deb
-Size: 246226636
-MD5sum: 5cb9064f05a3285b3ed5a607b7c8d734
-SHA1: c209cd122e3c53269dc92e6f5d3a17face9a9e0b
-SHA256: 97f0b561f6f1627accc0b118ed1b1cb31ac70a82c59701a857ddd8254718ac0a
-SHA512: 8f02afcf4effedee815574e32e10aeb91ff2f0d2d3a8c887a2fe1f04fee1b6e869b3a5bff52609f864ca4d6c850f4744db05838c48c47403ca45a755914a9528
-Description: com.steampowered.steam
-
 Package: com.rovio.badpiggies.dcs
 Architecture: all
 Version: 1.1.1
