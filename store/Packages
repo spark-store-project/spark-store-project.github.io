@@ -24309,6 +24309,26 @@ Description: #一个微信排版编辑器，使用 MDX，更是一个跨平台 M
 
 Package: bssenglish
 Architecture: all
+Version: 2.1.4
+Priority: optional
+Maintainer: Bail<2915289604@qq.com>
+Installed-Size: 106.2KB
+Provides: Office
+Pre-Depends:
+Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
+Recommends:
+Conflicts: com.Bail.bssenglish
+Replaces:
+Filename: office/bssenglish/bssenglish_2.1.4_all.deb
+Size: 28772
+MD5sum: d623107efdcebee99724c9950d37d922
+SHA1: 9c0e14b29c5b15205af38c86cf2f3dece1bee949
+SHA256: 42ca36e7988dcbbed3244e7db412df9e1762d7264f77073045aba12d8db32ba2
+SHA512: ad303ddfb90b881f4498b405b01bce7fe020f242b6cd1303ff9e108e2626a9c62f0989369f68bb98d986a8d30e47aa6b5aab4144389facdb54ef1e075ce1c73f
+Description: 帮助你更快速、更牢固地记忆单词
+
+Package: bssenglish
+Architecture: all
 Version: 2.1.3
 Priority: optional
 Maintainer: Bail<2915289604@qq.com>
@@ -36396,21 +36416,21 @@ License: AGPL-3.0
 Vendor: The Icalingua++ Authors <Icalinguaplusplus@protonmail.com>
 
 Package: com.qq.weixin.work.deepin
-Architecture: all
-Version: 4.1.16.6007spark2
+Architecture: amd64
+Version: 4.1.10.6007spark2.1
 Multi-Arch: foreign
 Priority: optional
 Section: non-free/otherosfs
 Maintainer: Deepin WINE Team
-Installed-Size: 568745
-Depends: mejituu-wine8 , spark-dwine-helper, fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
-Filename: chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.16.6007spark2_all.deb
-Size: 568980664
-MD5sum: fcd7c9c6ca283a904f9738523d5b0a55
-SHA1: 43fe0a04e9d9ef8d6052d049808bc8377ea31dc5
-SHA256: 5f926843f8d3bb6912b7b0b3881da88de6a7413c11635ceb0875c5eb7e23f0f7
-SHA512: e8d4ef8fdb5e60caa2440430df35a3a333f388e493127339ac381f0872b80e300c46c075fd9b4e9849438c324c9ae5e96b99678c660bb590cd3a7e3044480cd8
-Description: Tencent WXWork Client on Deepin Wine
+Installed-Size: 560810
+Depends: deepin-wine6-stable (>= 6.0.0.67),  spark-dwine-helper (>= 5.3.8-1),  fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.10.6007spark2.1_amd64.deb
+Size: 553064448
+MD5sum: 77a66fb48c36ce3904d5f610cc59c5a4
+SHA1: 619e302558b1525d368575db2013975fa5420232
+SHA256: 78b434ef576bdade1a4e1b0044a60b621194f29da7f74c7dd39815c1b8d878eb
+SHA512: a33490e7bd0c5b07b96ebee0f04b80911b4d0b61c9f07126c46f224f647f6317a5c18d10337b2fd24b0dbc792ce43113b31ac955188e4e147bb84bec42b80d0c
+Description: Tencent WXWork Client on Deepin Wine6
 
 Package: ferdium
 Architecture: amd64

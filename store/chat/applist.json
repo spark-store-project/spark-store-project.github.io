@@ -193,15 +193,15 @@
 {
     "Author": "Deepin WINE Team",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.qq.weixin.work.deepin_4.1.16.6007spark2_all.deb",
+    "Filename": "com.qq.weixin.work.deepin_4.1.10.6007spark2.1_amd64.deb",
     "More": "从deepin应用商店拉取的wine企业微信，使用星火kit重新打包",
     "Name": "企业微信（Wine）",
     "Pkgname": "com.qq.weixin.work.deepin",
-    "Size": "568 Mb",
+    "Size": "553 Mb",
     "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.qq.weixin.work.deepin_4.1.16.6007spark2_all.deb.torrent",
-    "Update": "2024-06-30 18:49:42",
-    "Version": "4.1.16.6007spark2",
+    "Torrent_address": "com.qq.weixin.work.deepin_4.1.10.6007spark2.1_amd64.deb.torrent",
+    "Update": "2024-07-04 00:53:44",
+    "Version": "4.1.10.6007spark2.1",
     "Website": "https://work.weixin.qq.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/chat/com.qq.weixin.work.deepin/screen_2.png\"]"
@@ -378,23 +378,6 @@
 }
 ,
 {
-    "Name": "雷鸟邮件",
-    "Version": "108.3~latest1",
-    "Filename": "thunderbird.spark_108.3~latest1_amd64.deb",
-    "Torrent_address": "thunderbird.spark_108.3~latest1_amd64.deb.torrent",
-    "Pkgname": "thunderbird.spark",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.thunderbird.net",
-    "Update": "2023-02-15 11:04:54",
-    "Size": "2.55 KB",
-    "More": "Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端\n\n补全依赖，添加推荐birdtray",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/910189204f4d4332abc765ad0d8a9b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/a6594f87ac2e429b9cf76d3906a498cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/d6411f3596b04173ab3132528ba7a2d2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/15/3dadb2e4d54d45f8bb550760b391f644.png"
-}
-,
-{
     "Name": "Linux QQ 精简版",
     "Version": "2.0.0-b2",
     "Filename": "linuxqq-2.0.0-b2_2.0.0-b2_amd64.deb",
@@ -409,6 +392,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/f5474de789d74f1bb712f53a79d065fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/0e9de799663149f3a8af1217e88d3c48.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/4e9be618fc7746e4b6029f364b565dda.png"
+}
+,
+{
+    "Name": "雷鸟邮件",
+    "Version": "108.3~latest1",
+    "Filename": "thunderbird.spark_108.3~latest1_amd64.deb",
+    "Torrent_address": "thunderbird.spark_108.3~latest1_amd64.deb.torrent",
+    "Pkgname": "thunderbird.spark",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.thunderbird.net",
+    "Update": "2023-02-15 11:04:54",
+    "Size": "2.55 KB",
+    "More": "Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端\n\n补全依赖，添加推荐birdtray",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/910189204f4d4332abc765ad0d8a9b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/a6594f87ac2e429b9cf76d3906a498cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/15/d6411f3596b04173ab3132528ba7a2d2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/15/3dadb2e4d54d45f8bb550760b391f644.png"
 }
 ,
 {

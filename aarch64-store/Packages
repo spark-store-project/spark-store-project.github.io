@@ -5731,6 +5731,26 @@ Description: 好分数
 
 Package: bssenglish
 Architecture: all
+Version: 2.1.4
+Priority: optional
+Maintainer: Bail<2915289604@qq.com>
+Installed-Size: 106.2KB
+Provides: Office
+Pre-Depends:
+Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
+Recommends:
+Conflicts: com.Bail.bssenglish
+Replaces:
+Filename: office/bssenglish/bssenglish_2.1.4_all.deb
+Size: 28772
+MD5sum: 05687996d12e47d9e72bf2b72f6bb473
+SHA1: 4589892b58e7f742a39b2018f5695415342744e2
+SHA256: e99d0ab378f6d8899158b364e518fff18af1c8687a7a852154bde07066efebe2
+SHA512: b896546db486c0f0a278af1e44d5fc2039ac24c828374562b7e6859865905a81d77a65f40cce7e42cba8b4120bc28849420a370574b1810df973ef346bc9b633
+Description: 帮助你更快速、更牢固地记忆单词
+
+Package: bssenglish
+Architecture: all
 Version: 2.1.3
 Priority: optional
 Maintainer: Bail<2915289604@qq.com>
