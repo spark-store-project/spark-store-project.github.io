@@ -5749,26 +5749,6 @@ SHA256: e99d0ab378f6d8899158b364e518fff18af1c8687a7a852154bde07066efebe2
 SHA512: b896546db486c0f0a278af1e44d5fc2039ac24c828374562b7e6859865905a81d77a65f40cce7e42cba8b4120bc28849420a370574b1810df973ef346bc9b633
 Description: 帮助你更快速、更牢固地记忆单词
 
-Package: bssenglish
-Architecture: all
-Version: 2.1.3
-Priority: optional
-Maintainer: Bail<2915289604@qq.com>
-Installed-Size: 106.5KB
-Provides: Office
-Pre-Depends:
-Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
-Recommends:
-Conflicts: com.Bail.bssenglish
-Replaces:
-Filename: office/bssenglish/bssenglish_2.1.3_all.deb
-Size: 28744
-MD5sum: 489f0801faade5ef880cdf5aa41899bf
-SHA1: 60e42347a24c70bda827467064a92e19d749dd46
-SHA256: ece1026aa2c474cac2bcbfdffd685781fc3b55c5d6ed3929acd15a55ff53cc1c
-SHA512: 61e4f2f544b8e00bd06b7446dc5ab5c494da338f1788dd5009f6e58c6e37f788a0ff7643788439d524d93d3019e71ea695d96c79d848a79058e2ccd91f3a0f18
-Description: 帮助你更快速、更牢固地记忆单词
-
 Package: org.libreoffice.libreoffice
 Architecture: arm64
 Version: 7.6.4.1+szbt4
@@ -7101,21 +7081,21 @@ Description: xunlei download xunlei download p2p
 
 Package: tailscale
 Architecture: arm64
-Version: 1.68.1
+Version: 1.68.2
 Priority: extra
 Section: net
 Maintainer: Tailscale Inc <info@tailscale.com>
-Installed-Size: 47555
+Installed-Size: 47621
 Depends: iptables
 Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
 Conflicts: tailscale-relay
 Replaces: tailscale-relay
-Filename: network/tailscale/tailscale_1.68.1_arm64.deb
-Size: 25849742
-MD5sum: c672a29ffa5b7b1a55ed45a82afbbb92
-SHA1: 4f3e9c9f189e6a665868bf65e25c302af2afeae8
-SHA256: fd6f56f6391dc768f8037579e6475f76579b124ca158b36b22860af6195cdfd0
-SHA512: 1c11d4518c255f74ea2c32f2b6cc8031f5b12d95daa6c3ed3ca6fbe064fcba1761f790bbae856afb1e85ffd5669f13fba7c79dc8cb2b49550a2d6202e2d34cc9
+Filename: network/tailscale/tailscale_1.68.2_arm64.deb
+Size: 25854228
+MD5sum: ff49d75f3e0c419cdd0489da40fc8cae
+SHA1: 528ecc0b91e7f75bdd38ef10b7bcea6e4fc27258
+SHA256: 635ba2ece07d8e5b1fd70201719f2f5e2bc7dc957f3115648a8c272899b4bc0e
+SHA512: 31b12a5f32651d2c60c7e7de966ae0f0e8551026384c2453f45ea48cda3a12dca3aa9d98ad47c386527b86045996cbcf99d7a7fae8650905a64001f9f2abc629
 Homepage: https://www.tailscale.com
 Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 
@@ -7349,23 +7329,6 @@ Description: 远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端
  .
  The machines to turn on need to be shut off with the Wake on LAN magic packet
  enabled.
-
-Package: com.ode.deepin
-Architecture: all
-Version: 0.8.3
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: wang
-Installed-Size: 70368
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: network/com.ode.deepin/com.ode.deepin_0.8.3_all.deb
-Size: 70379624
-MD5sum: 2456dffe894649a69bc161463fef0ca6
-SHA1: cdfafcd8f80da9f94384394aebe2c8289a3c658f
-SHA256: 6fc0b9ef567f0f8099fb4879d650dd9f678a4bccfff146700fa56b416a91c45a
-SHA512: 94944e3c798d9a0fdcdf6991a5a1ce17c84eb5db11e32a97afdc78d30869f37c1f035c852ee9b30040e3cf1473cef1ceada525efab76a0bffd8f443efcc8ef63
-Description: .其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。
 
 Package: com.ode.deepin
 Architecture: all

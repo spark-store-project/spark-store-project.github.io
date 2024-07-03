@@ -24327,26 +24327,6 @@ SHA256: 42ca36e7988dcbbed3244e7db412df9e1762d7264f77073045aba12d8db32ba2
 SHA512: ad303ddfb90b881f4498b405b01bce7fe020f242b6cd1303ff9e108e2626a9c62f0989369f68bb98d986a8d30e47aa6b5aab4144389facdb54ef1e075ce1c73f
 Description: 帮助你更快速、更牢固地记忆单词
 
-Package: bssenglish
-Architecture: all
-Version: 2.1.3
-Priority: optional
-Maintainer: Bail<2915289604@qq.com>
-Installed-Size: 106.5KB
-Provides: Office
-Pre-Depends:
-Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
-Recommends:
-Conflicts: com.Bail.bssenglish
-Replaces:
-Filename: office/bssenglish/bssenglish_2.1.3_all.deb
-Size: 28752
-MD5sum: c6c666ed2a1954539d1775945083268c
-SHA1: 3dea7085d7250db80a03eb763a636e2a73308c27
-SHA256: 37a74f30af509baf7eb1f9302290799e2ca42631a987da6a1f183b50a8245534
-SHA512: 5eea3c3775549d338ab2fe69ce0fd4def6ed26d4cf1f1686bada652a3fdd68056ff946c4829bef403c4aea254428783e6122700e2cd3dc2a0f5cc44f203315c8
-Description: 帮助你更快速、更牢固地记忆单词
-
 Package: xyz.epolestar.93.spark
 Architecture: amd64
 Version: 9.3spark0
@@ -29959,21 +29939,21 @@ Description: The web browser from Microsoft
 
 Package: tailscale
 Architecture: amd64
-Version: 1.68.1
+Version: 1.68.2
 Priority: extra
 Section: net
 Maintainer: Tailscale Inc <info@tailscale.com>
-Installed-Size: 49540
+Installed-Size: 49539
 Depends: iptables
 Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
 Conflicts: tailscale-relay
 Replaces: tailscale-relay
-Filename: network/tailscale/tailscale_1.68.1_amd64.deb
-Size: 27418958
-MD5sum: 2857f9127290f78edbcd99bd6a4b94c7
-SHA1: 014d7eac81b243ff33af8bee16826107494abc3f
-SHA256: 21e0b34b171908c2943594f82f442d673fdd2b2043e51791bbc9bdd8079d28f9
-SHA512: 0ab22bc9e43496c33222b2a8904f1e1c541192929ebae8b16e6aafab6a979989365c273249a2efb19c88252ea7029241031d54c618c1998b52afc7ab5385773a
+Filename: network/tailscale/tailscale_1.68.2_amd64.deb
+Size: 27413882
+MD5sum: 05f7fce332220040f5c674aa61cb8990
+SHA1: 192ec1f2ef1b4c3b9886c4016ce0fccb322c9fe0
+SHA256: 967f8022cd92907abb4f73d137ce6a72ca323655f14f56d14c0942948e3363d0
+SHA512: ec1508895e4b666319d8c38c5171528df181e35f0b0df30f099505a2c234af451030bfaf1dc026cace49548ecb4a94758ecab69aa64c68565309c70cfd57c5b0
 Homepage: https://www.tailscale.com
 Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 
@@ -30691,23 +30671,6 @@ SHA1: c38debb348e1b543aa931877afbc4a039a3ca82b
 SHA256: 4e5b5e351b882da81b0d9da55b2954714c97bb3e0b6712b51fd4f19030769aba
 SHA512: 5ba8dce10b4a0a8bcd44dd3047aa270a0d6df4a7203bfedde1150860a9aec20ee5799b3c2391a81f03e700b6149ec2e095757457126f1dcc5b2bb6795d7b80a4
 Description: 一个功能强大的开源（免费）电子邮件客户端和互联网套件
-
-Package: com.ode.deepin
-Architecture: all
-Version: 0.8.3
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: wang
-Installed-Size: 70368
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: network/com.ode.deepin/com.ode.deepin_0.8.3_all.deb
-Size: 70379624
-MD5sum: 2456dffe894649a69bc161463fef0ca6
-SHA1: cdfafcd8f80da9f94384394aebe2c8289a3c658f
-SHA256: 6fc0b9ef567f0f8099fb4879d650dd9f678a4bccfff146700fa56b416a91c45a
-SHA512: 94944e3c798d9a0fdcdf6991a5a1ce17c84eb5db11e32a97afdc78d30869f37c1f035c852ee9b30040e3cf1473cef1ceada525efab76a0bffd8f443efcc8ef63
-Description: .其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。
 
 Package: com.ode.deepin
 Architecture: all
