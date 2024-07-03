@@ -1240,6 +1240,20 @@
 }
 ,
 {
+   "Name":"Figma",
+   "Version":"0.6.2",
+   "Filename":"figma-linux_0.6.2_amd64.deb",
+   "Pkgname":"figma-linux",
+   "Author":"Figma-Linux",
+   "Contributor":"zty199",
+   "Website":"https://github.com/Figma-Linux/figma-linux",
+   "Update":"2020-07-22 22:52",
+   "Size":"67.72MB",
+   "More":"Figma是一款基于浏览器的界面设计工具，方便团队进行软件开发。"
+}
+
+,
+{
     "Name": "Geany",
     "Version": "1.38-1",
     "Filename": "geany_1.38-1_amd64.deb",
@@ -1255,20 +1269,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
 }
-,
-{
-   "Name":"Figma",
-   "Version":"0.6.2",
-   "Filename":"figma-linux_0.6.2_amd64.deb",
-   "Pkgname":"figma-linux",
-   "Author":"Figma-Linux",
-   "Contributor":"zty199",
-   "Website":"https://github.com/Figma-Linux/figma-linux",
-   "Update":"2020-07-22 22:52",
-   "Size":"67.72MB",
-   "More":"Figma是一款基于浏览器的界面设计工具，方便团队进行软件开发。"
-}
-
 ,
 {
     "Name": "Beekeeper Studio",
@@ -1471,23 +1471,6 @@
 }
 ,
 {
-    "Name": "阿里云 OSS Browser",
-    "Version": "1.18.0",
-    "Filename": "aliyun-oss-browser_1.18.0_amd64.deb",
-    "Torrent_address": "aliyun-oss-browser_1.18.0_amd64.deb.torrent",
-    "Pkgname": "aliyun-oss-browser",
-    "Author": "阿里云",
-    "Contributor": "LuijpCN",
-    "Website": "https://github.com/aliyun/oss-browser",
-    "Update": "2024-04-10 16:38:27",
-    "Size": "41.41 MB",
-    "More": "OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/527e90fcdb554436bdaab80f0570cea1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/173bae9edd0a4d23a9659b6a8f1fb089.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/7040b3068c994dce8fc71ec9e9246908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a5e343b744d54d15a880954d1cd3ebfe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d659fed789c34902b952c8b40ff2753f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/230ac02c87634ee793bbd0aa7c53a108.png"
-}
-,
-{
     "Name": "CCompare",
     "Version": "1.16.1.0",
     "Filename": "cn.itdp.ccompare_1.16.1.0_amd64.deb",
@@ -1502,6 +1485,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/825831840baa429698c182b53c9937af.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/2288b23228ad461c928ab3e3f119c7b7.png"
+}
+,
+{
+    "Name": "阿里云 OSS Browser",
+    "Version": "1.18.0",
+    "Filename": "aliyun-oss-browser_1.18.0_amd64.deb",
+    "Torrent_address": "aliyun-oss-browser_1.18.0_amd64.deb.torrent",
+    "Pkgname": "aliyun-oss-browser",
+    "Author": "阿里云",
+    "Contributor": "LuijpCN",
+    "Website": "https://github.com/aliyun/oss-browser",
+    "Update": "2024-04-10 16:38:27",
+    "Size": "41.41 MB",
+    "More": "OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/527e90fcdb554436bdaab80f0570cea1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/173bae9edd0a4d23a9659b6a8f1fb089.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/7040b3068c994dce8fc71ec9e9246908.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a5e343b744d54d15a880954d1cd3ebfe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d659fed789c34902b952c8b40ff2753f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/230ac02c87634ee793bbd0aa7c53a108.png"
 }
 ,
 {
@@ -1605,6 +1605,23 @@
 }
 ,
 {
+    "Name": "VSCode 历史项目信息分析器",
+    "Version": "0.0.4-20230828",
+    "Filename": "vscode-history-analyzer_0.0.4-20230828_amd64.deb",
+    "Torrent_address": "vscode-history-analyzer_0.0.4-20230828_amd64.deb.torrent",
+    "Pkgname": "vscode-history-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
+    "Update": "2023-08-28 11:40:33",
+    "Size": "132.97 KB",
+    "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
+}
+,
+{
     "Name": "VOFA+",
     "Version": "1.3.10",
     "Filename": "vofa_plus_1.3.10_amd64.deb",
@@ -1636,23 +1653,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/13/6d583866228c4d6e9f24e498db541685.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/13/eac9e657419d45dcac4b842ee40d054f.png"
-}
-,
-{
-    "Name": "VSCode 历史项目信息分析器",
-    "Version": "0.0.4-20230828",
-    "Filename": "vscode-history-analyzer_0.0.4-20230828_amd64.deb",
-    "Torrent_address": "vscode-history-analyzer_0.0.4-20230828_amd64.deb.torrent",
-    "Pkgname": "vscode-history-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
-    "Update": "2023-08-28 11:40:33",
-    "Size": "132.97 KB",
-    "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/8ff47a9e591f450e8d0469def4ed2842.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/ba6abb843e80465ca412ef8b9c952fe9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/d2a52ead196b4644bd0c292098d5135d.png"
 }
 ,
 {
@@ -1689,23 +1689,6 @@
 }
 ,
 {
-    "Name": "Fritzing",
-    "Version": "0.9.10",
-    "Filename": "org.fritzing_0.9.10_amd64.deb",
-    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
-    "Pkgname": "org.fritzing",
-    "Author": "Fritzing",
-    "Contributor": "秦以南",
-    "Website": "https://fritzing.org/releases",
-    "Update": "2022-08-04 10:37:21",
-    "Size": "66.39 MB",
-    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
-    "Tags": "a2d;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
-}
-,
-{
     "Name": "turbowarp",
     "Version": "1.11.0~beta.6",
     "Filename": "turbowarp-desktop_1.11.0~beta.6_amd64.deb",
@@ -1720,6 +1703,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/1f663da5df5f46d787cdf4e019cb891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/9d4809c70b7d402e8b73ea3b63f0b493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/0f550c10188c45d298395c7a671b1ad3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/7b90057b081843c0b31b7eaaabc8f521.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/c47451cc63c6487fb7f7ca56909a82a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/0aecbba12db04d92a67c10f20dbcaf2a.png"
+}
+,
+{
+    "Name": "Fritzing",
+    "Version": "0.9.10",
+    "Filename": "org.fritzing_0.9.10_amd64.deb",
+    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
+    "Pkgname": "org.fritzing",
+    "Author": "Fritzing",
+    "Contributor": "秦以南",
+    "Website": "https://fritzing.org/releases",
+    "Update": "2022-08-04 10:37:21",
+    "Size": "66.39 MB",
+    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
+    "Tags": "a2d;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
 }
 ,
 {
@@ -1756,6 +1756,22 @@
 }
 ,
 {
+    "Name": "CHINER元数建模",
+    "Version": "3.5.4spark0",
+    "Filename": "chiner.spark_3.5.4spark0_amd64.deb",
+    "Pkgname": "chiner.spark",
+    "Author": "杨松",
+    "Contributor": "sgb76",
+    "Website": "https://gitee.com/robergroup/chiner",
+    "Update": "2021-11-05 16:12:13",
+    "Size": "124.53 MB",
+    "More": "一款丰富数据库生态，独立于具体数据库之外的，数据库关系模型设计平台。",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/d92e1430-3e0f-11ec-981b-9384199d54c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/dcd08f50-3e0f-11ec-981b-9384199d54c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/05/cff84a70-3e0f-11ec-981b-9384199d54c9.png"
+}
+,
+{
     "Name": "quardCRT",
     "Version": "0.47",
     "Filename": "quardcrt_0.47_amd64.deb",
@@ -1770,22 +1786,6 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/53b630acf10c4fca9b2beeedc94750ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/3e3d4c468a2e4c76896e2c0b1d8e6437.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/6cd562c5f1d348c0927027773c24f81c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/34045cd57ca044ea965d182ba5039bbd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/170585db45904e539989e95bc6c85e3a.png"
-}
-,
-{
-    "Name": "CHINER元数建模",
-    "Version": "3.5.4spark0",
-    "Filename": "chiner.spark_3.5.4spark0_amd64.deb",
-    "Pkgname": "chiner.spark",
-    "Author": "杨松",
-    "Contributor": "sgb76",
-    "Website": "https://gitee.com/robergroup/chiner",
-    "Update": "2021-11-05 16:12:13",
-    "Size": "124.53 MB",
-    "More": "一款丰富数据库生态，独立于具体数据库之外的，数据库关系模型设计平台。",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/d92e1430-3e0f-11ec-981b-9384199d54c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/05/dcd08f50-3e0f-11ec-981b-9384199d54c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/05/cff84a70-3e0f-11ec-981b-9384199d54c9.png"
 }
 ,
 {
