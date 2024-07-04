@@ -7525,29 +7525,6 @@ Description: Linux system optimizer and monitoring
 
 Package: balena-etcher
 Architecture: amd64
-Version: 1.19.16
-Priority: optional
-Section: utils
-Maintainer: Balena Ltd. <hello@balena.io>
-Installed-Size: 396626
-Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin, gconf-service, gconf2, libasound2, libatk1.0-0, libc6, libcairo2, libcups2, libdbus-1-3, libexpat1, libfontconfig1, libfreetype6, libgcc1, libgconf-2-4, libgdk-pixbuf2.0-0, libglib2.0-0, liblzma5, libnspr4, libpango1.0-0 | libpango-1.0-0, libstdc++6, libx11-6, libxcomposite1, libxcursor1, libxdamage1, libxext6, libxfixes3, libxi6, libxrandr2, libxrender1, libxss1, polkit-1-auth-agent | policykit-1-gnome | polkit-kde-1
-Recommends: pulseaudio | libasound2
-Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
-Filename: tools/balena-etcher/balena-etcher_1.19.16_amd64.deb
-Size: 110303564
-MD5sum: d920277c5dc324f2085ac8b5c50fa90d
-SHA1: 3c35398bfb2f5c78df8fb9e57f1479b374e1eb09
-SHA256: 37110ca6677c130af3b7660c138ef641dacc9d5005bd51917b0cb394de9ba3a4
-SHA512: d03ead24c0e97227a9a009251784ba361a3d2953a4d27dfc90899d2673ed7bc33a3c0a8e0466e82beef4ce75cc1576c2b279efce711e60bb9d8cccb8deb56de2
-Homepage: https://github.com/balena-io/etcher
-Description: Flash OS images to SD cards and USB drives, safely and easily.
- Etcher is a powerful OS image flasher built with web technologies to ensure 
- flashing an SDCard or USB drive is a pleasant and safe experience. It protects 
- you from accidentally writing to your hard-drives, ensures every byte of data 
- was written correctly and much more.
-
-Package: balena-etcher
-Architecture: amd64
 Version: 1.19.21
 Priority: optional
 Section: utils
@@ -18888,23 +18865,6 @@ SHA1: c74d27a22bc55a32b03ab2666f50c1da4f691fbe
 SHA256: 9f4ee446cb97ee3e1c4673b3b1d5285a9f89b80f995bd7c98457fdb70280a59a
 SHA512: 841ee25c190246833e35a9e3132d23be7ad7307249eecec5e9414ed9bc075cb870fee20006a609fc2f79697e0be274665b52bd48b6529e46aee7fb8d115b0618
 Description: com.thrivingcitysong.spark new version
-
-Package: com.thrivingcitysong.spark
-Architecture: all
-Version: 0.5.21R
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: John12138
-Installed-Size: 1313142
-Depends: spark-wine8, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/com.thrivingcitysong.spark/com.thrivingcitysong.spark_0.5.21R_all.deb
-Size: 1313209464
-MD5sum: a7586c93526ed34954f6a4b32a18fe02
-SHA1: acc7bc5ee60d289f5f34c5cbcb56914360273f46
-SHA256: 36a85645e9f99d73ad16e51302c530f32e94548446952155183929366cabdecd
-SHA512: be077a46b9413ad19d359741e0f7d177c54bb92621abf09c9bbc0e105886c737b791087bb36f2e97a85b77ebdac4c874184de4979d38fbd96103ff92635cd1a3
-Description: 满庭芳：宋上繁华
 
 Package: com.ageofempires2hd.spark
 Architecture: all
@@ -35332,22 +35292,22 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: amd64
-Version: 1.90.2-1718751586
+Version: 1.91.0-1719861592
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 398674
+Installed-Size: 388720
 Provides: visual-studio-code
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.14), libc6 (>= 2.16), libc6 (>= 2.17), libc6 (>= 2.2.5), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgssapi-krb5-2 (>= 1.17), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libkrb5-3 (>= 1.6.dfsg.2), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.90.2-1718751586_amd64.deb
-Size: 102297590
-MD5sum: c284088c9f78beb1912b71ce1dc61647
-SHA1: 8972f199de68d075e6c32555bf9cf827b8725c88
-SHA256: 4a720002275c84a0cf1fb4b27bcafa5646a90760ddb569cf7af4c2aec399559a
-SHA512: 097a46a8b83c789247b027100100c9709cba01b2a224110cb8894013ca4039150f17f65832e4c51d7e554e32944fca3007116ae8bd57b06412a954cac5f67935
+Filename: development/code/code_1.91.0-1719861592_amd64.deb
+Size: 100931078
+MD5sum: 659bbf4c8dadbff11f1bb94c30dca75d
+SHA1: ecb06ae0cb0f81ed9c3bbce53dc66f6f08f56ea6
+SHA256: 59f8f5e7952e0742cf3b26933f9ba2a7e60cdd5e88b2709ab14642be472e90e0
+SHA512: 4a8b54eee6a6840935e775320942b0b2fdcc2e1c1ca6f7a99aa084a281c6c534da6393f7dc770dff68a5b58040b18977f816250ed83c74999badc8c6d931fa82
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
