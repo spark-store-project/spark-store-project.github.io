@@ -672,23 +672,6 @@
 
 ,
 {
-    "Name": "musicyou",
-    "Version": "3.0.0-alpha.3",
-    "Filename": "music-you_3.0.0-alpha.3_amd64.deb",
-    "Torrent_address": "music-you_3.0.0-alpha.3_amd64.deb.torrent",
-    "Pkgname": "music-you",
-    "Author": "gumengyu <1415515984yuri@gmail.com>",
-    "Contributor": "fallingstar",
-    "Website": "https://github.com/GuMengYu/music-you",
-    "Update": "2023-12-05 10:31:57",
-    "Size": "78.91 MB",
-    "More": "遵循 Material Design 3 (Material You) 设计风格的桌面音乐播放器,基于 React + NeteaseCloudMusicApi + electron, 提供网易云音乐PC端的各项功能。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/05/6f0ed2c0f37e47c49335765b7d704e63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/05/c2e5504593f745f0869b526466862d22.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/05/11be7f73fd364748b8eafdc6ebdceb8d.png"
-}
-,
-{
     "Name": "Lyricify 4",
     "Version": "4.2.28.240502-release-wpack240503.01",
     "Filename": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb",
@@ -703,6 +686,23 @@
     "Tags": "community;ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/95bc45d6bbb64c088a64f617fe9c1122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/526ece2c06b14e5a8eeb0b0e53328aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/21193eb5408b4165a7fc8dcbdbd5789e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/62aeff5a81804ab49fcd01f3af34edbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/41aa2d3e5b5048108d3be6dbbcd86a6e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/cda9da7c46784982add7568172dcdab6.png"
+}
+,
+{
+    "Name": "musicyou",
+    "Version": "3.0.0-alpha.3",
+    "Filename": "music-you_3.0.0-alpha.3_amd64.deb",
+    "Torrent_address": "music-you_3.0.0-alpha.3_amd64.deb.torrent",
+    "Pkgname": "music-you",
+    "Author": "gumengyu <1415515984yuri@gmail.com>",
+    "Contributor": "fallingstar",
+    "Website": "https://github.com/GuMengYu/music-you",
+    "Update": "2023-12-05 10:31:57",
+    "Size": "78.91 MB",
+    "More": "遵循 Material Design 3 (Material You) 设计风格的桌面音乐播放器,基于 React + NeteaseCloudMusicApi + electron, 提供网易云音乐PC端的各项功能。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/05/6f0ed2c0f37e47c49335765b7d704e63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/05/c2e5504593f745f0869b526466862d22.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/05/11be7f73fd364748b8eafdc6ebdceb8d.png"
 }
 ,
 {
@@ -837,40 +837,6 @@
 }
 ,
 {
-    "Name": "ACE Studio（wine）",
-    "Version": "1.6.1",
-    "Filename": "cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb",
-    "Torrent_address": "cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb.torrent",
-    "Pkgname": "cn.ace-studio.timedomain.acestudio",
-    "Author": "北京时域科技",
-    "Contributor": "花雨落逝",
-    "Website": "https://ace-studio.timedomain.cn/",
-    "Update": "2023-04-22 16:12:35",
-    "Size": "483.68 MB",
-    "More": "众多高水平AI为你所用",
-    "Tags": "ubuntu;dwine5;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/22/8796ce1afd4641a1b00150f4083b57ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/22/1ca79f91e82b433c897301bb1240c5cd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/22/cfbef4dee2854ecd9c9f73c8d9f95294.png"
-}
-,
-{
-    "Name": "Mixxx",
-    "Version": "2.4.0-1~jammy",
-    "Filename": "mixxx_2.4.0-1~jammy_amd64.deb",
-    "Torrent_address": "mixxx_2.4.0-1~jammy_amd64.deb.torrent",
-    "Pkgname": "mixxx",
-    "Author": "RJ Skerry-Ryan",
-    "Contributor": "sgb76",
-    "Website": "https://www.mixxx.org/",
-    "Update": "2024-02-24 00:09:18",
-    "Size": "46.46 MB",
-    "More": "Mixxx is a digital DJ system, where Wave, Ogg, FLAC and MP3 files can be\n mixed on a computer for use in live performances. Filters, crossfader, and\n speed control are provided. Mixxx can sync the 4 decks automatically, using\n an algorithm to detect the beat.\n .\n Mixxx works with ALSA or Jack, can be controlled from the GUI or from external\n controllers, including MIDI devices and joysticks, and supports skins.\n\n说明：该应用在Ubuntu22.04下运行正常，deepin下缺少依赖",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/470bf25aecac479d8b39790ce4d6e8a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/5837041f4da54e719b01864f90c12eb8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/4cd9ba08a7404e98b3fbd17ee799912d.png"
-}
-,
-{
     "Name": "musicfox （网易云音乐命令行版）",
     "Version": "4.5.3-3",
     "Filename": "go-musicfox_4.5.3-3_amd64.deb",
@@ -888,6 +854,23 @@
 }
 ,
 {
+    "Name": "ACE Studio（wine）",
+    "Version": "1.6.1",
+    "Filename": "cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb",
+    "Torrent_address": "cn.ace-studio.timedomain.acestudio_1.6.1_i386.deb.torrent",
+    "Pkgname": "cn.ace-studio.timedomain.acestudio",
+    "Author": "北京时域科技",
+    "Contributor": "花雨落逝",
+    "Website": "https://ace-studio.timedomain.cn/",
+    "Update": "2023-04-22 16:12:35",
+    "Size": "483.68 MB",
+    "More": "众多高水平AI为你所用",
+    "Tags": "ubuntu;dwine5;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/22/8796ce1afd4641a1b00150f4083b57ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/22/1ca79f91e82b433c897301bb1240c5cd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/22/cfbef4dee2854ecd9c9f73c8d9f95294.png"
+}
+,
+{
     "Name": "UTAU(Wine)",
     "Version": "5",
     "Filename": "utau-spark-wine_5_all.deb",
@@ -902,6 +885,23 @@
     "Tags": "ubuntu;deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/17/0742adf0-cd8c-11ee-8579-d7e592573d06.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/17/04c503c0-cd8c-11ee-8579-d7e592573d06.ico"
+}
+,
+{
+    "Name": "Mixxx",
+    "Version": "2.4.0-1~jammy",
+    "Filename": "mixxx_2.4.0-1~jammy_amd64.deb",
+    "Torrent_address": "mixxx_2.4.0-1~jammy_amd64.deb.torrent",
+    "Pkgname": "mixxx",
+    "Author": "RJ Skerry-Ryan",
+    "Contributor": "sgb76",
+    "Website": "https://www.mixxx.org/",
+    "Update": "2024-02-24 00:09:18",
+    "Size": "46.46 MB",
+    "More": "Mixxx is a digital DJ system, where Wave, Ogg, FLAC and MP3 files can be\n mixed on a computer for use in live performances. Filters, crossfader, and\n speed control are provided. Mixxx can sync the 4 decks automatically, using\n an algorithm to detect the beat.\n .\n Mixxx works with ALSA or Jack, can be controlled from the GUI or from external\n controllers, including MIDI devices and joysticks, and supports skins.\n\n说明：该应用在Ubuntu22.04下运行正常，deepin下缺少依赖",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/470bf25aecac479d8b39790ce4d6e8a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/5837041f4da54e719b01864f90c12eb8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/4cd9ba08a7404e98b3fbd17ee799912d.png"
 }
 ,
 {

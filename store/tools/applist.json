@@ -574,19 +574,19 @@
 ,
 {
     "Name": "balenaetcher",
-    "Version": "1.19.16",
-    "Filename": "balena-etcher_1.19.16_amd64.deb",
-    "Torrent_address": "balena-etcher_1.19.16_amd64.deb.torrent",
+    "Version": "1.19.21",
+    "Filename": "balena-etcher_1.19.21_amd64.deb",
+    "Torrent_address": "balena-etcher_1.19.21_amd64.deb.torrent",
     "Pkgname": "balena-etcher",
     "Author": "Balena Ltd. <hello@balena.io>",
-    "Contributor": "zjh <zjh97t@qq.com>",
+    "Contributor": "Balena Ltd. <hello@balena.io>",
     "Website": "https://github.com/balena-io/etcher",
-    "Update": "2024-05-01 09:25:24",
-    "Size": "105.19 MB",
+    "Update": "2024-07-04 08:58:06",
+    "Size": "105.2 MB",
     "More": "Etcher is a powerful OS image flasher built with web technologies to ensure \n flashing an SDCard or USB drive is a pleasant and safe experience. It protects \n you from accidentally writing to your hard-drives, ensures every byte of data \n was written correctly and much more.",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/5da74964b6494717bb58771024cc1e78.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/ab5bb1bc62e34e51a0591cd5cce6bae8.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/04/f28c308c26df4af199623ce20be5a294.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/04/5b976849923e4bd39cdfd6c258ac19a3.png"
 }
 ,
 {
@@ -892,23 +892,6 @@
 }
 ,
 {
-    "Name": "Bleachbit",
-    "Version": "4.4.2-0",
-    "Filename": "bleachbit_4.4.2-0_all.deb",
-    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
-    "Pkgname": "bleachbit",
-    "Author": "Andrew Ziem",
-    "Contributor": "sgb76",
-    "Website": "https://www.bleachbit.org/",
-    "Update": "2022-04-20 00:03:55",
-    "Size": "436.99 KB",
-    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
-}
-,
-{
     "Name": "使用N卡运行 NVIDIA for deepin-prime",
     "Version": "1.0",
     "Filename": "deepin-prime-run_1.0_amd64.deb",
@@ -923,6 +906,23 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/08/8e3efec0-ecf1-11ed-a415-1fbb11fc4147.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/08/de0582d0-ecf1-11ed-a415-1fbb11fc4147.png"
+}
+,
+{
+    "Name": "Bleachbit",
+    "Version": "4.4.2-0",
+    "Filename": "bleachbit_4.4.2-0_all.deb",
+    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
+    "Pkgname": "bleachbit",
+    "Author": "Andrew Ziem",
+    "Contributor": "sgb76",
+    "Website": "https://www.bleachbit.org/",
+    "Update": "2022-04-20 00:03:55",
+    "Size": "436.99 KB",
+    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
 }
 ,
 {
@@ -960,23 +960,6 @@
 }
 ,
 {
-    "Name": "AI工具集",
-    "Version": "1.0",
-    "Filename": "web-aibot.cn_1.0_amd64.deb",
-    "Torrent_address": "web-aibot.cn_1.0_amd64.deb.torrent",
-    "Pkgname": "web-aibot.cn",
-    "Author": "MMHMM",
-    "Contributor": "MMHMM",
-    "Website": "https://ai-bot.cn/",
-    "Update": "2023-05-14 15:46:30",
-    "Size": "4.28 KB",
-    "More": "欢迎访问AI工具集导航，你的一站式人工智能工具集合网站，500+AI工具导航大全。AI工具集专注于收录和推荐国内外热门、创意、有趣、前沿的AI工具和网站，致力于为\n大家提供一个快速访问任意人工智能网站的门户和入口。我们的目标是让所有人都方便\n快捷地探索AI技术，让你在个人学习、生活和工作中充分利用人工智能的潜力。",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462636376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462707876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462784376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462858276958200.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462021276958200.png"
-}
-,
-{
     "Name": "Fsearch 搜索工具",
     "Version": "0.2.2-1+3.1",
     "Filename": "fsearch_0.2.2-1_plus3.1_amd64.deb",
@@ -991,6 +974,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/d2d26523a4504e6c8719bf98a2ed891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/266c6c104fb14b06a75c2298c03b2840.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/fae000cdaa6d47cfa791dde3983cbf61.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/0cf6402ffaed41ec93859b8923c001d7.png"
+}
+,
+{
+    "Name": "AI工具集",
+    "Version": "1.0",
+    "Filename": "web-aibot.cn_1.0_amd64.deb",
+    "Torrent_address": "web-aibot.cn_1.0_amd64.deb.torrent",
+    "Pkgname": "web-aibot.cn",
+    "Author": "MMHMM",
+    "Contributor": "MMHMM",
+    "Website": "https://ai-bot.cn/",
+    "Update": "2023-05-14 15:46:30",
+    "Size": "4.28 KB",
+    "More": "欢迎访问AI工具集导航，你的一站式人工智能工具集合网站，500+AI工具导航大全。AI工具集专注于收录和推荐国内外热门、创意、有趣、前沿的AI工具和网站，致力于为\n大家提供一个快速访问任意人工智能网站的门户和入口。我们的目标是让所有人都方便\n快捷地探索AI技术，让你在个人学习、生活和工作中充分利用人工智能的潜力。",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462636376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462707876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462784376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462858276958200.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462021276958200.png"
 }
 ,
 {
@@ -1762,22 +1762,6 @@
 }
 ,
 {
-    "Name": "radeontop",
-    "Version": "1.3-1",
-    "Filename": "radeontop_1.3-1_amd64.deb",
-    "Pkgname": "radeontop",
-    "Author": "clbr",
-    "Contributor": "RubbishZhYic",
-    "Website": "https://github.com/clbr/radeontop",
-    "Update": "2020-12-19 03:48:51",
-    "Size": "19.63 KB",
-    "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
-}
-,
-{
     "Name": "UOS AI",
     "Version": "1.2.9-1",
     "Filename": "uos-ai_1.2.9-1_amd64.deb",
@@ -1792,6 +1776,22 @@
     "Tags": "deepin;uos;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a0cc1d1ffb5946edac5e1b3cb6b8ce26.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/c8ffe685560b49d8a9c57f6cb3624365.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/53c3dbceaf7246baa8addd13454ad699.png"
+}
+,
+{
+    "Name": "radeontop",
+    "Version": "1.3-1",
+    "Filename": "radeontop_1.3-1_amd64.deb",
+    "Pkgname": "radeontop",
+    "Author": "clbr",
+    "Contributor": "RubbishZhYic",
+    "Website": "https://github.com/clbr/radeontop",
+    "Update": "2020-12-19 03:48:51",
+    "Size": "19.63 KB",
+    "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
 }
 ,
 {
@@ -2315,23 +2315,6 @@
 }
 ,
 {
-    "Name": "GitHub 访问加速包",
-    "Version": "0.0.1-20240206",
-    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
-    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
-    "Pkgname": "github-fast-access",
-    "Author": "麻本法 <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface",
-    "Update": "2024-02-06 11:12:21",
-    "Size": "1.14 KB",
-    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -2348,6 +2331,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
 ,
 {
     "Name": "QGIS(书虫版)",
@@ -2416,6 +2416,23 @@
 }
 ,
 {
+    "Name": "GeoGebra Classic 5 经典",
+    "Version": "5.0.668.0-3930",
+    "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
+    "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
+    "Pkgname": "geogebra5",
+    "Author": "International GeoGebra Institute <office@geogebra.org>",
+    "Contributor": "老於",
+    "Website": "http://www.geogebra.org/",
+    "Update": "2023-01-20 12:04:41",
+    "Size": "59.66 MB",
+    "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
+}
+,
+{
     "Name": "钉钉视频会议日志清理",
     "Version": "1.2.3-0.1",
     "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
@@ -2446,23 +2463,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-,
-{
-    "Name": "GeoGebra Classic 5 经典",
-    "Version": "5.0.668.0-3930",
-    "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
-    "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
-    "Pkgname": "geogebra5",
-    "Author": "International GeoGebra Institute <office@geogebra.org>",
-    "Contributor": "老於",
-    "Website": "http://www.geogebra.org/",
-    "Update": "2023-01-20 12:04:41",
-    "Size": "59.66 MB",
-    "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
 }
 ,
 {
@@ -3490,6 +3490,23 @@
 }
 ,
 {
+    "Name": "dock栏居中配置(dde)",
+    "Version": "0.0.2",
+    "Filename": "dde-dock-display-center_0.0.2_all.deb",
+    "Torrent_address": "dde-dock-display-center_0.0.2_all.deb.torrent",
+    "Pkgname": "dde-dock-display-center",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/dde-dock-display-center",
+    "Update": "2024-04-14 03:04:14",
+    "Size": "1.13 KB",
+    "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c4547533ae224070a02f73de212b2661.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c1f9ef1189524f81936c1fd2bbfd75a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/bfdae9aac4cd413c87c340f5cfaa48c8.png"
+}
+,
+{
     "Name": "ksnip",
     "Version": "1.10.1spark0",
     "Filename": "com.github.ksnip.spark_1.10.1spark0_amd64.deb",
@@ -3521,23 +3538,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
-}
-,
-{
-    "Name": "dock栏居中配置(dde)",
-    "Version": "0.0.2",
-    "Filename": "dde-dock-display-center_0.0.2_all.deb",
-    "Torrent_address": "dde-dock-display-center_0.0.2_all.deb.torrent",
-    "Pkgname": "dde-dock-display-center",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/dde-dock-display-center",
-    "Update": "2024-04-14 03:04:14",
-    "Size": "1.13 KB",
-    "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c4547533ae224070a02f73de212b2661.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c1f9ef1189524f81936c1fd2bbfd75a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/bfdae9aac4cd413c87c340f5cfaa48c8.png"
 }
 ,
 {
@@ -3926,6 +3926,23 @@
 
 ,
 {
+    "Name": "今天吃什么",
+    "Version": "1.1.2",
+    "Filename": "jim.yhj_1.1.2_amd64.deb",
+    "Torrent_address": "jim.yhj_1.1.2_amd64.deb.torrent",
+    "Pkgname": "jim.yhj",
+    "Author": "於泓锦",
+    "Contributor": "於泓锦",
+    "Website": "https://mofangsoft.github.io/",
+    "Update": "2023-09-17 16:19:46",
+    "Size": "26.66 KB",
+    "More": "点到啥吃啥！",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/5e7ce55ba35a4066a240a4db9d788b61.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/d8ff081d08f84c759f18c0363ddd3fd1.png"
+}
+,
+{
     "Name": "FlutterUnit",
     "Version": "2.8.0",
     "Filename": "flutter-unit_2.8.0_amd64.deb",
@@ -3974,23 +3991,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/9dc374b537d84538a036431393768011.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/fa75cfe1527e41dfa3b9648b775c06b4.png"
-}
-,
-{
-    "Name": "今天吃什么",
-    "Version": "1.1.2",
-    "Filename": "jim.yhj_1.1.2_amd64.deb",
-    "Torrent_address": "jim.yhj_1.1.2_amd64.deb.torrent",
-    "Pkgname": "jim.yhj",
-    "Author": "於泓锦",
-    "Contributor": "於泓锦",
-    "Website": "https://mofangsoft.github.io/",
-    "Update": "2023-09-17 16:19:46",
-    "Size": "26.66 KB",
-    "More": "点到啥吃啥！",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/5e7ce55ba35a4066a240a4db9d788b61.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/d8ff081d08f84c759f18c0363ddd3fd1.png"
 }
 ,
 {
@@ -4112,6 +4112,24 @@
 }
 ,
 {
+    "Author": "Martijn van Brummelen <mvb@debian.org>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "grsync_1.3.0-1_plus_b1_amd64.deb",
+    "More": "grsync是一个简单的图形界面，使用GTK2作为rsync命令行程序\n它目前只支持有限的一组最重要的rsync功能，但可以有效地用于本地目录同步。",
+    "Name": "Grsync(图形化rsync）",
+    "Pkgname": "grsync",
+    "Size": "152 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "grsync_1.3.0-1_plus_b1_amd64.deb.torrent",
+    "Update": "2023-11-02 09:38:08",
+    "Version": "1.3.0-1+b1",
+    "Website": "http://www.opbyte.it/grsync/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/grsync/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_2.png\"]"
+}
+
+,
+{
     "Name": "转换工具（convert tool）",
     "Version": "10.0.0",
     "Filename": "convertwithmoss_10.0.0_amd64.deb",
@@ -4194,24 +4212,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
-,
-{
-    "Author": "Martijn van Brummelen <mvb@debian.org>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "grsync_1.3.0-1_plus_b1_amd64.deb",
-    "More": "grsync是一个简单的图形界面，使用GTK2作为rsync命令行程序\n它目前只支持有限的一组最重要的rsync功能，但可以有效地用于本地目录同步。",
-    "Name": "Grsync(图形化rsync）",
-    "Pkgname": "grsync",
-    "Size": "152 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "grsync_1.3.0-1_plus_b1_amd64.deb.torrent",
-    "Update": "2023-11-02 09:38:08",
-    "Version": "1.3.0-1+b1",
-    "Website": "http://www.opbyte.it/grsync/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/grsync/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_2.png\"]"
-}
-
 ,
 {
     "Name": "摸鱼股票球",
@@ -4484,6 +4484,40 @@
 }
 ,
 {
+    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
+    "Version": "10.0.9.0.8-903spark1",
+    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
+    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
+    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
+    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.taotics.com/",
+    "Update": "2024-07-02 07:41:36",
+    "Size": "59.98 MB",
+    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
+    "Name": "Soup(升级版)",
+    "Version": "0.0.2-20240625",
+    "Filename": "com.gitee.zinface.soup_0.0.2-20240625_amd64.deb",
+    "Torrent_address": "com.gitee.zinface.soup_0.0.2-20240625_amd64.deb.torrent",
+    "Pkgname": "com.gitee.zinface.soup",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/pyside6.beautiful-soup",
+    "Update": "2024-06-25 21:03:13",
+    "Size": "74.05 MB",
+    "More": "基于 PySide6 的 beautifulSoup 图形化工具\n .\n 灵感来自可视化一切;\n .\n Build for Deepin20.9 through spark-deb-build.\n\n20240311: 诞生，在这之前，尝试过使用 streamlit 进行可视化\n20240625: 遇到了128460 行的数据集，遂即进行了线程化处理",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/25/26926360084242019fecf228bb849fc3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/25/1fa00e7f27e74f67994f956494e3576f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/25/4d0072a2f1b640fb938fb7310e769ff2.png"
+}
+,
+{
     "Name": "Smart Player （UEngine）",
     "Version": "1.7.1",
     "Filename": "com.ex.rubik_1.7.1_all.deb",
@@ -4586,23 +4620,6 @@
 }
 ,
 {
-    "Name": "Soup(升级版)",
-    "Version": "0.0.2-20240625",
-    "Filename": "com.gitee.zinface.soup_0.0.2-20240625_amd64.deb",
-    "Torrent_address": "com.gitee.zinface.soup_0.0.2-20240625_amd64.deb.torrent",
-    "Pkgname": "com.gitee.zinface.soup",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/pyside6.beautiful-soup",
-    "Update": "2024-06-25 21:03:13",
-    "Size": "74.05 MB",
-    "More": "基于 PySide6 的 beautifulSoup 图形化工具\n .\n 灵感来自可视化一切;\n .\n Build for Deepin20.9 through spark-deb-build.\n\n20240311: 诞生，在这之前，尝试过使用 streamlit 进行可视化\n20240625: 遇到了128460 行的数据集，遂即进行了线程化处理",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/25/26926360084242019fecf228bb849fc3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/25/1fa00e7f27e74f67994f956494e3576f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/25/4d0072a2f1b640fb938fb7310e769ff2.png"
-}
-,
-{
     "Name": "时钟大师",
     "Version": "1.5-20240517",
     "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
@@ -4634,6 +4651,23 @@
     "Tags": "ubuntu;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
+}
+,
+{
+    "Name": "AIDA64（Wine）",
+    "Version": "6.90.6500",
+    "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
+    "Torrent_address": "com.aida64.deepin_6.90.6500_i386.deb.torrent",
+    "Pkgname": "com.aida64.deepin",
+    "Author": "Ticozhang",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.aida64.com/downloads",
+    "Update": "2024-06-29 21:22:43",
+    "Size": "78.42 MB",
+    "More": "一款测试软硬件系统信息的工具，它可以详细的显示出pc每一个方面的信息。aida64不仅提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e2e45bbe0b024e7db24e59f88e3ad59e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/16470b3d62ee45fbaa6685499f9ee2f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/8491fdb71873479eb4356a863901870a.png"
 }
 ,
 {
@@ -4705,23 +4739,6 @@
 }
 ,
 {
-    "Name": "AIDA64（Wine）",
-    "Version": "6.90.6500",
-    "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
-    "Torrent_address": "com.aida64.deepin_6.90.6500_i386.deb.torrent",
-    "Pkgname": "com.aida64.deepin",
-    "Author": "Ticozhang",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.aida64.com/downloads",
-    "Update": "2024-06-29 21:22:43",
-    "Size": "78.42 MB",
-    "More": "一款测试软硬件系统信息的工具，它可以详细的显示出pc每一个方面的信息。aida64不仅提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e2e45bbe0b024e7db24e59f88e3ad59e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/16470b3d62ee45fbaa6685499f9ee2f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/8491fdb71873479eb4356a863901870a.png"
-}
-,
-{
     "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
     "Version": "0.0.1-20240602",
     "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
@@ -4753,23 +4770,6 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/583593b26b9741449ca7ba8789f76d73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/a6712da25a2f473e84becf093fb845d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/3e364e153b69436f8a450a0304090265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/22/1343c23fd2b34f60885703b6472b56a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/22/2a7cb8978cdc4c11b4a00ad3b8a23d02.png"
-}
-,
-{
-    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
-    "Version": "10.0.9.0.8-903spark1",
-    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
-    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
-    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
-    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.taotics.com/",
-    "Update": "2024-07-02 07:41:36",
-    "Size": "59.98 MB",
-    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
 }
 ,
 {

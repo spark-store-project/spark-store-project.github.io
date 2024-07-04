@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="balena-etcher_1.19.21_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">da93ac120a0c24900093bda593db84cf</hash>
+				  
+				<hash type="sha1">c581042f606b74441e2aee1d7e84a7f1f4c1f4c0</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/tools/balena-etcher/balena-etcher_1.19.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://fetish.spark-app.store/store/tools/balena-etcher/balena-etcher_1.19.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://piercing.spark-app.store/store/tools/balena-etcher/balena-etcher_1.19.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store/store/tools/balena-etcher/balena-etcher_1.19.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/tools/balena-etcher/balena-etcher_1.19.21_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://d4.store.deepinos.org.cn/store/tools/balena-etcher/balena-etcher_1.19.21_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
