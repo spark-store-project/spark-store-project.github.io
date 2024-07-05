@@ -523,6 +523,23 @@
 }
 ,
 {
+    "Name": "Termius",
+    "Version": "8.12.1",
+    "Filename": "termius-app_8.12.1_amd64.deb",
+    "Torrent_address": "termius-app_8.12.1_amd64.deb.torrent",
+    "Pkgname": "termius-app",
+    "Author": "Termius Corporation <support@termius.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://termius.com/",
+    "Update": "2024-05-05 06:26:40",
+    "Size": "81.08 MB",
+    "More": "Desktop SSH Client",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/b08e0b4f340a4f7a87ba8f83d96b4d57.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/08c480a7183c4c0a9ef8bea2a69e88b8.png"
+}
+,
+{
     "Author": "Bamboo <摘920345876@gmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "windterm_2.5.0_amd64.deb",
@@ -539,23 +556,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/windterm/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "Termius",
-    "Version": "8.12.1",
-    "Filename": "termius-app_8.12.1_amd64.deb",
-    "Torrent_address": "termius-app_8.12.1_amd64.deb.torrent",
-    "Pkgname": "termius-app",
-    "Author": "Termius Corporation <support@termius.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://termius.com/",
-    "Update": "2024-05-05 06:26:40",
-    "Size": "81.08 MB",
-    "More": "Desktop SSH Client",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/b08e0b4f340a4f7a87ba8f83d96b4d57.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/08c480a7183c4c0a9ef8bea2a69e88b8.png"
-}
 ,
 {
     "Name": "apifox",
@@ -1406,6 +1406,20 @@
 }
 ,
 {
+   "Name":"Gitg",
+   "Version":"3.32.1-1",
+   "Filename":"gitg_3.32.1-1_amd64.deb",
+   "Pkgname":"gitg",
+   "Author":"gitg",
+   "Contributor":"arch",
+   "Website":" ",
+   "Update":"2020-07-10 17:44",
+   "Size":"463.94KB",
+   "More":"gitg应用 神末已将缺失的依赖提交到星火仓库依赖补足库，无需添加源"
+}
+
+,
+{
     "Name": "chat2db",
     "Version": "2.1.0",
     "Filename": "com.github.chat2db_2.1.0_amd64.deb",
@@ -1438,20 +1452,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/b3bc243d63d44610baf2bfc5368cf58b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/d7385851ae624a64b172d29665f8890e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/f12da169cb654dd78dad72fda224fc12.png"
 }
-,
-{
-   "Name":"Gitg",
-   "Version":"3.32.1-1",
-   "Filename":"gitg_3.32.1-1_amd64.deb",
-   "Pkgname":"gitg",
-   "Author":"gitg",
-   "Contributor":"arch",
-   "Website":" ",
-   "Update":"2020-07-10 17:44",
-   "Size":"463.94KB",
-   "More":"gitg应用 神末已将缺失的依赖提交到星火仓库依赖补足库，无需添加源"
-}
-
 ,
 {
     "Name": "Antares",
@@ -1740,22 +1740,6 @@
 }
 ,
 {
-    "Name": "QSS 编辑器",
-    "Version": "0.6.0-1",
-    "Filename": "qsseditor_0.6.0-1_amd64.deb",
-    "Pkgname": "qsseditor",
-    "Author": "Dmitry Baryshev <dmitrymq@gmail.com>",
-    "Contributor": "lidanger",
-    "Website": "https://github.com/smoked-herring/qsseditor",
-    "Update": "2020-12-10 03:49:02",
-    "Size": "100.23 KB",
-    "More": "QSS 编辑器是一个编辑和预览 Qt 样式表的工具。\n偶然发现，说不定有用。样式参考：https://github.com/ColinDuquesnoy/QDarkStyleSheet",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/8b8f48d0-3a9a-11eb-827a-c1150a8c5e97.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/10/886ab040-3a9a-11eb-827a-c1150a8c5e97.png"
-}
-,
-{
     "Name": "quardCRT",
     "Version": "0.47",
     "Filename": "quardcrt_0.47_amd64.deb",
@@ -1770,6 +1754,22 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/53b630acf10c4fca9b2beeedc94750ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/3e3d4c468a2e4c76896e2c0b1d8e6437.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/6cd562c5f1d348c0927027773c24f81c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/34045cd57ca044ea965d182ba5039bbd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/170585db45904e539989e95bc6c85e3a.png"
+}
+,
+{
+    "Name": "QSS 编辑器",
+    "Version": "0.6.0-1",
+    "Filename": "qsseditor_0.6.0-1_amd64.deb",
+    "Pkgname": "qsseditor",
+    "Author": "Dmitry Baryshev <dmitrymq@gmail.com>",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/smoked-herring/qsseditor",
+    "Update": "2020-12-10 03:49:02",
+    "Size": "100.23 KB",
+    "More": "QSS 编辑器是一个编辑和预览 Qt 样式表的工具。\n偶然发现，说不定有用。样式参考：https://github.com/ColinDuquesnoy/QDarkStyleSheet",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/8b8f48d0-3a9a-11eb-827a-c1150a8c5e97.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/10/886ab040-3a9a-11eb-827a-c1150a8c5e97.png"
 }
 ,
 {

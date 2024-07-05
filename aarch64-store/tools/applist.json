@@ -214,20 +214,20 @@
 
 ,
 {
-    "Author": "360 BiFang team <BiFang@360.cn>",
+    "Author": "maicss@126.com",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.qihoo.360safe_1.0.0.1018_arm64.deb",
-    "More": "360 安全卫士 For Linux",
-    "Name": "360 安全卫士（Linux）",
-    "Pkgname": "com.qihoo.360safe",
-    "Size": "17 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.qihoo.360safe_1.0.0.1018_arm64.deb.torrent",
-    "Update": "2023-03-06 20:51:28",
-    "Version": "1.0.0.1018",
-    "Website": "http://www.360.cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/screen_1.png\"]"
+    "Filename": "com.appimage-installer_2.1_arm64.deb",
+    "More": "用于将AppImage格式安装包添加至启动器。",
+    "Name": "AppImage安装器",
+    "Pkgname": "com.appimage-installer",
+    "Size": "72 Kb",
+    "Tags": "community;dtk5",
+    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:26:23",
+    "Version": "2.1",
+    "Website": "无",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
 }
 
 ,
@@ -250,20 +250,20 @@
 
 ,
 {
-    "Author": "maicss@126.com",
+    "Author": "360 BiFang team <BiFang@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.appimage-installer_2.1_arm64.deb",
-    "More": "用于将AppImage格式安装包添加至启动器。",
-    "Name": "AppImage安装器",
-    "Pkgname": "com.appimage-installer",
-    "Size": "72 Kb",
-    "Tags": "community;dtk5",
-    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
-    "Update": "2023-03-05 18:26:23",
-    "Version": "2.1",
-    "Website": "无",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
+    "Filename": "com.qihoo.360safe_1.0.0.1018_arm64.deb",
+    "More": "360 安全卫士 For Linux",
+    "Name": "360 安全卫士（Linux）",
+    "Pkgname": "com.qihoo.360safe",
+    "Size": "17 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.qihoo.360safe_1.0.0.1018_arm64.deb.torrent",
+    "Update": "2023-03-06 20:51:28",
+    "Version": "1.0.0.1018",
+    "Website": "http://www.360.cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/screen_1.png\"]"
 }
 
 ,
@@ -391,22 +391,6 @@
 }
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.remmina.spark_1.0_all.deb",
-    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
-    "Name": "Remmina远程桌面",
-    "Pkgname": "org.remmina.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-store-console_4.2.12_all.deb",
@@ -421,6 +405,22 @@
     "Website": "https://www.spark-app.store/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.remmina.spark_1.0_all.deb",
+    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
+    "Name": "Remmina远程桌面",
+    "Pkgname": "org.remmina.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
