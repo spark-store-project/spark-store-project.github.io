@@ -1914,24 +1914,6 @@ Description:
 License: GPL-2.0-only
 Vendor: bitporo <bitporo@qq.com>
 
-Package: gxde-kernel-manager
-Architecture: loong64
-Version: 1.1.0
-Priority: optional
-Section: utils
-Maintainer: gfdgd_xi <3025613752@qq.com>
-Installed-Size: 1265
-Depends: libc6 (>= 2.37), libgcc-s1 (>= 3.0), libgl1, libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqtermwidget5-0 (>= 0.8.0), libstdc++6 (>= 5), apt
-Filename: tools/gxde-kernel-manager/gxde-kernel-manager_1.1.0_loong64.deb
-Size: 850848
-MD5sum: b88e68692ae356de41716a59a62936dc
-SHA1: 4c4fe02e6aac5aa54263b01dd20a2ea4917e5125
-SHA256: b2d76f4f79918193d5c3873d5dbf85004d8c668f8c3473865092207215ca6e4b
-SHA512: 3ea01967f1fec73986357f3083bf277babf572eefa7e6e26c7bfd93b3ab6ab6554d9a5d758f4a8d077c61dc46129af57eb4bc2a2dc09e12e62f80f3c1dd419d9
-Homepage: https://gitee.com/GXDE-OS/gxde-kernel-manager
-Description: GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。
- GXDE Kernel Manager is a kernel manager allows users to install or remove kernels easily.
-
 Package: simple-sensor-monitor
 Architecture: loong64
 Version: 1.1-20240324
@@ -8494,6 +8476,22 @@ SHA256: 0759cbe6cfe3271c48296e1e3e19efb1f5c6c6b5a667baa4f834f19cee1a4a58
 SHA512: a60b1d3b40d7ccb178f831c22e48a56769b650b433a712423cafd07dcd116cc24679e1ecdd8303ea1dd5a88e293a742b758171f5333c41db37fcc02e712d5d3e
 Description: MovieToGIF on deepin Wine6
  一款完全免费的视频 Gif 转换工具
+
+Package: com.cctv.ysyy.spark
+Architecture: all
+Version: 6.0.0.1spark11
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: deepin-wine6-stable, spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark11_all.deb
+Size: 83786096
+MD5sum: 6948eb2339a5f9e104d64375b3db70fc
+SHA1: f56bc0256552b35cf7f80df5c25cf61032156b54
+SHA256: 80fd056c8ae7448e942bb7695823a7ded5f7feae838d3d3936a014a4e3231c40
+SHA512: 1a98935edf394df87bc934aaad35275c1b70e8e02feac429a2eaf52352cf438ca63321a65423fce495954d967ba56f5a1899cc9fbcd5e7df9b15d583b16184a0
+Description: ysyy on Deepin Wine6
 
 Package: com.cctv.ysyy.spark
 Architecture: all
