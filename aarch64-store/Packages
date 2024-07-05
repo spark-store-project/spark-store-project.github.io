@@ -4915,6 +4915,27 @@ SHA512: d3ddfb2427d7101fea21097c8aebb808786c962f6deaf1a88c828f30bbd7948b35a8c66f
 Homepage: https://hmcl.huangyuhui.net/
 Description: HMCL启动器开发版 3.5.3.223 by huanghongxun -打包by shenmo
 
+Package: net.hmcl.huangyuhui
+Architecture: arm64
+Version: 3.5.8.249
+Priority: optional
+Section: games
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 283748
+Depends: deepin-elf-verify (>= 1.1.10-1), fonts-wqy-zenhei, fonts-wqy-microhei
+Breaks: store.spark-app.hmcl (<< 3.5.5~)
+Replaces: store.spark-app.hmcl (<< 3.5.5~)
+Filename: games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.8.249_arm64.deb
+Size: 75438112
+MD5sum: 261fbb5a08d5f952b8c11f7053e984f4
+SHA1: 199b5fa6b759781f49e6d90b7ae775b1b33c0923
+SHA256: 8f6e1485a93fc197df48891ec65d36abf43758775413a923e8f31cdbcdb4e6ac
+SHA512: a7357fea4b4b9b32db39f058e107ba11483fef6f4d2771b777fb62c8f3e4d6c785d20b4acbd7d39c9536606dd20ede1353f279bc613fac838aed64c1e102b3b3
+Homepage: https://hmcl.huangyuhui.net/
+Description: HMCL启动器正式版 3.5.8.249 by huanghongxun -打包by aninana
+ .
+ (Repackaged on Fri, 05 Jul 2024 22:30:54 +0800 by dpkg-repack.)
+
 Package: net.winegame.client
 Architecture: arm64
 Version: 0.5.10.5-box86-alpha13

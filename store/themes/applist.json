@@ -517,22 +517,6 @@
 }
 ,
 {
-    "Name": "深度图标开机动画",
-    "Version": "0.0.1-1",
-    "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
-    "Pkgname": "plymouth-theme-deepin-ssd-tubiao",
-    "Author": "咸粽子",
-    "Contributor": "咸粽子",
-    "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
-    "Update": "2020-10-09 21:15:57",
-    "Size": "27.45 KB",
-    "More": "一个深度图形图标呼吸渐变的开机动画。安装后在终端中使用 sudo plymouth-set-default-theme deepin-ssd-tubiao -R 更换开机动画。",
-    "Tags": "deepin;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/94366910-0a74-11eb-817c-892015e12177.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/92a3e230-0a74-11eb-817c-892015e12177.png"
-}
-,
-{
     "Name": "原神桌宠",
     "Version": "2.2spark0",
     "Filename": "com.github.shimeji.spark_2.2spark0_all.deb",
@@ -547,6 +531,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/23/c4bb4b278df14d9da85b75337a54a945.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/23/927ee3f36973416aa057ad6efef793ae.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/23/96fcf3f733544b65baa29e69afaccc94.png"
+}
+,
+{
+    "Name": "深度图标开机动画",
+    "Version": "0.0.1-1",
+    "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
+    "Pkgname": "plymouth-theme-deepin-ssd-tubiao",
+    "Author": "咸粽子",
+    "Contributor": "咸粽子",
+    "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
+    "Update": "2020-10-09 21:15:57",
+    "Size": "27.45 KB",
+    "More": "一个深度图形图标呼吸渐变的开机动画。安装后在终端中使用 sudo plymouth-set-default-theme deepin-ssd-tubiao -R 更换开机动画。",
+    "Tags": "deepin;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/94366910-0a74-11eb-817c-892015e12177.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/92a3e230-0a74-11eb-817c-892015e12177.png"
 }
 ,
 {
@@ -714,23 +714,6 @@
 }
 ,
 {
-    "Name": "幻梦动态壁纸deepinV23特别版本",
-    "Version": "1.7.5",
-    "Filename": "fantascene-v23_1.7.5_amd64.deb",
-    "Torrent_address": "fantascene-v23_1.7.5_amd64.deb.torrent",
-    "Pkgname": "fantascene-v23",
-    "Author": "liuminghang <liuminghang0821@gmail.com>",
-    "Contributor": "depend <523633637@qq.com>",
-    "Website": "http://github.com/dependon",
-    "Update": "2024-05-23 16:16:04",
-    "Size": "5.85 MB",
-    "More": "幻梦动态壁纸deepinV23特别版本使只能在deepinV23运行,安装时需要将其他的不同幻梦的动态壁纸全部卸载然后安装,否则无法安装,deepin原生桌面",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/5a3fc790ec6e4a46aab790dadd91a737.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b2679dde61647469b1397d0aebdf18d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/c4ddc742d86c419db10a93b0d81bd096.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b6fef9e291845cd827ea1759a8b3230.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/de4c13aba6c542e3b902a6d5804a7852.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/6554ca04e4844e63ab73d74a21377e44.png"
-}
-,
-{
     "Name": "荧主题光标",
     "Version": "1.0.1",
     "Filename": "lumine.cursors_1.0.1_all.deb",
@@ -745,6 +728,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/77a70d0bc61b42afb3d1676e70f4fefe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/aa72a742428641808efbf0b5d01bfc45.png"
+}
+,
+{
+    "Name": "幻梦动态壁纸deepinV23特别版本",
+    "Version": "1.7.5",
+    "Filename": "fantascene-v23_1.7.5_amd64.deb",
+    "Torrent_address": "fantascene-v23_1.7.5_amd64.deb.torrent",
+    "Pkgname": "fantascene-v23",
+    "Author": "liuminghang <liuminghang0821@gmail.com>",
+    "Contributor": "depend <523633637@qq.com>",
+    "Website": "http://github.com/dependon",
+    "Update": "2024-05-23 16:16:04",
+    "Size": "5.85 MB",
+    "More": "幻梦动态壁纸deepinV23特别版本使只能在deepinV23运行,安装时需要将其他的不同幻梦的动态壁纸全部卸载然后安装,否则无法安装,deepin原生桌面",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/5a3fc790ec6e4a46aab790dadd91a737.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b2679dde61647469b1397d0aebdf18d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/c4ddc742d86c419db10a93b0d81bd096.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/3b6fef9e291845cd827ea1759a8b3230.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/de4c13aba6c542e3b902a6d5804a7852.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/6554ca04e4844e63ab73d74a21377e44.png"
 }
 ,
 {

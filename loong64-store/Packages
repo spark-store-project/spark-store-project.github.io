@@ -8493,22 +8493,6 @@ SHA256: 80fd056c8ae7448e942bb7695823a7ded5f7feae838d3d3936a014a4e3231c40
 SHA512: 1a98935edf394df87bc934aaad35275c1b70e8e02feac429a2eaf52352cf438ca63321a65423fce495954d967ba56f5a1899cc9fbcd5e7df9b15d583b16184a0
 Description: ysyy on Deepin Wine6
 
-Package: com.cctv.ysyy.spark
-Architecture: all
-Version: 6.0.0.1spark10
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb
-Size: 83786104
-MD5sum: e88eb28cb7b8381c3e6a9cd7733b00ae
-SHA1: 145497f097011555e12f77acb942e6f6f2f2878f
-SHA256: 59c45bcd90cb17439fea4fe9e131f18255cb47f57653e5607f80c4d63e312e9f
-SHA512: 432fbfc94fce177d4bf98fe1385154bb7bbd53b8821231c5679f1aff6d598fee367cd6b954df22a771652fcd996f173ffe366dcd0ad64186660f6e30258f3724
-Description: ysyy on Deepin Wine6
-
 Package: obs-studio
 Architecture: loong64
 Version: 29.0.2+dfsg-1+b2

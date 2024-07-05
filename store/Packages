@@ -17343,6 +17343,27 @@ Description: Command & Conquer: Red Alert 2
 
 Package: net.hmcl.huangyuhui
 Architecture: amd64
+Version: 3.5.8.249
+Priority: optional
+Section: games
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 283748
+Depends: deepin-elf-verify (>= 1.1.10-1), fonts-wqy-zenhei, fonts-wqy-microhei
+Breaks: store.spark-app.hmcl (<< 3.5.5~)
+Replaces: store.spark-app.hmcl (<< 3.5.5~)
+Filename: games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.8.249_amd64.deb
+Size: 80114308
+MD5sum: dd284a9afcc5fc30a278d807cc267275
+SHA1: 37dbef2c354339e5526ac5ee81295de6355601fd
+SHA256: 62ce4826007e9259a552facb53624a2fcafdea548cf8294983df910ee0392091
+SHA512: c95df2e0ea6d9c69e500792f9ccad01c9949ba9b9d071ce6237bb72f6bdb946f2614b258b99cb0330737ae2614d95b171c3e3cddbfcf28a9773187bdb85f0206
+Homepage: https://hmcl.huangyuhui.net/
+Description: HMCL启动器正式版 3.5.8.249 by huanghongxun -打包by aninana
+ .
+ (Repackaged on Fri, 05 Jul 2024 22:30:54 +0800 by dpkg-repack.)
+
+Package: net.hmcl.huangyuhui
+Architecture: amd64
 Version: 3.5.6.243
 Priority: optional
 Section: games
