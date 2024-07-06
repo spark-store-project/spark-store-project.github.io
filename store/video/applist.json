@@ -497,22 +497,6 @@
 }
 ,
 {
-    "Name": "QQ影音（wine）",
-    "Version": "4.6.3.1104spark0",
-    "Filename": "com.qqplayer.spark_4.6.3.1104spark0_amd64.deb",
-    "Pkgname": "com.qqplayer.spark",
-    "Author": "Tencent",
-    "Contributor": "sgb76",
-    "Website": "https://player.qq.com/",
-    "Update": "2021-08-05 12:17:05",
-    "Size": "139.27 MB",
-    "More": "腾迅出品的影音播放器，基于原生wine打包，仅供尝鲜。\n\n注：Ubuntu下运行，KDE环境要比GNOME环境下运行流畅些，少一些窗口管理方面的奇怪问题",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/05/b9a450c0-f5a3-11eb-8c85-23913fa2db0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/05/bbc275d0-f5a3-11eb-8c85-23913fa2db0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/05/c39d9190-f5a3-11eb-8c85-23913fa2db0c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/05/b4ca4000-f5a3-11eb-8c85-23913fa2db0c.png"
-}
-,
-{
     "Name": "360万能播放器",
     "Version": "1.0.0.111",
     "Filename": "cn.360.360player_1.0.0.111_amd64.deb",
@@ -527,6 +511,22 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/c436616dbe884ff08946b345460fc198.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/49afee443a6f4cff981b3c1e75b8be73.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/01/5ff25d43c6db437fbfb6b59ab95c927e.png"
+}
+,
+{
+    "Name": "QQ影音（wine）",
+    "Version": "4.6.3.1104spark0",
+    "Filename": "com.qqplayer.spark_4.6.3.1104spark0_amd64.deb",
+    "Pkgname": "com.qqplayer.spark",
+    "Author": "Tencent",
+    "Contributor": "sgb76",
+    "Website": "https://player.qq.com/",
+    "Update": "2021-08-05 12:17:05",
+    "Size": "139.27 MB",
+    "More": "腾迅出品的影音播放器，基于原生wine打包，仅供尝鲜。\n\n注：Ubuntu下运行，KDE环境要比GNOME环境下运行流畅些，少一些窗口管理方面的奇怪问题",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/05/b9a450c0-f5a3-11eb-8c85-23913fa2db0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/05/bbc275d0-f5a3-11eb-8c85-23913fa2db0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/05/c39d9190-f5a3-11eb-8c85-23913fa2db0c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/05/b4ca4000-f5a3-11eb-8c85-23913fa2db0c.png"
 }
 ,
 {
@@ -750,6 +750,22 @@
 }
 ,
 {
+    "Name": "开源Qt播放器",
+    "Version": "1.0.0-1",
+    "Filename": "openqtmovie_1.0.0-1_amd64.deb",
+    "Pkgname": "openqtmovie",
+    "Author": "depend",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/openQtMovie",
+    "Update": "2022-01-26 13:54:29",
+    "Size": "154.98 KB",
+    "More": "极简风格播放器,纯Qt播放,gstreamer,打开速度快,其他emmmm,就这样吧,欢迎github点赞,ubuntu需要自行安装解码器,和系统那个播放器通用,其他的应该都ok",
+    "Tags": "community;deepin;uos;dtk5;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5ded8e20-7e6c-11ec-8937-bbd057308aa2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5dcc7190-7e6c-11ec-8937-bbd057308aa2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5dff4160-7e6c-11ec-8937-bbd057308aa2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5ddd6180-7e6c-11ec-8937-bbd057308aa2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/26/5a197bb0-7e6c-11ec-8937-bbd057308aa2.png"
+}
+,
+{
     "Name": "昆冈剪辑",
     "Version": "1.21.0829",
     "Filename": "com.sumoon.www.kungang_1.21.0829_amd64.deb",
@@ -779,22 +795,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c53d5aa0-afa1-11eb-8a08-556381fa106f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c5408ef0-afa1-11eb-8a08-556381fa106f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c548cc50-afa1-11eb-8a08-556381fa106f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/08/c5537ab0-afa1-11eb-8a08-556381fa106f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/08/b31b7a50-afa1-11eb-8a08-556381fa106f.png"
-}
-,
-{
-    "Name": "开源Qt播放器",
-    "Version": "1.0.0-1",
-    "Filename": "openqtmovie_1.0.0-1_amd64.deb",
-    "Pkgname": "openqtmovie",
-    "Author": "depend",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/openQtMovie",
-    "Update": "2022-01-26 13:54:29",
-    "Size": "154.98 KB",
-    "More": "极简风格播放器,纯Qt播放,gstreamer,打开速度快,其他emmmm,就这样吧,欢迎github点赞,ubuntu需要自行安装解码器,和系统那个播放器通用,其他的应该都ok",
-    "Tags": "community;deepin;uos;dtk5;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5ded8e20-7e6c-11ec-8937-bbd057308aa2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5dcc7190-7e6c-11ec-8937-bbd057308aa2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5dff4160-7e6c-11ec-8937-bbd057308aa2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/26/5ddd6180-7e6c-11ec-8937-bbd057308aa2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/26/5a197bb0-7e6c-11ec-8937-bbd057308aa2.png"
 }
 ,
 {
@@ -832,22 +832,6 @@
 }
 ,
 {
-    "Name": "ArctimePro",
-    "Version": "3.1spark1",
-    "Filename": "org.arctimepro.spark_3.1spark1_amd64.deb",
-    "Pkgname": "org.arctimepro.spark",
-    "Author": "Arctime团队",
-    "Contributor": "sgb76",
-    "Website": "https://arctime.org/",
-    "Update": "2021-09-12 11:22:55",
-    "Size": "188.07 MB",
-    "More": "一个全新理念的可视化字幕创作软件。借助精准的音频波形图，Arctime可以快速创建和编辑时间轴，还可以高效的进行文本编辑、翻译。支持SRT、ASS外挂字幕格式，并可以通过交换工程文件或与伙伴协同工作。\n\n软件依赖java和Vlc，打包时已将java环境打入包内，无需配置；软件安装时会自动安装vlc",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/6c0f5470-1378-11ec-b817-91e932b1a3d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/6efbc600-1378-11ec-b817-91e932b1a3d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/71d88020-1378-11ec-b817-91e932b1a3d4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/12/66d7e170-1378-11ec-b817-91e932b1a3d4.png"
-}
-,
-{
     "Name": "Mine-imator",
     "Version": "2.0.2spark1",
     "Filename": "com.mineimator.spark_2.0.2spark1_amd64.deb",
@@ -862,6 +846,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/04/7ae7b6cf0b7b44aea0c2a10c588843c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/04/23eef396635b4b479907ade96cbf59c4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/04/9fa853002cab46e39045a55a956c7e0f.png"
+}
+,
+{
+    "Name": "ArctimePro",
+    "Version": "3.1spark1",
+    "Filename": "org.arctimepro.spark_3.1spark1_amd64.deb",
+    "Pkgname": "org.arctimepro.spark",
+    "Author": "Arctime团队",
+    "Contributor": "sgb76",
+    "Website": "https://arctime.org/",
+    "Update": "2021-09-12 11:22:55",
+    "Size": "188.07 MB",
+    "More": "一个全新理念的可视化字幕创作软件。借助精准的音频波形图，Arctime可以快速创建和编辑时间轴，还可以高效的进行文本编辑、翻译。支持SRT、ASS外挂字幕格式，并可以通过交换工程文件或与伙伴协同工作。\n\n软件依赖java和Vlc，打包时已将java环境打入包内，无需配置；软件安装时会自动安装vlc",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/6c0f5470-1378-11ec-b817-91e932b1a3d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/6efbc600-1378-11ec-b817-91e932b1a3d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/12/71d88020-1378-11ec-b817-91e932b1a3d4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/12/66d7e170-1378-11ec-b817-91e932b1a3d4.png"
 }
 ,
 {

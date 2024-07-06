@@ -17362,25 +17362,6 @@ Description: HMCL启动器正式版 3.5.8.249 by huanghongxun -打包by aninana
  .
  (Repackaged on Fri, 05 Jul 2024 22:30:54 +0800 by dpkg-repack.)
 
-Package: net.hmcl.huangyuhui
-Architecture: amd64
-Version: 3.5.6.243
-Priority: optional
-Section: games
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 283748
-Depends: deepin-elf-verify (>= 1.1.1-1),     fonts-wqy-zenhei,    fonts-wqy-microhei
-Breaks: store.spark-app.hmcl (<< 3.5.5~)
-Replaces: store.spark-app.hmcl (<< 3.5.5~)
-Filename: games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_amd64.deb
-Size: 66142708
-MD5sum: 868cd0f9bcc1394420897e07f63e7ff9
-SHA1: f0130511b9b1f730e451becca2123901228c3041
-SHA256: f8a88bc14e7b0948c022498ca367c2320325d32b64903aa0c0a870498e67870d
-SHA512: c003502246468febb260d67a52b02c3edf1416a96b8e4de450786c513626c2f57f3fb556e7760551d09bed29d15a0ee9e0271b9908f63457e2c6fd5fb4a0c542
-Homepage: https://hmcl.huangyuhui.net/
-Description: HMCL启动器正式版 3.5.5 by huanghongxun -打包by aninana
-
 Package: com.closure.spark
 Architecture: amd64
 Version: 1.0spark0
@@ -36338,27 +36319,6 @@ SHA512: f4fc1a7001d8d38397261dfc3242a0467a0297ab7ffa2e4948566c6995d8c7c043db7359
 Homepage: https://www.deepin.com/
 Description: Mail is an easy-to-use desktop mail client that can manage multiple email accounts,supporting IMAP and POP3 protocols.
     Mail, developed by UnionTech Software, provides users with safe, convenient, free and value-added email services.
-
-Package: linuxqq
-Architecture: amd64
-Version: 3.2.10-25234
-Priority: optional
-Section: default
-Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 516425
-Depends: libopengl0
-Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.10-25234_amd64.deb
-Size: 149455420
-MD5sum: 944f8942636582d06b1b3498f41b6052
-SHA1: 3d635ae91cf1a7a68fa126b5dd5f5cf6ed582ef3
-SHA256: 087557e6d055ff0fff02ddb00632ea813cdaca2e0d2398b4e880e0c96fbe85ae
-SHA512: 10e7e623385bb179f95d9d4429b9b21ece0470e5ae49de614370e536ea51310fb29ae1cf1f01407b4932738af3159ae149c2968de33d9312dc2dd0bd099a7b2f
-Homepage: https://im.qq.com
-Description: 
-  QQ
-License: unknown
-Vendor: Tencent <QQ-Team@tencent.com>
 
 Package: linuxqq
 Architecture: amd64

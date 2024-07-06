@@ -512,6 +512,24 @@
 }
 ,
 {
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.qihoo.360safe_10.0.0.7536_loong64.deb",
+    "More": "360 安全卫士 For Linux\n\n修23无法启动",
+    "Name": "360 安全卫士（Linux）",
+    "Pkgname": "com.qihoo.360safe",
+    "Size": "154 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.qihoo.360safe_10.0.0.7536_loong64.deb.torrent",
+    "Update": "2024-03-24 14:23:36",
+    "Version": "10.0.0.7536",
+    "Website": "http://www.360.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/screen_1.png\"]"
+}
+
+,
+{
     "Author": "Dylan Aïssi <daissi@debian.org>",
     "Contributor": "Dylan Aïssi <daissi@debian.org>",
     "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_1_all.deb",
@@ -561,24 +579,6 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "qihoo360 company <support@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.qihoo.360safe_10.0.0.7536_loong64.deb",
-    "More": "360 安全卫士 For Linux\n\n修23无法启动",
-    "Name": "360 安全卫士（Linux）",
-    "Pkgname": "com.qihoo.360safe",
-    "Size": "154 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.qihoo.360safe_10.0.0.7536_loong64.deb.torrent",
-    "Update": "2024-03-24 14:23:36",
-    "Version": "10.0.0.7536",
-    "Website": "http://www.360.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/screen_1.png\"]"
 }
 
 ,
@@ -772,6 +772,41 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/52c122215788412db4e7d19c7f968024.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9b10f4a025d0416696859e7bcfe4ef17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/59a26424738949ad952bfe289cd310c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/3e312b1340b640e886d0de21ae3776d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/929c40b764a34ce9b8caa3be6d84d7c1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/6676aad26f7549f68007e1a069650b9a.png"
+}
+,
+{
+    "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.huorong.esm_2.0.7.5_loong64.deb",
+    "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
+    "Name": "火绒安全",
+    "Pkgname": "cn.huorong.esm",
+    "Size": "29 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.huorong.esm_2.0.7.5_loong64.deb.torrent",
+    "Update": "2024-06-22 20:50:44",
+    "Version": "2.0.7.5",
+    "Website": "https://huorong.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "引导修复 Boot-Repair",
+    "Version": "4ppa203",
+    "Filename": "boot-repair_4ppa203_all.deb",
+    "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
+    "Pkgname": "boot-repair",
+    "Author": "Yann Mrn <yannubuntu@protonmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://launchpad.net/boot-repair",
+    "Update": "2023-03-03 23:16:33",
+    "Size": "15.31 KB",
+    "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
 }
 ,
 {
@@ -1149,41 +1184,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_5.png\"]"
 }
 
-,
-{
-    "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.huorong.esm_2.0.7.5_loong64.deb",
-    "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
-    "Name": "火绒安全",
-    "Pkgname": "cn.huorong.esm",
-    "Size": "29 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "cn.huorong.esm_2.0.7.5_loong64.deb.torrent",
-    "Update": "2024-06-22 20:50:44",
-    "Version": "2.0.7.5",
-    "Website": "https://huorong.cn",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_3.png\"]"
-}
-
-,
-{
-    "Name": "引导修复 Boot-Repair",
-    "Version": "4ppa203",
-    "Filename": "boot-repair_4ppa203_all.deb",
-    "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
-    "Pkgname": "boot-repair",
-    "Author": "Yann Mrn <yannubuntu@protonmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://launchpad.net/boot-repair",
-    "Update": "2023-03-03 23:16:33",
-    "Size": "15.31 KB",
-    "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
-}
 ,
 {
     "Name": "Bleachbit",

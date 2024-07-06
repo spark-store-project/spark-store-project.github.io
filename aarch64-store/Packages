@@ -4898,25 +4898,6 @@ Description: UOS 推荐字体包（Part1）
 
 Package: net.hmcl.huangyuhui
 Architecture: arm64
-Version: 3.5.6.243
-Priority: optional
-Section: games
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 283748
-Depends: deepin-elf-verify (>= 1.1.10-1),        fonts-wqy-zenhei,       fonts-wqy-microhei
-Breaks: store.spark-app.hmcl (<< 3.5.3.220~)
-Replaces: store.spark-app.hmcl (<< 3.5.3.220~)
-Filename: games/net.hmcl.huangyuhui/net.hmcl.huangyuhui_3.5.6.243_arm64.deb
-Size: 59873872
-MD5sum: 0e659095b1f19d5824c8c26627492c8b
-SHA1: be67f206a1149e1af24b3b51c89524ab6daade99
-SHA256: aed0b72822bc9f8b70053d8c4200a838f3a3d8bca14373eaccd622539045d483
-SHA512: d3ddfb2427d7101fea21097c8aebb808786c962f6deaf1a88c828f30bbd7948b35a8c66fe033c8b5ba8ff226cb7d2a61c7137ea8c1dfb5fcff9b5ed14e0027a3
-Homepage: https://hmcl.huangyuhui.net/
-Description: HMCL启动器开发版 3.5.3.223 by huanghongxun -打包by shenmo
-
-Package: net.hmcl.huangyuhui
-Architecture: arm64
 Version: 3.5.8.249
 Priority: optional
 Section: games
@@ -8472,27 +8453,6 @@ SHA256: ba4f743958f54b56920cecaca78a95458d1321f706423f4200d8f21519869987
 SHA512: 313facd519b7b4ad508abe83ebe39cff7f917ab629f9bf2b390eca132827c5d690a5d4d7486ac27b550a7a1829b545d91e33bf18c991943e6e291a8120981fec
 Homepage: https://gov.dingtalk.com
 Description: 钉钉
-
-Package: linuxqq
-Architecture: amd64
-Version: 3.2.10-25234
-Priority: optional
-Section: default
-Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 516425
-Depends: libopengl0
-Recommends: libappindicator3-1
-Filename: chat/linuxqq/linuxqq_3.2.10-25234_amd64.deb
-Size: 149455420
-MD5sum: 944f8942636582d06b1b3498f41b6052
-SHA1: 3d635ae91cf1a7a68fa126b5dd5f5cf6ed582ef3
-SHA256: 087557e6d055ff0fff02ddb00632ea813cdaca2e0d2398b4e880e0c96fbe85ae
-SHA512: 10e7e623385bb179f95d9d4429b9b21ece0470e5ae49de614370e536ea51310fb29ae1cf1f01407b4932738af3159ae149c2968de33d9312dc2dd0bd099a7b2f
-Homepage: https://im.qq.com
-Description: 
-  QQ
-License: unknown
-Vendor: Tencent <QQ-Team@tencent.com>
 
 Package: linuxqq
 Architecture: arm64
