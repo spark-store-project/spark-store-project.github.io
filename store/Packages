@@ -36360,6 +36360,27 @@ Description:
 License: unknown
 Vendor: Tencent <QQ-Team@tencent.com>
 
+Package: linuxqq
+Architecture: amd64
+Version: 3.2.10-25493
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 516709
+Depends: libopengl0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.10-25493_amd64.deb
+Size: 149581142
+MD5sum: 40a243201d03da383fb58e06ae43dd3f
+SHA1: beb6396761e6d5f667b68708f2d642aa0f1a56a2
+SHA256: 55ccb77cfea8a22477fa2e954f411043ffc97befa8fbc615823a88b35b61521d
+SHA512: b89ab243bb75c9ae1d41fb89c55c4a0a9bfaf3fc029584e2cb8d10dce9eaf7669faa68e7de9e4d9e9190fdc790460535367e7e2276ac86920225bec8d9af68d5
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
 Package: com.qq.tim.spark
 Architecture: all
 Version: 3.4.3.22064spark6

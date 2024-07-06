@@ -322,23 +322,6 @@
 }
 ,
 {
-    "Name": "R-Linux数据恢复",
-    "Version": "6.3.191253",
-    "Filename": "rlinux_6.3.191253_amd64.deb",
-    "Torrent_address": "rlinux_6.3.191253_amd64.deb.torrent",
-    "Pkgname": "rlinux",
-    "Author": "R-Tools Technology <support@r-tt.com>",
-    "Contributor": "R-Tools Technology <support@r-tt.com>",
-    "Website": "http://www.r-tt.com",
-    "Update": "2023-12-27 13:00:48",
-    "Size": "67.06 MB",
-    "More": "R-Linux是Linux中使用的Ext2 / Ext3 / Ext4 FS文件系统的免费文件恢复实用程序。 R-Linux使用InteligentScan技术，并通过灵活的参数设置为Linux平台提供最快、最可靠的文件恢复。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/27/3196bc3b7c4e427cb1d81ced9c37cd5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/27/450fb903d7074e6c8b35d497452d8555.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/27/f8ff27ed853a49eb83e41464d8bd4f02.png"
-}
-,
-{
     "Name": "金山打字通2016",
     "Version": "22059.12012.0spark0",
     "Filename": "com.51dzt.typeeasy.spark_22059.12012.0spark0_i386.deb",
@@ -353,6 +336,23 @@
     "Tags": "ubuntu;deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/65b939ae8f6e4027a58ddf63c7505bec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/58f6d8252e374d9eaf45d25d9be4a6d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/fc300b09f4cd4f58bcfe6d1cc1e0296f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/23/175d43c67e6c49999f3cf9cd6530f095.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/23/2956de73c6954197a130f0ef302cbbcb.png"
+}
+,
+{
+    "Name": "R-Linux数据恢复",
+    "Version": "6.3.191253",
+    "Filename": "rlinux_6.3.191253_amd64.deb",
+    "Torrent_address": "rlinux_6.3.191253_amd64.deb.torrent",
+    "Pkgname": "rlinux",
+    "Author": "R-Tools Technology <support@r-tt.com>",
+    "Contributor": "R-Tools Technology <support@r-tt.com>",
+    "Website": "http://www.r-tt.com",
+    "Update": "2023-12-27 13:00:48",
+    "Size": "67.06 MB",
+    "More": "R-Linux是Linux中使用的Ext2 / Ext3 / Ext4 FS文件系统的免费文件恢复实用程序。 R-Linux使用InteligentScan技术，并通过灵活的参数设置为Linux平台提供最快、最可靠的文件恢复。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/27/3196bc3b7c4e427cb1d81ced9c37cd5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/27/450fb903d7074e6c8b35d497452d8555.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/27/f8ff27ed853a49eb83e41464d8bd4f02.png"
 }
 ,
 {
@@ -857,6 +857,23 @@
 }
 ,
 {
+    "Name": "重启至uefi",
+    "Version": "0.0.1",
+    "Filename": "reboot-uefi_0.0.1_all.deb",
+    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
+    "Pkgname": "reboot-uefi",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
+    "Update": "2022-12-27 20:48:48",
+    "Size": "2 KB",
+    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
+}
+,
+{
     "Name": "萌神拼音体：带拼音的中文宋体",
     "Version": "1.02-1",
     "Filename": "fonts-cjk-zh-mengshen_1.02-1_all.deb",
@@ -888,23 +905,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/aa117b341f5f4f5a85db23fd8e75578a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/e3ad5190da5f4489ae94a492a086cc36.png"
-}
-,
-{
-    "Name": "重启至uefi",
-    "Version": "0.0.1",
-    "Filename": "reboot-uefi_0.0.1_all.deb",
-    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
-    "Pkgname": "reboot-uefi",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
-    "Update": "2022-12-27 20:48:48",
-    "Size": "2 KB",
-    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
 }
 ,
 {

@@ -1011,6 +1011,23 @@
 }
 ,
 {
+    "Name": "RustDesk",
+    "Version": "1.2.3",
+    "Filename": "rustdesk_1.2.3_amd64.deb",
+    "Torrent_address": "rustdesk_1.2.3_amd64.deb.torrent",
+    "Pkgname": "rustdesk",
+    "Author": "rustdesk <info@rustdesk.com>",
+    "Contributor": "rustdesk <info@rustdesk.com>",
+    "Website": "https://rustdesk.com",
+    "Update": "2024-02-06 12:35:53",
+    "Size": "17.86 MB",
+    "More": "开源远程桌面软件，开箱即用，无需任何配置。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1027,23 +1044,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "RustDesk",
-    "Version": "1.2.3",
-    "Filename": "rustdesk_1.2.3_amd64.deb",
-    "Torrent_address": "rustdesk_1.2.3_amd64.deb.torrent",
-    "Pkgname": "rustdesk",
-    "Author": "rustdesk <info@rustdesk.com>",
-    "Contributor": "rustdesk <info@rustdesk.com>",
-    "Website": "https://rustdesk.com",
-    "Update": "2024-02-06 12:35:53",
-    "Size": "17.86 MB",
-    "More": "开源远程桌面软件，开箱即用，无需任何配置。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/667306c238a24f0793ec1b743c15f431.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/82c68a1816ec4796a31b1b22e67789b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/1a67dedd3d5d475494a24edb648ee880.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/9f2afc5705fa426ab6930e4519ef34ac.png"
-}
 ,
 {
     "Name": "格式工厂（Wine）",
@@ -1745,23 +1745,6 @@
 }
 ,
 {
-    "Name": "端口扫描(tcp)",
-    "Version": "0.1.3-20230910",
-    "Filename": "z-tools-scanport_0.1.3-20230910_amd64.deb",
-    "Torrent_address": "z-tools-scanport_0.1.3-20230910_amd64.deb.torrent",
-    "Pkgname": "z-tools-scanport",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "Update": "2023-09-10 19:56:11",
-    "Size": "42.03 KB",
-    "More": "1. Tcp 端口扫描器\n\nv0.1.2: 新增无脑扫描本地端口\nv0.1.3: 新增扫描结果右键菜单",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/f09c514832014eedb03375e676a6ae5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/cd876cb9c61c4248a265d1d149fd3162.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/a9d4d996a778463d99399b398b3e6f5a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/10/d551320198e3404da74572f059aa72a5.png"
-}
-,
-{
     "Name": "UOS AI",
     "Version": "1.2.9-1",
     "Filename": "uos-ai_1.2.9-1_amd64.deb",
@@ -1776,6 +1759,23 @@
     "Tags": "deepin;uos;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/a0cc1d1ffb5946edac5e1b3cb6b8ce26.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/c8ffe685560b49d8a9c57f6cb3624365.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/53c3dbceaf7246baa8addd13454ad699.png"
+}
+,
+{
+    "Name": "端口扫描(tcp)",
+    "Version": "0.1.3-20230910",
+    "Filename": "z-tools-scanport_0.1.3-20230910_amd64.deb",
+    "Torrent_address": "z-tools-scanport_0.1.3-20230910_amd64.deb.torrent",
+    "Pkgname": "z-tools-scanport",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "Update": "2023-09-10 19:56:11",
+    "Size": "42.03 KB",
+    "More": "1. Tcp 端口扫描器\n\nv0.1.2: 新增无脑扫描本地端口\nv0.1.3: 新增扫描结果右键菜单",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/f09c514832014eedb03375e676a6ae5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/cd876cb9c61c4248a265d1d149fd3162.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/a9d4d996a778463d99399b398b3e6f5a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/10/d551320198e3404da74572f059aa72a5.png"
 }
 ,
 {
@@ -1897,23 +1897,6 @@
 }
 ,
 {
-    "Name": "设备网络搜索（密码重置）",
-    "Version": "1.0",
-    "Filename": "com.sadptool.spark_1.0_all.deb",
-    "Torrent_address": "com.sadptool.spark_1.0_all.deb.torrent",
-    "Pkgname": "com.sadptool.spark",
-    "Author": "zs8855858",
-    "Contributor": "zs8855858",
-    "Website": "https://www.hikvision.com/cn/support/tools/hitools/?type=ID",
-    "Update": "2023-08-08 10:12:31",
-    "Size": "893.16 MB",
-    "More": "通过SADP软件搜索局域网内所在网段的在线设备。同时支持查看设备信息、激活设备、修改设备的网络参数、重置设备密码等功能",
-    "Tags": "uos;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/bd89b5baf28046beb88b69b9c594cf89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/19fc190679384ca384141096be86513e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/3fa525465aab482aa74a96e651016077.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/0aa48cdde37746a38b1f179502d8891b.png"
-}
-,
-{
     "Name": "系统监视中心",
     "Version": "2.26.0",
     "Filename": "system-monitoring-center_2.26.0_all.deb",
@@ -1928,6 +1911,23 @@
     "Tags": "ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
+}
+,
+{
+    "Name": "设备网络搜索（密码重置）",
+    "Version": "1.0",
+    "Filename": "com.sadptool.spark_1.0_all.deb",
+    "Torrent_address": "com.sadptool.spark_1.0_all.deb.torrent",
+    "Pkgname": "com.sadptool.spark",
+    "Author": "zs8855858",
+    "Contributor": "zs8855858",
+    "Website": "https://www.hikvision.com/cn/support/tools/hitools/?type=ID",
+    "Update": "2023-08-08 10:12:31",
+    "Size": "893.16 MB",
+    "More": "通过SADP软件搜索局域网内所在网段的在线设备。同时支持查看设备信息、激活设备、修改设备的网络参数、重置设备密码等功能",
+    "Tags": "uos;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/bd89b5baf28046beb88b69b9c594cf89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/19fc190679384ca384141096be86513e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/3fa525465aab482aa74a96e651016077.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/0aa48cdde37746a38b1f179502d8891b.png"
 }
 ,
 {
@@ -1981,23 +1981,6 @@
 }
 ,
 {
-    "Name": "腾讯御点",
-    "Version": "2.1.0.348-1.uos20",
-    "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
-    "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
-    "Pkgname": "com.tencent.yudian",
-    "Author": "tav",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://tav.qq.com",
-    "Update": "2022-10-22 18:05:19",
-    "Size": "56.41 MB",
-    "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
-}
-,
-{
     "Name": "奇安信网神终端安全管理系统",
     "Version": "7.0.5.1600",
     "Filename": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb",
@@ -2012,6 +1995,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/e09fefaa861d4c72a4a35f0fec293ee8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/515d6f69d687424097b48f409ad614c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/d6043d97cf784955b856210763893ce4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/ad6833efdc524d84aabb04d5ec0c2928.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/cbe6253af7d547bda9c80f37fb59991f.png"
+}
+,
+{
+    "Name": "腾讯御点",
+    "Version": "2.1.0.348-1.uos20",
+    "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
+    "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
+    "Pkgname": "com.tencent.yudian",
+    "Author": "tav",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://tav.qq.com",
+    "Update": "2022-10-22 18:05:19",
+    "Size": "56.41 MB",
+    "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
 }
 ,
 {
@@ -2097,20 +2097,6 @@
 }
 ,
 {
-   "Name":"XiaoMiTool（XMT2）",
-   "Version":"20.7.28",
-   "Filename":"com.xiaomitool_20.7.28_amd64.deb",
-   "Pkgname":"com.xiaomitool",
-   "Author":"XiaoMiTool",
-   "Contributor":"一只科技菌",
-   "Website":"https://www.xiaomitool.com/",
-   "Update":"2020-08-13 12:54",
-   "Size":"77.71MB",
-   "More":"小米bl解锁工具哦！！！"
-}
-
-,
-{
     "Name": "GXDE 内核管理器 1.1.0",
     "Version": "1.1.0",
     "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
@@ -2126,6 +2112,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
 }
+,
+{
+   "Name":"XiaoMiTool（XMT2）",
+   "Version":"20.7.28",
+   "Filename":"com.xiaomitool_20.7.28_amd64.deb",
+   "Pkgname":"com.xiaomitool",
+   "Author":"XiaoMiTool",
+   "Contributor":"一只科技菌",
+   "Website":"https://www.xiaomitool.com/",
+   "Update":"2020-08-13 12:54",
+   "Size":"77.71MB",
+   "More":"小米bl解锁工具哦！！！"
+}
+
 ,
 {
     "Name": "奔图打印机驱动",
@@ -2567,6 +2567,22 @@
 }
 ,
 {
+    "Name": "海天鹰时钟",
+    "Version": "1.0",
+    "Filename": "com.htyclock.spark_1.0_amd64.deb",
+    "Pkgname": "com.htyclock.spark",
+    "Author": "海天鹰",
+    "Contributor": "gfdgd xi",
+    "Website": "https://github.com/sonichy/HTYClock",
+    "Update": "2021-01-02 07:13:22",
+    "Size": "110.87 KB",
+    "More": "一个小时钟",
+    "Tags": "community;deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/b23e0ac0-4cc9-11eb-89fb-bf4424610143.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/b4fba420-4cc9-11eb-89fb-bf4424610143.png"
+}
+,
+{
     "Name": "安卓信息查看器(adb)",
     "Version": "0.1.1-20230817",
     "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
@@ -2581,22 +2597,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
-}
-,
-{
-    "Name": "海天鹰时钟",
-    "Version": "1.0",
-    "Filename": "com.htyclock.spark_1.0_amd64.deb",
-    "Pkgname": "com.htyclock.spark",
-    "Author": "海天鹰",
-    "Contributor": "gfdgd xi",
-    "Website": "https://github.com/sonichy/HTYClock",
-    "Update": "2021-01-02 07:13:22",
-    "Size": "110.87 KB",
-    "More": "一个小时钟",
-    "Tags": "community;deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/b23e0ac0-4cc9-11eb-89fb-bf4424610143.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/b4fba420-4cc9-11eb-89fb-bf4424610143.png"
 }
 ,
 {
@@ -2665,6 +2665,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "倒计时",
     "Version": "1.0",
     "Filename": "spark.gitee.timer_1.0_amd64.deb",
@@ -2712,23 +2729,6 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
-}
-,
-{
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
@@ -3439,6 +3439,40 @@
 }
 ,
 {
+    "Name": "AppImageHub 简易搜索工具",
+    "Version": "0.0.1-20231206",
+    "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
+    "Torrent_address": "appimage-hub-search_0.0.1-20231206_amd64.deb.torrent",
+    "Pkgname": "appimage-hub-search",
+    "Author": "Individual developer <packages@email.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.appimage-hub-search",
+    "Update": "2023-12-06 18:08:31",
+    "Size": "22.66 KB",
+    "More": "用于查看AppimageHub的软件信息\n .\n 其它说明行部分;\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
+}
+,
+{
+    "Name": "Aechoterm闪令",
+    "Version": "3.0.3",
+    "Filename": "aechoterm_3.0.3_amd64.deb",
+    "Torrent_address": "aechoterm_3.0.3_amd64.deb.torrent",
+    "Pkgname": "aechoterm",
+    "Author": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
+    "Contributor": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
+    "Website": "https://ec.nantianzzx.com/",
+    "Update": "2022-12-09 17:29:19",
+    "Size": "60.37 MB",
+    "More": "Aechoterm（中文名：闪令）是一款免费的、跨平台的，以SSH、SFTP协议访问远程服务器的终端、文件管理工具。可以将本地与远程主机文件进行互传，并可在多个远程服务器上同时执行命令",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285875876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285942776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290006876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290081076958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290146676958200.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
+}
+,
+{
     "Name": "xbj-com",
     "Version": "0.1.0",
     "Filename": "xbj-com_0.1.0_amd64.deb",
@@ -3521,40 +3555,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/22/cf8d5a9e62d341a0b2808f611bc59135.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/22/70c07c0a3d5b492dac57e8f6e334e4de.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/22/8cb6076572c442fa8ea76f48450e0427.png"
-}
-,
-{
-    "Name": "AppImageHub 简易搜索工具",
-    "Version": "0.0.1-20231206",
-    "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
-    "Torrent_address": "appimage-hub-search_0.0.1-20231206_amd64.deb.torrent",
-    "Pkgname": "appimage-hub-search",
-    "Author": "Individual developer <packages@email.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.appimage-hub-search",
-    "Update": "2023-12-06 18:08:31",
-    "Size": "22.66 KB",
-    "More": "用于查看AppimageHub的软件信息\n .\n 其它说明行部分;\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
-}
-,
-{
-    "Name": "Aechoterm闪令",
-    "Version": "3.0.3",
-    "Filename": "aechoterm_3.0.3_amd64.deb",
-    "Torrent_address": "aechoterm_3.0.3_amd64.deb.torrent",
-    "Pkgname": "aechoterm",
-    "Author": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
-    "Contributor": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
-    "Website": "https://ec.nantianzzx.com/",
-    "Update": "2022-12-09 17:29:19",
-    "Size": "60.37 MB",
-    "More": "Aechoterm（中文名：闪令）是一款免费的、跨平台的，以SSH、SFTP协议访问远程服务器的终端、文件管理工具。可以将本地与远程主机文件进行互传，并可在多个远程服务器上同时执行命令",
-    "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285875876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285942776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290006876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290081076958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290146676958200.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
 }
 ,
 {
@@ -3707,6 +3707,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
+    "Version": "10.0.9.0.8-903spark1",
+    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
+    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
+    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
+    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.taotics.com/",
+    "Update": "2024-07-02 07:41:36",
+    "Size": "59.98 MB",
+    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
     "Name": "Alacritty",
     "Version": "0.5.0-1",
     "Filename": "alacritty_0.5.0-1_amd64.deb",
@@ -3754,23 +3771,6 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/0ba80470-7617-11ee-b02a-ffa67c89e541.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/e0070aa0-7616-11ee-b02a-ffa67c89e541.png"
-}
-,
-{
-    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
-    "Version": "10.0.9.0.8-903spark1",
-    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
-    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
-    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
-    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.taotics.com/",
-    "Update": "2024-07-02 07:41:36",
-    "Size": "59.98 MB",
-    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
 }
 ,
 {
@@ -4535,6 +4535,23 @@
 }
 ,
 {
+    "Name": "AIDA64（Wine）",
+    "Version": "6.90.6500",
+    "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
+    "Torrent_address": "com.aida64.deepin_6.90.6500_i386.deb.torrent",
+    "Pkgname": "com.aida64.deepin",
+    "Author": "Ticozhang",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.aida64.com/downloads",
+    "Update": "2024-06-29 21:22:43",
+    "Size": "78.42 MB",
+    "More": "一款测试软硬件系统信息的工具，它可以详细的显示出pc每一个方面的信息。aida64不仅提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e2e45bbe0b024e7db24e59f88e3ad59e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/16470b3d62ee45fbaa6685499f9ee2f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/8491fdb71873479eb4356a863901870a.png"
+}
+,
+{
     "Name": "星火构建服务 SBS",
     "Version": "0.3",
     "Filename": "spark-building-service_0.3_all.deb",
@@ -4651,23 +4668,6 @@
     "Tags": "ubuntu;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
-}
-,
-{
-    "Name": "AIDA64（Wine）",
-    "Version": "6.90.6500",
-    "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
-    "Torrent_address": "com.aida64.deepin_6.90.6500_i386.deb.torrent",
-    "Pkgname": "com.aida64.deepin",
-    "Author": "Ticozhang",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.aida64.com/downloads",
-    "Update": "2024-06-29 21:22:43",
-    "Size": "78.42 MB",
-    "More": "一款测试软硬件系统信息的工具，它可以详细的显示出pc每一个方面的信息。aida64不仅提供了诸如协助超频，硬件侦错，压力测试和传感器监测等多种功能，而且还可以对处理器，系统内存和磁盘驱动器的性能进行全面评估。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e2e45bbe0b024e7db24e59f88e3ad59e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/16470b3d62ee45fbaa6685499f9ee2f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/8491fdb71873479eb4356a863901870a.png"
 }
 ,
 {
