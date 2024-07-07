@@ -90,24 +90,6 @@
 
 ,
 {
-    "Author": "Deepin Browser <browser@deepin.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
-    "More": "一款长的有点像Dtk应用的浏览器",
-    "Name": "深度浏览器",
-    "Pkgname": "org.deepin.browser",
-    "Size": "154 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "org.deepin.browser_6.3.16-1_arm64.deb.torrent",
-    "Update": "2024-05-16 22:57:35",
-    "Version": "6.3.16-1",
-    "Website": "https://www.deepin.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
-}
-
-,
-{
     "Author": "酷安",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "uengine-dc-com.coolapk.market_13.1.1_all.deb",
@@ -122,6 +104,24 @@
     "Website": "https://www.coolapk.com",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/uengine-dc-com.coolapk.market/icon.png",
     "img_urls": "[]"
+}
+
+,
+{
+    "Author": "Deepin Browser <browser@deepin.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
+    "More": "一款长的有点像Dtk应用的浏览器",
+    "Name": "深度浏览器",
+    "Pkgname": "org.deepin.browser",
+    "Size": "154 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "org.deepin.browser_6.3.16-1_arm64.deb.torrent",
+    "Update": "2024-05-16 22:57:35",
+    "Version": "6.3.16-1",
+    "Website": "https://www.deepin.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
 }
 
 ,
@@ -321,24 +321,6 @@
 
 ,
 {
-    "Author": "Dominik George <natureshadow@debian.org>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "midori_7.0-2_arm64.deb",
-    "More": "Midori是一款开源的网络浏览器，它更注重轻量级而不是提供大量功能。\n使用 Vala 编写，使用 GTK+3 和 WebKit 渲染引擎。 * 标签、窗口和会话管理。 * 快速拨号。 * 默认保存下一个会话的选项卡。 * 使用 DuckDuckGo 作为默认搜索引擎。可以更改为 Google 或 Yahoo。 * 书签管理。 * 可定制和可扩展的界面。 * 扩展模块可以用 C 和 Vala 编写。 * 支持 HTML5。 * 少量的扩展程序包括广告拦截器、彩色标签等。没有第三方扩展程序。 * 表单历史。 * 隐私浏览。 * 可用于 Linux 和 Windows。\n\n Midori is a lightweight web browser based on WebKit.\n .\n Its features include:\n .\n  * Full integration with GTK+2.\n  * Fast rendering with WebKit.\n  * Tabs, windows and session management.\n  * Flexibly configurable Web Search.\n  * User scripts and user styles support.\n  * Straightforward bookmark management.\n  * Customizable and extensible interface.\n  * Support for extensions (written in C).\n  * Custom context menu actions.",
-    "Name": "Midori 浏览器（一个轻量级的 Web 浏览器）",
-    "Pkgname": "midori",
-    "Size": "718 Kb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "midori_7.0-2_arm64.deb.torrent",
-    "Update": "2023-04-29 09:25:30",
-    "Version": "7.0-2",
-    "Website": "https://www.midori-browser.org/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_2.png\"]"
-}
-
-,
-{
     "Author": "RealVNC <noreply@realvnc.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "realvnc-vnc-server_7.11.0.18_arm64.deb",
@@ -353,6 +335,24 @@
     "Website": "https://www.realvnc.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/realvnc-vnc-server/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Dominik George <natureshadow@debian.org>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "midori_7.0-2_arm64.deb",
+    "More": "Midori是一款开源的网络浏览器，它更注重轻量级而不是提供大量功能。\n使用 Vala 编写，使用 GTK+3 和 WebKit 渲染引擎。 * 标签、窗口和会话管理。 * 快速拨号。 * 默认保存下一个会话的选项卡。 * 使用 DuckDuckGo 作为默认搜索引擎。可以更改为 Google 或 Yahoo。 * 书签管理。 * 可定制和可扩展的界面。 * 扩展模块可以用 C 和 Vala 编写。 * 支持 HTML5。 * 少量的扩展程序包括广告拦截器、彩色标签等。没有第三方扩展程序。 * 表单历史。 * 隐私浏览。 * 可用于 Linux 和 Windows。\n\n Midori is a lightweight web browser based on WebKit.\n .\n Its features include:\n .\n  * Full integration with GTK+2.\n  * Fast rendering with WebKit.\n  * Tabs, windows and session management.\n  * Flexibly configurable Web Search.\n  * User scripts and user styles support.\n  * Straightforward bookmark management.\n  * Customizable and extensible interface.\n  * Support for extensions (written in C).\n  * Custom context menu actions.",
+    "Name": "Midori 浏览器（一个轻量级的 Web 浏览器）",
+    "Pkgname": "midori",
+    "Size": "718 Kb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "midori_7.0-2_arm64.deb.torrent",
+    "Update": "2023-04-29 09:25:30",
+    "Version": "7.0-2",
+    "Website": "https://www.midori-browser.org/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/midori/screen_2.png\"]"
 }
 
 ,
@@ -681,6 +681,24 @@
 
 ,
 {
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
+    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
+    "Name": "夸克网盘",
+    "Pkgname": "cn.quarkclouddrive.spark",
+    "Size": "150 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
+    "Update": "2024-06-15 15:07:28",
+    "Version": "3.2.6spark4",
+    "Website": "https://pan.quark.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
+}
+
+,
+{
     "Author": "Deepin Sysdev <sysdev@deepin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "uos-remote-assistance_1.1.34-1_arm64.deb",
@@ -731,24 +749,6 @@
     "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
-    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
-    "Name": "夸克网盘",
-    "Pkgname": "cn.quarkclouddrive.spark",
-    "Size": "150 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
-    "Update": "2024-06-15 15:07:28",
-    "Version": "3.2.6spark4",
-    "Website": "https://pan.quark.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
 }
 
 ,
