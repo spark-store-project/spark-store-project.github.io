@@ -1829,14 +1829,14 @@ Maintainer: Wei Xie <xiewei@uniontech.com>, Guo Lv <lvguo@uniontech.com>
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Installed-Size: 1264874
 Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: libasound2 (>= 1.0.16),  libc6 (>= 2.26),  libcapi20-3,  libdbus-1-3 (>= 1.9.16),  libgcc1 (>= 1:3.0),  libglib2.0-0 (>= 2.37.3),  libgphoto2-6 (>= 2.5.10),  libgphoto2-port12 (>= 2.5.10),  libgstreamer-plugins-base1.0-0 (>= 1.0.0),  libgstreamer1.0-0 (>= 1.4.0),  libpulse0 (>= 0.99.1),  libsane (>= 1.0.24),  libudev1 (>= 183),  libusb-1.0-0 (>= 2:1.0.21),  libwayland-client0 (>= 1.11.0),  libx11-6,  libxext6,  ocl-icd-libopencl1 | libopencl1,  ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1,  libasound2-plugins,  libncurses6 | libncurses5 | libncurses, deepin-elf-verify (>= 1.1.10-1)
+Depends: libasound2 (>= 1.0.16),  libc6 (>= 2.26),  libcapi20-3,  libdbus-1-3 (>= 1.9.16),  libgcc1 (>= 1:3.0),  libglib2.0-0 (>= 2.37.3),  libgphoto2-6 (>= 2.5.10),  libgphoto2-port12 (>= 2.5.10),  libgstreamer-plugins-base1.0-0 (>= 1.0.0),  libgstreamer1.0-0 (>= 1.4.0),  libpulse0 (>= 0.99.1),  libsane (>= 1.0.24) | libsane1,  libudev1 (>= 183),  libusb-1.0-0 (>= 2:1.0.21),  libwayland-client0 (>= 1.11.0),  libx11-6,  libxext6,  ocl-icd-libopencl1 | libopencl1,  ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1,  libasound2-plugins,  libncurses6 | libncurses5 | libncurses, deepin-elf-verify (>= 1.1.10-1)
 Recommends: libcap2-bin, libcups2, libnss-myhostname, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libjpeg62-turbo | libjpeg8, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
 Filename: depends/deepin-wine8/deepin-wine8-stable_8.16deepin21_amd64.deb
-Size: 193652048
-MD5sum: 1b4c706bdb99d47ba6f31cb25aac7981
-SHA1: af79475b8de49097ba8b3ba3a5b5052afb790160
-SHA256: b90cb129672e95be4a283d759fd612ec0bbb796115130e5798f3dae2ce057cfa
-SHA512: f3c39e1ec306ec9c1f56ea2744121e5ba99fcee067f52d3621dccad43183c8bf34738ffbdf6a47f048ff6cf3b70d78577170914a50aa53c0b8dc9f663324ce18
+Size: 193688624
+MD5sum: a21b2cf6fdce74302d40fc3dbb792cd4
+SHA1: f078b59c4120d8122a868b1978c75b221931ce7f
+SHA256: 57d0e7d5b732cb703cb7b9562af0b3103c848e6094c4bc9f7522ffea6c3b8ec8
+SHA512: 8d84185f6c48a53d5fe2ee25126055b10589635c4aa483277ffb5880d5f1ca986b4dc56fa484880eaeaf45a5a7594f71677b28a94e7096d5fac267f9a954d35e
 Description: WINE Is Not An Emulator - runs MS Windows programs Wine is a program which allows running Microsoft Windows programs (including DOS, Windows 3.x and Win32 executables) on Unix. . This package contains the files needed to support 64-bit or 32-bit Windows programs.
 
 Package: equivs
