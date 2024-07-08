@@ -894,6 +894,22 @@
 }
 ,
 {
+    "Name": "STM32CubeMX",
+    "Version": "6.0.1",
+    "Filename": "stm32cubemx_6.0.1_amd64.deb",
+    "Pkgname": "stm32cubemx",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:56:48",
+    "Size": "252.74 MB",
+    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
+}
+,
+{
     "Name": "海龟编辑器",
     "Version": "0.1.3",
     "Filename": "cn.codemao.wood_0.1.3_amd64.deb",
@@ -908,22 +924,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/f13739abcebf47d7a96bc5efae2383e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/082973b24d3645c5922317bd4158a18f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/2b75ab8ba96346cf904c9f5ab1e7505f.png"
-}
-,
-{
-    "Name": "STM32CubeMX",
-    "Version": "6.0.1",
-    "Filename": "stm32cubemx_6.0.1_amd64.deb",
-    "Pkgname": "stm32cubemx",
-    "Author": "STMicroelectronics",
-    "Contributor": "lidanger",
-    "Website": "https://www.st.com",
-    "Update": "2020-10-31 06:56:48",
-    "Size": "252.74 MB",
-    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
 }
 ,
 {
@@ -1271,23 +1271,6 @@
 }
 ,
 {
-    "Name": "GitFiend",
-    "Version": "0.44.3",
-    "Filename": "gitfiend_0.44.3_amd64.deb",
-    "Torrent_address": "gitfiend_0.44.3_amd64.deb.torrent",
-    "Pkgname": "gitfiend",
-    "Author": "Toby Suggate <sugto555@gmail.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://gitfiend.com",
-    "Update": "2024-05-05 06:16:08",
-    "Size": "68.75 MB",
-    "More": "Git管理工具  A Git client designed for humans",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/9c5da42839fd48d0989e19ff3c84ad19.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/0cd8f4419b114e8c8aa6d3a8fbe0712e.png"
-}
-,
-{
     "Name": "Beekeeper Studio",
     "Version": "3.8.9",
     "Filename": "beekeeper-studio_3.8.9_amd64.deb",
@@ -1305,20 +1288,20 @@
 }
 ,
 {
-    "Name": "Distrobox",
-    "Version": "1.4.2.1~spark2",
-    "Filename": "distrobox_1.4.2.1~spark2_all.deb",
-    "Torrent_address": "distrobox_1.4.2.1~spark2_all.deb.torrent",
-    "Pkgname": "distrobox",
-    "Author": "Luca di Maio",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://github.com/89luca89/distrobox",
-    "Update": "2023-01-14 14:22:55",
-    "Size": "180.37 KB",
-    "More": "Distrobox 能让您在终端里使用您最熟悉喜爱的 Linux 发行版。有了 Distrobox，软件兼容的问题不复存在。Distrobox 能使用 Podman 或 Docker 创建您心仪的 Linux 发行版的容器，与宿主机高度融合，能分享 `$HOME` 目录、外置储存、U 盘、图形化 APP、声音等等。\n\n该软件包并非上游支持；如遇到任何问题，请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/distrobox-spark-store 建工单。\n\n使用 Distrobox 前，您需要安装 Podman 或 Docker，但不能同时安装两者，其中 Podman 由于能运行安全性更高的 rootless 容器而优先。只可惜，Podman 并不在 deepin 默认的仓库里。如要安装 Podman，请于安装 Distrobox 后执行 `install-podman` 命令，该命令将默认把 Podman 安装到 `$HOME/.local` 目录下，除非以 root 权限运行，那 Podman 会默认安装到 `/usr/local` 目录下。您也可以透过 `--prefix` 选项把 Podman 安装到指定的目录下。\n\n若您打算安装 Docker，请执行 `sudo apt update && sudo apt install -y docker.io` 命令，并把相关用户加到 `docker` 群组下： `sudo usermod -aG docker $USER`；只有在 `docker` 群组下的用户才能运行 Docker 容器，而 Docker 容器将以 root 权限运行；因此，容器里 root 执行的命令可能会影响宿主机，安全性不如 Podman 。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd3ae380-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd4c48a0-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd5e7110-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd7e5520-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd6db350-93d3-11ed-9a43-41fc3215d261.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/db136fa0-93d3-11ed-9a43-41fc3215d261.png"
+    "Name": "GitFiend",
+    "Version": "0.44.3",
+    "Filename": "gitfiend_0.44.3_amd64.deb",
+    "Torrent_address": "gitfiend_0.44.3_amd64.deb.torrent",
+    "Pkgname": "gitfiend",
+    "Author": "Toby Suggate <sugto555@gmail.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://gitfiend.com",
+    "Update": "2024-05-05 06:16:08",
+    "Size": "68.75 MB",
+    "More": "Git管理工具  A Git client designed for humans",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/9c5da42839fd48d0989e19ff3c84ad19.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/0cd8f4419b114e8c8aa6d3a8fbe0712e.png"
 }
 ,
 {
@@ -1335,6 +1318,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19181330-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19272e60-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/191f6630-23d0-11eb-b0d0-23a1d93ced96.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/11/15af6cc0-23d0-11eb-b0d0-23a1d93ced96.png"
+}
+,
+{
+    "Name": "Distrobox",
+    "Version": "1.4.2.1~spark2",
+    "Filename": "distrobox_1.4.2.1~spark2_all.deb",
+    "Torrent_address": "distrobox_1.4.2.1~spark2_all.deb.torrent",
+    "Pkgname": "distrobox",
+    "Author": "Luca di Maio",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/89luca89/distrobox",
+    "Update": "2023-01-14 14:22:55",
+    "Size": "180.37 KB",
+    "More": "Distrobox 能让您在终端里使用您最熟悉喜爱的 Linux 发行版。有了 Distrobox，软件兼容的问题不复存在。Distrobox 能使用 Podman 或 Docker 创建您心仪的 Linux 发行版的容器，与宿主机高度融合，能分享 `$HOME` 目录、外置储存、U 盘、图形化 APP、声音等等。\n\n该软件包并非上游支持；如遇到任何问题，请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/distrobox-spark-store 建工单。\n\n使用 Distrobox 前，您需要安装 Podman 或 Docker，但不能同时安装两者，其中 Podman 由于能运行安全性更高的 rootless 容器而优先。只可惜，Podman 并不在 deepin 默认的仓库里。如要安装 Podman，请于安装 Distrobox 后执行 `install-podman` 命令，该命令将默认把 Podman 安装到 `$HOME/.local` 目录下，除非以 root 权限运行，那 Podman 会默认安装到 `/usr/local` 目录下。您也可以透过 `--prefix` 选项把 Podman 安装到指定的目录下。\n\n若您打算安装 Docker，请执行 `sudo apt update && sudo apt install -y docker.io` 命令，并把相关用户加到 `docker` 群组下： `sudo usermod -aG docker $USER`；只有在 `docker` 群组下的用户才能运行 Docker 容器，而 Docker 容器将以 root 权限运行；因此，容器里 root 执行的命令可能会影响宿主机，安全性不如 Podman 。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd3ae380-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd4c48a0-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd5e7110-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd7e5520-93d3-11ed-9a43-41fc3215d261.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/dd6db350-93d3-11ed-9a43-41fc3215d261.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/db136fa0-93d3-11ed-9a43-41fc3215d261.png"
 }
 ,
 {
@@ -1454,23 +1454,6 @@
 }
 ,
 {
-    "Name": "Antares",
-    "Version": "0.5.2",
-    "Filename": "antares_0.5.2_amd64.deb",
-    "Torrent_address": "antares_0.5.2_amd64.deb.torrent",
-    "Pkgname": "antares",
-    "Author": "Fabio Di Stasio",
-    "Contributor": "sgb76",
-    "Website": "https://antares-sql.app/",
-    "Update": "2022-05-04 23:10:23",
-    "Size": "69.91 MB",
-    "More": "一款开源的SQL客户端",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/04/32e2b050-cbbc-11ec-812f-4f480fc7548b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/04/3614b660-cbbc-11ec-812f-4f480fc7548b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/04/2a90b6e0-cbbc-11ec-812f-4f480fc7548b.png"
-}
-,
-{
     "Name": "CCompare",
     "Version": "1.16.1.0",
     "Filename": "cn.itdp.ccompare_1.16.1.0_amd64.deb",
@@ -1485,6 +1468,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/825831840baa429698c182b53c9937af.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/2288b23228ad461c928ab3e3f119c7b7.png"
+}
+,
+{
+    "Name": "Antares",
+    "Version": "0.5.2",
+    "Filename": "antares_0.5.2_amd64.deb",
+    "Torrent_address": "antares_0.5.2_amd64.deb.torrent",
+    "Pkgname": "antares",
+    "Author": "Fabio Di Stasio",
+    "Contributor": "sgb76",
+    "Website": "https://antares-sql.app/",
+    "Update": "2022-05-04 23:10:23",
+    "Size": "69.91 MB",
+    "More": "一款开源的SQL客户端",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/04/32e2b050-cbbc-11ec-812f-4f480fc7548b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/04/3614b660-cbbc-11ec-812f-4f480fc7548b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/04/2a90b6e0-cbbc-11ec-812f-4f480fc7548b.png"
 }
 ,
 {
@@ -1789,23 +1789,6 @@
 }
 ,
 {
-    "Name": "Kylin Code",
-    "Version": "0.1.2-1688091648",
-    "Filename": "kylin-code_0.1.2-1688091648_amd64.deb",
-    "Torrent_address": "kylin-code_0.1.2-1688091648_amd64.deb.torrent",
-    "Pkgname": "kylin-code",
-    "Author": "KylinIdeTeam https://gitee.com/openkylin/kylin-code/contributors?ref=master",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/openkylin/kylin-code",
-    "Update": "2023-07-06 14:22:41",
-    "Size": "80.86 MB",
-    "More": "kylin-code fork 自 Code OSS 项目，集成了一些 openKylin 的特色插件以及 openvsx 插件商店。致力于为 openKylin 社区提供集程序编辑、编译、调试、发布、分析等全套开发流程的编程环境，后续将支持C、C++、Java、Go多种等编程语言，以满足 openKylin 平台上的软件开发需求。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/83c9a2b8917b4b21b3030bcb96f5a8d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/a58f04246a674ea18a323c06dcf89e85.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/616da2790340496fa360ab5e0cd0e870.png"
-}
-,
-{
     "Name": "Liberica JDK 21 Full",
     "Version": "21.0.3+10",
     "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
@@ -1820,6 +1803,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+,
+{
+    "Name": "Kylin Code",
+    "Version": "0.1.2-1688091648",
+    "Filename": "kylin-code_0.1.2-1688091648_amd64.deb",
+    "Torrent_address": "kylin-code_0.1.2-1688091648_amd64.deb.torrent",
+    "Pkgname": "kylin-code",
+    "Author": "KylinIdeTeam https://gitee.com/openkylin/kylin-code/contributors?ref=master",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/openkylin/kylin-code",
+    "Update": "2023-07-06 14:22:41",
+    "Size": "80.86 MB",
+    "More": "kylin-code fork 自 Code OSS 项目，集成了一些 openKylin 的特色插件以及 openvsx 插件商店。致力于为 openKylin 社区提供集程序编辑、编译、调试、发布、分析等全套开发流程的编程环境，后续将支持C、C++、Java、Go多种等编程语言，以满足 openKylin 平台上的软件开发需求。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/83c9a2b8917b4b21b3030bcb96f5a8d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/06/a58f04246a674ea18a323c06dcf89e85.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/06/616da2790340496fa360ab5e0cd0e870.png"
 }
 ,
 {
@@ -1854,6 +1854,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/6a241a08-0240-42f8-aa01-fce5afab75ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/44bc1045-5344-415e-b263-9f228fbd912a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/08/16991809-4d52-49c4-bd5d-2bf390587ea7.png"
+}
+,
+{
+    "Name": "Sublime Merge",
+    "Version": "2083",
+    "Filename": "sublime-merge_2083_amd64.deb",
+    "Torrent_address": "sublime-merge_2083_amd64.deb.torrent",
+    "Pkgname": "sublime-merge",
+    "Author": "Sublime HQ Pty Ltd <support@sublimetext.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.sublimemerge.com/",
+    "Update": "2023-08-21 00:21:38",
+    "Size": "4.75 MB",
+    "More": "sublime-merge，用来Git的软件，是sublime家的一员",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/4aa484642df340c28835e88db2d32001.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/21/55f6511f7f1a4193954f6f79b9a3a7c5.png"
 }
 ,
 {
@@ -1936,23 +1953,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/30ea6db0-0d40-11eb-bd36-d9aedf62f5f0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/13/33d27270-0d40-11eb-bd36-d9aedf62f5f0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/13/2bcfd180-0d40-11eb-bd36-d9aedf62f5f0.svg"
-}
-,
-{
-    "Name": "Sublime Merge",
-    "Version": "2083",
-    "Filename": "sublime-merge_2083_amd64.deb",
-    "Torrent_address": "sublime-merge_2083_amd64.deb.torrent",
-    "Pkgname": "sublime-merge",
-    "Author": "Sublime HQ Pty Ltd <support@sublimetext.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.sublimemerge.com/",
-    "Update": "2023-08-21 00:21:38",
-    "Size": "4.75 MB",
-    "More": "sublime-merge，用来Git的软件，是sublime家的一员",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/4aa484642df340c28835e88db2d32001.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/21/55f6511f7f1a4193954f6f79b9a3a7c5.png"
 }
 ,
 {
@@ -2428,6 +2428,23 @@
 }
 ,
 {
+    "Name": "正点原子逻辑分析仪",
+    "Version": "1.0.6.6",
+    "Filename": "atk-logic_1.0.6.6_amd64.deb",
+    "Torrent_address": "atk-logic_1.0.6.6_amd64.deb.torrent",
+    "Pkgname": "atk-logic",
+    "Author": "Alientek[zhangyang@alientek.com]",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.alientek.com/",
+    "Update": "2024-06-20 10:53:09",
+    "Size": "83.73 MB",
+    "More": "ATK-Logic软件是正点原子团队(ALIENTEK)专为逻辑分析仪设计的功能强大的软件工具，旨在帮助用户进行逻辑信号的捕获、分析和调试。无论您是电子工程师、嵌入式系统开发人员还是电路设计师，该软件都能提供您所需的强大功能和便捷操作。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/3265abec2cfd45ee873b05fc42dbdc56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/2af23382ec7341b7b6cd06703aa4ad44.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/f71383304a0149378b50bdd192befa77.png"
+}
+,
+{
     "Name": "myled",
     "Version": "2024.06.02",
     "Filename": "myled_2024.06.02_amd64.deb",
@@ -2459,23 +2476,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/19/d722996b-ee34-4f59-84c3-55186b7cd490.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
-}
-,
-{
-    "Name": "正点原子逻辑分析仪",
-    "Version": "1.0.6.6",
-    "Filename": "atk-logic_1.0.6.6_amd64.deb",
-    "Torrent_address": "atk-logic_1.0.6.6_amd64.deb.torrent",
-    "Pkgname": "atk-logic",
-    "Author": "Alientek[zhangyang@alientek.com]",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.alientek.com/",
-    "Update": "2024-06-20 10:53:09",
-    "Size": "83.73 MB",
-    "More": "ATK-Logic软件是正点原子团队(ALIENTEK)专为逻辑分析仪设计的功能强大的软件工具，旨在帮助用户进行逻辑信号的捕获、分析和调试。无论您是电子工程师、嵌入式系统开发人员还是电路设计师，该软件都能提供您所需的强大功能和便捷操作。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/3265abec2cfd45ee873b05fc42dbdc56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/20/2af23382ec7341b7b6cd06703aa4ad44.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/20/f71383304a0149378b50bdd192befa77.png"
 }
 ,
 {

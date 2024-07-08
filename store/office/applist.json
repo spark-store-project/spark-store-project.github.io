@@ -660,23 +660,6 @@
 
 ,
 {
-    "Name": "金山文档",
-    "Version": "3.7.7",
-    "Filename": "cn.kdocs.kdesktop_3.7.7_amd64.deb",
-    "Torrent_address": "cn.kdocs.kdesktop_3.7.7_amd64.deb.torrent",
-    "Pkgname": "cn.kdocs.kdesktop",
-    "Author": "Kingsoft Corp. <zhaoyingxin@wps.cn>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": ".https://www.kdocs.cn",
-    "Update": "2023-02-02 15:23:44",
-    "Size": "56.2 MB",
-    "More": "金山文档支持多人在线协作，告别资料反复传输；云端安全存储，文件实时同步保存；团队共享资料，支持成员权限控制。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8eac6a36a13d49b993a3cffcac9f28f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/d3dbed14e4d74e4ebd7d341dad230bd1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/8667e98f88e44ef4b6566eff7c0614bb.png"
-}
-,
-{
     "Name": "Microsoft Office PowerPoint 2007(wine)",
     "Version": "1.2",
     "Filename": "spark-microsoft-powerpoint_1.2_all.deb",
@@ -694,6 +677,23 @@
 }
 ,
 {
+    "Name": "金山文档",
+    "Version": "3.7.7",
+    "Filename": "cn.kdocs.kdesktop_3.7.7_amd64.deb",
+    "Torrent_address": "cn.kdocs.kdesktop_3.7.7_amd64.deb.torrent",
+    "Pkgname": "cn.kdocs.kdesktop",
+    "Author": "Kingsoft Corp. <zhaoyingxin@wps.cn>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": ".https://www.kdocs.cn",
+    "Update": "2023-02-02 15:23:44",
+    "Size": "56.2 MB",
+    "More": "金山文档支持多人在线协作，告别资料反复传输；云端安全存储，文件实时同步保存；团队共享资料，支持成员权限控制。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/8eac6a36a13d49b993a3cffcac9f28f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/02/d3dbed14e4d74e4ebd7d341dad230bd1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/02/8667e98f88e44ef4b6566eff7c0614bb.png"
+}
+,
+{
    "Name":"Master Pdf编辑器",
    "Version":"5.6.20",
    "Filename":"master-pdf-editor-5.6.20-qt5.x86_64.deb",
@@ -704,20 +704,6 @@
    "Update":"2020-07-21 12:35",
    "Size":"10.54MB",
    "More":"一个强大的PDF编辑器"
-}
-
-,
-{
-   "Name":"FoxitReader",
-   "Version":"2.4.4.0911",
-   "Filename":"foxitreader_2.4.4.0911_amd64.deb",
-   "Pkgname":"foxitreader",
-   "Author":" ",
-   "Contributor":"sgb76",
-   "Website":"https://www.foxitsoftware.cn/",
-   "Update":"2020-08-10 04:23",
-   "Size":"73.59MB",
-   "More":"PDF阅读和打印可以如此简单"
 }
 
 ,
@@ -737,6 +723,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
 }
+,
+{
+   "Name":"FoxitReader",
+   "Version":"2.4.4.0911",
+   "Filename":"foxitreader_2.4.4.0911_amd64.deb",
+   "Pkgname":"foxitreader",
+   "Author":" ",
+   "Contributor":"sgb76",
+   "Website":"https://www.foxitsoftware.cn/",
+   "Update":"2020-08-10 04:23",
+   "Size":"73.59MB",
+   "More":"PDF阅读和打印可以如此简单"
+}
+
 ,
 {
     "Name": "思源笔记",
@@ -1164,23 +1164,6 @@
 }
 ,
 {
-    "Name": "Microsoft Teams",
-    "Version": "1.5.00.23861",
-    "Filename": "teams_1.5.00.23861_amd64.deb",
-    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
-    "Pkgname": "teams",
-    "Author": "Microsoft Corporation",
-    "Contributor": "Microsoft Corporation",
-    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
-    "Update": "2022-12-16 23:20:52",
-    "Size": "81.51 MB",
-    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
-}
-,
-{
     "Name": "幕布（wine）",
     "Version": "4.0.3spark4",
     "Filename": "com.mubu.spark_4.0.3spark4_all.deb",
@@ -1195,6 +1178,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/ce81fb81486b4bcab5bb5976ff5caffb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/4a93a2ffc193488f993a09fc21a49c3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/73319cc2dd8e42698315811fd503db72.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/17/eee160eba9d84825a1dded2faa075540.png"
+}
+,
+{
+    "Name": "Microsoft Teams",
+    "Version": "1.5.00.23861",
+    "Filename": "teams_1.5.00.23861_amd64.deb",
+    "Torrent_address": "teams_1.5.00.23861_amd64.deb.torrent",
+    "Pkgname": "teams",
+    "Author": "Microsoft Corporation",
+    "Contributor": "Microsoft Corporation",
+    "Website": "https://www.microsoft.com/zh-cn/microsoft-teams/group-chat-software",
+    "Update": "2022-12-16 23:20:52",
+    "Size": "81.51 MB",
+    "More": "在家里、在办公室里以及在学校里共同创造非凡成就。\nMicrosoft Teams 成就更多可能: 随时保持联系并访问共享内容，协同进行学习、规划和创新。\n自如保持联系: 只需在一个位置即可聊天、通话和分享视频，帮助你与生活中的所有人保持密切联系。\n协同实现大有作为: 共享文档和文件始终可用，您可以随时创建、共享和交换创意，并让事情协同向前发展。\n随时了解最新动态: 当你需要的所有优质应用和功能触手可及时，你就会变得更加专注和高效。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/16/794b9c50f6664bbb8692d6ad61b7b6a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/16/7d8baeefcf804cff9dab737a1bdccb02.png"
 }
 ,
 {
@@ -1951,6 +1951,23 @@
 }
 ,
 {
+    "Name": "滴答清单",
+    "Version": "1.0.80",
+    "Filename": "cn.ticktick.task_1.0.80_amd64.deb",
+    "Torrent_address": "cn.ticktick.task_1.0.80_amd64.deb.torrent",
+    "Pkgname": "cn.ticktick.task",
+    "Author": "Appest Inc <dev@suibiji.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Website": "https://www.dida365.com/home",
+    "Update": "2023-09-08 11:22:40",
+    "Size": "85.81 MB",
+    "More": "你可以在电脑、手机甚至智能手表中使用滴答清单管理一切，你的所有任务都能在 10+ 个平台间无缝同步。\n（第一次传得太急了，截图传错了/捂脸）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/61c119f51cab4bdabb58ff10a596efc0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/ce60e852737e4f22b54c07239273ca9f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/08/d9413ff4860d4a66ac94b5bec1857995.png"
+}
+,
+{
     "Name": "ULauncher",
     "Version": "5.15.4",
     "Filename": "ulauncher_5.15.4_all.deb",
@@ -1985,23 +2002,6 @@
 }
 ,
 {
-    "Name": "滴答清单",
-    "Version": "1.0.80",
-    "Filename": "cn.ticktick.task_1.0.80_amd64.deb",
-    "Torrent_address": "cn.ticktick.task_1.0.80_amd64.deb.torrent",
-    "Pkgname": "cn.ticktick.task",
-    "Author": "Appest Inc <dev@suibiji.com>",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
-    "Website": "https://www.dida365.com/home",
-    "Update": "2023-09-08 11:22:40",
-    "Size": "85.81 MB",
-    "More": "你可以在电脑、手机甚至智能手表中使用滴答清单管理一切，你的所有任务都能在 10+ 个平台间无缝同步。\n（第一次传得太急了，截图传错了/捂脸）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/61c119f51cab4bdabb58ff10a596efc0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/08/ce60e852737e4f22b54c07239273ca9f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/08/d9413ff4860d4a66ac94b5bec1857995.png"
-}
-,
-{
     "Name": "Mybase Desktop",
     "Version": "8.2.12",
     "Filename": "mybase-desktop_8.2.12_amd64.deb",
@@ -2016,6 +2016,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/bde7b59ec4ed427e9c34965abb8d195d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/e73baafc652d4e338659f9a209098b46.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/83abe4ad8dce46b381761e7675ffd970.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/b762b706ebe14202b1294ebaac15471c.png"
+}
+,
+{
+    "Name": "写字板",
+    "Version": "1.2.2~git20231014.0932--bullseye-2",
+    "Filename": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb",
+    "Torrent_address": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb.torrent",
+    "Pkgname": "xournalpp",
+    "Author": "xournalpp",
+    "Contributor": "sgb76",
+    "Website": "https://xournalpp.github.io/",
+    "Update": "2024-03-05 00:01:51",
+    "Size": "1.32 MB",
+    "More": "Xournal++ 是一款快速、灵活且功能强大的开源跨平台笔记软件，一款手写注释工具，可为PDF文件添加各种元素的注释标记。 精彩的 Xournal 程序的现代重写和功能更丰富的版本。(Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is an open-source and cross-platform note-taking software that is fast, flexible, and functional. A modern rewrite and a more feature-rich version of the wonderful Xournal program.)",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1e822ebf280d4354a2116fc22dbd2e50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/19b874151e2741848348c80530897b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1df325082c994ed0a8001771656fb3fc.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/7b171d5009684e25a3773159d5bb0bf3.png"
 }
 ,
 {
@@ -2047,23 +2064,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/2de09e73928f4854bf86880c6b723dfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/3e7db13ef48446b98882d9c5ce81334f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/94afdbeecd384750b8011eb123370a24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/d181447b5d19467392aa8ed96e3a71be.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/46fefaf99c4c4f30be74eeed5f0a7b1a.png"
-}
-,
-{
-    "Name": "写字板",
-    "Version": "1.2.2~git20231014.0932--bullseye-2",
-    "Filename": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb",
-    "Torrent_address": "xournalpp_1.2.2~git20231014.0932--bullseye-2_amd64.deb.torrent",
-    "Pkgname": "xournalpp",
-    "Author": "xournalpp",
-    "Contributor": "sgb76",
-    "Website": "https://xournalpp.github.io/",
-    "Update": "2024-03-05 00:01:51",
-    "Size": "1.32 MB",
-    "More": "Xournal++ 是一款快速、灵活且功能强大的开源跨平台笔记软件，一款手写注释工具，可为PDF文件添加各种元素的注释标记。 精彩的 Xournal 程序的现代重写和功能更丰富的版本。(Xournal++ (/ˌzɚnl̟ˌplʌsˈplʌs/) is an open-source and cross-platform note-taking software that is fast, flexible, and functional. A modern rewrite and a more feature-rich version of the wonderful Xournal program.)",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1e822ebf280d4354a2116fc22dbd2e50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/19b874151e2741848348c80530897b99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/1df325082c994ed0a8001771656fb3fc.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/7b171d5009684e25a3773159d5bb0bf3.png"
 }
 ,
 {
@@ -2655,6 +2655,22 @@
 }
 ,
 {
+    "Name": "DMarked",
+    "Version": "0.2.0",
+    "Filename": "dmarked_0.2.0_amd64.deb",
+    "Pkgname": "dmarked",
+    "Author": "rewine",
+    "Contributor": "rewine",
+    "Website": "https://github.com/DMarked/DMarked",
+    "Update": "2021-12-23 23:42:10",
+    "Size": "1.57 MB",
+    "More": "使用 dtk 开发的 markdown 编辑器，支持主题切换，代码高亮，数学公式，流程图（Mermaid）等功能。允许导出为 pdf 或 html。",
+    "Tags": "dtk5;community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/36ea2a20-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/3773cc80-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/3726bdf0-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/370b1fa0-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/37543690-6406-11ec-806a-5b6721a0d9ad.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/23/05290b00-6406-11ec-806a-5b6721a0d9ad.svg"
+}
+,
+{
     "Name": "智速ocr文字识别",
     "Version": "1.1.10",
     "Filename": "com.zhisuocr.spark_1.1.10_amd64.deb",
@@ -2702,22 +2718,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
-}
-,
-{
-    "Name": "DMarked",
-    "Version": "0.2.0",
-    "Filename": "dmarked_0.2.0_amd64.deb",
-    "Pkgname": "dmarked",
-    "Author": "rewine",
-    "Contributor": "rewine",
-    "Website": "https://github.com/DMarked/DMarked",
-    "Update": "2021-12-23 23:42:10",
-    "Size": "1.57 MB",
-    "More": "使用 dtk 开发的 markdown 编辑器，支持主题切换，代码高亮，数学公式，流程图（Mermaid）等功能。允许导出为 pdf 或 html。",
-    "Tags": "dtk5;community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/36ea2a20-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/3773cc80-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/3726bdf0-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/370b1fa0-6406-11ec-806a-5b6721a0d9ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/23/37543690-6406-11ec-806a-5b6721a0d9ad.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/23/05290b00-6406-11ec-806a-5b6721a0d9ad.svg"
 }
 ,
 {
@@ -3022,23 +3022,6 @@
 }
 ,
 {
-    "Name": "极度公式",
-    "Version": "1.4.2spark1",
-    "Filename": "com.jidugs.spark_1.4.2spark1_amd64.deb",
-    "Torrent_address": "com.jidugs.spark_1.4.2spark1_amd64.deb.torrent",
-    "Pkgname": "com.jidugs.spark",
-    "Author": "成都微致汇网络科技有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://jidugs.wrste.com/#page1",
-    "Update": "2024-02-14 17:20:36",
-    "Size": "90.12 MB",
-    "More": "极度公式是一款强大的跨平台专业级LaTex公式软件",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/14/3b1715bbb6c844f88a9b7f8847b617dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/14/d4a968a3894240c98f8d329d0e673bb1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/14/bae89ae8c26c4ab08bde0455f6755d19.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/14/3dff956d9a6146e2bb3e20d9e6450f34.png"
-}
-,
-{
     "Name": "Yank Note",
     "Version": "3.49.0",
     "Filename": "yank.note_3.49.0_amd64.deb",
@@ -3053,6 +3036,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/ac16bdfceed34d8caac1e4d324ae6dd8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/ca0c348147e54a5f9b8a17b857b8c695.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/b0621c2ece914efeb0949b1bc9d768ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/4af6a8468b004ed58445437623b240de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/18/c3b86ea3ceec46d5b33e74c61a353599.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/18/ab30f98d6a2d422d8737f863a1511a62.png"
+}
+,
+{
+    "Name": "极度公式",
+    "Version": "1.4.2spark1",
+    "Filename": "com.jidugs.spark_1.4.2spark1_amd64.deb",
+    "Torrent_address": "com.jidugs.spark_1.4.2spark1_amd64.deb.torrent",
+    "Pkgname": "com.jidugs.spark",
+    "Author": "成都微致汇网络科技有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://jidugs.wrste.com/#page1",
+    "Update": "2024-02-14 17:20:36",
+    "Size": "90.12 MB",
+    "More": "极度公式是一款强大的跨平台专业级LaTex公式软件",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/14/3b1715bbb6c844f88a9b7f8847b617dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/14/d4a968a3894240c98f8d329d0e673bb1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/14/bae89ae8c26c4ab08bde0455f6755d19.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/14/3dff956d9a6146e2bb3e20d9e6450f34.png"
 }
 ,
 {
@@ -3073,23 +3073,6 @@
 }
 ,
 {
-    "Name": "Qalculate",
-    "Version": "4.8.1",
-    "Filename": "io.github.qalculate_4.8.1_amd64.deb",
-    "Torrent_address": "io.github.qalculate_4.8.1_amd64.deb.torrent",
-    "Pkgname": "io.github.qalculate",
-    "Author": "Alexander<alexanderfromzh@163.com>",
-    "Contributor": "Alexander<alexanderfromzh@163.com>",
-    "Website": "https://qalculate.github.io/",
-    "Update": "2023-10-16 21:41:56",
-    "Size": "20.43 MB",
-    "More": "全宇宙最好的计算器软件",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/16/6f4373be4c1a410980acdfbd99307ea0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/16/a6cccf0c5cb04a86b5bbc99787d061c9.png"
-}
-,
-{
     "Name": "华为云会议",
     "Version": "9.12.5",
     "Filename": "huaweicloudmeeting_9.12.5_amd64.deb",
@@ -3107,6 +3090,40 @@
 }
 ,
 {
+    "Name": "office2010 deepinV23版",
+    "Version": "14.0.0",
+    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
+    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
+    "Pkgname": "spark.office2010-runner.com",
+    "Author": "microsofft",
+    "Contributor": "洗头 乐  ",
+    "Website": "https://www.microsoft.com/zh-cn",
+    "Update": "2024-06-09 07:42:44",
+    "Size": "1.01 GB",
+    "More": "会用的都会用",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
+}
+,
+{
+    "Name": "Qalculate",
+    "Version": "4.8.1",
+    "Filename": "io.github.qalculate_4.8.1_amd64.deb",
+    "Torrent_address": "io.github.qalculate_4.8.1_amd64.deb.torrent",
+    "Pkgname": "io.github.qalculate",
+    "Author": "Alexander<alexanderfromzh@163.com>",
+    "Contributor": "Alexander<alexanderfromzh@163.com>",
+    "Website": "https://qalculate.github.io/",
+    "Update": "2023-10-16 21:41:56",
+    "Size": "20.43 MB",
+    "More": "全宇宙最好的计算器软件",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/16/6f4373be4c1a410980acdfbd99307ea0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/16/a6cccf0c5cb04a86b5bbc99787d061c9.png"
+}
+,
+{
     "Name": "GitMind（web）",
     "Version": "1.0spark0",
     "Filename": "web-gitmind_1.0spark0_amd64.deb",
@@ -3120,6 +3137,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/48d349f0-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4b8a0580-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4e77d6a0-57f6-11eb-81be-efeb7e42bb9a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/16/3be5f670-57f6-11eb-81be-efeb7e42bb9a.png"
+}
+,
+{
+    "Name": "sleek任务清单",
+    "Version": "1.3.1",
+    "Filename": "sleek_1.3.1_amd64.deb",
+    "Torrent_address": "sleek_1.3.1_amd64.deb.torrent",
+    "Pkgname": "sleek",
+    "Author": "Robin Ahle",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/ransome1/sleek#readme",
+    "Update": "2023-08-28 15:28:38",
+    "Size": "67.72 MB",
+    "More": "一款基于Todo.txt，免费且开源的任务清单软件，适用于Linux、Windows和MacOS",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/54203f70a78747e496cfc701d4bb9f0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/754c1475c15d4f079de2be836ad5e0f6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/b6529469dcc6424abe01a544edbde65d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/88c2f19a7e324bc9a62d52622eb141bf.png"
 }
 ,
 {
@@ -3171,40 +3205,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/7e19d511decd4927873793b8b3afabad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/00ce668d8e1243498f00070f953ecd7a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/0aa20fc0dbf146eabf07f8444c013e5d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/23562976a79e4c6f8df915fff86daf1e.png"
-}
-,
-{
-    "Name": "sleek任务清单",
-    "Version": "1.3.1",
-    "Filename": "sleek_1.3.1_amd64.deb",
-    "Torrent_address": "sleek_1.3.1_amd64.deb.torrent",
-    "Pkgname": "sleek",
-    "Author": "Robin Ahle",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/ransome1/sleek#readme",
-    "Update": "2023-08-28 15:28:38",
-    "Size": "67.72 MB",
-    "More": "一款基于Todo.txt，免费且开源的任务清单软件，适用于Linux、Windows和MacOS",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/54203f70a78747e496cfc701d4bb9f0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/754c1475c15d4f079de2be836ad5e0f6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/28/b6529469dcc6424abe01a544edbde65d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/28/88c2f19a7e324bc9a62d52622eb141bf.png"
-}
-,
-{
-    "Name": "office2010 deepinV23版",
-    "Version": "14.0.0",
-    "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
-    "Torrent_address": "spark.office2010-runner.com_14.0.0_all.deb.torrent",
-    "Pkgname": "spark.office2010-runner.com",
-    "Author": "microsofft",
-    "Contributor": "洗头 乐  ",
-    "Website": "https://www.microsoft.com/zh-cn",
-    "Update": "2024-06-09 07:42:44",
-    "Size": "1.01 GB",
-    "More": "会用的都会用",
-    "Tags": "deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
 }
 ,
 {
@@ -3293,6 +3293,20 @@
 }
 ,
 {
+   "Name":"TickTick",
+   "Version":"1.0",
+   "Filename":"com.ticktick.nonofficial_1.0_all.deb",
+   "Pkgname":"com.ticktick.nonofficial",
+   "Author":" ",
+   "Contributor":"一只科技菌",
+   "Website":" ",
+   "Update":"2020-08-08 10:04",
+   "Size":"44.30MB",
+   "More":"TickTick（滴答清单国际版）"
+}
+
+,
+{
     "Name": "迷你日记",
     "Version": "3.3.0spark0",
     "Filename": "app.minidiary.spark_3.3.0spark0_amd64.deb",
@@ -3357,20 +3371,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/d2ad7a60-5b39-11eb-a1f3-bbb8a4c9478e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/d6a98730-5b39-11eb-a1f3-bbb8a4c9478e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/21/d8c75e20-5b39-11eb-a1f3-bbb8a4c9478e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/21/cc08e2d0-5b39-11eb-a1f3-bbb8a4c9478e.png"
 }
-,
-{
-   "Name":"TickTick",
-   "Version":"1.0",
-   "Filename":"com.ticktick.nonofficial_1.0_all.deb",
-   "Pkgname":"com.ticktick.nonofficial",
-   "Author":" ",
-   "Contributor":"一只科技菌",
-   "Website":" ",
-   "Update":"2020-08-08 10:04",
-   "Size":"44.30MB",
-   "More":"TickTick（滴答清单国际版）"
-}
-
 ,
 {
     "Name": "搜狗输入法UOS版小语种",

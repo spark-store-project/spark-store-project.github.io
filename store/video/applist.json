@@ -182,23 +182,6 @@
 }
 ,
 {
-    "Name": "LibreTube油管播放器",
-    "Version": "0.4.1",
-    "Filename": "uengine-dc-com.github.libretube_0.4.1_all.deb",
-    "Torrent_address": "uengine-dc-com.github.libretube_0.4.1_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.github.libretube",
-    "Author": " libretube community",
-    "Contributor": "delsin",
-    "Website": "https://github.com/libre-tube/LibreTube",
-    "Update": "2022-07-26 22:10:31",
-    "Size": "12.67 MB",
-    "More": "一个无需外网即可播放YouTube视频的安卓应用。\n为正常加载视频，软件设置选项请参考：（1）地区-选择United States of America；（2）语言-选择Chinese（simplified）；（3）实例-自行选择最佳实例（网络线路），不能加载首页视频缩略图，就需要更换实例。",
-    "Tags": "community;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad016b80-0cec-11ed-880b-b570ee306580.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad256e40-0cec-11ed-880b-b570ee306580.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad4c5730-0cec-11ed-880b-b570ee306580.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad769b80-0cec-11ed-880b-b570ee306580.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/26/a1a936f0-0cec-11ed-880b-b570ee306580.png"
-}
-,
-{
     "Name": "小苹果影视盒子(uengine)",
     "Version": "1.0.6",
     "Filename": "uengine-dc-com.jsy.xpgbox_1.0.6_all.deb",
@@ -213,6 +196,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/31/e2593977de2f4184b167105dc416a332.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/31/542b5e4467cd42b0becfc5364213ff4e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/31/dc18410150d74c32a9634a478a243c50.png"
+}
+,
+{
+    "Name": "LibreTube油管播放器",
+    "Version": "0.4.1",
+    "Filename": "uengine-dc-com.github.libretube_0.4.1_all.deb",
+    "Torrent_address": "uengine-dc-com.github.libretube_0.4.1_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.github.libretube",
+    "Author": " libretube community",
+    "Contributor": "delsin",
+    "Website": "https://github.com/libre-tube/LibreTube",
+    "Update": "2022-07-26 22:10:31",
+    "Size": "12.67 MB",
+    "More": "一个无需外网即可播放YouTube视频的安卓应用。\n为正常加载视频，软件设置选项请参考：（1）地区-选择United States of America；（2）语言-选择Chinese（simplified）；（3）实例-自行选择最佳实例（网络线路），不能加载首页视频缩略图，就需要更换实例。",
+    "Tags": "community;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad016b80-0cec-11ed-880b-b570ee306580.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad256e40-0cec-11ed-880b-b570ee306580.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad4c5730-0cec-11ed-880b-b570ee306580.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/26/ad769b80-0cec-11ed-880b-b570ee306580.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/26/a1a936f0-0cec-11ed-880b-b570ee306580.png"
 }
 ,
 {
@@ -1211,6 +1211,40 @@
 }
 ,
 {
+    "Name": "biliup-app（开源 bilibili投稿客户端）",
+    "Version": "0.5.2",
+    "Filename": "biliup-app_0.5.2_amd64.deb",
+    "Torrent_address": "biliup-app_0.5.2_amd64.deb.torrent",
+    "Pkgname": "biliup-app",
+    "Author": "you",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/biliup/biliup-app",
+    "Update": "2024-06-08 23:08:05",
+    "Size": "7.21 MB",
+    "More": "bilibili投稿客户端，支持Windows，Linux，macOS。\n支持多p上传，支持线路切换、并发数控制，上海腾讯云可使用内网线路上传免流+大幅提速。\n支持稿件编辑追加多p，可编辑网页端不能编辑的\"是否转载\"、\"投稿分区\"等。\n低电磁力等级也可上传大于16G视频，最大32G。\n支持多种登录方式，账号密码，短信，扫码，浏览器登录。\n支持多用户账号快速切换\n使用操作 演示视频 （非最新版）\n文档地址：https://biliup.github.io/biliup-app\n主要是为了解决现有网页端不能多p投稿的问题，虽然现有b站客户端可以多p 但是有几个问题：\n仅支持Windows，不支持Linux，macOS\n不能批量选择文件，多p只能多次单选文件\n投稿线路对国外不友好，速度较慢稳定性较差，且不能自行切换\n不能调整单视频上传并发数，单视频限制大小4G以内\n仅能通过短信登录",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8cb9e4e0a39643c5a212eb5712ead5e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/fe57de49ed69430fa9fce3ce56ab5d92.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/01ec11b22157489289abbd66e6d977fb.png"
+}
+,
+{
+    "Name": "人人视频",
+    "Version": "1.7.0.33",
+    "Filename": "com.renrenshipin.deepin_1.7.0.33_all.deb",
+    "Torrent_address": "com.renrenshipin.deepin_1.7.0.33_all.deb.torrent",
+    "Pkgname": "com.renrenshipin.deepin",
+    "Author": "人人视频",
+    "Contributor": "人人视频",
+    "Website": "https://lequkeji.com/#/home",
+    "Update": "2024-07-05 22:53:23",
+    "Size": "105.9 MB",
+    "More": "人人视频致力于成为一款受用户喜爱的影视剧应用,为pc用户提供优秀的看剧体验;更丰富的影视剧作品，包括韩剧、美剧、日剧、电影等等。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/2163879577374a73bc61439a79d1a585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/ce704a4b307a404bbcac00b6924d56d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/21b080f646ab4ab8a2bfefc7a21107ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/b9b283fcaf214cdc8b131d865cca1b6f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/05/0100906f73e04007ab677d7d77c7823b.png"
+}
+,
+{
     "Author": "Aiseesoft 工作室",
     "Contributor": "Aiseesoft 工作室",
     "Filename": "com.aiseesoft.4k-converter.deepin_9.2.52_all.deb",
@@ -1243,22 +1277,5 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4b4d2250f29f4bcdad3cbedbaa2db974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/62092f314d9b4980b3ee7d17aa2283a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/bf664b6f142f4b27bbca21e4c55105f7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/ff3aa714ace34f31a2aa8aa8324e6f1f.png"
-}
-,
-{
-    "Name": "biliup-app（开源 bilibili投稿客户端）",
-    "Version": "0.5.2",
-    "Filename": "biliup-app_0.5.2_amd64.deb",
-    "Torrent_address": "biliup-app_0.5.2_amd64.deb.torrent",
-    "Pkgname": "biliup-app",
-    "Author": "you",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/biliup/biliup-app",
-    "Update": "2024-06-08 23:08:05",
-    "Size": "7.21 MB",
-    "More": "bilibili投稿客户端，支持Windows，Linux，macOS。\n支持多p上传，支持线路切换、并发数控制，上海腾讯云可使用内网线路上传免流+大幅提速。\n支持稿件编辑追加多p，可编辑网页端不能编辑的\"是否转载\"、\"投稿分区\"等。\n低电磁力等级也可上传大于16G视频，最大32G。\n支持多种登录方式，账号密码，短信，扫码，浏览器登录。\n支持多用户账号快速切换\n使用操作 演示视频 （非最新版）\n文档地址：https://biliup.github.io/biliup-app\n主要是为了解决现有网页端不能多p投稿的问题，虽然现有b站客户端可以多p 但是有几个问题：\n仅支持Windows，不支持Linux，macOS\n不能批量选择文件，多p只能多次单选文件\n投稿线路对国外不友好，速度较慢稳定性较差，且不能自行切换\n不能调整单视频上传并发数，单视频限制大小4G以内\n仅能通过短信登录",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8cb9e4e0a39643c5a212eb5712ead5e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/fe57de49ed69430fa9fce3ce56ab5d92.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/01ec11b22157489289abbd66e6d977fb.png"
 }
 ]
