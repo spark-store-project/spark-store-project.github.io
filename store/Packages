@@ -6207,6 +6207,23 @@ Description:
 License: Apache-2.0
 Vendor: JGraph <support@draw.io>
 
+Package: com.yunsuanti.deepin
+Architecture: all
+Version: 1.6
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: longhua23
+Installed-Size: 13724
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: tools/com.yunsuanti.deepin/com.yunsuanti.deepin_1.6_all.deb
+Size: 13731708
+MD5sum: 2376a09c1ed0f10946162183aac94156
+SHA1: 0d8a32eb6ca201371ab3697538bf9db942c773bb
+SHA256: 919209ef2eee6a2f237c8953530a3d14987db9a87febc3ef27b22d2c6f5191b6
+SHA512: c013e9577388b0418d0c99de137b1b3f9d90851428092d9c7ea044e751578be86b9e18fadf4a970aa44626aaccc37b0d3207960d694e2eb98ea7f6baa8101c48
+Description: .一款运算题生成工具，一键生成小学生运算题目
+
 Package: spark-resourcehacker
 Architecture: i386
 Version: 5.1.8
@@ -7471,6 +7488,21 @@ MD5sum: de0ef92f73a2bdd8a9ad539895ba4b3e
 SHA1: 147f53c8ffe3f7ea22bc3d1d1ee98a7d42e73bd2
 SHA256: a4e763b113aa77b71967f3743081de72745749a4ddb0f962c0e0f03f3ff8bc36
 SHA512: 3e30e6f2dff6ef38bfda983af391bf9f708a9e361adda96afb01c3177d3bbecc8837b4e8b07171b13c55b9c63f412ea7fab22612d2827f871fceff876d194029
+Homepage: www.uostools.com
+Description: UDOM工具箱
+
+Package: com.uostools.udom
+Architecture: all
+Version: 1.2.11
+Priority: standard
+Section: system
+Maintainer: udom<uostools.com>
+Filename: tools/com.uostools.udom/com.uostools.udom_1.2.11_all.deb
+Size: 22292832
+MD5sum: 8d8202fae39ba679053d4b97684ee44d
+SHA1: 63bfa7dbefbab22ef8317a9be5ab67c3d483d6c3
+SHA256: f959dcd7903ad4888ef25a68198d39356eed419d30977cbb49d464bc188c237f
+SHA512: 3dd283e46dabd78b588920b63c62d0e1abf73845eaa2cf4ef134f15a857af3f037e7a3768744cfe229bbb2eb203a331716b25e00e15e901e749b6aae0da7676b
 Homepage: www.uostools.com
 Description: UDOM工具箱
 
