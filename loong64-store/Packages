@@ -2852,21 +2852,6 @@ Description: 360 压缩 For Spark Wine8
 
 Package: com.uostools.udom
 Architecture: all
-Version: 1.2.9
-Priority: standard
-Section: system
-Maintainer: udom<uostools.com>
-Filename: tools/com.uostools.udom/com.uostools.udom_1.2.9_all.deb
-Size: 21587004
-MD5sum: de0ef92f73a2bdd8a9ad539895ba4b3e
-SHA1: 147f53c8ffe3f7ea22bc3d1d1ee98a7d42e73bd2
-SHA256: a4e763b113aa77b71967f3743081de72745749a4ddb0f962c0e0f03f3ff8bc36
-SHA512: 3e30e6f2dff6ef38bfda983af391bf9f708a9e361adda96afb01c3177d3bbecc8837b4e8b07171b13c55b9c63f412ea7fab22612d2827f871fceff876d194029
-Homepage: www.uostools.com
-Description: UDOM工具箱
-
-Package: com.uostools.udom
-Architecture: all
 Version: 1.2.11
 Priority: standard
 Section: system
@@ -7976,6 +7961,28 @@ SHA256: 52db6270c0db6ce95959fc1412df9dda26cdebcbbb9bfb314ee41e68f3b64217
 SHA512: 8f8a4bca39dda52eb78812c44785a1d4df41aee304c8af6c47a58b19ec3629489126147930bddd67f70054e7f610931eca7b94f743f2f0397cbf4d218bf5f1dd
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: com.bitcomet.linux Software Package created by Appimage2Deb
+
+Package: cn.loongnix.lbrowser
+Architecture: loong64
+Version: 3.3.1876.3-1.stable
+Priority: optional
+Section: web
+Source: lbrowser
+Maintainer: Lbrowser Team <browser@loongson.cn>
+Installed-Size: 347617
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0), liblol,liblol-dkms
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgcc1 (>= 1:4.2), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2), liblol,liblol-dkms
+Recommends: libu2f-udev, libvulkan1
+Filename: network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1876.3-1.stable_loong64.deb
+Size: 93399836
+MD5sum: 60ff48d00684777235ac9c3d507cfc8e
+SHA1: 3f7232bc0f44bd8a96bd40442f60d31c146885be
+SHA256: 6ca577cff2e20c21f722fa9d5df015c28d1b8b5ce2ac1c1fde1a31324e964a6d
+SHA512: b29d2df7a076d27121fe4d69595a411537817c7c91ee1859b1fb2b4e70244395554176a71befd5689f7d4212afe3d97e26ca279b6cc055b0786acfe98a72608e
+Homepage: http://www.loongnix.cn/zh/api/lbrowser/
+Description: The web browser from Loongson
+ Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
 Package: cn.loongnix.lbrowser
 Architecture: loong64

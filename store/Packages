@@ -5539,6 +5539,22 @@ Description: A high-precision scientific calculator
  This binary package is provided by speedcrunch.org. It is a generic package
  that is designed to install and run on all common Debian-based distributions.
 
+Package: dosbox
+Architecture: amd64
+Version: 0.74-3
+Priority: optional
+Section: tool
+Maintainer: wlly-lzh <wlly_lzh@163.com>
+Depends: libasound2 (>= 1.2.8), libc6 (>= 2.37), libsdl1.2debian (>= 1.2.15), libpng16-16 (>= 1.6.40), libgl1 (>= 1.7.0), libstdc++6 (>= 13.2), libgcc-s1 (>= 13.2.0), libx11-6, zlib1g (>= 1:1.2.12), deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/dosbox/dosbox_0.74-3_amd64.deb
+Size: 4117350
+MD5sum: f7c1a2498504746a6b8e09e19b3a5b61
+SHA1: 5d5eba346272aee0dc428cfdfa71fc2d6d1c4452
+SHA256: 41524f459aea4d7b5aee287673cad3c57d94e43a7b1da2fb57d53b2fd7eedda3
+SHA512: 3d98c226a1a02fc257f1aceab9aff4a458966aebb7ea51855f922dcda24513f2ea59ae375c7533f9f774663edb9055826e290fc2fb1cc24302d4d2b90e2810fd
+Homepage: https://www.dosbox.com/
+Description: A Dos simulation program DOSBox is a x86 emulator with Tandy/Hercules/CGA/EGA/VGA/SVGA graphics, sound and DOS. It's been designed to run old DOS games on platforms that don't support it.
+
 Package: rubick
 Architecture: amd64
 Version: 2.0.4-beta.3
@@ -7475,21 +7491,6 @@ SHA512: aede7961bb39e0dc9f95d848d21605b3998b88f4a626f46235ac58547b18966e60ace2b9
 Homepage: https://github.com/containers/podman-desktop
 Description: Podman Desktop
   用于在容器和 Kubernetes 上进行开发的图形工具
-
-Package: com.uostools.udom
-Architecture: all
-Version: 1.2.9
-Priority: standard
-Section: system
-Maintainer: udom<uostools.com>
-Filename: tools/com.uostools.udom/com.uostools.udom_1.2.9_all.deb
-Size: 21587004
-MD5sum: de0ef92f73a2bdd8a9ad539895ba4b3e
-SHA1: 147f53c8ffe3f7ea22bc3d1d1ee98a7d42e73bd2
-SHA256: a4e763b113aa77b71967f3743081de72745749a4ddb0f962c0e0f03f3ff8bc36
-SHA512: 3e30e6f2dff6ef38bfda983af391bf9f708a9e361adda96afb01c3177d3bbecc8837b4e8b07171b13c55b9c63f412ea7fab22612d2827f871fceff876d194029
-Homepage: www.uostools.com
-Description: UDOM工具箱
 
 Package: com.uostools.udom
 Architecture: all
@@ -24379,22 +24380,22 @@ Description: 极星期货客户端9.3 on wine7.9
 
 Package: org.libreoffice.libreoffice
 Architecture: amd64
-Version: 7.6.6.3+szbt5
+Version: 7.6.7.2+szbt1
 Priority: optional
 Section: editors/office
-Maintainer: ziggy <luzijie@uniontech.com>
-Installed-Size: 1087050
+Maintainer: SZBT CI <lu1044100652@outlook.com>
+Installed-Size: 1036467
 Depends: fontconfig, fonts-opensymbol, ure (>= 6.1.1~), libc6 (>= 2.27), libcairo2 (>= 1.14.0), libclucene-contribs1v5 (>= 2.3.3.4+dfsg), libclucene-core1v5 (>= 2.3.3.4+dfsg), libcups2 (>= 1.7.0), libdbus-1-3 (>= 1.9.14), libdbus-glib-1-2 (>= 0.78), libdconf1 (>= 0.15.2), libeot0, libepoxy0 (>= 1.0), libexpat1 (>= 2.0.1), libexttextcat-2.0-0 (>= 2.2-8), libfontconfig1 (>= 2.12.6), libgcc1 (>= 1:3.4), libglib2.0-0 (>= 2.38.0), libgraphite2-3 (>= 1.2.2), libhunspell-1.7-0, libhyphen0 (>= 2.7.1), libice6 (>= 1:1.0.0), libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.2+git20110628), libmythes-1.2-0, libneon27-gnutls, libodfgen-0.1-1, libpng16-16 (>= 1.6.2-1), librevenge-0.0-0, libsm6, libx11-6, libxext6, libxinerama1, libxml2 (>= 2.7.4), libxrandr2, libxrender1, libxslt1.1 (>= 1.1.25), zlib1g (>= 1:1.1.4), librdf0 (>= 1.0.17), libepubgen-0.1-1, libcdr-0.1-1, libmspub-0.1-1, libfreehand-0.1-1, libe-book-0.1-1, libabw-0.1-1, libpagemaker-0.0-0, libqxp-0.0-0, libzmf-0.0-0, libtommath1, libraptor2-0, coinor-libcoinmp1v5, coinor-libcoinutils3v5, libbluetooth3, libwpd-0.10-10, libwpg-0.3-3, libwps-0.4-4, libvisio-0.1-1, libetonyek-0.1-1, libatomic1, libsane | libsane1, libdeflate0, deepin-elf-verify (>= 1.1.10-1)
 Recommends: libpaper-utils, libcppunit-1.14-0, libbox2d2.3.0
 Suggests: libicu63 (>= 63.1-1~), libssl1.1, libnumbertext (>= 1.0.11), libcurl (>= 7.88.1), libtiff6 (>= 4.5.1+szbt1), libwebp7 (>= 1.3.2), libldap-2.4-2 (>= 2.4.47), libstdc++6 (>= 11.4)
 Conflicts: libreoffice-filter-binfilter, libreoffice-unbundled
 Replaces: libreoffice-filter-binfilter, libreoffice-unbundled
-Filename: office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.6.3_plusszbt5_amd64.deb
-Size: 226033838
-MD5sum: cec99a8d36b8d524b7874de4547111a9
-SHA1: 3d55303d114c571f7b5ce56092ea78cfeaf840f3
-SHA256: e232e8f21c34a910c3543c8ac9bfd7c1ab1ed0a0330ed9fae645582a1a95a917
-SHA512: 37bbff95c3012ec349184e3828126003a88aaf2888a57f3f27aee5c814270e2ca361890443a433276a5738adba5d359fccba0419a7dc82abb4a4001cafd3389a
+Filename: office/org.libreoffice.libreoffice/org.libreoffice.libreoffice_7.6.7.2_plusszbt1_amd64.deb
+Size: 214703250
+MD5sum: 50e7aea165a7881ff9d4715a84167e4c
+SHA1: a31b0c9df5b922bff42bf8b77e60c9fa205a1177
+SHA256: 6b94a068b9af43404e8ad37418d3c62714839f13b4175dfe3183977de528d122
+SHA512: 7bb6e3e70f55bb796379716b1c42a00043a4ec9dbf1b8207c7e292c2d74464c0141539662bc0dae8830218452c45d847cc4c65f9dfab5e68f3e4a2e6688f9b5f
 Homepage: http://www.libreoffice.org
 Description: LibreOffice olny with zh locales.   LibreOffice(All langs) is a full-featured office productivity suite that provides a near drop-in replacement for Microsoft(R) Office. .Disabled Java
 
@@ -29603,6 +29604,28 @@ Homepage: http://www.loongnix.cn/zh/api/lbrowser/
 Description: The web browser from Loongson
  Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
+Package: cn.loongnix.lbrowser
+Architecture: amd64
+Version: 3.3.1876.3-1.stable
+Priority: optional
+Section: web
+Source: lbrowser
+Maintainer: Lbrowser Team <browser@loongson.cn>
+Installed-Size: 289100
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev, libvulkan1
+Filename: network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1876.3-1.stable_amd64.deb
+Size: 93734108
+MD5sum: 6cfab0cba3b483961a90cece3b757cc1
+SHA1: 80ae733b4728f359f5157127a358c21f84690d74
+SHA256: 383dd73078a54c08354fb64dd7d81b1f28ecbfed2ee5402c25f101eb8053306d
+SHA512: f52e8443e7757cfc31032b02986926a100aa7ce2d4b6a64afbd00a15d3de8f3a8047574fc5daf5bb04fab5544a55b5c0a198ba45ad38e3f222f47714d4fee65e
+Homepage: http://www.loongnix.cn/zh/api/lbrowser/
+Description: The web browser from Loongson
+ Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+
 Package: vivaldi-snapshot
 Architecture: amd64
 Version: 3.7.2202.3-1
@@ -31007,22 +31030,22 @@ Description: NFSBrowser - Web Browser
 
 Package: firefox-spark
 Architecture: amd64
-Version: 127.0.2
+Version: 128.0
 Priority: optional
 Section: web
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 214784
-Provides: x-www-browser,gnome-www-browser,firefox(=127.0.2)
+Provides: x-www-browser,gnome-www-browser,firefox(=128.0)
 Depends: libdbus-glib-1-2,zenity
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
-Filename: network/firefox-spark/firefox-spark_127.0.2_amd64.deb
-Size: 70491288
-MD5sum: 836be89c0f13c3325f9123a2c129e759
-SHA1: 7ea572348c0b7f332afd5078dea57e7dd2e1667a
-SHA256: d91008128e522d74646d99fc50b712d262207c4e2eaeda348738069183344b47
-SHA512: 41057553b07bfac687192dab455c8ae41b555e7ecbe91647617ef4b8bace6f1d5ce82b7c8c51fbc8ce5435f3cf12ccd1a5c32b9e274cb75d665dfcf970fba782
+Filename: network/firefox-spark/firefox-spark_128.0_amd64.deb
+Size: 70507088
+MD5sum: 6910e241a6cbafaac5f3c4ac025397fb
+SHA1: fd8bbfd9628756fc0825593755ee7477bcd3de83
+SHA256: 45e4cf4cf55a37f62556e442c4bf1999e711ece48e973c58e69e45bd2da5082d
+SHA512: 88003a62146e7c2d810608565c6c228277cb46ca5d275df43896a09bee832a6862e16925d7763eed6f0ba9d3118cf39a0bcf2852059723b0b7559ca47711969c
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 

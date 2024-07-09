@@ -2557,21 +2557,6 @@ Description: 360zip By Deepin Wine 6 Stable And Build By Wine Runner Easy Packag
 
 Package: com.uostools.udom
 Architecture: all
-Version: 1.2.9
-Priority: standard
-Section: system
-Maintainer: udom<uostools.com>
-Filename: tools/com.uostools.udom/com.uostools.udom_1.2.9_all.deb
-Size: 21587004
-MD5sum: de0ef92f73a2bdd8a9ad539895ba4b3e
-SHA1: 147f53c8ffe3f7ea22bc3d1d1ee98a7d42e73bd2
-SHA256: a4e763b113aa77b71967f3743081de72745749a4ddb0f962c0e0f03f3ff8bc36
-SHA512: 3e30e6f2dff6ef38bfda983af391bf9f708a9e361adda96afb01c3177d3bbecc8837b4e8b07171b13c55b9c63f412ea7fab22612d2827f871fceff876d194029
-Homepage: www.uostools.com
-Description: UDOM工具箱
-
-Package: com.uostools.udom
-Architecture: all
 Version: 1.2.11
 Priority: standard
 Section: system
@@ -7017,6 +7002,28 @@ Description: VNC® Server
  computer with any number of other computers or devices.
  RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other
  computers and devices, for seamless, secure and reliable connections.
+
+Package: cn.loongnix.lbrowser
+Architecture: arm64
+Version: 3.3.1876.3-1.stable
+Priority: optional
+Section: web
+Source: lbrowser
+Maintainer: Lbrowser Team <browser@loongson.cn>
+Installed-Size: 296417
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev, libvulkan1
+Filename: network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1876.3-1.stable_arm64.deb
+Size: 86745612
+MD5sum: 53288c30dcd1075628dbf5ec7c8c82c3
+SHA1: 9f1846409f0c54e38591c46ae7ab020cbacf83b2
+SHA256: f293b0d4187bd54e1155303055d535d3fb0df3b14b51ebbddbc163cab3ae7476
+SHA512: 7d883c3dc39a32e67c80b890fec8102021c91d4b0f538f4661e90dbc84e8425332df45f0c092b226d2f87358fc9c26a339a876347014ca22134f969701f3c588
+Homepage: http://www.loongnix.cn/zh/api/lbrowser/
+Description: The web browser from Loongson
+ Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
 Package: cn.loongnix.lbrowser
 Architecture: arm64

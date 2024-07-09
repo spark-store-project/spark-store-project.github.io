@@ -155,15 +155,15 @@
 ,
 {
     "Name": "火狐浏览器国际版 Firefox",
-    "Version": "127.0.2",
-    "Filename": "firefox-spark_127.0.2_amd64.deb",
-    "Torrent_address": "firefox-spark_127.0.2_amd64.deb.torrent",
+    "Version": "128.0",
+    "Filename": "firefox-spark_128.0_amd64.deb",
+    "Torrent_address": "firefox-spark_128.0_amd64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2024-06-26 01:31:27",
-    "Size": "68840",
+    "Update": "2024-07-10 01:31:28",
+    "Size": "68856",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/87ad15a3d25b442aa5e78358ca31a8e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/4c7826cf206d4c8bbab36e8e8fc79568.png\"]",
@@ -747,21 +747,22 @@
 }
 ,
 {
-    "Name": "龙芯浏览器",
-    "Version": "3.3.1814.2-1.stable",
-    "Filename": "cn.loongnix.lbrowser_3.3.1814.2-1.stable_amd64.deb",
-    "Torrent_address": "cn.loongnix.lbrowser_3.3.1814.2-1.stable_amd64.deb.torrent",
-    "Pkgname": "cn.loongnix.lbrowser",
     "Author": "Lbrowser Team <browser@loongson.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.loongnix.cn/zh/api/lbrowser/",
-    "Update": "2024-04-30 22:04:21",
-    "Size": "94.63 MB",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.loongnix.lbrowser_3.3.1876.3-1.stable_amd64.deb",
     "More": "龙芯浏览器是基于chromium内核开发的一款安全高效的浏览器，提供常见的管理功能：浏览器历史记录管理，书签管理，下载管理，集成web开发者工具功能，支持npapi插件功能，支持国家商用密码算法模块和国产安全协议模块，深度优化多媒体、图形库等模块，增加DoH、本地数据加密等安全特性，鼠标手势\n、划词翻译等功能特性。龙芯浏览器已经兼容龙芯、\n鲲鹏 兆芯以及飞腾等国产处理器架构，以及UOS、银河麒麟等操作系统，高效满足信创平台办公需求。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/1ca554e176e24166b6722f2ef43383f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/daadbcb913304af49b6cfe42ab98b6fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/30/ea226aaf507b4f5cb7f65b8b8223fdc8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/30/59c7bea4ba4e437481833f64e66b48bd.png"
+    "Name": "龙芯浏览器",
+    "Pkgname": "cn.loongnix.lbrowser",
+    "Size": "93 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.loongnix.lbrowser_3.3.1876.3-1.stable_amd64.deb.torrent",
+    "Update": "2024-07-09 18:08:44",
+    "Version": "3.3.1876.3-1.stable",
+    "Website": "http://www.loongnix.cn/zh/api/lbrowser/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/cn.loongnix.lbrowser/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/cn.loongnix.lbrowser/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.loongnix.lbrowser/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/cn.loongnix.lbrowser/screen_3.png\"]"
 }
+
 ,
 {
     "Name": "Yolx",
@@ -798,23 +799,6 @@
 }
 ,
 {
-    "Name": "QQ 浏览器",
-    "Version": "1.70.3538.0",
-    "Filename": "com.qq.browser_1.70.3538.0_amd64.deb",
-    "Torrent_address": "com.qq.browser_1.70.3538.0_amd64.deb.torrent",
-    "Pkgname": "com.qq.browser",
-    "Author": "Tencent",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://browser.qq.com/",
-    "Update": "2022-12-28 13:55:24",
-    "Size": "74.32 MB",
-    "More": "A fast, safe web browser from Tencent.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/bb7fdb7d9d824fe7b1bc425572669f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/504e5b88d2ff47b2ad04116fa00013fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/fd63466f3c8e4e28ab7c85221cf5fbb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/89596a73686045239ca4c4102dcdfc58.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/81276e0b81a34970ab56a1db2a7cb12c.png"
-}
-,
-{
     "Name": "VNC Viewer",
     "Version": "7.11.0.18",
     "Filename": "realvnc-vnc-viewer_7.11.0.18_amd64.deb",
@@ -829,6 +813,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/2c7d07693b0947ae9edf024f781d3ee4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/e1b0cedfc91d46ea9c7d7f992fe918af.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/e2d305bf5a504897a93973cb134af4de.png"
+}
+,
+{
+    "Name": "QQ 浏览器",
+    "Version": "1.70.3538.0",
+    "Filename": "com.qq.browser_1.70.3538.0_amd64.deb",
+    "Torrent_address": "com.qq.browser_1.70.3538.0_amd64.deb.torrent",
+    "Pkgname": "com.qq.browser",
+    "Author": "Tencent",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://browser.qq.com/",
+    "Update": "2022-12-28 13:55:24",
+    "Size": "74.32 MB",
+    "More": "A fast, safe web browser from Tencent.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/bb7fdb7d9d824fe7b1bc425572669f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/504e5b88d2ff47b2ad04116fa00013fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/fd63466f3c8e4e28ab7c85221cf5fbb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/89596a73686045239ca4c4102dcdfc58.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/81276e0b81a34970ab56a1db2a7cb12c.png"
 }
 ,
 {
@@ -1017,23 +1018,6 @@
 }
 ,
 {
-    "Name": "123云盘",
-    "Version": "2.0.2spark3",
-    "Filename": "com.123pan.spark_2.0.2spark3_all.deb",
-    "Torrent_address": "com.123pan.spark_2.0.2spark3_all.deb.torrent",
-    "Pkgname": "com.123pan.spark",
-    "Author": "西安一二三云计算有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.123pan.com/login",
-    "Update": "2024-01-06 22:25:41",
-    "Size": "93.17 MB",
-    "More": "123云盘，下载免登录、传输不限速\nUbuntu22.04的KDE环境下可正常运行\n\n已知问题：\n不能拖拽文件上传",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/a286fd16672b497daccdb91ceaa0b693.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/1f07e0867e6f41e5b788678299f14776.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/06/327eff2b9dad4d8da43ae0e0cdd4b9ee.png"
-}
-,
-{
     "Name": "Clash Nyanpasu～(∠・ω< )⌒☆​ ",
     "Version": "1.5.1",
     "Filename": "clash-nyanpasu_1.5.1_amd64.deb",
@@ -1048,6 +1032,23 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/e7122150-f8dd-11ee-94b3-3598cf0b4d68.gif\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/d8f3eef0-f8dd-11ee-94b3-3598cf0b4d68.png"
+}
+,
+{
+    "Name": "123云盘",
+    "Version": "2.0.2spark3",
+    "Filename": "com.123pan.spark_2.0.2spark3_all.deb",
+    "Torrent_address": "com.123pan.spark_2.0.2spark3_all.deb.torrent",
+    "Pkgname": "com.123pan.spark",
+    "Author": "西安一二三云计算有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.123pan.com/login",
+    "Update": "2024-01-06 22:25:41",
+    "Size": "93.17 MB",
+    "More": "123云盘，下载免登录、传输不限速\nUbuntu22.04的KDE环境下可正常运行\n\n已知问题：\n不能拖拽文件上传",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/a286fd16672b497daccdb91ceaa0b693.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/1f07e0867e6f41e5b788678299f14776.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/06/327eff2b9dad4d8da43ae0e0cdd4b9ee.png"
 }
 ,
 {
