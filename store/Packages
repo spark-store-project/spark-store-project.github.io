@@ -29584,28 +29584,6 @@ Description: The web browser from Yandex
 
 Package: cn.loongnix.lbrowser
 Architecture: amd64
-Version: 3.3.1814.2-1.stable
-Priority: optional
-Section: web
-Source: lbrowser
-Maintainer: Lbrowser Team <browser@loongson.cn>
-Installed-Size: 323370
-Provides: www-browser
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, libasound2 (>= 1.0.17), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Recommends: libu2f-udev, libvulkan1
-Filename: network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_amd64.deb
-Size: 99223996
-MD5sum: 414b3ce67e2500194de356d0fd2de995
-SHA1: 71193896c502afa575f44d4a1d385922668498d4
-SHA256: 0dbc098abee2951b88e2b19b53ff5382c126b06dd775b9a898e06e739b138e29
-SHA512: 0de1b658a23b2d51161a80eae8de64fec68db31589493f03b3e5c95e3f6b751f1f447b07b41462adde09c187629e8a7f37aceeaf0beeefa64525d0fd493fcb23
-Homepage: http://www.loongnix.cn/zh/api/lbrowser/
-Description: The web browser from Loongson
- Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
-Package: cn.loongnix.lbrowser
-Architecture: amd64
 Version: 3.3.1876.3-1.stable
 Priority: optional
 Section: web

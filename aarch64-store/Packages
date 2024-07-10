@@ -7025,28 +7025,6 @@ Homepage: http://www.loongnix.cn/zh/api/lbrowser/
 Description: The web browser from Loongson
  Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
-Package: cn.loongnix.lbrowser
-Architecture: arm64
-Version: 3.3.1814.2-1.stable
-Priority: optional
-Section: web
-Source: lbrowser
-Maintainer: Lbrowser Team <browser@loongson.cn>
-Installed-Size: 330622
-Provides: www-browser
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, libasound2 (>= 1.0.17), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Recommends: libu2f-udev, libvulkan1
-Filename: network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.1814.2-1.stable_arm64.deb
-Size: 92217676
-MD5sum: 33ba19fb979784e2f7aefa2c662d51c9
-SHA1: a32529965c5556b871ae33def75b7600911e7d9a
-SHA256: b7a3c7079dfee3b717157f83394314a13330760599ce6251dd573001d55493f1
-SHA512: bc003b17868f5d915d3185346492e4966d918242093950e038900243c0b659d86f5d110d42dcc10af93b1b9ac4e5e7332a7aaebd9fbc84f0e1a5ba73020bd2df
-Homepage: http://www.loongnix.cn/zh/api/lbrowser/
-Description: The web browser from Loongson
- Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
 Package: com.bitcomet.spark
 Architecture: all
 Version: 2.03.1
@@ -7535,22 +7513,22 @@ Description: .高中地理通关游戏――宇宙中的地球将宇宙中的地
 
 Package: firefox-spark
 Architecture: arm64
-Version: 127.0.2+build1-0ubuntu0.22.04.1~mt1
+Version: 128.0+build2-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo<shenmo@spark-app.store>
 Installed-Size: 52K
-Provides: x-www-browser,gnome-www-browser,firefox(=127.0.2+build1-0ubuntu0.22.04.1~mt1)
+Provides: x-www-browser,gnome-www-browser,firefox(=128.0+build2-0ubuntu0.22.04.1~mt1)
 Depends: libdbus-glib-1-2,libgtk-3-0
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox
-Filename: network/firefox-spark/firefox-spark_127.0.2_plus_build1-0ubuntu0.22.04.1~mt1_arm64.deb
-Size: 58406404
-MD5sum: 8fc1444fed7c1da41dc106af35750bff
-SHA1: 9b586cd99d09ef070746da51c7f63d715cfab2a1
-SHA256: 6e887f09c511069a7131be1e7d6fcf3137ec8d8a17897c002e1f421637ce7a85
-SHA512: a04897b4905be9f009cf63a0056f10d3e33fd2a15958ae8dded0d705a3d47af724f7177cd8be9209a024f7f03827cb8c270cc7f85e008792d5b3995ea7e92b15
+Filename: network/firefox-spark/firefox-spark_128.0_plus_build2-0ubuntu0.22.04.1~mt1_arm64.deb
+Size: 58142188
+MD5sum: 8ba708fcd5ee560eba7d7dd78c6f86e7
+SHA1: d990d2257733213dcbc10e050b2726a07a225f40
+SHA256: bdad7e50fe6ceac4bd444b6d4d822f669983c83b5e52a0f9f2aa0d0d105951ad
+SHA512: 075115f658514a22552a0071f529463548217b6e22fa53b79d2a6a0f0beebccdf3b37e08ee96e2f186b3d7b73466eaa6434a236d43bc479fe5ceeb5c004d50b5
 Homepage: https://gitee.com/spark-building-service/firefox-spark-arm
 Description: 一款开源自由的浏览器
  长介绍
