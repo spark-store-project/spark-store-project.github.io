@@ -6103,38 +6103,6 @@ Description: WPS Office, is an office productivity suite.
 Name: wps-office
 Relocations: /opt/kingsoft
 
-Package: wps-office
-Architecture: arm64
-Version: 11.1.0.11719
-Multi-Arch: foreign
-Priority: optional
-Section: editors
-Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
-Installed-Size: 1481976
-Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
-         libcups2, libglib2.0-0, libglu1-mesa,
-         libsm6, libxrender1, libfontconfig1,
-         libxext6, libxcb1, libbz2-1.0
-Recommends: ttf-mscorefonts-installer
-Replaces: kingsoft-office
-Filename: office/wps-office/wps-office_11.1.0.11719_arm64.deb
-Size: 362817038
-MD5sum: 5fba077f98811644c40e8fb72a28ae5f
-SHA1: 990c3dcc276118d31907e6d17ac3c1d3f304b6c1
-SHA256: 60bf443615ea838e7fdb3b4986a5e05fcdf4150bfdfc245c017798451339b3f2
-SHA512: cc468aaf9769a3dfa3e897329241d4493e49e6cf70d440fc259e6dc56f5d83b6f9c2f25e0e0551b1c70ab744909b29688ee80abf96bd4e74b373f2512f680889
-Homepage: http://wps-community.org
-Description: WPS Office, is an office productivity suite.
- WPS Office including Writer, Presentation
- and Spreadsheets, is a powerful office suite, which is able to process
- word file, produce wonderful slides, and analyze data as well. It is
- deeply compatible with all of the latest Microsoft Office file formats. 
- It can easily open and read the documents created with Microsoft Office.
- This is the Linux version, and it's now a TESTING package.
- Welcome to our website: http://wps-community.org
-Name: wps-office
-Relocations: /opt/kingsoft
-
 Package: ofdview
 Architecture: all
 Version: 1.0
@@ -6776,18 +6744,18 @@ Description: 奇安信可信浏览器
 
 Package: firefox-spark-ace
 Architecture: all
-Version: 127.0.2+build1-0ubuntu0.22.04.1~mt1
+Version: 128.0+build2-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 10
 Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Filename: network/firefox-spark-ace/firefox-spark-ace_127.0.2_plus_build1-0ubuntu0.22.04.1~mt1_all.deb
+Filename: network/firefox-spark-ace/firefox-spark-ace_128.0_plus_build2-0ubuntu0.22.04.1~mt1_all.deb
 Size: 1668
-MD5sum: 734f3107626b2a0d3a35ab764b222de6
-SHA1: 53a0c96c2b5707ec6a0b5d284790abf62ecf793a
-SHA256: 790b05037174e98f7dba401b9750590bb0076ecb4909aa370d1d889b2fe960bf
-SHA512: 5280fd00e0ef62badef09e6884ccfee1d3d60402e3a4b03da836c8e3aed04ed40adfa89668c9fc81d5638a6fd7392ca691c6dab4a5d4c8cfe5b9d52b49764de6
+MD5sum: 71337b14a7784784cbf5aafa2e57ecaa
+SHA1: 86e085c0067815e21a9e3d1807f7eddcef93d256
+SHA256: d6b3d86a7e478420d377e2af0e073df4a5eef1b87ad97166cad67ea9df31c196
+SHA512: e262cf8d97acc6ee541017773b5dbb891585a1ea7136f4e86b6a5f415ddb27421e071235fc3c916ca6270a31b728893919edb24dba854a26254c747a6a21350e
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -7042,7 +7010,7 @@ Priority: optional
 Section: net
 Maintainer: wxhere <wxhere@hotmail.com>
 Depends: libwebkit2gtk-4.0-37
-Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3+fix0_arm64.deb
+Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3_plus_fix0_arm64.deb
 Size: 13787004
 MD5sum: 0ae7722e913b5818ffabe7e6ce0a5cb7
 SHA1: e412e62b3947d65b1cd89529df0c8be23bcafe4a
@@ -8239,7 +8207,7 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.91.0-1719859985
+Version: 1.91.1-1720562813
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -8249,12 +8217,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.91.0-1719859985_arm64.deb
-Size: 93261222
-MD5sum: dc68036c5853bf7f47d58f9b61a80e04
-SHA1: 06a55f3503ba7372f0e6e109b6359c1ff5c0689e
-SHA256: c6b9847eadeedd392610998718b7ed2ed2ac77f22f80fc78cd2e1e8d620738cb
-SHA512: 8394ce4a79b31022b7f52f176eb29c9af900b791597b5733c05147550d7481814185974a20570da1bd268884ac4b8463b7c3916c90d4064f70af9678a956087e
+Filename: development/code/code_1.91.1-1720562813_arm64.deb
+Size: 93252506
+MD5sum: 6db439fad00149193880ab3ddf9d8352
+SHA1: 0b63ee78f1a831a58a23c2d73ebef108f3b8093f
+SHA256: 4021f51ae1dfdb11953a0d0814c82e1dbf4569f14fc9ddea70dc4f4b74cd7765
+SHA512: e4079a375920ef92d8005818eea069c8ba3b0b427d6dd3a8b85ffc64724647aa9de72e7539533a1a43e40a93a6c33babd970cb258babb4edd21034940b50fb8f
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of

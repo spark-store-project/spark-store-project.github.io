@@ -7179,38 +7179,6 @@ Description: It will redirect dedit to deepin-editor
 
 Package: wps-office
 Architecture: loong64
-Version: 11.1.0.11719+Mejituu-2024022119
-Multi-Arch: foreign
-Priority: optional
-Section: editors
-Maintainer: 懵仙兔兔 <acgm@qq.com>
-Installed-Size: 1529268
-Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
-         libcups2, libglib2.0-0, libglu1-mesa,
-         libsm6, libxrender1, libfontconfig1,
-         libxext6, libxcb1, libbz2-1.0, liblol, liblol-dkms
-Recommends: ttf-mscorefonts-installer
-Replaces: kingsoft-office
-Filename: office/wps-office/wps-office_11.1.0.11719_plus_Mejituu-2024022119_loong64.deb
-Size: 377616952
-MD5sum: 773e1e3f3b3dbee2b8bf92ef72161407
-SHA1: 9ab72f5eed271a553deab3974e2500607466bd77
-SHA256: 991c9b83e8799bccbf729fd19796bdec738f577814061265f717fea3ebb0e46d
-SHA512: a6400bbfa4e4e23b287505af7caf7f25bf5d922c09d827140b882be9595d8f4a3253662101be15839fe546db59b21b6d3c3ed65d48338c5dd96a5b870a5794a4
-Homepage: http://wps-community.org
-Description: WPS Office, is an office productivity suite.
- WPS Office including Writer, Presentation
- and Spreadsheets, is a powerful office suite, which is able to process
- word file, produce wonderful slides, and analyze data as well. It is
- deeply compatible with all of the latest Microsoft Office file formats. 
- It can easily open and read the documents created with Microsoft Office.
- This is the Linux version, and it's now a TESTING package.
- Welcome to our website: http://wps-community.org
-Name: wps-office
-Relocations: /opt/kingsoft
-
-Package: wps-office
-Architecture: loong64
 Version: 11.1.0.11720-Mejituu1
 Multi-Arch: foreign
 Priority: optional
@@ -7979,29 +7947,12 @@ Description: mCloud Client on Deepin Wine6
 
 Package: com.bitcomet.linux
 Architecture: loong64
-Version: 2.8.3
-Priority: optional
-Section: utils
-Maintainer: spark-store
-Installed-Size: 10
-Depends: ace-bookworm-x86(>=12.4.11),bash,wget,sudo,libnotify-bin
-Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3_loong64.deb
-Size: 19379104
-MD5sum: e01afdec11c2c71c1b84e42013be2af8
-SHA1: 0d9c38111b5caf2132769b9eaa596e5bb9275409
-SHA256: 52db6270c0db6ce95959fc1412df9dda26cdebcbbb9bfb314ee41e68f3b64217
-SHA512: 8f8a4bca39dda52eb78812c44785a1d4df41aee304c8af6c47a58b19ec3629489126147930bddd67f70054e7f610931eca7b94f743f2f0397cbf4d218bf5f1dd
-Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
-Description: com.bitcomet.linux Software Package created by Appimage2Deb
-
-Package: com.bitcomet.linux
-Architecture: loong64
 Version: 2.8.3+fix0
 Priority: optional
 Section: net
 Maintainer: wxhere <wxhere@hotmail.com>
 Depends: libwebkit2gtk-4.0-37, liblol,liblol-dkms
-Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3+fix0_loong64.deb
+Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3_plus_fix0_loong64.deb
 Size: 12749032
 MD5sum: a8f0258a20c02fa6165658ec0073ecf7
 SHA1: a051046ec0628eb4122218b8bf00d822304f5270

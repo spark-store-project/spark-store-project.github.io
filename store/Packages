@@ -5102,27 +5102,6 @@ Description: bwrap wrapper for install and running debs inside a bookworm contai
 
 Package: electerm
 Architecture: amd64
-Version: 1.38.30-1
-Priority: optional
-Section: default
-Maintainer: ZHAO Xudong <zxdong@gmail.com>
-Installed-Size: 237287
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: tools/electerm/electerm_1.38.30-1_amd64.deb
-Size: 68700558
-MD5sum: f7c7129d38793a5d372b7756fe3e56a0
-SHA1: 84970d0a780ebed3a6f88f67e9d5c01bf22d9562
-SHA256: 21ce0fda5f2db860ca6832ffcf3ef38383a4f4a3fd7d4c54610bd2cf60577319
-SHA512: b2372304d18f1c7a20f3b868f7a93f78f82301442b1e71c8be1c613f403d4d53eddd1581d35fe60575abaeea4f6843ad0f61726d064c051815fdea25f5cadd69
-Homepage: https://electerm.html5beta.com
-Description: 
-  Terminal/ssh/telnet/serialport/sftp client(linux, mac, win)
-License: MIT
-Vendor: ZHAO Xudong <zxdong@gmail.com>
-
-Package: electerm
-Architecture: amd64
 Version: 1.39.68-1
 Priority: optional
 Section: default
@@ -18140,27 +18119,6 @@ Description: cloudar-electron
 
 Package: xmcl
 Architecture: amd64
-Version: 0.44.10-847
-Priority: optional
-Section: default
-Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 284484
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: games/xmcl/xmcl_0.44.10-847_amd64.deb
-Size: 80398838
-MD5sum: 750ec881b446e4029183bd5d33d7bd73
-SHA1: 1861743ce6f6c0221d5e9d3e6c6d57f6ea02bcd3
-SHA256: fcbabacfc3d8b6a958b93c91cd929ceadecb627d88f249679ce60ad05350966b
-SHA512: 2f8a6b8a2f716c3935e1910fb4812be3e49c9336a35e629a94d5372b73bc80cdf1a1935aad8989467a7dcd15c3f6718bb47e5a005f7e0990cc2c9e24e968c76a
-Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
-Description: 
-  A great minecraft launcher in the future
-License: MIT
-Vendor: ci010 <cijhn@hotmail.com>
-
-Package: xmcl
-Architecture: amd64
 Version: 0.44.13-862
 Priority: optional
 Section: default
@@ -26189,38 +26147,6 @@ Description: WPS Office, is an office productivity suite.
 Name: wps-office
 Relocations: /opt/kingsoft
 
-Package: wps-office
-Architecture: amd64
-Version: 11.1.0.11719.1+ACE-fix1
-Multi-Arch: foreign
-Priority: optional
-Section: editors
-Maintainer: 懵仙兔兔 <acgm@qq.com>
-Installed-Size: 1577511
-Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
-         libcups2, libglib2.0-0, libglu1-mesa,
-         libsm6, libxrender1, libfontconfig1,
-         libxext6, libxcb1, libbz2-1.0,xdg-utils,bsdmainutils
-Recommends: ttf-mscorefonts-installer
-Replaces: kingsoft-office
-Filename: office/wps-office/wps-office_11.1.0.11719.1_plus_ACE-fix1_amd64.deb
-Size: 449842660
-MD5sum: 739d6503e8de689b744ceb73dd418e64
-SHA1: 98ad0b28b4684d0d4c2909af4504e906e72d9e99
-SHA256: 1c5044883c96ddd9132e6da141eec6f386490169e620b160ac210552bd633a6e
-SHA512: 5850a3638b58835b1b8c355f18628d89eebfc568926f1bf6ba6ef617345d7f0e49eafbf12fea529a2f31f506ddb0840cf5b6abb8edae0c66c96ddada25b75188
-Homepage: http://wps-community.org
-Description: WPS Office, is an office productivity suite.
- WPS Office including Writer, Presentation
- and Spreadsheets, is a powerful office suite, which is able to process
- word file, produce wonderful slides, and analyze data as well. It is
- deeply compatible with all of the latest Microsoft Office file formats. 
- It can easily open and read the documents created with Microsoft Office.
- This is the Linux version, and it's now a TESTING package.
- Welcome to our website: http://wps-community.org
-Name: wps-office
-Relocations: /opt/kingsoft
-
 Package: com.leanote.net
 Architecture: amd64
 Version: 2.6.2
@@ -29491,21 +29417,6 @@ Description: VNC® Server
 
 Package: com.bitcomet.linux
 Architecture: amd64
-Version: 2.8.3
-Priority: optional
-Section: utils
-Maintainer: spark-store
-Depends: libfuse2
-Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3_amd64.deb
-Size: 19371490
-MD5sum: f63f22cf90ba4c2c3d9bea24baf11d94
-SHA1: 4929c6108e86a71b3aba596d385d5e6a7da1743e
-SHA256: 652c10a50f5f453620efab8f56fbfc5f1008e126fdfcd6a00f39f01d03342bf3
-SHA512: abbf0952eebefaff74ef736a4f0b7323b288d95ddc2a1c9b4ba0bb4269fce57d63657d7ebd82dd892febe106e4559067b2a9528a87e7023451759c1bfcb1dd96
-Description: com.bitcomet.linux Software Package created by Appimage2Deb
-
-Package: com.bitcomet.linux
-Architecture: amd64
 Version: 2.8.3+fix0
 Priority: optional
 Section: net
@@ -29527,7 +29438,7 @@ Priority: optional
 Section: net
 Maintainer: wxhere <wxhere@hotmail.com>
 Depends: libwebkit2gtk-4.0-37
-Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3+fix0_amd64.deb
+Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3_plus_fix0_amd64.deb
 Size: 16437236
 MD5sum: b26b7a79d87f6fa804c46b7c2b302dcf
 SHA1: 7ac2ddc60eeda38651414aa98fde5a1a23b17cb3
@@ -35450,7 +35361,7 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: amd64
-Version: 1.91.0-1719861592
+Version: 1.91.1-1720564633
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -35460,12 +35371,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.91.0-1719861592_amd64.deb
-Size: 100931078
-MD5sum: 659bbf4c8dadbff11f1bb94c30dca75d
-SHA1: ecb06ae0cb0f81ed9c3bbce53dc66f6f08f56ea6
-SHA256: 59f8f5e7952e0742cf3b26933f9ba2a7e60cdd5e88b2709ab14642be472e90e0
-SHA512: 4a8b54eee6a6840935e775320942b0b2fdcc2e1c1ca6f7a99aa084a281c6c534da6393f7dc770dff68a5b58040b18977f816250ed83c74999badc8c6d931fa82
+Filename: development/code/code_1.91.1-1720564633_amd64.deb
+Size: 100924046
+MD5sum: 04821bd56f47d5fbe8bf8f621e791437
+SHA1: 48d095107eeb17f256952d7a7c0bfb2045d3221d
+SHA256: 31a13c05295f3349d3dc168d9c67dda4fcf30823fe3c34f215f0324d197f5479
+SHA512: ac1a83fdeb1cbd33cf8142c93d915acfaf17a80b5bb8ebefeb3d02d798a4a5cc6eaee44f582a2cfa91382d48b4453d08032df97690b9d44441df42ae7050b5c7
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
