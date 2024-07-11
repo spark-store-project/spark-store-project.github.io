@@ -714,22 +714,6 @@
 }
 ,
 {
-    "Name": "即刻下载器",
-    "Version": "0.0.3",
-    "Filename": "downow_0.0.3_amd64.deb",
-    "Pkgname": "downow",
-    "Author": "Jaeger   jack  Leng",
-    "Contributor": "jidro",
-    "Website": "https://downow.app/",
-    "Update": "2021-10-12 11:23:51",
-    "Size": "58.34 MB",
-    "More": "即刻下载体验\nDownow\n全平台多线程下载器，让你拥有全新的下载体验\n只为下载 无广告！！！\n速度快\n界面简洁 易操作 易上手\n后台多线程支持下载\nChrome插件安装 自动捕获下载链接\n海量的插件功能即将上线...",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbac3ce0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbbbcd40-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbd4fa90-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbee4ef0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cc0ad7a0-2b0b-11ec-86bd-4581e5a372f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/12/aa1091d0-2b0b-11ec-86bd-4581e5a372f7.png"
-}
-,
-{
     "Name": "Chromium",
     "Version": "111.0.5503.0",
     "Filename": "chromium-linux_111.0.5503.0_amd64.deb",
@@ -744,6 +728,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/88722011696846fea8665b0c43a2dfb5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/335383763a5a434c9b63a980bd9db90a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/475a088280dd4b32a5f4b65c46f134ea.png"
+}
+,
+{
+    "Name": "即刻下载器",
+    "Version": "0.0.3",
+    "Filename": "downow_0.0.3_amd64.deb",
+    "Pkgname": "downow",
+    "Author": "Jaeger   jack  Leng",
+    "Contributor": "jidro",
+    "Website": "https://downow.app/",
+    "Update": "2021-10-12 11:23:51",
+    "Size": "58.34 MB",
+    "More": "即刻下载体验\nDownow\n全平台多线程下载器，让你拥有全新的下载体验\n只为下载 无广告！！！\n速度快\n界面简洁 易操作 易上手\n后台多线程支持下载\nChrome插件安装 自动捕获下载链接\n海量的插件功能即将上线...",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbac3ce0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbbbcd40-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbd4fa90-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbee4ef0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cc0ad7a0-2b0b-11ec-86bd-4581e5a372f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/12/aa1091d0-2b0b-11ec-86bd-4581e5a372f7.png"
 }
 ,
 {
@@ -1103,19 +1103,19 @@
 ,
 {
     "Name": "比特彗星(Linux) BitComet",
-    "Version": "2.8.3",
-    "Filename": "com.bitcomet.linux_2.8.3_amd64.deb",
-    "Torrent_address": "com.bitcomet.linux_2.8.3_amd64.deb.torrent",
+    "Version": "2.8.3+fix0",
+    "Filename": "com.bitcomet.linux_2.8.3_plusfix0_amd64.deb",
+    "Torrent_address": "com.bitcomet.linux_2.8.3_plusfix0_amd64.deb.torrent",
     "Pkgname": "com.bitcomet.linux",
-    "Author": "spark-store",
+    "Author": "wxhere <wxhere@hotmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.bitcomet.com/cn",
-    "Update": "2024-06-30 19:25:57",
-    "Size": "18.47 MB",
+    "Website": "https://www.bitcomet.com",
+    "Update": "2024-07-11 22:12:18",
+    "Size": "15.68 MB",
     "More": "一款免费的BT/HTTP/FTP下载软件！\n功能强大速度快，操作简单的BT下载软件，BT资源下载利器！",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/9417a13f543b49beb59c4115575b36f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/f9362d3dd1a6405681598d628c91ef4c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/6cbbc7a814de43ff8c01eb3858d5861b.png"
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/aaa900fb07734fa1b218aa43725de4d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/e3927c441bec4e15b70fc32e5a097c34.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/11/799ea39433864fde87f1b975b583c6d6.png"
 }
 ,
 {

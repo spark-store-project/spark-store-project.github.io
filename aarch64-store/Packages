@@ -6073,6 +6073,38 @@ Description: Business Sogou Input Method
 
 Package: wps-office
 Architecture: arm64
+Version: 11.1.0.11720
+Multi-Arch: foreign
+Priority: optional
+Section: editors
+Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
+Installed-Size: 1474704
+Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
+         libcups2, libglib2.0-0, libglu1-mesa,
+         libsm6, libxrender1, libfontconfig1,
+         libxext6, libxcb1, libbz2-1.0
+Recommends: ttf-mscorefonts-installer
+Replaces: kingsoft-office
+Filename: office/wps-office/wps-office_11.1.0.11720_arm64.deb
+Size: 367187922
+MD5sum: 3581ab492a2203d14ce36ddbee2615f2
+SHA1: ca96c97ed2721b7329eb3a7a8c9058c8007f1ec6
+SHA256: 172d8bcf3e3bc756994ae5adf66f63f22691e1ab0d18986c50bb6b6ab7f62948
+SHA512: 549cc27d9d5d5c1ada93e09d9238b72194aabcd0c2ab88e3f6517583f14c0f7a79b865d52e1bf58382a76e9fa0d46a1c342bcd894f4a2cccc5bb7a7e99d8db3e
+Homepage: http://wps-community.org
+Description: WPS Office, is an office productivity suite.
+ WPS Office including Writer, Presentation
+ and Spreadsheets, is a powerful office suite, which is able to process
+ word file, produce wonderful slides, and analyze data as well. It is
+ deeply compatible with all of the latest Microsoft Office file formats. 
+ It can easily open and read the documents created with Microsoft Office.
+ This is the Linux version, and it's now a TESTING package.
+ Welcome to our website: http://wps-community.org
+Name: wps-office
+Relocations: /opt/kingsoft
+
+Package: wps-office
+Architecture: arm64
 Version: 11.1.0.11719
 Multi-Arch: foreign
 Priority: optional
@@ -7002,6 +7034,22 @@ Description: VNC® Server
  computer with any number of other computers or devices.
  RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other
  computers and devices, for seamless, secure and reliable connections.
+
+Package: com.bitcomet.linux
+Architecture: arm64
+Version: 2.8.3+fix0
+Priority: optional
+Section: net
+Maintainer: wxhere <wxhere@hotmail.com>
+Depends: libwebkit2gtk-4.0-37
+Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3+fix0_arm64.deb
+Size: 13787004
+MD5sum: 0ae7722e913b5818ffabe7e6ce0a5cb7
+SHA1: e412e62b3947d65b1cd89529df0c8be23bcafe4a
+SHA256: 4135d8ee88f49968fbc8720670e6ac7b2243e812afe21507989a13dd06359a6a
+SHA512: 489aab7debcaba83bec60945a390d9ee00718d2c51522314eb99044fb851b1e7d26c44c6f3fb4af4cff49a7890c067af02212510564a772be47b6259781d89d8
+Homepage: https://www.bitcomet.com
+Description: BitComet is a BitTorrent/HTTP/FTP download client.
 
 Package: cn.loongnix.lbrowser
 Architecture: arm64

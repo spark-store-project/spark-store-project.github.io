@@ -605,24 +605,6 @@
 
 ,
 {
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "wps-check_0.3-1_all.deb",
-    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
-    "Name": "WPS Office 版本信息及字体检测小工具",
-    "Pkgname": "wps-check",
-    "Size": "126 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
-    "Update": "2023-03-05 18:41:53",
-    "Version": "0.3-1",
-    "Website": "https://bbs.deepin.org/post/248386",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
-}
-
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -637,6 +619,24 @@
     "Website": "https://github.com/debuggerx01/fcitx5_customizer",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "wps-check_0.3-1_all.deb",
+    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
+    "Name": "WPS Office 版本信息及字体检测小工具",
+    "Pkgname": "wps-check",
+    "Size": "126 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
+    "Update": "2023-03-05 18:41:53",
+    "Version": "0.3-1",
+    "Website": "https://bbs.deepin.org/post/248386",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
 }
 
 ,
@@ -893,6 +893,24 @@
 
 ,
 {
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "mpaste_0.2.0_arm64.deb",
+    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
+    "Name": "MPaste：剪贴板管理工具",
+    "Pkgname": "mpaste",
+    "Size": "2636 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "mpaste_0.2.0_arm64.deb.torrent",
+    "Update": "2023-03-05 18:58:09",
+    "Version": "0.2.0",
+    "Website": "https://github.com/SeptemberHX/MPaste/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/mpaste/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/mpaste/screen_1.png\"]"
+}
+
+,
+{
     "Author": "zinface <zinface@163.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "linuxqq-autoservice_0.0.1_all.deb",
@@ -925,24 +943,6 @@
     "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "SeptemberHX",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "mpaste_0.2.0_arm64.deb",
-    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
-    "Name": "MPaste：剪贴板管理工具",
-    "Pkgname": "mpaste",
-    "Size": "2636 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "mpaste_0.2.0_arm64.deb.torrent",
-    "Update": "2023-03-05 18:58:09",
-    "Version": "0.2.0",
-    "Website": "https://github.com/SeptemberHX/MPaste/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/mpaste/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/mpaste/screen_1.png\"]"
 }
 
 ,
@@ -1091,6 +1091,24 @@
 
 ,
 {
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark.gitee.timer_1.0.0_arm64.deb",
+    "More": "使用 dtk 写的一个倒计时工具",
+    "Name": "倒计时",
+    "Pkgname": "spark.gitee.timer",
+    "Size": "14 Kb",
+    "Tags": "community;deepin;dtk5",
+    "Torrent_address": "spark.gitee.timer_1.0.0_arm64.deb.torrent",
+    "Update": "2023-04-29 08:02:19",
+    "Version": "1.0.0",
+    "Website": "https://gitee.com/gfdgd-xi/timer",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark.gitee.timer/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark.gitee.timer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark.gitee.timer/screen_2.png\"]"
+}
+
+,
+{
     "Author": "gfdgd_xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "gxde-kernel-manager_1.1.0_arm64.deb",
@@ -1123,24 +1141,6 @@
     "Website": "ttps://gitee.com/deepin-community-store/web-packer",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark.gitee.timer_1.0.0_arm64.deb",
-    "More": "使用 dtk 写的一个倒计时工具",
-    "Name": "倒计时",
-    "Pkgname": "spark.gitee.timer",
-    "Size": "14 Kb",
-    "Tags": "community;deepin;dtk5",
-    "Torrent_address": "spark.gitee.timer_1.0.0_arm64.deb.torrent",
-    "Update": "2023-04-29 08:02:19",
-    "Version": "1.0.0",
-    "Website": "https://gitee.com/gfdgd-xi/timer",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark.gitee.timer/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark.gitee.timer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark.gitee.timer/screen_2.png\"]"
 }
 
 ,
@@ -1379,6 +1379,24 @@
 
 ,
 {
+    "Author": "bitporo <bitporo@qq.com>",
+    "Contributor": "bitporo <bitporo@qq.com>",
+    "Filename": "easy-send_1.2.0_all.deb",
+    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
+    "Name": "简传",
+    "Pkgname": "easy-send",
+    "Size": "8148 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "easy-send_1.2.0_all.deb.torrent",
+    "Update": "2024-07-04 21:52:18",
+    "Version": "1.2.0",
+    "Website": "https://easysend.channer.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/easy-send/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/easy-send/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/easy-send/screen_2.png\"]"
+}
+
+,
+{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.filegee.spark_11.7.4spark1_all.deb",
@@ -1429,24 +1447,6 @@
     "Website": "http://www.linuxdeepin.com/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "bitporo <bitporo@qq.com>",
-    "Contributor": "bitporo <bitporo@qq.com>",
-    "Filename": "easy-send_1.2.0_all.deb",
-    "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
-    "Name": "简传",
-    "Pkgname": "easy-send",
-    "Size": "8148 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "easy-send_1.2.0_all.deb.torrent",
-    "Update": "2024-07-04 21:52:18",
-    "Version": "1.2.0",
-    "Website": "https://easysend.channer.cn",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/easy-send/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/easy-send/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/easy-send/screen_2.png\"]"
 }
 
 ]

@@ -17,22 +17,21 @@
 }
 ,
 {
-    "Author": "懵仙兔兔 <acgm@qq.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "wps-office_11.1.0.11719.1_plus_ACE-fix1_amd64.deb",
-    "More": "WPS Office\n\n懵仙兔兔补丁版的WPS Office\n- 1.修复了pdf相关功能失效的问题\n- 2.修复了字体显示异常粗壮的问题\n-3. Fix: Can not install on ACE\n注：\n补丁是根据你本地系统依赖环境全自动处理是否需要补丁介入\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b3：功能全部正常\ndeepin 20.9：功能全部正常",
     "Name": "WPS Office",
+    "Version": "11.1.0.11720-ACETuu",
+    "Filename": "wps-office_11.1.0.11720-ACETuu_amd64.deb",
+    "Torrent_address": "wps-office_11.1.0.11720-ACETuu_amd64.deb.torrent",
     "Pkgname": "wps-office",
-    "Size": "449 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "wps-office_11.1.0.11719.1_plus_ACE-fix1_amd64.deb.torrent",
-    "Update": "2024-06-07 18:10:36",
-    "Version": "11.1.0.11719.1+ACE-fix1",
-    "Website": "http://wps-community.org",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/wps-office/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_4.png\"]"
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://linux.wps.cn/",
+    "Update": "2024-07-11 15:24:09",
+    "Size": "428.69 MB",
+    "More": "WPS Office\n\n懵仙兔兔补丁版的WPS Office\n- 1.修复了pdf相关功能失效的问题\n- 2.修复了字体显示异常粗壮的问题\n-3. Fix: Can not install on ACE\n注：\n补丁是根据你本地系统依赖环境全自动处理是否需要补丁介入\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b3：功能全部正常\ndeepin 20.9：功能全部正常",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/1d08a9d0fd9c4551b1df98ea9b90d263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/6e56bf6910c04f35878b8ea5c03f1b3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/d6e5f6c0959d4691b78524a6bb671b3e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/65c47e9a8f0f4fd7be239c44d2adb590.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/11/0973923d469b4b84b968c6a5205ba0c2.png"
 }
-
 ,
 {
     "Name": "讯飞输入法",
@@ -510,23 +509,6 @@
 
 ,
 {
-    "Name": "Microsoft Office Excel 2007 Professional（wine）",
-    "Version": "1.2",
-    "Filename": "spark.microsoft.excel_1.2_all.deb",
-    "Torrent_address": "spark.microsoft.excel_1.2_all.deb.torrent",
-    "Pkgname": "spark.microsoft.excel",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd xi <3025613752@qq.com>",
-    "Website": "https://www.microsoft.com",
-    "Update": "2024-05-01 21:47:57",
-    "Size": "886.15 MB",
-    "More": "使用deepin-wine6打包的Microsoft Office Excel 2007 Professional",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/1280c59fcb7b43d4af94ac98d3098ef8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/3d667f456319408d9caaa46f1c3ddb43.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/5a7fbeb71b11456e8cd3385be09a48d2.png"
-}
-,
-{
     "Name": "office 2010",
     "Version": "14.0.0",
     "Filename": "spark-deepin-office14_14.0.0_all.deb",
@@ -541,6 +523,23 @@
     "Tags": "deepin;uos;dwine5;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/d927c710-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd179ee0-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1b2150-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1f8e20-636a-11ee-b2e5-dfc8faebc0c5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/05/d2b0f640-636a-11ee-b2e5-dfc8faebc0c5.png"
+}
+,
+{
+    "Name": "Microsoft Office Excel 2007 Professional（wine）",
+    "Version": "1.2",
+    "Filename": "spark.microsoft.excel_1.2_all.deb",
+    "Torrent_address": "spark.microsoft.excel_1.2_all.deb.torrent",
+    "Pkgname": "spark.microsoft.excel",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd xi <3025613752@qq.com>",
+    "Website": "https://www.microsoft.com",
+    "Update": "2024-05-01 21:47:57",
+    "Size": "886.15 MB",
+    "More": "使用deepin-wine6打包的Microsoft Office Excel 2007 Professional",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/1280c59fcb7b43d4af94ac98d3098ef8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/01/3d667f456319408d9caaa46f1c3ddb43.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/01/5a7fbeb71b11456e8cd3385be09a48d2.png"
 }
 ,
 {
@@ -694,20 +693,6 @@
 }
 ,
 {
-   "Name":"Master Pdf编辑器",
-   "Version":"5.6.20",
-   "Filename":"master-pdf-editor-5.6.20-qt5.x86_64.deb",
-   "Pkgname":"master-pdf-editor",
-   "Author":"Code Industry",
-   "Contributor":"奇点法则（搬运）",
-   "Website":"https://code-industry.net/free-pdf-editor/#get",
-   "Update":"2020-07-21 12:35",
-   "Size":"10.54MB",
-   "More":"一个强大的PDF编辑器"
-}
-
-,
-{
     "Name": "office2013",
     "Version": "15.0.0",
     "Filename": "spark-office_15.0.0_all.deb",
@@ -723,6 +708,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/351d3430-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3528a5e0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3534dae0-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/353cca20-c561-11ee-9bdf-11b9ca480f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/07/3a7b6910-c561-11ee-9bdf-11b9ca480f15.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/07/41a201e0-c561-11ee-9bdf-11b9ca480f15.png"
 }
+,
+{
+   "Name":"Master Pdf编辑器",
+   "Version":"5.6.20",
+   "Filename":"master-pdf-editor-5.6.20-qt5.x86_64.deb",
+   "Pkgname":"master-pdf-editor",
+   "Author":"Code Industry",
+   "Contributor":"奇点法则（搬运）",
+   "Website":"https://code-industry.net/free-pdf-editor/#get",
+   "Update":"2020-07-21 12:35",
+   "Size":"10.54MB",
+   "More":"一个强大的PDF编辑器"
+}
+
 ,
 {
    "Name":"FoxitReader",
@@ -824,23 +823,6 @@
 }
 ,
 {
-    "Name": "Marktext中文版",
-    "Version": "0.17.1",
-    "Filename": "marktext_0.17.1_amd64.deb",
-    "Torrent_address": "marktext_0.17.1_amd64.deb.torrent",
-    "Pkgname": "marktext",
-    "Author": "MarkText",
-    "Contributor": "chinayangxiaowei",
-    "Website": "https://github.com/chinayangxiaowei/marktext-chinese-language-pack/",
-    "Update": "2023-11-19 16:58:38",
-    "Size": "76.86 MB",
-    "More": "一个简单而优雅的markdown编辑器, Typora的开源替代品。中文版由chinayangxiaowei制作",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/34c40b3b9dd94709bc40632585140c16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/b3c645003c154fa4a5a1bc659309984b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/6817cc0c6aaa419296803eb47e2a4484.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/95e39f618ef646eaad59f3b86fa74c48.png"
-}
-,
-{
     "Name": "MindMaster",
     "Version": "10.8.0",
     "Filename": "mindmaster_10.8.0_amd64.deb",
@@ -855,6 +837,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/1c30f0fa133c4bbb9a5f78ba131a9cb6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ccf7df6ec6d44daba6fc2eeeab9d12c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/ffddcfa55e794dd9a64f03ed846a66b6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/f34a169f164b44f2a4568e728a8feb32.png"
+}
+,
+{
+    "Name": "Marktext中文版",
+    "Version": "0.17.1",
+    "Filename": "marktext_0.17.1_amd64.deb",
+    "Torrent_address": "marktext_0.17.1_amd64.deb.torrent",
+    "Pkgname": "marktext",
+    "Author": "MarkText",
+    "Contributor": "chinayangxiaowei",
+    "Website": "https://github.com/chinayangxiaowei/marktext-chinese-language-pack/",
+    "Update": "2023-11-19 16:58:38",
+    "Size": "76.86 MB",
+    "More": "一个简单而优雅的markdown编辑器, Typora的开源替代品。中文版由chinayangxiaowei制作",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/34c40b3b9dd94709bc40632585140c16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/b3c645003c154fa4a5a1bc659309984b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/6817cc0c6aaa419296803eb47e2a4484.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/95e39f618ef646eaad59f3b86fa74c48.png"
 }
 ,
 {
@@ -1485,6 +1484,23 @@
 }
 ,
 {
+    "Name": "WPS Office 365",
+    "Version": "12.8.2.16969.AK.preload.sw",
+    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
+    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
+    "Pkgname": "wps-office-365",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-06-16 10:13:44",
+    "Size": "722.16 MB",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
+}
+,
+{
     "Name": "通达信海通证券版（wine）",
     "Version": "1.0.0.0deepin5",
     "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
@@ -1514,23 +1530,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f16c5a20-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f3c4f020-595e-11eb-94ea-4b6de6939328.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/18/f5e92fb0-595e-11eb-94ea-4b6de6939328.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/18/ed1e35b0-595e-11eb-94ea-4b6de6939328.png"
-}
-,
-{
-    "Name": "WPS Office 365",
-    "Version": "12.8.2.16969.AK.preload.sw",
-    "Filename": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb",
-    "Torrent_address": "wps-office-365_12.8.2.16969.AK.preload.sw_amd64.deb.torrent",
-    "Pkgname": "wps-office-365",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-06-16 10:13:44",
-    "Size": "722.16 MB",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/819a4c6aea004b1bb9059da5c1511085.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/6bd9ad01e587436fb9ca5e74ef078921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/76097ef94d21409091dbcada9fcefe7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/2dffce17cb754c4a8407d85de5511bc2.png"
 }
 ,
 {
@@ -2286,23 +2285,6 @@
 }
 ,
 {
-    "Name": "作业帮学生端",
-    "Version": "0.02+1",
-    "Filename": "zybang.spark_0.02_plus_1_i386.deb",
-    "Torrent_address": "zybang.spark_0.02_plus_1_i386.deb.torrent",
-    "Pkgname": "zybang.spark",
-    "Author": "北京作业帮/僵尸朱灵-shy",
-    "Contributor": "shenmo",
-    "Website": "www.zybang.com",
-    "Update": "2022-08-30 02:19:46",
-    "Size": "92.36 MB",
-    "More": "更改了打包，减小了体积\n采用dwine6\n现在会清理卸载残留",
-    "Tags": "ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c2bdc0-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c13720-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c83c00-27c7-11ed-b893-f3f9757c3eee.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/30/03905840-27c7-11ed-b893-f3f9757c3eee.png"
-}
-,
-{
     "Name": "文华财经软件通用版(wine)",
     "Version": "6.0.0",
     "Filename": "spark.mytrader.wine_6.0.0_all.deb",
@@ -2317,6 +2299,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/8c6cc67b2c2443e4b28d30b83afe264e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/3b007ee4806b40bbac5e71bb8d9b3d7b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/d3da564ed7c747d18bd919505310f5d5.png"
+}
+,
+{
+    "Name": "作业帮学生端",
+    "Version": "0.02+1",
+    "Filename": "zybang.spark_0.02_plus_1_i386.deb",
+    "Torrent_address": "zybang.spark_0.02_plus_1_i386.deb.torrent",
+    "Pkgname": "zybang.spark",
+    "Author": "北京作业帮/僵尸朱灵-shy",
+    "Contributor": "shenmo",
+    "Website": "www.zybang.com",
+    "Update": "2022-08-30 02:19:46",
+    "Size": "92.36 MB",
+    "More": "更改了打包，减小了体积\n采用dwine6\n现在会清理卸载残留",
+    "Tags": "ubuntu;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c2bdc0-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c13720-27c7-11ed-b893-f3f9757c3eee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/30/04c83c00-27c7-11ed-b893-f3f9757c3eee.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/30/03905840-27c7-11ed-b893-f3f9757c3eee.png"
 }
 ,
 {
@@ -2572,6 +2571,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "Minder",
     "Version": "1.9.2-1",
     "Filename": "minder_1.9.2-1_amd64.deb",
@@ -2685,23 +2701,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/34e2cc284587418dad37fbd7ebee2bfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/06e778c904a34b16993167090ed8430b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/492416581292491da172a665316072c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/17cf7932aa654c5ca2829a23413e608e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/30/fdc889d3c24b40379d4154c39e4ac4d0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/30/a60bfd2f1f884ee39502f8168338e8db.png"
-}
-,
-{
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
 }
 ,
 {
@@ -2924,22 +2923,6 @@
 }
 ,
 {
-    "Name": "Mendeley Reference Manager",
-    "Version": "2.63.0spark1",
-    "Filename": "com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb",
-    "Pkgname": "com.mendeley-reference-manager.spark",
-    "Author": "Mendeley Ltd.",
-    "Contributor": "sgb76",
-    "Website": "http://www.mendeley.com",
-    "Update": "2022-01-14 11:57:31",
-    "Size": "53.86 MB",
-    "More": "一款用于管理和共享研究的免费学术软件。",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/e623f4b0-74ed-11ec-9e21-e36a6638b7b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/e82b5d70-74ed-11ec-9e21-e36a6638b7b7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/14/e347fde0-74ed-11ec-9e21-e36a6638b7b7.png"
-}
-,
-{
     "Name": "CherryTree",
     "Version": "1.1.3spark2",
     "Filename": "com.giuspen.cherrytree.spark_1.1.3spark2_amd64.deb",
@@ -2954,6 +2937,22 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/14070f8472ab4b5bbc22ce45ac619240.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/30ca2f85130d4d038fdea639775bedd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/17/ca6182712825449182dd3290d82aad2f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/17/d3cd246dac94432db0a56bbac6516e67.png"
+}
+,
+{
+    "Name": "Mendeley Reference Manager",
+    "Version": "2.63.0spark1",
+    "Filename": "com.mendeley-reference-manager.spark_2.63.0spark1_amd64.deb",
+    "Pkgname": "com.mendeley-reference-manager.spark",
+    "Author": "Mendeley Ltd.",
+    "Contributor": "sgb76",
+    "Website": "http://www.mendeley.com",
+    "Update": "2022-01-14 11:57:31",
+    "Size": "53.86 MB",
+    "More": "一款用于管理和共享研究的免费学术软件。",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/e623f4b0-74ed-11ec-9e21-e36a6638b7b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/e82b5d70-74ed-11ec-9e21-e36a6638b7b7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/14/e347fde0-74ed-11ec-9e21-e36a6638b7b7.png"
 }
 ,
 {

@@ -1,19 +1,19 @@
 [
 {
-    "Author": "懵仙兔兔 <acgm@qq.com>",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "wps-office_11.1.0.11719_plus_Mejituu-2024022119_loong64.deb",
+    "Filename": "wps-office_11.1.0.11720-Mejituu1_loong64.deb",
     "More": "WPS Office\n\n懵仙兔兔补丁版的WPS Office\n- 1.修复了pdf相关功能失效的问题\n- 2.修复了字体显示异常粗壮的问题\n\n注：\n补丁是根据你本地系统依赖环境全自动处理是否需要补丁介入\n\n兼容性测试：\ndebian testing：功能全部正常\ndebian 12：功能全部正常\nubuntu 22.04：功能全部正常\ndeepin 23b3：功能全部正常\ndeepin 20.9：功能全部正常",
     "Name": "WPS Office",
     "Pkgname": "wps-office",
-    "Size": "377 Mb",
+    "Size": "407 Mb",
     "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "wps-office_11.1.0.11719_plus_Mejituu-2024022119_loong64.deb.torrent",
-    "Update": "2024-03-29 18:09:22",
-    "Version": "11.1.0.11719+Mejituu-2024022119",
-    "Website": "http://wps-community.org",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/wps-office/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/wps-office/screen_4.png\"]"
+    "Torrent_address": "wps-office_11.1.0.11720-Mejituu1_loong64.deb.torrent",
+    "Update": "2024-07-11 15:42:30",
+    "Version": "11.1.0.11720-Mejituu1",
+    "Website": "https://linux.wps.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office/screen_4.png\"]"
 }
 
 ,
@@ -140,6 +140,23 @@
 }
 ,
 {
+    "Name": "PDFsam Basic",
+    "Version": "5.2.0-1",
+    "Filename": "pdfsam-basic_5.2.0-1_all.deb",
+    "Torrent_address": "pdfsam-basic_5.2.0-1_all.deb.torrent",
+    "Pkgname": "pdfsam-basic",
+    "Author": "Andrea Vacondio",
+    "Contributor": "sgb76",
+    "Website": "https://pdfsam.org",
+    "Update": "2023-11-07 11:37:13",
+    "Size": "82.58 MB",
+    "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
+}
+,
+{
     "Name": "幕布（wine）",
     "Version": "3.7.3spark3",
     "Filename": "com.mubu.spark_3.7.3spark3_all.deb",
@@ -190,23 +207,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cajviewer/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "PDFsam Basic",
-    "Version": "5.2.0-1",
-    "Filename": "pdfsam-basic_5.2.0-1_all.deb",
-    "Torrent_address": "pdfsam-basic_5.2.0-1_all.deb.torrent",
-    "Pkgname": "pdfsam-basic",
-    "Author": "Andrea Vacondio",
-    "Contributor": "sgb76",
-    "Website": "https://pdfsam.org",
-    "Update": "2023-11-07 11:37:13",
-    "Size": "82.58 MB",
-    "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
-}
 ,
 {
     "Name": "Joplin",
@@ -276,6 +276,24 @@
     "Website": "https://www.microsoft.com",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark.microsoft.excel/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark.microsoft.excel/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark.microsoft.excel/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ofdview_1.0_all.deb",
+    "More": "好用的本地网页版OFD预览器",
+    "Name": "OFDView预览器(本地网页版)",
+    "Pkgname": "ofdview",
+    "Size": "22 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "ofdview_1.0_all.deb.torrent",
+    "Update": "2024-04-07 22:09:38",
+    "Version": "1.0",
+    "Website": "http://www.cnofd.cn/home.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/ofdview/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_2.png\"]"
 }
 
 ,
@@ -431,24 +449,6 @@
     "Website": "https://www.microsoft.com",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-powerpoint/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-powerpoint/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/spark-microsoft-powerpoint/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ofdview_1.0_all.deb",
-    "More": "好用的本地网页版OFD预览器",
-    "Name": "OFDView预览器(本地网页版)",
-    "Pkgname": "ofdview",
-    "Size": "22 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "ofdview_1.0_all.deb.torrent",
-    "Update": "2024-04-07 22:09:38",
-    "Version": "1.0",
-    "Website": "http://www.cnofd.cn/home.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/ofdview/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_2.png\"]"
 }
 
 ,

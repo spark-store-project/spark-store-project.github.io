@@ -7209,6 +7209,38 @@ Description: WPS Office, is an office productivity suite.
 Name: wps-office
 Relocations: /opt/kingsoft
 
+Package: wps-office
+Architecture: loong64
+Version: 11.1.0.11720-Mejituu1
+Multi-Arch: foreign
+Priority: optional
+Section: editors
+Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
+Installed-Size: 1581440
+Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
+         libcups2, libglib2.0-0, libglu1-mesa,
+         libsm6, libxrender1, libfontconfig1,
+         libxext6, libxcb1, libbz2-1.0,liblol,liblol-dkms
+Recommends: ttf-mscorefonts-installer
+Replaces: kingsoft-office
+Filename: office/wps-office/wps-office_11.1.0.11720-Mejituu1_loong64.deb
+Size: 407191884
+MD5sum: a004d5104803fcf36badff0a83425377
+SHA1: c7b58b31aecf5a5edfdb7353f29401b34aaa47f1
+SHA256: 53edb132e7c859102daf8be61ab82731512685fc249e13939b0636d3148a55b5
+SHA512: 9ccf774fc70c0cdbf6dedc26215f5d1c6585b1406352b6a77a0e2039e67b3677db0e6e13c8c6fa58bb13dd33ce86b5dd5b6985455679c162e15799768b3e2f6a
+Homepage: http://wps-community.org
+Description: WPS Office, is an office productivity suite.
+ WPS Office including Writer, Presentation
+ and Spreadsheets, is a powerful office suite, which is able to process
+ word file, produce wonderful slides, and analyze data as well. It is
+ deeply compatible with all of the latest Microsoft Office file formats. 
+ It can easily open and read the documents created with Microsoft Office.
+ This is the Linux version, and it's now a TESTING package.
+ Welcome to our website: http://wps-community.org
+Name: wps-office
+Relocations: /opt/kingsoft
+
 Package: ofdview
 Architecture: all
 Version: 1.0
@@ -7961,6 +7993,22 @@ SHA256: 52db6270c0db6ce95959fc1412df9dda26cdebcbbb9bfb314ee41e68f3b64217
 SHA512: 8f8a4bca39dda52eb78812c44785a1d4df41aee304c8af6c47a58b19ec3629489126147930bddd67f70054e7f610931eca7b94f743f2f0397cbf4d218bf5f1dd
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: com.bitcomet.linux Software Package created by Appimage2Deb
+
+Package: com.bitcomet.linux
+Architecture: loong64
+Version: 2.8.3+fix0
+Priority: optional
+Section: net
+Maintainer: wxhere <wxhere@hotmail.com>
+Depends: libwebkit2gtk-4.0-37, liblol,liblol-dkms
+Filename: network/com.bitcomet.linux/com.bitcomet.linux_2.8.3+fix0_loong64.deb
+Size: 12749032
+MD5sum: a8f0258a20c02fa6165658ec0073ecf7
+SHA1: a051046ec0628eb4122218b8bf00d822304f5270
+SHA256: 20c16c3d6bbaa102c89931f97507a3fa4a5363d7cc218a26cebe8d0a87adb8f4
+SHA512: 2b45a000c6a7993ec4eb4bc94fe769607fd3165549adee7a5dd627b76840dea953b41806d1fd5d3fa7d9cb3a59cdb023f48399b615922cf7e1e9539184adc49a
+Homepage: https://www.bitcomet.com
+Description: BitComet is a BitTorrent/HTTP/FTP download client.
 
 Package: cn.loongnix.lbrowser
 Architecture: loong64

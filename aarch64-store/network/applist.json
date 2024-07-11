@@ -268,6 +268,23 @@
 
 ,
 {
+    "Name": "Internet Explorer 8 (wine)",
+    "Version": "1.0.1deepin3",
+    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
+    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
+    "Pkgname": "deepin.com.ie8",
+    "Author": "Person By Deepin WINE",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://bbs.deepin.org/post/168562",
+    "Update": "2023-09-20 13:14:55",
+    "Size": "353.18 MB",
+    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
+    "Tags": "ubuntu;deepin;uos;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.163.dashi.mailmaster.spark_4.18.1.1006-1_all.deb",
@@ -284,23 +301,6 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_3.png\"]"
 }
 
-,
-{
-    "Name": "Internet Explorer 8 (wine)",
-    "Version": "1.0.1deepin3",
-    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
-    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
-    "Pkgname": "deepin.com.ie8",
-    "Author": "Person By Deepin WINE",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://bbs.deepin.org/post/168562",
-    "Update": "2023-09-20 13:14:55",
-    "Size": "353.18 MB",
-    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
-    "Tags": "ubuntu;deepin;uos;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
-}
 ,
 {
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
@@ -411,24 +411,6 @@
 
 ,
 {
-    "Author": "shenmo",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
-    "More": "迅雷融合版\n经过修改，现已在所有支持的平台测试通过",
-    "Name": "迅雷S",
-    "Pkgname": "deepin-wine-thunders",
-    "Size": "17 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "deepin-wine-thunders_20200711.s3.1_all.deb.torrent",
-    "Update": "2023-08-05 21:22:21",
-    "Version": "20200711.s3.1",
-    "Website": " https://www.xunlei.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.6_arm64.deb",
@@ -443,6 +425,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "deepin-wine-thunders_20200711.s3.1_all.deb",
+    "More": "迅雷融合版\n经过修改，现已在所有支持的平台测试通过",
+    "Name": "迅雷S",
+    "Pkgname": "deepin-wine-thunders",
+    "Size": "17 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "deepin-wine-thunders_20200711.s3.1_all.deb.torrent",
+    "Update": "2023-08-05 21:22:21",
+    "Version": "20200711.s3.1",
+    "Website": " https://www.xunlei.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/deepin-wine-thunders/screen_2.png\"]"
 }
 
 ,
@@ -753,24 +753,6 @@
 
 ,
 {
-    "Author": "shenmo",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
-    "More": "绿联私有云",
-    "Name": "绿联私有云",
-    "Pkgname": "com.ugreen.client",
-    "Size": "306 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.ugreen.client_4.9.0.9559_all.deb.torrent",
-    "Update": "2024-01-09 11:00:42",
-    "Version": "4.9.0.9559",
-    "Website": "",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
-}
-
-,
-{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.xunlei.spark_11.4.8.2122spark3_all.deb",
@@ -785,6 +767,24 @@
     "Website": "https://www.xunlei.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
+    "More": "绿联私有云",
+    "Name": "绿联私有云",
+    "Pkgname": "com.ugreen.client",
+    "Size": "306 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.ugreen.client_4.9.0.9559_all.deb.torrent",
+    "Update": "2024-01-09 11:00:42",
+    "Version": "4.9.0.9559",
+    "Website": "",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
 }
 
 ,
@@ -981,6 +981,24 @@
     "Website": "http://www.paintroom.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "wxhere <wxhere@hotmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.bitcomet.linux_2.8.3+fix0_arm64.deb",
+    "More": "一款免费的BT/HTTP/FTP下载软件！\n功能强大速度快，操作简单的BT下载软件，BT资源下载利器！",
+    "Name": "比特彗星(Linux) BitComet",
+    "Pkgname": "com.bitcomet.linux",
+    "Size": "13 Mb",
+    "Tags": "deepin;uos;ubuntu;a2d",
+    "Torrent_address": "com.bitcomet.linux_2.8.3+fix0_arm64.deb.torrent",
+    "Update": "2024-07-11 22:13:15",
+    "Version": "2.8.3+fix0",
+    "Website": "https://www.bitcomet.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/screen_2.png\"]"
 }
 
 ]
