@@ -235,19 +235,19 @@
 ,
 {
     "Name": "火绒安全",
-    "Version": "2.0.7.5",
-    "Filename": "cn.huorong.esm_2.0.7.5_amd64.deb",
-    "Torrent_address": "cn.huorong.esm_2.0.7.5_amd64.deb.torrent",
+    "Version": "2.0.7.7",
+    "Filename": "cn.huorong.esm_2.0.7.7_amd64.deb",
+    "Torrent_address": "cn.huorong.esm_2.0.7.7_amd64.deb.torrent",
     "Pkgname": "cn.huorong.esm",
     "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://huorong.cn",
-    "Update": "2024-05-18 18:31:20",
-    "Size": "31.72 MB",
+    "Update": "2024-07-12 14:32:20",
+    "Size": "31.94 MB",
     "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/24e245ed0bd84918ab56a95b6bc2a0f0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/480b7f0a5e784112967c427888d45436.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/84dafcb9be6c4ab8a4f0013b6a75ce9d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/2d3b0c268ce9435bb4cabd652baa5ade.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/dca209427a9d45288612d2dd47947313.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/841193ab19094b28bde9b86282e4381e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/e1186c72a94b4526ac46d19de7062f68.png"
 }
 ,
 {
@@ -592,22 +592,6 @@
 
 ,
 {
-    "Name": "统信UOS助手deepin移植",
-    "Version": "1.12.0.0026-1~spark",
-    "Filename": "deepin-mobile-assistant_1.12.0.0026-1~spark_amd64.deb",
-    "Pkgname": "deepin-mobile-assistant",
-    "Author": "Uniontech",
-    "Contributor": "shenmo",
-    "Website": "https://uosapp.uniontech.com/",
-    "Update": "2022-01-22 12:58:40",
-    "Size": "49.78 MB",
-    "More": "to审核员：依赖链接: https://pan.baidu.com/s/1CJf-UuNrn5KszIPJjJpHUw 提取码: 1h54，已入库，2022.01.23会刷新到仓库，届时直接安装即可测试\n\nto用户：依赖已入库，无需手动安装，直接在星火应用商店安装即可自动处理依赖\n从UOS提取的deepin-mobile-assistant，安装后注销以启动\n\n点击官网按钮下载手机版，也可以直接扫描二维码下载",
-    "Tags": "deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/9301fd60-7b3f-11ec-a975-71d53bbb6f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/9ac26530-7b3f-11ec-a975-71d53bbb6f15.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/22/911f33a0-7b3f-11ec-a975-71d53bbb6f15.png"
-}
-,
-{
     "Name": "玲珑应用商店",
     "Version": "1.2.7",
     "Filename": "linglong-store_1.2.7_amd64.deb",
@@ -622,6 +606,22 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/81327aebdbf34cb7b4db311d60a49b62.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/ae289faced3f4913a79b67eea5d63249.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/9a34488d62c844ee980647fba27b5e58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/668fef8d30a74c2d820136f4d73b83f6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/27/5c0d27f8e1944862b975185fbd1749fc.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/27/a32ea2f8a1064f34af3b5951673ce1a0.png"
+}
+,
+{
+    "Name": "统信UOS助手deepin移植",
+    "Version": "1.12.0.0026-1~spark",
+    "Filename": "deepin-mobile-assistant_1.12.0.0026-1~spark_amd64.deb",
+    "Pkgname": "deepin-mobile-assistant",
+    "Author": "Uniontech",
+    "Contributor": "shenmo",
+    "Website": "https://uosapp.uniontech.com/",
+    "Update": "2022-01-22 12:58:40",
+    "Size": "49.78 MB",
+    "More": "to审核员：依赖链接: https://pan.baidu.com/s/1CJf-UuNrn5KszIPJjJpHUw 提取码: 1h54，已入库，2022.01.23会刷新到仓库，届时直接安装即可测试\n\nto用户：依赖已入库，无需手动安装，直接在星火应用商店安装即可自动处理依赖\n从UOS提取的deepin-mobile-assistant，安装后注销以启动\n\n点击官网按钮下载手机版，也可以直接扫描二维码下载",
+    "Tags": "deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/9301fd60-7b3f-11ec-a975-71d53bbb6f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/9ac26530-7b3f-11ec-a975-71d53bbb6f15.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/22/911f33a0-7b3f-11ec-a975-71d53bbb6f15.png"
 }
 ,
 {
@@ -994,6 +994,23 @@
 }
 ,
 {
+    "Name": "360杀毒",
+    "Version": "1.0.0.1012",
+    "Filename": "360sd_1.0.0.1012_amd64.deb",
+    "Torrent_address": "360sd_1.0.0.1012_amd64.deb.torrent",
+    "Pkgname": "360sd",
+    "Author": "qihu360 company <support@360.cn>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://www.360.cn/",
+    "Update": "2022-10-22 09:50:05",
+    "Size": "41.08 MB",
+    "More": "360杀毒",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e9eb1063-45f1-40bd-93fa-7a52bb3202b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/5198f56d-d0e6-4dd4-874f-be7a4bf81003.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e107cc17-72e8-4eba-aa5a-031b204a39ee.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/914d1da2-c671-409e-9511-ef680000abf2.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1010,23 +1027,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "360杀毒",
-    "Version": "1.0.0.1012",
-    "Filename": "360sd_1.0.0.1012_amd64.deb",
-    "Torrent_address": "360sd_1.0.0.1012_amd64.deb.torrent",
-    "Pkgname": "360sd",
-    "Author": "qihu360 company <support@360.cn>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://www.360.cn/",
-    "Update": "2022-10-22 09:50:05",
-    "Size": "41.08 MB",
-    "More": "360杀毒",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e9eb1063-45f1-40bd-93fa-7a52bb3202b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/5198f56d-d0e6-4dd4-874f-be7a4bf81003.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e107cc17-72e8-4eba-aa5a-031b204a39ee.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/914d1da2-c671-409e-9511-ef680000abf2.png"
-}
 ,
 {
     "Name": "RustDesk",
@@ -1097,23 +1097,6 @@
 }
 ,
 {
-    "Name": "360终端安全防护系统",
-    "Version": "10.0.0.6278",
-    "Filename": "com.360.epp_10.0.0.6278_amd64.deb",
-    "Torrent_address": "com.360.epp_10.0.0.6278_amd64.deb.torrent",
-    "Pkgname": "com.360.epp",
-    "Author": "qihoo360 company <support@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.360.cn/",
-    "Update": "2023-12-30 11:29:04",
-    "Size": "99.15 MB",
-    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/8698c2967e4c46369da663bd7efddd38.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bb5d2e19d4894aed9d261d3c537477c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/91bdb04b8c95495e88d3f05fa8844e3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bbaf4add7cb34e548ab4ddf033e9f99d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85e4a7dacacb433e988d183728a24040.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/dcd6a7557b104091b1b79da9a08852e8.png"
-}
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-store-console_4.2.12_all.deb",
@@ -1130,6 +1113,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "360终端安全防护系统",
+    "Version": "10.0.0.6278",
+    "Filename": "com.360.epp_10.0.0.6278_amd64.deb",
+    "Torrent_address": "com.360.epp_10.0.0.6278_amd64.deb.torrent",
+    "Pkgname": "com.360.epp",
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.360.cn/",
+    "Update": "2023-12-30 11:29:04",
+    "Size": "99.15 MB",
+    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/8698c2967e4c46369da663bd7efddd38.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bb5d2e19d4894aed9d261d3c537477c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/91bdb04b8c95495e88d3f05fa8844e3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bbaf4add7cb34e548ab4ddf033e9f99d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85e4a7dacacb433e988d183728a24040.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/dcd6a7557b104091b1b79da9a08852e8.png"
+}
 ,
 {
     "Name": "深度云打印配置助手",
@@ -1592,23 +1592,6 @@
 }
 ,
 {
-    "Name": "360压缩(wine)",
-    "Version": "4.0.0.1490spark0",
-    "Filename": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb",
-    "Torrent_address": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb.torrent",
-    "Pkgname": "com.360.ya.suo.spark",
-    "Author": "gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://yasuo.360.cn/",
-    "Update": "2023-11-04 15:30:12",
-    "Size": "120.57 MB",
-    "More": "360压缩，wine版，支持压缩包连续看图等功能\n\n支持arm\n使用 spark wine8",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/46b28263ee3c4ad692cd7cfe6f1fb2f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/f154f48ee46e4877ba548b1a9f4eb18a.png"
-}
-,
-{
     "Name": "SecureCRT",
     "Version": "9.0.2-2496",
     "Filename": "scrt_9.0.2-2496_amd64.deb",
@@ -1623,6 +1606,23 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/d3f44b70-83c6-11ee-b5cb-27e705cc1ba9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/2cb739c0-83c7-11ee-b5cb-27e705cc1ba9.png"
+}
+,
+{
+    "Name": "360压缩(wine)",
+    "Version": "4.0.0.1490spark0",
+    "Filename": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb",
+    "Torrent_address": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb.torrent",
+    "Pkgname": "com.360.ya.suo.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://yasuo.360.cn/",
+    "Update": "2023-11-04 15:30:12",
+    "Size": "120.57 MB",
+    "More": "360压缩，wine版，支持压缩包连续看图等功能\n\n支持arm\n使用 spark wine8",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/46b28263ee3c4ad692cd7cfe6f1fb2f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/f154f48ee46e4877ba548b1a9f4eb18a.png"
 }
 ,
 {
@@ -1897,6 +1897,23 @@
 }
 ,
 {
+    "Name": "Q4Wine",
+    "Version": "1.3.13-1",
+    "Filename": "q4wine_1.3.13-1_amd64.deb",
+    "Torrent_address": "q4wine_1.3.13-1_amd64.deb.torrent",
+    "Pkgname": "q4wine",
+    "Author": "Boris Pek <tehnick@debian.org>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/brezerk/q4wine",
+    "Update": "2023-07-17 14:00:41",
+    "Size": "2.98 MB",
+    "More": "Q4Wine will help you manage wine prefixes and installed applications.\n .\n General features:\n  - Can export Qt color theme into wine colors settings.\n  - Can easy work with different wine versions at same time.\n  - Easy creating, deleting and managing prefixes (WINEPREFIX).\n  - Easy controlling for wine process.\n  - Easy installer wizard for wine applications.\n  - Autostart icons support.\n  - Easy CD-image use.\n  - You can extract icons from PE files (.exe .dll).\n  - Easy backup and restore for managed prefixes.\n  - Winetricks support.\n  - And more...",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/6cd960547f28478398c94293c19f1bcc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/a2f2c30ff04942b59774cfcda04f3e77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/4f496757797747d1b098e7370a71c7f2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/17/f23308e3791d48a8942f5fc718e5aa73.png"
+}
+,
+{
     "Name": "设备网络搜索（密码重置）",
     "Version": "1.0",
     "Filename": "com.sadptool.spark_1.0_all.deb",
@@ -1928,23 +1945,6 @@
     "Tags": "ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
-}
-,
-{
-    "Name": "Q4Wine",
-    "Version": "1.3.13-1",
-    "Filename": "q4wine_1.3.13-1_amd64.deb",
-    "Torrent_address": "q4wine_1.3.13-1_amd64.deb.torrent",
-    "Pkgname": "q4wine",
-    "Author": "Boris Pek <tehnick@debian.org>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/brezerk/q4wine",
-    "Update": "2023-07-17 14:00:41",
-    "Size": "2.98 MB",
-    "More": "Q4Wine will help you manage wine prefixes and installed applications.\n .\n General features:\n  - Can export Qt color theme into wine colors settings.\n  - Can easy work with different wine versions at same time.\n  - Easy creating, deleting and managing prefixes (WINEPREFIX).\n  - Easy controlling for wine process.\n  - Easy installer wizard for wine applications.\n  - Autostart icons support.\n  - Easy CD-image use.\n  - You can extract icons from PE files (.exe .dll).\n  - Easy backup and restore for managed prefixes.\n  - Winetricks support.\n  - And more...",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/6cd960547f28478398c94293c19f1bcc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/a2f2c30ff04942b59774cfcda04f3e77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/17/4f496757797747d1b098e7370a71c7f2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/17/f23308e3791d48a8942f5fc718e5aa73.png"
 }
 ,
 {
@@ -2080,23 +2080,6 @@
 }
 ,
 {
-    "Name": "网速查看器(测试版本)",
-    "Version": "0.1-20230107",
-    "Filename": "z-tools-speedwidget_0.1-20230107_amd64.deb",
-    "Torrent_address": "z-tools-speedwidget_0.1-20230107_amd64.deb.torrent",
-    "Pkgname": "z-tools-speedwidget",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "Update": "2023-01-07 04:16:06",
-    "Size": "24.52 KB",
-    "More": "Linux toolbox under development",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/8a871ca1edcb43eb89d6e43ef508ac3e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/9c4debbe7d7a4668b181f2c397b50623.png"
-}
-,
-{
     "Name": "GXDE 内核管理器 1.1.0",
     "Version": "1.1.0",
     "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
@@ -2111,6 +2094,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
+    "Name": "网速查看器(测试版本)",
+    "Version": "0.1-20230107",
+    "Filename": "z-tools-speedwidget_0.1-20230107_amd64.deb",
+    "Torrent_address": "z-tools-speedwidget_0.1-20230107_amd64.deb.torrent",
+    "Pkgname": "z-tools-speedwidget",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "Update": "2023-01-07 04:16:06",
+    "Size": "24.52 KB",
+    "More": "Linux toolbox under development",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/8a871ca1edcb43eb89d6e43ef508ac3e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/9c4debbe7d7a4668b181f2c397b50623.png"
 }
 ,
 {
@@ -2682,23 +2682,6 @@
 }
 ,
 {
-    "Name": "中州韵98五笔套件",
-    "Version": "1.0.5",
-    "Filename": "rime98wb_1.0.5_amd64.deb",
-    "Torrent_address": "rime98wb_1.0.5_amd64.deb.torrent",
-    "Pkgname": "rime98wb",
-    "Author": "98五笔小组",
-    "Contributor": "98五笔小组",
-    "Website": "https://wubi98.gitee.io/index.html",
-    "Update": "2024-02-13 21:03:51",
-    "Size": "134.7 MB",
-    "More": "fcitx5-rime 框架下的98五笔全套解决方案",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/52346f20-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5236e020-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5237f190-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5235a7a0-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5238b4e0-ca70-11ee-b382-01f3b3a087f2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/13/3f5a3b50-ca70-11ee-b382-01f3b3a087f2.png"
-}
-,
-{
     "Name": "通知中心天气小组件",
     "Version": "0.1-1",
     "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
@@ -2713,6 +2696,23 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
+    "Name": "中州韵98五笔套件",
+    "Version": "1.0.5",
+    "Filename": "rime98wb_1.0.5_amd64.deb",
+    "Torrent_address": "rime98wb_1.0.5_amd64.deb.torrent",
+    "Pkgname": "rime98wb",
+    "Author": "98五笔小组",
+    "Contributor": "98五笔小组",
+    "Website": "https://wubi98.gitee.io/index.html",
+    "Update": "2024-02-13 21:03:51",
+    "Size": "134.7 MB",
+    "More": "fcitx5-rime 框架下的98五笔全套解决方案",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/52346f20-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5236e020-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5237f190-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5235a7a0-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5238b4e0-ca70-11ee-b382-01f3b3a087f2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/13/3f5a3b50-ca70-11ee-b382-01f3b3a087f2.png"
 }
 ,
 {
@@ -2865,6 +2865,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
+    "Version": "10.0.9.0.8-903spark1",
+    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
+    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
+    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
+    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.taotics.com/",
+    "Update": "2024-07-02 07:41:36",
+    "Size": "59.98 MB",
+    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
     "Name": "卡片视界",
     "Version": "1.0.0",
     "Filename": "cn.miaoys.desktop.widgets_1.0.0_amd64.deb",
@@ -2950,23 +2967,6 @@
 }
 ,
 {
-    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
-    "Version": "10.0.9.0.8-903spark1",
-    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
-    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
-    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
-    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.taotics.com/",
-    "Update": "2024-07-02 07:41:36",
-    "Size": "59.98 MB",
-    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
-}
-,
-{
     "Name": "DropPoint",
     "Version": "1.2.0~spark",
     "Filename": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb",
@@ -3017,6 +3017,23 @@
 }
 ,
 {
+    "Name": "Rubick",
+    "Version": "2.0.4-beta.3",
+    "Filename": "rubick_2.0.4-beta.3_amd64.deb",
+    "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
+    "Pkgname": "rubick",
+    "Author": "muwoo <2424880409@qq.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/rubickCenter/rubick",
+    "Update": "2023-02-12 13:54:32",
+    "Size": "57.13 MB",
+    "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
+}
+,
+{
     "Name": "Deepin Live CD",
     "Version": "1.1+201804181734-1",
     "Filename": "live-filesystem_1.1_plus201804181734-1_amd64.deb",
@@ -3048,23 +3065,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/e2a6463e67684e2cb0057f9036cdce05.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/afccedfc52d24b7d8334615d38718062.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/69a1f508988c499ea38bde8992a9501a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/a55f26a5adbe437b9eb2364058a9114b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/58d929564fe54b7b9abaa43011e07e5b.png"
-}
-,
-{
-    "Name": "Rubick",
-    "Version": "2.0.4-beta.3",
-    "Filename": "rubick_2.0.4-beta.3_amd64.deb",
-    "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
-    "Pkgname": "rubick",
-    "Author": "muwoo <2424880409@qq.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://github.com/rubickCenter/rubick",
-    "Update": "2023-02-12 13:54:32",
-    "Size": "57.13 MB",
-    "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
 }
 ,
 {
@@ -3270,6 +3270,23 @@
 }
 ,
 {
+    "Name": "Mathpix",
+    "Version": "3.00.0093",
+    "Filename": "mathpix-spark_3.00.0093_amd64.deb",
+    "Torrent_address": "mathpix-spark_3.00.0093_amd64.deb.torrent",
+    "Pkgname": "mathpix-spark",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://mathpix.com/",
+    "Update": "2023-02-28 18:30:59",
+    "Size": "127.37 MB",
+    "More": "Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0ecab54b5f5a4443a171cdc862470dd6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/29a5882b5a394a7d90d508455c0789c4.png"
+}
+,
+{
     "Name": "简传",
     "Version": "1.1.6",
     "Filename": "easy-send_1.1.6_all.deb",
@@ -3301,23 +3318,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/31b6b713b891428dbf6cd1ac3b12376f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e2801c76dcd24fe68f7118439cb073d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/6e3b4b484adb44e19998b2f413b0a0f4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/08f655712b4441bbb59256f7e049c2c9.png"
-}
-,
-{
-    "Name": "Mathpix",
-    "Version": "3.00.0093",
-    "Filename": "mathpix-spark_3.00.0093_amd64.deb",
-    "Torrent_address": "mathpix-spark_3.00.0093_amd64.deb.torrent",
-    "Pkgname": "mathpix-spark",
-    "Author": "spark-store",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://mathpix.com/",
-    "Update": "2023-02-28 18:30:59",
-    "Size": "127.37 MB",
-    "More": "Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0ecab54b5f5a4443a171cdc862470dd6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/29a5882b5a394a7d90d508455c0789c4.png"
 }
 ,
 {
@@ -4044,6 +4044,23 @@
 }
 ,
 {
+    "Name": "GtkHash-哈希计算工具",
+    "Version": "1.5-1",
+    "Filename": "gtkhash_1.5-1_amd64.deb",
+    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
+    "Pkgname": "gtkhash",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Website": "https://gtkhash.org",
+    "Update": "2024-05-04 14:05:47",
+    "Size": "113.28 KB",
+    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
+}
+,
+{
     "Name": "Caesium Image Compressor",
     "Version": "2.7.0spark2",
     "Filename": "com.github.caesium-image-compressor.spark_2.7.0spark2_all.deb",
@@ -4143,23 +4160,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b661b030-b0a2-11ee-9861-e903bb217cd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b79b1a90-b0a2-11ee-9861-e903bb217cd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b997fc00-b0a2-11ee-9861-e903bb217cd5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/b6602990-b0a2-11ee-9861-e903bb217cd5.png"
-}
-,
-{
-    "Name": "GtkHash-哈希计算工具",
-    "Version": "1.5-1",
-    "Filename": "gtkhash_1.5-1_amd64.deb",
-    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
-    "Pkgname": "gtkhash",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Website": "https://gtkhash.org",
-    "Update": "2024-05-04 14:05:47",
-    "Size": "113.28 KB",
-    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
 ,
 {
@@ -4467,6 +4467,23 @@
 }
 ,
 {
+    "Name": "时钟大师",
+    "Version": "1.5-20240517",
+    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
+    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
+    "Pkgname": "com.gitee.xinghuo.clock",
+    "Author": "夜行者",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
+    "Update": "2024-06-08 09:33:03",
+    "Size": "54.19 KB",
+    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
+}
+,
+{
     "Name": "FileGee",
     "Version": "11.7.4spark0",
     "Filename": "com.filegee.spark_11.7.4spark0_all.deb",
@@ -4549,23 +4566,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/25/26926360084242019fecf228bb849fc3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/25/1fa00e7f27e74f67994f956494e3576f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/25/4d0072a2f1b640fb938fb7310e769ff2.png"
-}
-,
-{
-    "Name": "时钟大师",
-    "Version": "1.5-20240517",
-    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
-    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
-    "Pkgname": "com.gitee.xinghuo.clock",
-    "Author": "夜行者",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
-    "Update": "2024-06-08 09:33:03",
-    "Size": "54.19 KB",
-    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
 }
 ,
 {
@@ -4924,5 +4924,22 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/08/437876c3031f4e779888c7fe474a17b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/08/399949135e5f43ab8a2a0c4327c6ef98.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/08/820c2e41715c4802a8fa7f06f210fcef.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/08/67e48bdbc0614ec283ed9fcd3b44845b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/08/cf0bab4806534c059ad6380f1e5cdafd.png"
+}
+,
+{
+    "Name": "Debian 软件仓库分析工具",
+    "Version": "0.0.2-20240712",
+    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.2-20240712_amd64.deb",
+    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.2-20240712_amd64.deb.torrent",
+    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
+    "Update": "2024-07-12 16:02:21",
+    "Size": "122.26 KB",
+    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/4c18596fe2ec452abbf0edc0b644a8f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/025784a712e5463f817cff05dd2122c4.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/bb5f5195a803487993266b89734e31ab.png"
 }
 ]

@@ -90,24 +90,6 @@
 
 ,
 {
-    "Author": "酷安",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "uengine-dc-com.coolapk.market_13.1.1_all.deb",
-    "More": "酷安，真实有趣的数码社区。\n2000万科技爱好者与你畅聊，科技资讯，新鲜评测，真实体验，玩机宝典，你想要的这里全都有。\n玩数码，就上酷安。\n\n*安装前请确保已安装Uengine",
-    "Name": "酷安(uengine)",
-    "Pkgname": "uengine-dc-com.coolapk.market",
-    "Size": "80 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "uengine-dc-com.coolapk.market_13.1.1_all.deb.torrent",
-    "Update": "2023-04-29 09:32:06",
-    "Version": "13.1.1",
-    "Website": "https://www.coolapk.com",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/uengine-dc-com.coolapk.market/icon.png",
-    "img_urls": "[]"
-}
-
-,
-{
     "Author": "Deepin Browser <browser@deepin.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
@@ -122,6 +104,24 @@
     "Website": "https://www.deepin.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "酷安",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-com.coolapk.market_13.1.1_all.deb",
+    "More": "酷安，真实有趣的数码社区。\n2000万科技爱好者与你畅聊，科技资讯，新鲜评测，真实体验，玩机宝典，你想要的这里全都有。\n玩数码，就上酷安。\n\n*安装前请确保已安装Uengine",
+    "Name": "酷安(uengine)",
+    "Pkgname": "uengine-dc-com.coolapk.market",
+    "Size": "80 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-com.coolapk.market_13.1.1_all.deb.torrent",
+    "Update": "2023-04-29 09:32:06",
+    "Version": "13.1.1",
+    "Website": "https://www.coolapk.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/uengine-dc-com.coolapk.market/icon.png",
+    "img_urls": "[]"
 }
 
 ,
@@ -268,23 +268,6 @@
 
 ,
 {
-    "Name": "Internet Explorer 8 (wine)",
-    "Version": "1.0.1deepin3",
-    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
-    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
-    "Pkgname": "deepin.com.ie8",
-    "Author": "Person By Deepin WINE",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://bbs.deepin.org/post/168562",
-    "Update": "2023-09-20 13:14:55",
-    "Size": "353.18 MB",
-    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
-    "Tags": "ubuntu;deepin;uos;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.163.dashi.mailmaster.spark_4.18.1.1006-1_all.deb",
@@ -301,6 +284,23 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.163.dashi.mailmaster.spark/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "Internet Explorer 8 (wine)",
+    "Version": "1.0.1deepin3",
+    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
+    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
+    "Pkgname": "deepin.com.ie8",
+    "Author": "Person By Deepin WINE",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://bbs.deepin.org/post/168562",
+    "Update": "2023-09-20 13:14:55",
+    "Size": "353.18 MB",
+    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
+    "Tags": "ubuntu;deepin;uos;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
+}
 ,
 {
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
@@ -519,6 +519,24 @@
 
 ,
 {
+    "Author": "chenky177@chinatelecom.cn",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
+    "More": "天翼云盘的linux原生版本",
+    "Name": "天翼云盘",
+    "Pkgname": "com.dlife.ecloud",
+    "Size": "14 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.dlife.ecloud_1.0.0.0_arm64.deb.torrent",
+    "Update": "2023-11-05 13:16:32",
+    "Version": "1.0.0.0",
+    "Website": "https://cloud.189.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
+}
+
+,
+{
     "Author": "Sangfor Technologies Inc <support@sangfor.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb",
@@ -551,24 +569,6 @@
     "Website": "http://zhouql.vip/bilibili/pc/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "chenky177@chinatelecom.cn",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
-    "More": "天翼云盘的linux原生版本",
-    "Name": "天翼云盘",
-    "Pkgname": "com.dlife.ecloud",
-    "Size": "14 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.dlife.ecloud_1.0.0.0_arm64.deb.torrent",
-    "Update": "2023-11-05 13:16:32",
-    "Version": "1.0.0.0",
-    "Website": "https://cloud.189.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
 }
 
 ,

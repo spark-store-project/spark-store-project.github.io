@@ -474,19 +474,19 @@
 ,
 {
     "Name": "微信开发者工具 Linux版",
-    "Version": "1.06.2307260-1",
-    "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2307260-1_amd64.deb",
-    "Torrent_address": "io.github.msojocs.wechat-devtools-linux_1.06.2307260-1_amd64.deb.torrent",
+    "Version": "1.06.2405020-1",
+    "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb",
+    "Torrent_address": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb.torrent",
     "Pkgname": "io.github.msojocs.wechat-devtools-linux",
     "Author": "msojocs",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Contributor": "mozixun <ronforever@outlook.com>",
     "Website": "https://github.com/msojocs/wechat-web-devtools-linux",
-    "Update": "2023-09-17 12:24:48",
-    "Size": "194.2 MB",
+    "Update": "2024-07-12 15:20:45",
+    "Size": "199.03 MB",
     "More": "本项目是一个完整的搭建Linux下可用的“微信开发者工具”的脚本和工具集， 用于在Linux下的GNOME桌面上搭建可以持续更新和使用的“微信开发者工具”。\n本项目修改自：https://githubfast.com/dragonation/wechat-devtools/",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/09c0ee7953544b7b8e72d7150e7b511d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/38d728f74d3542bb98a2cfe876ff4a5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/6b3754ae66ef412980fc5b56d5336eb8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/db0e66832f174ee1951957c614ac591f.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/e55c0fdceb584602a3aa6899d7a27ee5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/51d2d517a4e043a09c06a115de49e2f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/2a00f563ad8140fd936cd563b76470da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/964c4f05f90644678f1e8a5804c93734.png"
 }
 ,
 {
@@ -760,22 +760,6 @@
 }
 ,
 {
-    "Name": "Atom",
-    "Version": "1.60.0",
-    "Filename": "atom_1.60.0_amd64.deb",
-    "Pkgname": "atom",
-    "Author": "atom",
-    "Contributor": "sgb76",
-    "Website": "https://atom.io/",
-    "Update": "2022-03-24 15:05:20",
-    "Size": "132.28 MB",
-    "More": "A hackable text editor for the 21st Century",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
-}
-,
-{
     "Name": "Godot游戏引擎",
     "Version": "4.1.3",
     "Filename": "godot_4.1.3_amd64.deb",
@@ -790,6 +774,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/308361eef03847da9ed39e950c21e512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/79fce1e3d55c493792c716025e272970.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/2aed699218de41e681c7e624b6a55ed5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/5161e6c032674cc0b0502a2820e28bb1.png"
+}
+,
+{
+    "Name": "Atom",
+    "Version": "1.60.0",
+    "Filename": "atom_1.60.0_amd64.deb",
+    "Pkgname": "atom",
+    "Author": "atom",
+    "Contributor": "sgb76",
+    "Website": "https://atom.io/",
+    "Update": "2022-03-24 15:05:20",
+    "Size": "132.28 MB",
+    "More": "A hackable text editor for the 21st Century",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/95ba1660-ab40-11ec-9d88-c35843a2e64d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/24/9952f490-ab40-11ec-9d88-c35843a2e64d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/24/8f0e04c0-ab40-11ec-9d88-c35843a2e64d.png"
 }
 ,
 {
@@ -894,19 +894,20 @@
 }
 ,
 {
-    "Name": "STM32CubeMX",
-    "Version": "6.0.1",
-    "Filename": "stm32cubemx_6.0.1_amd64.deb",
-    "Pkgname": "stm32cubemx",
-    "Author": "STMicroelectronics",
-    "Contributor": "lidanger",
-    "Website": "https://www.st.com",
-    "Update": "2020-10-31 06:56:48",
-    "Size": "252.74 MB",
-    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
+    "Name": "GitKraken",
+    "Version": "9.11.1",
+    "Filename": "gitkraken_9.11.1_amd64.deb",
+    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
+    "Pkgname": "gitkraken",
+    "Author": "GitKraken",
+    "Contributor": "liuyuankai",
+    "Website": "https://www.gitkraken.com/",
+    "Update": "2024-01-20 15:41:35",
+    "Size": "132.48 MB",
+    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
 }
 ,
 {
@@ -927,20 +928,19 @@
 }
 ,
 {
-    "Name": "GitKraken",
-    "Version": "9.11.1",
-    "Filename": "gitkraken_9.11.1_amd64.deb",
-    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
-    "Pkgname": "gitkraken",
-    "Author": "GitKraken",
-    "Contributor": "liuyuankai",
-    "Website": "https://www.gitkraken.com/",
-    "Update": "2024-01-20 15:41:35",
-    "Size": "132.48 MB",
-    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
+    "Name": "STM32CubeMX",
+    "Version": "6.0.1",
+    "Filename": "stm32cubemx_6.0.1_amd64.deb",
+    "Pkgname": "stm32cubemx",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:56:48",
+    "Size": "252.74 MB",
+    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
 }
 ,
 {
@@ -1723,23 +1723,6 @@
 }
 ,
 {
-    "Name": "Cutter",
-    "Version": "2.0.5spark0",
-    "Filename": "re.cutter.spark_2.0.5spark0_amd64.deb",
-    "Torrent_address": "re.cutter.spark_2.0.5spark0_amd64.deb.torrent",
-    "Pkgname": "re.cutter.spark",
-    "Author": "Cutter",
-    "Contributor": "sgb76",
-    "Website": "https://cutter.re/",
-    "Update": "2022-04-07 22:49:43",
-    "Size": "73.75 MB",
-    "More": "Cutter是一个免费的开源逆向工程平台。",
-    "Tags": "ubuntu;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/07/ce5b0230-b681-11ec-adb8-9b9f66e3dd65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/07/d1b94860-b681-11ec-adb8-9b9f66e3dd65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/07/d72ba180-b681-11ec-adb8-9b9f66e3dd65.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/07/bc69f5e0-b681-11ec-adb8-9b9f66e3dd65.png"
-}
-,
-{
     "Name": "quardCRT",
     "Version": "0.47",
     "Filename": "quardcrt_0.47_amd64.deb",
@@ -1754,6 +1737,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/53b630acf10c4fca9b2beeedc94750ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/3e3d4c468a2e4c76896e2c0b1d8e6437.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/6cd562c5f1d348c0927027773c24f81c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/34045cd57ca044ea965d182ba5039bbd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/170585db45904e539989e95bc6c85e3a.png"
+}
+,
+{
+    "Name": "Cutter",
+    "Version": "2.0.5spark0",
+    "Filename": "re.cutter.spark_2.0.5spark0_amd64.deb",
+    "Torrent_address": "re.cutter.spark_2.0.5spark0_amd64.deb.torrent",
+    "Pkgname": "re.cutter.spark",
+    "Author": "Cutter",
+    "Contributor": "sgb76",
+    "Website": "https://cutter.re/",
+    "Update": "2022-04-07 22:49:43",
+    "Size": "73.75 MB",
+    "More": "Cutter是一个免费的开源逆向工程平台。",
+    "Tags": "ubuntu;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/07/ce5b0230-b681-11ec-adb8-9b9f66e3dd65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/07/d1b94860-b681-11ec-adb8-9b9f66e3dd65.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/07/d72ba180-b681-11ec-adb8-9b9f66e3dd65.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/07/bc69f5e0-b681-11ec-adb8-9b9f66e3dd65.png"
 }
 ,
 {

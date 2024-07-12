@@ -8491,6 +8491,27 @@ Description:
 License: unknown
 Vendor: Tencent <QQ-Team@tencent.com>
 
+Package: linuxqq
+Architecture: arm64
+Version: 3.2.10-25765
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 541495
+Depends: libopengl0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.10-25765_arm64.deb
+Size: 149191640
+MD5sum: f433bf077477dc642980d59b8a070542
+SHA1: 9c150cc522078cd96d0e5a8e8f1eaac656e85a0e
+SHA256: b70f785195cd75fd24f74566bd9a23f367c1c90217b4aea8be45f4702cb7cb90
+SHA512: f1f155510c875a70ff08744397218f9548e856c2805e95ea0c2e40229e17cddb7cfd7a34d6134d3cfa2189f903fe07052852c7252a97b7564a0b4063cb238631
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
 Package: icalingua
 Architecture: arm64
 Version: 2.11.6

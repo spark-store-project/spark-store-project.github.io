@@ -1532,14 +1532,14 @@ Maintainer: RX7900XT
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Installed-Size: 658204
 Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: libasound2 (>= 1.0.16), libc6 (>= 2.28), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, spark-wine9 (= 9.8-spark-2)
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.28), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane1 | libsane (>= 1.0.24), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, spark-wine9 (= 9.8-spark-2)
 Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
 Filename: depends/spark-wine/spark-wine9/spark-wine9-i386_9.8-spark-2_i386.deb
-Size: 99445092
-MD5sum: 108064abbe737fa4e37601a2974409f9
-SHA1: cfebced9e1dc83008be9fbd3b711f950b594e73a
-SHA256: 0115c699c6cbbaf8b39ff376d4df9114be62e84ac9d6309c11bac48fe11eff2b
-SHA512: 290a8619060e65ccdf9bf7b21ba3341e3f8b4657168cf54ddea93a371c6a518d8e8ce1cf5042422521cd91fb192580c086719ad6812de7cbbb85f7a69b182419
+Size: 99446088
+MD5sum: f2bb7aad3d259dcd96b50fae739f24a5
+SHA1: 1a0966d95b733821d7d846287e4c8a9754dbeb80
+SHA256: a6e57351ccb8488ac112cd2602a5300bfe198db0cf5a4395fa156525c1915d3a
+SHA512: 31ecefa5d7efc796d7562fe8198b42dcc51f72d0cc0b6528238d513d80a5cf05a2a7381a385c814e8cbbde30790664cca42694a3669cb38306c96f9a4b354170
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix.
@@ -1558,14 +1558,14 @@ Maintainer: RX6900XT
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Installed-Size: 779508
 Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: libasound2 (>= 1.0.16), libc6 (>= 2.25), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, spark-wine9 (= 9.8-spark-2)
+Depends: libasound2 (>= 1.0.16), libc6 (>= 2.25), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24) | libsane1, libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, spark-wine9 (= 9.8-spark-2)
 Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libjpeg62-turbo | libjpeg8, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
 Filename: depends/spark-wine/spark-wine9/spark-wine9-amd64_9.8-spark-2_amd64.deb
-Size: 105790000
-MD5sum: 75cb8aab45e47a6953d43c082e10e849
-SHA1: 2eab3bca6a34baa15d2a286ecf3d8ed37d44b86e
-SHA256: 05708df66e8f37ab13fc087619eeb4efe263ec7f07c335bb6d74fd8a4d98c16a
-SHA512: 56fd285be7b26397bace82cd378af7471e75ff19054ac8b6362627d0b9359a972217e0c1623fc4679a978d2c789c4f0fb3326da2bb53ddc57cecd3321ad4045c
+Size: 105791896
+MD5sum: b1758dae67ed2a543da626e2f0bd3960
+SHA1: cb6f898ab308dae4e1e501a813658fb85f3cd59b
+SHA256: 1f44a6cb6b3d9ffa6cd876b43e607b0704dcbc2bdabaadcb6d9b38f3a333bdfd
+SHA512: 4037d6bf440d380eb7758befacc9789f8d79778a746efd37475263bc2b035108d3be3c82975d1c8174ed72399f79d0f526336e46f940f3b1749fde6d567bfe86
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix.
@@ -1682,6 +1682,33 @@ MD5sum: 67da257ff51a0048a1bde08eff254aac
 SHA1: 77c183e993f56256b0635012c15ca8da4030f68e
 SHA256: 7f2ecb04dc9a4a00ddd60fd660cfdc7b1b4d8094de77df6e9d179390a90d903e
 SHA512: cce4f51b3719c46aedd91228b88ad367486beb347f354d378c90ede3f528e2a4e7523eacb395aa5dedd5106bccf1d177270a73c4594705c1c77405f8b47a4e5f
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix. It
+ consists of a program loader which loads and executes a Microsoft
+ Windows binary, and a library (called Winelib) that implements Windows
+ API calls using their Unix or X11 equivalents.  The library may also
+ be used for porting Win32 code into native Unix executables.
+
+Package: spark-wine9-wow
+Architecture: amd64
+Version: 9.11-spark-0
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 74704
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), spark-dwine-helper, libasound2 (>= 1.0.16), libc6 (>= 2.25), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24) | libsane1, libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses,  libunwind8,libgl1-mesa-glx
+Recommends: libcap2-bin
+Filename: depends/spark-wine/spark-wine9/spark-wine9-wow_9.11-spark-0_amd64.deb
+Size: 204975908
+MD5sum: 854fbdaa50bc51d6f42c6cb3689e667a
+SHA1: 8a91dff4e931d6acacab62a427b4c9198b7a1505
+SHA256: b41e0a5859efb4de141ddfa832de873709d7ae0ff3ffdc654d42390c6d8f2f06
+SHA512: 3b92f51a0e432ef1aa161cde16943ddbdd95357cf094500eb07f957f1cced68d12727aca6ad58678c525495e9452fd09b545a04dbeb45f0ef22ce6180059c13e
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix. It
@@ -4353,6 +4380,27 @@ SHA512: 6bf2b71e56f42245de681d6cd54150f4dbc40d29ce8a899570c23fac5b64dd0fa47177c1
 Homepage: https://gist.github.com/yookoala/818c1ff057e3d965980b7fd3bf8f77a6
 Description: Mac Superdrive rules
  udev rules for Apple Superdrive, for making it work under Linux
+
+Package: com.gitee.zinface-debian-apt-analyzer
+Architecture: amd64
+Version: 0.0.2-20240712
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 290
+Filename: tools/com.gitee.zinface-debian-apt-analyzer/com.gitee.zinface-debian-apt-analyzer_0.0.2-20240712_amd64.deb
+Size: 125196
+MD5sum: 290faef99069ccd16e4b87dfe8dcb4c3
+SHA1: 1fbc196a87870752f3ffc1852231a606b784fb12
+SHA256: 3810028ac2efed81053a880630227f955fb399ea5f6bd6a8312a0a0cb44eccbf
+SHA512: a378fc5d4e34a5a27c37d6648b7f12ef326011aa7beec4eaef924e5d5aced4c91ea04ff191a22f5357c8cc9ae977fc3343bce51d2c713c35ed502c8e65b2807f
+Homepage: https://gitee.com/zinface/qt.debian-apt-analyzer
+Description: Debian 软件源分析工具
+ Debian软件源分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。
+ .
+ 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。
+ .
+ Build for Deepin20.9 through spark-deb-build.
 
 Package: com.github.crypter.spark
 Architecture: amd64
@@ -7882,6 +7930,24 @@ Homepage: http://tav.qq.com
 Description: Tencent QQPCMgr Installer
 License: commercial
 Vendor: tav@tencent.com
+
+Package: cn.huorong.esm
+Architecture: amd64
+Version: 2.0.7.7
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 80696
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.7.7_amd64.deb
+Size: 33492022
+MD5sum: 05da05a10e6d072e8fc7612eb8709189
+SHA1: c53176000e6521dbe50816ed42910144fa02347a
+SHA256: d38789acd0f117f9424c1f6087675ed76ecc923fb3291083ebff68f818a1c620
+SHA512: fbebf717e43e28ca5e54c9236d674120032e6319c4569549b0b7d1b4474160d0ad94e51bbd3867b13110dec3d9e538e3ff1ada99a98dd4d5cbefd573cc558ed3
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
 
 Package: cn.huorong.esm
 Architecture: amd64
@@ -20790,6 +20856,24 @@ SHA512: a98ec584727e2730d34ad89e40fc48e7f5b4e0544cd1f2c1045155e2c5ea44a953d8253a
 Homepage: minesweep
 Description: minesweep.
 
+Package: minesweep
+Architecture: amd64
+Version: 1.2.0-1
+Priority: optional
+Section: utils
+Source: com.github.minesweep
+Maintainer: liuminghang  <liuminghang0821@gmail.com>
+Installed-Size: 88
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:3.0), libgl1, libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.2.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.9)
+Filename: games/minesweep/minesweep_1.2.0-1_amd64.deb
+Size: 25508
+MD5sum: 7508388504abdb4f464711b6efbcca5d
+SHA1: 83d99bb519d21f7d9c1efe80a3602cd96b795aef
+SHA256: 8cf4fc21a41591df8bae2de93fd4521e6b970d164a3a9e90e5f17b250028a2de
+SHA512: 40dd7088582124568bb98e037ca41974fdb3e88608a77ff19edd925cba8f1d2bcab094f5812c8bbdb5d43153fa0c57650cb6f6a5993dc59070af5eb6adfc5837
+Homepage: com.github.minesweep
+Description: minesweep.
+
 Package: com.angrybirdsspace.spark
 Architecture: amd64
 Version: 2.0.0spark2
@@ -24917,6 +25001,22 @@ SHA512: db352b9e09323d68f110e7dcaf2905aa2958dbba8df7f1f047848a2c56239918cf0d0cdc
 Description: rainbow-note on Wine6
  一款支持 markdown 语法以及图表、数学公式、五线谱等扩展功能的编辑器。
 
+Package: com.wenku.baidu.uos
+Architecture: amd64
+Version: 1.0
+Priority: optional
+Section: devel
+Maintainer: <zyl@uniontech.com>
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.wenku.baidu.uos/com.wenku.baidu.uos_1.0_amd64.deb
+Size: 75808494
+MD5sum: 476d3691c3ff28e35ea4fe49cc0898a1
+SHA1: d629c4d710335e3dc6002aaafa1e80f51a29140c
+SHA256: 70005cc0fb9fd89cfe51260a3a42fe43eb87af9421a77fe022bf52d68ed33ae2
+SHA512: f3dd650accf025e414c40365876afa4ae06ee88f6be5e136fe3465aa95d408ffc1a4c07ee464b1827d3a1c371455a3c096bb64dd96f2486d381160f9665d5ce5
+Homepage: https://wenku.baidu.com/
+Description: "智能文案/PPT/报告等一键生成，文件查找管理的办公学习助手，一应俱全的智能办公学习平台。"
+
 Package: com.wpspdf.spark
 Architecture: all
 Version: 11.6.0.8806deepin6
@@ -27873,6 +27973,25 @@ SHA512: c191ae2d1c561f25f766cd93f053f73a21fead38cc15e62906c63e573a4d6b5015cf8e79
 Description: EssentialPIM on Wine
  EssentialPIM Pro 是一款非常全面的个人信息管理工具，可以让你在多台设备之间管理日程、待办事项、备忘录、通讯录、密码和电子邮件，并和各大主流云服务同步。
 
+Package: com.yozosoft.yozo-office.s1
+Architecture: amd64
+Version: 9.0.5233.101ZH.S1
+Priority: optional
+Section: editors
+Maintainer: User Support Services <support@yozosoft.com>
+Installed-Size: 1086848
+Pre-Depends: libc6 (>=2.3), libx11-6, libxext6, libxi6, libxt6, libxtst6
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Conflicts: yozo-office, com.yozosoft.yozo-office, yozo-office.s1
+Filename: office/com.yozosoft.yozo-office.s1/com.yozosoft.yozo-office.s1_9.0.5233.101ZH.S1_amd64.deb
+Size: 460937374
+MD5sum: 86088ce20c3d294c5e0119d201f7732d
+SHA1: 5c56ad01327682b599ce4ffc6902ee7fd2c6fb1a
+SHA256: dc0b78ab5f820bba5a56919a2398700a59840b7eb7396f2a4b43b0f10387556b
+SHA512: c2ed406b340076e53a1eb47fa919485e75efc14b1ccd7cb793bb5137fc2d2bd655e88f727c4e2718ee9467a75716683558b2dc7b039e5205e5ea83bb8ed8f515
+Homepage: http://www.yozosoft.com
+Description: Yozo Office -- Fully Functional Office Suite Yozo Office is one office that integrates a word processor, spreadsheet, and presentation with one user interface and one file format.
+
 Package: cn.feixiang.flyele.spark
 Architecture: all
 Version: 3.0.1spark1
@@ -28352,6 +28471,24 @@ Description:
   Shadowsocks GUI client with cross-platform desktop support
 License: GPL-3.0
 Vendor: nojsja <yangwei13@outlook.com>
+
+Package: life.zishu.sdt
+Architecture: amd64
+Version: 2.2.3+fix0
+Priority: optional
+Section: web
+Maintainer: hyls<2318494274@qq.com>
+Installed-Size: 32768
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: network/life.zishu.sdt/life.zishu.sdt_2.2.3_plusfix0_amd64.deb
+Size: 9828514
+MD5sum: 028c3030c92e71ceebe9b17e48b98662
+SHA1: 567a67faf408accd61a3631e760a6469035bbf7f
+SHA256: ac1ae743aa52354ca8dd00b8d7066610ae66032f50052b78b47f03277d079bef
+SHA512: b57c9a2dd9045c90b76a3887416c0dd1391e9f6fc8c8152d189cd672170360191046f7ed87b28d4b470db1f4d1b79c77f91c2b80319bf853f36dcc134f0b46c0
+Description: 闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，完全兼容LocalSend，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。
+Vender: cmlanche <1204833748@qq.com>
+Bug-Reports: QQ Group:906458835;Website:sdt.zishu.life
 
 Package: life.zishu.sdt
 Architecture: amd64
@@ -34905,6 +35042,25 @@ Description: BellSoft Liberica is a build of OpenJDK verified by the OpenJDK Tec
 
 Package: io.github.msojocs.wechat-devtools-linux
 Architecture: amd64
+Version: 1.06.2405020-1
+Priority: optional
+Section: application
+Maintainer: msojocs
+Installed-Size: 911686
+Filename: development/io.github.msojocs.wechat-devtools-linux/io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb
+Size: 208701944
+MD5sum: 070e1289c8934b3a804c892e8719bfa3
+SHA1: be7dc07e8d82b339728bf90a3e11ab7a3f967216
+SHA256: 30bdf1b7858bab77c617b5f991257ac0398b410461d702138f30806f2d933139
+SHA512: a630d6b5a34a15341762a3f6502ad0bc410f23efc5f07bc2f901f2db9d9ff3145d0f40b0b4a1ca9d279cc06246fe1a89be367a3a88992d4b937a37e703dcf226
+Description: WeChat Devtools For Linux.
+  To help developers develop and debug Weixin Mini Programs more simply and efficiently,
+  Tencent have launched the new Weixin DevTools based on the original Official Account
+  web debugging tools. Therefore, we now have two developer modes (Official Account web
+  debugging) and (Mini Program debugging). This version is unofficial.
+
+Package: io.github.msojocs.wechat-devtools-linux
+Architecture: amd64
 Version: 1.06.2307260-1
 Priority: optional
 Section: application
@@ -36402,6 +36558,27 @@ MD5sum: 40a243201d03da383fb58e06ae43dd3f
 SHA1: beb6396761e6d5f667b68708f2d642aa0f1a56a2
 SHA256: 55ccb77cfea8a22477fa2e954f411043ffc97befa8fbc615823a88b35b61521d
 SHA512: b89ab243bb75c9ae1d41fb89c55c4a0a9bfaf3fc029584e2cb8d10dce9eaf7669faa68e7de9e4d9e9190fdc790460535367e7e2276ac86920225bec8d9af68d5
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
+Package: linuxqq
+Architecture: amd64
+Version: 3.2.10-25765
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 516661
+Depends: libopengl0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.10-25765_amd64.deb
+Size: 149691802
+MD5sum: 7bb2ea6793443f10ac3ac82171005f89
+SHA1: d98a71e1c213df3cb0234ba1cb4391ef713fcd38
+SHA256: 0ce218033135305f139e4a9e7c25d551893d37ec613f4a5b62944637475c9008
+SHA512: b8798b199bf4a2f83b802576b09b451a4fe213224095387370a658e52fb50be090e12c14855c69d08ec970f18011bc457a10338ed4d5a479a33eced77172cf61
 Homepage: https://im.qq.com
 Description: 
   QQ

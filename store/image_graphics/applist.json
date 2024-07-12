@@ -605,6 +605,22 @@
 }
 ,
 {
+    "Name": "海天鹰画图",
+    "Version": "1.16+spark0",
+    "Filename": "htypaint_1.16_plus_spark0_amd64.deb",
+    "Pkgname": "htypaint",
+    "Author": "海天鹰",
+    "Contributor": "shenmo",
+    "Website": "https://github.com/sonichy",
+    "Update": "2020-12-09 09:31:15",
+    "Size": "564.15 KB",
+    "More": "海天鹰画图\n一款比Windows画图功能强劲，美观的画图软件\n拥有简单的图形变换和图层功能\n替换deepin-draw的不而之选～",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/42686bd0-3a01-11eb-802e-65cd436e33e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/42600760-3a01-11eb-802e-65cd436e33e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/42586640-3a01-11eb-802e-65cd436e33e2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/09/3ab0dda0-3a01-11eb-802e-65cd436e33e2.png"
+}
+,
+{
     "Name": "中望 CAD 2024",
     "Version": "24.1.3.4",
     "Filename": "com.zwsoft.zwcad2024_24.1.3.4_amd64.deb",
@@ -619,22 +635,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/ed9410e050b3420caac2b48416ac7289.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85abd1a315da49a288f5e5eac03b8800.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/57b1d030976a43cd8352d9ddfbc30e21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/5c52e8a1e7614ee1bfb09d30a72bbdde.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/e066af2fbca448f798addb73322fc051.png"
-}
-,
-{
-    "Name": "海天鹰画图",
-    "Version": "1.16+spark0",
-    "Filename": "htypaint_1.16_plus_spark0_amd64.deb",
-    "Pkgname": "htypaint",
-    "Author": "海天鹰",
-    "Contributor": "shenmo",
-    "Website": "https://github.com/sonichy",
-    "Update": "2020-12-09 09:31:15",
-    "Size": "564.15 KB",
-    "More": "海天鹰画图\n一款比Windows画图功能强劲，美观的画图软件\n拥有简单的图形变换和图层功能\n替换deepin-draw的不而之选～",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/42686bd0-3a01-11eb-802e-65cd436e33e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/42600760-3a01-11eb-802e-65cd436e33e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/09/42586640-3a01-11eb-802e-65cd436e33e2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/09/3ab0dda0-3a01-11eb-802e-65cd436e33e2.png"
 }
 ,
 {
@@ -672,20 +672,6 @@
 }
 ,
 {
-   "Name":"大雄CAD（wine）",
-   "Version":"2019.03.5spark0",
-   "Filename":"com.321cad.spark_2019.03.5spark0_i386.deb",
-   "Pkgname":"com.321cad.spark",
-   "Author":"廖达雄",
-   "Contributor":"anima",
-   "Website":"http://www.321cad.com/",
-   "Update":"2020-09-03 13:46",
-   "Size":"16.85MB",
-   "More":"一款简单好用的CAD绘图工具，具有许多特色功能。"
-}
-
-,
-{
     "Name": "汉王 PDF OCR（Wine）",
     "Version": "8.1.4.16deepin4",
     "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
@@ -701,6 +687,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/710677c2488b490d8b3d63ab3007bdd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/12/88e1c391b8f546eaa800f60e1e495c58.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/12/51b3008f9a364fdcb0f050e0ac278d16.png"
 }
+,
+{
+   "Name":"大雄CAD（wine）",
+   "Version":"2019.03.5spark0",
+   "Filename":"com.321cad.spark_2019.03.5spark0_i386.deb",
+   "Pkgname":"com.321cad.spark",
+   "Author":"廖达雄",
+   "Contributor":"anima",
+   "Website":"http://www.321cad.com/",
+   "Update":"2020-09-03 13:46",
+   "Size":"16.85MB",
+   "More":"一款简单好用的CAD绘图工具，具有许多特色功能。"
+}
+
 ,
 {
     "Name": "浩辰CAD 2022 For Linux",
@@ -2123,6 +2123,23 @@
 }
 ,
 {
+    "Name": "百格画",
+    "Version": "1.0.1spark0",
+    "Filename": "gridyart.spark_1.0.1spark0_amd64.deb",
+    "Torrent_address": "gridyart.spark_1.0.1spark0_amd64.deb.torrent",
+    "Pkgname": "gridyart.spark",
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "sgb76",
+    "Website": "https://www.gridy.art/#/?referrer=ga&mod=index",
+    "Update": "2023-05-10 12:01:15",
+    "Size": "83.23 MB",
+    "More": "一款优质的像素画创作工具",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/10/e4cdd946343d438c900752025bfa46d9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/10/1e36d1df917e49c5badef2894f9c8350.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/10/a414c5f792ee4cb9aa0e427044c50e39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/10/fe462c2803a844b3a159995c11527d14.png"
+}
+,
+{
     "Name": "中望CAD建筑版 2022 For Linux",
     "Version": "22.2.2.3",
     "Filename": "com.zwsoft.zwcadm2022_22.2.2.3_amd64.deb",
@@ -2223,23 +2240,6 @@
     "Tags": "deepin;ubuntu;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/06/b9cb69f0-fd11-11ec-8503-39f9fd5d6aec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/06/bdad3800-fd11-11ec-8503-39f9fd5d6aec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/06/c23e0ac0-fd11-11ec-8503-39f9fd5d6aec.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/06/b11fded0-fd11-11ec-8503-39f9fd5d6aec.png"
-}
-,
-{
-    "Name": "百格画",
-    "Version": "1.0.1spark0",
-    "Filename": "gridyart.spark_1.0.1spark0_amd64.deb",
-    "Torrent_address": "gridyart.spark_1.0.1spark0_amd64.deb.torrent",
-    "Pkgname": "gridyart.spark",
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "sgb76",
-    "Website": "https://www.gridy.art/#/?referrer=ga&mod=index",
-    "Update": "2023-05-10 12:01:15",
-    "Size": "83.23 MB",
-    "More": "一款优质的像素画创作工具",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/10/e4cdd946343d438c900752025bfa46d9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/10/1e36d1df917e49c5badef2894f9c8350.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/10/a414c5f792ee4cb9aa0e427044c50e39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/10/fe462c2803a844b3a159995c11527d14.png"
 }
 ,
 {
