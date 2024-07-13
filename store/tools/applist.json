@@ -3422,6 +3422,23 @@
 }
 ,
 {
+    "Name": "AppImageHub 简易搜索工具",
+    "Version": "0.0.1-20231206",
+    "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
+    "Torrent_address": "appimage-hub-search_0.0.1-20231206_amd64.deb.torrent",
+    "Pkgname": "appimage-hub-search",
+    "Author": "Individual developer <packages@email.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.appimage-hub-search",
+    "Update": "2023-12-06 18:08:31",
+    "Size": "22.66 KB",
+    "More": "用于查看AppimageHub的软件信息\n .\n 其它说明行部分;\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
+}
+,
+{
     "Name": "Deepin 壁纸设置工具(此包仅限v23可用)",
     "Version": "0.1",
     "Filename": "deepin-wallpaper-quiksetting_0.1_amd64.deb",
@@ -3470,23 +3487,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1fca0b2bed8f4fbe860d01a183c70bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f02ebb8ea3894927b58e9f3b7dbcfa4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/59c4cfe9b6af4ede84447f635e69e79f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/f616f49b4e1a427ebf6210c401250593.png"
-}
-,
-{
-    "Name": "AppImageHub 简易搜索工具",
-    "Version": "0.0.1-20231206",
-    "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
-    "Torrent_address": "appimage-hub-search_0.0.1-20231206_amd64.deb.torrent",
-    "Pkgname": "appimage-hub-search",
-    "Author": "Individual developer <packages@email.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.appimage-hub-search",
-    "Update": "2023-12-06 18:08:31",
-    "Size": "22.66 KB",
-    "More": "用于查看AppimageHub的软件信息\n .\n 其它说明行部分;\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
 }
 ,
 {
@@ -4773,23 +4773,6 @@
 }
 ,
 {
-    "Name": "DOSBox",
-    "Version": "0.74-3",
-    "Filename": "dosbox_0.74-3_amd64.deb",
-    "Torrent_address": "dosbox_0.74-3_amd64.deb.torrent",
-    "Pkgname": "dosbox",
-    "Author": "wlly-lzh <wlly_lzh@163.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.dosbox.com/",
-    "Update": "2024-07-09 19:18:11",
-    "Size": "3.93 MB",
-    "More": "DOSBox 是一个模拟的 X86 机器，集成了 DOS 系统，可以运行旧的 DOS 游戏。这个模拟机允许你控制老游戏的速度，以及模拟旧的硬件，比如声卡和显卡，不管操作系统。这个集成的 DOS 系统还可以使你直接的启动游戏而无须安装 DOS 在虚拟机上。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/09/da991b4e86124ebaa72058607fdf9b2f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/09/261c439a051e48b7ad4aa56793dfc079.png"
-}
-,
-{
     "Author": "ziggy <lu1044100652@outlook.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.kaspersky.www.kvrt_24.0.4.0_amd64.deb",
@@ -4806,6 +4789,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "DOSBox",
+    "Version": "0.74-3",
+    "Filename": "dosbox_0.74-3_amd64.deb",
+    "Torrent_address": "dosbox_0.74-3_amd64.deb.torrent",
+    "Pkgname": "dosbox",
+    "Author": "wlly-lzh <wlly_lzh@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.dosbox.com/",
+    "Update": "2024-07-09 19:18:11",
+    "Size": "3.93 MB",
+    "More": "DOSBox 是一个模拟的 X86 机器，集成了 DOS 系统，可以运行旧的 DOS 游戏。这个模拟机允许你控制老游戏的速度，以及模拟旧的硬件，比如声卡和显卡，不管操作系统。这个集成的 DOS 系统还可以使你直接的启动游戏而无须安装 DOS 在虚拟机上。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/09/da991b4e86124ebaa72058607fdf9b2f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/09/261c439a051e48b7ad4aa56793dfc079.png"
+}
 ,
 {
     "Name": "xonsh --在终端里运行python命令",

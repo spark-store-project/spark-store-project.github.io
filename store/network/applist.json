@@ -1432,6 +1432,24 @@
 }
 ,
 {
+    "Name": "Tailscale",
+    "Version": "1.68.2",
+    "Filename": "tailscale_1.68.2_amd64.deb",
+    "Torrent_address": "tailscale_1.68.2_amd64.deb.torrent",
+    "Pkgname": "tailscale",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://tailscale.com/",
+    "Update": "2024-07-03 17:31:47",
+    "Size": "27M",
+    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
+}
+
+,
+{
     "Name": "方德浏览器",
     "Version": "6.0.0.1",
     "Filename": "nfs-browser_6.0.0.1_amd64.deb",
@@ -1463,24 +1481,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
 }
-,
-{
-    "Name": "Tailscale",
-    "Version": "1.68.2",
-    "Filename": "tailscale_1.68.2_amd64.deb",
-    "Torrent_address": "tailscale_1.68.2_amd64.deb.torrent",
-    "Pkgname": "tailscale",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://tailscale.com/",
-    "Update": "2024-07-03 17:31:47",
-    "Size": "27M",
-    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
-}
-
 ,
 {
     "Name": "网络投递",

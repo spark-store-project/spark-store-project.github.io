@@ -303,6 +303,25 @@ SHA256: 7b1b7b8902f98833c77e4ea835e5c6fd9f961849ec6a6875ed9af5227a9804d7
 SHA512: d47581ced52cd0c700c3904d5184a1bc5ff2b35b2cfd67535faa5dabdc553e7e372e370cc91d275a7375f9e21a2b836a261d44d856fd4ca69bb3fd83978248f8
 Description: Spark wine meta package
 
+Package: libgl1-mesa-glx
+Architecture: all
+Version: 22.3.6-1
+Priority: optional
+Section: oldlibs
+Source: mesa
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 33
+Depends: libgl1, libglx-mesa0
+Filename: depends/libgl1-mesa-glx_22.3.6-1_all.deb
+Size: 14516
+MD5sum: 3485ebd0a4da25cb1a180cc9f76b5bf7
+SHA1: 7982630617cf11b5e8eed07966b2a91676617ad4
+SHA256: 337a3925d281081459360550af108d6ca695d47318dba751a1a5c96990a47be2
+SHA512: 94618653232a7cf14b2fea5df59f9c8f7af5d60eb625b0ec0fe87f3cbe2ba6f5287096808e2096da3fa5a3b3b48b77ff0cbf64536237c5c170f770e5c576e2c4
+Homepage: https://mesa3d.org/
+Description: transitional dummy package
+ This is a transitional dummy package, it can be safely removed.
+
 Package: clash-meta
 Architecture: loong64
 Version: 1.18.3-mihomo
