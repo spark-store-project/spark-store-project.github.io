@@ -254,23 +254,6 @@
 }
 ,
 {
-    "Name": "Tabby",
-    "Version": "1.0.208",
-    "Filename": "tabby-terminal_1.0.208_amd64.deb",
-    "Torrent_address": "tabby-terminal_1.0.208_amd64.deb.torrent",
-    "Pkgname": "tabby-terminal",
-    "Author": "Eugene Pankov <e@ajenti.org>",
-    "Contributor": "yuu2lee4",
-    "Website": "https://github.com/Eugeny/tabby#readme",
-    "Update": "2024-06-24 11:34:49",
-    "Size": "84.72 MB",
-    "More": "A terminal for a modern age",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/a18ee44eea0243d4b9f765a970d173e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/0f4cf47141fc4f4baddce7f64f03b59b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/1491d090b91d49da80b7704a012d53e8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/d43a6d275d41435096c8b8be270a3b6b.png"
-}
-,
-{
     "Name": "MobaXterm (wine)",
     "Version": "23.1",
     "Filename": "net.mobatek.mobaxterm_23.1_all.deb",
@@ -285,6 +268,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/5f8629701594447390693e653ddbdaaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/cfa616f4e2e3402abeb6c8a064095a81.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/08/b927011c9edc4394a43d49e77cc0923b.png"
+}
+,
+{
+    "Name": "Tabby",
+    "Version": "1.0.208",
+    "Filename": "tabby-terminal_1.0.208_amd64.deb",
+    "Torrent_address": "tabby-terminal_1.0.208_amd64.deb.torrent",
+    "Pkgname": "tabby-terminal",
+    "Author": "Eugene Pankov <e@ajenti.org>",
+    "Contributor": "yuu2lee4",
+    "Website": "https://github.com/Eugeny/tabby#readme",
+    "Update": "2024-06-24 11:34:49",
+    "Size": "84.72 MB",
+    "More": "A terminal for a modern age",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/a18ee44eea0243d4b9f765a970d173e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/0f4cf47141fc4f4baddce7f64f03b59b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/1491d090b91d49da80b7704a012d53e8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/d43a6d275d41435096c8b8be270a3b6b.png"
 }
 ,
 {
@@ -894,6 +894,22 @@
 }
 ,
 {
+    "Name": "STM32CubeMX",
+    "Version": "6.0.1",
+    "Filename": "stm32cubemx_6.0.1_amd64.deb",
+    "Pkgname": "stm32cubemx",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:56:48",
+    "Size": "252.74 MB",
+    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
+}
+,
+{
     "Name": "GitKraken",
     "Version": "9.11.1",
     "Filename": "gitkraken_9.11.1_amd64.deb",
@@ -925,22 +941,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/f13739abcebf47d7a96bc5efae2383e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/082973b24d3645c5922317bd4158a18f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/2b75ab8ba96346cf904c9f5ab1e7505f.png"
-}
-,
-{
-    "Name": "STM32CubeMX",
-    "Version": "6.0.1",
-    "Filename": "stm32cubemx_6.0.1_amd64.deb",
-    "Pkgname": "stm32cubemx",
-    "Author": "STMicroelectronics",
-    "Contributor": "lidanger",
-    "Website": "https://www.st.com",
-    "Update": "2020-10-31 06:56:48",
-    "Size": "252.74 MB",
-    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
 }
 ,
 {
