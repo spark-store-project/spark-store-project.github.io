@@ -1670,6 +1670,27 @@ Description: FileGee Client on Deepin Wine6
 
 Package: spark-dwine-helper
 Architecture: all
+Version: 5.6.4.2-5.3.14
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 724
+Provides: store.spark-app.spark-dwine-helper(=5.6.4.2-5.3.14)
+Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
+Recommends: python3-pyqt5
+Replaces: store.spark-app.spark-dwine-helper(<=5.6.4.2-5.3.14)
+Filename: tools/spark-dwine-helper/spark-dwine-helper_5.6.4.2-5.3.14_all.deb
+Size: 277544
+MD5sum: bcc4ef986388e88554116e0352bf72f9
+SHA1: 7edd59adb9cb0151a717bfda6c4ceb9b5b905a48
+SHA256: 54477866e80865abcc25b469dc9d4af633fa0b4d9bb18eb73a312c7f2ac8f79d
+SHA512: d6051406563d89459930cfaee745d47bea339e7c1fd4518bfe1429ac17c39662778218af2f55ccdbea905c603aeba4e52e174ae86613297890af2c4b9ee2c63e
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
+Package: spark-dwine-helper
+Architecture: all
 Version: 5.6.4.1-5.3.14
 Multi-Arch: foreign
 Priority: extra
