@@ -3894,27 +3894,6 @@ SHA512: d6051406563d89459930cfaee745d47bea339e7c1fd4518bfe1429ac17c39662778218af
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
-Package: spark-dwine-helper
-Architecture: all
-Version: 5.6.4.1-5.3.14
-Multi-Arch: foreign
-Priority: extra
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 604
-Provides: store.spark-app.spark-dwine-helper(=5.6.4.1-5.3.14)
-Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
-Recommends: python3-pyqt5
-Replaces: store.spark-app.spark-dwine-helper(<=5.6.4.1-5.3.14)
-Filename: tools/spark-dwine-helper/spark-dwine-helper_5.6.4.1-5.3.14_all.deb
-Size: 277504
-MD5sum: f860ec607edaba7d6676058995cd4c81
-SHA1: 822381888aecb72d572c9e8ab2450acda162c531
-SHA256: 4ad41ccf93cdb9c4a6077bee10445b3d7fabd1939e42d1c000a974d933207446
-SHA512: 015037b5bcf7a0b894f6ee521994f406e6a12fb185a1cff2d37c58f2fc58181c3f7d8278b8085e310b38f1f57c665061f082103133cb71f8113b67ae70b75f64
-Homepage: https://gitee.com/deepin-community-store/spark-wine
-Description: Spark Deepin Wine Helper
-
 Package: xdroid-installer
 Architecture: amd64
 Version: 9.0.15

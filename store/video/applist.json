@@ -816,22 +816,6 @@
 }
 ,
 {
-    "Name": "lightworks",
-    "Version": "2021.2",
-    "Filename": "lightworks_2021.2_amd64.deb",
-    "Pkgname": "lightworks",
-    "Author": "LWKS Software Ltd.",
-    "Contributor": "安洛",
-    "Website": "https://www.lwks.com/",
-    "Update": "2021-06-16 22:54:22",
-    "Size": "69.61 MB",
-    "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。现版本已内置中文，可在设置中切换。",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/9a4f9760-ceb2-11eb-8e42-478bd3bfb991.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/87aaf280-ceb2-11eb-8e42-478bd3bfb991.png"
-}
-,
-{
     "Name": "Mine-imator",
     "Version": "2.0.2spark1",
     "Filename": "com.mineimator.spark_2.0.2spark1_amd64.deb",
@@ -846,6 +830,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/04/7ae7b6cf0b7b44aea0c2a10c588843c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/04/23eef396635b4b479907ade96cbf59c4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/04/9fa853002cab46e39045a55a956c7e0f.png"
+}
+,
+{
+    "Name": "lightworks",
+    "Version": "2021.2",
+    "Filename": "lightworks_2021.2_amd64.deb",
+    "Pkgname": "lightworks",
+    "Author": "LWKS Software Ltd.",
+    "Contributor": "安洛",
+    "Website": "https://www.lwks.com/",
+    "Update": "2021-06-16 22:54:22",
+    "Size": "69.61 MB",
+    "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。现版本已内置中文，可在设置中切换。",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/9a4f9760-ceb2-11eb-8e42-478bd3bfb991.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/87aaf280-ceb2-11eb-8e42-478bd3bfb991.png"
 }
 ,
 {
@@ -1177,6 +1177,23 @@
 }
 ,
 {
+    "Name": "人人视频",
+    "Version": "1.7.0.33",
+    "Filename": "com.renrenshipin.deepin_1.7.0.33_all.deb",
+    "Torrent_address": "com.renrenshipin.deepin_1.7.0.33_all.deb.torrent",
+    "Pkgname": "com.renrenshipin.deepin",
+    "Author": "人人视频",
+    "Contributor": "人人视频",
+    "Website": "https://lequkeji.com/#/home",
+    "Update": "2024-07-05 22:53:23",
+    "Size": "105.9 MB",
+    "More": "人人视频致力于成为一款受用户喜爱的影视剧应用,为pc用户提供优秀的看剧体验;更丰富的影视剧作品，包括韩剧、美剧、日剧、电影等等。",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/2163879577374a73bc61439a79d1a585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/ce704a4b307a404bbcac00b6924d56d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/21b080f646ab4ab8a2bfefc7a21107ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/b9b283fcaf214cdc8b131d865cca1b6f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/05/0100906f73e04007ab677d7d77c7823b.png"
+}
+,
+{
     "Name": "bilibili 投稿工具（Wine）",
     "Version": "2.3.0.1097spark0",
     "Filename": "com.bilibili.uploader.deepin_2.3.0.1097spark0_all.deb",
@@ -1208,23 +1225,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/43bbeeddfc214400aa51920e8ef97e4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/85d558bccb5f42e9b37a050aa9d7bb1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/a247c74e6d624c149a4a8e9dd93bc71b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/41744170e5e145079a4e7a361a25bb95.png"
-}
-,
-{
-    "Name": "人人视频",
-    "Version": "1.7.0.33",
-    "Filename": "com.renrenshipin.deepin_1.7.0.33_all.deb",
-    "Torrent_address": "com.renrenshipin.deepin_1.7.0.33_all.deb.torrent",
-    "Pkgname": "com.renrenshipin.deepin",
-    "Author": "人人视频",
-    "Contributor": "人人视频",
-    "Website": "https://lequkeji.com/#/home",
-    "Update": "2024-07-05 22:53:23",
-    "Size": "105.9 MB",
-    "More": "人人视频致力于成为一款受用户喜爱的影视剧应用,为pc用户提供优秀的看剧体验;更丰富的影视剧作品，包括韩剧、美剧、日剧、电影等等。",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/2163879577374a73bc61439a79d1a585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/ce704a4b307a404bbcac00b6924d56d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/21b080f646ab4ab8a2bfefc7a21107ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/b9b283fcaf214cdc8b131d865cca1b6f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/05/0100906f73e04007ab677d7d77c7823b.png"
 }
 ,
 {
