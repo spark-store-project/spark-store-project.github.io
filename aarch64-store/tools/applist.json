@@ -214,24 +214,6 @@
 
 ,
 {
-    "Author": "maicss@126.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.appimage-installer_2.1_arm64.deb",
-    "More": "用于将AppImage格式安装包添加至启动器。",
-    "Name": "AppImage安装器",
-    "Pkgname": "com.appimage-installer",
-    "Size": "72 Kb",
-    "Tags": "community;dtk5",
-    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
-    "Update": "2023-03-05 18:26:23",
-    "Version": "2.1",
-    "Website": "无",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
-}
-
-,
-{
     "Author": "360 BiFang team <BiFang@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qihoo.360safe_1.0.0.1018_arm64.deb",
@@ -246,6 +228,24 @@
     "Website": "http://www.360.cn/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qihoo.360safe/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "maicss@126.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.appimage-installer_2.1_arm64.deb",
+    "More": "用于将AppImage格式安装包添加至启动器。",
+    "Name": "AppImage安装器",
+    "Pkgname": "com.appimage-installer",
+    "Size": "72 Kb",
+    "Tags": "community;dtk5",
+    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:26:23",
+    "Version": "2.1",
+    "Website": "无",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
 }
 
 ,
@@ -288,24 +288,6 @@
 {
     "Author": "shenmo <jifengshenmo@outlook.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "sm-refresh_1.1_all.deb",
-    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
-    "Name": "右键刷新插件",
-    "Pkgname": "sm-refresh",
-    "Size": "12 Kb",
-    "Tags": "community;deepin;uos",
-    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
-    "Update": "2023-04-27 21:26:37",
-    "Version": "1.1",
-    "Website": "http://blog.shenmo.tech",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "deepin-system-monitor_5.0.0-1040_arm64.deb",
     "More": "深度系统监视器，美观好用的系统监视器",
     "Name": "深度系统监视器（移植版）",
@@ -320,20 +302,20 @@
 
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
+    "Author": "shenmo <jifengshenmo@outlook.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "uos-packaging-tools_1.2.1_all.deb",
-    "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
-    "Name": "维护打包工具箱",
-    "Pkgname": "uos-packaging-tools",
-    "Size": "64 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "uos-packaging-tools_1.2.1_all.deb.torrent",
-    "Update": "2024-05-27 01:06:09",
-    "Version": "1.2.1",
-    "Website": "https://gitee.com/deepin-community-store/uos-packaging-tools",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
+    "Filename": "sm-refresh_1.1_all.deb",
+    "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+    "Name": "右键刷新插件",
+    "Pkgname": "sm-refresh",
+    "Size": "12 Kb",
+    "Tags": "community;deepin;uos",
+    "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+    "Update": "2023-04-27 21:26:37",
+    "Version": "1.1",
+    "Website": "http://blog.shenmo.tech",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_2.png\"]"
 }
 
 ,
@@ -352,6 +334,24 @@
     "Website": "https://github.com/q77190858/dde-sys-monitor-plugin/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-monitor-plugin/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-monitor-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-monitor-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-monitor-plugin/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-monitor-plugin/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-monitor-plugin/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "uos-packaging-tools_1.2.1_all.deb",
+    "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
+    "Name": "维护打包工具箱",
+    "Pkgname": "uos-packaging-tools",
+    "Size": "64 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "uos-packaging-tools_1.2.1_all.deb.torrent",
+    "Update": "2024-05-27 01:06:09",
+    "Version": "1.2.1",
+    "Website": "https://gitee.com/deepin-community-store/uos-packaging-tools",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
 ,
@@ -641,24 +641,6 @@
 
 ,
 {
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store-submitter_1.5.6.4-20240410_arm64.deb",
-    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容",
-    "Name": "星火商店投稿器",
-    "Pkgname": "spark-store-submitter",
-    "Size": "2864 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-store-submitter_1.5.6.4-20240410_arm64.deb.torrent",
-    "Update": "2024-04-10 18:46:21",
-    "Version": "1.5.6.4-20240410",
-    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_4.png\"]"
-}
-
-,
-{
     "Author": "Zhuhai Pantum Electronics Co., Ltd <support@pantum.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_arm64.deb",
@@ -673,6 +655,24 @@
     "Website": "https://www.pantum.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.pantum.pantum/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store-submitter_1.5.6.4-20240410_arm64.deb",
+    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容",
+    "Name": "星火商店投稿器",
+    "Pkgname": "spark-store-submitter",
+    "Size": "2864 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-store-submitter_1.5.6.4-20240410_arm64.deb.torrent",
+    "Update": "2024-04-10 18:46:21",
+    "Version": "1.5.6.4-20240410",
+    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-store-submitter/screen_4.png\"]"
 }
 
 ,
@@ -1163,24 +1163,6 @@
 
 ,
 {
-    "Author": "CongTianKong",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "additional-base-lib_2.38-13-9_arm64.deb",
-    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-    "Name": "Additional Base lib",
-    "Pkgname": "additional-base-lib",
-    "Size": "5675 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "additional-base-lib_2.38-13-9_arm64.deb.torrent",
-    "Update": "2024-07-01 13:07:44",
-    "Version": "2.38-13-9",
-    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/screen_2.png\"]"
-}
-
-,
-{
     "Author": "Vlary",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "htyscreenpen_1.2_arm64.deb",
@@ -1195,6 +1177,24 @@
     "Website": " https://github.com/sonichy/HTYScreenPen",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "CongTianKong",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "additional-base-lib_2.38-13-9_arm64.deb",
+    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+    "Name": "Additional Base lib",
+    "Pkgname": "additional-base-lib",
+    "Size": "5675 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "additional-base-lib_2.38-13-9_arm64.deb.torrent",
+    "Update": "2024-07-01 13:07:44",
+    "Version": "2.38-13-9",
+    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/additional-base-lib/screen_2.png\"]"
 }
 
 ,

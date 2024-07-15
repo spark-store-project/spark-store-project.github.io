@@ -8412,27 +8412,6 @@ Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
 
-Package: spark-store-console
-Architecture: all
-Version: 4.2.12
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 1187
-Provides: spark-store(=4.2.10)
-Depends: wget,aria2, zenity, policykit-1, libnotify-bin, python3, desktop-file-utils,curl,uuid-runtime
-Conflicts: spark-store
-Replaces: spark-store(=4.2.10)
-Filename: tools/spark-store-console/spark-store-console_4.2.12_all.deb
-Size: 58580
-MD5sum: efc4abee2d480f720d9c55073e246195
-SHA1: eaca5c1ce14024ba2de03d69c0d99a255091f60b
-SHA256: 4ca84365c98d3f97aea105bf77f5ce867953e57f9a389a07226f465cb5e0f822
-SHA512: a9067a0c3d92b159973ac85bd94d2dccf6b35c80b579b6fd80684330abc26dc6bbe6603517f1a878ce37de21252229c7def475c73c61b87f950380cee99964ad
-Homepage: https://www.spark-app.store/
-Description: Spark Store
- A community powered app store, based on DTK.
-
 Package: com.sugarcane.formatfactory
 Architecture: all
 Version: 5.11.0
@@ -29387,26 +29366,6 @@ SHA256: 823ed2eefd545a3fcf00c1cd618084c44bd16071da2e262aae4bf538f069ea41
 SHA512: d517d9dc6e38b8b172a2e8c5f12991da502a25fc115cfc1df9a0dcb3d16c7a50cfa7b1650b327247894fd1f9369dc0597c57c04ac4c4d64f628e69315aad8159
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
-Package: browser360-cn-stable
-Architecture: amd64
-Version: 13.3.1014.32-1
-Priority: optional
-Section: web
-Maintainer: 360安全浏览器团队 <pc_browser_kefu@360.cn>
-Installed-Size: 412575
-Provides: www-browser
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.16), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.60), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.39.4), libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, libxtst6, wget, xdg-utils (>= 1.0.2)
-Recommends: libu2f-udev, libvulkan1
-Filename: network/browser360-cn-stable/browser360-cn-stable_13.3.1014.32-1_amd64.deb
-Size: 134260088
-MD5sum: 502795bd824e477336dc4378f1368125
-SHA1: 00df1bd1bbcb78345bfd2d05515e9d2780ca1ecc
-SHA256: 9d493291b4c0def6c3fd143e69a54c262741c5899b9ac34a581f853a53cf6b7d
-SHA512: 0ce41a210ae4fed601d141dc7966b1844342ee747946bdd3619ed75666a214e5da6e1017bbb4ca47bc8aeff84a8a303c355af2c0f81b3860d82c468ad6856386
-Description: 360安全浏览器
- 360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。
 
 Package: browser360-cn-stable
 Architecture: amd64

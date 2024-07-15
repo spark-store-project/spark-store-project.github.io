@@ -254,23 +254,6 @@
 }
 ,
 {
-    "Name": "Tabby",
-    "Version": "1.0.208",
-    "Filename": "tabby-terminal_1.0.208_amd64.deb",
-    "Torrent_address": "tabby-terminal_1.0.208_amd64.deb.torrent",
-    "Pkgname": "tabby-terminal",
-    "Author": "Eugene Pankov <e@ajenti.org>",
-    "Contributor": "yuu2lee4",
-    "Website": "https://github.com/Eugeny/tabby#readme",
-    "Update": "2024-06-24 11:34:49",
-    "Size": "84.72 MB",
-    "More": "A terminal for a modern age",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/a18ee44eea0243d4b9f765a970d173e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/0f4cf47141fc4f4baddce7f64f03b59b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/1491d090b91d49da80b7704a012d53e8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/d43a6d275d41435096c8b8be270a3b6b.png"
-}
-,
-{
     "Name": "MobaXterm (wine)",
     "Version": "23.1",
     "Filename": "net.mobatek.mobaxterm_23.1_all.deb",
@@ -285,6 +268,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/5f8629701594447390693e653ddbdaaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/cfa616f4e2e3402abeb6c8a064095a81.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/08/b927011c9edc4394a43d49e77cc0923b.png"
+}
+,
+{
+    "Name": "Tabby",
+    "Version": "1.0.208",
+    "Filename": "tabby-terminal_1.0.208_amd64.deb",
+    "Torrent_address": "tabby-terminal_1.0.208_amd64.deb.torrent",
+    "Pkgname": "tabby-terminal",
+    "Author": "Eugene Pankov <e@ajenti.org>",
+    "Contributor": "yuu2lee4",
+    "Website": "https://github.com/Eugeny/tabby#readme",
+    "Update": "2024-06-24 11:34:49",
+    "Size": "84.72 MB",
+    "More": "A terminal for a modern age",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/a18ee44eea0243d4b9f765a970d173e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/0f4cf47141fc4f4baddce7f64f03b59b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/1491d090b91d49da80b7704a012d53e8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/d43a6d275d41435096c8b8be270a3b6b.png"
 }
 ,
 {
@@ -388,23 +388,6 @@
 }
 ,
 {
-    "Name": "Arduino IDE",
-    "Version": "2.1.2spark10",
-    "Filename": "cc.arduino.spark_2.1.2spark10_amd64.deb",
-    "Torrent_address": "cc.arduino.spark_2.1.2spark10_amd64.deb.torrent",
-    "Pkgname": "cc.arduino.spark",
-    "Author": "Arduino",
-    "Contributor": "sgb76 <sgb76@163.com>",
-    "Website": "https://www.arduino.cc/",
-    "Update": "2023-08-10 00:30:08",
-    "Size": "8.84 KB",
-    "More": "Arduino是一个基于灵活、易于使用的硬件和软件的开源电子产品原型平台。\n此处引用了网民『懵仙兔兔』的postinst",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/e3eea900ef9a4ae184534575ee80c877.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/b49453bf6cf842f5ae76de2e650cbd36.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/10/5989cd23b0da4e0ea75621f6f8d84cf0.png"
-}
-,
-{
     "Name": "WebStorm",
     "Version": "2024.1",
     "Filename": "jetbrains-webstorm_2024.1_all.deb",
@@ -419,6 +402,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d58f5b8b41524dd88303b11a16f13e7f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/8b98f98f47e04925811bc7f930775ce2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/877a150122664233826e5aa74b8c7b7d.png"
+}
+,
+{
+    "Name": "Arduino IDE",
+    "Version": "2.1.2spark10",
+    "Filename": "cc.arduino.spark_2.1.2spark10_amd64.deb",
+    "Torrent_address": "cc.arduino.spark_2.1.2spark10_amd64.deb.torrent",
+    "Pkgname": "cc.arduino.spark",
+    "Author": "Arduino",
+    "Contributor": "sgb76 <sgb76@163.com>",
+    "Website": "https://www.arduino.cc/",
+    "Update": "2023-08-10 00:30:08",
+    "Size": "8.84 KB",
+    "More": "Arduino是一个基于灵活、易于使用的硬件和软件的开源电子产品原型平台。\n此处引用了网民『懵仙兔兔』的postinst",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/e3eea900ef9a4ae184534575ee80c877.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/b49453bf6cf842f5ae76de2e650cbd36.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/10/5989cd23b0da4e0ea75621f6f8d84cf0.png"
 }
 ,
 {
@@ -894,22 +894,6 @@
 }
 ,
 {
-    "Name": "STM32CubeMX",
-    "Version": "6.0.1",
-    "Filename": "stm32cubemx_6.0.1_amd64.deb",
-    "Pkgname": "stm32cubemx",
-    "Author": "STMicroelectronics",
-    "Contributor": "lidanger",
-    "Website": "https://www.st.com",
-    "Update": "2020-10-31 06:56:48",
-    "Size": "252.74 MB",
-    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
-}
-,
-{
     "Name": "GitKraken",
     "Version": "9.11.1",
     "Filename": "gitkraken_9.11.1_amd64.deb",
@@ -924,6 +908,22 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
+}
+,
+{
+    "Name": "STM32CubeMX",
+    "Version": "6.0.1",
+    "Filename": "stm32cubemx_6.0.1_amd64.deb",
+    "Pkgname": "stm32cubemx",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:56:48",
+    "Size": "252.74 MB",
+    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
 }
 ,
 {
@@ -1254,6 +1254,23 @@
 
 ,
 {
+    "Name": "GitFiend",
+    "Version": "0.44.3",
+    "Filename": "gitfiend_0.44.3_amd64.deb",
+    "Torrent_address": "gitfiend_0.44.3_amd64.deb.torrent",
+    "Pkgname": "gitfiend",
+    "Author": "Toby Suggate <sugto555@gmail.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://gitfiend.com",
+    "Update": "2024-05-05 06:16:08",
+    "Size": "68.75 MB",
+    "More": "Git管理工具  A Git client designed for humans",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/9c5da42839fd48d0989e19ff3c84ad19.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/0cd8f4419b114e8c8aa6d3a8fbe0712e.png"
+}
+,
+{
     "Name": "Geany",
     "Version": "1.38-1",
     "Filename": "geany_1.38-1_amd64.deb",
@@ -1301,23 +1318,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19181330-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/19272e60-23d0-11eb-b0d0-23a1d93ced96.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/11/191f6630-23d0-11eb-b0d0-23a1d93ced96.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/11/15af6cc0-23d0-11eb-b0d0-23a1d93ced96.png"
-}
-,
-{
-    "Name": "GitFiend",
-    "Version": "0.44.3",
-    "Filename": "gitfiend_0.44.3_amd64.deb",
-    "Torrent_address": "gitfiend_0.44.3_amd64.deb.torrent",
-    "Pkgname": "gitfiend",
-    "Author": "Toby Suggate <sugto555@gmail.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://gitfiend.com",
-    "Update": "2024-05-05 06:16:08",
-    "Size": "68.75 MB",
-    "More": "Git管理工具  A Git client designed for humans",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/9c5da42839fd48d0989e19ff3c84ad19.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/0cd8f4419b114e8c8aa6d3a8fbe0712e.png"
 }
 ,
 {

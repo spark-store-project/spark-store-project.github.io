@@ -90,24 +90,6 @@
 
 ,
 {
-    "Author": "Deepin Browser <browser@deepin.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
-    "More": "一款长的有点像Dtk应用的浏览器",
-    "Name": "深度浏览器",
-    "Pkgname": "org.deepin.browser",
-    "Size": "154 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "org.deepin.browser_6.3.16-1_arm64.deb.torrent",
-    "Update": "2024-05-16 22:57:35",
-    "Version": "6.3.16-1",
-    "Website": "https://www.deepin.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
-}
-
-,
-{
     "Author": "酷安",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "uengine-dc-com.coolapk.market_13.1.1_all.deb",
@@ -122,6 +104,24 @@
     "Website": "https://www.coolapk.com",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/uengine-dc-com.coolapk.market/icon.png",
     "img_urls": "[]"
+}
+
+,
+{
+    "Author": "Deepin Browser <browser@deepin.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.deepin.browser_6.3.16-1_arm64.deb",
+    "More": "一款长的有点像Dtk应用的浏览器",
+    "Name": "深度浏览器",
+    "Pkgname": "org.deepin.browser",
+    "Size": "154 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "org.deepin.browser_6.3.16-1_arm64.deb.torrent",
+    "Update": "2024-05-16 22:57:35",
+    "Version": "6.3.16-1",
+    "Website": "https://www.deepin.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/org.deepin.browser/screen_1.png\"]"
 }
 
 ,
@@ -268,6 +268,23 @@
 
 ,
 {
+    "Name": "Internet Explorer 8 (wine)",
+    "Version": "1.0.1deepin3",
+    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
+    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
+    "Pkgname": "deepin.com.ie8",
+    "Author": "Person By Deepin WINE",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://bbs.deepin.org/post/168562",
+    "Update": "2023-09-20 13:14:55",
+    "Size": "353.18 MB",
+    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
+    "Tags": "ubuntu;deepin;uos;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.163.dashi.mailmaster.spark_4.18.1.1006-1_all.deb",
@@ -302,23 +319,6 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_4.png\"]"
 }
 
-,
-{
-    "Name": "Internet Explorer 8 (wine)",
-    "Version": "1.0.1deepin3",
-    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
-    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
-    "Pkgname": "deepin.com.ie8",
-    "Author": "Person By Deepin WINE",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://bbs.deepin.org/post/168562",
-    "Update": "2023-09-20 13:14:55",
-    "Size": "353.18 MB",
-    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
-    "Tags": "ubuntu;deepin;uos;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
-}
 ,
 {
     "Author": "Dominik George <natureshadow@debian.org>",
@@ -501,24 +501,6 @@
 
 ,
 {
-    "Author": "xretia <webmaster@xretia.labs>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
-    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
-    "Name": "网速管家",
-    "Pkgname": "cn.speedtest.master",
-    "Size": "66 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
-    "Update": "2023-03-05 19:23:50",
-    "Version": "1.6.1",
-    "Website": "https://gitlab.com/dfc643/speedtest-cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
-}
-
-,
-{
     "Author": "chenky177@chinatelecom.cn",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.dlife.ecloud_1.0.0.0_arm64.deb",
@@ -533,6 +515,24 @@
     "Website": "https://cloud.189.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.dlife.ecloud/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "xretia <webmaster@xretia.labs>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
+    "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+    "Name": "网速管家",
+    "Pkgname": "cn.speedtest.master",
+    "Size": "66 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
+    "Update": "2023-03-05 19:23:50",
+    "Version": "1.6.1",
+    "Website": "https://gitlab.com/dfc643/speedtest-cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
 }
 
 ,
@@ -627,24 +627,6 @@
 
 ,
 {
-    "Author": "HopToDesk",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "hoptodesk_1.32.1_all.deb",
-    "More": "HopToDesk是一个免费的远程桌面工具，允许用户分享他们的屏幕并允许远程控制访问他们的电脑和设备。与TeamViewer或AnyDesk等其他类似工具不同，HopToDesk对个人和企业使用都是免费的，为所有同行通信提供真正的端到端加密，并且是开源的。\n\n说明：该应用适用于Ubuntu，deepin20.08下运行缺依赖",
-    "Name": "HopToDesk",
-    "Pkgname": "hoptodesk",
-    "Size": "6703 Kb",
-    "Tags": "ubuntu",
-    "Torrent_address": "hoptodesk_1.32.1_all.deb.torrent",
-    "Update": "2023-03-06 21:56:56",
-    "Version": "1.32.1",
-    "Website": "https://www.hoptodesk.com",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/hoptodesk/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/hoptodesk/screen_1.png\"]"
-}
-
-,
-{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
@@ -659,6 +641,24 @@
     "Website": "https://pan.quark.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "HopToDesk",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "hoptodesk_1.32.1_all.deb",
+    "More": "HopToDesk是一个免费的远程桌面工具，允许用户分享他们的屏幕并允许远程控制访问他们的电脑和设备。与TeamViewer或AnyDesk等其他类似工具不同，HopToDesk对个人和企业使用都是免费的，为所有同行通信提供真正的端到端加密，并且是开源的。\n\n说明：该应用适用于Ubuntu，deepin20.08下运行缺依赖",
+    "Name": "HopToDesk",
+    "Pkgname": "hoptodesk",
+    "Size": "6703 Kb",
+    "Tags": "ubuntu",
+    "Torrent_address": "hoptodesk_1.32.1_all.deb.torrent",
+    "Update": "2023-03-06 21:56:56",
+    "Version": "1.32.1",
+    "Website": "https://www.hoptodesk.com",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/hoptodesk/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/hoptodesk/screen_1.png\"]"
 }
 
 ,

@@ -125,6 +125,23 @@
 
 ,
 {
+    "Name": "银狼主题光标",
+    "Version": "1.0.0",
+    "Filename": "silverwolf.cursors_1.0.0_all.deb",
+    "Torrent_address": "silverwolf.cursors_1.0.0_all.deb.torrent",
+    "Pkgname": "silverwolf.cursors",
+    "Author": "唯溯",
+    "Contributor": "阿尼樱奈奈 <kamizotoayaka@163.com>",
+    "Website": "https://space.bilibili.com/436623402",
+    "Update": "2023-11-09 13:18:48",
+    "Size": "21.35 KB",
+    "More": "银狼主题光标，由B站用户@唯溯（https://space.bilibili.com/436623402）制作，由deepin论坛用户@阿尼樱奈奈（https://bbs.deepin.org/user/296995）转换为Linux可用主题光标",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/6d363d6e13184eea989185caa8e96d7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/cc99d9071d0e42619591a2f0ec6dc802.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2a68ae47de594a4fa3fcfdf136ef3f99.png"
+}
+,
+{
     "Author": "FunnyAWM <1142978300@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "kaf-cursors_1.1.0_all.deb",
@@ -141,23 +158,6 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/kaf-cursors/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "银狼主题光标",
-    "Version": "1.0.0",
-    "Filename": "silverwolf.cursors_1.0.0_all.deb",
-    "Torrent_address": "silverwolf.cursors_1.0.0_all.deb.torrent",
-    "Pkgname": "silverwolf.cursors",
-    "Author": "唯溯",
-    "Contributor": "阿尼樱奈奈 <kamizotoayaka@163.com>",
-    "Website": "https://space.bilibili.com/436623402",
-    "Update": "2023-11-09 13:18:48",
-    "Size": "21.35 KB",
-    "More": "银狼主题光标，由B站用户@唯溯（https://space.bilibili.com/436623402）制作，由deepin论坛用户@阿尼樱奈奈（https://bbs.deepin.org/user/296995）转换为Linux可用主题光标",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/6d363d6e13184eea989185caa8e96d7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/cc99d9071d0e42619591a2f0ec6dc802.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2a68ae47de594a4fa3fcfdf136ef3f99.png"
-}
 ,
 {
     "Author": "liuminghang  <liuminghang0821@gmail.com>",
@@ -214,24 +214,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "deepin-icons-2022_1.8.4_all.deb",
-    "More": "shenmo转制的 deepin icons 2022包\n\n是fluent design\n\n修改：删除了gimp的图标，把继承改为blossom\n\n不是deepin请前往官网安装原版",
-    "Name": "deepin icons 2022",
-    "Pkgname": "deepin-icons-2022",
-    "Size": "7338 Kb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "deepin-icons-2022_1.8.4_all.deb.torrent",
-    "Update": "2023-03-07 22:05:22",
-    "Version": "1.8.4",
-    "Website": "https://www.pling.com/p/1678986",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-icons-2022/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-icons-2022/screen_1.png\"]"
-}
-
-,
-{
     "Author": "kamizotoayaka <kamizotoayaka@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "lumine.cursors_1.0.0_all.deb",
@@ -246,6 +228,24 @@
     "Website": "https://space.bilibili.com/436623402",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/themes/lumine.cursors/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/lumine.cursors/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/lumine.cursors/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "deepin-icons-2022_1.8.4_all.deb",
+    "More": "shenmo转制的 deepin icons 2022包\n\n是fluent design\n\n修改：删除了gimp的图标，把继承改为blossom\n\n不是deepin请前往官网安装原版",
+    "Name": "deepin icons 2022",
+    "Pkgname": "deepin-icons-2022",
+    "Size": "7338 Kb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "deepin-icons-2022_1.8.4_all.deb.torrent",
+    "Update": "2023-03-07 22:05:22",
+    "Version": "1.8.4",
+    "Website": "https://www.pling.com/p/1678986",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-icons-2022/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-icons-2022/screen_1.png\"]"
 }
 
 ,
@@ -466,24 +466,6 @@
 
 ,
 {
-    "Author": "liu",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "fcitx-ui-simple_1.0_all.deb",
-    "More": "小企鹅输入法简单皮肤合集",
-    "Name": "简单小企鹅皮肤",
-    "Pkgname": "fcitx-ui-simple",
-    "Size": "176 Kb",
-    "Tags": "deepin;ubuntu",
-    "Torrent_address": "fcitx-ui-simple_1.0_all.deb.torrent",
-    "Update": "2023-03-07 22:10:06",
-    "Version": "1.0",
-    "Website": "https://gitee.com/rgba/fcitx-skin",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_3.png\"]"
-}
-
-,
-{
     "Author": "咸粽子 <xianzongzi@aliyun.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
@@ -498,6 +480,24 @@
     "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "liu",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "fcitx-ui-simple_1.0_all.deb",
+    "More": "小企鹅输入法简单皮肤合集",
+    "Name": "简单小企鹅皮肤",
+    "Pkgname": "fcitx-ui-simple",
+    "Size": "176 Kb",
+    "Tags": "deepin;ubuntu",
+    "Torrent_address": "fcitx-ui-simple_1.0_all.deb.torrent",
+    "Update": "2023-03-07 22:10:06",
+    "Version": "1.0",
+    "Website": "https://gitee.com/rgba/fcitx-skin",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_3.png\"]"
 }
 
 ,
