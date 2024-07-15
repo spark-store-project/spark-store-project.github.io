@@ -8393,6 +8393,27 @@ Description: manage your applications.
 
 Package: spark-store-console
 Architecture: all
+Version: 4.2.13
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1187
+Provides: spark-store(=4.2.10)
+Depends: wget,aria2, zenity, policykit-1, libnotify-bin, python3, desktop-file-utils,curl
+Conflicts: spark-store
+Replaces: spark-store(=4.2.10)
+Filename: tools/spark-store-console/spark-store-console_4.2.13_all.deb
+Size: 58572
+MD5sum: 7fba4a62ff810c9deaea6be37619daec
+SHA1: 7cc1aa8c776cee1f74c0c3bd71d09dba0fe281e9
+SHA256: 14e65494a3d568b78d06f27d0c676c22965f2c533c58c32dfa7fcecd60d23041
+SHA512: ef8dded08d55f7ddfcb837232ddec641d280c61489a66274bc4ffdfa2db2a75955b75b4eff0407241d2ea312a8254b337f8d472be4d261b8ec41b923d4c9ad29
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store-console
+Architecture: all
 Version: 4.2.12
 Priority: optional
 Section: utils
@@ -29384,6 +29405,26 @@ MD5sum: 502795bd824e477336dc4378f1368125
 SHA1: 00df1bd1bbcb78345bfd2d05515e9d2780ca1ecc
 SHA256: 9d493291b4c0def6c3fd143e69a54c262741c5899b9ac34a581f853a53cf6b7d
 SHA512: 0ce41a210ae4fed601d141dc7966b1844342ee747946bdd3619ed75666a214e5da6e1017bbb4ca47bc8aeff84a8a303c355af2c0f81b3860d82c468ad6856386
+Description: 360安全浏览器
+ 360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。
+
+Package: browser360-cn-stable
+Architecture: amd64
+Version: 13.3.1015.14-1
+Priority: optional
+Section: web
+Maintainer: 360安全浏览器团队 <pc_browser_kefu@360.cn>
+Installed-Size: 412624
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.16), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.60), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.39.4), libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, libxtst6, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev, libvulkan1
+Filename: network/browser360-cn-stable/browser360-cn-stable_13.3.1015.14-1_amd64.deb
+Size: 134291108
+MD5sum: 6368b814a8bc6f1eb6f5a849796c5e8c
+SHA1: 498083fafabd135f89e50e1e706e29379189b80e
+SHA256: 8a41eb7e54179173ee86a2496c4e14a785c3b82fdeab5cb5ec1a16501cddcd27
+SHA512: 143e1d7f281881b1e189df89cc28362f10f5a1af0db283bffe06f8ba6eb3145e45436f9af59f1e792990d724e21912bfa93eee8f3a01213b0d2faec339d12a77
 Description: 360安全浏览器
  360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。
 

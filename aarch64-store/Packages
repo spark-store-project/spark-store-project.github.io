@@ -2795,6 +2795,27 @@ Description: manage your applications.
 
 Package: spark-store-console
 Architecture: all
+Version: 4.2.13
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1187
+Provides: spark-store(=4.2.10)
+Depends: wget,aria2, zenity, policykit-1, libnotify-bin, python3, desktop-file-utils,curl
+Conflicts: spark-store
+Replaces: spark-store(=4.2.10)
+Filename: tools/spark-store-console/spark-store-console_4.2.13_all.deb
+Size: 58572
+MD5sum: 7fba4a62ff810c9deaea6be37619daec
+SHA1: 7cc1aa8c776cee1f74c0c3bd71d09dba0fe281e9
+SHA256: 14e65494a3d568b78d06f27d0c676c22965f2c533c58c32dfa7fcecd60d23041
+SHA512: ef8dded08d55f7ddfcb837232ddec641d280c61489a66274bc4ffdfa2db2a75955b75b4eff0407241d2ea312a8254b337f8d472be4d261b8ec41b923d4c9ad29
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store-console
+Architecture: all
 Version: 4.2.12
 Priority: optional
 Section: utils

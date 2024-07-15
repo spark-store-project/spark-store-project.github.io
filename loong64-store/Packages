@@ -3097,6 +3097,27 @@ Description: manage your applications.
 
 Package: spark-store-console
 Architecture: all
+Version: 4.2.13
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1187
+Provides: spark-store(=4.2.10)
+Depends: wget,aria2, zenity, policykit-1, libnotify-bin, python3, desktop-file-utils,curl
+Conflicts: spark-store
+Replaces: spark-store(=4.2.10)
+Filename: tools/spark-store-console/spark-store-console_4.2.13_all.deb
+Size: 58572
+MD5sum: 7fba4a62ff810c9deaea6be37619daec
+SHA1: 7cc1aa8c776cee1f74c0c3bd71d09dba0fe281e9
+SHA256: 14e65494a3d568b78d06f27d0c676c22965f2c533c58c32dfa7fcecd60d23041
+SHA512: ef8dded08d55f7ddfcb837232ddec641d280c61489a66274bc4ffdfa2db2a75955b75b4eff0407241d2ea312a8254b337f8d472be4d261b8ec41b923d4c9ad29
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store-console
+Architecture: all
 Version: 4.2.12
 Priority: optional
 Section: utils
@@ -4273,6 +4294,24 @@ MD5sum: f7392fa16ca2494542c11d18f2b509f1
 SHA1: 0168ab1bd9e9ffd164f2b59bc2c2d76d0d476c44
 SHA256: a5a369ab90b6ff8829231cce870e2d8ae3d2c7cb6bd398ae941d453743daed25
 SHA512: 88da38bb4d175255b179ae8c79fefd54fa45ceed3e56567730dc8d2e474e715eacc9a9e097c9d7b16c5e44c266ecd145c30246887845ccbc0b6f46306eed58b6
+Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
+Description: Netease cloud music player.
+ Netease cloud music player.
+
+Package: netease-cloud-music
+Architecture: loong64
+Version: 1.2.1.1-fix1
+Priority: optional
+Section: utils
+Maintainer: 懵仙兔兔 <acgm@qq.com>
+Installed-Size: 10
+Depends: ace-bookworm-x86(>=12.4.11),bash,wget,sudo,libnotify-bin
+Filename: music/netease-cloud-music/netease-cloud-music_1.2.1.1-fix1_loong64.deb
+Size: 69875980
+MD5sum: 975243e5393a9a5a55b585c9813192b3
+SHA1: 46da03af15dadcb2b882b4c9b233c414d9c3eed7
+SHA256: 7a5016bd5c8f29d4793e1958e9be732261f5e7fec1c3ad0af3a6c0f9b3b1736e
+SHA512: 3cf8cce5cd62be749eae9a6aea61c13ba1edb1dea4fabc274ebc7861f782ad93f893a0292054b3a12a6a5ab9f8bf09ae5265bce6cdb94f4865e8b6579818c475
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: Netease cloud music player.
  Netease cloud music player.
