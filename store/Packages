@@ -4417,27 +4417,6 @@ Description: Debian 软件源分析工具
  .
  Build for Uos20 through spark-deb-build.
 
-Package: com.gitee.zinface-debian-apt-analyzer
-Architecture: amd64
-Version: 0.0.2-20240712
-Priority: optional
-Section: devel
-Maintainer: zinface <zinface@163.com>
-Installed-Size: 290
-Filename: tools/com.gitee.zinface-debian-apt-analyzer/com.gitee.zinface-debian-apt-analyzer_0.0.2-20240712_amd64.deb
-Size: 125196
-MD5sum: 290faef99069ccd16e4b87dfe8dcb4c3
-SHA1: 1fbc196a87870752f3ffc1852231a606b784fb12
-SHA256: 3810028ac2efed81053a880630227f955fb399ea5f6bd6a8312a0a0cb44eccbf
-SHA512: a378fc5d4e34a5a27c37d6648b7f12ef326011aa7beec4eaef924e5d5aced4c91ea04ff191a22f5357c8cc9ae977fc3343bce51d2c713c35ed502c8e65b2807f
-Homepage: https://gitee.com/zinface/qt.debian-apt-analyzer
-Description: Debian 软件源分析工具
- Debian软件源分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。
- .
- 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。
- .
- Build for Deepin20.9 through spark-deb-build.
-
 Package: com.github.crypter.spark
 Architecture: amd64
 Version: 4.0.0spark0
@@ -8413,24 +8392,6 @@ SHA256: 03138567e5ef96639261842f9999f9385c4f485bfd8c4adf4438809c346f26be
 SHA512: 3d29375a45da9105bc4c67cb0542516d02d91143ba26706b4fb6a5e6d47fa154e72b2c794fea10e554621d451fa0cbaf31f458eb1adec94c7eb6a316d4792ab5
 Homepage: https://blog.shenmo.tech
 Description: Prime run for deepin-prime
-
-Package: com.github.ccc-app-manager
-Architecture: amd64
-Version: 0.0.11
-Priority: optional
-Section: unknown
-Maintainer: keke <243768648@qq.com>
-Installed-Size: 488
-Depends: libc6 (>= 2.28), libgcc1 (>= 1:3.4), libgl1, libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4)
-Filename: tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.11_amd64.deb
-Size: 188260
-MD5sum: 9829c1ab52ef3f1d6d706637e2511cf6
-SHA1: c5c82429a0ac8bae625aa9b42e48237068742e36
-SHA256: e557580899f069e40f4bfd3c4d859e41526498663bfd7dc32feda57e8eaa38eb
-SHA512: 7806e0f1b2b87ed3693b79c94ddbe3f72f1e680a94025a9c887f3352a883673bb2de665a71edc042118080864d1a42052423f20012da3b4151178a3a484f39b7
-Homepage: https://gitee.com/ct243768648/ccc-app-manager
-Description: manage your applications.
- 应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包。支持deepin、uos系统。
 
 Package: com.github.ccc-app-manager
 Architecture: amd64
@@ -18255,27 +18216,6 @@ SHA256: 43097334f63d9ce54ad830001897c3f78fbcc5f357a5e836a10a1a3cab2a800f
 SHA512: a8e56819df59a839575d887a3a05b8bb676f4676139b4cceb62127ce8cec69cd35e92a31f3bc9fe580b3645a6324e5a5b8c2afc330403f35ed5b617d237caf4e
 Description: cloudar-electron
  A kind of tool that can be used to show comments, for bilibili only.
-
-Package: xmcl
-Architecture: amd64
-Version: 0.44.13-862
-Priority: optional
-Section: default
-Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 285247
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: games/xmcl/xmcl_0.44.13-862_amd64.deb
-Size: 79866298
-MD5sum: 4518bc592fbaa11ac7b6eae0832e91a8
-SHA1: 80ccf3c9efddfffb608c8971e960d0389e1c3139
-SHA256: c8b455cb3a6f45db077341527ab4bfd89bc88c015da581cf86e64a29fd390892
-SHA512: 34f187c94b1dd0db4105ec92a2262b551629fe0481fa45e27747fcd133e308e3cb7f8975dfbdb5f0674ac16eeb82f6da9cddc1e56085d70cbeec2a2efd14cf46
-Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
-Description: 
-  A great minecraft launcher in the future
-License: MIT
-Vendor: ci010 <cijhn@hotmail.com>
 
 Package: xmcl
 Architecture: amd64
