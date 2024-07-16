@@ -456,23 +456,6 @@
 }
 ,
 {
-    "Name": "GoLand",
-    "Version": "2024.1",
-    "Filename": "jetbrains-goland_2024.1_all.deb",
-    "Torrent_address": "jetbrains-goland_2024.1_all.deb.torrent",
-    "Pkgname": "jetbrains-goland",
-    "Author": "懵仙兔兔",
-    "Contributor": "懵仙兔兔",
-    "Website": "https://www.jetbrains.com/zh-cn/go/",
-    "Update": "2024-04-10 21:31:50",
-    "Size": "2.59 KB",
-    "More": "GoLand\n  A Go IDE with extended support for JavaScript, TypeScript, and databases\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/3a8cbdfddb1f44f988a7ed110308266d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab232604044f42948d274bc00ff3aa5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab01336670cc48fa9d7f6bea37e584ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/38bb3199b4b44a69a73ae0b4ad828d27.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/dd01ad51da544038b35930fb2a8c85e6.png"
-}
-,
-{
     "Name": "微信开发者工具 Linux版",
     "Version": "1.06.2405020-1",
     "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb",
@@ -487,6 +470,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/e55c0fdceb584602a3aa6899d7a27ee5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/51d2d517a4e043a09c06a115de49e2f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/2a00f563ad8140fd936cd563b76470da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/964c4f05f90644678f1e8a5804c93734.png"
+}
+,
+{
+    "Name": "GoLand",
+    "Version": "2024.1",
+    "Filename": "jetbrains-goland_2024.1_all.deb",
+    "Torrent_address": "jetbrains-goland_2024.1_all.deb.torrent",
+    "Pkgname": "jetbrains-goland",
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://www.jetbrains.com/zh-cn/go/",
+    "Update": "2024-04-10 21:31:50",
+    "Size": "2.59 KB",
+    "More": "GoLand\n  A Go IDE with extended support for JavaScript, TypeScript, and databases\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/3a8cbdfddb1f44f988a7ed110308266d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab232604044f42948d274bc00ff3aa5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/ab01336670cc48fa9d7f6bea37e584ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/38bb3199b4b44a69a73ae0b4ad828d27.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/dd01ad51da544038b35930fb2a8c85e6.png"
 }
 ,
 {
@@ -1338,6 +1338,23 @@
 }
 ,
 {
+    "Name": "SQLiteStudio",
+    "Version": "3.4.4spark0",
+    "Filename": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb",
+    "Torrent_address": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb.torrent",
+    "Pkgname": "com.github.sqlitestudio.spark",
+    "Author": "pawelsalawa",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/pawelsalawa/sqlitestudio/releases",
+    "Update": "2024-03-05 00:32:48",
+    "Size": "45.2 MB",
+    "More": "一款强大的 SQLite 数据库可视化工具，它可以帮助用户管理 SQLite 数据库，具有功能完善的 SQLite2 和 SQLite3 工具，视图编码支持 UTF-8，并且可以同时打开多个数据库文件。\n此外，SQLiteStudio 还支持查看和编辑二进制字段，并且支持多种导出数据格式，如 CSV、HTML、PLAIN、SQL、XML 等。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/880688a2a89b429ea32a6166427fe18a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/18f691a9920a4f8889a53c43a384a8a8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/75ecfa627abc46d19a87e679301b7127.png"
+}
+,
+{
     "Name": "编程猫源码编辑器",
     "Version": "3.7.14",
     "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
@@ -1369,23 +1386,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/5b9eedaafc534834b4be5f0f4d0d7a41.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/689d73d203ef400bb02e6d6adb038b91.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/874bfb71bf454466a8afbe83f04b77b2.png"
-}
-,
-{
-    "Name": "SQLiteStudio",
-    "Version": "3.4.4spark0",
-    "Filename": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb",
-    "Torrent_address": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb.torrent",
-    "Pkgname": "com.github.sqlitestudio.spark",
-    "Author": "pawelsalawa",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/pawelsalawa/sqlitestudio/releases",
-    "Update": "2024-03-05 00:32:48",
-    "Size": "45.2 MB",
-    "More": "一款强大的 SQLite 数据库可视化工具，它可以帮助用户管理 SQLite 数据库，具有功能完善的 SQLite2 和 SQLite3 工具，视图编码支持 UTF-8，并且可以同时打开多个数据库文件。\n此外，SQLiteStudio 还支持查看和编辑二进制字段，并且支持多种导出数据格式，如 CSV、HTML、PLAIN、SQL、XML 等。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/880688a2a89b429ea32a6166427fe18a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/18f691a9920a4f8889a53c43a384a8a8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/75ecfa627abc46d19a87e679301b7127.png"
 }
 ,
 {
@@ -1571,23 +1571,6 @@
 }
 ,
 {
-    "Name": "CP Editor",
-    "Version": "6.10.3",
-    "Filename": "cpeditor_6.10.3_amd64.deb",
-    "Torrent_address": "cpeditor_6.10.3_amd64.deb.torrent",
-    "Pkgname": "cpeditor",
-    "Author": "ouuan",
-    "Contributor": "图小贝",
-    "Website": "https://cpeditor.org/",
-    "Update": "2023-03-25 01:42:12",
-    "Size": "19.4 MB",
-    "More": "CP Editor 专为算法竞赛设计，不像其它 IDE 主要是为了开发设计的。它可以帮助你自动化编译、运行、测试，从而让你专注于算法设计。它甚至可以从各种算法竞赛网站上获取样例，将代码提交到 Codeforces 上！",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/9c8f0bedb2a9400a912a47d01eef6d75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/07ca6cee5307488ba59e2b36026e7507.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/25/7d71bedf20484f738e8e603b3b7b72b3.png"
-}
-,
-{
     "Name": "Ghidra",
     "Version": "10.4.0",
     "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
@@ -1602,6 +1585,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
+}
+,
+{
+    "Name": "CP Editor",
+    "Version": "6.10.3",
+    "Filename": "cpeditor_6.10.3_amd64.deb",
+    "Torrent_address": "cpeditor_6.10.3_amd64.deb.torrent",
+    "Pkgname": "cpeditor",
+    "Author": "ouuan",
+    "Contributor": "图小贝",
+    "Website": "https://cpeditor.org/",
+    "Update": "2023-03-25 01:42:12",
+    "Size": "19.4 MB",
+    "More": "CP Editor 专为算法竞赛设计，不像其它 IDE 主要是为了开发设计的。它可以帮助你自动化编译、运行、测试，从而让你专注于算法设计。它甚至可以从各种算法竞赛网站上获取样例，将代码提交到 Codeforces 上！",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/9c8f0bedb2a9400a912a47d01eef6d75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/25/07ca6cee5307488ba59e2b36026e7507.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/25/7d71bedf20484f738e8e603b3b7b72b3.png"
 }
 ,
 {
@@ -1706,23 +1706,6 @@
 }
 ,
 {
-    "Name": "Fritzing",
-    "Version": "0.9.10",
-    "Filename": "org.fritzing_0.9.10_amd64.deb",
-    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
-    "Pkgname": "org.fritzing",
-    "Author": "Fritzing",
-    "Contributor": "秦以南",
-    "Website": "https://fritzing.org/releases",
-    "Update": "2022-08-04 10:37:21",
-    "Size": "66.39 MB",
-    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
-    "Tags": "a2d;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
-}
-,
-{
     "Name": "quardCRT",
     "Version": "0.47",
     "Filename": "quardcrt_0.47_amd64.deb",
@@ -1737,6 +1720,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/53b630acf10c4fca9b2beeedc94750ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/3e3d4c468a2e4c76896e2c0b1d8e6437.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/6cd562c5f1d348c0927027773c24f81c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/34045cd57ca044ea965d182ba5039bbd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/170585db45904e539989e95bc6c85e3a.png"
+}
+,
+{
+    "Name": "Fritzing",
+    "Version": "0.9.10",
+    "Filename": "org.fritzing_0.9.10_amd64.deb",
+    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
+    "Pkgname": "org.fritzing",
+    "Author": "Fritzing",
+    "Contributor": "秦以南",
+    "Website": "https://fritzing.org/releases",
+    "Update": "2022-08-04 10:37:21",
+    "Size": "66.39 MB",
+    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
+    "Tags": "a2d;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
 }
 ,
 {

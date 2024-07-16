@@ -18,19 +18,19 @@
 ,
 {
     "Name": "星火应用管理器",
-    "Version": "0.0.11",
-    "Filename": "com.github.ccc-app-manager_0.0.11_amd64.deb",
-    "Torrent_address": "com.github.ccc-app-manager_0.0.11_amd64.deb.torrent",
+    "Version": "0.0.12",
+    "Filename": "com.github.ccc-app-manager_0.0.12_amd64.deb",
+    "Torrent_address": "com.github.ccc-app-manager_0.0.12_amd64.deb.torrent",
     "Pkgname": "com.github.ccc-app-manager",
     "Author": "keke <243768648@qq.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "keke <243768648@qq.com>",
     "Website": "https://gitee.com/ct243768648/ccc-app-manager",
-    "Update": "2023-08-07 15:50:19",
-    "Size": "183.85 KB",
-    "More": "应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包\n-------------------------------------\n新功能：\n1、连同依赖一起打包功能；\n2、应用列表排序功能",
+    "Update": "2024-07-15 21:04:48",
+    "Size": "186.39 KB",
+    "More": "应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包\n-------------------------------------\n新增：\n1、打开下载目录定位到已经下载的文件；\n修复：\n1、使用【离线获取安装包（带依赖）】生成的deb安装后快捷方式没有图标。",
     "Tags": "ubuntu;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/b94bad6f65c34f1c9a839e2c54046234.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/86926289be694296ad4cad163a8ffea5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/6f8977b328b844ffa5ccfac9cdbb867c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/aaca3dcf3fda41d390325ca9d07c7a21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/07/97b1f0d1ec294106a2ca79504d2f45ce.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/07/67548edc7d7b4fad9984dd4319d0d2fa.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/ba65b5927361498d939db7faff377e42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/ff5e704458ec410987ab0b8ee6fe289d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/546ce1bf64834c3c9978acebf942f494.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/c552baf88dd04ff8b896a07cf8692057.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/8ceca1de06cf43a8a2437c4dc03848a6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/15/edf963c16b1c483fa6ba895078b33a9a.png"
 }
 ,
 {
@@ -557,23 +557,6 @@
 }
 ,
 {
-    "Name": "星火商店投稿器",
-    "Version": "1.5.6.4-20240407",
-    "Filename": "spark-store-submitter_1.5.6.4-20240407_amd64.deb",
-    "Torrent_address": "spark-store-submitter_1.5.6.4-20240407_amd64.deb.torrent",
-    "Pkgname": "spark-store-submitter",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
-    "Update": "2024-04-07 11:00:20",
-    "Size": "3.26 MB",
-    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容\n2023/11/07: 采用 dpkg 版本号比较功能精确处理 v100 > v99 的情况\n2023/11/16: 禁用 Gnome 的 dark 主题适配(原因不详)\n2024/01/08: 前端面板全面提升为动态控件\n2024/04/07: 解决系统暗夜主题下文字颜色问题(全面禁用主题适配)",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/fcc4fd4872144fbcaa99640e5f720c73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/1572316714a548418677f71776d85386.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/2d983e030f604302a926dbf3f8e82316.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/79336b7a150449578cf238a6b6eccca9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/507c1b3eb13b4c5e8bbfa41b8b6320b0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/07/60a2289cf0244847b7e00d5c22cf651b.png"
-}
-,
-{
     "Author": "DebuggerX <dx8913712@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.debuggerx.fcitx5-customizer_1.0.6_all.deb",
@@ -590,6 +573,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
 }
 
+,
+{
+    "Name": "星火商店投稿器",
+    "Version": "1.5.6.4-20240407",
+    "Filename": "spark-store-submitter_1.5.6.4-20240407_amd64.deb",
+    "Torrent_address": "spark-store-submitter_1.5.6.4-20240407_amd64.deb.torrent",
+    "Pkgname": "spark-store-submitter",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/deepin-community-store/dcs-submitter",
+    "Update": "2024-04-07 11:00:20",
+    "Size": "3.26 MB",
+    "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n2023/07/06: 在主面板右上角 + 部分增加右击添加默认空图标功能\n2023/08/31: 前端面板加入长文本编辑器实现，双击应用介绍框可弹出\n2023/09/12: 使用 Cdn 扫描方式实现根据包名查询应用信息(原接口过时)\n2023/11/06: 正式开始支持 DDE/KDE 桌面环境 dart 主题模式兼容\n2023/11/07: 采用 dpkg 版本号比较功能精确处理 v100 > v99 的情况\n2023/11/16: 禁用 Gnome 的 dark 主题适配(原因不详)\n2024/01/08: 前端面板全面提升为动态控件\n2024/04/07: 解决系统暗夜主题下文字颜色问题(全面禁用主题适配)",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/fcc4fd4872144fbcaa99640e5f720c73.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/1572316714a548418677f71776d85386.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/2d983e030f604302a926dbf3f8e82316.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/79336b7a150449578cf238a6b6eccca9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/07/507c1b3eb13b4c5e8bbfa41b8b6320b0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/07/60a2289cf0244847b7e00d5c22cf651b.png"
+}
 ,
 {
     "Name": "玲珑应用商店",
@@ -806,23 +806,6 @@
 }
 ,
 {
-    "Name": "WIFI热点",
-    "Version": "4.5.0",
-    "Filename": "linux-wifi-hotspot_4.5.0_amd64.deb",
-    "Torrent_address": "linux-wifi-hotspot_4.5.0_amd64.deb.torrent",
-    "Pkgname": "linux-wifi-hotspot",
-    "Author": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
-    "Contributor": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
-    "Website": "https://github.com/lakinduakash/linux-wifi-hotspot",
-    "Update": "2023-08-21 08:34:10",
-    "Size": "81.78 KB",
-    "More": "功能丰富的虚拟wifi热点创建工具，适用于Linux，同时提供GUI和命令行界面。 它能够使用已连接wifi网络的同一块无线网卡虚拟出一块无线网卡，然后创建一个新的虚拟wifi热点（类似于Windows 10可实现的功能，或者类似猎豹虚拟wifi软件工具）。部分网卡下可能无法启用。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/9696ea8ff5594c6ab8bca13f5c70badf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/a30efa547fe647c6a1ec9f63d5f192ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/21/b386e66dfe804fa29f2157f360c712ba.png"
-}
-,
-{
     "Name": "豌豆荚（UEngine）",
     "Version": "8.2.0.1",
     "Filename": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb",
@@ -837,6 +820,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/ec2010ba18e14327a0afbd574bbb7637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e4653284d1434328a6acfe33c0476483.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/726b6630c52649b8ad98c9f174cc1048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/405b3c0c71ce47a4b5d43017ddb654a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e8292bae7642433490f74a51cc5c77f6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/17/b8090e5ec61d4703b2236b1cc7e2491e.png"
+}
+,
+{
+    "Name": "WIFI热点",
+    "Version": "4.5.0",
+    "Filename": "linux-wifi-hotspot_4.5.0_amd64.deb",
+    "Torrent_address": "linux-wifi-hotspot_4.5.0_amd64.deb.torrent",
+    "Pkgname": "linux-wifi-hotspot",
+    "Author": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
+    "Contributor": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
+    "Website": "https://github.com/lakinduakash/linux-wifi-hotspot",
+    "Update": "2023-08-21 08:34:10",
+    "Size": "81.78 KB",
+    "More": "功能丰富的虚拟wifi热点创建工具，适用于Linux，同时提供GUI和命令行界面。 它能够使用已连接wifi网络的同一块无线网卡虚拟出一块无线网卡，然后创建一个新的虚拟wifi热点（类似于Windows 10可实现的功能，或者类似猎豹虚拟wifi软件工具）。部分网卡下可能无法启用。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/9696ea8ff5594c6ab8bca13f5c70badf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/21/a30efa547fe647c6a1ec9f63d5f192ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/21/b386e66dfe804fa29f2157f360c712ba.png"
 }
 ,
 {
@@ -2230,23 +2230,6 @@
 }
 ,
 {
-    "Name": "pacapt--Arch用户的福音",
-    "Version": "3.0.7.2",
-    "Filename": "pacapt_3.0.7.2_all.deb",
-    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
-    "Pkgname": "pacapt",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://github.com/icy/pacapt",
-    "Update": "2023-01-01 13:16:19",
-    "Size": "13.67 KB",
-    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
-}
-,
-{
     "Name": "速享 局域网文件分享",
     "Version": "1.3.1-1",
     "Filename": "speed-share_1.3.1-1_amd64.deb",
@@ -2261,6 +2244,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/a99dfdfb-bb09-4c15-9239-85a09a955d35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/3d6d9328-a381-4105-b046-5c96ae64218a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/03545a03-e7b1-4650-b708-c5ff785d61c4.png"
+}
+,
+{
+    "Name": "pacapt--Arch用户的福音",
+    "Version": "3.0.7.2",
+    "Filename": "pacapt_3.0.7.2_all.deb",
+    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
+    "Pkgname": "pacapt",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://github.com/icy/pacapt",
+    "Update": "2023-01-01 13:16:19",
+    "Size": "13.67 KB",
+    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
 }
 ,
 {
@@ -2600,23 +2600,6 @@
 }
 ,
 {
-    "Name": "超级工具箱（xjavafxtools）",
-    "Version": "0.3.2",
-    "Filename": "xjavafxtool_0.3.2_amd64.deb",
-    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
-    "Pkgname": "xjavafxtool",
-    "Author": "xwintop",
-    "Contributor": "shenmo",
-    "Website": "https://gitee.com/xwintop/xJavaFxTool",
-    "Update": "2022-08-21 16:47:39",
-    "Size": "85.82 MB",
-    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
-}
-,
-{
     "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
     "Version": "10.0.9.0.8-903spark1",
     "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
@@ -2631,6 +2614,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
+    "Name": "超级工具箱（xjavafxtools）",
+    "Version": "0.3.2",
+    "Filename": "xjavafxtool_0.3.2_amd64.deb",
+    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
+    "Pkgname": "xjavafxtool",
+    "Author": "xwintop",
+    "Contributor": "shenmo",
+    "Website": "https://gitee.com/xwintop/xJavaFxTool",
+    "Update": "2022-08-21 16:47:39",
+    "Size": "85.82 MB",
+    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
 }
 ,
 {
@@ -2699,6 +2699,23 @@
 }
 ,
 {
+    "Name": "finalshell",
+    "Version": "4.3.10",
+    "Filename": "finalshell_4.3.10_amd64.deb",
+    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
+    "Pkgname": "finalshell",
+    "Author": "HOSTBUF",
+    "Contributor": "GH-ShanBao",
+    "Website": "znjs.asia",
+    "Update": "2024-04-21 12:19:08",
+    "Size": "89.68 MB",
+    "More": "finalshell_linux_x64.deb\n",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/41947650-ff96-11ee-b5ae-a318306da881.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/35b22a30-ff96-11ee-b5ae-a318306da881.png"
+}
+,
+{
     "Name": "通知中心天气小组件",
     "Version": "0.1-1",
     "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
@@ -2730,23 +2747,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/52346f20-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5236e020-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5237f190-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5235a7a0-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5238b4e0-ca70-11ee-b382-01f3b3a087f2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/13/3f5a3b50-ca70-11ee-b382-01f3b3a087f2.png"
-}
-,
-{
-    "Name": "finalshell",
-    "Version": "4.3.10",
-    "Filename": "finalshell_4.3.10_amd64.deb",
-    "Torrent_address": "finalshell_4.3.10_amd64.deb.torrent",
-    "Pkgname": "finalshell",
-    "Author": "HOSTBUF",
-    "Contributor": "GH-ShanBao",
-    "Website": "znjs.asia",
-    "Update": "2024-04-21 12:19:08",
-    "Size": "89.68 MB",
-    "More": "finalshell_linux_x64.deb\n",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/41947650-ff96-11ee-b5ae-a318306da881.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/35b22a30-ff96-11ee-b5ae-a318306da881.png"
 }
 ,
 {
@@ -2882,6 +2882,23 @@
 }
 ,
 {
+    "Name": "局域网文件分享LANShare",
+    "Version": "1.0.0",
+    "Filename": "com.linux-apps.lanshare_1.0.0_amd64.deb",
+    "Torrent_address": "com.linux-apps.lanshare_1.0.0_amd64.deb.torrent",
+    "Pkgname": "com.linux-apps.lanshare",
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.linux-apps.com/p/1252991",
+    "Update": "2023-08-08 09:42:11",
+    "Size": "13.37 MB",
+    "More": "快速在局域网间传输文件",
+    "Tags": "community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/26522e341b95469988119147e14d057c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/c2fbb5c4b55b4b739acef706d1b2dff3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/3cb1607e5d7c424ea3c7fbbc1407de64.png"
+}
+,
+{
     "Name": "卡片视界",
     "Version": "1.0.0",
     "Filename": "cn.miaoys.desktop.widgets_1.0.0_amd64.deb",
@@ -2913,23 +2930,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/12d5aa9c4fd540f0b57820a6f7cd5b49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/4e1ba25212a54e769559681a94df3cc4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/23/b05fabf84ae844689a813c4f39997047.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/23/0d447084dca94781bb2e003644ac3e78.png"
-}
-,
-{
-    "Name": "局域网文件分享LANShare",
-    "Version": "1.0.0",
-    "Filename": "com.linux-apps.lanshare_1.0.0_amd64.deb",
-    "Torrent_address": "com.linux-apps.lanshare_1.0.0_amd64.deb.torrent",
-    "Pkgname": "com.linux-apps.lanshare",
-    "Author": "spark-store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.linux-apps.com/p/1252991",
-    "Update": "2023-08-08 09:42:11",
-    "Size": "13.37 MB",
-    "More": "快速在局域网间传输文件",
-    "Tags": "community;ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/26522e341b95469988119147e14d057c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/c2fbb5c4b55b4b739acef706d1b2dff3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/3cb1607e5d7c424ea3c7fbbc1407de64.png"
 }
 ,
 {
@@ -3354,23 +3354,6 @@
 }
 ,
 {
-    "Name": "NTPWEdit（Wine）",
-    "Version": "1.0.0",
-    "Filename": "com.ntpwedit.spark_1.0.0_i386.deb",
-    "Torrent_address": "com.ntpwedit.spark_1.0.0_i386.deb.torrent",
-    "Pkgname": "com.ntpwedit.spark",
-    "Author": "NTPWEdit开发者",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "http://www.cdslow.org.ru/en/ntpwedit/",
-    "Update": "2022-12-31 17:15:36",
-    "Size": "8.22 MB",
-    "More": "常用的 Windows 密码破解工具",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c3e58599b4fc45a496935b648c221ed1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/d308f74d65e34fe0b47342c9ef5612ac.png"
-}
-,
-{
     "Name": "FontBase",
     "Version": "2.17.5spark1",
     "Filename": "se.fontbase.spark_2.17.5spark1_amd64.deb",
@@ -3388,23 +3371,6 @@
 }
 ,
 {
-    "Name": "文件加密",
-    "Version": "1.1",
-    "Filename": "mycrypto_1.1_amd64.deb",
-    "Torrent_address": "mycrypto_1.1_amd64.deb.torrent",
-    "Pkgname": "mycrypto",
-    "Author": "MMHMM <1982552008@qq.com>",
-    "Contributor": "MMHMM <1982552008@qq.com>",
-    "Website": "https://gitee.com/rocket049/mycrypto",
-    "Update": "2023-01-25 15:16:06",
-    "Size": "27.77 MB",
-    "More": "用 AES256 算法加密、解密文件，支持Linux、Windows。\nMyCrypto-QT用于加密、解密文件，主要用于网络传输文件时防止泄密。\n加密后的文件可以放心的存放到网盘上。\n加密后的文件可以放心的使用电子邮件、QQ、微信等社交工具发送给朋友。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
-}
-,
-{
     "Name": "Deepin 壁纸设置工具(此包仅限v23可用)",
     "Version": "0.1",
     "Filename": "deepin-wallpaper-quiksetting_0.1_amd64.deb",
@@ -3419,6 +3385,57 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/22/cf8d5a9e62d341a0b2808f611bc59135.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/22/70c07c0a3d5b492dac57e8f6e334e4de.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/22/8cb6076572c442fa8ea76f48450e0427.png"
+}
+,
+{
+    "Name": "NTPWEdit（Wine）",
+    "Version": "1.0.0",
+    "Filename": "com.ntpwedit.spark_1.0.0_i386.deb",
+    "Torrent_address": "com.ntpwedit.spark_1.0.0_i386.deb.torrent",
+    "Pkgname": "com.ntpwedit.spark",
+    "Author": "NTPWEdit开发者",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "http://www.cdslow.org.ru/en/ntpwedit/",
+    "Update": "2022-12-31 17:15:36",
+    "Size": "8.22 MB",
+    "More": "常用的 Windows 密码破解工具",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c3e58599b4fc45a496935b648c221ed1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/d308f74d65e34fe0b47342c9ef5612ac.png"
+}
+,
+{
+    "Name": "AppImageHub 简易搜索工具",
+    "Version": "0.0.1-20231206",
+    "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
+    "Torrent_address": "appimage-hub-search_0.0.1-20231206_amd64.deb.torrent",
+    "Pkgname": "appimage-hub-search",
+    "Author": "Individual developer <packages@email.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.appimage-hub-search",
+    "Update": "2023-12-06 18:08:31",
+    "Size": "22.66 KB",
+    "More": "用于查看AppimageHub的软件信息\n .\n 其它说明行部分;\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
+}
+,
+{
+    "Name": "文件加密",
+    "Version": "1.1",
+    "Filename": "mycrypto_1.1_amd64.deb",
+    "Torrent_address": "mycrypto_1.1_amd64.deb.torrent",
+    "Pkgname": "mycrypto",
+    "Author": "MMHMM <1982552008@qq.com>",
+    "Contributor": "MMHMM <1982552008@qq.com>",
+    "Website": "https://gitee.com/rocket049/mycrypto",
+    "Update": "2023-01-25 15:16:06",
+    "Size": "27.77 MB",
+    "More": "用 AES256 算法加密、解密文件，支持Linux、Windows。\nMyCrypto-QT用于加密、解密文件，主要用于网络传输文件时防止泄密。\n加密后的文件可以放心的存放到网盘上。\n加密后的文件可以放心的使用电子邮件、QQ、微信等社交工具发送给朋友。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
 }
 ,
 {
@@ -3453,23 +3470,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/52c122215788412db4e7d19c7f968024.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9b10f4a025d0416696859e7bcfe4ef17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/59a26424738949ad952bfe289cd310c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/3e312b1340b640e886d0de21ae3776d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/929c40b764a34ce9b8caa3be6d84d7c1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/6676aad26f7549f68007e1a069650b9a.png"
-}
-,
-{
-    "Name": "AppImageHub 简易搜索工具",
-    "Version": "0.0.1-20231206",
-    "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
-    "Torrent_address": "appimage-hub-search_0.0.1-20231206_amd64.deb.torrent",
-    "Pkgname": "appimage-hub-search",
-    "Author": "Individual developer <packages@email.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.appimage-hub-search",
-    "Update": "2023-12-06 18:08:31",
-    "Size": "22.66 KB",
-    "More": "用于查看AppimageHub的软件信息\n .\n 其它说明行部分;\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
 }
 ,
 {
@@ -4044,23 +4044,6 @@
 }
 ,
 {
-    "Name": "GtkHash-哈希计算工具",
-    "Version": "1.5-1",
-    "Filename": "gtkhash_1.5-1_amd64.deb",
-    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
-    "Pkgname": "gtkhash",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Website": "https://gtkhash.org",
-    "Update": "2024-05-04 14:05:47",
-    "Size": "113.28 KB",
-    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
-}
-,
-{
     "Name": "Caesium Image Compressor",
     "Version": "2.7.0spark2",
     "Filename": "com.github.caesium-image-compressor.spark_2.7.0spark2_all.deb",
@@ -4075,6 +4058,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/64dbe3af88044995befc21feb654fbf8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/a9c8ffd5a9154b2ba03b44d613dd5c3c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/e320b72570f34089a30f44a95f64d6da.png"
+}
+,
+{
+    "Name": "GtkHash-哈希计算工具",
+    "Version": "1.5-1",
+    "Filename": "gtkhash_1.5-1_amd64.deb",
+    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
+    "Pkgname": "gtkhash",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Website": "https://gtkhash.org",
+    "Update": "2024-05-04 14:05:47",
+    "Size": "113.28 KB",
+    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
 ,
 {
@@ -4671,6 +4671,23 @@
 }
 ,
 {
+    "Name": "Debian 软件仓库分析工具",
+    "Version": "0.0.5-20240715",
+    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.5-20240715_amd64.deb",
+    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.5-20240715_amd64.deb.torrent",
+    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
+    "Update": "2024-07-15 17:55:25",
+    "Size": "133.5 KB",
+    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/76eab2e859d14c239481b92bce04b2cd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/a7f7665d16bf4591bf9fad8dcb2062e8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/15/2b2fbf6c7e8d4d3fa12d6c8d1bc39b3c.png"
+}
+,
+{
     "Name": "ARCHPR 压缩文件密码破解",
     "Version": "4.66.266spark1",
     "Filename": "com.elcomsoft.deepin_4.66.266spark1_all.deb",
@@ -4791,23 +4808,6 @@
 
 ,
 {
-    "Name": "Debian 软件仓库分析工具",
-    "Version": "0.0.2-20240712",
-    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.2-20240712_amd64.deb",
-    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.2-20240712_amd64.deb.torrent",
-    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
-    "Update": "2024-07-12 16:02:21",
-    "Size": "122.26 KB",
-    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/4c18596fe2ec452abbf0edc0b644a8f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/025784a712e5463f817cff05dd2122c4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/bb5f5195a803487993266b89734e31ab.png"
-}
-,
-{
     "Name": "LemonLime轻量化评测系统",
     "Version": "0.3.4",
     "Filename": "lemonlime_0.3.4_amd64.deb",
@@ -4924,6 +4924,23 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3b5c6390-d82a-11ed-96e3-3560d378947d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3ba4de40-d82a-11ed-96e3-3560d378947d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/11/79969090-d82a-11ed-96e3-3560d378947d.png"
+}
+,
+{
+    "Name": "deepin 终端（deepin 15 经典版本）",
+    "Version": "5.0.4.3gxde2",
+    "Filename": "deepin-terminal-gtk_5.0.4.3gxde2_amd64.deb",
+    "Torrent_address": "deepin-terminal-gtk_5.0.4.3gxde2_amd64.deb.torrent",
+    "Pkgname": "deepin-terminal-gtk",
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/linuxdeepin/deepin-terminal-gtk",
+    "Update": "2024-07-16 12:01:36",
+    "Size": "355.45 KB",
+    "More": "deepin 终端（deepin 15 经典版本） \n支持与现在的 deepin 终端共存\n支持 deepin23",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/f19f5bf4b94740dead9b81f83cc3b672.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/6e726ee391b943d98a7e4cad41e6f5d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/ece3eaeded6a41f1a0959b90e0c42512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/76bbc5fd83eb48caace2e21775fddcca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/5ff5a65b9b7c4ca3badf0c191486f9cf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/16/ff627751505a4170859f93d4d3343d1c.png"
 }
 ,
 {
