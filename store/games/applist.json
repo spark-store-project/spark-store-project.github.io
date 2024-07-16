@@ -418,22 +418,6 @@
 
 ,
 {
-    "Name": "网易云游戏",
-    "Version": "1.6",
-    "Filename": "netease-cloudgame_1.6_amd64.deb",
-    "Pkgname": "netease-cloudgame",
-    "Author": "Netease",
-    "Contributor": "shenmo",
-    "Website": "https://cg.163.com/",
-    "Update": "2020-11-29 02:56:20",
-    "Size": "16.2 KB",
-    "More": "网易云游戏，使用swrt（星火网络应用运行环境）打包\n网易游戏推出的云游戏服务平台,通过平台的云游戏技术和服务器资源让玩家畅玩游戏",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6eddf6f0-31ee-11eb-925d-efd5cbd72767.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6ee43880-31ee-11eb-925d-efd5cbd72767.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6f395d60-31ee-11eb-925d-efd5cbd72767.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6f347b60-31ee-11eb-925d-efd5cbd72767.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/29/47f0c130-31ee-11eb-925d-efd5cbd72767.png"
-}
-,
-{
     "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
     "Version": "2.1spark1",
     "Filename": "com.pvzhz.spark_2.1spark1_all.deb",
@@ -448,6 +432,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/37c7c4db6ea44127a9c3a2e2b5655dd1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/8b5badd083eb499d856a3f4e70722361.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/ca608de1276f4a01843b4b489afc945e.png"
+}
+,
+{
+    "Name": "网易云游戏",
+    "Version": "1.6",
+    "Filename": "netease-cloudgame_1.6_amd64.deb",
+    "Pkgname": "netease-cloudgame",
+    "Author": "Netease",
+    "Contributor": "shenmo",
+    "Website": "https://cg.163.com/",
+    "Update": "2020-11-29 02:56:20",
+    "Size": "16.2 KB",
+    "More": "网易云游戏，使用swrt（星火网络应用运行环境）打包\n网易游戏推出的云游戏服务平台,通过平台的云游戏技术和服务器资源让玩家畅玩游戏",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6eddf6f0-31ee-11eb-925d-efd5cbd72767.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6ee43880-31ee-11eb-925d-efd5cbd72767.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6f395d60-31ee-11eb-925d-efd5cbd72767.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/29/6f347b60-31ee-11eb-925d-efd5cbd72767.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/29/47f0c130-31ee-11eb-925d-efd5cbd72767.png"
 }
 ,
 {
@@ -1290,6 +1290,23 @@
 }
 ,
 {
+    "Name": "三维弹球(Linux)",
+    "Version": "2.0.1",
+    "Filename": "com.spacecadetpinball.deepin_2.0.1_amd64.deb",
+    "Torrent_address": "com.spacecadetpinball.deepin_2.0.1_amd64.deb.torrent",
+    "Pkgname": "com.spacecadetpinball.deepin",
+    "Author": "gtjdoctor@163.com",
+    "Contributor": "gtjdoctor@163.com",
+    "Website": "https://github.com/k4zmu2a/SpaceCadetPinball",
+    "Update": "2023-04-13 22:29:57",
+    "Size": "1.43 MB",
+    "More": "三维弹球:太空军校生",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/605bd90ccb604cc0a35720cb97be80a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/0db7f9c6736a48e6b73ac26b9b512a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/41df8651b5f243d98a9646ef2e7ebc8a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/6605a19d8ac543d2a24bfe3e1b4989fe.png"
+}
+,
+{
    "Name":"蒙特祖玛的宝藏2（wine）",
    "Version":"1.0.0.1spark0",
    "Filename":"treasures-of-montezuma2.spark_1.0.0.1spark0_i386.deb",
@@ -1318,23 +1335,6 @@
     "Tags": "deepin;dwine5;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a08aa90-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a1d4400-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a342760-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a490ef0-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a612ad0-07b1-11ee-98df-97343b921590.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fc71f7b0-07b0-11ee-98df-97343b921590.png"
-}
-,
-{
-    "Name": "三维弹球(Linux)",
-    "Version": "2.0.1",
-    "Filename": "com.spacecadetpinball.deepin_2.0.1_amd64.deb",
-    "Torrent_address": "com.spacecadetpinball.deepin_2.0.1_amd64.deb.torrent",
-    "Pkgname": "com.spacecadetpinball.deepin",
-    "Author": "gtjdoctor@163.com",
-    "Contributor": "gtjdoctor@163.com",
-    "Website": "https://github.com/k4zmu2a/SpaceCadetPinball",
-    "Update": "2023-04-13 22:29:57",
-    "Size": "1.43 MB",
-    "More": "三维弹球:太空军校生",
-    "Tags": "deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/605bd90ccb604cc0a35720cb97be80a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/0db7f9c6736a48e6b73ac26b9b512a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/41df8651b5f243d98a9646ef2e7ebc8a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/6605a19d8ac543d2a24bfe3e1b4989fe.png"
 }
 ,
 {
@@ -1638,20 +1638,20 @@
 }
 ,
 {
-    "Name": "X Minecraft Launcher",
-    "Version": "0.44.13-862",
-    "Filename": "xmcl_0.44.13-862_amd64.deb",
-    "Torrent_address": "xmcl_0.44.13-862_amd64.deb.torrent",
+    "Name": "X Minecraft Launcher(XMCL)",
+    "Version": "0.44.14-873",
+    "Filename": "xmcl_0.44.14-873_amd64.deb",
+    "Torrent_address": "xmcl_0.44.14-873_amd64.deb.torrent",
     "Pkgname": "xmcl",
     "Author": "ci010 <cijhn@hotmail.com>",
-    "Contributor": "ci010 <cijhn@hotmail.com>",
-    "Website": "https://xmcl.app/",
-    "Update": "2024-07-10 23:35:41",
-    "Size": "76.17 MB",
-    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。",
+    "Contributor": "Love-in-idleness <3499847908@qq.com>",
+    "Website": "https://github.com/voxelum/x-minecraft-launcher#readme",
+    "Update": "2024-07-16 18:05:12",
+    "Size": "76.21 MB",
+    "More": "X Minecraft Launcher (XMCL) 是一个方便你管理大量的整合包，模组，资源包，光影包的的现代化启动器。它对 Minecraft Forge，Fabric，Quilt，Curseforge 和 Modrinth 都有内置支持。\n\n投递者注：为避免权限问题，请不要使用内置的软件更新器",
     "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/10/3f550d1baab44cbdbc08e96706a71736.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/10/8e116dec713644948da5d8e536e42e52.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/10/5a2b19e276fc4d8b938adec44016dab4.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/10/e68739f9974d41a590106c7363313dd6.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/d36a59ddf6b14cb8b4b3989a6e1abc33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/7f3fcdea10b04bcf894e933bc6435ac7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/56d7cb9c37ca4a65bd0e7cb7055d494c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/16/34f606be6a454f1389994dc3f3f43ad1.png"
 }
 ,
 {
@@ -3254,6 +3254,23 @@
 }
 ,
 {
+    "Name": "植物大战僵尸娘化版",
+    "Version": "1.0.2.56spark0",
+    "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
+    "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
+    "Pkgname": "com.pgvz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://space.bilibili.com/20530305",
+    "Update": "2024-06-30 07:00:15",
+    "Size": "356.24 MB",
+    "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
+}
+,
+{
     "Name": "海滨赛车挑战",
     "Version": "1.0spark0",
     "Filename": "com.oceandrivechallenge.spark_1.0spark0_amd64.deb",
@@ -3336,23 +3353,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/f34c0e0bff1449f5a9cff3dda6a150d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/419dbf53e4d2416882d630b0e375e397.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/bd58cbf77cfc4244a6c9bd597aeefbac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/d1056559e46943119e520a2f6d333a9d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/994551f213844664805b2063918f4fe4.png"
-}
-,
-{
-    "Name": "植物大战僵尸娘化版",
-    "Version": "1.0.2.56spark0",
-    "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
-    "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
-    "Pkgname": "com.pgvz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://space.bilibili.com/20530305",
-    "Update": "2024-06-30 07:00:15",
-    "Size": "356.24 MB",
-    "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
 }
 ,
 {
@@ -3543,6 +3543,23 @@
 }
 ,
 {
+    "Name": "人体保卫战",
+    "Version": "1.0.0",
+    "Filename": "com.defendyourlife.spark_1.0.0_all.deb",
+    "Torrent_address": "com.defendyourlife.spark_1.0.0_all.deb.torrent",
+    "Pkgname": "com.defendyourlife.spark",
+    "Author": "aldagames",
+    "Contributor": "John12138",
+    "Website": "https://defendyourlife.aldagames.com/",
+    "Update": "2023-07-23 10:24:32",
+    "Size": "576.3 MB",
+    "More": "本次更新使用deepin-wine6-stable重新打包\n1、《人体保卫战》（Defend Your Life）是一款以身体题材为主题的塔防游戏，要知道人体内的自身免疫系统本身就是一道防御线，白细胞就在做着安全卫士的角色，抵抗者各类疾病。在这款游戏中，各种病菌就是敌人，我们按照人体的各个部位的情况摆好防御箭塔，比如弯曲的肠道保卫战等等。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/f0cebab8ae384b2787d18e2af07ce267.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/5465701ca92d4a3e8c36714a52fb255e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/8d241c1bc5894c5989af30c538c3b740.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/41ce14fe265c401c80d71a09fb72788f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/e17bb6afd18941a286963da5eaa734b9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/23/4196fb99a61248ae8df05845c47974b4.png"
+}
+,
+{
     "Name": "鬼影：地狱降临",
     "Version": "1.0spark0",
     "Filename": "com.thehaunted-hellsreach.spark_1.0spark0_all.deb",
@@ -3574,23 +3591,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/c848111f31f741b4bf69ba308dc39b39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/114f80ceba4d44a4875a60fd94b7ce82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/77553f6fbea74a88b2312e71757acc83.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/11/dc81138908b04334b55bf5b5e286ae64.png"
-}
-,
-{
-    "Name": "人体保卫战",
-    "Version": "1.0.0",
-    "Filename": "com.defendyourlife.spark_1.0.0_all.deb",
-    "Torrent_address": "com.defendyourlife.spark_1.0.0_all.deb.torrent",
-    "Pkgname": "com.defendyourlife.spark",
-    "Author": "aldagames",
-    "Contributor": "John12138",
-    "Website": "https://defendyourlife.aldagames.com/",
-    "Update": "2023-07-23 10:24:32",
-    "Size": "576.3 MB",
-    "More": "本次更新使用deepin-wine6-stable重新打包\n1、《人体保卫战》（Defend Your Life）是一款以身体题材为主题的塔防游戏，要知道人体内的自身免疫系统本身就是一道防御线，白细胞就在做着安全卫士的角色，抵抗者各类疾病。在这款游戏中，各种病菌就是敌人，我们按照人体的各个部位的情况摆好防御箭塔，比如弯曲的肠道保卫战等等。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/f0cebab8ae384b2787d18e2af07ce267.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/5465701ca92d4a3e8c36714a52fb255e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/8d241c1bc5894c5989af30c538c3b740.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/41ce14fe265c401c80d71a09fb72788f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/23/e17bb6afd18941a286963da5eaa734b9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/23/4196fb99a61248ae8df05845c47974b4.png"
 }
 ,
 {

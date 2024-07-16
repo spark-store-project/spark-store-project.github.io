@@ -1797,22 +1797,6 @@
 }
 ,
 {
-    "Name": "radeontop",
-    "Version": "1.3-1",
-    "Filename": "radeontop_1.3-1_amd64.deb",
-    "Pkgname": "radeontop",
-    "Author": "clbr",
-    "Contributor": "RubbishZhYic",
-    "Website": "https://github.com/clbr/radeontop",
-    "Update": "2020-12-19 03:48:51",
-    "Size": "19.63 KB",
-    "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
-}
-,
-{
     "Name": "WinSCP",
     "Version": "6.1.2Spark0",
     "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
@@ -1844,6 +1828,22 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
+}
+,
+{
+    "Name": "radeontop",
+    "Version": "1.3-1",
+    "Filename": "radeontop_1.3-1_amd64.deb",
+    "Pkgname": "radeontop",
+    "Author": "clbr",
+    "Contributor": "RubbishZhYic",
+    "Website": "https://github.com/clbr/radeontop",
+    "Update": "2020-12-19 03:48:51",
+    "Size": "19.63 KB",
+    "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
 }
 ,
 {
@@ -2015,6 +2015,22 @@
 }
 ,
 {
+    "Name": "guiscrcpy",
+    "Version": "3.9.3",
+    "Filename": "guiscrcpy_3.9.3_amd64.deb",
+    "Pkgname": "guiscrcpy",
+    "Author": "guiscrcpy",
+    "Contributor": "shenmo",
+    "Website": "https://gitee.com/deepin-opensource/guiscrcpy",
+    "Update": "2020-09-16 12:36:42",
+    "Size": "102.27 MB",
+    "More": "非常好用的一款手机投屏工具",
+    "tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/16/36dc2300-f7d6-11ea-92e2-f908c3a7711e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/16/232598f0-f7d6-11ea-92e2-f908c3a7711e.png"
+}
+,
+{
     "Name": "简易桌面悬浮时钟",
     "Version": "2.0.0",
     "Filename": "floatclock_2.0.0_amd64.deb",
@@ -2062,22 +2078,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
-}
-,
-{
-    "Name": "guiscrcpy",
-    "Version": "3.9.3",
-    "Filename": "guiscrcpy_3.9.3_amd64.deb",
-    "Pkgname": "guiscrcpy",
-    "Author": "guiscrcpy",
-    "Contributor": "shenmo",
-    "Website": "https://gitee.com/deepin-opensource/guiscrcpy",
-    "Update": "2020-09-16 12:36:42",
-    "Size": "102.27 MB",
-    "More": "非常好用的一款手机投屏工具",
-    "tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/16/36dc2300-f7d6-11ea-92e2-f908c3a7711e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/16/232598f0-f7d6-11ea-92e2-f908c3a7711e.png"
 }
 ,
 {
@@ -2682,23 +2682,6 @@
 
 ,
 {
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
-}
-,
-{
     "Name": "finalshell",
     "Version": "4.3.10",
     "Filename": "finalshell_4.3.10_amd64.deb",
@@ -2730,6 +2713,23 @@
     "Tags": "community;deepin;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
+}
+,
+{
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 ,
 {
@@ -2766,6 +2766,23 @@
 }
 ,
 {
+    "Name": "希沃白板5",
+    "Version": "5.2.1.0.7942.2a6",
+    "Filename": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb",
+    "Torrent_address": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb.torrent",
+    "Pkgname": "com.seewo.easinote5",
+    "Author": "广州视睿电子科技有限公司",
+    "Contributor": "tayasui_lime",
+    "Website": "https://www.seewo.com",
+    "Update": "2024-04-20 15:41:58",
+    "Size": "146.55 MB",
+    "More": "希沃白板5是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。\n这个版本要激！活！码！会整开的逝世能不能用吧",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/467dd1f0-fee9-11ee-9ec3-2d8f34987640.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/20/135b9c30-fee9-11ee-9ec3-2d8f34987640.png"
+}
+,
+{
    "Name":"海天鹰屏幕画笔",
    "Version":"1.2",
    "Filename":"htyscreenpen.deb",
@@ -2794,23 +2811,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/05/36574190-cc54-11ec-8b67-25fe8f6dc2d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/05/38e23230-cc54-11ec-8b67-25fe8f6dc2d3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/05/331b7780-cc54-11ec-8b67-25fe8f6dc2d3.png"
-}
-,
-{
-    "Name": "希沃白板5",
-    "Version": "5.2.1.0.7942.2a6",
-    "Filename": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb",
-    "Torrent_address": "com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb.torrent",
-    "Pkgname": "com.seewo.easinote5",
-    "Author": "广州视睿电子科技有限公司",
-    "Contributor": "tayasui_lime",
-    "Website": "https://www.seewo.com",
-    "Update": "2024-04-20 15:41:58",
-    "Size": "146.55 MB",
-    "More": "希沃白板5是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。\n这个版本要激！活！码！会整开的逝世能不能用吧",
-    "Tags": "deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/20/467dd1f0-fee9-11ee-9ec3-2d8f34987640.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/20/135b9c30-fee9-11ee-9ec3-2d8f34987640.png"
 }
 ,
 {
@@ -3609,6 +3609,24 @@
 }
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "289 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+    "Update": "2024-06-29 17:54:44",
+    "Version": "9.0.1runner1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
    "Name":"Moo工具集",
    "Version":"1.3.0",
    "Filename":"mootool_1.3.0_all.deb",
@@ -3638,24 +3656,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/ec092e53e2714bf7829a54ff12f84ff9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/28da0c0ac94844e89110f1554818aa1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/22cc435ca2c3450eaa8da3aca7d861fe.png"
 }
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "289 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
-    "Update": "2024-06-29 17:54:44",
-    "Version": "9.0.1runner1~beige",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "logger Wine应用日志收集工具",
@@ -4586,6 +4586,23 @@
 }
 ,
 {
+    "Name": "Debian 软件仓库分析工具",
+    "Version": "0.0.5-20240715",
+    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.5-20240715_amd64.deb",
+    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.5-20240715_amd64.deb.torrent",
+    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
+    "Update": "2024-07-15 17:55:25",
+    "Size": "133.5 KB",
+    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/76eab2e859d14c239481b92bce04b2cd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/a7f7665d16bf4591bf9fad8dcb2062e8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/15/2b2fbf6c7e8d4d3fa12d6c8d1bc39b3c.png"
+}
+,
+{
     "Name": "Smart Player （UEngine）",
     "Version": "1.7.1",
     "Filename": "com.ex.rubik_1.7.1_all.deb",
@@ -4668,23 +4685,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/474bc96a36a84d78b7da99e6873c3c32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/e15bcd079731418db08eb8479bffb9e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/8bdd7e8234094691a184a188e4bd021b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/27fe8063810a4973a20cfa72b1478cf8.png"
-}
-,
-{
-    "Name": "Debian 软件仓库分析工具",
-    "Version": "0.0.5-20240715",
-    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.5-20240715_amd64.deb",
-    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.5-20240715_amd64.deb.torrent",
-    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
-    "Update": "2024-07-15 17:55:25",
-    "Size": "133.5 KB",
-    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/76eab2e859d14c239481b92bce04b2cd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/a7f7665d16bf4591bf9fad8dcb2062e8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/15/2b2fbf6c7e8d4d3fa12d6c8d1bc39b3c.png"
 }
 ,
 {

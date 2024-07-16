@@ -18277,6 +18277,27 @@ Description:
 License: MIT
 Vendor: ci010 <cijhn@hotmail.com>
 
+Package: xmcl
+Architecture: amd64
+Version: 0.44.14-873
+Priority: optional
+Section: default
+Maintainer: ci010 <cijhn@hotmail.com>
+Installed-Size: 285251
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: games/xmcl/xmcl_0.44.14-873_amd64.deb
+Size: 79917104
+MD5sum: 5fc72c75a4cb965c893727be3340c4fe
+SHA1: ad27a65eee3b5cb22437deb52604214cad667008
+SHA256: d94a98d5620962c5876893d09e258878a19b9faf628116bc1937470d06f51086
+SHA512: 5e89c11fcd84774695988f9a7bcb8de713657de09debd880e50dfb31d232a17f55ab62befbd32af9a385d1ce709b03330bfa6abfe5952b7f35e975b19f15444f
+Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
+Description: 
+  A great minecraft launcher in the future
+License: MIT
+Vendor: ci010 <cijhn@hotmail.com>
+
 Package: com.ra2ol.deepin
 Architecture: all
 Version: 0.1.0
