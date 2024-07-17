@@ -3763,6 +3763,27 @@ SHA512: 5e7b81dc72f6d405c10c4f6843c135ce83a9e788525d2d22461f85d90ea17411af4b90f9
 Description: Android & Apple Device Manager
  Android & Apple Device Manager
 
+Package: clipboard-history-analyzer
+Architecture: amd64
+Version: 0.0.1-20240717
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 190
+Filename: tools/clipboard-history-analyzer/clipboard-history-analyzer_0.0.1-20240717_amd64.deb
+Size: 62130
+MD5sum: c1ec28e196d6ae8c576d2fbf6cbab098
+SHA1: 9dd703683d8f559bf2413abe0f7f91e5b4f6e5be
+SHA256: c4237e5a8c0f58df919018c8c55e3279285d4fa488b739e062f1bdc14439541b
+SHA512: c50955ccda4d45ffacdd7334f5881de9c946bbad0b538cbedb05f5814121ce435c78a2528a56b494852472599c960e40864676aff0950c5badcbe122a0bb55b8
+Homepage: https://gitee.com/zinface/qt.clipboard-history-analyzer.git
+Description: 剪贴板历史分析工具
+ 剪贴板历史分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地处理重用复制粘贴的数据。
+ .
+ 这款工具具有简单易用的特点，让用户能够将复制-粘贴操作分离，从而更高效地进行管理和维护所使用的数据。
+ .
+ Build for Deepin20.9 through spark-deb-build.
+
 Package: pomotroid
 Architecture: amd64
 Version: 0.13.0
