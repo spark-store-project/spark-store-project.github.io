@@ -7169,21 +7169,21 @@ Description: xunlei download xunlei download p2p
 
 Package: tailscale
 Architecture: arm64
-Version: 1.68.2
+Version: 1.70.0
 Priority: extra
 Section: net
 Maintainer: Tailscale Inc <info@tailscale.com>
-Installed-Size: 47621
+Installed-Size: 48418
 Depends: iptables
 Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
 Conflicts: tailscale-relay
 Replaces: tailscale-relay
-Filename: network/tailscale/tailscale_1.68.2_arm64.deb
-Size: 25854228
-MD5sum: ff49d75f3e0c419cdd0489da40fc8cae
-SHA1: 528ecc0b91e7f75bdd38ef10b7bcea6e4fc27258
-SHA256: 635ba2ece07d8e5b1fd70201719f2f5e2bc7dc957f3115648a8c272899b4bc0e
-SHA512: 31b12a5f32651d2c60c7e7de966ae0f0e8551026384c2453f45ea48cda3a12dca3aa9d98ad47c386527b86045996cbcf99d7a7fae8650905a64001f9f2abc629
+Filename: network/tailscale/tailscale_1.70.0_arm64.deb
+Size: 26264776
+MD5sum: 465713be6e00b024d8a9f36664a44b49
+SHA1: 5ee3b4f164bc00713fee3f3de243f524700b9011
+SHA256: 5308d370078ddde3d23dda0c7cf16e0440a1f79fc3fbacaee23934a49e553bf4
+SHA512: 6d4c2ac8a7fa0d6c85e44bed177fed0c4ef1fb7d7217e955a86f7656ce1a34be43c40caf4a5f5e075af0bbc3df9348237d247dd12d25c039fdb4ab688861e6e5
 Homepage: https://www.tailscale.com
 Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 

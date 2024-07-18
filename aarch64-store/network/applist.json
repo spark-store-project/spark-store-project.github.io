@@ -178,24 +178,6 @@
 
 ,
 {
-    "Name": "阿里云盘（小白羊修复版）",
-    "Version": "3.13.5",
-    "Filename": "xbyyunpan_3.13.5_arm64.deb",
-    "Torrent_address": "xbyyunpan_3.13.5_arm64.deb.torrent",
-    "Pkgname": "xbyyunpan",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://github.com/gaozhangmin/aliyunpan",
-    "Update": "2024-05-29 22:02:10",
-    "Size": "75M",
-    "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
-}
-
-,
-{
     "Author": "Tencent",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.qq.browser_1.70.3538.0_arm64.deb",
@@ -210,6 +192,24 @@
     "Website": "https://browser.qq.com/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/com.qq.browser/screen_4.png\"]"
+}
+
+,
+{
+    "Name": "阿里云盘（小白羊修复版）",
+    "Version": "3.13.5",
+    "Filename": "xbyyunpan_3.13.5_arm64.deb",
+    "Torrent_address": "xbyyunpan_3.13.5_arm64.deb.torrent",
+    "Pkgname": "xbyyunpan",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://github.com/gaozhangmin/aliyunpan",
+    "Update": "2024-05-29 22:02:10",
+    "Size": "75M",
+    "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
 }
 
 ,
@@ -375,24 +375,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <shenmo@spark-app.store>",
-    "Filename": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb",
-    "More": "一款使用 Qt 做界面的 BT 传输软件。",
-    "Name": "qBittorrent",
-    "Pkgname": "org.qbittorrent.qbittorrent",
-    "Size": "188 Mb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb.torrent",
-    "Update": "2023-08-30 10:22:09",
-    "Version": "4.5.2-3+fix2",
-    "Website": "http://www.qbittorrent.org/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
-}
-
-,
-{
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "clash-verge_1.6.6_arm64.deb",
@@ -407,6 +389,24 @@
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Filename": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb",
+    "More": "一款使用 Qt 做界面的 BT 传输软件。",
+    "Name": "qBittorrent",
+    "Pkgname": "org.qbittorrent.qbittorrent",
+    "Size": "188 Mb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb.torrent",
+    "Update": "2023-08-30 10:22:09",
+    "Version": "4.5.2-3+fix2",
+    "Website": "http://www.qbittorrent.org/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
 }
 
 ,
@@ -573,16 +573,34 @@
 
 ,
 {
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
+    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
+    "Name": "夸克网盘",
+    "Pkgname": "cn.quarkclouddrive.spark",
+    "Size": "150 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
+    "Update": "2024-06-15 15:07:28",
+    "Version": "3.2.6spark4",
+    "Website": "https://pan.quark.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
+}
+
+,
+{
     "Name": "Tailscale",
-    "Version": "1.68.2",
-    "Filename": "tailscale_1.68.2_arm64.deb",
-    "Torrent_address": "tailscale_1.68.2_arm64.deb.torrent",
+    "Version": "1.70.0",
+    "Filename": "tailscale_1.70.0_arm64.deb",
+    "Torrent_address": "tailscale_1.70.0_arm64.deb.torrent",
     "Pkgname": "tailscale",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://tailscale.com/",
-    "Update": "2024-07-03 17:31:08",
-    "Size": "25M",
+    "Update": "2024-07-18 17:31:13",
+    "Size": "26M",
     "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
@@ -623,24 +641,6 @@
     "Website": "https://www.bitcomet.com/en/downloads",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb",
-    "More": "夸克网盘\n电脑高效拍档 一键存爽快看",
-    "Name": "夸克网盘",
-    "Pkgname": "cn.quarkclouddrive.spark",
-    "Size": "150 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "cn.quarkclouddrive.spark_3.2.6spark4_all.deb.torrent",
-    "Update": "2024-06-15 15:07:28",
-    "Version": "3.2.6spark4",
-    "Website": "https://pan.quark.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/cn.quarkclouddrive.spark/screen_2.png\"]"
 }
 
 ,
@@ -699,6 +699,24 @@
 
 ,
 {
+    "Author": "wang",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
+    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+    "Name": "PDF to DOCX 转换器",
+    "Pkgname": "com.pdftodocx.deepin",
+    "Size": "146 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
+    "Update": "2024-05-29 16:29:11",
+    "Version": "1.1",
+    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
+}
+
+,
+{
     "Author": "Deepin Sysdev <sysdev@deepin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "uos-remote-assistance_1.1.34-1_arm64.deb",
@@ -731,24 +749,6 @@
     "Website": "https://github.com/peppermintos/ice",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "wang",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.pdftodocx.deepin_1.1_all.deb",
-    "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-    "Name": "PDF to DOCX 转换器",
-    "Pkgname": "com.pdftodocx.deepin",
-    "Size": "146 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.pdftodocx.deepin_1.1_all.deb.torrent",
-    "Update": "2024-05-29 16:29:11",
-    "Version": "1.1",
-    "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.pdftodocx.deepin/screen_2.png\"]"
 }
 
 ,
@@ -931,6 +931,24 @@
 
 ,
 {
+    "Author": "Kingsoft",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.kingsoft.huawang.deepin_1.0_all.deb",
+    "More": "为儿童设计，所以绘画的时候有声音、简单易操作的人性化界面，还有卡通人物的实时提示，但其功能又不简单了，绘画工具的功能应有尽有，几十种画笔、印记、线条、形状和奇特效果足跟其他绘画工具相比。",
+    "Name": "金山画王2006",
+    "Pkgname": "com.kingsoft.huawang.deepin",
+    "Size": "171 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.kingsoft.huawang.deepin_1.0_all.deb.torrent",
+    "Update": "2024-06-29 19:52:46",
+    "Version": "1.0",
+    "Website": "http://www.paintroom.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_3.png\"]"
+}
+
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.jd.jm_11.3.3_all.deb",
@@ -963,24 +981,6 @@
     "Website": "https://baoku.360.cn/soft/show/appid/102201010?channel=9510133",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "Kingsoft",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.kingsoft.huawang.deepin_1.0_all.deb",
-    "More": "为儿童设计，所以绘画的时候有声音、简单易操作的人性化界面，还有卡通人物的实时提示，但其功能又不简单了，绘画工具的功能应有尽有，几十种画笔、印记、线条、形状和奇特效果足跟其他绘画工具相比。",
-    "Name": "金山画王2006",
-    "Pkgname": "com.kingsoft.huawang.deepin",
-    "Size": "171 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.kingsoft.huawang.deepin_1.0_all.deb.torrent",
-    "Update": "2024-06-29 19:52:46",
-    "Version": "1.0",
-    "Website": "http://www.paintroom.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_3.png\"]"
 }
 
 ,

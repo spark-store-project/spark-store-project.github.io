@@ -4892,15 +4892,15 @@ Description: cpux Software Package created by Appimage2Deb
 
 Package: rustdesk
 Architecture: amd64
-Version: 1.2.3
+Version: 1.2.6
 Maintainer: rustdesk <info@rustdesk.com>
 Depends: libgtk-3-0, libxcb-randr0, libxdo3, libxfixes3, libxcb-shape0, libxcb-xfixes0, libasound2, libsystemd0, curl, libva-drm2, libva-x11-2, libvdpau1, libgstreamer-plugins-base1.0-0, libpam0g, libappindicator3-1, gstreamer1.0-pipewire
-Filename: tools/rustdesk/rustdesk_1.2.3_amd64.deb
-Size: 18726924
-MD5sum: 7ec00a7e3da13b73d1a1cdf052adeaf0
-SHA1: 52c1894facea7ee8e44c19089e6d8ba95fe2bda8
-SHA256: bfa6ba63b2745ace87b2cdd4900de59dca339272a8fdf60a80f1702036b71178
-SHA512: 51681768c5c4094dbbf9e9e465e8bb01ddc4a6664bd0061e5ebddb056ffae0d3e21b470d699d02e59333af60b30f34ebdc9829e0251ccab337542b548a908992
+Filename: tools/rustdesk/rustdesk_1.2.6_amd64.deb
+Size: 19574660
+MD5sum: d727687210e82a2c947deae7fd4ddf4b
+SHA1: a04906a98b6c15bb36641341824aca4065eba576
+SHA256: 9e8d39f26d5689564d1fb0ac65119acf6a9956bee705792663d76f91451387d2
+SHA512: fd1b17bdcae210746ba0162f788646fcf7309021a037cae092468971143600cb81915d212de8e7cf566ff10b55587d584335527d44052f1446dc2426e53b91ca
 Homepage: https://rustdesk.com
 Description: A remote control software.
 
@@ -16899,22 +16899,22 @@ Description: This program is a front-end for wine.
 
 Package: crossover
 Architecture: amd64
-Version: 24.0.0-1
+Version: 24.0.2-1
 Multi-Arch: foreign
 Priority: optional
 Section: non-free/otherosfs
 Maintainer: CrossOver Packager <info@codeweavers.com>
-Installed-Size: 842400
+Installed-Size: 842543
 Provides: cxoffice20
 Depends: libc6 (>= 2.23), perl, python3, python3-gi, python3-dbus, python3-gi-cairo, gir1.2-gtk-3.0, gir1.2-gdkpixbuf-2.0, gir1.2-pango-1.0, gir1.2-glib-2.0, gir1.2-vte-2.91, openssl, desktop-file-utils
 Conflicts: cxoffice20
 Replaces: crossover-pro, crossover-pro-canonical-demo, crossover-pro-demo, crossover-standard, crossover-standard-canonical-demo, crossover-standard-demo, ia32-crossover, ia32-crossover-pro, ia32-crossover-pro-canonical-demo, ia32-crossover-pro-demo, ia32-crossover-standard, ia32-crossover-standard-canonical-demo, ia32-crossover-standard-demo
-Filename: others/crossover/crossover_24.0.0-1_amd64.deb
-Size: 204504332
-MD5sum: b8bd5d3677c021f7559c24481293a060
-SHA1: dbb3f8af2cb9b875608148f49e938cd1c47d3a31
-SHA256: 1e32da4ca9edf505fb0ccfc20765dcda3754b8b29a1f0d12055a316277fa78c1
-SHA512: 461b5666b4fb79f8af27aaf9e724c443f3156c782b53298629c313ed7eac8f099a53c6253f8e02c58b0c581ffb5730d2125671ae92f92c03ab40e5f763404a4c
+Filename: others/crossover/crossover_24.0.2-1_amd64.deb
+Size: 204486448
+MD5sum: 7b817b2c1cc554a2e441f7603aed5632
+SHA1: 2c6fe0956d5299eefa54fb89e608604c28d9c8ad
+SHA256: 299287f4ec0d19a03756c452fc718d797ef79da64f2abf697e3d1b5025636a79
+SHA512: 6e07ad876934c949ccbc4881f46fc7f1f27d0482efbcae06a7dc9ae00cde8aac3dbd8a13c827367c06118e1d119b3f7fbba25f24a948d865a940415fbdcb69df
 Homepage: https://www.codeweavers.com
 Description: Run Windows productivity and utility apps like Microsoft Office and games
  CrossOver integrates with your desktop environment so you can use your
@@ -23660,19 +23660,19 @@ Description: wenku Client on Deepin Wine6
 
 Package: mailspring
 Architecture: amd64
-Version: 1.9.2
+Version: 1.13.3
 Priority: optional
 Section: mail
 Maintainer: Mailspring Team <support@getmailspring.com>
-Installed-Size: 368048
-Depends: libsecret-1-dev, gconf2, gconf-service, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, gvfs-bin | libglib2.0-bin, xdg-utils
+Installed-Size: 418280
+Depends: libsecret-1-dev, libgtk2.0-0, libudev0 | libudev1, libgcrypt11 | libgcrypt20, libnotify4, libxtst6, libnss3, gvfs-bin | libglib2.0-bin, xdg-utils
 Suggests: gir1.2-gnomekeyring-1.0
-Filename: office/mailspring/mailspring_1.9.2_amd64.deb
-Size: 88917330
-MD5sum: 819bb657bbcbb2cf90b7319c38a9ab90
-SHA1: 1758323be10a7c0645196359da16ab65370f8168
-SHA256: a3bc365c77791673d8b7d8fc2081b2e8e80ab5d78d6ffa99f848971849f43544
-SHA512: e096118a3707aa139c31d2d27ce85438055640afef2acb57339e40d60d102cd30bc6979d2873805414f98b13b7a2662b7f141b29cd47ee6289d878f755de5db3
+Filename: office/mailspring/mailspring_1.13.3_amd64.deb
+Size: 107230544
+MD5sum: d5c1591ccd9aba9d41fbc66ce5fc1626
+SHA1: 0b0091b190d23106db0bb2f8603f921cc407ad88
+SHA256: d85e64f3345123ac75110d24f30bc8ab54372e7ae7d913a9fccabe1fb56ace57
+SHA512: cd057d8a214b9021d49df6d74f5b9cd677506f25c6e867d82647c2a465461b156a8f3405c0614362110bedbb212149fb31156a2e0750dacc3fa4d91458036ead
 Description: The best email app for people and teams at work
  The best email app for people and teams at work
 
@@ -23852,6 +23852,23 @@ SHA256: 5dabbd8f503b0252c523ba311a55bd6a01bf74597d409715d148d025c494b10a
 SHA512: 45f71e9a2e2b4f35a1dfa514443eb61ac6ec8a99d2dea35076b535e561f8df7fc945dede480bd3b523ae82c29d206055864d5a032d835d27c8be281ed2a8d024
 Description: 高途高中规划
 
+Package: com.wenjianjiascq.deepin
+Architecture: all
+Version: 1.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 读研札记
+Installed-Size: 70968
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/com.wenjianjiascq.deepin/com.wenjianjiascq.deepin_1.0_all.deb
+Size: 70979708
+MD5sum: f212b2b84700728cc91ec423df12a99a
+SHA1: b003b2c90d141e58edbc72d7c9aa8b00ae60a286
+SHA256: 892b3a30d68518269af16975fcaaf7c4a9461be882c566c351a8acecbdc9a6ef
+SHA512: 283ee0039d4c3266c42d50f2d478d23e4c33a52897a0150c5f3788d3ffe1ba3f3c5fb8f9bba3f56dac13c5c1d9d25312b24d63e06b449836a54cc226441c8e04
+Description: .一款使用aardio制作的批量创建文件夹工具，省去人工创建时间。
+
 Package: cn.ecpan
 Architecture: amd64
 Version: 1.0.0-spark1
@@ -23867,6 +23884,23 @@ SHA256: 6f1926ed6abfb14edf922e126cb3e23c9b661a767f792fb3cf0039ffdea2b68e
 SHA512: 2b870bf22618155ad9477d247a7737a449d4550326e0dd5a2f8b533fc530456878f764ab80c3daf46cead96c0e807fb2831f521cbb66ac3e8c07c692c00f38ab
 Homepage: https://www.ecpan.cn
 Description: 云空间基于移动云强大的云端数据管理能力，保障上传下载不限速。它是以企业协作管理场景为入口，聚合海量应用，助力企业快速构建信息化支撑体系，面向全行业用户提供的企业应用聚合平台。
+
+Package: com.pdfhebingfengezhushouv1.0.spark
+Architecture: all
+Version: 1.0.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wangbx
+Installed-Size: 10794
+Depends: deepin-wine8-stable | deepin-wine8-stable-bcm | deepin-wine8-stable-dcm | com.deepin-wine8-stable.deepin, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: office/com.pdfhebingfengezhushouv1.0.spark/com.pdfhebingfengezhushouv1.0.spark_1.0.0_all.deb
+Size: 10739572
+MD5sum: 792fd24d896bbe0d476b86b38e463747
+SHA1: b08bfc9a57dc666cdd89a86e00c8849fc1677547
+SHA256: fa5a6b14e71a38b0fbe0472fbeb3b858a0df546b31cfe59df8401f6bdbbb5d80
+SHA512: 929eaa473f73256432248a724475315b43dba4318b13668373b4b6249a87120efb84c20641cf0b5bde4bdd00cd541c4cc362519bf88a8c946eebb3821bf4b8ee
+Description: PDF合并分割助手V1.0 By Build By Wine Runner Easy Packager
 
 Package: spark-alqn-wine
 Architecture: all
@@ -30149,21 +30183,21 @@ Description: The web browser from Microsoft
 
 Package: tailscale
 Architecture: amd64
-Version: 1.68.2
+Version: 1.70.0
 Priority: extra
 Section: net
 Maintainer: Tailscale Inc <info@tailscale.com>
-Installed-Size: 49539
+Installed-Size: 50385
 Depends: iptables
 Recommends: tailscale-archive-keyring (>= 1.35.181), iproute2
 Conflicts: tailscale-relay
 Replaces: tailscale-relay
-Filename: network/tailscale/tailscale_1.68.2_amd64.deb
-Size: 27413882
-MD5sum: 05f7fce332220040f5c674aa61cb8990
-SHA1: 192ec1f2ef1b4c3b9886c4016ce0fccb322c9fe0
-SHA256: 967f8022cd92907abb4f73d137ce6a72ca323655f14f56d14c0942948e3363d0
-SHA512: ec1508895e4b666319d8c38c5171528df181e35f0b0df30f099505a2c234af451030bfaf1dc026cace49548ecb4a94758ecab69aa64c68565309c70cfd57c5b0
+Filename: network/tailscale/tailscale_1.70.0_amd64.deb
+Size: 27837746
+MD5sum: ee31764b67421413df26ac6bc4bd80b3
+SHA1: 0a5cf92889c094933989fc3961ee6f42f46959d0
+SHA256: df49fe92e242d827ef9f253380ec5895ef468d09a9ebd578e711deb51b7cb05b
+SHA512: 81c063d05eb9b4cb2982cb3ca42135a88f854f74f60d6ee794f6d4faf3c410accf8c958fc121180f390f29b762eeba394686a3c8584301e2968cac25fcada193
 Homepage: https://www.tailscale.com
 Description: The easiest, most secure, cross platform way to use WireGuard + oauth2 + 2FA/SSO
 
@@ -33227,6 +33261,23 @@ SHA256: 9f8fb9b985c43fb3c81a380b6f07b2c6888d14266e4cfe0eb468ce5a9e4cf776
 SHA512: e3ce82918611c9039c7efbae07ff1f1b6e1f4f4d3a94afc9b92674c845ee0e4a70974dbdfc84c1058f65c94d9e395e753e2b0c9b158102b5af2a4beda74244bb
 Homepage: https://redis.tinycraft.cc/
 Description: Tiny Redis Desktop Manager
+
+Package: vofa+
+Architecture: amd64
+Version: 1.3.10+elysia-1
+Priority: optional
+Section: devel
+Maintainer: je00 <zjt@gutega.com>
+Installed-Size: 88124
+Filename: development/vofa+/vofa_plus_1.3.10_pluselysia-1_amd64.deb
+Size: 23029628
+MD5sum: 2c9b846f86c5bfd11a3b1bce1c5a8e25
+SHA1: 410b95290688caeea9529fdf5086909610ed35ea
+SHA256: b558ca6a79fd2db95521bfc7cb7487383a3c889590df9ba258b0518d59099897
+SHA512: 63b07c14effb341fd41279d3af5e725341adc7c2e944f342f2f58f8c986f39b859ed51dbe297b17fd18e7df1e140681137b01e8901c22c2cec4f3efcfcdf55be
+Homepage: https://www.vofa.plus
+Description: 插件驱动的高自由度上位机
+  （修复了openssl链接库的问题）VOFA+在传统串口、网络调试助手的基础上，加入了数据解析与分析、树状命令管理、动态添加控件实现数据可视化和命令图形化绑定发送的功能，协议、控件均使用插件化设计，软件有很高的可拓展性。
 
 Package: vofa+
 Architecture: amd64

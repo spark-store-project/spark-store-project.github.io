@@ -204,19 +204,19 @@
 ,
 {
     "Name": "Crossover",
-    "Version": "24.0.0-1",
-    "Filename": "crossover_24.0.0-1_amd64.deb",
-    "Torrent_address": "crossover_24.0.0-1_amd64.deb.torrent",
+    "Version": "24.0.2-1",
+    "Filename": "crossover_24.0.2-1_amd64.deb",
+    "Torrent_address": "crossover_24.0.2-1_amd64.deb.torrent",
     "Pkgname": "crossover",
     "Author": "CrossOver Packager <info@codeweavers.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://www.codeweavers.com",
-    "Update": "2024-02-23 15:23:30",
-    "Size": "195.03 MB",
+    "Update": "2024-07-18 08:10:47",
+    "Size": "195.01 MB",
     "More": "CrossOver integrates with your desktop environment so you can use your\n Windows applications like any other native application. This includes starting\n them from the desktop and using them to open Windows files and email\n attachments. If an anti-virus scanner is available, CrossOver will also\n automatically scan these to protect you.\n .\n Thanks to CrossTies, CrossOver takes the guesswork out of installing\n applications referenced in its compatibility database. This makes it easy to\n install Windows productivity applications such as Microsoft Office and\n Quicken. CrossOver also takes care of installing any native packages that\n may be required to run them.\n .\n This also applies to games such as Diablo III, Minecraft Dungeons and modern\n Direct3D 11 and 12 games when it's time to relax.",
     "Tags": "community;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/29f650b8485646e0a4bcdd15ce36eceb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/750c49119f064b5baebd5d6153a9b685.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/9449f3fa319243448e9a28b002aca8bd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/153925621c1346a49067c989d95d43ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/23/d836dd58dce8474ea8e8f73e7b839a12.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/bfe24c75d3f9494797076e009f988a0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/f54bcb7bbd524bf59d22401ea9987864.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/50bfa3db7d6244389b7b07d115be310c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/429a50906d4f4c29861caa8316a0fb0e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/18/17757bb562114d5b9af03770239322ea.png"
 }
 ,
 {
@@ -874,23 +874,6 @@
 }
 ,
 {
-    "Name": "重启至uefi",
-    "Version": "0.0.1",
-    "Filename": "reboot-uefi_0.0.1_all.deb",
-    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
-    "Pkgname": "reboot-uefi",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
-    "Update": "2022-12-27 20:48:48",
-    "Size": "2 KB",
-    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
-}
-,
-{
     "Name": "联想语音——实时字幕翻译(浏览器插件)",
     "Version": "1.4.3",
     "Filename": "browserext.ndgedmaejfmclppaafnkhaagpjglhlmj_1.4.3_all.deb",
@@ -905,6 +888,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/b448b603252f43a8aeb7daf1c62f68d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/d2e6927c228f4054ba45bd40d5b3181b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/f197a26ced4143369dbbac9ad43594d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/87a6fe97385e494aa45c3558328b74ad.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/d3857b55dd1242e29c3803c528426b0d.png"
+}
+,
+{
+    "Name": "重启至uefi",
+    "Version": "0.0.1",
+    "Filename": "reboot-uefi_0.0.1_all.deb",
+    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
+    "Pkgname": "reboot-uefi",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
+    "Update": "2022-12-27 20:48:48",
+    "Size": "2 KB",
+    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
 }
 ,
 {
@@ -993,23 +993,6 @@
 }
 ,
 {
-    "Name": "Digital",
-    "Version": "0.30~spark1",
-    "Filename": "digital_0.30~spark1_all.deb",
-    "Torrent_address": "digital_0.30~spark1_all.deb.torrent",
-    "Pkgname": "digital",
-    "Author": "Helmut Neemann",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://github.com/hneemann/Digital",
-    "Update": "2023-02-03 22:18:15",
-    "Size": "3.29 MB",
-    "More": "Digital 是一个教学用的数字逻辑设计软件及电路模拟器，可视为 Logisim 的非正式继承者。它提供了以下功能：\n\n- 用测量图可视化信号状态\n- 单门分析振荡模式\n- 组合和顺序电路的分析和合成\n\n详情请参考 https://github.com/hneemann/Digital\n\n声明：本软件包并非由上游开发者提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/digital-spark-store 建工单。",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95a0cd00-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95bc9260-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95d830b0-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95e85d50-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95fb2200-a3cd-11ed-9d43-eb1888ac250a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/03/932063b0-a3cd-11ed-9d43-eb1888ac250a.png"
-}
-,
-{
     "Name": "闹钟宝贝",
     "Version": "2.03",
     "Filename": "com.alarm-clock-baby.spark_2.03_amd64.deb",
@@ -1024,6 +1007,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/f8185ce6cd33414d8d31ea53757705fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/b6dad26682dc4b3a8f94ff85b6d089be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/6a7036bd49c642999375ac246a62d499.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/d71bf0ee01d44dac91111b5cd7995d49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/da36126c6b244483ae43c78acc872b95.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/e7f3fd866c0e48239d41214717dd3c70.png"
+}
+,
+{
+    "Name": "Digital",
+    "Version": "0.30~spark1",
+    "Filename": "digital_0.30~spark1_all.deb",
+    "Torrent_address": "digital_0.30~spark1_all.deb.torrent",
+    "Pkgname": "digital",
+    "Author": "Helmut Neemann",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://github.com/hneemann/Digital",
+    "Update": "2023-02-03 22:18:15",
+    "Size": "3.29 MB",
+    "More": "Digital 是一个教学用的数字逻辑设计软件及电路模拟器，可视为 Logisim 的非正式继承者。它提供了以下功能：\n\n- 用测量图可视化信号状态\n- 单门分析振荡模式\n- 组合和顺序电路的分析和合成\n\n详情请参考 https://github.com/hneemann/Digital\n\n声明：本软件包并非由上游开发者提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/digital-spark-store 建工单。",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95a0cd00-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95bc9260-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95d830b0-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95e85d50-a3cd-11ed-9d43-eb1888ac250a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/03/95fb2200-a3cd-11ed-9d43-eb1888ac250a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/03/932063b0-a3cd-11ed-9d43-eb1888ac250a.png"
 }
 ,
 {
@@ -1112,23 +1112,6 @@
 }
 ,
 {
-    "Name": "Wind万得金融终端",
-    "Version": "24.1.7.05090",
-    "Filename": "com.wind.wft_24.1.7.05090_amd64.deb",
-    "Torrent_address": "com.wind.wft_24.1.7.05090_amd64.deb.torrent",
-    "Pkgname": "com.wind.wft",
-    "Author": "service@wind.com.cn",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://www.wind.com.cn",
-    "Update": "2024-05-17 16:06:36",
-    "Size": "268.49 MB",
-    "More": "Wind金融终端是一款面向金融专业人士提供金融数据、信息资讯、分析工具、组合管理和协作交流于一体的一站式工作平台，目前在全球拥有数十万实名认证的金融机构从业用户使用。Wind金融终端于本世纪初面市，经过长达二十年的持续选代及打磨，数十亿软件研发投入，以其丰富的内容、强大的功能和卓越的服务，已经成为投资研究中国和全球资本市场的必备选择，获得各类用户的广泛费誉。\nWind金融终端数据内容涵盖股票、债券、商品、外汇、基金、指数、衍生品等数百万金融产品，数据历史最早追溯至1896年，提供千万级指标科目及PB级数据存储量的海量信息，几乎涵盖所有金融数据。Wind金融终端服务于资产管理、投资银行、财富管理、产业投资、市场监管、学术研究等各类型业务；客户包括商业银行、证券公司、保险保险、资产管理公司、上市公司、金融监管机构、各类政府机构、财经媒体等几乎所有参与或关注资本市场的机构或企业。Wind\n金融终端支持全周期服务，用户可以7×24×365获取到及时、准确、完整的财经数据、信息和各种分析结果，以及VIP级别的客户服务。Wind金融终端支持全平台通道，用户可以随时随地通过Windows、Mac、Linux、银河麒麟、统信UOS、手机端或Pad端获取最新的信息。\n获取试用账号或咨询请联系我们400-820-9463或service@wind.com.cn。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/e65b878ad31d4765ac4f3825c798a644.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/14b0bb9d25b441c298427cf89f4998d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/c5b66ae1612c47fab292499a7712cd94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/384a0ea217ed4531a788ba8d3a35751b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/17/12519860aa6e44c4934a10e31b59525b.png"
-}
-,
-{
     "Name": "24 个“疫情”相关的、免费的 WPS 模板",
     "Version": "1.24-2",
     "Filename": "wps-office-templates-02-yiqingfangkong_1.24-2_all.deb",
@@ -1143,6 +1126,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/ec1ab93ce70a46e0a529473029dd1ae8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/3325975f68594609a0c59291d2622acf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/16/5c578b01853042608d28dc94d3e8921e.png"
+}
+,
+{
+    "Name": "Wind万得金融终端",
+    "Version": "24.1.7.05090",
+    "Filename": "com.wind.wft_24.1.7.05090_amd64.deb",
+    "Torrent_address": "com.wind.wft_24.1.7.05090_amd64.deb.torrent",
+    "Pkgname": "com.wind.wft",
+    "Author": "service@wind.com.cn",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://www.wind.com.cn",
+    "Update": "2024-05-17 16:06:36",
+    "Size": "268.49 MB",
+    "More": "Wind金融终端是一款面向金融专业人士提供金融数据、信息资讯、分析工具、组合管理和协作交流于一体的一站式工作平台，目前在全球拥有数十万实名认证的金融机构从业用户使用。Wind金融终端于本世纪初面市，经过长达二十年的持续选代及打磨，数十亿软件研发投入，以其丰富的内容、强大的功能和卓越的服务，已经成为投资研究中国和全球资本市场的必备选择，获得各类用户的广泛费誉。\nWind金融终端数据内容涵盖股票、债券、商品、外汇、基金、指数、衍生品等数百万金融产品，数据历史最早追溯至1896年，提供千万级指标科目及PB级数据存储量的海量信息，几乎涵盖所有金融数据。Wind金融终端服务于资产管理、投资银行、财富管理、产业投资、市场监管、学术研究等各类型业务；客户包括商业银行、证券公司、保险保险、资产管理公司、上市公司、金融监管机构、各类政府机构、财经媒体等几乎所有参与或关注资本市场的机构或企业。Wind\n金融终端支持全周期服务，用户可以7×24×365获取到及时、准确、完整的财经数据、信息和各种分析结果，以及VIP级别的客户服务。Wind金融终端支持全平台通道，用户可以随时随地通过Windows、Mac、Linux、银河麒麟、统信UOS、手机端或Pad端获取最新的信息。\n获取试用账号或咨询请联系我们400-820-9463或service@wind.com.cn。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/e65b878ad31d4765ac4f3825c798a644.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/14b0bb9d25b441c298427cf89f4998d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/c5b66ae1612c47fab292499a7712cd94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/17/384a0ea217ed4531a788ba8d3a35751b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/17/12519860aa6e44c4934a10e31b59525b.png"
 }
 ,
 {
@@ -1278,6 +1278,22 @@
 }
 ,
 {
+    "Name": "G语翻译器（本地网页版）",
+    "Version": "1.2",
+    "Filename": "gaster-translator_1.2_amd64.deb",
+    "Pkgname": "gaster-translator",
+    "Author": "grompe",
+    "Contributor": "shenmo",
+    "Website": "http://grompe.org.ru/",
+    "Update": "2020-11-17 00:18:34",
+    "Size": "308.01 KB",
+    "More": "Gaster翻译工具，for Undertale Lovers",
+    "Tags": "deepin;dtk5;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/66cd5830-286a-11eb-b32b-2737721fa28b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/675f10e0-286a-11eb-b32b-2737721fa28b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/676a8290-286a-11eb-b32b-2737721fa28b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/17/4c5511a0-286a-11eb-b32b-2737721fa28b.png"
+}
+,
+{
     "Name": "NoBook 小学科学（web）",
     "Version": "1.0",
     "Filename": "web-science.nobook.com_1.0_all.deb",
@@ -1325,22 +1341,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/15/1cb9ed90-5dba-11ec-9a6c-430f1d3521e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/15/221dc7c0-5dba-11ec-9a6c-430f1d3521e8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/15/187788f0-5dba-11ec-9a6c-430f1d3521e8.png"
-}
-,
-{
-    "Name": "G语翻译器（本地网页版）",
-    "Version": "1.2",
-    "Filename": "gaster-translator_1.2_amd64.deb",
-    "Pkgname": "gaster-translator",
-    "Author": "grompe",
-    "Contributor": "shenmo",
-    "Website": "http://grompe.org.ru/",
-    "Update": "2020-11-17 00:18:34",
-    "Size": "308.01 KB",
-    "More": "Gaster翻译工具，for Undertale Lovers",
-    "Tags": "deepin;dtk5;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/66cd5830-286a-11eb-b32b-2737721fa28b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/675f10e0-286a-11eb-b32b-2737721fa28b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/17/676a8290-286a-11eb-b32b-2737721fa28b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/17/4c5511a0-286a-11eb-b32b-2737721fa28b.png"
 }
 ,
 {

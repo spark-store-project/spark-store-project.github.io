@@ -1283,22 +1283,6 @@
 }
 ,
 {
-    "Name": "Yandex浏览器",
-    "Version": "21.3.3.1195-1",
-    "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
-    "Pkgname": "yandex-browser-beta",
-    "Author": "Yandex",
-    "Contributor": "Yandex",
-    "Website": "www.yandex.com",
-    "Update": "2021-05-22 20:52:10",
-    "Size": "93.01 MB",
-    "More": "一个非常漂亮的浏览器～",
-    "Tags": "uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
-}
-,
-{
     "Name": "Internet Download Manager（IDM）（Wine）",
     "Version": "6.42",
     "Filename": "com.idm.spark_6.42_all.deb",
@@ -1313,6 +1297,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
+}
+,
+{
+    "Name": "Yandex浏览器",
+    "Version": "21.3.3.1195-1",
+    "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
+    "Pkgname": "yandex-browser-beta",
+    "Author": "Yandex",
+    "Contributor": "Yandex",
+    "Website": "www.yandex.com",
+    "Update": "2021-05-22 20:52:10",
+    "Size": "93.01 MB",
+    "More": "一个非常漂亮的浏览器～",
+    "Tags": "uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
 }
 ,
 {
@@ -1433,14 +1433,14 @@
 ,
 {
     "Name": "Tailscale",
-    "Version": "1.68.2",
-    "Filename": "tailscale_1.68.2_amd64.deb",
-    "Torrent_address": "tailscale_1.68.2_amd64.deb.torrent",
+    "Version": "1.70.0",
+    "Filename": "tailscale_1.70.0_amd64.deb",
+    "Torrent_address": "tailscale_1.70.0_amd64.deb.torrent",
     "Pkgname": "tailscale",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://tailscale.com/",
-    "Update": "2024-07-03 17:31:47",
+    "Update": "2024-07-18 17:31:36",
     "Size": "27M",
     "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
     "Tags": "ubuntu;deepin;uos",
@@ -1682,22 +1682,6 @@
 }
 ,
 {
-    "Name": "海天鹰服务器",
-    "Version": "1.0",
-    "Filename": "htyserver_1.0_amd64.deb",
-    "Pkgname": "htyserver",
-    "Author": "海天鹰",
-    "Contributor": "海天鹰",
-    "Website": "https://github.com/sonichy/HTYServer",
-    "Update": "2020-12-17 10:08:25",
-    "Size": "356.79 KB",
-    "More": "纯Qt(QTcpSocket)文件服务器，用于局域网文件传输，类似 python -m http.server 。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c20d7cf0-404f-11eb-b208-9f1d14fad35c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c4530020-404f-11eb-b208-9f1d14fad35c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/b9f11270-404f-11eb-b208-9f1d14fad35c.png"
-}
-,
-{
     "Name": "闪电藤文件传输",
     "Version": "2.2.3+fix0",
     "Filename": "life.zishu.sdt_2.2.3_plusfix0_amd64.deb",
@@ -1712,6 +1696,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/b5895d5822464e428178506979fb043d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/9c57792066ee4911ab69923b2fba6131.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/a732918bc793485ca1ed895be7a1ada8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/fd07f35395914ad688446eabe746b065.png"
+}
+,
+{
+    "Name": "海天鹰服务器",
+    "Version": "1.0",
+    "Filename": "htyserver_1.0_amd64.deb",
+    "Pkgname": "htyserver",
+    "Author": "海天鹰",
+    "Contributor": "海天鹰",
+    "Website": "https://github.com/sonichy/HTYServer",
+    "Update": "2020-12-17 10:08:25",
+    "Size": "356.79 KB",
+    "More": "纯Qt(QTcpSocket)文件服务器，用于局域网文件传输，类似 python -m http.server 。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c20d7cf0-404f-11eb-b208-9f1d14fad35c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/c4530020-404f-11eb-b208-9f1d14fad35c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/b9f11270-404f-11eb-b208-9f1d14fad35c.png"
 }
 ,
 {
@@ -2212,22 +2212,6 @@
 }
 ,
 {
-    "Name": "Vivaldi 快照版",
-    "Version": "3.7.2202.3-1",
-    "Filename": "vivaldi-snapshot_3.7.2202.3-1_amd64.deb",
-    "Pkgname": "vivaldi-snapshot",
-    "Author": "Vivaldi Technologies",
-    "Contributor": "SamLukeYes",
-    "Website": "https://vivaldi.com",
-    "Update": "2021-02-17 23:36:03",
-    "Size": "74.99 MB",
-    "More": "Vivaldi 浏览器的预览分支。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/8ba1d8d0-7134-11eb-88cf-e192393f9189.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/8e9c2d10-7134-11eb-88cf-e192393f9189.png"
-}
-,
-{
     "Name": "PDF to DOCX 转换器",
     "Version": "1.1",
     "Filename": "com.pdftodocx.deepin_1.1_all.deb",
@@ -2242,6 +2226,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b5310980-1c3c-11ef-844a-857c0f6b164f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/b53a3140-1c3c-11ef-844a-857c0f6b164f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/b010a0f0-1c3c-11ef-844a-857c0f6b164f.png"
+}
+,
+{
+    "Name": "Vivaldi 快照版",
+    "Version": "3.7.2202.3-1",
+    "Filename": "vivaldi-snapshot_3.7.2202.3-1_amd64.deb",
+    "Pkgname": "vivaldi-snapshot",
+    "Author": "Vivaldi Technologies",
+    "Contributor": "SamLukeYes",
+    "Website": "https://vivaldi.com",
+    "Update": "2021-02-17 23:36:03",
+    "Size": "74.99 MB",
+    "More": "Vivaldi 浏览器的预览分支。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/17/8ba1d8d0-7134-11eb-88cf-e192393f9189.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/17/8e9c2d10-7134-11eb-88cf-e192393f9189.png"
 }
 ,
 {
@@ -2262,23 +2262,6 @@
 }
 ,
 {
-    "Name": "SeaMonkey",
-    "Version": "2.53.18.2spark1",
-    "Filename": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb",
-    "Torrent_address": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb.torrent",
-    "Pkgname": "org.seamonkey-project.seamonkey.spark",
-    "Author": "SeaMonkey Association (SeaMonkey e.V.)",
-    "Contributor": "sgb76",
-    "Website": "https://www.seamonkey-project.org/",
-    "Update": "2024-03-30 23:06:36",
-    "Size": "43.15 MB",
-    "More": "SeaMonkey 是一个一体化的互联网套件。 它支持电子邮件、浏览器、新闻客户端、HTML 编辑器、IRC 聊天、垃圾邮件控制器、消息过滤器、Web 提要阅读器、地址簿、Web 开发工具等。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/84e905effbf94ac08f8cc15152e2efb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/3424db594ae74e559bd8a51c9beabcc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/e9264189ab78410ca9b812dc00ce00e6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/f94624b37baa493c91a9eec33c6b6221.png"
-}
-,
-{
     "Name": "anto  翻译工具",
     "Version": "3.6.3",
     "Filename": "com.anto.deepin_3.6.3_all.deb",
@@ -2293,6 +2276,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
+}
+,
+{
+    "Name": "SeaMonkey",
+    "Version": "2.53.18.2spark1",
+    "Filename": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb",
+    "Torrent_address": "org.seamonkey-project.seamonkey.spark_2.53.18.2spark1_amd64.deb.torrent",
+    "Pkgname": "org.seamonkey-project.seamonkey.spark",
+    "Author": "SeaMonkey Association (SeaMonkey e.V.)",
+    "Contributor": "sgb76",
+    "Website": "https://www.seamonkey-project.org/",
+    "Update": "2024-03-30 23:06:36",
+    "Size": "43.15 MB",
+    "More": "SeaMonkey 是一个一体化的互联网套件。 它支持电子邮件、浏览器、新闻客户端、HTML 编辑器、IRC 聊天、垃圾邮件控制器、消息过滤器、Web 提要阅读器、地址簿、Web 开发工具等。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/84e905effbf94ac08f8cc15152e2efb2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/3424db594ae74e559bd8a51c9beabcc8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/e9264189ab78410ca9b812dc00ce00e6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/f94624b37baa493c91a9eec33c6b6221.png"
 }
 ,
 {
