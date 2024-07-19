@@ -439,23 +439,6 @@
 }
 ,
 {
-    "Name": "deepin IDE (深度IDE)",
-    "Version": "1.3.3-1",
-    "Filename": "deepin-unioncode_1.3.3-1_amd64.deb",
-    "Torrent_address": "deepin-unioncode_1.3.3-1_amd64.deb.torrent",
-    "Pkgname": "deepin-unioncode",
-    "Author": "Deepin Packages Builder <packages@linuxdeepin.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://www.deepin.org",
-    "Update": "2024-06-16 01:20:50",
-    "Size": "70.5 MB",
-    "More": "深度集成开发环境是由深度公司自主研发，具有多语言、跨平台兼容特性的轻量级集成开发环境。\n\n只支持deepin 20 23",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/f1cfbf0b4dc94e1da43d3e3824bf170a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/b048a7b1b38c4799868073e69f4004ac.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/f1df0a36bc784b73bdb25062169d398b.png"
-}
-,
-{
     "Name": "微信开发者工具 Linux版",
     "Version": "1.06.2405020-1",
     "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb",
@@ -470,6 +453,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/e55c0fdceb584602a3aa6899d7a27ee5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/51d2d517a4e043a09c06a115de49e2f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/2a00f563ad8140fd936cd563b76470da.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/964c4f05f90644678f1e8a5804c93734.png"
+}
+,
+{
+    "Name": "deepin IDE (深度IDE)",
+    "Version": "1.3.3-1",
+    "Filename": "deepin-unioncode_1.3.3-1_amd64.deb",
+    "Torrent_address": "deepin-unioncode_1.3.3-1_amd64.deb.torrent",
+    "Pkgname": "deepin-unioncode",
+    "Author": "Deepin Packages Builder <packages@linuxdeepin.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://www.deepin.org",
+    "Update": "2024-06-16 01:20:50",
+    "Size": "70.5 MB",
+    "More": "深度集成开发环境是由深度公司自主研发，具有多语言、跨平台兼容特性的轻量级集成开发环境。\n\n只支持deepin 20 23",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/f1cfbf0b4dc94e1da43d3e3824bf170a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/b048a7b1b38c4799868073e69f4004ac.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/f1df0a36bc784b73bdb25062169d398b.png"
 }
 ,
 {
@@ -1321,6 +1321,23 @@
 }
 ,
 {
+    "Name": "编程猫源码编辑器",
+    "Version": "3.7.14",
+    "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
+    "Torrent_address": "cn.codemao.kitten3_3.7.14_amd64.deb.torrent",
+    "Pkgname": "cn.codemao.kitten3",
+    "Author": "编程猫 <crc@codemao.cn>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://codemao.cn",
+    "Update": "2023-01-01 18:48:08",
+    "Size": "123.71 MB",
+    "More": "支持离线编辑代码，让创作更简单。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
+}
+,
+{
     "Name": "Distrobox",
     "Version": "1.4.2.1~spark2",
     "Filename": "distrobox_1.4.2.1~spark2_all.deb",
@@ -1369,23 +1386,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/880688a2a89b429ea32a6166427fe18a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/18f691a9920a4f8889a53c43a384a8a8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/75ecfa627abc46d19a87e679301b7127.png"
-}
-,
-{
-    "Name": "编程猫源码编辑器",
-    "Version": "3.7.14",
-    "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
-    "Torrent_address": "cn.codemao.kitten3_3.7.14_amd64.deb.torrent",
-    "Pkgname": "cn.codemao.kitten3",
-    "Author": "编程猫 <crc@codemao.cn>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://codemao.cn",
-    "Update": "2023-01-01 18:48:08",
-    "Size": "123.71 MB",
-    "More": "支持离线编辑代码，让创作更简单。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
 }
 ,
 {

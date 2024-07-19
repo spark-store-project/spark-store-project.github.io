@@ -5032,6 +5032,27 @@ Description:
 License: MIT
 Vendor: Jokul <986432015@qq.com>
 
+Package: linglong-store
+Architecture: amd64
+Version: 1.2.9
+Priority: optional
+Section: default
+Maintainer: Jokul <986432015@qq.com>
+Installed-Size: 322851
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: tools/linglong-store/linglong-store_1.2.9_amd64.deb
+Size: 77839530
+MD5sum: 0fb276cd0d73e629510883ff0e36183a
+SHA1: 34800d91a5fcb34b0822c27c7064a5d288081ac7
+SHA256: 3545d1cc28f715e0d042a13a57cd742cd7b43525dda1e4cea133d323f597dbe3
+SHA512: cfaff69406178d16821c91127640f32bda4aeaa02748ea58a5e21b1c8f1a28f2330213b21b31d716c75bcc7f369ffff9f4e387088f7688b9359afef357dc16ea
+Homepage: https://github.com/GershonWang/linglong-store
+Description: 
+  简易式玲珑商店客户端
+License: MIT
+Vendor: Jokul <986432015@qq.com>
+
 Package: com.htyclock.spark
 Architecture: amd64
 Version: 1.0
@@ -6985,6 +7006,27 @@ SHA1: a383b37674fe0e8408db8de53649246f1d48a864
 SHA256: d4b9404ee9f1fd1c6836aecdb2055cb2a6c5a2e356064ce40b3962755049ee73
 SHA512: 6418d606d128186cd1af13a585cbbf0152cecf589508cdb7eccccbaeca14b02fbb5e29ed8d8b1dcb9d21c7406194c426d8a2d16852db9f3226f3132b4434e5ff
 Description: 下厨房美食菜谱网倡导在家烹饪、健康的生活方式,提供有版权的实用菜谱做法与饮食知识,提供厨师和美食爱好者一个记录、分享的平台。
+
+Package: com.gitee.uengine.runner.spark
+Architecture: all
+Version: 2.2.1
+Priority: optional
+Section: utils
+Source: com.gitee.uengine.runner.spark
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 9384
+Depends: python3, python3-tk, python3-pip, python3-setuptools, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity, python3-pil.imagetk
+Recommends: uengine, deepin-elf-verify, python3-pyqt5.qtwebengine, aapt
+Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu, kbox
+Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
+Filename: tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.1_all.deb
+Size: 4798900
+MD5sum: 3adc172acaf3c0030c0e6400a5074015
+SHA1: 45a7340f0bc4ed4ed902a65320c60157644ee897
+SHA256: 57756a10697a4fcddf19c3cc23eb9495dad34be2ff5752284c876711f5bfee5d
+SHA512: 65ee244579d7b7f9063fd60ee26569e1b7fa4cf74687eada310e6d8a333db46e5f76de4670f9e543ae85ae5d9869c53642096f764a3d9494f3e91bcfe8b0e4e3
+Homepage: https://gitee.com/gfdgd-xi/uengine-runner
+Description: 新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装/卸载/打包自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。
 
 Package: com.gitee.uengine.runner.spark
 Architecture: all
@@ -15350,6 +15392,23 @@ Homepage: https://gitee.com/zinface/x11vnc-autoservice
 Description: auto-generated package by cmake-package-deb
   x11vnc 的用户服务，在 x11vnc 崩溃时会自动重启 x11vnc.
  开启用户登录时自动启动该服务 systemctl --user enable x11vnc.service
+
+Package: cn.com.yinhe
+Architecture: amd64
+Version: 2.8.6.6
+Priority: optional
+Section: office
+Maintainer: wumeijie <wumeijie@myhexin.com>
+Depends: libssl1.1
+Filename: others/cn.com.yinhe/cn.com.yinhe_2.8.6.6_amd64.deb
+Size: 119809112
+MD5sum: 096d09d8183209fc7331dc3cb37eb30b
+SHA1: 021d3b5e3f8625850819d3a712e8fe77d4146c54
+SHA256: ab4d050bc03352b55d9f1cffc62f6d99323e1ca7dfdeb58dc2daead2d7456a4f
+SHA512: 1e6d9c630701d02a1f6fab5f99bbf70f75d5005621bc21aa965667cf7b3b77b0a83e3c4d52465adc432d153400d36d60b11ba780c93d5078bf95f962c2b07510
+Homepage: http://www.10jqka.com.cn
+Description: a tool for scanning the stock infomation
+Install-Size: 101691
 
 Package: mmex
 Architecture: amd64
