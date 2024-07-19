@@ -620,23 +620,6 @@
 }
 ,
 {
-    "Name": "Tilde",
-    "Version": "1.0.0",
-    "Filename": "tilde-podcast_1.0.0_amd64.deb",
-    "Torrent_address": "tilde-podcast_1.0.0_amd64.deb.torrent",
-    "Pkgname": "tilde-podcast",
-    "Author": "paologiuaa",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/paologiua/tilde",
-    "Update": "2022-03-27 00:43:18",
-    "Size": "53.31 MB",
-    "More": "一款漂亮、优雅的播客客户端",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/27/ba488c20-ad23-11ec-a15e-af19baa261cd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/27/bcefde60-ad23-11ec-a15e-af19baa261cd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/27/b70b6280-ad23-11ec-a15e-af19baa261cd.png"
-}
-,
-{
     "Name": "Virtual DJ Studio Pro",
     "Version": "8.3.4787spark0",
     "Filename": "com.virtualdj.virtualdjpro.spark_8.3.4787spark0_amd64.deb",
@@ -651,6 +634,23 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/c73d5970-00c4-11ed-a347-a1bd6736f343.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/c98c0460-00c4-11ed-a347-a1bd6736f343.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/07/11/cbe1b430-00c4-11ed-a347-a1bd6736f343.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/07/11/c07645c0-00c4-11ed-a347-a1bd6736f343.png"
+}
+,
+{
+    "Name": "Tilde",
+    "Version": "1.0.0",
+    "Filename": "tilde-podcast_1.0.0_amd64.deb",
+    "Torrent_address": "tilde-podcast_1.0.0_amd64.deb.torrent",
+    "Pkgname": "tilde-podcast",
+    "Author": "paologiuaa",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/paologiua/tilde",
+    "Update": "2022-03-27 00:43:18",
+    "Size": "53.31 MB",
+    "More": "一款漂亮、优雅的播客客户端",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/27/ba488c20-ad23-11ec-a15e-af19baa261cd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/27/bcefde60-ad23-11ec-a15e-af19baa261cd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/27/b70b6280-ad23-11ec-a15e-af19baa261cd.png"
 }
 ,
 {
@@ -1048,6 +1048,23 @@
 }
 ,
 {
+    "Name": "musicfox 源码编译版",
+    "Version": "2024.05.27-2",
+    "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
+    "Torrent_address": "go-musicfox-git_2024.05.27-2_amd64.deb.torrent",
+    "Pkgname": "go-musicfox-git",
+    "Author": "go-musicfox <abhoder@88.com>",
+    "Contributor": "xmb505 <530060699@qq.com>",
+    "Website": "https://github.com/go-musicfox",
+    "Update": "2024-05-27 21:48:22",
+    "Size": "854 Bytes",
+    "More": "安装前请先添加go语言的ppa源\nsudo add-apt-repository ppa:longsleep/golang-backports\n此软件包为编译包，安装前请保持网络通畅\n\ngo-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
+}
+,
+{
     "Name": "mp3DirectCut",
     "Version": "2.36spark0",
     "Filename": "de.mpesch3.mp3directcut.spark_2.36spark0_amd64.deb",
@@ -1096,23 +1113,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/13/d51684d337de474abe812e1d5c5011eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/13/105db3f9a4da403cad721b115ff0e5fb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/13/0d533a0438b347a18d760a1b6cf7eea9.png"
-}
-,
-{
-    "Name": "musicfox 源码编译版",
-    "Version": "2024.05.27-2",
-    "Filename": "go-musicfox-git_2024.05.27-2_amd64.deb",
-    "Torrent_address": "go-musicfox-git_2024.05.27-2_amd64.deb.torrent",
-    "Pkgname": "go-musicfox-git",
-    "Author": "go-musicfox <abhoder@88.com>",
-    "Contributor": "xmb505 <530060699@qq.com>",
-    "Website": "https://github.com/go-musicfox",
-    "Update": "2024-05-27 21:48:22",
-    "Size": "854 Bytes",
-    "More": "安装前请先添加go语言的ppa源\nsudo add-apt-repository ppa:longsleep/golang-backports\n此软件包为编译包，安装前请保持网络通畅\n\ngo-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/e4b0756b4d984118b00e47e7221a2947.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/cb8df42c3a194357a62f49e3ec25fc35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/5af0f5b0eb91440aaf2be4f307adeb97.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/a90862f202844246aa945464094d35bf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/27/59eef96031a648429e8cf1a846659c48.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/27/02f54b0572ad4f698c430777bb9bad5d.png"
 }
 ,
 {

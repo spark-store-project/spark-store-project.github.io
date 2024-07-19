@@ -1412,6 +1412,20 @@
 
 ,
 {
+   "Name":"海天鹰文件管理器",
+   "Version":"2.9",
+   "Filename":"htyfm-spark_2.9_amd64.deb",
+   "Pkgname":"htyfm-spark",
+   "Author":"黄颖",
+   "Contributor":"shenmo",
+   "Website":"github.com/sonichy",
+   "Update":"2020-09-05 19:17",
+   "Size":"83.60KB",
+   "More":"一款好用的文件管理器"
+}
+
+,
+{
     "Name": "WPS Office 版本信息及字体检测小工具",
     "Version": "0.3-1",
     "Filename": "wps-check_0.3-1_all.deb",
@@ -1427,20 +1441,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
 }
-,
-{
-   "Name":"海天鹰文件管理器",
-   "Version":"2.9",
-   "Filename":"htyfm-spark_2.9_amd64.deb",
-   "Pkgname":"htyfm-spark",
-   "Author":"黄颖",
-   "Contributor":"shenmo",
-   "Website":"github.com/sonichy",
-   "Update":"2020-09-05 19:17",
-   "Size":"83.60KB",
-   "More":"一款好用的文件管理器"
-}
-
 ,
 {
     "Name": "Macast",
@@ -1527,23 +1527,6 @@
 
 ,
 {
-    "Name": "electerm",
-    "Version": "1.39.68-1",
-    "Filename": "electerm_1.39.68-1_amd64.deb",
-    "Torrent_address": "electerm_1.39.68-1_amd64.deb.torrent",
-    "Pkgname": "electerm",
-    "Author": "ZHAO Xudong <zxdong@gmail.com>",
-    "Contributor": "zzy",
-    "Website": "https://electerm.html5beta.com",
-    "Update": "2024-07-11 10:15:53",
-    "Size": "66.51 MB",
-    "More": "开源终端/ssh/telnet/serialport/RDP/VNC/sftp客户端(linux, mac, win)。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/36a15dbd63ad4870aff25b7ddd86cdaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/a78ab2797ae34e49931f301ef3b7b374.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/7de5ae83b369439aa3b21df24fd8405f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/11/37da6b1891bf4f7383085eb783c05da1.png"
-}
-,
-{
     "Name": "CopyQ",
     "Version": "9.0.0-1",
     "Filename": "copyq_9.0.0-1_amd64.deb",
@@ -1558,6 +1541,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/e42f4138860d4cd28ca5ca7b450170be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/15be502006994a539a93e6288fb0b803.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/ab414cc6119846928ae9c9dfa2dcd6fb.png"
+}
+,
+{
+    "Name": "electerm",
+    "Version": "1.39.68-1",
+    "Filename": "electerm_1.39.68-1_amd64.deb",
+    "Torrent_address": "electerm_1.39.68-1_amd64.deb.torrent",
+    "Pkgname": "electerm",
+    "Author": "ZHAO Xudong <zxdong@gmail.com>",
+    "Contributor": "zzy",
+    "Website": "https://electerm.html5beta.com",
+    "Update": "2024-07-11 10:15:53",
+    "Size": "66.51 MB",
+    "More": "开源终端/ssh/telnet/serialport/RDP/VNC/sftp客户端(linux, mac, win)。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/36a15dbd63ad4870aff25b7ddd86cdaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/a78ab2797ae34e49931f301ef3b7b374.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/7de5ae83b369439aa3b21df24fd8405f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/11/37da6b1891bf4f7383085eb783c05da1.png"
 }
 ,
 {
@@ -2433,6 +2433,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
+    "Version": "10.0.9.0.8-903spark1",
+    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
+    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
+    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
+    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.taotics.com/",
+    "Update": "2024-07-02 07:41:36",
+    "Size": "59.98 MB",
+    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
     "Name": "PeaZip",
     "Version": "9.8.0",
     "Filename": "peazip_9.8.0_amd64.deb",
@@ -2497,23 +2514,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-,
-{
-    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
-    "Version": "10.0.9.0.8-903spark1",
-    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
-    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
-    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
-    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.taotics.com/",
-    "Update": "2024-07-02 07:41:36",
-    "Size": "59.98 MB",
-    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
 }
 ,
 {
@@ -2634,6 +2634,23 @@
 }
 ,
 {
+    "Name": "CPU-Z（Wine）",
+    "Version": "2.09spark0",
+    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+    "Pkgname": "com.cpuz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.cpuid.com/",
+    "Update": "2024-04-26 22:50:38",
+    "Size": "6.22 MB",
+    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+}
+,
+{
     "Name": "infomation-tips",
     "Version": "0.2.3-20240529",
     "Filename": "infomation-tips_0.2.3-20240529_amd64.deb",
@@ -2651,20 +2668,20 @@
 }
 ,
 {
-    "Name": "CPU-Z（Wine）",
-    "Version": "2.09spark0",
-    "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-    "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-    "Pkgname": "com.cpuz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.cpuid.com/",
-    "Update": "2024-04-26 22:50:38",
-    "Size": "6.22 MB",
-    "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
+    "Name": "通知中心天气小组件",
+    "Version": "0.1-1",
+    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
+    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
+    "Pkgname": "dde-widgets-weather-plugin",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
+    "Update": "2024-04-24 10:27:23",
+    "Size": "3.1 MB",
+    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
@@ -2699,23 +2716,6 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/41947650-ff96-11ee-b5ae-a318306da881.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/35b22a30-ff96-11ee-b5ae-a318306da881.png"
-}
-,
-{
-    "Name": "通知中心天气小组件",
-    "Version": "0.1-1",
-    "Filename": "dde-widgets-weather-plugin_0.1-1_amd64.deb",
-    "Torrent_address": "dde-widgets-weather-plugin_0.1-1_amd64.deb.torrent",
-    "Pkgname": "dde-widgets-weather-plugin",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://github.com/zty199/dde-widgets-weather-plugin",
-    "Update": "2024-04-24 10:27:23",
-    "Size": "3.1 MB",
-    "More": "一个简单的通知中心天气小组件，基于和风天气开发服务开发。",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/4dcb79eff8654ae79b2984638ab7849c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/f1cd8bb207bb4f33b4de84d1f27688e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/b73a74a7b2cc4402a3918623d7d01278.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/24/a16b522362684bf8a7c72b08a676f017.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/24/574f62857e744d6db3046b8053364a02.png"
 }
 ,
 {
@@ -3253,6 +3253,23 @@
 
 ,
 {
+    "Name": "Mathpix",
+    "Version": "3.00.0093",
+    "Filename": "mathpix-spark_3.00.0093_amd64.deb",
+    "Torrent_address": "mathpix-spark_3.00.0093_amd64.deb.torrent",
+    "Pkgname": "mathpix-spark",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://mathpix.com/",
+    "Update": "2023-02-28 18:30:59",
+    "Size": "127.37 MB",
+    "More": "Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0ecab54b5f5a4443a171cdc862470dd6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/29a5882b5a394a7d90d508455c0789c4.png"
+}
+,
+{
     "Name": "CPU 排名搜索工具",
     "Version": "0.1-20231206",
     "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
@@ -3287,23 +3304,6 @@
 }
 ,
 {
-    "Name": "Mathpix",
-    "Version": "3.00.0093",
-    "Filename": "mathpix-spark_3.00.0093_amd64.deb",
-    "Torrent_address": "mathpix-spark_3.00.0093_amd64.deb.torrent",
-    "Pkgname": "mathpix-spark",
-    "Author": "spark-store",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://mathpix.com/",
-    "Update": "2023-02-28 18:30:59",
-    "Size": "127.37 MB",
-    "More": "Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0ecab54b5f5a4443a171cdc862470dd6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/29a5882b5a394a7d90d508455c0789c4.png"
-}
-,
-{
     "Name": "DDE手势管理器",
     "Version": "1.0.3.3",
     "Filename": "com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb",
@@ -3321,6 +3321,22 @@
 }
 ,
 {
+    "Name": "无线鼠标",
+    "Version": "1.1.0",
+    "Filename": "mousemove_1.1.0_amd64.deb",
+    "Pkgname": "mousemove",
+    "Author": "zhangyongwei10",
+    "Contributor": "zhangyongwei10",
+    "Website": "https://gitee.com/zhangyongwei11/mousemove/releases/1.0.0",
+    "Update": "2021-07-08 22:14:56",
+    "Size": "60.06 MB",
+    "More": "通过蓝牙或者无线网络，连接手机和电脑，使得手机可以控制电脑鼠标。\n手机体验版app获取方式，点击官网下载apk文件或者在软件打开的主窗口中扫描二维码下载；\n手机正式版app获取方式，手机华为应用商店搜索无线鼠标；\n使用蓝牙方式连接手机和电脑时，需要做以下准备：首先要安装libbluetooth-dev，必须安装(依赖关系)；其次需要设置蓝牙服务运行状态为兼容模式，到/etc/systemd/system/bluetooth.target.wants/目录下，以管理员权限打开bluetooth.service文件，在ExecStart=***这一行最后面添加 -C参数（记得添加空格），-C即-compat兼容性参数，然后重启电脑或者重新载入systemctl配置（sudo systemctl daemon-reload）并重启蓝牙服务（sudo systemctl restart bluetooth)。\n软件包安装后生成两个图标。带有root字样的图标点击后需要输入管理员密码，可以使用蓝牙连接方式；另一个图标点击进入后可以使用wifi连接方式。",
+    "Tags": "uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/699f79a0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/9201c330-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/971d49c0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/a1057390-dff6-11eb-8d27-75bc4085fde2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/99cd4400-dff5-11eb-8d27-75bc4085fde2.svg"
+}
+,
+{
     "Name": "magnetw",
     "Version": "3.1.1-linux",
     "Filename": "magnetw-3.1.1-linux_3.1.1-linux_all.deb",
@@ -3335,22 +3351,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
-}
-,
-{
-    "Name": "无线鼠标",
-    "Version": "1.1.0",
-    "Filename": "mousemove_1.1.0_amd64.deb",
-    "Pkgname": "mousemove",
-    "Author": "zhangyongwei10",
-    "Contributor": "zhangyongwei10",
-    "Website": "https://gitee.com/zhangyongwei11/mousemove/releases/1.0.0",
-    "Update": "2021-07-08 22:14:56",
-    "Size": "60.06 MB",
-    "More": "通过蓝牙或者无线网络，连接手机和电脑，使得手机可以控制电脑鼠标。\n手机体验版app获取方式，点击官网下载apk文件或者在软件打开的主窗口中扫描二维码下载；\n手机正式版app获取方式，手机华为应用商店搜索无线鼠标；\n使用蓝牙方式连接手机和电脑时，需要做以下准备：首先要安装libbluetooth-dev，必须安装(依赖关系)；其次需要设置蓝牙服务运行状态为兼容模式，到/etc/systemd/system/bluetooth.target.wants/目录下，以管理员权限打开bluetooth.service文件，在ExecStart=***这一行最后面添加 -C参数（记得添加空格），-C即-compat兼容性参数，然后重启电脑或者重新载入systemctl配置（sudo systemctl daemon-reload）并重启蓝牙服务（sudo systemctl restart bluetooth)。\n软件包安装后生成两个图标。带有root字样的图标点击后需要输入管理员密码，可以使用蓝牙连接方式；另一个图标点击进入后可以使用wifi连接方式。",
-    "Tags": "uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/699f79a0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/9201c330-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/971d49c0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/a1057390-dff6-11eb-8d27-75bc4085fde2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/99cd4400-dff5-11eb-8d27-75bc4085fde2.svg"
 }
 ,
 {
@@ -3388,6 +3388,23 @@
 }
 ,
 {
+    "Name": "dock栏居中配置(dde)",
+    "Version": "0.0.2",
+    "Filename": "dde-dock-display-center_0.0.2_all.deb",
+    "Torrent_address": "dde-dock-display-center_0.0.2_all.deb.torrent",
+    "Pkgname": "dde-dock-display-center",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/dde-dock-display-center",
+    "Update": "2024-04-14 03:04:14",
+    "Size": "1.13 KB",
+    "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c4547533ae224070a02f73de212b2661.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c1f9ef1189524f81936c1fd2bbfd75a5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/bfdae9aac4cd413c87c340f5cfaa48c8.png"
+}
+,
+{
     "Name": "NTPWEdit（Wine）",
     "Version": "1.0.0",
     "Filename": "com.ntpwedit.spark_1.0.0_i386.deb",
@@ -3402,6 +3419,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c3e58599b4fc45a496935b648c221ed1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/d308f74d65e34fe0b47342c9ef5612ac.png"
+}
+,
+{
+    "Name": "ksnip",
+    "Version": "1.10.1spark0",
+    "Filename": "com.github.ksnip.spark_1.10.1spark0_amd64.deb",
+    "Torrent_address": "com.github.ksnip.spark_1.10.1spark0_amd64.deb.torrent",
+    "Pkgname": "com.github.ksnip.spark",
+    "Author": "ksnip",
+    "Contributor": "sgb76",
+    "Website": "http://ksnip.org",
+    "Update": "2023-03-16 16:12:01",
+    "Size": "20.94 MB",
+    "More": "一款小巧实用的跨平台截图工具\n\n说明：\n1.官方deb包在deepin下运行缺少依赖，因此将官方AppImage包拆包后重新打包为deb包，可以在deepin下正常运行了\n2.Ubuntu的官方源里有此软件的官方包，因此Ubuntu下直接apt安装即可",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1fca0b2bed8f4fbe860d01a183c70bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f02ebb8ea3894927b58e9f3b7dbcfa4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/59c4cfe9b6af4ede84447f635e69e79f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/f616f49b4e1a427ebf6210c401250593.png"
 }
 ,
 {
@@ -3453,40 +3487,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
-}
-,
-{
-    "Name": "dock栏居中配置(dde)",
-    "Version": "0.0.2",
-    "Filename": "dde-dock-display-center_0.0.2_all.deb",
-    "Torrent_address": "dde-dock-display-center_0.0.2_all.deb.torrent",
-    "Pkgname": "dde-dock-display-center",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/dde-dock-display-center",
-    "Update": "2024-04-14 03:04:14",
-    "Size": "1.13 KB",
-    "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c4547533ae224070a02f73de212b2661.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c1f9ef1189524f81936c1fd2bbfd75a5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/bfdae9aac4cd413c87c340f5cfaa48c8.png"
-}
-,
-{
-    "Name": "ksnip",
-    "Version": "1.10.1spark0",
-    "Filename": "com.github.ksnip.spark_1.10.1spark0_amd64.deb",
-    "Torrent_address": "com.github.ksnip.spark_1.10.1spark0_amd64.deb.torrent",
-    "Pkgname": "com.github.ksnip.spark",
-    "Author": "ksnip",
-    "Contributor": "sgb76",
-    "Website": "http://ksnip.org",
-    "Update": "2023-03-16 16:12:01",
-    "Size": "20.94 MB",
-    "More": "一款小巧实用的跨平台截图工具\n\n说明：\n1.官方deb包在deepin下运行缺少依赖，因此将官方AppImage包拆包后重新打包为deb包，可以在deepin下正常运行了\n2.Ubuntu的官方源里有此软件的官方包，因此Ubuntu下直接apt安装即可",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1fca0b2bed8f4fbe860d01a183c70bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f02ebb8ea3894927b58e9f3b7dbcfa4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/59c4cfe9b6af4ede84447f635e69e79f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/f616f49b4e1a427ebf6210c401250593.png"
 }
 ,
 {
@@ -3775,6 +3775,23 @@
 }
 ,
 {
+    "Name": "经传多赢股票",
+    "Version": "8.0.4",
+    "Filename": "com.jzdy.deepin_8.0.4_all.deb",
+    "Torrent_address": "com.jzdy.deepin_8.0.4_all.deb.torrent",
+    "Pkgname": "com.jzdy.deepin",
+    "Author": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
+    "Contributor": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
+    "Website": "https://www.jingzhuan.cn/",
+    "Update": "2024-01-16 10:45:41",
+    "Size": "165.38 MB",
+    "More": "[现在下载经传多赢股票，体验新人炒股权益，领取价值千元大礼！] [经传多赢股票] 提供沪深Level-1行情、Level-2行情、股市热点资讯等。20年深耕证券信息领域，沉淀100+盈利模型，股票投资，就选经传多赢股票！ [三板斧战法+出击信号] 结合三大自研指标，个股出击信号实时推送！系统性衍生战法实战运用，把握趋势机会，锁住波段收益！ [经选内参] 投研团队倾力制作，爆品策略解读文+行业热门专题剖析，紧紧抓住股市大小机遇！",
+    "Tags": "uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/2fad901da12b4d8a9a9e90793129db27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/1fad636144ba4f5595bcf5dfb41ec014.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/ed1de7c620274c4d977526cbecec49a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/3065f6cd0e064662adfb497dc54649be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/adfa3e43626d46a185f0766d446e8b7c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/16/2d549608e3814883815a54522f000dbc.png"
+}
+,
+{
     "Name": "TagSpaces",
     "Version": "4.3.1",
     "Filename": "tagspaces_4.3.1_amd64.deb",
@@ -3806,23 +3823,6 @@
     "Tags": "deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/29/0ba80470-7617-11ee-b02a-ffa67c89e541.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/e0070aa0-7616-11ee-b02a-ffa67c89e541.png"
-}
-,
-{
-    "Name": "经传多赢股票",
-    "Version": "8.0.4",
-    "Filename": "com.jzdy.deepin_8.0.4_all.deb",
-    "Torrent_address": "com.jzdy.deepin_8.0.4_all.deb.torrent",
-    "Pkgname": "com.jzdy.deepin",
-    "Author": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
-    "Contributor": "Guangzhou JingZhuanDuoYing Investment Consulting . Ltd.",
-    "Website": "https://www.jingzhuan.cn/",
-    "Update": "2024-01-16 10:45:41",
-    "Size": "165.38 MB",
-    "More": "[现在下载经传多赢股票，体验新人炒股权益，领取价值千元大礼！] [经传多赢股票] 提供沪深Level-1行情、Level-2行情、股市热点资讯等。20年深耕证券信息领域，沉淀100+盈利模型，股票投资，就选经传多赢股票！ [三板斧战法+出击信号] 结合三大自研指标，个股出击信号实时推送！系统性衍生战法实战运用，把握趋势机会，锁住波段收益！ [经选内参] 投研团队倾力制作，爆品策略解读文+行业热门专题剖析，紧紧抓住股市大小机遇！",
-    "Tags": "uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/2fad901da12b4d8a9a9e90793129db27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/1fad636144ba4f5595bcf5dfb41ec014.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/ed1de7c620274c4d977526cbecec49a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/3065f6cd0e064662adfb497dc54649be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/adfa3e43626d46a185f0766d446e8b7c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/16/2d549608e3814883815a54522f000dbc.png"
 }
 ,
 {
@@ -4248,6 +4248,23 @@
 }
 ,
 {
+    "Name": "Copy 2 Online",
+    "Version": "1.0.8",
+    "Filename": "c2o-desktop_1.0.8_amd64.deb",
+    "Torrent_address": "c2o-desktop_1.0.8_amd64.deb.torrent",
+    "Pkgname": "c2o-desktop",
+    "Author": "Copy 2 Online <c2o-support@copy2.online>",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://copy2.online/platforms",
+    "Update": "2022-10-15 10:47:40",
+    "Size": "56.25 MB",
+    "More": "Copy 2 Online是一个基于云的多平台剪贴板管理器，允许您访问、查看和管理复制历史记录。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/10f00fa3-56d4-4bb4-a636-d82125fe4265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/a3507118-c2bd-4a74-b3c4-db80f02be921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/f105240f-0e69-4f1d-87e4-c0804ded075c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/3139ef37-f144-4384-9339-fe873fad05c8.png"
+}
+,
+{
     "Author": "shenmo <shenmo@spark-app.stpre>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "autotrash-bash_1.1.1_all.deb",
@@ -4296,23 +4313,6 @@
     "Tags": "deepin;uos;dtk5;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/28/02b620a35afd4f7b9ced2b1b7a787a52.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/28/26da26c05a724b388bdb834b11575521.png"
-}
-,
-{
-    "Name": "Copy 2 Online",
-    "Version": "1.0.8",
-    "Filename": "c2o-desktop_1.0.8_amd64.deb",
-    "Torrent_address": "c2o-desktop_1.0.8_amd64.deb.torrent",
-    "Pkgname": "c2o-desktop",
-    "Author": "Copy 2 Online <c2o-support@copy2.online>",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://copy2.online/platforms",
-    "Update": "2022-10-15 10:47:40",
-    "Size": "56.25 MB",
-    "More": "Copy 2 Online是一个基于云的多平台剪贴板管理器，允许您访问、查看和管理复制历史记录。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/10f00fa3-56d4-4bb4-a636-d82125fe4265.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/a3507118-c2bd-4a74-b3c4-db80f02be921.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/f105240f-0e69-4f1d-87e4-c0804ded075c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/3139ef37-f144-4384-9339-fe873fad05c8.png"
 }
 ,
 {
@@ -4876,6 +4876,23 @@
 }
 ,
 {
+    "Name": "剪贴板历史分析工具",
+    "Version": "0.0.1-20240717",
+    "Filename": "clipboard-history-analyzer_0.0.1-20240717_amd64.deb",
+    "Torrent_address": "clipboard-history-analyzer_0.0.1-20240717_amd64.deb.torrent",
+    "Pkgname": "clipboard-history-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.clipboard-history-analyzer.git",
+    "Update": "2024-07-17 19:35:01",
+    "Size": "60.67 KB",
+    "More": "剪贴板历史分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地处理重用复制粘贴的数据。\n .\n 这款工具具有简单易用的特点，让用户能够将复制-粘贴操作分离，从而更高效地进行管理和维护所使用的数据。\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/dbb8486489364ac4b7e55bd9d8001592.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/99d993dc08f94bcd82b0cc87b00cfe75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/af22ea3aaeef464c9836512fad5442fd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/17/520babfb408443a0816213fa684686c6.png"
+}
+,
+{
     "Name": "xonsh --在终端里运行python命令",
     "Version": "0.14.0+dfsg-1",
     "Filename": "xonsh_0.14.0_plusdfsg-1_all.deb",
@@ -4958,22 +4975,5 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3b5c6390-d82a-11ed-96e3-3560d378947d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3ba4de40-d82a-11ed-96e3-3560d378947d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/11/79969090-d82a-11ed-96e3-3560d378947d.png"
-}
-,
-{
-    "Name": "剪贴板历史分析工具",
-    "Version": "0.0.1-20240717",
-    "Filename": "clipboard-history-analyzer_0.0.1-20240717_amd64.deb",
-    "Torrent_address": "clipboard-history-analyzer_0.0.1-20240717_amd64.deb.torrent",
-    "Pkgname": "clipboard-history-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.clipboard-history-analyzer.git",
-    "Update": "2024-07-17 19:35:01",
-    "Size": "60.67 KB",
-    "More": "剪贴板历史分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地处理重用复制粘贴的数据。\n .\n 这款工具具有简单易用的特点，让用户能够将复制-粘贴操作分离，从而更高效地进行管理和维护所使用的数据。\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/dbb8486489364ac4b7e55bd9d8001592.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/99d993dc08f94bcd82b0cc87b00cfe75.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/af22ea3aaeef464c9836512fad5442fd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/17/520babfb408443a0816213fa684686c6.png"
 }
 ]

@@ -424,23 +424,6 @@
 }
 ,
 {
-    "Name": "腾讯会议（wine）",
-    "Version": "2.8.7.400deepin7",
-    "Filename": "com.tencent.meeting.deepin_2.8.7.400deepin7_i386.deb",
-    "Torrent_address": "com.tencent.meeting.deepin_2.8.7.400deepin7_i386.deb.torrent",
-    "Pkgname": "com.tencent.meeting.deepin",
-    "Author": "Deepin WINE Team",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://meeting.tencent.com/",
-    "Update": "2023-05-27 14:04:25",
-    "Size": "111.35 MB",
-    "More": "该版本为deepin商店的版本，使用到 deepin-wine6 。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/3f2bfff709f849618445dd531fd8f939.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/b5f9f8d6daa14715b2aea5efe9bb1c6b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/292f0710c3644131aa9edd75cdd57f42.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/d7e4d04aafdf47699c939824d3e6fa37.png"
-}
-,
-{
     "Name": "希沃白板5 Wine",
     "Version": "5.2.2.6111+1",
     "Filename": "com.seewo.easinote.spark_5.2.2.6111_plus1_i386.deb",
@@ -455,6 +438,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/c7152eab761b4f3ab02531364474b298.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/6a1156d792e04f4c8abf93699303b157.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/f34d99f873014d29b9993aca15de69b4.png"
+}
+,
+{
+    "Name": "腾讯会议（wine）",
+    "Version": "2.8.7.400deepin7",
+    "Filename": "com.tencent.meeting.deepin_2.8.7.400deepin7_i386.deb",
+    "Torrent_address": "com.tencent.meeting.deepin_2.8.7.400deepin7_i386.deb.torrent",
+    "Pkgname": "com.tencent.meeting.deepin",
+    "Author": "Deepin WINE Team",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://meeting.tencent.com/",
+    "Update": "2023-05-27 14:04:25",
+    "Size": "111.35 MB",
+    "More": "该版本为deepin商店的版本，使用到 deepin-wine6 。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/3f2bfff709f849618445dd531fd8f939.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/b5f9f8d6daa14715b2aea5efe9bb1c6b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/292f0710c3644131aa9edd75cdd57f42.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/d7e4d04aafdf47699c939824d3e6fa37.png"
 }
 ,
 {
@@ -1112,6 +1112,23 @@
 }
 ,
 {
+    "Name": "QQ邮箱(web)",
+    "Version": "1.0",
+    "Filename": "web-qqmail_1.0_amd64.deb",
+    "Torrent_address": "web-qqmail_1.0_amd64.deb.torrent",
+    "Pkgname": "web-qqmail",
+    "Author": "腾讯",
+    "Contributor": "heymu66",
+    "Website": "mail.qq.com",
+    "Update": "2023-02-12 12:45:35",
+    "Size": "16.23 KB",
+    "More": "QQ邮箱web，使用星火网页打包工具打包。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/2a572d978d8340c397b5b78b1cffb520.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/d52fa7b991cd409fb29b3349c35992bb.png"
+}
+,
+{
     "Name": "Microsoft Teams",
     "Version": "1.5.00.23861",
     "Filename": "teams_1.5.00.23861_amd64.deb",
@@ -1143,23 +1160,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/a8c1f4bc22e34a0f8a12f5ba435674aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/3bc19b4296524ce19a7973bd4c31de8d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/02/43b935d212444000bdb06395db7885bf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/02/79b404d8e06e4558b3da3675bf17e9f1.png"
-}
-,
-{
-    "Name": "QQ邮箱(web)",
-    "Version": "1.0",
-    "Filename": "web-qqmail_1.0_amd64.deb",
-    "Torrent_address": "web-qqmail_1.0_amd64.deb.torrent",
-    "Pkgname": "web-qqmail",
-    "Author": "腾讯",
-    "Contributor": "heymu66",
-    "Website": "mail.qq.com",
-    "Update": "2023-02-12 12:45:35",
-    "Size": "16.23 KB",
-    "More": "QQ邮箱web，使用星火网页打包工具打包。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/2a572d978d8340c397b5b78b1cffb520.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/d52fa7b991cd409fb29b3349c35992bb.png"
 }
 ,
 {
@@ -1333,23 +1333,6 @@
 }
 ,
 {
-    "Name": "万彩办公大师",
-    "Version": "3.1.2spark3",
-    "Filename": "com.officebox.spark_3.1.2spark3_i386.deb",
-    "Torrent_address": "com.officebox.spark_3.1.2spark3_i386.deb.torrent",
-    "Pkgname": "com.officebox.spark",
-    "Author": "广州万彩信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.wofficebox.com/",
-    "Update": "2023-09-03 18:34:12",
-    "Size": "27.76 MB",
-    "More": "万彩办公大师是一款办公必备的小工具百宝箱，软件里集合了60+个小工具，一个软件即可搞定90%的工作需求。由于是wine打包，不保证所有工具都可以正常使用。\n\n--更新说明--\n改用deepin-wine6打包，优化了容器设置，解决了部分字体显示方框的问题",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/69b7cec4c0e747a6add2b4f4a1d63c68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/8afe0546cbb047cea1474cc6f143b4d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/4594ea432a13422aa8b47d0b8de7f513.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/03/e83b7ff584e341e0ae5b889336b42644.png"
-}
-,
-{
     "Name": "Stellarium",
     "Version": "23.2",
     "Filename": "stellarium_23.2_amd64.deb",
@@ -1364,6 +1347,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/03b6d71aa49c49fea1dca6c31413cc1d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/30c214af7911430b9082801b78b19239.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/3ace0396f4ad467c93714247f0ea2f2a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/03/6d94da4e18724f8f98b0e5a255738206.png"
+}
+,
+{
+    "Name": "万彩办公大师",
+    "Version": "3.1.2spark3",
+    "Filename": "com.officebox.spark_3.1.2spark3_i386.deb",
+    "Torrent_address": "com.officebox.spark_3.1.2spark3_i386.deb.torrent",
+    "Pkgname": "com.officebox.spark",
+    "Author": "广州万彩信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.wofficebox.com/",
+    "Update": "2023-09-03 18:34:12",
+    "Size": "27.76 MB",
+    "More": "万彩办公大师是一款办公必备的小工具百宝箱，软件里集合了60+个小工具，一个软件即可搞定90%的工作需求。由于是wine打包，不保证所有工具都可以正常使用。\n\n--更新说明--\n改用deepin-wine6打包，优化了容器设置，解决了部分字体显示方框的问题",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/69b7cec4c0e747a6add2b4f4a1d63c68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/8afe0546cbb047cea1474cc6f143b4d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/03/4594ea432a13422aa8b47d0b8de7f513.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/03/e83b7ff584e341e0ae5b889336b42644.png"
 }
 ,
 {
@@ -2336,22 +2336,6 @@
 }
 ,
 {
-    "Name": "360安全云盘",
-    "Version": "1.0.0.1013",
-    "Filename": "cn.360.cloud_1.0.0.1013_amd64.deb",
-    "Pkgname": "cn.360.cloud",
-    "Author": "360官方",
-    "Contributor": "清怨",
-    "Website": "https://yunpan.360.cn/",
-    "Update": "2021-01-29 20:02:18",
-    "Size": "21.25 MB",
-    "More": "支持国产龙芯、兆芯、飞腾芯片\n管理云端文件，上传下载备份文",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c8011f30-6229-11eb-887e-6339da1850f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/aa842420-6229-11eb-887e-6339da1850f7.jpg"
-}
-,
-{
     "Name": "Li文件浏览器",
     "Version": "24.6.7~beta",
     "Filename": "lwleen-file_24.6.7~beta_amd64.deb",
@@ -2366,6 +2350,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/72f4f935c5654c34bc2e46c8dcdb5997.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/c5757731dcd5420a9b00b854daf1b983.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/68bc3287ad7943c899e6d778941ab55f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/fd880d1874824ac9bf21793f674a23df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/5330f36cc8f644cba854812bcc75ec62.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/07/a01bb30475164d13bf3ddbc20262e98f.png"
+}
+,
+{
+    "Name": "360安全云盘",
+    "Version": "1.0.0.1013",
+    "Filename": "cn.360.cloud_1.0.0.1013_amd64.deb",
+    "Pkgname": "cn.360.cloud",
+    "Author": "360官方",
+    "Contributor": "清怨",
+    "Website": "https://yunpan.360.cn/",
+    "Update": "2021-01-29 20:02:18",
+    "Size": "21.25 MB",
+    "More": "支持国产龙芯、兆芯、飞腾芯片\n管理云端文件，上传下载备份文",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/29/c8011f30-6229-11eb-887e-6339da1850f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/29/aa842420-6229-11eb-887e-6339da1850f7.jpg"
 }
 ,
 {
@@ -2470,6 +2470,23 @@
 }
 ,
 {
+    "Name": "WPS Office 2016",
+    "Version": "10.1.0.6757spark1",
+    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
+    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
+    "Pkgname": "wps-office-2016",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://wps-community.org",
+    "Update": "2024-05-19 16:58:39",
+    "Size": "129.41 MB",
+    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+,
+{
     "Name": "微秘Linux版",
     "Version": "4.2.4",
     "Filename": "wemind_4.2.4_amd64.deb",
@@ -2503,40 +2520,6 @@
 }
 ,
 {
-    "Name": "超级星学习通",
-    "Version": "1.0.0",
-    "Filename": "chaoxingstudy_1.0.0_i386.deb",
-    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
-    "Pkgname": "chaoxingstudy",
-    "Author": "rc3583z<huawei0086@126.com>",
-    "Contributor": "rc3583z",
-    "Website": "huawei0086@126.com>",
-    "Update": "2023-04-16 09:10:55",
-    "Size": "480.5 MB",
-    "More": "学习通，完成作业。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
-}
-,
-{
-    "Name": "WPS Office 2016",
-    "Version": "10.1.0.6757spark1",
-    "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
-    "Torrent_address": "wps-office-2016_10.1.0.6757spark1_amd64.deb.torrent",
-    "Pkgname": "wps-office-2016",
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://wps-community.org",
-    "Update": "2024-05-19 16:58:39",
-    "Size": "129.41 MB",
-    "More": "WPS Office 2016 旧版本，三组件分别独立，资源占用更小，支持类 office 2003 经典界面\n云同步功能依旧可用\n与现行的 WPS Office， 2019 冲突",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
-}
-,
-{
     "Author": "Xylink team <support@xylink.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.xylink.linuxclient_3.3.1.15008_amd64.deb",
@@ -2553,6 +2536,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.xylink.linuxclient/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "超级星学习通",
+    "Version": "1.0.0",
+    "Filename": "chaoxingstudy_1.0.0_i386.deb",
+    "Torrent_address": "chaoxingstudy_1.0.0_i386.deb.torrent",
+    "Pkgname": "chaoxingstudy",
+    "Author": "rc3583z<huawei0086@126.com>",
+    "Contributor": "rc3583z",
+    "Website": "huawei0086@126.com>",
+    "Update": "2023-04-16 09:10:55",
+    "Size": "480.5 MB",
+    "More": "学习通，完成作业。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e202d70-dbf3-11ed-b7c5-79e728797698.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/16/2e32a400-dbf3-11ed-b7c5-79e728797698.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/16/2a1ddf10-dbf3-11ed-b7c5-79e728797698.png"
+}
 ,
 {
     "Name": "全球学术快报",
@@ -3140,6 +3140,23 @@
 }
 ,
 {
+    "Name": "希沃白板Web",
+    "Version": "1.14514",
+    "Filename": "wed-seewo_1.14514_all.deb",
+    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
+    "Pkgname": "wed-seewo",
+    "Author": "baimacao",
+    "Contributor": "baimacao",
+    "Website": "https://enweb.seewo.com/",
+    "Update": "2024-05-22 17:50:56",
+    "Size": "29.16 KB",
+    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
+}
+,
+{
     "Name": "GitMind（web）",
     "Version": "1.0spark0",
     "Filename": "web-gitmind_1.0spark0_amd64.deb",
@@ -3369,23 +3386,6 @@
     "Tags": "ubuntu;deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/e6476170-4f6d-11ec-ac04-2db8efe61b81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/e9946990-4f6d-11ec-ac04-2db8efe61b81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/27/ed152be0-4f6d-11ec-ac04-2db8efe61b81.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/27/e1f96410-4f6d-11ec-ac04-2db8efe61b81.png"
-}
-,
-{
-    "Name": "希沃白板Web",
-    "Version": "1.14514",
-    "Filename": "wed-seewo_1.14514_all.deb",
-    "Torrent_address": "wed-seewo_1.14514_all.deb.torrent",
-    "Pkgname": "wed-seewo",
-    "Author": "baimacao",
-    "Contributor": "baimacao",
-    "Website": "https://enweb.seewo.com/",
-    "Update": "2024-05-22 17:50:56",
-    "Size": "29.16 KB",
-    "More": "唯一被老师认可的希沃白板，可以正常上课，web应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/a0ba4974dee742fcb656146be01cb321.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/22/49082957d0c64a059f6cadb90be58342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/22/b80a658ca0594703ad75bcbd7c0abccb.png"
 }
 ,
 {
@@ -3656,6 +3656,23 @@
 }
 ,
 {
+    "Name": "hugo-extended 博客程序",
+    "Version": "0.124.1",
+    "Filename": "hugo_0.124.1_amd64.deb",
+    "Torrent_address": "hugo_0.124.1_amd64.deb.torrent",
+    "Pkgname": "hugo",
+    "Author": "Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
+    "Contributor": "LuijpCN",
+    "Website": "https://github.com/gohugoio/hugo",
+    "Update": "2024-04-10 03:45:39",
+    "Size": "22.08 MB",
+    "More": "The world’s fastest framework for building websites",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/797c5b279fc84888949d45624b77d504.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/beb846aa5b114735ae2854aa98142a7e.png"
+}
+,
+{
     "Name": "堆塔思维（wine）",
     "Version": "1.3.0spark0",
     "Filename": "com.duitasiwei.spark_1.3.0spark0_amd64.deb",
@@ -3719,23 +3736,6 @@
     "Tags": "deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/e27e1b10-20ca-11eb-8b68-e56d9275241d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/ea2dba00-20ca-11eb-8b68-e56d9275241d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/d44beb80-20ca-11eb-8b68-e56d9275241d.png"
-}
-,
-{
-    "Name": "hugo-extended 博客程序",
-    "Version": "0.124.1",
-    "Filename": "hugo_0.124.1_amd64.deb",
-    "Torrent_address": "hugo_0.124.1_amd64.deb.torrent",
-    "Pkgname": "hugo",
-    "Author": "Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
-    "Contributor": "LuijpCN",
-    "Website": "https://github.com/gohugoio/hugo",
-    "Update": "2024-04-10 03:45:39",
-    "Size": "22.08 MB",
-    "More": "The world’s fastest framework for building websites",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/797c5b279fc84888949d45624b77d504.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/beb846aa5b114735ae2854aa98142a7e.png"
 }
 ,
 {
@@ -4224,6 +4224,22 @@
 }
 ,
 {
+    "Name": "JabRef",
+    "Version": "5.1.60000-1",
+    "Filename": "jabref_5.1-1_amd64.deb",
+    "Pkgname": "jabref",
+    "Author": "JabRef开发团队",
+    "Contributor": "sgb76",
+    "Website": "http://www.jabref.org/",
+    "Update": "2020-09-27 03:25:45",
+    "Size": "165.08 MB",
+    "More": "掌握文献收集、组织和发掘的有效方法",
+    "tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/4aae5bd0-0070-11eb-9e78-b1093d349938.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/510ebe70-0070-11eb-9e78-b1093d349938.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/27/410a8e00-0070-11eb-9e78-b1093d349938.png"
+}
+,
+{
     "Author": "shenmo",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.sbfglkhd.spark_1.0.091_all.deb",
@@ -4289,22 +4305,6 @@
     "Tags": "ubuntu;deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/8bff6500-f671-11eb-9cbc-076e886aa793.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/91611c50-f671-11eb-9cbc-076e886aa793.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/989cc3c0-f671-11eb-9cbc-076e886aa793.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/06/850a8a90-f671-11eb-9cbc-076e886aa793.png"
-}
-,
-{
-    "Name": "JabRef",
-    "Version": "5.1.60000-1",
-    "Filename": "jabref_5.1-1_amd64.deb",
-    "Pkgname": "jabref",
-    "Author": "JabRef开发团队",
-    "Contributor": "sgb76",
-    "Website": "http://www.jabref.org/",
-    "Update": "2020-09-27 03:25:45",
-    "Size": "165.08 MB",
-    "More": "掌握文献收集、组织和发掘的有效方法",
-    "tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/4aae5bd0-0070-11eb-9e78-b1093d349938.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/510ebe70-0070-11eb-9e78-b1093d349938.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/27/410a8e00-0070-11eb-9e78-b1093d349938.png"
 }
 ,
 {
@@ -5013,6 +5013,23 @@
 }
 ,
 {
+    "Name": "Mailspring邮件客户端",
+    "Version": "1.13.3",
+    "Filename": "mailspring_1.13.3_amd64.deb",
+    "Torrent_address": "mailspring_1.13.3_amd64.deb.torrent",
+    "Pkgname": "mailspring",
+    "Author": "Mailspring Team <support@getmailspring.com>",
+    "Contributor": "Creling <csly004@outlook.com>",
+    "Website": "https://getmailspring.com/download",
+    "Update": "2024-07-18 14:03:49",
+    "Size": "102.26 MB",
+    "More": "Mailspring是Mac、Linux和Windows上的最佳邮件客户端，它可以提高您的工作效率并更好的发送电子邮件。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/86e3032adb5a468d9cc2118b0fba5306.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/d038d9666bbc47be84e801bcd77f0a06.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/f6dcbee597144a5cacef3cd8f04e2833.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/18/caad527e7af943dbb65661ee6405840a.png"
+}
+,
+{
     "Name": "Knowte",
     "Version": "2.0.9",
     "Filename": "knowte_2.0.9_amd64.deb",
@@ -5143,23 +5160,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/297ffd0cc6f94714b0601e836f35e4ee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/157611bd032c49eb87f3f683bfef2e02.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d59ab1ee419849849c076c42ca711a55.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/9c7af7da6d0440d78fe013fde5992f59.png"
-}
-,
-{
-    "Name": "Mailspring邮件客户端",
-    "Version": "1.13.3",
-    "Filename": "mailspring_1.13.3_amd64.deb",
-    "Torrent_address": "mailspring_1.13.3_amd64.deb.torrent",
-    "Pkgname": "mailspring",
-    "Author": "Mailspring Team <support@getmailspring.com>",
-    "Contributor": "Creling <csly004@outlook.com>",
-    "Website": "https://getmailspring.com/download",
-    "Update": "2024-07-18 14:03:49",
-    "Size": "102.26 MB",
-    "More": "Mailspring是Mac、Linux和Windows上的最佳邮件客户端，它可以提高您的工作效率并更好的发送电子邮件。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/86e3032adb5a468d9cc2118b0fba5306.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/d038d9666bbc47be84e801bcd77f0a06.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/f6dcbee597144a5cacef3cd8f04e2833.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/18/caad527e7af943dbb65661ee6405840a.png"
 }
 ,
 {

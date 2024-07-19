@@ -5013,27 +5013,6 @@ Description: 基于 Qt 的微型屏幕涂鸦程序
 
 Package: linglong-store
 Architecture: amd64
-Version: 1.2.7
-Priority: optional
-Section: default
-Maintainer: Jokul <986432015@qq.com>
-Installed-Size: 322850
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: tools/linglong-store/linglong-store_1.2.7_amd64.deb
-Size: 78150744
-MD5sum: 868314f89d97aaf4f98fe29063923b9f
-SHA1: f9f74bb5b0c9995574227f12628777b6210cebfb
-SHA256: 7490ecd89e1017efc023d0ff9fcc6dee6f2591146e610923ba968fc4d76d351c
-SHA512: 12c12e4e716e8de1aaea723b071631ea706d300db640bd2a97a810b30aeefb94e7c96ff8f829c3034fc2a2e768289a4c5149ae45305d4aa769c2a2f1e6807091
-Homepage: https://github.com/GershonWang/linglong-store
-Description: 
-  简易式玲珑商店客户端
-License: MIT
-Vendor: Jokul <986432015@qq.com>
-
-Package: linglong-store
-Architecture: amd64
 Version: 1.2.9
 Priority: optional
 Section: default
@@ -7025,27 +7004,6 @@ MD5sum: 3adc172acaf3c0030c0e6400a5074015
 SHA1: 45a7340f0bc4ed4ed902a65320c60157644ee897
 SHA256: 57756a10697a4fcddf19c3cc23eb9495dad34be2ff5752284c876711f5bfee5d
 SHA512: 65ee244579d7b7f9063fd60ee26569e1b7fa4cf74687eada310e6d8a333db46e5f76de4670f9e543ae85ae5d9869c53642096f764a3d9494f3e91bcfe8b0e4e3
-Homepage: https://gitee.com/gfdgd-xi/uengine-runner
-Description: 新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装/卸载/打包自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。
-
-Package: com.gitee.uengine.runner.spark
-Architecture: all
-Version: 2.2.0.1
-Priority: optional
-Section: utils
-Source: com.gitee.uengine.runner.spark
-Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 9384
-Depends: python3, python3-tk, python3-pip, python3-setuptools, deepin-terminal | mate-terminal | gnome-terminal | xfce4-terminal, curl, python3-pil, python3-requests, adb, fonts-noto-cjk, python3-numpy, wget, aria2, python3-pyqt5, python3-matplotlib, python3-urllib3, zenity, python3-pil.imagetk
-Recommends: uengine, deepin-elf-verify, python3-pyqt5.qtwebengine, aapt
-Conflicts: spark-uengine-apk-builder, com.gitee.uengine.runner.spark.ubuntu, kbox
-Replaces: spark-uengine-runner, com.gitee.uengine.runner.spark.ubuntu
-Filename: tools/com.gitee.uengine.runner.spark/com.gitee.uengine.runner.spark_2.2.0.1_all.deb
-Size: 4799384
-MD5sum: 7d79d7dca30f8ed0254318e8e41777b0
-SHA1: a7bc05cc344d5c6f83b5123c34402658f698d522
-SHA256: 85d42f1c1b54fdffe266da80efdaa2fa0f6e6c45d6806f93684f833eaee3575e
-SHA512: 2ccf83d31f674fa34946d6d984f1d7b99b147a11310e50587a6e2a5aa70781b050dd64c3047d299102f7f8ff92a7b54402933f1293ec83f2e7e77a10f49670c5
 Homepage: https://gitee.com/gfdgd-xi/uengine-runner
 Description: 新版本Deepin/UOS发布后，可以在应用商店安装部分官方已适配的安卓应用，对爱好者来说，不能自己安装APK软件包始终差点意思，本程序可以为Deepin/UOS上的Uengine安卓运行环境安装/卸载/打包自定义APK软件包，并能发送安装的APK包启动菜单到桌面或系统菜单。
 

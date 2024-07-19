@@ -232,24 +232,6 @@
 
 ,
 {
-    "Author": "maicss@126.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.appimage-installer_2.1_arm64.deb",
-    "More": "用于将AppImage格式安装包添加至启动器。",
-    "Name": "AppImage安装器",
-    "Pkgname": "com.appimage-installer",
-    "Size": "72 Kb",
-    "Tags": "community;dtk5",
-    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
-    "Update": "2023-03-05 18:26:23",
-    "Version": "2.1",
-    "Website": "无",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
-}
-
-,
-{
     "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cn.huorong.esm_2.0.7.5_arm64.deb",
@@ -264,6 +246,24 @@
     "Website": "https://huorong.cn",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.huorong.esm/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "maicss@126.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.appimage-installer_2.1_arm64.deb",
+    "More": "用于将AppImage格式安装包添加至启动器。",
+    "Name": "AppImage安装器",
+    "Pkgname": "com.appimage-installer",
+    "Size": "72 Kb",
+    "Tags": "community;dtk5",
+    "Torrent_address": "com.appimage-installer_2.1_arm64.deb.torrent",
+    "Update": "2023-03-05 18:26:23",
+    "Version": "2.1",
+    "Website": "无",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.appimage-installer/screen_3.png\"]"
 }
 
 ,
@@ -425,24 +425,6 @@
 
 ,
 {
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
-    "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
-    "Name": "WinRAR",
-    "Pkgname": "com.rarlab.winrar.spark",
-    "Size": "17 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
-    "Update": "2023-12-12 12:23:26",
-    "Version": "7.00spark0",
-    "Website": "https://www.rarlab.com/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/screen_3.png\"]"
-}
-
-,
-{
     "Author": "deepin <packages@deepin.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-ai_1.2.1-1_arm64.deb",
@@ -457,6 +439,24 @@
     "Website": "",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/uos-ai/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/uos-ai/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.rarlab.winrar.spark_7.00spark0_all.deb",
+    "More": "一款功能强大的压缩包管理器，可以解开 CAB、ARJ、LZH、TAR、GZ、ACE、UUE、BZ2、JAR、ISO、Z 和 7Z 等多种类型的档案文件、镜像文件和TAR 组合型文件\n \n--说明--\ndeepin下可以通过右键菜单选择WinRAR打开支持的压缩文件",
+    "Name": "WinRAR",
+    "Pkgname": "com.rarlab.winrar.spark",
+    "Size": "17 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.rarlab.winrar.spark_7.00spark0_all.deb.torrent",
+    "Update": "2023-12-12 12:23:26",
+    "Version": "7.00spark0",
+    "Website": "https://www.rarlab.com/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.rarlab.winrar.spark/screen_3.png\"]"
 }
 
 ,
@@ -533,24 +533,6 @@
 
 ,
 {
-    "Author": "MT管理器",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
-    "More": "Android 平台文件管理 & 逆向修改神器",
-    "Name": "MT管理器（UEngine）",
-    "Pkgname": "uengine-dc-bin.mt.plus",
-    "Size": "18 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "uengine-dc-bin.mt.plus_2.12.3_all.deb.torrent",
-    "Update": "2023-03-05 21:05:25",
-    "Version": "2.12.3",
-    "Website": "https://mt2.cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb",
@@ -565,6 +547,24 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "MT管理器",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
+    "More": "Android 平台文件管理 & 逆向修改神器",
+    "Name": "MT管理器（UEngine）",
+    "Pkgname": "uengine-dc-bin.mt.plus",
+    "Size": "18 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-bin.mt.plus_2.12.3_all.deb.torrent",
+    "Update": "2023-03-05 21:05:25",
+    "Version": "2.12.3",
+    "Website": "https://mt2.cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
 }
 
 ,
@@ -983,6 +983,24 @@
 
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "290 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
+    "Update": "2024-06-29 17:33:54",
+    "Version": "9.0.1runner1~buster",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
     "Author": "SeptemberHX",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "dde-top-panel_0.6.8_arm64.deb",
@@ -1015,24 +1033,6 @@
     "Website": "https://www.qianxin.com/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "290 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
-    "Update": "2024-06-29 17:33:54",
-    "Version": "9.0.1runner1~buster",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
 }
 
 ,
