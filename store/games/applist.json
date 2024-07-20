@@ -263,6 +263,20 @@
 
 ,
 {
+   "Name":"饥荒",
+   "Version":"2018",
+   "Filename":"dontstarve_1.0_amd64.deb",
+   "Pkgname":"dontstarve",
+   "Author":"Klei Entertainment",
+   "Contributor":"sgb76",
+   "Website":"https://klei.com/games/dont-starve",
+   "Update":"2020-07-30 21:59",
+   "Size":"530.57MB",
+   "More":"饥荒（DontStarve）是KleiEntertainment制作发行的一款求生类游戏，游戏讲述了一位科学家被恶魔传送到了一个奇异的世界中，他在这里必须用自己的智慧在这一片荒野外生存下来。此游戏为中文汉化版，进入游戏后点击菜单mods，进入后选择chinese，然后保存退出，重启后即可。"
+}
+
+,
+{
     "Name": "三国志9威力加强版（wine）",
     "Version": "1.1spark2",
     "Filename": "com.sanguozhipk.spark_1.1spark2_all.deb",
@@ -278,20 +292,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/b03b82bef3c64e01b2ef70f62c797292.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/a43ae6499ce444fcb600b3c9432188d6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/29/feab1b46736e42958e241525bd675468.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/29/744cb3da9ac94fb09cfd1c1eb21600d4.png"
 }
-,
-{
-   "Name":"饥荒",
-   "Version":"2018",
-   "Filename":"dontstarve_1.0_amd64.deb",
-   "Pkgname":"dontstarve",
-   "Author":"Klei Entertainment",
-   "Contributor":"sgb76",
-   "Website":"https://klei.com/games/dont-starve",
-   "Update":"2020-07-30 21:59",
-   "Size":"530.57MB",
-   "More":"饥荒（DontStarve）是KleiEntertainment制作发行的一款求生类游戏，游戏讲述了一位科学家被恶魔传送到了一个奇异的世界中，他在这里必须用自己的智慧在这一片荒野外生存下来。此游戏为中文汉化版，进入游戏后点击菜单mods，进入后选择chinese，然后保存退出，重启后即可。"
-}
-
 ,
 {
     "Name": "OpenRA:罗曼诺夫的复仇",
@@ -390,20 +390,6 @@
 }
 ,
 {
-   "Name":"死亡细胞",
-   "Version":"1.2.10+1",
-   "Filename":"net.siwang.xibao_1.2.10_plus_1_amd64.deb",
-   "Pkgname":"net.siwang.xibao",
-   "Author":"Motion Twin",
-   "Contributor":"chaodn",
-   "Website":"https://motion-twin.com/",
-   "Update":"2020-07-16 09:12",
-   "Size":"514.19MB",
-   "More":"《死亡细胞》，是由来自法国的开发商Motion Twin制作的一款类银河恶魔城风格的（Metroidvania）独立游戏。本作在Metroidvania的基础上融合了roguelike 。在PS4和任天堂Switch平台推出《死亡细胞（Dead Cells）》实体版本，实体版和PC正式版本都在18年8月18日推出。\n\n更新日志（20200716）\n1.修改为正确的图标。\n2.修复不能卸载的问题。"
-}
-
-,
-{
     "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
     "Version": "2.1spark1",
     "Filename": "com.pvzhz.spark_2.1spark1_all.deb",
@@ -419,6 +405,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/37c7c4db6ea44127a9c3a2e2b5655dd1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/8b5badd083eb499d856a3f4e70722361.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/ca608de1276f4a01843b4b489afc945e.png"
 }
+,
+{
+   "Name":"死亡细胞",
+   "Version":"1.2.10+1",
+   "Filename":"net.siwang.xibao_1.2.10_plus_1_amd64.deb",
+   "Pkgname":"net.siwang.xibao",
+   "Author":"Motion Twin",
+   "Contributor":"chaodn",
+   "Website":"https://motion-twin.com/",
+   "Update":"2020-07-16 09:12",
+   "Size":"514.19MB",
+   "More":"《死亡细胞》，是由来自法国的开发商Motion Twin制作的一款类银河恶魔城风格的（Metroidvania）独立游戏。本作在Metroidvania的基础上融合了roguelike 。在PS4和任天堂Switch平台推出《死亡细胞（Dead Cells）》实体版本，实体版和PC正式版本都在18年8月18日推出。\n\n更新日志（20200716）\n1.修改为正确的图标。\n2.修复不能卸载的问题。"
+}
+
 ,
 {
    "Name":"红色警戒",
@@ -1105,22 +1105,6 @@
 }
 ,
 {
-    "Name": "魔塔",
-    "Version": "1.0.0",
-    "Filename": "magic-tower_1.0.0_amd64.deb",
-    "Pkgname": "magic-tower",
-    "Author": "Chong Guo",
-    "Contributor": "depend",
-    "Website": "https://github.com/dependon/Magic-Tower-Qt",
-    "Update": "2021-10-09 16:43:03",
-    "Size": "9.87 MB",
-    "More": "魔塔-qt版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
-}
-,
-{
     "Name": "Minecraft 官方启动器",
     "Version": "1.1.26",
     "Filename": "minecraft-launcher_1.1.26_amd64.deb",
@@ -1135,6 +1119,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/a803c123b4184a998fcdd1b48cd1a869.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/3fe5665e72b94dd4adeffcac6acea570.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/fefe4018a0714b60a6d88243ba819a83.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/553558bc61924ed28cb3d20aaf9c0ca1.png"
+}
+,
+{
+    "Name": "魔塔",
+    "Version": "1.0.0",
+    "Filename": "magic-tower_1.0.0_amd64.deb",
+    "Pkgname": "magic-tower",
+    "Author": "Chong Guo",
+    "Contributor": "depend",
+    "Website": "https://github.com/dependon/Magic-Tower-Qt",
+    "Update": "2021-10-09 16:43:03",
+    "Size": "9.87 MB",
+    "More": "魔塔-qt版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5bfdd80-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5e0fa10-28dc-11ec-8d07-cdc4a71453ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/09/d5ce5c70-28dc-11ec-8d07-cdc4a71453ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/09/bb8f7560-28dc-11ec-8d07-cdc4a71453ec.png"
 }
 ,
 {
@@ -1188,23 +1188,6 @@
 }
 ,
 {
-    "Name": "戴夫RUSH(Wine)",
-    "Version": "0.2",
-    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
-    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
-    "Pkgname": "spark-daifurush-bymutangm",
-    "Author": "M木糖M",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Update": "2022-08-19 08:00:06",
-    "Size": "45.24 MB",
-    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
-}
-,
-{
     "Name": "腾讯先锋",
     "Version": "1.0.0",
     "Filename": "com.tencent.gamereva_1.0.0_amd64.deb",
@@ -1219,6 +1202,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/4ad8941ce938491e9ed97a3093f0f968.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/958ce612bccc4ad282ddd95bc8e64ab8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/6fe20f495eef46f8866ac286eb9ccd57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/c17d4509b1b1486990aa592100097e45.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/d0355f82140b4d58b791e1f597f51c95.png"
+}
+,
+{
+    "Name": "戴夫RUSH(Wine)",
+    "Version": "0.2",
+    "Filename": "spark-daifurush-bymutangm_0.2_i386.deb",
+    "Torrent_address": "spark-daifurush-bymutangm_0.2_i386.deb.torrent",
+    "Pkgname": "spark-daifurush-bymutangm",
+    "Author": "M木糖M",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Update": "2022-08-19 08:00:06",
+    "Size": "45.24 MB",
+    "More": "一款小游戏，详细可见：https://www.bilibili.com/video/BV1Fd4y1N79Y",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc1afa10-1f51-11ed-8355-c50a51fc911d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/19/bc0e01c0-1f51-11ed-8355-c50a51fc911d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/19/c017a320-1f51-11ed-8355-c50a51fc911d.png"
 }
 ,
 {
@@ -1273,6 +1273,23 @@
 }
 ,
 {
+    "Name": "三维弹球(Linux)",
+    "Version": "2.0.1",
+    "Filename": "com.spacecadetpinball.deepin_2.0.1_amd64.deb",
+    "Torrent_address": "com.spacecadetpinball.deepin_2.0.1_amd64.deb.torrent",
+    "Pkgname": "com.spacecadetpinball.deepin",
+    "Author": "gtjdoctor@163.com",
+    "Contributor": "gtjdoctor@163.com",
+    "Website": "https://github.com/k4zmu2a/SpaceCadetPinball",
+    "Update": "2023-04-13 22:29:57",
+    "Size": "1.43 MB",
+    "More": "三维弹球:太空军校生",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/605bd90ccb604cc0a35720cb97be80a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/0db7f9c6736a48e6b73ac26b9b512a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/41df8651b5f243d98a9646ef2e7ebc8a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/6605a19d8ac543d2a24bfe3e1b4989fe.png"
+}
+,
+{
     "Name": "秦殇",
     "Version": "1.0spark0",
     "Filename": "com.qinshang.spark_1.0spark0_amd64.deb",
@@ -1318,23 +1335,6 @@
     "Tags": "deepin;dwine5;uos;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a08aa90-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a1d4400-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a342760-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a490ef0-07b1-11ee-98df-97343b921590.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/0a612ad0-07b1-11ee-98df-97343b921590.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fc71f7b0-07b0-11ee-98df-97343b921590.png"
-}
-,
-{
-    "Name": "三维弹球(Linux)",
-    "Version": "2.0.1",
-    "Filename": "com.spacecadetpinball.deepin_2.0.1_amd64.deb",
-    "Torrent_address": "com.spacecadetpinball.deepin_2.0.1_amd64.deb.torrent",
-    "Pkgname": "com.spacecadetpinball.deepin",
-    "Author": "gtjdoctor@163.com",
-    "Contributor": "gtjdoctor@163.com",
-    "Website": "https://github.com/k4zmu2a/SpaceCadetPinball",
-    "Update": "2023-04-13 22:29:57",
-    "Size": "1.43 MB",
-    "More": "三维弹球:太空军校生",
-    "Tags": "deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/605bd90ccb604cc0a35720cb97be80a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/0db7f9c6736a48e6b73ac26b9b512a92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/13/41df8651b5f243d98a9646ef2e7ebc8a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/13/6605a19d8ac543d2a24bfe3e1b4989fe.png"
 }
 ,
 {
@@ -1540,22 +1540,6 @@
 }
 ,
 {
-    "Name": "赛尔达传说-太阳神战士之谜",
-    "Version": "1.12.2",
-    "Filename": "zsdx_1.12.2_amd64.deb",
-    "Pkgname": "zsdx",
-    "Author": "Solarus Team/ linuxgame.cn",
-    "Contributor": "Hibanaw",
-    "Website": "https://www.linuxgame.cn/2764-2",
-    "Update": "2021-07-17 23:33:16",
-    "Size": "28.9 MB",
-    "More": "塞尔达的同人游戏，开源\nGAMUX（linuxgame.cn）对其进行了一些修正",
-    "Tags": "community;deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/21f5a140-e714-11eb-8ffb-2f60f947f7fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/313681b0-e714-11eb-8ffb-2f60f947f7fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/32ec20f0-e714-11eb-8ffb-2f60f947f7fa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/4d506a50-e714-11eb-8ffb-2f60f947f7fa.png"
-}
-,
-{
     "Name": "宝石迷阵3",
     "Version": "1.0spark0",
     "Filename": "com.bejeweled3.spark_1.0spark0_amd64.deb",
@@ -1570,6 +1554,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/33e51e2028584a03aad5245e59f52a32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/54409045986c410a904522dda9dbb906.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8c3136b93b8f48dbb115d23623b17cce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/eaca6128e75842afa988adb51ef3efd0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/ccf1b4707587428fa5a11ae5c465b980.png"
+}
+,
+{
+    "Name": "赛尔达传说-太阳神战士之谜",
+    "Version": "1.12.2",
+    "Filename": "zsdx_1.12.2_amd64.deb",
+    "Pkgname": "zsdx",
+    "Author": "Solarus Team/ linuxgame.cn",
+    "Contributor": "Hibanaw",
+    "Website": "https://www.linuxgame.cn/2764-2",
+    "Update": "2021-07-17 23:33:16",
+    "Size": "28.9 MB",
+    "More": "塞尔达的同人游戏，开源\nGAMUX（linuxgame.cn）对其进行了一些修正",
+    "Tags": "community;deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/21f5a140-e714-11eb-8ffb-2f60f947f7fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/313681b0-e714-11eb-8ffb-2f60f947f7fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/32ec20f0-e714-11eb-8ffb-2f60f947f7fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/4d506a50-e714-11eb-8ffb-2f60f947f7fa.png"
 }
 ,
 {
@@ -1655,23 +1655,6 @@
 }
 ,
 {
-    "Name": "孤岛惊魂",
-    "Version": "1.0spark1",
-    "Filename": "com.farcry.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.farcry.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.farcry.spark",
-    "Author": "Ubisoft",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-09-29 20:42:57",
-    "Size": "2.41 GB",
-    "More": "孤岛惊魂中文版",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/335a7030-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/3500cd30-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/36a380b0-5ec4-11ee-9c5f-6b1787933f50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/30f81630-5ec4-11ee-9c5f-6b1787933f50.png"
-}
-,
-{
     "Name": "卡车司机",
     "Version": "1.0spark0",
     "Filename": "com.truckdriver.spark_1.0spark0_amd64.deb",
@@ -1686,6 +1669,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/3f4d6f9200d84475911e0a263df95d2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/ce488acf838b4c0585ae1397fc18e5ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/11/0844c43f3d7944edb7b0f0f06b992ced.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/11/3e3647ee94a84eeca9111bf1f68df0cd.png"
+}
+,
+{
+    "Name": "孤岛惊魂",
+    "Version": "1.0spark1",
+    "Filename": "com.farcry.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.farcry.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.farcry.spark",
+    "Author": "Ubisoft",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-09-29 20:42:57",
+    "Size": "2.41 GB",
+    "More": "孤岛惊魂中文版",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/335a7030-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/3500cd30-5ec4-11ee-9c5f-6b1787933f50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/36a380b0-5ec4-11ee-9c5f-6b1787933f50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/30f81630-5ec4-11ee-9c5f-6b1787933f50.png"
 }
 ,
 {
@@ -2091,6 +2091,38 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.steampowered.steam_1.0_all.deb",
+    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
+    "Name": "Steam(Wine)",
+    "Pkgname": "com.steampowered.steam",
+    "Size": "246 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
+    "Update": "2024-03-24 21:07:07",
+    "Version": "1.0",
+    "Website": "https://s.team",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
+}
+
+,
+{
+   "Name":"东方绯想天",
+   "Version":"1",
+   "Filename":"com.scarletweatherrhapsody.deepin_1_amd64.deb",
+   "Pkgname":"com.scarletweatherrhapsody.deepin",
+   "Author":"zun",
+   "Contributor":"cht",
+   "Website":"https://thwiki.cc/",
+   "Update":"2020-06-24 20:12",
+   "Size":"274.5MB",
+   "More":"天子把灵梦房子弄塌了被报复"
+}
+
+,
+{
     "Name": "东东不死传说",
     "Version": "1.0",
     "Filename": "com.dongimmortal.spark_1.0_amd64.deb",
@@ -2122,38 +2154,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/a0b90296e55c4934ae1af20ebdc5d5f8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/16759e96b09246e6ba64d4876e420f71.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/03/1e6b7224d14f4badb9f0a9119762cc81.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/03/59d49557016f414eb4d94c64efa66515.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.steampowered.steam_1.0_all.deb",
-    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
-    "Name": "Steam(Wine)",
-    "Pkgname": "com.steampowered.steam",
-    "Size": "246 Mb",
-    "Tags": "deepin;ubuntu;dwine5",
-    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
-    "Update": "2024-03-24 21:07:07",
-    "Version": "1.0",
-    "Website": "https://s.team",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
-}
-
-,
-{
-   "Name":"东方绯想天",
-   "Version":"1",
-   "Filename":"com.scarletweatherrhapsody.deepin_1_amd64.deb",
-   "Pkgname":"com.scarletweatherrhapsody.deepin",
-   "Author":"zun",
-   "Contributor":"cht",
-   "Website":"https://thwiki.cc/",
-   "Update":"2020-06-24 20:12",
-   "Size":"274.5MB",
-   "More":"天子把灵梦房子弄塌了被报复"
-}
-
 ,
 {
     "Name": "星云模拟器（wine）",
@@ -2417,6 +2417,22 @@
 }
 ,
 {
+    "Name": "去月球",
+    "Version": "20180225",
+    "Filename": "tothemoon_20180225_amd64.deb",
+    "Pkgname": "tothemoon",
+    "Author": " Freebird Games",
+    "Contributor": "Hibanaw",
+    "Website": "https://store.steampowered.com/app/206440/To_the_Moon/",
+    "Update": "2021-07-17 23:17:44",
+    "Size": "75.83 MB",
+    "More": "appimage 包来自 Linuxgame 站 https://www.linuxgame.cn/tothemoon\n通过 a2d 转制为 deb 包\n以下是游戏简介：\n《去月球》这个游戏给人留下的第一印象可能并不是特别严肃，而是很像《像素》这个游戏一样，为玩家讲述有趣的小故事。而实际上，这个游戏的内容则是关于生死、人格障碍和道德的。游戏向我们讲述了一个赚人眼泪的故事，一位即将逝去的老人最大的愿望就是能够去月球上看一看。\n\n罗莎莉恩医生（Dr. Rosalene）和沃茨医生（Dr. Watts）有一份非常特殊的工作：他们可以给人们重活一次的机会，从人生的最开始重头来过，当然这个机会只存在于将死之人的头脑里。\n\n由于其带来的严重后果，新的人工记忆将取代真实记忆成为病人临终前记住的事，所以通过修改记忆去满足人们最后愿望的这种技术只能对临死的人实施。\n这个特别的故事让玩家跟随两位医生为实现一个老人约翰尼（Johnny）的梦想而进入他的记忆。 随着每一步时间的推移，约翰尼过去的一个个新的片段将被慢慢揭示。两位医生将约翰尼记忆中一直困扰他的许多事件重组在一起，他们试图找出究竟是何原因会让身体虚弱的老人临死前要实现这样的愿望。\n而约翰尼的最后心愿竟是…去月球。",
+    "Tags": "deepin;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/d8a2f2b0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/db3424e0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/dbb42a50-e711-11eb-9fd5-39d3c74eb30c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/2142ddf0-e712-11eb-9fd5-39d3c74eb30c.png"
+}
+,
+{
     "Name": "无名杀",
     "Version": "1.0.0",
     "Filename": "noname_1.0.0_amd64.deb",
@@ -2468,19 +2484,19 @@
 }
 ,
 {
-    "Name": "去月球",
-    "Version": "20180225",
-    "Filename": "tothemoon_20180225_amd64.deb",
-    "Pkgname": "tothemoon",
-    "Author": " Freebird Games",
-    "Contributor": "Hibanaw",
-    "Website": "https://store.steampowered.com/app/206440/To_the_Moon/",
-    "Update": "2021-07-17 23:17:44",
-    "Size": "75.83 MB",
-    "More": "appimage 包来自 Linuxgame 站 https://www.linuxgame.cn/tothemoon\n通过 a2d 转制为 deb 包\n以下是游戏简介：\n《去月球》这个游戏给人留下的第一印象可能并不是特别严肃，而是很像《像素》这个游戏一样，为玩家讲述有趣的小故事。而实际上，这个游戏的内容则是关于生死、人格障碍和道德的。游戏向我们讲述了一个赚人眼泪的故事，一位即将逝去的老人最大的愿望就是能够去月球上看一看。\n\n罗莎莉恩医生（Dr. Rosalene）和沃茨医生（Dr. Watts）有一份非常特殊的工作：他们可以给人们重活一次的机会，从人生的最开始重头来过，当然这个机会只存在于将死之人的头脑里。\n\n由于其带来的严重后果，新的人工记忆将取代真实记忆成为病人临终前记住的事，所以通过修改记忆去满足人们最后愿望的这种技术只能对临死的人实施。\n这个特别的故事让玩家跟随两位医生为实现一个老人约翰尼（Johnny）的梦想而进入他的记忆。 随着每一步时间的推移，约翰尼过去的一个个新的片段将被慢慢揭示。两位医生将约翰尼记忆中一直困扰他的许多事件重组在一起，他们试图找出究竟是何原因会让身体虚弱的老人临死前要实现这样的愿望。\n而约翰尼的最后心愿竟是…去月球。",
-    "Tags": "deepin;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/d8a2f2b0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/db3424e0-e711-11eb-9fd5-39d3c74eb30c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/17/dbb42a50-e711-11eb-9fd5-39d3c74eb30c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/17/2142ddf0-e712-11eb-9fd5-39d3c74eb30c.png"
+    "Name": "YGOPro2",
+    "Version": "1.035.2-1",
+    "Filename": "com.ygopro2_1.035.2-1_amd64.deb",
+    "Pkgname": "com.ygopro2",
+    "Author": " Unicorn369",
+    "Contributor": " Owl_Wan",
+    "Website": "https://github.com/Unicorn369/YGOPro2",
+    "Update": "2021-10-28 11:46:39",
+    "Size": "981.57 MB",
+    "More": "YGOPro2 for Linux。\n中文输入需要按“F11”来外挂dialog+xdotool来实现\n如果还无法输入中文，命令行输入sudo apt install dialog xclip xdotool libgdiplus -y\n\n最新更新 ： 2021年10月2日版本",
+    "Tags": "deepin;uos;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/2876a810-37a1-11ec-b4f4-556a538e7f8e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/2b257460-37a1-11ec-b4f4-556a538e7f8e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/2dc880e0-37a1-11ec-b4f4-556a538e7f8e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/28/1d5b0750-37a1-11ec-b4f4-556a538e7f8e.png"
 }
 ,
 {
@@ -2515,22 +2531,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/3cf9f0bec818485097c493f1720e8511.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/341c952f07f04e268620cf25aca0c750.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/06/7b73774488ac4538b3788b84d2a9af8d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/06/aa4d1e54466b44a98b7e129eb63f562d.png"
-}
-,
-{
-    "Name": "YGOPro2",
-    "Version": "1.035.2-1",
-    "Filename": "com.ygopro2_1.035.2-1_amd64.deb",
-    "Pkgname": "com.ygopro2",
-    "Author": " Unicorn369",
-    "Contributor": " Owl_Wan",
-    "Website": "https://github.com/Unicorn369/YGOPro2",
-    "Update": "2021-10-28 11:46:39",
-    "Size": "981.57 MB",
-    "More": "YGOPro2 for Linux。\n中文输入需要按“F11”来外挂dialog+xdotool来实现\n如果还无法输入中文，命令行输入sudo apt install dialog xclip xdotool libgdiplus -y\n\n最新更新 ： 2021年10月2日版本",
-    "Tags": "deepin;uos;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/2876a810-37a1-11ec-b4f4-556a538e7f8e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/2b257460-37a1-11ec-b4f4-556a538e7f8e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/28/2dc880e0-37a1-11ec-b4f4-556a538e7f8e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/28/1d5b0750-37a1-11ec-b4f4-556a538e7f8e.png"
 }
 ,
 {
@@ -2750,22 +2750,6 @@
 }
 ,
 {
-    "Name": "Disbelief Papyrus",
-    "Version": "1.1.2",
-    "Filename": "disbelief.papyrus.yzf_1.1.2_i386.deb",
-    "Pkgname": "disbelief.papyrus.yzf",
-    "Author": "FlamesAtGames",
-    "Contributor": "小鱼yuzifu",
-    "Website": "https://gamejolt.com/games/disbelief/268091",
-    "Update": "2021-02-16 22:23:39",
-    "Size": "87.55 MB",
-    "More": "UT同人——全然不信\n已知问题：刚进入游戏可能会出现无图像问题、deepin桌面特效模式会被关闭\n解决方法：按下F4以退出全屏，即可显示图像（再次按下F4图像也不会消失）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6adb6080-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b33b9b0-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b4d3520-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b6773e0-7062-11eb-98af-3f70b11df784.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/6327c9f0-7062-11eb-98af-3f70b11df784.png"
-}
-,
-{
     "Name": "osu!",
     "Version": "2024.625.2",
     "Filename": "osu-lazer_2024.625.2_amd64.deb",
@@ -2780,6 +2764,22 @@
     "Tags": "community;ubuntu;deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/14/b424c179e14c4a3dbe95c66c580c8b94.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/14/0570f3f8de284d34b9b47839928a2b51.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/14/402eb77d797549e89d6c49bdfd05a62a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/14/256dd5ade3d848a68f06248d23b5dc20.png"
+}
+,
+{
+    "Name": "Disbelief Papyrus",
+    "Version": "1.1.2",
+    "Filename": "disbelief.papyrus.yzf_1.1.2_i386.deb",
+    "Pkgname": "disbelief.papyrus.yzf",
+    "Author": "FlamesAtGames",
+    "Contributor": "小鱼yuzifu",
+    "Website": "https://gamejolt.com/games/disbelief/268091",
+    "Update": "2021-02-16 22:23:39",
+    "Size": "87.55 MB",
+    "More": "UT同人——全然不信\n已知问题：刚进入游戏可能会出现无图像问题、deepin桌面特效模式会被关闭\n解决方法：按下F4以退出全屏，即可显示图像（再次按下F4图像也不会消失）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6adb6080-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b33b9b0-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b4d3520-7062-11eb-98af-3f70b11df784.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/6b6773e0-7062-11eb-98af-3f70b11df784.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/6327c9f0-7062-11eb-98af-3f70b11df784.png"
 }
 ,
 {
@@ -3019,6 +3019,23 @@
 }
 ,
 {
+    "Name": "植物大战僵尸娘化版",
+    "Version": "1.0.2.56spark0",
+    "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
+    "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
+    "Pkgname": "com.pgvz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://space.bilibili.com/20530305",
+    "Update": "2024-06-30 07:00:15",
+    "Size": "356.24 MB",
+    "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
+}
+,
+{
     "Name": "yuzu",
     "Version": "1.5",
     "Filename": "yuzu-emu_1.5_amd64.deb",
@@ -3071,20 +3088,20 @@
 
 ,
 {
-    "Name": "植物大战僵尸娘化版",
-    "Version": "1.0.2.56spark0",
-    "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
-    "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
-    "Pkgname": "com.pgvz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://space.bilibili.com/20530305",
-    "Update": "2024-06-30 07:00:15",
-    "Size": "356.24 MB",
-    "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
+    "Name": "特斯拉学徒2",
+    "Version": "1.0",
+    "Filename": "com.teslagrad2.spark_1.0_all.deb",
+    "Torrent_address": "com.teslagrad2.spark_1.0_all.deb.torrent",
+    "Pkgname": "com.teslagrad2.spark",
+    "Author": "Rain Games",
+    "Contributor": "John12138",
+    "Website": "https://rain-games.com/",
+    "Update": "2023-07-02 16:55:15",
+    "Size": "1.97 GB",
+    "More": "本次更新修复文件校验不通过问题\n《特斯拉学徒2》是平台冒险游戏《特斯拉学徒的续作》，包含磁力物理机制。续作中改进了视觉效果，增加了更大的世界场景，和新的谜题解决工具，游戏为玩家提供了一次新鲜的沉浸式解谜平台的体验",
     "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/aa6b635175524c7babd780f01e7bc45f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/abe92ea23b59424396ee9aa3b4629e7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/18c162d10ad84fc9b6ea06d89bd019b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/08933890f5474285a73a0073a4981638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/3f46a44744084aa3aa6c966feb88f3b7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/02/b5e4c82bf5f5484cb7b628284dfb7bcd.png"
 }
 ,
 {
@@ -3136,23 +3153,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/98d31b519d5b42459633a57dd9aa3f24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/b23864d6bf3a4eb09a700710bd42b762.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/83aa251984664b2a8e78a15b8be109e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/4f85b0825f74437b87056d223b331ff0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/09/30cace55a5004878a9df19355213b3df.png"
-}
-,
-{
-    "Name": "特斯拉学徒2",
-    "Version": "1.0",
-    "Filename": "com.teslagrad2.spark_1.0_all.deb",
-    "Torrent_address": "com.teslagrad2.spark_1.0_all.deb.torrent",
-    "Pkgname": "com.teslagrad2.spark",
-    "Author": "Rain Games",
-    "Contributor": "John12138",
-    "Website": "https://rain-games.com/",
-    "Update": "2023-07-02 16:55:15",
-    "Size": "1.97 GB",
-    "More": "本次更新修复文件校验不通过问题\n《特斯拉学徒2》是平台冒险游戏《特斯拉学徒的续作》，包含磁力物理机制。续作中改进了视觉效果，增加了更大的世界场景，和新的谜题解决工具，游戏为玩家提供了一次新鲜的沉浸式解谜平台的体验",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/aa6b635175524c7babd780f01e7bc45f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/abe92ea23b59424396ee9aa3b4629e7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/18c162d10ad84fc9b6ea06d89bd019b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/08933890f5474285a73a0073a4981638.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/3f46a44744084aa3aa6c966feb88f3b7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/02/b5e4c82bf5f5484cb7b628284dfb7bcd.png"
 }
 ,
 {
@@ -3255,6 +3255,23 @@
 
 ,
 {
+    "Name": "传说法师",
+    "Version": "1.0spark0",
+    "Filename": "com.wizardoflegend.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.wizardoflegend.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.wizardoflegend.spark",
+    "Author": "Contingent99",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-08-19 12:46:35",
+    "Size": "339.69 MB",
+    "More": "一款快节奏且注重于精彩奇幻战斗的地牢探索像素类游戏。高速的移动以及超高频率的魔法运用让你可以连携各种法术，对敌人造成致命的连击伤害！\n\n设置中文：\n在option里找到下方的language，点击后按左右方向键直到找到中文",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/55abc63f3a8747899db2bcf33ccb90d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/ded7a95331714333b464cdfc7bdab770.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/8e3fc4c4df7c412ab945e501e48dd840.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/19/ce67e52ff7d1465b97438a55af855a99.png"
+}
+,
+{
     "Name": "古墓丽影5：历代记",
     "Version": "1.0spark0",
     "Filename": "com.tomb5.spark_1.0spark0_amd64.deb",
@@ -3286,6 +3303,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/0b06133019c24080b174eac0c282f4dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/60e5737bda9140b98a87dae022584714.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/1b1593d0491f452cb0671f0f7f85a4b0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/09/da591561b67e4c43a00e945b61a6705f.png"
+}
+,
+{
+    "Name": "植物大战僵尸95版（Wine）",
+    "Version": "1.0.2.56spark0",
+    "Filename": "com.pvz95.spark_1.0.2.56spark0_all.deb",
+    "Torrent_address": "com.pvz95.spark_1.0.2.56spark0_all.deb.torrent",
+    "Pkgname": "com.pvz95.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://tieba.baidu.com/p/6564379656",
+    "Update": "2024-06-30 19:24:32",
+    "Size": "277.1 MB",
+    "More": "植物大战僵尸95版是一款由冥谷川恋制作的植物大战僵尸加强版，增加了游戏的挑战性和创新性。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/820cb0ca4aa44434881d282a00c7ad0c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/5db322549363436c99e43bf963df1dc8.png"
 }
 ,
 {
@@ -3340,23 +3374,6 @@
 }
 ,
 {
-    "Name": "传说法师",
-    "Version": "1.0spark0",
-    "Filename": "com.wizardoflegend.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.wizardoflegend.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.wizardoflegend.spark",
-    "Author": "Contingent99",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-08-19 12:46:35",
-    "Size": "339.69 MB",
-    "More": "一款快节奏且注重于精彩奇幻战斗的地牢探索像素类游戏。高速的移动以及超高频率的魔法运用让你可以连携各种法术，对敌人造成致命的连击伤害！\n\n设置中文：\n在option里找到下方的language，点击后按左右方向键直到找到中文",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/55abc63f3a8747899db2bcf33ccb90d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/ded7a95331714333b464cdfc7bdab770.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/19/8e3fc4c4df7c412ab945e501e48dd840.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/19/ce67e52ff7d1465b97438a55af855a99.png"
-}
-,
-{
     "Name": "醉驾模拟器：越野版",
     "Version": "1.0spark0",
     "Filename": "com.nfsor.spark_1.0spark0_amd64.deb",
@@ -3388,23 +3405,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/503ffbac49ce4d3aab00db48af99628e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/fc1afdc475c54ad79d3ac88cba417dfb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/4957a9e0a4a3479695c7b07e1c2f166c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/16/953659e81fcc4cf594c1797b7060eee6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/16/0866fc5b5c284a24a8e147ad6fdc896b.png"
-}
-,
-{
-    "Name": "植物大战僵尸95版（Wine）",
-    "Version": "1.0.2.56spark0",
-    "Filename": "com.pvz95.spark_1.0.2.56spark0_all.deb",
-    "Torrent_address": "com.pvz95.spark_1.0.2.56spark0_all.deb.torrent",
-    "Pkgname": "com.pvz95.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://tieba.baidu.com/p/6564379656",
-    "Update": "2024-06-30 19:24:32",
-    "Size": "277.1 MB",
-    "More": "植物大战僵尸95版是一款由冥谷川恋制作的植物大战僵尸加强版，增加了游戏的挑战性和创新性。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/820cb0ca4aa44434881d282a00c7ad0c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/5db322549363436c99e43bf963df1dc8.png"
 }
 ,
 {
@@ -3847,6 +3847,23 @@
 }
 ,
 {
+    "Name": "五子棋大师",
+    "Version": "1.52",
+    "Filename": "uengine-dc-com.cnvcs.gomoku_1.52_all.deb",
+    "Torrent_address": "uengine-dc-com.cnvcs.gomoku_1.52_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.cnvcs.gomoku",
+    "Author": "cnvcs.com",
+    "Contributor": "tasuo",
+    "Website": "https://www.cnvcs.com/",
+    "Update": "2024-06-07 10:38:08",
+    "Size": "4.61 MB",
+    "More": "无广告，人机，人人对战",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/ddc48740-2476-11ef-8f36-751d99752291.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/ddc830c0-2476-11ef-8f36-751d99752291.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/07/d0410e40-2476-11ef-8f36-751d99752291.png"
+}
+,
+{
     "Name": "轮回",
     "Version": "1.0spark1",
     "Filename": "com.samsara.spark_1.0spark1_all.deb",
@@ -3881,6 +3898,23 @@
 }
 ,
 {
+    "Name": "中国象棋",
+    "Version": "1.82",
+    "Filename": "com.cnvcs.xiangqi_1.82_all.deb",
+    "Torrent_address": "com.cnvcs.xiangqi_1.82_all.deb.torrent",
+    "Pkgname": "com.cnvcs.xiangqi",
+    "Author": ".cnvcs.com",
+    "Contributor": "tasuo",
+    "Website": "https://www.cnvcs.com",
+    "Update": "2024-06-06 18:14:34",
+    "Size": "16.07 MB",
+    "More": "人机对战，人人对战",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/7b51bb70-23ed-11ef-8345-5fe9ad82e4e9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/586c7960-23ed-11ef-8345-5fe9ad82e4e9.png"
+}
+,
+{
     "Name": "奇妙碰碰球",
     "Version": "1.0spark0",
     "Filename": "com.caramba.spark_1.0spark0_amd64.deb",
@@ -3895,23 +3929,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/27/cc6e98b921664728bb9a2aa9561da3c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/27/1d2f365c3a5046f79b2caabc4e467240.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/27/ff0b0689c41e47699e365c5f91dbea6d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/27/0881e96659334c839638f82cafb5d1b0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/27/fc29080e49f24cffb812cb8e2a076865.png"
-}
-,
-{
-    "Name": "五子棋大师",
-    "Version": "1.52",
-    "Filename": "uengine-dc-com.cnvcs.gomoku_1.52_all.deb",
-    "Torrent_address": "uengine-dc-com.cnvcs.gomoku_1.52_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.cnvcs.gomoku",
-    "Author": "cnvcs.com",
-    "Contributor": "tasuo",
-    "Website": "https://www.cnvcs.com/",
-    "Update": "2024-06-07 10:38:08",
-    "Size": "4.61 MB",
-    "More": "无广告，人机，人人对战",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/ddc48740-2476-11ef-8f36-751d99752291.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/07/ddc830c0-2476-11ef-8f36-751d99752291.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/07/d0410e40-2476-11ef-8f36-751d99752291.png"
 }
 ,
 {
@@ -3980,23 +3997,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/14/9cbd0b70-2196-11ee-bac8-4194c00af78a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/14/9e89dc30-2196-11ee-bac8-4194c00af78a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/14/a13cee40-2196-11ee-bac8-4194c00af78a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/14/a3a1e050-2196-11ee-bac8-4194c00af78a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/14/9aa268d0-2196-11ee-bac8-4194c00af78a.png"
-}
-,
-{
-    "Name": "中国象棋",
-    "Version": "1.82",
-    "Filename": "com.cnvcs.xiangqi_1.82_all.deb",
-    "Torrent_address": "com.cnvcs.xiangqi_1.82_all.deb.torrent",
-    "Pkgname": "com.cnvcs.xiangqi",
-    "Author": ".cnvcs.com",
-    "Contributor": "tasuo",
-    "Website": "https://www.cnvcs.com",
-    "Update": "2024-06-06 18:14:34",
-    "Size": "16.07 MB",
-    "More": "人机对战，人人对战",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/06/7b51bb70-23ed-11ef-8345-5fe9ad82e4e9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/06/586c7960-23ed-11ef-8345-5fe9ad82e4e9.png"
 }
 ,
 {
@@ -4152,6 +4152,23 @@
 }
 ,
 {
+    "Name": "胆小菇之梦 第一大关（关卡1-1到关卡1-10）",
+    "Version": "0.1spark0",
+    "Filename": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb",
+    "Torrent_address": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb.torrent",
+    "Pkgname": "com.popcap.plants-vs-zombies.danxiaogudream",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://space.bilibili.com/484494032",
+    "Update": "2024-06-29 22:14:23",
+    "Size": "303.94 MB",
+    "More": "打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。\n\n如果游戏已经有存档，请点击游戏首页左上角木牌子新建用户，以进入一周目关卡1-1。\n游戏中可以按alt+enter全屏。\n\n欢迎用本修改器录视频/直播，但是请说明出处。\n祝玩得愉快！\nBilibili 北窗遥望",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/075283294b3948a2a948a346c72a78f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/26954cd61e4f418aacd619a52f64da3d.png"
+}
+,
+{
     "Name": "奥利达尔",
     "Version": "1.0spark0",
     "Filename": "com.olimdal.spark_1.0spark0_amd64.deb",
@@ -4249,6 +4266,23 @@
 }
 ,
 {
+    "Name": "Slay The Spire（杀戮尖塔）",
+    "Version": "2.3.4",
+    "Filename": "slaythespire_2.3.4_amd64.deb",
+    "Torrent_address": "slaythespire_2.3.4_amd64.deb.torrent",
+    "Pkgname": "slaythespire",
+    "Author": "Yangself",
+    "Contributor": "Yangself <YangCY549@outlook.com>",
+    "Website": "https://www.megacrit.com/",
+    "Update": "2024-05-08 10:01:17",
+    "Size": "632.23 MB",
+    "More": "Slay The Spire(杀戮尖塔)v2.3.4 Windows版本",
+    "Tags": "community;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/334deede66db4130994b2b8a8cbd5899.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/e9d3c9236d7f47be9a049eec5db6e8aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/2c9245a114304983afa47be2ea1d303c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/08/3654724163e64011b4121d340a0c15ed.png"
+}
+,
+{
     "Name": "漫漫旅途",
     "Version": "1.0spark0",
     "Filename": "com.yearwalk.spark_1.0spark0_amd64.deb",
@@ -4300,23 +4334,6 @@
 }
 ,
 {
-    "Name": "胆小菇之梦 第一大关（关卡1-1到关卡1-10）",
-    "Version": "0.1spark0",
-    "Filename": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb",
-    "Torrent_address": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb.torrent",
-    "Pkgname": "com.popcap.plants-vs-zombies.danxiaogudream",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://space.bilibili.com/484494032",
-    "Update": "2024-06-29 22:14:23",
-    "Size": "303.94 MB",
-    "More": "打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。\n\n如果游戏已经有存档，请点击游戏首页左上角木牌子新建用户，以进入一周目关卡1-1。\n游戏中可以按alt+enter全屏。\n\n欢迎用本修改器录视频/直播，但是请说明出处。\n祝玩得愉快！\nBilibili 北窗遥望",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/075283294b3948a2a948a346c72a78f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/26954cd61e4f418aacd619a52f64da3d.png"
-}
-,
-{
     "Name": "Feist",
     "Version": "1.0spark1",
     "Filename": "com.feist.spark_1.0spark1_all.deb",
@@ -4365,23 +4382,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/c5396c5f2a074538b1419599f9936148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/a92651ca3165419981fdfe2bf8bda878.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/fd83356b39cb4909a4eb5a678bdcfdbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/d8fab57a2abb4bf3bb1daa2427f03baf.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/27/f1c271b0c2af416dbf4454ab31ee124c.png"
-}
-,
-{
-    "Name": "Slay The Spire（杀戮尖塔）",
-    "Version": "2.3.4",
-    "Filename": "slaythespire_2.3.4_amd64.deb",
-    "Torrent_address": "slaythespire_2.3.4_amd64.deb.torrent",
-    "Pkgname": "slaythespire",
-    "Author": "Yangself",
-    "Contributor": "Yangself <YangCY549@outlook.com>",
-    "Website": "https://www.megacrit.com/",
-    "Update": "2024-05-08 10:01:17",
-    "Size": "632.23 MB",
-    "More": "Slay The Spire(杀戮尖塔)v2.3.4 Windows版本",
-    "Tags": "community;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/334deede66db4130994b2b8a8cbd5899.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/e9d3c9236d7f47be9a049eec5db6e8aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/08/2c9245a114304983afa47be2ea1d303c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/08/3654724163e64011b4121d340a0c15ed.png"
 }
 ,
 {

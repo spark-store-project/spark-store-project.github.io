@@ -254,23 +254,6 @@
 }
 ,
 {
-    "Name": "Tabby",
-    "Version": "1.0.208",
-    "Filename": "tabby-terminal_1.0.208_amd64.deb",
-    "Torrent_address": "tabby-terminal_1.0.208_amd64.deb.torrent",
-    "Pkgname": "tabby-terminal",
-    "Author": "Eugene Pankov <e@ajenti.org>",
-    "Contributor": "yuu2lee4",
-    "Website": "https://github.com/Eugeny/tabby#readme",
-    "Update": "2024-06-24 11:34:49",
-    "Size": "84.72 MB",
-    "More": "A terminal for a modern age",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/a18ee44eea0243d4b9f765a970d173e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/0f4cf47141fc4f4baddce7f64f03b59b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/1491d090b91d49da80b7704a012d53e8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/d43a6d275d41435096c8b8be270a3b6b.png"
-}
-,
-{
     "Name": "MobaXterm (wine)",
     "Version": "23.1",
     "Filename": "net.mobatek.mobaxterm_23.1_all.deb",
@@ -285,6 +268,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/5f8629701594447390693e653ddbdaaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/cfa616f4e2e3402abeb6c8a064095a81.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/08/b927011c9edc4394a43d49e77cc0923b.png"
+}
+,
+{
+    "Name": "Tabby",
+    "Version": "1.0.208",
+    "Filename": "tabby-terminal_1.0.208_amd64.deb",
+    "Torrent_address": "tabby-terminal_1.0.208_amd64.deb.torrent",
+    "Pkgname": "tabby-terminal",
+    "Author": "Eugene Pankov <e@ajenti.org>",
+    "Contributor": "yuu2lee4",
+    "Website": "https://github.com/Eugeny/tabby#readme",
+    "Update": "2024-06-24 11:34:49",
+    "Size": "84.72 MB",
+    "More": "A terminal for a modern age",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/a18ee44eea0243d4b9f765a970d173e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/0f4cf47141fc4f4baddce7f64f03b59b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/24/1491d090b91d49da80b7704a012d53e8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/24/d43a6d275d41435096c8b8be270a3b6b.png"
 }
 ,
 {
@@ -388,23 +388,6 @@
 }
 ,
 {
-    "Name": "Arduino IDE",
-    "Version": "2.1.2spark10",
-    "Filename": "cc.arduino.spark_2.1.2spark10_amd64.deb",
-    "Torrent_address": "cc.arduino.spark_2.1.2spark10_amd64.deb.torrent",
-    "Pkgname": "cc.arduino.spark",
-    "Author": "Arduino",
-    "Contributor": "sgb76 <sgb76@163.com>",
-    "Website": "https://www.arduino.cc/",
-    "Update": "2023-08-10 00:30:08",
-    "Size": "8.84 KB",
-    "More": "Arduino是一个基于灵活、易于使用的硬件和软件的开源电子产品原型平台。\n此处引用了网民『懵仙兔兔』的postinst",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/e3eea900ef9a4ae184534575ee80c877.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/b49453bf6cf842f5ae76de2e650cbd36.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/10/5989cd23b0da4e0ea75621f6f8d84cf0.png"
-}
-,
-{
     "Name": "WebStorm",
     "Version": "2024.1",
     "Filename": "jetbrains-webstorm_2024.1_all.deb",
@@ -419,6 +402,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/d58f5b8b41524dd88303b11a16f13e7f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/8b98f98f47e04925811bc7f930775ce2.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/877a150122664233826e5aa74b8c7b7d.png"
+}
+,
+{
+    "Name": "Arduino IDE",
+    "Version": "2.1.2spark10",
+    "Filename": "cc.arduino.spark_2.1.2spark10_amd64.deb",
+    "Torrent_address": "cc.arduino.spark_2.1.2spark10_amd64.deb.torrent",
+    "Pkgname": "cc.arduino.spark",
+    "Author": "Arduino",
+    "Contributor": "sgb76 <sgb76@163.com>",
+    "Website": "https://www.arduino.cc/",
+    "Update": "2023-08-10 00:30:08",
+    "Size": "8.84 KB",
+    "More": "Arduino是一个基于灵活、易于使用的硬件和软件的开源电子产品原型平台。\n此处引用了网民『懵仙兔兔』的postinst",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/e3eea900ef9a4ae184534575ee80c877.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/10/b49453bf6cf842f5ae76de2e650cbd36.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/10/5989cd23b0da4e0ea75621f6f8d84cf0.png"
 }
 ,
 {
@@ -793,23 +793,6 @@
 }
 ,
 {
-    "Name": "PhpStorm",
-    "Version": "2024.1",
-    "Filename": "jetbrains-phpstorm_2024.1_all.deb",
-    "Torrent_address": "jetbrains-phpstorm_2024.1_all.deb.torrent",
-    "Pkgname": "jetbrains-phpstorm",
-    "Author": "懵仙兔兔",
-    "Contributor": "懵仙兔兔",
-    "Website": "https://www.jetbrains.com/zh-cn/phpstorm/",
-    "Update": "2024-04-10 21:33:11",
-    "Size": "2.55 KB",
-    "More": "PhpStorm\n  高效智能的PHP IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/6d4f932d67a842b097dc0772b7d068a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/60440413b1a046889dac3971728df840.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/0e5e1daed126444488a3b0affa6acfc6.png"
-}
-,
-{
     "Name": "通义千问（5亿参数版）",
     "Version": "0.15.1",
     "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
@@ -824,6 +807,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
+}
+,
+{
+    "Name": "PhpStorm",
+    "Version": "2024.1",
+    "Filename": "jetbrains-phpstorm_2024.1_all.deb",
+    "Torrent_address": "jetbrains-phpstorm_2024.1_all.deb.torrent",
+    "Pkgname": "jetbrains-phpstorm",
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://www.jetbrains.com/zh-cn/phpstorm/",
+    "Update": "2024-04-10 21:33:11",
+    "Size": "2.55 KB",
+    "More": "PhpStorm\n  高效智能的PHP IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/6d4f932d67a842b097dc0772b7d068a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/60440413b1a046889dac3971728df840.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/0e5e1daed126444488a3b0affa6acfc6.png"
 }
 ,
 {
@@ -911,6 +911,22 @@
 }
 ,
 {
+    "Name": "STM32CubeMX",
+    "Version": "6.0.1",
+    "Filename": "stm32cubemx_6.0.1_amd64.deb",
+    "Pkgname": "stm32cubemx",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:56:48",
+    "Size": "252.74 MB",
+    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
+}
+,
+{
     "Name": "GitKraken",
     "Version": "9.11.1",
     "Filename": "gitkraken_9.11.1_amd64.deb",
@@ -925,22 +941,6 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
-}
-,
-{
-    "Name": "STM32CubeMX",
-    "Version": "6.0.1",
-    "Filename": "stm32cubemx_6.0.1_amd64.deb",
-    "Pkgname": "stm32cubemx",
-    "Author": "STMicroelectronics",
-    "Contributor": "lidanger",
-    "Website": "https://www.st.com",
-    "Update": "2020-10-31 06:56:48",
-    "Size": "252.74 MB",
-    "More": "STM32CubeMX is a graphical tool for 32-bit ARMÂ® CortexÂ® STM32 microcontrollers.",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0ce0c590-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/0f2bee10-1b46-11eb-9c06-c785f5a589ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/11310ce0-1b46-11eb-9c06-c785f5a589ec.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/0a06ca90-1b46-11eb-9c06-c785f5a589ec.png"
 }
 ,
 {
@@ -1257,6 +1257,23 @@
 }
 ,
 {
+    "Name": "GitFiend",
+    "Version": "0.44.3",
+    "Filename": "gitfiend_0.44.3_amd64.deb",
+    "Torrent_address": "gitfiend_0.44.3_amd64.deb.torrent",
+    "Pkgname": "gitfiend",
+    "Author": "Toby Suggate <sugto555@gmail.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://gitfiend.com",
+    "Update": "2024-05-05 06:16:08",
+    "Size": "68.75 MB",
+    "More": "Git管理工具  A Git client designed for humans",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/9c5da42839fd48d0989e19ff3c84ad19.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/0cd8f4419b114e8c8aa6d3a8fbe0712e.png"
+}
+,
+{
     "Name": "Geany",
     "Version": "1.38-1",
     "Filename": "geany_1.38-1_amd64.deb",
@@ -1302,23 +1319,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
-}
-,
-{
-    "Name": "GitFiend",
-    "Version": "0.44.3",
-    "Filename": "gitfiend_0.44.3_amd64.deb",
-    "Torrent_address": "gitfiend_0.44.3_amd64.deb.torrent",
-    "Pkgname": "gitfiend",
-    "Author": "Toby Suggate <sugto555@gmail.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://gitfiend.com",
-    "Update": "2024-05-05 06:16:08",
-    "Size": "68.75 MB",
-    "More": "Git管理工具  A Git client designed for humans",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/9c5da42839fd48d0989e19ff3c84ad19.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/0cd8f4419b114e8c8aa6d3a8fbe0712e.png"
 }
 ,
 {
@@ -1991,6 +1991,23 @@
 
 ,
 {
+    "Name": "Mixly",
+    "Version": "2.0",
+    "Filename": "org.mixly_2.0_amd64.deb",
+    "Torrent_address": "org.mixly_2.0_amd64.deb.torrent",
+    "Pkgname": "org.mixly",
+    "Author": "wanweiyang@uniontech.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://mixly.org/",
+    "Update": "2024-03-30 10:17:07",
+    "Size": "947.51 MB",
+    "More": "Mixly（米思齐）是在北京师范大学傅骞博士团队组织开发的一款国内自主研发，且免费开源的图形化编程工具。在国内外都掀起创客教育的浪潮中，傅骞老师认真分析了当前电子领域内的创客教育，并认为“如果不能给学生提供一个足够简单的、不能给教师提供一个容易上手的，不能给各大生产厂商提供一个足够自主的编程工具，所谓的“创”也只能是停留在表面的浮云，风一吹便散。”为了大力贯彻落实创客实验室“自主实践，分享快乐”的教育理念，傅骞老师带领其团队，开发出具有易用性、简单性、功能性、普适性、延续性及生态性等特点的Mixly。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/28ab1857d4064c4994a0949a1ac505eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/faa4d13b1475480699ec53ba27ea2646.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/7f053b2b44844d139cb6ab712eb38d11.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/ffe4c3ad968441c1abaa37e3905843e2.png"
+}
+,
+{
     "Name": "Heynote",
     "Version": "1.7.0spark0",
     "Filename": "com.heynote.spark_1.7.0spark0_amd64.deb",
@@ -2022,23 +2039,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/a3ce43f13f214957883f3a23a6aaf566.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/373b4452ec7a41359f62953ee2528d38.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/c6e79c57192c4044aba8f4142106b4fe.png"
-}
-,
-{
-    "Name": "Mixly",
-    "Version": "2.0",
-    "Filename": "org.mixly_2.0_amd64.deb",
-    "Torrent_address": "org.mixly_2.0_amd64.deb.torrent",
-    "Pkgname": "org.mixly",
-    "Author": "wanweiyang@uniontech.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://mixly.org/",
-    "Update": "2024-03-30 10:17:07",
-    "Size": "947.51 MB",
-    "More": "Mixly（米思齐）是在北京师范大学傅骞博士团队组织开发的一款国内自主研发，且免费开源的图形化编程工具。在国内外都掀起创客教育的浪潮中，傅骞老师认真分析了当前电子领域内的创客教育，并认为“如果不能给学生提供一个足够简单的、不能给教师提供一个容易上手的，不能给各大生产厂商提供一个足够自主的编程工具，所谓的“创”也只能是停留在表面的浮云，风一吹便散。”为了大力贯彻落实创客实验室“自主实践，分享快乐”的教育理念，傅骞老师带领其团队，开发出具有易用性、简单性、功能性、普适性、延续性及生态性等特点的Mixly。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/28ab1857d4064c4994a0949a1ac505eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/faa4d13b1475480699ec53ba27ea2646.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/7f053b2b44844d139cb6ab712eb38d11.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/ffe4c3ad968441c1abaa37e3905843e2.png"
 }
 ,
 {
@@ -2093,23 +2093,6 @@
 }
 ,
 {
-    "Name": "华为云 KooCLI",
-    "Version": "3.4.12~spark1",
-    "Filename": "huawei-cloud-koocli_3.4.12~spark1_amd64.deb",
-    "Torrent_address": "huawei-cloud-koocli_3.4.12~spark1_amd64.deb.torrent",
-    "Pkgname": "huawei-cloud-koocli",
-    "Author": "华为云",
-    "Contributor": "Donald Sebastian Leung",
-    "Website": "https://support.huaweicloud.com/intl/en-us/hcli/index.html",
-    "Update": "2023-01-15 14:19:38",
-    "Size": "3.54 MB",
-    "More": "华为云命令行工具服务（Koo Command Line Interface，KooCLI），是为发布在API Explorer上的华为云服务API提供的命令行管理工具。您可以通过此工具调用API Explorer中各云服务开放的API，管理和使用您的各类云服务资源。\n\n声明：本软件包并非由华为云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/huawei-cloud-koocli-spark-store 建工单。",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/918cb480-949c-11ed-ab43-5736c3d6dc15.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/90601b60-949c-11ed-ab43-5736c3d6dc15.png"
-}
-,
-{
     "Name": "Skylark Edit",
     "Version": "4.0.4spark1",
     "Filename": "com.github.skylark.spark_4.0.4spark1_amd64.deb",
@@ -2124,6 +2107,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/05/9fd0dc3434a44a158d093219ad984145.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/05/9b4f5459e4534459a9d6c5561581bf01.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/05/760cebc8527e4350ac4f615b65ff2cc9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/05/e86c35cc40f14a3d88f744e296fb4f3a.png"
+}
+,
+{
+    "Name": "华为云 KooCLI",
+    "Version": "3.4.12~spark1",
+    "Filename": "huawei-cloud-koocli_3.4.12~spark1_amd64.deb",
+    "Torrent_address": "huawei-cloud-koocli_3.4.12~spark1_amd64.deb.torrent",
+    "Pkgname": "huawei-cloud-koocli",
+    "Author": "华为云",
+    "Contributor": "Donald Sebastian Leung",
+    "Website": "https://support.huaweicloud.com/intl/en-us/hcli/index.html",
+    "Update": "2023-01-15 14:19:38",
+    "Size": "3.54 MB",
+    "More": "华为云命令行工具服务（Koo Command Line Interface，KooCLI），是为发布在API Explorer上的华为云服务API提供的命令行管理工具。您可以通过此工具调用API Explorer中各云服务开放的API，管理和使用您的各类云服务资源。\n\n声明：本软件包并非由华为云官方提供或支持，如有问题请发邮件到 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/huawei-cloud-koocli-spark-store 建工单。",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/15/918cb480-949c-11ed-ab43-5736c3d6dc15.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/15/90601b60-949c-11ed-ab43-5736c3d6dc15.png"
 }
 ,
 {
