@@ -357,23 +357,6 @@
 }
 ,
 {
-    "Name": "Cider",
-    "Version": "1.6.2-20230701.1",
-    "Filename": "cider_1.6.2-20230701.1_amd64.deb",
-    "Torrent_address": "cider_1.6.2-20230701.1_amd64.deb.torrent",
-    "Pkgname": "cider",
-    "Author": "Cider Collective <cryptofyre@cider.sh>",
-    "Contributor": "Cider Collective <cryptofyre@cider.sh>",
-    "Website": "https://cider.sh/",
-    "Update": "2024-01-15 17:54:48",
-    "Size": "91.35 MB",
-    "More": "一款开源的Apple Music播放器，支持Windows/Linux/macOS\nA new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
-}
-,
-{
     "Name": "MusicFree",
     "Version": "0.0.3",
     "Filename": "musicfree_0.0.3_amd64.deb",
@@ -388,6 +371,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/ba6c2cadec0b4c5bae57b84cc544fc4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/310348f39ffb4c2684492f9e0b36d84b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/5c520b4f879a44b3a2dc81f877a6bf59.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/29/3c768e2486af42e0b5691b444150d85a.png"
+}
+,
+{
+    "Name": "Cider",
+    "Version": "1.6.2-20230701.1",
+    "Filename": "cider_1.6.2-20230701.1_amd64.deb",
+    "Torrent_address": "cider_1.6.2-20230701.1_amd64.deb.torrent",
+    "Pkgname": "cider",
+    "Author": "Cider Collective <cryptofyre@cider.sh>",
+    "Contributor": "Cider Collective <cryptofyre@cider.sh>",
+    "Website": "https://cider.sh/",
+    "Update": "2024-01-15 17:54:48",
+    "Size": "91.35 MB",
+    "More": "一款开源的Apple Music播放器，支持Windows/Linux/macOS\nA new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind.",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
 }
 ,
 {
@@ -772,6 +772,22 @@
 }
 ,
 {
+    "Name": "LMMS",
+    "Version": "1.2.2",
+    "Filename": "io.lmms.spark_1.2.2_amd64.deb",
+    "Pkgname": "io.lmms.spark",
+    "Author": "LMMS",
+    "Contributor": "kite",
+    "Website": "https://lmms.io/",
+    "Update": "2021-07-22 14:46:10",
+    "Size": "91.27 MB",
+    "More": "(一款音乐制作软件）此版本为AppImage，为了稳定，且官网不提供deb下载，所以就选择AppImage版，要是想安装源版本，请输入(sudo apt install lmms)[注:你源里的lmms可能版本较低，比如deepin，请下载AppImage版。",
+    "Tags": "deepin;ubuntu;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/22/236aa070-eab6-11eb-b944-43844d458efd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/22/23503aa0-eab6-11eb-b944-43844d458efd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/22/24abbde0-eab4-11eb-b944-43844d458efd.png"
+}
+,
+{
     "Name": "FamiStudio",
     "Version": "4.0.6spark1",
     "Filename": "org.famistudio.spark_4.0.6spark1_amd64.deb",
@@ -786,22 +802,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/28/b065331989a04946ac2b21693553d9e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/28/ba8a9d99c8e340ba8b9cba25603b52cb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/28/79b2cf6a7fe3446280beab62883c8f71.png"
-}
-,
-{
-    "Name": "LMMS",
-    "Version": "1.2.2",
-    "Filename": "io.lmms.spark_1.2.2_amd64.deb",
-    "Pkgname": "io.lmms.spark",
-    "Author": "LMMS",
-    "Contributor": "kite",
-    "Website": "https://lmms.io/",
-    "Update": "2021-07-22 14:46:10",
-    "Size": "91.27 MB",
-    "More": "(一款音乐制作软件）此版本为AppImage，为了稳定，且官网不提供deb下载，所以就选择AppImage版，要是想安装源版本，请输入(sudo apt install lmms)[注:你源里的lmms可能版本较低，比如deepin，请下载AppImage版。",
-    "Tags": "deepin;ubuntu;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/22/236aa070-eab6-11eb-b944-43844d458efd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/22/23503aa0-eab6-11eb-b944-43844d458efd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/22/24abbde0-eab4-11eb-b944-43844d458efd.png"
 }
 ,
 {

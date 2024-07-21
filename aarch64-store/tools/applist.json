@@ -533,24 +533,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb",
-    "More": "## 更新内容\n* fix:Can not switch scale for single app\n* add-high-dpi-to-4.0\n* feat: Auto switch wine helper to reduce package maintaining pressure\n* update 打包用例/pre_update.sh.\n* update 打包用例/postrm.\n* 不再往系统拉屎\n* 添加功能:Wine启动器\n* add:清理容器\n* 更新banner\n**完整的更新日志**: https://gitee.com/spark-store-project/spark-wine/compare/5.6.3.2-5.3.14...5.6.4.2-5.3.14\n",
-    "Name": "星火Wine应用启动器",
-    "Pkgname": "spark-dwine-helper",
-    "Size": "277 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb.torrent",
-    "Update": "2024-07-14 16:29:59",
-    "Version": "5.6.4.2-5.3.14",
-    "Website": "https://gitee.com/deepin-community-store/spark-wine",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
-,
-{
     "Author": "MT管理器",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
@@ -565,6 +547,24 @@
     "Website": "https://mt2.cn/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb",
+    "More": "## 更新内容\n* fix:Can not switch scale for single app\n* add-high-dpi-to-4.0\n* feat: Auto switch wine helper to reduce package maintaining pressure\n* update 打包用例/pre_update.sh.\n* update 打包用例/postrm.\n* 不再往系统拉屎\n* 添加功能:Wine启动器\n* add:清理容器\n* 更新banner\n**完整的更新日志**: https://gitee.com/spark-store-project/spark-wine/compare/5.6.3.2-5.3.14...5.6.4.2-5.3.14\n",
+    "Name": "星火Wine应用启动器",
+    "Pkgname": "spark-dwine-helper",
+    "Size": "277 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb.torrent",
+    "Update": "2024-07-14 16:29:59",
+    "Version": "5.6.4.2-5.3.14",
+    "Website": "https://gitee.com/deepin-community-store/spark-wine",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
 ,
@@ -1235,6 +1235,24 @@
 
 ,
 {
+    "Author": "BaoquTech",
+    "Contributor": "BaoquTech",
+    "Filename": "com.duba.antivirus_1.1.0.15_arm64.deb",
+    "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
+    "Name": "金山毒霸",
+    "Pkgname": "com.duba.antivirus",
+    "Size": "205 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "com.duba.antivirus_1.1.0.15_arm64.deb.torrent",
+    "Update": "2023-06-30 15:29:26",
+    "Version": "1.1.0.15",
+    "Website": "https://www.duba.net/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_3.png\"]"
+}
+
+,
+{
     "Author": "shenmo <shenmo@spark-app.stpre>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "autotrash-bash_1.1.1_all.deb",
@@ -1285,24 +1303,6 @@
     "Website": "http://www.opbyte.it/grsync/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/grsync/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "BaoquTech",
-    "Contributor": "BaoquTech",
-    "Filename": "com.duba.antivirus_1.1.0.15_arm64.deb",
-    "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
-    "Name": "金山毒霸",
-    "Pkgname": "com.duba.antivirus",
-    "Size": "205 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "com.duba.antivirus_1.1.0.15_arm64.deb.torrent",
-    "Update": "2023-06-30 15:29:26",
-    "Version": "1.1.0.15",
-    "Website": "https://www.duba.net/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_3.png\"]"
 }
 
 ,
