@@ -19,19 +19,19 @@
 ,
 {
     "Name": "Google Chrome",
-    "Version": "122.0.6261.94-1",
-    "Filename": "google-chrome-stable_122.0.6261.94-1_amd64.deb",
-    "Torrent_address": "google-chrome-stable_122.0.6261.94-1_amd64.deb.torrent",
+    "Version": "126.0.6478.182-1",
+    "Filename": "google-chrome-stable_126.0.6478.182-1_amd64.deb",
+    "Torrent_address": "google-chrome-stable_126.0.6478.182-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-stable",
     "Author": "Chrome Linux Team <chromium-dev@chromium.org>",
-    "Contributor": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://www.google.cn/intl/zh-CN/chrome/",
-    "Update": "2024-03-05 20:33:49",
-    "Size": "101.15 MB",
+    "Update": "2024-07-21 09:07:10",
+    "Size": "103.73 MB",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。\n\n2023 年 chrome 更新全新窗口UI：\n1. 进入 chrome://flags/\n2. 搜索 2023\n3. chrome 开头的选项设置为 enable 即可",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/f36848b6e09e46d5a8c822d25e0fbf1c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/cfe72e5ec02b4a72b58617a8ad5637b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/22725f63b2394e4793f7f589740bac63.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/591cde312f0d44b4a7c3ff6cab14ed41.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/21/734b067307434137939cdaf7c6715d11.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/21/cf8377c9a9d540a883ece60ef97d15b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/21/c5e764966c7f443cba13655574b77e38.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/21/c6e843afe17247ceba54070ad8c93ef9.png"
 }
 ,
 {
@@ -697,23 +697,6 @@
 }
 ,
 {
-    "Name": "aTrust VPN",
-    "Version": "2.2.16.10+1",
-    "Filename": "cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb",
-    "Torrent_address": "cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb.torrent",
-    "Pkgname": "cn.com.sangfor.atrust",
-    "Author": "Sangfor Technologies Inc <support@sangfor.com>",
-    "Contributor": "Sangfor Technologies Inc <support@sangfor.com>",
-    "Website": "http://www.sangfor.com.cn",
-    "Update": "2023-11-17 16:58:24",
-    "Size": "105.89 MB",
-    "More": "从北邮获取的aTrust VPN客户端，可用于对应系统的登录\n此客户端将对访问应用的请求进行全生命周期的保护，帮助用户安全快速的访问应用",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/bb82bd9786444e50860e59f91ccbe8b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/d37613800a8346eca2e14f0e7501dd33.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/b95152328039489a9f5bebf6ea22a101.png"
-}
-,
-{
     "Name": "Chromium",
     "Version": "111.0.5503.0",
     "Filename": "chromium-linux_111.0.5503.0_amd64.deb",
@@ -728,6 +711,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/88722011696846fea8665b0c43a2dfb5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/335383763a5a434c9b63a980bd9db90a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/475a088280dd4b32a5f4b65c46f134ea.png"
+}
+,
+{
+    "Name": "aTrust VPN",
+    "Version": "2.2.16.10+1",
+    "Filename": "cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb",
+    "Torrent_address": "cn.com.sangfor.atrust_2.2.16.10_plus_1_amd64.deb.torrent",
+    "Pkgname": "cn.com.sangfor.atrust",
+    "Author": "Sangfor Technologies Inc <support@sangfor.com>",
+    "Contributor": "Sangfor Technologies Inc <support@sangfor.com>",
+    "Website": "http://www.sangfor.com.cn",
+    "Update": "2023-11-17 16:58:24",
+    "Size": "105.89 MB",
+    "More": "从北邮获取的aTrust VPN客户端，可用于对应系统的登录\n此客户端将对访问应用的请求进行全生命周期的保护，帮助用户安全快速的访问应用",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/bb82bd9786444e50860e59f91ccbe8b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/17/d37613800a8346eca2e14f0e7501dd33.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/17/b95152328039489a9f5bebf6ea22a101.png"
 }
 ,
 {
@@ -816,23 +816,6 @@
 }
 ,
 {
-    "Name": "QQ 浏览器",
-    "Version": "1.70.3538.0",
-    "Filename": "com.qq.browser_1.70.3538.0_amd64.deb",
-    "Torrent_address": "com.qq.browser_1.70.3538.0_amd64.deb.torrent",
-    "Pkgname": "com.qq.browser",
-    "Author": "Tencent",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://browser.qq.com/",
-    "Update": "2022-12-28 13:55:24",
-    "Size": "74.32 MB",
-    "More": "A fast, safe web browser from Tencent.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/bb7fdb7d9d824fe7b1bc425572669f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/504e5b88d2ff47b2ad04116fa00013fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/fd63466f3c8e4e28ab7c85221cf5fbb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/89596a73686045239ca4c4102dcdfc58.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/81276e0b81a34970ab56a1db2a7cb12c.png"
-}
-,
-{
     "Name": "奇安信浏览器 1.0.1365.3-1（带 Flash）",
     "Version": "1.0.1365.3-1",
     "Filename": "com.qianxin.browser-stable-1.0.1365.3-1_1.0.1365.3-1_amd64.deb",
@@ -850,20 +833,20 @@
 }
 ,
 {
-    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
-    "Version": "8.1.75.406",
-    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
-    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
-    "Author": "寒尘工作室",
-    "Contributor": "燕戏竹林",
-    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
-    "Update": "2023-01-09 14:56:01",
-    "Size": "15.22 MB",
-    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
+    "Name": "QQ 浏览器",
+    "Version": "1.70.3538.0",
+    "Filename": "com.qq.browser_1.70.3538.0_amd64.deb",
+    "Torrent_address": "com.qq.browser_1.70.3538.0_amd64.deb.torrent",
+    "Pkgname": "com.qq.browser",
+    "Author": "Tencent",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://browser.qq.com/",
+    "Update": "2022-12-28 13:55:24",
+    "Size": "74.32 MB",
+    "More": "A fast, safe web browser from Tencent.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/bb7fdb7d9d824fe7b1bc425572669f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/504e5b88d2ff47b2ad04116fa00013fd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/fd63466f3c8e4e28ab7c85221cf5fbb3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/89596a73686045239ca4c4102dcdfc58.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/81276e0b81a34970ab56a1db2a7cb12c.png"
 }
 ,
 {
@@ -884,6 +867,23 @@
 }
 ,
 {
+    "Name": "RPD远程桌面-寒尘汉化（UEngine）",
+    "Version": "8.1.75.406",
+    "Filename": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb",
+    "Torrent_address": "uengine-dc-com.microsoft.rdc.android_8.1.75.406_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.microsoft.rdc.android",
+    "Author": "寒尘工作室",
+    "Contributor": "燕戏竹林",
+    "Website": "抱歉我们联系不到作者，也只能找到这一个版本",
+    "Update": "2023-01-09 14:56:01",
+    "Size": "15.22 MB",
+    "More": "这个是安卓版本的微软远程软件的国内汉化版，虽然部分地方汉化的不是很到位，但是至少不至于不能用",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/09/ab853e77d45d4d4cb63188153d6e78ff.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/09/6bec763bfcd747cdab03f57bb3df183e.png"
+}
+,
+{
     "Name": "AnyDesk在线远程桌面",
     "Version": "6.3.0",
     "Filename": "anydesk_6.3.0_amd64.deb",
@@ -901,23 +901,6 @@
 }
 ,
 {
-    "Name": "文件蜈蚣",
-    "Version": "2.02",
-    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
-    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
-    "Pkgname": "com.filecxx.filecxx",
-    "Author": "filecxx",
-    "Contributor": "shenmo",
-    "Website": "http://www.filecxx.com/zh_CN/index.html",
-    "Update": "2022-06-27 20:34:12",
-    "Size": "27.99 MB",
-    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
-}
-,
-{
     "Name": "Google Chrome 开发者版",
     "Version": "124.0.6342.3-1",
     "Filename": "google-chrome-unstable_124.0.6342.3-1_amd64.deb",
@@ -932,6 +915,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/925f44f2e7e449f7b610d91a7ca8d0db.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/512bdbf92b024712b8b19aa9310d2cb7.png"
+}
+,
+{
+    "Name": "文件蜈蚣",
+    "Version": "2.02",
+    "Filename": "com.filecxx.filecxx_2.02_amd64.deb",
+    "Torrent_address": "com.filecxx.filecxx_2.02_amd64.deb.torrent",
+    "Pkgname": "com.filecxx.filecxx",
+    "Author": "filecxx",
+    "Contributor": "shenmo",
+    "Website": "http://www.filecxx.com/zh_CN/index.html",
+    "Update": "2022-06-27 20:34:12",
+    "Size": "27.99 MB",
+    "More": "文件蜈蚣是一个网络文件下载管理器, WebDAV客户端, FTP客户端, 和SSH客户端.\n它快速, 可定制, 用户友好, 多协议支持, 并且免费无广告.\n同时也包含了很多有用的辅助工具如: HTTP请求器, 文件合并工具, 编码/解码工具等.\n和网页浏览器进行集成, 你可以从网页上下载音频和视频, 甚至是加密视频.\n文件蜈蚣让一切变得简单和高效, 这是你能找到的最好的互联网下载管理器.\n\n首次使用请更改文件保存路径，否则所有内容会被保存到/root 下\n免费序列号：http://www.filecxx.com/zh_CN/activation_code.html\n（不是破解）",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ecd5dbe0-f614-11ec-8e3f-63bd0205a602.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/27/ef5ea9a0-f614-11ec-8e3f-63bd0205a602.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/27/ce1e16e0-f614-11ec-8e3f-63bd0205a602.png"
 }
 ,
 {
@@ -1401,20 +1401,6 @@
 }
 ,
 {
-   "Name":"云日历",
-   "Version":"1.0.2",
-   "Filename":"mytime_linux_1.02_amd64.deb",
-   "Pkgname":"mytime",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":"https://mytime.ruanmei.com/",
-   "Update":"2020-06-25 18:06",
-   "Size":"52.42MB",
-   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
-}
-
-,
-{
     "Name": "Tailscale",
     "Version": "1.70.0",
     "Filename": "tailscale_1.70.0_amd64.deb",
@@ -1429,6 +1415,20 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
     "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
+}
+
+,
+{
+   "Name":"云日历",
+   "Version":"1.0.2",
+   "Filename":"mytime_linux_1.02_amd64.deb",
+   "Pkgname":"mytime",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":"https://mytime.ruanmei.com/",
+   "Update":"2020-06-25 18:06",
+   "Size":"52.42MB",
+   "More":"使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。"
 }
 
 ,
@@ -1598,6 +1598,22 @@
 }
 ,
 {
+    "Name": "megasync",
+    "Version": "4.3.8-1.1",
+    "Filename": "MEGASync.deb",
+    "Pkgname": "megasync",
+    "Author": "MEGA Linux Team <linux@mega.co.nz>",
+    "Contributor": "neko",
+    "Website": "https://mega.nz",
+    "Update": "2021-01-02 16:03:12",
+    "Size": "12.29 MB",
+    "More": "linux下最好用的网盘",
+    "Tags": "ubuntu;deepin;uos;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.bitcomet.spark_2.03.1_all.deb",
@@ -1614,22 +1630,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
 }
 
-,
-{
-    "Name": "megasync",
-    "Version": "4.3.8-1.1",
-    "Filename": "MEGASync.deb",
-    "Pkgname": "megasync",
-    "Author": "MEGA Linux Team <linux@mega.co.nz>",
-    "Contributor": "neko",
-    "Website": "https://mega.nz",
-    "Update": "2021-01-02 16:03:12",
-    "Size": "12.29 MB",
-    "More": "linux下最好用的网盘",
-    "Tags": "ubuntu;deepin;uos;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
-}
 ,
 {
     "Name": "水狐",

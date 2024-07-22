@@ -3189,6 +3189,68 @@ Description: Waydroid 运行器
 
 Package: spark-deepin-wine-runner
 Architecture: all
+Version: 4.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 196396
+Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
+Depends: python3, 
+ python3-pil | pillow, 
+ python3-pil.imagetk | pillow, 
+ aria2, 
+ curl, 
+ unrar | unrar-free , 
+ unzip, 
+ python3-requests, 
+ python3-pyqt5 | pyqt5, 
+ python3-psutil | pypsutil, 
+ xfce4-terminal | deepin-terminal-gtk | deepin-terminal | mate-terminal | gnome-terminal, 
+ python3-dbus, 
+ python3-pip | pip, p7zip-full | p7zip-legacy | p7zip, 
+ sudo, 
+ python3-pyperclip | pyperclip, 
+ bubblewrap, 
+ zenity, 
+ tree, 
+ dpkg, 
+ fakeroot,
+ bash
+Recommends: winbind, 
+ wimtools | wimlib, 
+ python3-pyquery, 
+ python3-pyqt5.qtwebengine | pyqtwebengine, 
+ binfmt-support, 
+ libc6:i386, 
+ libc6:armhf, 
+ libwine, 
+ qemu-system, 
+ qemu-full, 
+ qemu,
+ alien, 
+ spark-deepin-wine-runner-qemu-system-extra, 
+ deepin-wine8-stable | spark-wine | spark-wine9 | spark-wine9-wow | spark-wine8 | spark-wine8-wow | spark-wine7-devel | deepin-wine6-stable | deepin-wine5-stable | deepin-wine5 | deepin-wine | wine, 
+ spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux, termux-exec
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_4.0.0_all.deb
+Size: 57372872
+MD5sum: 08fa1c060adfec6fc0e2d03a4d7debe5
+SHA1: 090388d357abf7729fb62daeeed4b535c9bbcf03
+SHA256: e54085dbd147d7e594f3d47c0dfb42de54412ba5e6cd30956176f2c1906bbea1
+SHA512: 7c845683ad7f8ec51bca72c8f1b5406d880f03749aa6ba8a4cf969f0d2f66447ef7e62daaa1c8204b393893d791aa1be3861d20619c3d74e8fc1beaea9851709
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
+ 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
+ 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
+ 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
+Package: spark-deepin-wine-runner
+Architecture: all
 Version: 3.9.2
 Priority: optional
 Section: utils

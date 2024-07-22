@@ -6971,6 +6971,22 @@ Description:
 License: MIT
 Vendor: Pavlo <pavlobu@gmail.com>
 
+Package: kscq.chenhuisoft
+Architecture: all
+Version: 3.0
+Priority: optional
+Section: python
+Maintainer: 周洋 <chenhuisoft@163.com>
+Installed-Size: 95868
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/kscq.chenhuisoft/kscq.chenhuisoft_3.0_all.deb
+Size: 96780070
+MD5sum: c12071de0d776e8d5265091df312babb
+SHA1: fd0b87f9a5610de164535e3d66b256daeaa25cc4
+SHA256: 613ae14d82265edafd28acb4a345f88188f33a717b8421c8d9ec0191219f35f0
+SHA512: 0695a850b7e489c7b323cafb4a847afd9ddf3c16abb24e3022e53b116e82d84438a6a86ee3ee48868a7f4264b235bfacc44e0d9acf0addba65e0d1d04384e056
+Description: 晨辉考试抽签软件 专门为教育、人事等部门组织的考试，各类学校组织的期中、期末等考试中监考员抽签开发的单机版软件，最多支持一项考试开考10科，即可以在Windows平台运行，也可以在国产统信UOS平台运行
+
 Package: com.xiachufang
 Architecture: all
 Version: 8.8.13
@@ -8560,22 +8576,56 @@ Description: A simple clock floating on other windows.
 
 Package: spark-deepin-wine-runner
 Architecture: all
-Version: 3.9.2
+Version: 4.0.0
 Priority: optional
 Section: utils
 Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 165992
-Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full | p7zip-legacy, sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
-Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien, spark-deepin-wine-runner-qemu-system-extra, deepin-wine8-stable | spark-wine | spark-wine9 | spark-wine9-wow | spark-wine8 | spark-wine8-wow | spark-wine7-devel | deepin-wine6-stable | deepin-wine5-stable | deepin-wine5 | deepin-wine | wine
-Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.2_all.deb
-Size: 51363780
-MD5sum: 633016362a6f41b8855750af75868e40
-SHA1: a56b63018a8ec8c8a04263b52335f4452def3141
-SHA256: 903dd961100998e32ee31a3922492d347609d92f67737b588f2c9b7cd74c2b89
-SHA512: a0e97cf4fc1ae6aea4875b62fa799652412555dd72a4aed943c08772eb2077a96a5bbfc4a46b6fd791cd37e450925e4b61e96ee1059994c9598b3acc3483e42b
+Installed-Size: 196396
+Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
+Depends: python3, 
+ python3-pil | pillow, 
+ python3-pil.imagetk | pillow, 
+ aria2, 
+ curl, 
+ unrar | unrar-free , 
+ unzip, 
+ python3-requests, 
+ python3-pyqt5 | pyqt5, 
+ python3-psutil | pypsutil, 
+ xfce4-terminal | deepin-terminal-gtk | deepin-terminal | mate-terminal | gnome-terminal, 
+ python3-dbus, 
+ python3-pip | pip, p7zip-full | p7zip-legacy | p7zip, 
+ sudo, 
+ python3-pyperclip | pyperclip, 
+ bubblewrap, 
+ zenity, 
+ tree, 
+ dpkg, 
+ fakeroot,
+ bash
+Recommends: winbind, 
+ wimtools | wimlib, 
+ python3-pyquery, 
+ python3-pyqt5.qtwebengine | pyqtwebengine, 
+ binfmt-support, 
+ libc6:i386, 
+ libc6:armhf, 
+ libwine, 
+ qemu-system, 
+ qemu-full, 
+ qemu,
+ alien, 
+ spark-deepin-wine-runner-qemu-system-extra, 
+ deepin-wine8-stable | spark-wine | spark-wine9 | spark-wine9-wow | spark-wine8 | spark-wine8-wow | spark-wine7-devel | deepin-wine6-stable | deepin-wine5-stable | deepin-wine5 | deepin-wine | wine, 
+ spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux, termux-exec
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_4.0.0_all.deb
+Size: 57372872
+MD5sum: 08fa1c060adfec6fc0e2d03a4d7debe5
+SHA1: 090388d357abf7729fb62daeeed4b535c9bbcf03
+SHA256: e54085dbd147d7e594f3d47c0dfb42de54412ba5e6cd30956176f2c1906bbea1
+SHA512: 7c845683ad7f8ec51bca72c8f1b5406d880f03749aa6ba8a4cf969f0d2f66447ef7e62daaa1c8204b393893d791aa1be3861d20619c3d74e8fc1beaea9851709
 Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
 Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
  它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
@@ -21966,17 +22016,17 @@ Description: com.pvzhz.spark
 
 Package: osu-lazer
 Architecture: amd64
-Version: 2024.625.2
+Version: 2024.718.1
 Priority: optional
 Section: utils
 Maintainer: spark-store
 Depends: libfuse2
-Filename: games/osu-lazer/osu-lazer_2024.625.2_amd64.deb
-Size: 129946420
-MD5sum: f7f77b4edb5efaedd0d2899eabe4752a
-SHA1: e806e3742c081c651292530e8ac9fc30b7467c40
-SHA256: eba6007d3f0b3a8f0dfe7e287515fef445a262ac3d48bcb52848d77096808c52
-SHA512: 78a8d4fad99d7a7729be383cabb5fdb774ac76de9ee93d23ded31aef5bbd0c0a85d99424612a7c53d49feb90edfba47858d09733ea5374657bcc2ec785c4738e
+Filename: games/osu-lazer/osu-lazer_2024.718.1_amd64.deb
+Size: 130549162
+MD5sum: b66b6a9e093540ded0ebd2d2e4f5873d
+SHA1: 9f356d6272a59976dff954c17ccd7e697ae91ce5
+SHA256: 50148d4c131a52726ad8dcf8afaf23fbcccf721b4c3453b74d1eefe7818d1cc3
+SHA512: 332794475d65a18859ebddd102020e6970d820d7e505b6a66ea0b1ba9412ef329d131154e7cbd4b7090de69db07a4afa9f723e977376ab8016da12b9d6fcd4ad
 Description: osu-lazer Software Package created by Appimage2Deb
 
 Package: com.dxball2.spark
@@ -24517,22 +24567,22 @@ Description: #一个微信排版编辑器，使用 MDX，更是一个跨平台 M
 
 Package: bssenglish
 Architecture: all
-Version: 2.1.4
+Version: 2.2
 Priority: optional
 Maintainer: Bail<2915289604@qq.com>
-Installed-Size: 106.2KB
+Installed-Size: 111KB
 Provides: Office
 Pre-Depends:
 Depends: python3(>=3.7),python3-gst-1.0,python3-tk,python3-pip
 Recommends:
-Conflicts: com.Bail.bssenglish
+Conflicts: com.Bail.bssenglish,bssenglish-termux
 Replaces:
-Filename: office/bssenglish/bssenglish_2.1.4_all.deb
-Size: 28772
-MD5sum: d623107efdcebee99724c9950d37d922
-SHA1: 9c0e14b29c5b15205af38c86cf2f3dece1bee949
-SHA256: 42ca36e7988dcbbed3244e7db412df9e1762d7264f77073045aba12d8db32ba2
-SHA512: ad303ddfb90b881f4498b405b01bce7fe020f242b6cd1303ff9e108e2626a9c62f0989369f68bb98d986a8d30e47aa6b5aab4144389facdb54ef1e075ce1c73f
+Filename: office/bssenglish/bssenglish_2.2_all.deb
+Size: 30052
+MD5sum: 38c5d361ac1a3cc80b35d2fc52618530
+SHA1: 21f1aa4d526f8e1f3a5160ca8fbefed243f86fbf
+SHA256: 01648be797b282c6c69b77c7344f53918dc64c4065088244680694f45091ddfe
+SHA512: bd48fed2b641f916acf02b0b8265cee560148cd66f118cd4b73e581efbb4e580b5d50ea0f1463c38813146de0ec87f87833dbde90670bc4495aa10995d85c99e
 Description: 帮助你更快速、更牢固地记忆单词
 
 Package: xyz.epolestar.93.spark
@@ -30528,20 +30578,20 @@ Description: Popcorn-Time
 
 Package: google-chrome-stable
 Architecture: amd64
-Version: 122.0.6261.94-1
+Version: 126.0.6478.182-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 331508
+Installed-Size: 340324
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libu2f-udev, libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: network/google-chrome-stable/google-chrome-stable_122.0.6261.94-1_amd64.deb
-Size: 106058640
-MD5sum: 2031c6f3525b8fb585ddd339a8aa4d54
-SHA1: 8ab8039b5e8b6acc9618a49cbbb3abd6cd437b12
-SHA256: 84e9bb619f726bf4a6c0a863eae20f91d8080efe5b21bb2cdfdf2ccc1607b979
-SHA512: 3e0ca4c3fbbdbe2509df45a8e87ba263b47cfdf1436ce1a70e2599caac5832fdf496c4f8abcbeba1b4167a163ad0161f98597ce625cfaf3c68404d4ee0ffcc19
+Filename: network/google-chrome-stable/google-chrome-stable_126.0.6478.182-1_amd64.deb
+Size: 108772160
+MD5sum: 3b12b10383a78055815a721bd7393880
+SHA1: dcef157ba69dc19c0d751ccbc00319dc52d87cf6
+SHA256: 8b3cf7a0424049c235315de90472f3c3108ab3a33ead33917ab9ef2efdec0580
+SHA512: 3e3e2a41aead21afb612f5d23e6d0538c85b290265f66c481530939b77968642d67c3215b34beb05f0ba8104945a76a1ed53169e38cfffaf3fe92370ddbcf141
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34760,20 +34810,20 @@ Description: Scratch 3 For Spark Wine8
 
 Package: myled
 Architecture: amd64
-Version: 2024.06.02
+Version: 2024.07.22
 Priority: extra
 Section: Development
 Maintainer: Eric<gasensor@sina.com>
-Installed-Size:
+Installed-Size: 7300
 Depends: libgtk2.0-0
-Filename: development/myled/myled_2024.06.02_amd64.deb
-Size: 1828200
-MD5sum: 2060da97183bef1d60748eecbe444586
-SHA1: 623e6908a23ca761f7d2457a3d5acc3dc0e7b5d8
-SHA256: 146922e968bc7edebebe891e938fd914d25ce5be26431f5929b48e3cec5a355d
-SHA512: c97fd1461ebd9d6a66ec52b2dffa358167053b997e8e4db0857bd1740515566bc7760341bbd43139ddd3e6da2f0933a0e008322316c93d53d3ffbcee3b9d6ec7
+Filename: development/myled/myled_2024.07.22_amd64.deb
+Size: 1748300
+MD5sum: b3d0f8bf0b92e48b25083833a909b2c1
+SHA1: c62c6772159bd1e8c2be5427dbd750f7a211233b
+SHA256: 01b30b790a86bc364794c46188c57a3f230cbb317854271c21a2528c36353d7d
+SHA512: 953026f56b799e62c8e2e27d3218b9332e796136c3fc2ed9322f6f0e2e8c9cadb8c0fc50db2d12eaadaa7912aa1fc37f9c94885826975b13dd0952836087fd1d
 Homepage: http://www.gasensor.net
-Description: NONE
+Description: Led segment code generation
 
 Package: quardcrt
 Architecture: amd64
@@ -34796,20 +34846,20 @@ Description: quardCRT tools
 
 Package: tabby-terminal
 Architecture: amd64
-Version: 1.0.208
+Version: 1.0.211
 Priority: optional
 Section: default
 Maintainer: Eugene Pankov <e@ajenti.org>
-Installed-Size: 390610
+Installed-Size: 390716
 Depends: gnome-keyring, libnotify4, libsecret-1-0, libxtst6, libnss3
 Recommends: libappindicator3-1
 Replaces: terminus-terminal
-Filename: development/tabby-terminal/tabby-terminal_1.0.208_amd64.deb
-Size: 88831712
-MD5sum: 6a65c26faaf664c3ba8f63197bacfba4
-SHA1: 3972924614b522cf332417a28672f6d83b1d454c
-SHA256: b0529d12d7a44d93339f4dff0291e66f443d63f80e42cfb4dae70a93d2db7d6e
-SHA512: a6d60a64d93ec6c1dc9e70b2310b7191beb38ab5519c5b6a658aa89b55f89e6df8f7074d53bdbe19e6cb2c2be20dfc40ae89fbc77a8e4c520ec23838b0b8b549
+Filename: development/tabby-terminal/tabby-terminal_1.0.211_amd64.deb
+Size: 90631654
+MD5sum: f46a040e34c3e80b9328f671f7079e98
+SHA1: 69e4a8e524cc1624dd96a65984760e969d3a6e5f
+SHA256: ced0d64e256a8cbf20f73585d4c755071c5500f07b40fb3de8c31a62c6b5f1da
+SHA512: 8b29f42c6fe2f6bfeb630d9ec1a336fde3d6500ce19623b0da159676f926a4fb0d393de7ac397d64f004cfa47f88f5a849f4a401c94f0acbc3c708ec6ab1b93a
 Homepage: https://github.com/Eugeny/tabby#readme
 Description: 
   A terminal for a modern age
