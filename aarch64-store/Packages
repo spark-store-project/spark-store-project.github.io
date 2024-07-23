@@ -2943,34 +2943,6 @@ Certainty: possible
 Check: binaries
 Type: binary, udeb
 
-Package: spark-deepin-wine-runner
-Architecture: all
-Version: 3.9.2
-Priority: optional
-Section: utils
-Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 165992
-Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Depends: python3, python3-pil, python3-pil.imagetk, python3-pyquery, aria2, curl, unrar | unrar-free , unzip, python3-requests, python3-pyqt5, python3-psutil, xfce4-terminal | deepin-terminal | mate-terminal | gnome-terminal, python3-dbus, python3-pip, p7zip-full | p7zip-legacy, sudo, python3-pyperclip, bubblewrap, zenity, tree, dpkg, fakeroot
-Recommends: winbind, wimtools, python3-pyqt5.qtwebengine, binfmt-support, libc6:i386, libc6:armhf, libwine, qemu-system, qemu-full, alien, spark-deepin-wine-runner-qemu-system-extra, deepin-wine8-stable | spark-wine | spark-wine9 | spark-wine9-wow | spark-wine8 | spark-wine8-wow | spark-wine7-devel | deepin-wine6-stable | deepin-wine5-stable | deepin-wine5 | deepin-wine | wine
-Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_3.9.2_all.deb
-Size: 51363780
-MD5sum: 633016362a6f41b8855750af75868e40
-SHA1: a56b63018a8ec8c8a04263b52335f4452def3141
-SHA256: 903dd961100998e32ee31a3922492d347609d92f67737b588f2c9b7cd74c2b89
-SHA512: a0e97cf4fc1ae6aea4875b62fa799652412555dd72a4aed943c08772eb2077a96a5bbfc4a46b6fd791cd37e450925e4b61e96ee1059994c9598b3acc3483e42b
-Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
-Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
- 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
- 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
- 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
-Severity: serious
-Certainty: possible
-Check: binaries
-Type: binary, udeb
-
 Package: grsync
 Architecture: arm64
 Version: 1.3.0-1
@@ -7314,6 +7286,25 @@ MD5sum: 7ed7512020f8a232b429dca356f20549
 SHA1: af742598831721955f379712809ec002a90b8805
 SHA256: b9d01a020694ded08ff15af2ae571642341a567a77eec40d71b758346d1aaf93
 SHA512: 450d76cac850d95900fcced45d09b4721146c56857f5573d9a7b9bed4cdc7af1c338d0bba7d36cec1923bfa2be0515a37c04f3924792f9fb89954fcabb7487aa
+Description: A Clash Meta GUI based on tauri.
+ A Clash Meta GUI based on tauri.
+
+Package: clash-verge
+Architecture: arm64
+Version: 1.7.5
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 101065
+Provides: clash-verge
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Conflicts: clash-verge
+Replaces: clash-verge
+Filename: network/clash-verge/clash-verge_1.7.5_arm64.deb
+Size: 40761430
+MD5sum: fa4a2bb443519fd4625472292e365c66
+SHA1: eaf0f1f5aeaa92d57c3adae8d008b0b879f9488b
+SHA256: b49a0b2ad9b4a04482c70beaf4aa6f8cf9ffafbf960b06e7d6f170f5e3cc9508
+SHA512: d4d0758a298c555a30ea4cbcd33fc038f77db0000a52978df0315a09b5a84cb14c5195082d0f81436a815b17daa4c7aa84d06b48a902f139f963fe62ca312afa
 Description: A Clash Meta GUI based on tauri.
  A Clash Meta GUI based on tauri.
 

@@ -268,23 +268,6 @@
 
 ,
 {
-    "Name": "Internet Explorer 8 (wine)",
-    "Version": "1.0.1deepin3",
-    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
-    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
-    "Pkgname": "deepin.com.ie8",
-    "Author": "Person By Deepin WINE",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://bbs.deepin.org/post/168562",
-    "Update": "2023-09-20 13:14:55",
-    "Size": "353.18 MB",
-    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
-    "Tags": "ubuntu;deepin;uos;dwine2",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
-}
-,
-{
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "browser360-cn-beta_13.108.1000.22-1_arm64.deb",
@@ -301,6 +284,23 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/browser360-cn-beta/screen_4.png\"]"
 }
 
+,
+{
+    "Name": "Internet Explorer 8 (wine)",
+    "Version": "1.0.1deepin3",
+    "Filename": "deepin.com.ie8_1.0.1deepin3_all.deb",
+    "Torrent_address": "deepin.com.ie8_1.0.1deepin3_all.deb.torrent",
+    "Pkgname": "deepin.com.ie8",
+    "Author": "Person By Deepin WINE",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://bbs.deepin.org/post/168562",
+    "Update": "2023-09-20 13:14:55",
+    "Size": "353.18 MB",
+    "More": "个人基于Deepin Wine打包的IE8，仅供交流学习使用。\n------\n更新说明：支持deepin v23\n----\n注意：首次启动可能会出现闪退，再次启动即可\n如果点击关闭之后仍有残留窗口，请强制结束进程",
+    "Tags": "ubuntu;deepin;uos;dwine2",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/6b487a7d5d994d249a7d7800efae9573.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/20/0af4e1be6dee4284a9e718daf4760c62.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/20/2443432b0b1f4da2980fa08afdcc33f6.png"
+}
 ,
 {
     "Author": "shenmo<shenmo@spark-app.store>",
@@ -341,15 +341,15 @@
 {
     "Author": "zzzgydi, wonfen, MystiPanda",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "clash-verge_1.6.6_arm64.deb",
+    "Filename": "clash-verge_1.7.5_arm64.deb",
     "More": "A Clash Meta GUI based on tauri.\nClash Verge的新维护者版本,支持Linux发行版下开启系统代理",
     "Name": "Clash Verge",
     "Pkgname": "clash-verge",
-    "Size": "42 Mb",
+    "Size": "40 Mb",
     "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "clash-verge_1.6.6_arm64.deb.torrent",
-    "Update": "2024-06-13 22:20:27",
-    "Version": "1.6.6",
+    "Torrent_address": "clash-verge_1.7.5_arm64.deb.torrent",
+    "Update": "2024-07-24 01:16:11",
+    "Version": "1.7.5",
     "Website": "https://clash-verge-rev.github.io/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/clash-verge/screen_3.png\"]"
@@ -789,24 +789,6 @@
 
 ,
 {
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
-    "More": "一款蓝奏云盘的第三方客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。\n\n--说明--\nUbuntu22.04在KDE桌面环境下测试运行正常",
-    "Name": "蓝奏云盘",
-    "Pkgname": "com.lanzou.spark",
-    "Size": "78 Mb",
-    "Tags": "deepin;ubuntu;dwine5",
-    "Torrent_address": "com.lanzou.spark_3.4.8spark2_all.deb.torrent",
-    "Update": "2024-03-24 23:06:08",
-    "Version": "3.4.8spark2",
-    "Website": "https://github.com/chenhb23/lanzouyun-disk",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_3.png\"]"
-}
-
-,
-{
     "Author": "28655758+yaobiao131@users.noreply.github.com",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "downkyi_1.0.10-1_arm64.deb",
@@ -821,6 +803,24 @@
     "Website": "https://github.com/yaobiao131/downkyicore",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/downkyi/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
+    "More": "一款蓝奏云盘的第三方客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。\n\n--说明--\nUbuntu22.04在KDE桌面环境下测试运行正常",
+    "Name": "蓝奏云盘",
+    "Pkgname": "com.lanzou.spark",
+    "Size": "78 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.lanzou.spark_3.4.8spark2_all.deb.torrent",
+    "Update": "2024-03-24 23:06:08",
+    "Version": "3.4.8spark2",
+    "Website": "https://github.com/chenhb23/lanzouyun-disk",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_3.png\"]"
 }
 
 ,

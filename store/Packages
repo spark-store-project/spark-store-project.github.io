@@ -8576,7 +8576,7 @@ Description: A simple clock floating on other windows.
 
 Package: spark-deepin-wine-runner
 Architecture: all
-Version: 4.0.0
+Version: 4.0.0.1
 Priority: optional
 Section: utils
 Maintainer: gfdgd xi <3025613752@qq.com>
@@ -8620,12 +8620,12 @@ Recommends: winbind,
  spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin
 Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux, termux-exec
 Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_4.0.0_all.deb
-Size: 57372872
-MD5sum: 08fa1c060adfec6fc0e2d03a4d7debe5
-SHA1: 090388d357abf7729fb62daeeed4b535c9bbcf03
-SHA256: e54085dbd147d7e594f3d47c0dfb42de54412ba5e6cd30956176f2c1906bbea1
-SHA512: 7c845683ad7f8ec51bca72c8f1b5406d880f03749aa6ba8a4cf969f0d2f66447ef7e62daaa1c8204b393893d791aa1be3861d20619c3d74e8fc1beaea9851709
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_4.0.0.1_all.deb
+Size: 57361292
+MD5sum: e3341f01f35f7b4dcc71d61e09098caa
+SHA1: 8289b3b3a724a98220507c5d3c0ef53114188cb3
+SHA256: e5b495c5a11979e2e59625fe388ffadb54c840a4b2f38fe428af91d1038c2a5d
+SHA512: e3341597fabb509e719053e1f8ebd75a1bff47b004aa0f143fd48517209ffb048b58d07a318df605498d1a0e6c61bc92f3341f1c18b0acf19ed304da8520a8cd
 Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
 Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
  它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
@@ -11875,6 +11875,23 @@ SHA256: 4fd721b22447eb53e37d8a7e8fbc1a0fb2ddaac1c953b97b5f4dec609b53ade3
 SHA512: 2d4e02aa2c558a9bffae1bca157566b994703c7155c73a2a1f06ceb0622962932274b50fb5627f5d8f2ae8ec04e3d4bd5ce75aaa11969bef61541eeb28475160
 Homepage: https://github.com/waylyrics
 Description: An external desktop lyrics software.
+
+Package: fl-studio-11-spark-wine8
+Architecture: amd64
+Version: 0.11.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Elysia
+Installed-Size: 688050
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: music/fl-studio-11-spark-wine8/fl-studio-11-spark-wine8_0.11.1_amd64.deb
+Size: 688033028
+MD5sum: 6c023d5de38a579254d3a9c1d15c2a34
+SHA1: 5349595d337ca5720b6f5d17e72d54bce510e02e
+SHA256: e37f023cc1316723ca57174aeb4bf86075eb86f2e6bf14edfd36fc4c1a5eee3e
+SHA512: b08014b45cd97999d6385b1a36c82c290e225f28c82d798eca9b2cef6ccd39881ca9d1ae5f35cc325cc75d1fb8c94ebc475e1c62fe0ee41a0ad4ef5d7068a7f4
+Description:  FL Studio on Wine
 
 Package: com.qianqian.ttplayer.spark
 Architecture: i386
@@ -19250,6 +19267,23 @@ SHA256: 3d4549264c71a7beaa2b5f3f1e613abad61e0df5865d9f82f44701902a117ba3
 SHA512: 27faa27185c1ab944517192964a1762d5214a31152a745514705056ead20b2def996552ba7328da408a0c85307a56f7020ff9f8c9edad808a5ef689bcd1fe60b
 Description: Olimdal on Spark Wine7
  一款简单且具挑战性的解谜游戏，内部环境优美，背景设置于真实的Olimdal图书馆塔中
+
+Package: com.pvzbt.deepin
+Architecture: amd64
+Version: 0.68
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: 子龙不秃头
+Installed-Size: 94849
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pvzbt.deepin/com.pvzbt.deepin_0.68_amd64.deb
+Size: 94860772
+MD5sum: f69399bf94ddae2be0f3e2dcf696727c
+SHA1: ce824b490eb45e3a89e4c4e58b5c6056b4409704
+SHA256: 08e303163d3ea6990ba015b3dbc3ecf65e388296bbe2033a49e0cc6c345b59d5
+SHA512: b9193f926dad7ab5da7c63cac82b04287fa27949e6ae494c00385162bad9c79dfe50186fb5531d47f81d39fc23f0002c71d9f903cc5f2f5afcdce563b0562f9b
+Description: 可可爱爱的植物大战僵尸
 
 Package: qq-hlddz
 Architecture: amd64
@@ -30389,20 +30423,20 @@ Description: .一款顶级的视频下载工具，能从YouTube及其他超过10
 
 Package: clash-verge
 Architecture: amd64
-Version: 1.6.6
+Version: 1.7.5
 Priority: optional
 Maintainer: zzzgydi, wonfen, MystiPanda
-Installed-Size: 110838
-Provides: clash-verge, clash-meta
+Installed-Size: 103889
+Provides: clash-verge
 Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
-Conflicts: clash-verge, clash-meta
-Replaces: clash-verge, clash-meta
-Filename: network/clash-verge/clash-verge_1.6.6_amd64.deb
-Size: 43689598
-MD5sum: 52b4cdb5093fac2f3f8d9ad6fb75ec20
-SHA1: aa7ba44e813c03dcc95ca086cf170d954df7ac53
-SHA256: c7e5e46ac83a6337ede422e0d981424648290de895bef76670b8eb83ea08393f
-SHA512: 1416cea93679a86245de89e8859ce98402927dab703da9816cbd2ac161ac0724d01168480bbf00573b9e9065fdd98fe3ef72ffabb271fbcc52022ec60d9a466c
+Conflicts: clash-verge
+Replaces: clash-verge
+Filename: network/clash-verge/clash-verge_1.7.5_amd64.deb
+Size: 42169592
+MD5sum: e607a2600929bb4b44c91120d3ebf2d8
+SHA1: 4250728788965bfb683a1f2ff22e1ffe8341d5f8
+SHA256: a5510ff80e16eb12d28455ee5cf03a3fe1d94fc1ea923fc7456d8b68e38123a5
+SHA512: 29858f4777d2dd848369d6adf960bbeb697f5928329fe0bac9cf255e32a20ec7c2e4d0d545e3b5ccb8f38de61f1f4e843bf381ab5f89a724601146a18e589386
 Description: A Clash Meta GUI based on tauri.
  A Clash Meta GUI based on tauri.
 
@@ -31284,22 +31318,22 @@ Description: NFSBrowser - Web Browser
 
 Package: firefox-spark
 Architecture: amd64
-Version: 128.0
+Version: 128.0.2
 Priority: optional
 Section: web
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 214784
-Provides: x-www-browser,gnome-www-browser,firefox(=128.0)
+Provides: x-www-browser,gnome-www-browser,firefox(=128.0.2)
 Depends: libdbus-glib-1-2,zenity
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
-Filename: network/firefox-spark/firefox-spark_128.0_amd64.deb
-Size: 70507088
-MD5sum: 6910e241a6cbafaac5f3c4ac025397fb
-SHA1: fd8bbfd9628756fc0825593755ee7477bcd3de83
-SHA256: 45e4cf4cf55a37f62556e442c4bf1999e711ece48e973c58e69e45bd2da5082d
-SHA512: 88003a62146e7c2d810608565c6c228277cb46ca5d275df43896a09bee832a6862e16925d7763eed6f0ba9d3118cf39a0bcf2852059723b0b7559ca47711969c
+Filename: network/firefox-spark/firefox-spark_128.0.2_amd64.deb
+Size: 70493480
+MD5sum: 21040b6d5516c417e4a227c7a988ab51
+SHA1: 0e878dd0d62c11a8d4bbd742a6e6b7938a91dd54
+SHA256: e71c8da86626e0aac6082049e98a641f04db9466ff1b607f825e6d7aba3d3d22
+SHA512: 522eeabeb06a252e1c96478f21c6d7ecf352a2d8e7a165bcc443d6e3fcb18d690b9b73852427985b17eda7ff39b5eb1b7f1f6ebdb30beeb0bc5b4e140c75fb4c
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -36766,19 +36800,19 @@ Vendor: Ferdium Contributors <hello@ferdium.org>
 
 Package: discord
 Architecture: amd64
-Version: 0.0.56
+Version: 0.0.61
 Priority: optional
 Section: net
 Maintainer: Discord Maintainer Team <native-team@discord.com>
-Installed-Size: 248440
+Installed-Size: 254036
 Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
 Recommends: libappindicator1 | libayatana-appindicator1
-Filename: chat/discord/discord_0.0.56_amd64.deb
-Size: 100957354
-MD5sum: e1cad469d0e364f6cfc55bb67c412ad6
-SHA1: 86bced44413737f68dbd012c6c0be6e8681b5b0f
-SHA256: 3a33deeefe5176b4bc8fc1c7bb55250d750e04d87a51e775d69b11de1e3d7c4c
-SHA512: 252f8583451c7e991609a562fdd80295e42eba6f0c5a67b0d58c1dc46f90ebcc7c1d11db8f9446bcbd03dae87f6fdbc87a8ad10681a4fbd6dd72dc1b71c96122
+Filename: chat/discord/discord_0.0.61_amd64.deb
+Size: 103054400
+MD5sum: 5924bf63b1334f880ffe7403db703601
+SHA1: cb66c96d03861408e5fab80ae0bc14a227c6e00f
+SHA256: 818c998f5a91caec55dc3076788f73e07f4a91f8c96233e9f8f2cdd60cfca4b6
+SHA512: 7341f01545602d32015fc7c25ceb1d468568be6353adc35d0ad7a00693d119ff11cc5ec32680346db1bba833529a27d29f5d0855b166fbff906b4d72853e2928
 Homepage: https://discord.com
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,

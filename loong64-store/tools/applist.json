@@ -178,6 +178,24 @@
 }
 ,
 {
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "z-tools-aptmanager_0.7.9-20240324_loong64.deb",
+    "More": "一个简单的软件包管理工具",
+    "Name": "软件包管理器(apt)",
+    "Pkgname": "z-tools-aptmanager",
+    "Size": "56 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "z-tools-aptmanager_0.7.9-20240324_loong64.deb.torrent",
+    "Update": "2024-03-24 22:05:17",
+    "Version": "0.7.9-20240324",
+    "Website": "https://gitee.com/zinface/z-tools",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_5.png\"]"
+}
+
+,
+{
     "Name": "GitHub 访问加速包",
     "Version": "0.0.1-20240206",
     "Filename": "github-fast-access_0.0.1-20240206_all.deb",
@@ -230,24 +248,6 @@
 
 ,
 {
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "z-tools-aptmanager_0.7.9-20240324_loong64.deb",
-    "More": "一个简单的软件包管理工具",
-    "Name": "软件包管理器(apt)",
-    "Pkgname": "z-tools-aptmanager",
-    "Size": "56 Kb",
-    "Tags": "community;deepin;ubuntu",
-    "Torrent_address": "z-tools-aptmanager_0.7.9-20240324_loong64.deb.torrent",
-    "Update": "2024-03-24 22:05:17",
-    "Version": "0.7.9-20240324",
-    "Website": "https://gitee.com/zinface/z-tools",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/z-tools-aptmanager/screen_5.png\"]"
-}
-
-,
-{
     "Author": "help@todesk.com",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "todesk_4.7.2.0_loong64.deb",
@@ -284,21 +284,6 @@
 
 ,
 {
-   "Name":"以管理员身份打开文件（夹）",
-   "Version":"1.1.1",
-   "Filename":"admin-xdg-open_1.1.1_all.deb",
-   "Pkgname":"admin-xdg-open",
-   "Author":"zty199",
-   "Contributor":"zty199",
-   "Website":"https://gitee.com/zty199/",
-   "Update":"2020-09-15 01:40",
-   "Size":"1.64KB",
-   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
-   "Tags":"community;deepin;uos"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-store_4.2.14.1_loong64.deb",
@@ -313,6 +298,21 @@
     "Website": "https://www.spark-app.store/",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-store/screen_4.png\"]"
+}
+
+,
+{
+   "Name":"以管理员身份打开文件（夹）",
+   "Version":"1.1.1",
+   "Filename":"admin-xdg-open_1.1.1_all.deb",
+   "Pkgname":"admin-xdg-open",
+   "Author":"zty199",
+   "Contributor":"zty199",
+   "Website":"https://gitee.com/zty199/",
+   "Update":"2020-09-15 01:40",
+   "Size":"1.64KB",
+   "More":"利用 xdg-open 以管理员身份直接打开文件（夹），避免文件管理器假死。",
+   "Tags":"community;deepin;uos"
 }
 
 ,
@@ -828,6 +828,23 @@
 }
 ,
 {
+    "Name": "Bleachbit",
+    "Version": "4.4.2-0",
+    "Filename": "bleachbit_4.4.2-0_all.deb",
+    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
+    "Pkgname": "bleachbit",
+    "Author": "Andrew Ziem",
+    "Contributor": "sgb76",
+    "Website": "https://www.bleachbit.org/",
+    "Update": "2022-04-20 00:03:55",
+    "Size": "436.99 KB",
+    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
+}
+,
+{
     "Name": "xonsh --在终端里运行python命令",
     "Version": "0.14.0+dfsg-1",
     "Filename": "xonsh_0.14.0_plusdfsg-1_all.deb",
@@ -1202,23 +1219,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_5.png\"]"
 }
 
-,
-{
-    "Name": "Bleachbit",
-    "Version": "4.4.2-0",
-    "Filename": "bleachbit_4.4.2-0_all.deb",
-    "Torrent_address": "bleachbit_4.4.2-0_all.deb.torrent",
-    "Pkgname": "bleachbit",
-    "Author": "Andrew Ziem",
-    "Contributor": "sgb76",
-    "Website": "https://www.bleachbit.org/",
-    "Update": "2022-04-20 00:03:55",
-    "Size": "436.99 KB",
-    "More": "BleachBit是一款开源的系统清理工具，它可以释放磁盘空间，保护您的隐私，清除缓存，删除cookies、internet历史、临时文件、日志和丢弃的垃圾文件等，支持清除应用的残留数据，切碎文件防止恢复、隐藏被删除文件的痕迹等功能。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/325ede10-bffa-11ec-a680-878a6ae343fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/20/359047e0-bffa-11ec-a680-878a6ae343fa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/20/2d051600-bffa-11ec-a680-878a6ae343fa.png"
-}
 ,
 {
    "Name":"必应好壁纸",
