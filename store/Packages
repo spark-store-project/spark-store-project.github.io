@@ -3765,17 +3765,17 @@ Description: Android & Apple Device Manager
 
 Package: clipboard-history-analyzer
 Architecture: amd64
-Version: 0.0.1-20240717
+Version: 0.0.2-20240724
 Priority: optional
 Section: devel
 Maintainer: zinface <zinface@163.com>
-Installed-Size: 190
-Filename: tools/clipboard-history-analyzer/clipboard-history-analyzer_0.0.1-20240717_amd64.deb
-Size: 62130
-MD5sum: c1ec28e196d6ae8c576d2fbf6cbab098
-SHA1: 9dd703683d8f559bf2413abe0f7f91e5b4f6e5be
-SHA256: c4237e5a8c0f58df919018c8c55e3279285d4fa488b739e062f1bdc14439541b
-SHA512: c50955ccda4d45ffacdd7334f5881de9c946bbad0b538cbedb05f5814121ce435c78a2528a56b494852472599c960e40864676aff0950c5badcbe122a0bb55b8
+Installed-Size: 200
+Filename: tools/clipboard-history-analyzer/clipboard-history-analyzer_0.0.2-20240724_amd64.deb
+Size: 63984
+MD5sum: 6f0e9f0259b8122c2013cf9ee6049cd1
+SHA1: f127c6041a45abfe01b877b15887536bf111c2ef
+SHA256: 807b52ef0b70ed76c7304b5a5ae14e1cd9dcc83f81f9830852431b563493721a
+SHA512: afed45c928da8df18beb877e768e99ca278335de6722af1e83be3f7f01aad8d8b5f85991759121966b3e49d19425044eccfa54929fa38cfb19130b1f1f50f890
 Homepage: https://gitee.com/zinface/qt.clipboard-history-analyzer.git
 Description: 剪贴板历史分析工具
  剪贴板历史分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地处理重用复制粘贴的数据。
@@ -4419,18 +4419,17 @@ Description: Mac Superdrive rules
 
 Package: com.gitee.zinface-debian-apt-analyzer
 Architecture: amd64
-Version: 0.0.5-20240715
+Version: 0.0.13-20240724
 Priority: optional
 Section: devel
 Maintainer: zinface <zinface@163.com>
-Installed-Size: 373
-Filename: tools/com.gitee.zinface-debian-apt-analyzer/com.gitee.zinface-debian-apt-analyzer_0.0.5-20240715_amd64.deb
-Size: 136700
-MD5sum: 66ddda0797704ddb214d710efa644f01
-SHA1: f757349915a472f44661f65a88519919675aaf6b
-SHA256: 65be34bede7fdf4ee1dc603ba7c7e41b19590b151bbb8ab1570d779a2b6b0fef
-SHA512: 5c2041434b96c7f265e773775aeb93927bea4fe942f39af183ec65a15cdab74db73de94598dcf855e49ac3cbc17268a56643e1181d30d07f96c077aae24d5214
-Homepage: https://gitee.com/zinface/qt.debian-apt-analyzer
+Installed-Size: 697
+Filename: tools/com.gitee.zinface-debian-apt-analyzer/com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb
+Size: 481912
+MD5sum: 7af07b7d0e58f5dabeffba81b15f9bf1
+SHA1: 7f522019d61544850c475c8aa68e8b36ad2603ce
+SHA256: d5e6731be7c9e8de16a583d484104c56f15afc6d12f5543abb5bb311ffac8041
+SHA512: 5e639d6475d7969e8517dbce8461c41811aca5aaa2bcdca608fd8cd6acab7406506388249da169c8f939511677159d137d8f4afa89def381c3395b6a6c74451b
 Description: Debian 软件源分析工具
  Debian软件源分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。
  .
@@ -8322,18 +8321,18 @@ Description: Oracle VM VirtualBox
 
 Package: spark-store-submitter
 Architecture: amd64
-Version: 1.5.6.4-20240407
+Version: 1.5.6.5-20240724
 Priority: optional
 Section: devel
 Maintainer: zinface <zinface@163.com>
-Installed-Size: 4843
+Installed-Size: 4848
 Depends: git, imagemagick
-Filename: tools/spark-store-submitter/spark-store-submitter_1.5.6.4-20240407_amd64.deb
-Size: 3421458
-MD5sum: aea3371ffa6652058167ee8ba3179245
-SHA1: d36e000b86483c21ae7e8203214589a7b795d223
-SHA256: c0211e1b829f79a9294ea1ed35aef3893063676b49bf3f1ac2e77b4d173715e0
-SHA512: e379ef0f845bb232f44a9f078979c78c0aaa97578f622b9dce27ddb1c0585d890634bc3df2fe1c3719c21116e4472db0ea7237a36cae0c8f66cf5a816f47e67d
+Filename: tools/spark-store-submitter/spark-store-submitter_1.5.6.5-20240724_amd64.deb
+Size: 3423648
+MD5sum: ebcde1781ce3fee08ad036ebf1c337cf
+SHA1: 04b6f81dd6db63e3c2d47d2f0163033cf683a286
+SHA256: 1aeb994652cc2541882ac4a30774f164b2756dcc885fab577835b789cd4c7e38
+SHA512: 3e8fcc810b9e4aa2155184d4d1a03dfd5fcd111e4f2b9705bbb19a36c9ddca22d5521e0bb6e792ad63fc8e251fd14615bbdbd370197c8bf5a717d70acf3aff3b
 Homepage: https://gitee.com/deepin-community-store/dcs-submitter
 Description: 社区商店投稿器
  社区商店投稿器 Origin By 乾一巽五
@@ -8648,6 +8647,27 @@ SHA1: 2d7a144c32532e3bcafe6902e1257badfaccf3dc
 SHA256: 0a5aba576e71805994ef7e0ec4054476d4573dc891e2e0f990793ff629f97c4e
 SHA512: 26dca7b83defb366e247c0832ec1082f5f7529860aeff7a4d9071975db2aa15a5d2fda6123df8ed4b65daec8fdac2520054cf4db3a9d6915b3d45372ebe954f5
 Description: magnetw-3.1.1-linux Software Package created by Appimage2Deb
+
+Package: base64-images-analyzer
+Architecture: amd64
+Version: 0.0.1-20240724
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 233
+Filename: tools/base64-images-analyzer/base64-images-analyzer_0.0.1-20240724_amd64.deb
+Size: 109406
+MD5sum: 7b12327411f3aa9407ed942edc17090d
+SHA1: 5c36ead9d0c16dd73ab18c34c01718a5fcceb1cb
+SHA256: fa6f1b4cb0586d6b393ed98b12c4ca6ee1dfd0fee749fffffee38fd73fbcadbe
+SHA512: 32ae757fb24dccd2a930b4e3adad9f91bd78a032a7411e826e372dac3a0537ab382184f59578c2586ff252cd54205088d2a6755c9c53d98637d489753e09c147
+Homepage: https://gitee.com/zinface/qt.base64-images-analyzer
+Description: Base64图片分析工具
+ Base64图片分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地处理base64的数据。
+ .
+ 这款工具具有简单易用的特点，让用户能够将Base64-转图片的操作分离，从而更高效地进行管理和维护所使用的数据。
+ .
+ Build for Deepin20.9 through spark-deb-build.
 
 Package: grsync
 Architecture: amd64

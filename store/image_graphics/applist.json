@@ -220,22 +220,6 @@
 }
 ,
 {
-    "Name": "尧创CAD（wine）",
-    "Version": "10.1spark0",
-    "Filename": "cn.yaoccad.spark_10.1spark0_i386.deb",
-    "Pkgname": "cn.yaoccad.spark",
-    "Author": "武汉尧创软件科技有限责任公司",
-    "Contributor": "sgb76",
-    "Website": "http://www.yaocsoft.com.cn/ChsDefault.aspx",
-    "Update": "2021-08-06 22:51:41",
-    "Size": "694.03 MB",
-    "More": "尧创CAD 是一款拥有完全自主知识产权的专业绘图软件，它与AutoCAD全面兼容，功能强大，性价比高，在机械、电子、化工、建筑、船舶、航空等行业得到了广泛地应用。",
-    "Tags": "ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/7f9312a0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/877e0ce0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/8d33b090-f6c4-11eb-8453-8b053af67d50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/06/7849af90-f6c4-11eb-8453-8b053af67d50.png"
-}
-,
-{
     "Name": "Sunny 截图",
     "Version": "1.6.3",
     "Filename": "sunny_1.6.3_amd64.deb",
@@ -250,6 +234,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/0697ed3b0cd74a318bb029cc5fcb7dba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/7ecd11270e8b49258bb535cd80ad7f2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f577e1db22844066926730b835008c15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/baf4c1ea15bc413f996f67b4d1b8a478.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1099a098771243968ad411e1455cada1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/dc8a20e95f85431cb03b556b87eff892.png"
+}
+,
+{
+    "Name": "尧创CAD（wine）",
+    "Version": "10.1spark0",
+    "Filename": "cn.yaoccad.spark_10.1spark0_i386.deb",
+    "Pkgname": "cn.yaoccad.spark",
+    "Author": "武汉尧创软件科技有限责任公司",
+    "Contributor": "sgb76",
+    "Website": "http://www.yaocsoft.com.cn/ChsDefault.aspx",
+    "Update": "2021-08-06 22:51:41",
+    "Size": "694.03 MB",
+    "More": "尧创CAD 是一款拥有完全自主知识产权的专业绘图软件，它与AutoCAD全面兼容，功能强大，性价比高，在机械、电子、化工、建筑、船舶、航空等行业得到了广泛地应用。",
+    "Tags": "ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/7f9312a0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/877e0ce0-f6c4-11eb-8453-8b053af67d50.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/06/8d33b090-f6c4-11eb-8453-8b053af67d50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/06/7849af90-f6c4-11eb-8453-8b053af67d50.png"
 }
 ,
 {
@@ -1525,6 +1525,24 @@
 }
 ,
 {
+    "Author": "info@ovital.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ovital-map_2.6.8_arm64.deb",
+    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
+    "Name": "奥维互动地图",
+    "Pkgname": "ovital-map",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
+    "Update": "2024-05-30 16:07:55",
+    "Version": "2.6.8",
+    "Website": "https://www.ovital.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
+}
+
+,
+{
     "Name": "富怡服装CAD",
     "Version": "8.0.0",
     "Filename": "fuyicad_8.0.0_i386.deb",
@@ -1556,24 +1574,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/16/b9e0d820-3f86-11eb-905c-15a0f14ddfd0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/16/87adbd50-3f86-11eb-905c-15a0f14ddfd0.png"
 }
-,
-{
-    "Author": "info@ovital.com",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ovital-map_2.6.8_arm64.deb",
-    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
-    "Name": "奥维互动地图",
-    "Pkgname": "ovital-map",
-    "Size": "103 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
-    "Update": "2024-05-30 16:07:55",
-    "Version": "2.6.8",
-    "Website": "https://www.ovital.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "digiKam",
