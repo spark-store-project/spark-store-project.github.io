@@ -507,23 +507,6 @@
 }
 ,
 {
-    "Name": "金山打字通 2008（wine）",
-    "Version": "1.1",
-    "Filename": "spark-typeeasy_1.1_all.deb",
-    "Torrent_address": "spark-typeeasy_1.1_all.deb.torrent",
-    "Pkgname": "spark-typeeasy",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
-    "Website": "http://www.51dzt.com/",
-    "Update": "2024-05-02 08:07:07",
-    "Size": "31.23 MB",
-    "More": "金山打字通，用于给刚入门 deepin 的新手有熟悉的打字练习软件，功能有残缺，没有广告",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/b374a72d678642fdaf6e3c8bd9d69052.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/c0b04a4098374c20ae5f2ab06642a08a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/cd478ec09545409da4df1513188e4ac3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/fb8e01dbfd084b148d1e9c0d5987397b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/9908b02f8b134646a9c99d82cfabaf0e.png"
-}
-,
-{
     "Name": "惠普hp-uld打印驱动",
     "Version": "00.23",
     "Filename": "com.hp.uld-hp_00.23_amd64.deb",
@@ -538,6 +521,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/303d03a333094e969fe05c7f4430eb2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/e828fe646a0f42658b5651cacb826852.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/ff6f861c57f643c9a5c478c7a625761a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/e7c2e4330fb8407b9f095de8f205e4ca.png"
+}
+,
+{
+    "Name": "金山打字通 2008（wine）",
+    "Version": "1.1",
+    "Filename": "spark-typeeasy_1.1_all.deb",
+    "Torrent_address": "spark-typeeasy_1.1_all.deb.torrent",
+    "Pkgname": "spark-typeeasy",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Website": "http://www.51dzt.com/",
+    "Update": "2024-05-02 08:07:07",
+    "Size": "31.23 MB",
+    "More": "金山打字通，用于给刚入门 deepin 的新手有熟悉的打字练习软件，功能有残缺，没有广告",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/b374a72d678642fdaf6e3c8bd9d69052.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/c0b04a4098374c20ae5f2ab06642a08a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/cd478ec09545409da4df1513188e4ac3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/fb8e01dbfd084b148d1e9c0d5987397b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/9908b02f8b134646a9c99d82cfabaf0e.png"
 }
 ,
 {
@@ -874,6 +874,23 @@
 }
 ,
 {
+    "Name": "重启至uefi",
+    "Version": "0.0.1",
+    "Filename": "reboot-uefi_0.0.1_all.deb",
+    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
+    "Pkgname": "reboot-uefi",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
+    "Update": "2022-12-27 20:48:48",
+    "Size": "2 KB",
+    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
+}
+,
+{
     "Name": "萌神拼音体：带拼音的中文宋体",
     "Version": "1.02-1",
     "Filename": "fonts-cjk-zh-mengshen_1.02-1_all.deb",
@@ -905,23 +922,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/b448b603252f43a8aeb7daf1c62f68d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/d2e6927c228f4054ba45bd40d5b3181b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/f197a26ced4143369dbbac9ad43594d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/02/87a6fe97385e494aa45c3558328b74ad.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/02/d3857b55dd1242e29c3803c528426b0d.png"
-}
-,
-{
-    "Name": "重启至uefi",
-    "Version": "0.0.1",
-    "Filename": "reboot-uefi_0.0.1_all.deb",
-    "Torrent_address": "reboot-uefi_0.0.1_all.deb.torrent",
-    "Pkgname": "reboot-uefi",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://space.bilibili.com/365755968?spm_id_from=333.337.0.0",
-    "Update": "2022-12-27 20:48:48",
-    "Size": "2 KB",
-    "More": "没有在非uefi平台测试过..\n 需要使用systemd(没有写在依赖项)\n 参考https://linux.cn/article-15361-1.html\n 运行ps --no-headers -o comm 1检查自己是否使用systemd(包括deepin在内的大多数发行版使用)\n 本质是运行systemctl reboot --firmware-setup",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/6c0e1a5aef104c87856404fafd58836a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/33dc74f16e8847e0bfb4c98651966a1e.png"
 }
 ,
 {

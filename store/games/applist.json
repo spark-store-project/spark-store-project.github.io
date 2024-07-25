@@ -359,20 +359,6 @@
 }
 ,
 {
-   "Name":"祖玛豪华版（wine）",
-   "Version":"1.0.0.1spark0",
-   "Filename":"zuma-luxury.spark_1.0.0.1spark0_i386.deb",
-   "Pkgname":"zuma-luxury.spark",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":" ",
-   "Update":"2020-08-14 14:03",
-   "Size":"25.42MB",
-   "More":"本游戏是原版祖玛的豪华版，画面上与原作并无太大区别。本游戏能在当今多如牛毛的游戏中脱颖而出取决于它设计的几大优点：古老的界面，神秘的印加背景音乐，加上游戏的主人翁一只青蛙坐在其中，吐出各种颜色的珠子，石青蛙环绕着石青蛙的是载着彩球的轨道，彩球会沿着轨滚动。石青蛙吐出彩球进入轨道，轨道上颜色相同的彩球，数量达到三个以上就会消除得分。看似简单的游戏经过精心巧妙的设计后，让人玩起来趣味无穷。"
-}
-
-,
-{
     "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
     "Version": "2.1spark1",
     "Filename": "com.pvzhz.spark_2.1spark1_all.deb",
@@ -388,6 +374,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/37c7c4db6ea44127a9c3a2e2b5655dd1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/8b5badd083eb499d856a3f4e70722361.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/ca608de1276f4a01843b4b489afc945e.png"
 }
+,
+{
+   "Name":"祖玛豪华版（wine）",
+   "Version":"1.0.0.1spark0",
+   "Filename":"zuma-luxury.spark_1.0.0.1spark0_i386.deb",
+   "Pkgname":"zuma-luxury.spark",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-14 14:03",
+   "Size":"25.42MB",
+   "More":"本游戏是原版祖玛的豪华版，画面上与原作并无太大区别。本游戏能在当今多如牛毛的游戏中脱颖而出取决于它设计的几大优点：古老的界面，神秘的印加背景音乐，加上游戏的主人翁一只青蛙坐在其中，吐出各种颜色的珠子，石青蛙环绕着石青蛙的是载着彩球的轨道，彩球会沿着轨滚动。石青蛙吐出彩球进入轨道，轨道上颜色相同的彩球，数量达到三个以上就会消除得分。看似简单的游戏经过精心巧妙的设计后，让人玩起来趣味无穷。"
+}
+
 ,
 {
     "Name": "QQ游戏大厅",
@@ -1973,6 +1973,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.steampowered.steam_1.0_all.deb",
+    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
+    "Name": "Steam(Wine)",
+    "Pkgname": "com.steampowered.steam",
+    "Size": "246 Mb",
+    "Tags": "deepin;ubuntu;dwine5",
+    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
+    "Update": "2024-03-24 21:07:07",
+    "Version": "1.0",
+    "Website": "https://s.team",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
+}
+
+,
+{
     "Name": "时光之刃",
     "Version": "1.0spark1",
     "Filename": "com.bladesoftime.spark_1.0spark1_all.deb",
@@ -2004,24 +2022,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/5241dec0-2df8-11eb-9072-d5c754e64b42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/523b7620-2df8-11eb-9072-d5c754e64b42.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/24/52117ff0-2df8-11eb-9072-d5c754e64b42.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.steampowered.steam_1.0_all.deb",
-    "More": "Arm下仅测试了exagear\n\n龙芯未测试\n\n正在飞车阶段~",
-    "Name": "Steam(Wine)",
-    "Pkgname": "com.steampowered.steam",
-    "Size": "246 Mb",
-    "Tags": "deepin;ubuntu;dwine5",
-    "Torrent_address": "com.steampowered.steam_1.0_all.deb.torrent",
-    "Update": "2024-03-24 21:07:07",
-    "Version": "1.0",
-    "Website": "https://s.team",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.steampowered.steam/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "仙剑客栈2",
@@ -2172,23 +2172,6 @@
 }
 ,
 {
-    "Name": "2048：深度浏览器插件",
-    "Version": "1.3.9",
-    "Filename": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb",
-    "Torrent_address": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb.torrent",
-    "Pkgname": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp",
-    "Author": "Deepin team",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2022-10-07 23:11:23",
-    "Size": "95.51 KB",
-    "More": "2048 for deepin browser\n从UOS商店提取",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/07/6cbd46a4-274b-4b69-b2ee-2638d26722af.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/07/d0220a80-f98c-4f69-ba2e-c9f202ec275f.png"
-}
-,
-{
     "Name": "帝国时代2高清版",
     "Version": "1.0spark0",
     "Filename": "com.ageofempires2hd.spark_1.0spark0_all.deb",
@@ -2203,6 +2186,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/52ffee28a4bb4aae890e4cf2fa067107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/47c862c80535475cb0d6975745d3cb55.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/02/dae90fa02c78421b9e044e31d35cd429.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/02/46736fd4ef564a9aaced11e2d6af26fc.png"
+}
+,
+{
+    "Name": "2048：深度浏览器插件",
+    "Version": "1.3.9",
+    "Filename": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb",
+    "Torrent_address": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp_1.3.9_all.deb.torrent",
+    "Pkgname": "browserext.pgbpfhblcbeopndjfhojjoeedlebdpmp",
+    "Author": "Deepin team",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2022-10-07 23:11:23",
+    "Size": "95.51 KB",
+    "More": "2048 for deepin browser\n从UOS商店提取",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/07/6cbd46a4-274b-4b69-b2ee-2638d26722af.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/07/d0220a80-f98c-4f69-ba2e-c9f202ec275f.png"
 }
 ,
 {
@@ -2240,6 +2240,23 @@
 }
 ,
 {
+    "Name": "落叶城",
+    "Version": "1.0spark0",
+    "Filename": "com.ambercity.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.ambercity.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.ambercity.spark",
+    "Author": "Irisloft",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-06-03 22:21:15",
+    "Size": "449.42 MB",
+    "More": "一款画面唯美、机制创新的独立解谜游戏。在手绘画面构筑的落叶城中，玩家将光源通过计算分配，解开不同的机关与谜题。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/8d91ec211ac6480ea4c7c7691969b2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/878d15dde53347fdbeb2912582e048df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/25072382ee06488d83962da81255b623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c9f29ec37f68459d8ff8fc707ae9e92e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/8289544f235d421b990341729ee2ad2e.png"
+}
+,
+{
     "Name": "ePSXe模拟器(wine)",
     "Version": "1.0",
     "Filename": "spark-wine-epsxe_1.0_i386.deb",
@@ -2269,23 +2286,6 @@
    "More":"《永不孤单》（《Never Alone》）是由Upper One Games工作室制作的一款横版冒险解谜游戏。游戏根据一个阿拉斯加的民间传说，讲诉了一个小女孩和她的狐狸同伴，为探索暴风雪的起源，踏上了征程，从而发生了一系列故事。游戏已汉化，进入设置菜单设置为中文即可"
 }
 
-,
-{
-    "Name": "落叶城",
-    "Version": "1.0spark0",
-    "Filename": "com.ambercity.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.ambercity.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.ambercity.spark",
-    "Author": "Irisloft",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-06-03 22:21:15",
-    "Size": "449.42 MB",
-    "More": "一款画面唯美、机制创新的独立解谜游戏。在手绘画面构筑的落叶城中，玩家将光源通过计算分配，解开不同的机关与谜题。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/8d91ec211ac6480ea4c7c7691969b2d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/878d15dde53347fdbeb2912582e048df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/25072382ee06488d83962da81255b623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c9f29ec37f68459d8ff8fc707ae9e92e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/8289544f235d421b990341729ee2ad2e.png"
-}
 ,
 {
     "Name": "红怪",
@@ -2568,6 +2568,23 @@
 }
 ,
 {
+    "Name": "植物大战僵尸娘化版",
+    "Version": "1.0.2.56spark0",
+    "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
+    "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
+    "Pkgname": "com.pgvz.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://space.bilibili.com/20530305",
+    "Update": "2024-06-30 07:00:15",
+    "Size": "356.24 MB",
+    "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
+}
+,
+{
     "Name": "戴夫RUSH(uengine)",
     "Version": "1.0",
     "Filename": "uengine-dc-com.defaultcompany.daifurushbymutangm_1.0_all.deb",
@@ -2598,6 +2615,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/fa013b80-7b35-11eb-a9e0-df2998e986df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/fdefb3c0-7b35-11eb-a9e0-df2998e986df.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/03/02/015fad30-7b36-11eb-a9e0-df2998e986df.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/03/02/f317f9d0-7b35-11eb-a9e0-df2998e986df.png"
+}
+,
+{
+    "Name": "鸿图对战平台(红警2战网对战平台）",
+    "Version": "0.1.0",
+    "Filename": "com.ra2ol.deepin_0.1.0_all.deb",
+    "Torrent_address": "com.ra2ol.deepin_0.1.0_all.deb.torrent",
+    "Pkgname": "com.ra2ol.deepin",
+    "Author": "红色警戒2战网",
+    "Contributor": "RichardYann",
+    "Website": "https://www.ra2ol.com/",
+    "Update": "2024-03-08 14:45:35",
+    "Size": "815.3 MB",
+    "More": "ubuntu20测试运行成功，全屏游戏下有时会有卡顿，此时打开右上角菜单页，再选择返回游戏，即可流畅运行。\n\n使用窗口模式运行，无需额外操作，流畅无卡顿。",
+    "Tags": "community;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/597e1b4678274328bbcde2a63ef84583.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/692dc9b64a044b90a6e5a46744db7c1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/81988647acfb486f9e84e3ece43cb06f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/04d175efcfd040cb99b496191bae12cc.png"
 }
 ,
 {
@@ -2634,23 +2668,6 @@
 }
 ,
 {
-    "Name": "鸿图对战平台(红警2战网对战平台）",
-    "Version": "0.1.0",
-    "Filename": "com.ra2ol.deepin_0.1.0_all.deb",
-    "Torrent_address": "com.ra2ol.deepin_0.1.0_all.deb.torrent",
-    "Pkgname": "com.ra2ol.deepin",
-    "Author": "红色警戒2战网",
-    "Contributor": "RichardYann",
-    "Website": "https://www.ra2ol.com/",
-    "Update": "2024-03-08 14:45:35",
-    "Size": "815.3 MB",
-    "More": "ubuntu20测试运行成功，全屏游戏下有时会有卡顿，此时打开右上角菜单页，再选择返回游戏，即可流畅运行。\n\n使用窗口模式运行，无需额外操作，流畅无卡顿。",
-    "Tags": "community;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/597e1b4678274328bbcde2a63ef84583.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/692dc9b64a044b90a6e5a46744db7c1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/81988647acfb486f9e84e3ece43cb06f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/04d175efcfd040cb99b496191bae12cc.png"
-}
-,
-{
    "Name":"永远的伊苏ＩＩ",
    "Version":"1.0-1",
    "Filename":"com.falcom.ys2.deepin_1.0-1_i386.deb",
@@ -2679,23 +2696,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/220927b2098949e9a3696e96a3a25aab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/cffd472d51b64229b2d5a45e129a8f95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/11/55284197916e4d0a8ebe626905b2f9fe.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/11/ba5b65fd572b451681f01f5b62f40557.png"
-}
-,
-{
-    "Name": "植物大战僵尸娘化版",
-    "Version": "1.0.2.56spark0",
-    "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
-    "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
-    "Pkgname": "com.pgvz.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://space.bilibili.com/20530305",
-    "Update": "2024-06-30 07:00:15",
-    "Size": "356.24 MB",
-    "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
 }
 ,
 {
@@ -2733,23 +2733,6 @@
 }
 ,
 {
-    "Name": "GB Studio",
-    "Version": "4.0.0",
-    "Filename": "gb-studio_4.0.0_amd64.deb",
-    "Torrent_address": "gb-studio_4.0.0_amd64.deb.torrent",
-    "Pkgname": "gb-studio",
-    "Author": "GB Studio",
-    "Contributor": "sgb76",
-    "Website": "https://www.gbstudio.dev",
-    "Update": "2024-06-21 23:25:15",
-    "Size": "79.5 MB",
-    "More": "一款开源的 GameBoy 游戏开发工具",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/66d0b601fe684fe7bfb368590f9c62a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/492267efffb74439a853b3d71486fa40.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/8ed6c01bf7a5465aa129b9a28e43ad77.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/21/4c412f5031e94ab5ba45ff1a08bd9f2e.png"
-}
-,
-{
     "Name": "绵羊回家2",
     "Version": "1.0spark0",
     "Filename": "com.homesheephome2.spark_1.0spark0_amd64.deb",
@@ -2764,6 +2747,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/3ba7fb91e0fb4e7ab9f9ad6746be15cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/5e5bc8d402c6411086218862342cb687.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/27/8d3fba2c286744f898293431efbf8623.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/27/039673a8fac241b5bcc8493748db476d.png"
+}
+,
+{
+    "Name": "GB Studio",
+    "Version": "4.0.0",
+    "Filename": "gb-studio_4.0.0_amd64.deb",
+    "Torrent_address": "gb-studio_4.0.0_amd64.deb.torrent",
+    "Pkgname": "gb-studio",
+    "Author": "GB Studio",
+    "Contributor": "sgb76",
+    "Website": "https://www.gbstudio.dev",
+    "Update": "2024-06-21 23:25:15",
+    "Size": "79.5 MB",
+    "More": "一款开源的 GameBoy 游戏开发工具",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/66d0b601fe684fe7bfb368590f9c62a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/492267efffb74439a853b3d71486fa40.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/21/8ed6c01bf7a5465aa129b9a28e43ad77.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/21/4c412f5031e94ab5ba45ff1a08bd9f2e.png"
 }
 ,
 {
@@ -2817,6 +2817,23 @@
 }
 ,
 {
+    "Name": "墨染",
+    "Version": "1.0spark0",
+    "Filename": "com.inked.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.inked.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.inked.spark",
+    "Author": "Somnium Games d.o.o.",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-07-29 22:26:52",
+    "Size": "1.45 GB",
+    "More": "一款以墨水为主题的解谜冒险游戏，画面上结合了纸模艺术和素描画风，带来一种静谧和禅意",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/460ebed856dc4110a2806ff335755a0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/d7caae1facc842589ef33ce92d5f0d5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/7fecc6ebf94349cd9cdd7c304c9b001e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/517997443a2049d8af7285bf36250af7.png"
+}
+,
+{
     "Name": "僵尸困境",
     "Version": "1.0spark1",
     "Filename": "com.trappeddead.spark_1.0spark1_all.deb",
@@ -2848,23 +2865,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/fb88eaaebc6441fb937d5ee08af4e236.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/44ede9d31a1d410988862b6f6a302ea6.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/7a249a5da47649c2a98fe3a400aed28a.png"
-}
-,
-{
-    "Name": "墨染",
-    "Version": "1.0spark0",
-    "Filename": "com.inked.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.inked.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.inked.spark",
-    "Author": "Somnium Games d.o.o.",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-07-29 22:26:52",
-    "Size": "1.45 GB",
-    "More": "一款以墨水为主题的解谜冒险游戏，画面上结合了纸模艺术和素描画风，带来一种静谧和禅意",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/460ebed856dc4110a2806ff335755a0c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/d7caae1facc842589ef33ce92d5f0d5d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/29/7fecc6ebf94349cd9cdd7c304c9b001e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/29/517997443a2049d8af7285bf36250af7.png"
 }
 ,
 {
@@ -3088,6 +3088,23 @@
 
 ,
 {
+    "Name": "最后的篝火",
+    "Version": "1.0spark0",
+    "Filename": "com.thelastcampfire.spark_1.0spark0_amd64.deb",
+    "Torrent_address": "com.thelastcampfire.spark_1.0spark0_amd64.deb.torrent",
+    "Pkgname": "com.thelastcampfire.spark",
+    "Author": "Hello Games",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2023-05-09 17:05:07",
+    "Size": "1.01 GB",
+    "More": "一款奇幻风格的冒险解谜游戏，玩家将在游戏中扮演一位迷失在一个奇妙世界的余烬，深入这片并不熟悉的迷境，不断战胜眼前的困难，点燃最后象征希望的篝火。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/98d31b519d5b42459633a57dd9aa3f24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/b23864d6bf3a4eb09a700710bd42b762.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/83aa251984664b2a8e78a15b8be109e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/4f85b0825f74437b87056d223b331ff0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/09/30cace55a5004878a9df19355213b3df.png"
+}
+,
+{
     "Name": "特斯拉学徒2",
     "Version": "1.0",
     "Filename": "com.teslagrad2.spark_1.0_all.deb",
@@ -3155,23 +3172,6 @@
 }
 ,
 {
-    "Name": "最后的篝火",
-    "Version": "1.0spark0",
-    "Filename": "com.thelastcampfire.spark_1.0spark0_amd64.deb",
-    "Torrent_address": "com.thelastcampfire.spark_1.0spark0_amd64.deb.torrent",
-    "Pkgname": "com.thelastcampfire.spark",
-    "Author": "Hello Games",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2023-05-09 17:05:07",
-    "Size": "1.01 GB",
-    "More": "一款奇幻风格的冒险解谜游戏，玩家将在游戏中扮演一位迷失在一个奇妙世界的余烬，深入这片并不熟悉的迷境，不断战胜眼前的困难，点燃最后象征希望的篝火。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/98d31b519d5b42459633a57dd9aa3f24.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/b23864d6bf3a4eb09a700710bd42b762.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/83aa251984664b2a8e78a15b8be109e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/4f85b0825f74437b87056d223b331ff0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/09/30cace55a5004878a9df19355213b3df.png"
-}
-,
-{
     "Name": "末日微光",
     "Version": "1.0spark0",
     "Filename": "com.silentworld.spark_1.0spark0_amd64.deb",
@@ -3186,6 +3186,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/0b06133019c24080b174eac0c282f4dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/60e5737bda9140b98a87dae022584714.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/09/1b1593d0491f452cb0671f0f7f85a4b0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/09/da591561b67e4c43a00e945b61a6705f.png"
+}
+,
+{
+    "Name": "植物大战僵尸95版（Wine）",
+    "Version": "1.0.2.56spark0",
+    "Filename": "com.pvz95.spark_1.0.2.56spark0_all.deb",
+    "Torrent_address": "com.pvz95.spark_1.0.2.56spark0_all.deb.torrent",
+    "Pkgname": "com.pvz95.spark",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://tieba.baidu.com/p/6564379656",
+    "Update": "2024-06-30 19:24:32",
+    "Size": "277.1 MB",
+    "More": "植物大战僵尸95版是一款由冥谷川恋制作的植物大战僵尸加强版，增加了游戏的挑战性和创新性。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/820cb0ca4aa44434881d282a00c7ad0c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/5db322549363436c99e43bf963df1dc8.png"
 }
 ,
 {
@@ -3237,23 +3254,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dbe0e5eab51744e6a54dea968ea2ff63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/8223a90714a34e76a4ea85f7e2f0a2d1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/92c0c66bd04c4f98b14579e775348909.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/fb6ca3d877794311b1be5dbb955b0941.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/649a352ec63143ac986204bb5057aabb.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/900f8ef918a14e04adc9e770d5bed714.png"
-}
-,
-{
-    "Name": "植物大战僵尸95版（Wine）",
-    "Version": "1.0.2.56spark0",
-    "Filename": "com.pvz95.spark_1.0.2.56spark0_all.deb",
-    "Torrent_address": "com.pvz95.spark_1.0.2.56spark0_all.deb.torrent",
-    "Pkgname": "com.pvz95.spark",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://tieba.baidu.com/p/6564379656",
-    "Update": "2024-06-30 19:24:32",
-    "Size": "277.1 MB",
-    "More": "植物大战僵尸95版是一款由冥谷川恋制作的植物大战僵尸加强版，增加了游戏的挑战性和创新性。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/820cb0ca4aa44434881d282a00c7ad0c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/5db322549363436c99e43bf963df1dc8.png"
 }
 ,
 {
@@ -3459,6 +3459,23 @@
 }
 ,
 {
+    "Name": "真倚天屠龙记",
+    "Version": "1.0spark0",
+    "Filename": "com.zyttl.spark_1.0spark0_all.deb",
+    "Torrent_address": "com.zyttl.spark_1.0spark0_all.deb.torrent",
+    "Pkgname": "com.zyttl.spark",
+    "Author": "智冠科技",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2024-05-03 23:35:05",
+    "Size": "1.32 GB",
+    "More": "一款角色扮演类游戏，武林中谁能得到屠龙刀和倚天剑就这掌握天下，这个传言在武林中流传了上百年之久，武林各派为之生死相斗，故事便由屠龙刀的出现开始，带起连番恩怨，喜欢金庸武侠小说题材的玩家这款游戏一定不会让你失望。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/ad2206132cfa4a0dbbe6dee44acc8026.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/02552cbd82db41f083f651d506b19927.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/3ee1b7ee6514482982a7a56e339d5bbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/34d3113cee3948d39a88aa53e177fd03.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/e52af8f6a9154ae4a11beb1947656a92.png"
+}
+,
+{
     "Name": "杀出重围3：人类革命之消失的线索",
     "Version": "1.0spark1",
     "Filename": "com.themissinglink.spark_1.0spark1_all.deb",
@@ -3507,23 +3524,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/12/59b5c211b5b64d268e285e84857da599.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/12/a824b5963fdb40e58643d8d8ff9ddf56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/12/f8783ec45ec3444994eba9c44ebe8418.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/12/2db2177c8eb14e51b886d0ba36ed9eeb.png"
-}
-,
-{
-    "Name": "真倚天屠龙记",
-    "Version": "1.0spark0",
-    "Filename": "com.zyttl.spark_1.0spark0_all.deb",
-    "Torrent_address": "com.zyttl.spark_1.0spark0_all.deb.torrent",
-    "Pkgname": "com.zyttl.spark",
-    "Author": "智冠科技",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2024-05-03 23:35:05",
-    "Size": "1.32 GB",
-    "More": "一款角色扮演类游戏，武林中谁能得到屠龙刀和倚天剑就这掌握天下，这个传言在武林中流传了上百年之久，武林各派为之生死相斗，故事便由屠龙刀的出现开始，带起连番恩怨，喜欢金庸武侠小说题材的玩家这款游戏一定不会让你失望。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/ad2206132cfa4a0dbbe6dee44acc8026.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/02552cbd82db41f083f651d506b19927.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/3ee1b7ee6514482982a7a56e339d5bbc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/34d3113cee3948d39a88aa53e177fd03.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/e52af8f6a9154ae4a11beb1947656a92.png"
 }
 ,
 {
@@ -4152,6 +4152,23 @@
 }
 ,
 {
+    "Name": "梦幻西游电脑版（Wine）",
+    "Version": "3.0.513deepin8",
+    "Filename": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb",
+    "Torrent_address": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb.torrent",
+    "Pkgname": "com.xyq.163.deepin",
+    "Author": "Deepin WINE Team",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://xyq.136.com",
+    "Update": "2024-06-08 09:47:56",
+    "Size": "503.77 MB",
+    "More": "注意事项：已知资源包加载页面会有显示异常的情况，但不影响进入游戏。另外可能存在部分性能较差的设备无法正常运行的情况，请谨慎下载。\n——\n梦幻西游以四大名著中的《西游记》为背景蓝本，进行改编，Q版的人物模型，看起来呆萌可爱;游戏中有多达18位角色供玩家选择，他们分属不同种族，不同角色还可以选择不同的武器，加入不同的门派;多样的职业组合，玩法多样;趣味性十足。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/e8c5a7031fb042eb924b162ecea14bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/314bdd277dce4cfa8f860cfc2efbc763.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/005368557e914df599dda1a4c47edbfb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/ee4fada667ef4001aeab31c09ca11fef.png"
+}
+,
+{
     "Name": "World to the West",
     "Version": "1.4",
     "Filename": "com.worldtothewest.spark_1.4_all.deb",
@@ -4297,23 +4314,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/77298107c5274bb1b9390aa2739b25fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/c1f9dd3635bb4a83b247812f4adc758e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/edeb9ed42d774a6f9c1fd0ced50764a4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/a864f73a27dd4e2db76a98483903f3f2.png"
-}
-,
-{
-    "Name": "梦幻西游电脑版（Wine）",
-    "Version": "3.0.513deepin8",
-    "Filename": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb",
-    "Torrent_address": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb.torrent",
-    "Pkgname": "com.xyq.163.deepin",
-    "Author": "Deepin WINE Team",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://xyq.136.com",
-    "Update": "2024-06-08 09:47:56",
-    "Size": "503.77 MB",
-    "More": "注意事项：已知资源包加载页面会有显示异常的情况，但不影响进入游戏。另外可能存在部分性能较差的设备无法正常运行的情况，请谨慎下载。\n——\n梦幻西游以四大名著中的《西游记》为背景蓝本，进行改编，Q版的人物模型，看起来呆萌可爱;游戏中有多达18位角色供玩家选择，他们分属不同种族，不同角色还可以选择不同的武器，加入不同的门派;多样的职业组合，玩法多样;趣味性十足。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/e8c5a7031fb042eb924b162ecea14bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/314bdd277dce4cfa8f860cfc2efbc763.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/005368557e914df599dda1a4c47edbfb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/ee4fada667ef4001aeab31c09ca11fef.png"
 }
 ,
 {
@@ -4550,6 +4550,23 @@
 }
 ,
 {
+    "Name": "植物大战僵尸bt版",
+    "Version": "0.68",
+    "Filename": "com.pvzbt.deepin_0.68_amd64.deb",
+    "Torrent_address": "com.pvzbt.deepin_0.68_amd64.deb.torrent",
+    "Pkgname": "com.pvzbt.deepin",
+    "Author": "宅宅萝卜",
+    "Contributor": "mozilong <mozilong668@126.com>",
+    "Website": "https://space.bilibili.com/38078309",
+    "Update": "2024-07-23 11:38:37",
+    "Size": "90.47 MB",
+    "More": "可可爱爱的植物大战僵尸游戏",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/0d7c2bec7eb14373a447e9f9e328f175.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/56f9bfdfbc4b4baa967ebd9dd3282082.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/cab456b5a0104eff84be66e264cbf1ee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/97cac4f84b21404dab257fb9704c774c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/e6e2d23ebb2942ffbaff896c05a5b72e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/23/fb9c9f5b0d214a22a70272ebc87ec91c.png"
+}
+,
+{
     "Name": "Papa's Scooperia（老爹饼干圣代店）",
     "Version": "1.0.2",
     "Filename": "com.papasscooperia.spark_1.0.2_amd64.deb",
@@ -4615,22 +4632,5 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/3d627175229a43e7ba0104a4f30288e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/4e744552c75c4b2684794b1bfb41670a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/5619ac9662d9471c9a10cbfb0193810d.png"
-}
-,
-{
-    "Name": "植物大战僵尸bt版",
-    "Version": "0.68",
-    "Filename": "com.pvzbt.deepin_0.68_amd64.deb",
-    "Torrent_address": "com.pvzbt.deepin_0.68_amd64.deb.torrent",
-    "Pkgname": "com.pvzbt.deepin",
-    "Author": "宅宅萝卜",
-    "Contributor": "mozilong <mozilong668@126.com>",
-    "Website": "https://space.bilibili.com/38078309",
-    "Update": "2024-07-23 11:38:37",
-    "Size": "90.47 MB",
-    "More": "可可爱爱的植物大战僵尸游戏",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/0d7c2bec7eb14373a447e9f9e328f175.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/56f9bfdfbc4b4baa967ebd9dd3282082.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/cab456b5a0104eff84be66e264cbf1ee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/97cac4f84b21404dab257fb9704c774c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/23/e6e2d23ebb2942ffbaff896c05a5b72e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/23/fb9c9f5b0d214a22a70272ebc87ec91c.png"
 }
 ]
