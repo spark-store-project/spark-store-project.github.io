@@ -3765,17 +3765,17 @@ Description: Android & Apple Device Manager
 
 Package: clipboard-history-analyzer
 Architecture: amd64
-Version: 0.0.2-20240724
+Version: 0.0.3-20240726
 Priority: optional
 Section: devel
 Maintainer: zinface <zinface@163.com>
-Installed-Size: 200
-Filename: tools/clipboard-history-analyzer/clipboard-history-analyzer_0.0.2-20240724_amd64.deb
-Size: 63984
-MD5sum: 6f0e9f0259b8122c2013cf9ee6049cd1
-SHA1: f127c6041a45abfe01b877b15887536bf111c2ef
-SHA256: 807b52ef0b70ed76c7304b5a5ae14e1cd9dcc83f81f9830852431b563493721a
-SHA512: afed45c928da8df18beb877e768e99ca278335de6722af1e83be3f7f01aad8d8b5f85991759121966b3e49d19425044eccfa54929fa38cfb19130b1f1f50f890
+Installed-Size: 201
+Filename: tools/clipboard-history-analyzer/clipboard-history-analyzer_0.0.3-20240726_amd64.deb
+Size: 65092
+MD5sum: a24a81baf0f539811342cca36286da95
+SHA1: b4275195710d536eae6faa97c767d2301cf481c5
+SHA256: 93d3685785b2859b9a430b061a45bf84caacf6bea04433e76a2f6e15f06d09af
+SHA512: 65d40877c2467477814e11611fc3eaa6810eea6e56280443d7b5d76222dd86a5c5bf62aefd8733f635fe2cc409cb045915525a8ce636145454268c9c272f47c4
 Homepage: https://gitee.com/zinface/qt.clipboard-history-analyzer.git
 Description: 剪贴板历史分析工具
  剪贴板历史分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地处理重用复制粘贴的数据。
@@ -31338,22 +31338,22 @@ Description: NFSBrowser - Web Browser
 
 Package: firefox-spark
 Architecture: amd64
-Version: 128.0.2
+Version: 128.0.3
 Priority: optional
 Section: web
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 214784
-Provides: x-www-browser,gnome-www-browser,firefox(=128.0.2)
+Provides: x-www-browser,gnome-www-browser,firefox(=128.0.3)
 Depends: libdbus-glib-1-2,zenity
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
-Filename: network/firefox-spark/firefox-spark_128.0.2_amd64.deb
-Size: 70493480
-MD5sum: 21040b6d5516c417e4a227c7a988ab51
-SHA1: 0e878dd0d62c11a8d4bbd742a6e6b7938a91dd54
-SHA256: e71c8da86626e0aac6082049e98a641f04db9466ff1b607f825e6d7aba3d3d22
-SHA512: 522eeabeb06a252e1c96478f21c6d7ecf352a2d8e7a165bcc443d6e3fcb18d690b9b73852427985b17eda7ff39b5eb1b7f1f6ebdb30beeb0bc5b4e140c75fb4c
+Filename: network/firefox-spark/firefox-spark_128.0.3_amd64.deb
+Size: 70562428
+MD5sum: e5a35bdd73728af5ef49da190f23016e
+SHA1: 30096f7f2328ec1de6170d1128e1cb88284d7b4b
+SHA256: 6788b46f6d18a4d2039f0c6e048a264fc2677afd2b0c0f0b7fef6f2dba53aa84
+SHA512: cdcb3adf1a12b6f0f229c99f241c7056488821d07bb1102646aaea1e88689f007aa285f2cf9ff44fd7ba071eeafdff39b677729e990f41bc62efa3a28cef0e73
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 

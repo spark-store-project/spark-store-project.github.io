@@ -162,23 +162,6 @@
 
 ,
 {
-    "Name": "引导修复 Boot-Repair",
-    "Version": "4ppa203",
-    "Filename": "boot-repair_4ppa203_all.deb",
-    "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
-    "Pkgname": "boot-repair",
-    "Author": "Yann Mrn <yannubuntu@protonmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://launchpad.net/boot-repair",
-    "Update": "2023-03-03 23:16:33",
-    "Size": "15.31 KB",
-    "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
-}
-,
-{
     "Author": "zinface <zinface@163.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "z-tools-aptmanager_0.7.4-20230129_arm64.deb",
@@ -195,6 +178,23 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-aptmanager/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "引导修复 Boot-Repair",
+    "Version": "4ppa203",
+    "Filename": "boot-repair_4ppa203_all.deb",
+    "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
+    "Pkgname": "boot-repair",
+    "Author": "Yann Mrn <yannubuntu@protonmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://launchpad.net/boot-repair",
+    "Update": "2023-03-03 23:16:33",
+    "Size": "15.31 KB",
+    "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
+}
 ,
 {
     "Author": "dice2o",
@@ -516,24 +516,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb",
-    "More": "## 更新内容\n* fix:Can not switch scale for single app\n* add-high-dpi-to-4.0\n* feat: Auto switch wine helper to reduce package maintaining pressure\n* update 打包用例/pre_update.sh.\n* update 打包用例/postrm.\n* 不再往系统拉屎\n* 添加功能:Wine启动器\n* add:清理容器\n* 更新banner\n**完整的更新日志**: https://gitee.com/spark-store-project/spark-wine/compare/5.6.3.2-5.3.14...5.6.4.2-5.3.14\n",
-    "Name": "星火Wine应用启动器",
-    "Pkgname": "spark-dwine-helper",
-    "Size": "277 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb.torrent",
-    "Update": "2024-07-14 16:29:59",
-    "Version": "5.6.4.2-5.3.14",
-    "Website": "https://gitee.com/deepin-community-store/spark-wine",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
-,
-{
     "Author": "MT管理器",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
@@ -548,6 +530,24 @@
     "Website": "https://mt2.cn/",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb",
+    "More": "## 更新内容\n* fix:Can not switch scale for single app\n* add-high-dpi-to-4.0\n* feat: Auto switch wine helper to reduce package maintaining pressure\n* update 打包用例/pre_update.sh.\n* update 打包用例/postrm.\n* 不再往系统拉屎\n* 添加功能:Wine启动器\n* add:清理容器\n* 更新banner\n**完整的更新日志**: https://gitee.com/spark-store-project/spark-wine/compare/5.6.3.2-5.3.14...5.6.4.2-5.3.14\n",
+    "Name": "星火Wine应用启动器",
+    "Pkgname": "spark-dwine-helper",
+    "Size": "277 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb.torrent",
+    "Update": "2024-07-14 16:29:59",
+    "Version": "5.6.4.2-5.3.14",
+    "Website": "https://gitee.com/deepin-community-store/spark-wine",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
 ,
