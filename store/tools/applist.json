@@ -1443,22 +1443,6 @@
 
 ,
 {
-    "Name": "TLP 设置",
-    "Version": "1.3.1-1",
-    "Filename": "python3-tlpui_1.3.1-1_all.deb",
-    "Pkgname": "python3-tlpui",
-    "Author": "Daniel Christophis",
-    "Contributor": "lidanger",
-    "Website": "https://github.com/d4nj1/TLPUI",
-    "Update": "2020-10-24 01:58:02",
-    "Size": "56.46 KB",
-    "More": "GTK UI for tlp (Python 3)",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
-}
-,
-{
     "Name": "Macast",
     "Version": "0.7",
     "Filename": "macast_0.7_amd64.deb",
@@ -1473,6 +1457,22 @@
     "Tags": "deepin;ubuntu;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/03/a78748c0-b31c-11ec-9c94-e5b618764332.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/03/a2bcef70-b31c-11ec-9c94-e5b618764332.png"
+}
+,
+{
+    "Name": "TLP 设置",
+    "Version": "1.3.1-1",
+    "Filename": "python3-tlpui_1.3.1-1_all.deb",
+    "Pkgname": "python3-tlpui",
+    "Author": "Daniel Christophis",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/d4nj1/TLPUI",
+    "Update": "2020-10-24 01:58:02",
+    "Size": "56.46 KB",
+    "More": "GTK UI for tlp (Python 3)",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
 }
 ,
 {
@@ -1964,23 +1964,6 @@
 }
 ,
 {
-    "Name": "Deepin Community Live CD 2.0.0-mini",
-    "Version": "2.0.0gxde0",
-    "Filename": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb",
-    "Torrent_address": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb.torrent",
-    "Pkgname": "live-filesystem-community-mini",
-    "Author": "LinuxDeepin Project <linuxdeepin@linuxdeepin.com>, gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gfdgd-xi.github.io",
-    "Update": "2024-04-14 15:10:00",
-    "Size": "765.22 MB",
-    "More": "此 Live CD 基于 deepin 20.8 和原 Live CD 2.0 制作，安装部分维护工具（如果还有需要添加的就说），感谢 https://bbs.deepin.org/post/166409 的作者 @xchngg的参考文档，测试 Ventoy 在 Legary 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.7 均可运行\n同时也借鉴了以下文章的内容：\nhttps://bbs.deepin.org/post/228930 @deepin-superuser\nhttps://bbs.deepin.org/post/228568 @木一明\nfull 用户密码（包括root密码）为：123456\ntiny、mini、install root 密码未知\n\n并且此 Live CD 密码未知，如果有使用密码的需求建议使用 passwd 修改密码",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/5c87450a8e184887b42cc82febe97afa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/8a591d027862455c80a1d986485511b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/27f011a6bdc64745b6d5e575bd4d0227.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/432f1d069c0140aea625dad213585950.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/296c03083b7845ffbfae4c796a367168.png"
-}
-,
-{
     "Name": "GXDE 内核管理器 1.1.0",
     "Version": "1.1.0",
     "Filename": "gxde-kernel-manager_1.1.0_amd64.deb",
@@ -1995,6 +1978,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/9c1dd4cfe94a4680a8774545c0a44f08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/0050df513c1f4e11b01ad0ca38e90fa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/19c3d7014d28412ab6f441aba0c1978e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/12/2275e55333844d199331dfb687c0ca20.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/12/59caed0fc65b421c9ae4f711b68d1b25.png"
+}
+,
+{
+    "Name": "Deepin Community Live CD 2.0.0-mini",
+    "Version": "2.0.0gxde0",
+    "Filename": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb",
+    "Torrent_address": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb.torrent",
+    "Pkgname": "live-filesystem-community-mini",
+    "Author": "LinuxDeepin Project <linuxdeepin@linuxdeepin.com>, gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gfdgd-xi.github.io",
+    "Update": "2024-04-14 15:10:00",
+    "Size": "765.22 MB",
+    "More": "此 Live CD 基于 deepin 20.8 和原 Live CD 2.0 制作，安装部分维护工具（如果还有需要添加的就说），感谢 https://bbs.deepin.org/post/166409 的作者 @xchngg的参考文档，测试 Ventoy 在 Legary 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.7 均可运行\n同时也借鉴了以下文章的内容：\nhttps://bbs.deepin.org/post/228930 @deepin-superuser\nhttps://bbs.deepin.org/post/228568 @木一明\nfull 用户密码（包括root密码）为：123456\ntiny、mini、install root 密码未知\n\n并且此 Live CD 密码未知，如果有使用密码的需求建议使用 passwd 修改密码",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/5c87450a8e184887b42cc82febe97afa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/8a591d027862455c80a1d986485511b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/27f011a6bdc64745b6d5e575bd4d0227.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/432f1d069c0140aea625dad213585950.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/296c03083b7845ffbfae4c796a367168.png"
 }
 ,
 {
@@ -4044,6 +4044,23 @@
 }
 ,
 {
+    "Name": "UOS应用迁移助手",
+    "Version": "2.0.001-1",
+    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
+    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
+    "Pkgname": "deepin-wine-builder",
+    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2024-07-26 11:45:33",
+    "Size": "1.09 MB",
+    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
+    "Tags": "deepin;uos;dtk5;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
+}
+,
+{
     "Name": "Caesium Image Compressor",
     "Version": "2.7.0spark2",
     "Filename": "com.github.caesium-image-compressor.spark_2.7.0spark2_all.deb",
@@ -4126,23 +4143,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
-}
-,
-{
-    "Name": "UOS应用迁移助手",
-    "Version": "2.0.001-1",
-    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
-    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
-    "Pkgname": "deepin-wine-builder",
-    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2024-07-26 11:45:33",
-    "Size": "1.09 MB",
-    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
-    "Tags": "deepin;uos;dtk5;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
 }
 ,
 {

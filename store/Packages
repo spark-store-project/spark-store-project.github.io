@@ -7225,22 +7225,6 @@ Description: An ArchLinux's pacman-like wrapper for many package managers
 
 Package: deepin-wine-builder
 Architecture: amd64
-Version: 1.1.004-1
-Priority: optional
-Section: utils
-Maintainer: Tingzhong Luo <luotingzhong@uniontech.com>
-Installed-Size: 1056
-Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.2.0), libdtkgui5 (>= 5.2.0), libdtkwidget5, libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), libx11-6, deepin-wine-runner (>= 0.1.15), deepin-elf-verify (>= 1.1.10-1)
-Filename: tools/deepin-wine-builder/deepin-wine-builder_1.1.004-1_amd64.deb
-Size: 374406
-MD5sum: 663cdf9a86e0638999cb809a2f50d52d
-SHA1: fb8a4cb918f1d8567fee06435cc23c7889b47d42
-SHA256: 3f9908d8c3c03bc1952155ae21a31bd5162c7630c357dd4baf00165167cd9b9b
-SHA512: 1881af6ec0e5c88bf44f7d62c5d6927fe2e6838065138b2fc757535ae9309de87d0545eff06d80972e6113e3a7c30aa0f10fb7cc28df3b899a5391379d63e7ff
-Description: Gui interface to package application for deepin-wine. The frontend to create wine application packages.
-
-Package: deepin-wine-builder
-Architecture: amd64
 Version: 2.0.001-1
 Priority: optional
 Section: utils
@@ -8363,32 +8347,6 @@ MD5sum: f69eb5aac6dc4ebcd670ea42a127f9f7
 SHA1: 7a6ca31499f5d7a372aafa10b5a9a4f33ff8ec05
 SHA256: f47859136d3616c4036fddd10e35e67e8b22709e760b1d2c407843c353dc0cd2
 SHA512: 12de80c6d157ff777aeb1cf7ace952a0407a8d3dcccbeb34da90017fe09b7e2ec5b027dc17adc0e5a2afe58ce0e4cf5f870829a1d1e60602921c8f38368e13fb
-Description: Oracle VM VirtualBox
- VirtualBox is a powerful PC virtualization solution allowing you to run a
- wide range of PC operating systems on your Linux system. This includes
- Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad
- feature set and excellent performance, making it the premier virtualization
- software solution on the market.
-
-Package: virtualbox-7.0
-Architecture: amd64
-Version: 7.0.14-161095~Debian~buster
-Priority: optional
-Section: contrib/misc
-Maintainer: Oracle Corporation <info@virtualbox.org>
-Installed-Size: 212540
-Provides: virtualbox
-Pre-Depends: debconf (>= 1.1) | debconf-2.0
-Depends: psmisc, adduser, libvulkan1, libc6 (>= 2.28), libcurl4 (>= 7.16.2), libdevmapper1.02.1 (>= 2:1.02.97), libgcc1 (>= 1:3.0), libgl1, libpng16-16 (>= 1.6.2-1), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5help5 (>= 5.9.0), libqt5opengl5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libssl1.1 (>= 1.1.1), libstdc++6 (>= 7), libvpx5 (>= 1.6.0), libx11-6, libxcb1, libxcursor1 (>> 1.1.2), libxext6, libxml2 (>= 2.7.4), libxt6, zlib1g (>= 1:1.1.4)
-Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, kmod | kldutils | module-init-tools, linux-headers-generic | linux-headers-generic-pae | linux-headers-686-pae | linux-headers-amd64 | linux-headers-2.6-686 | linux-headers-2.6-amd64 | linux-headers, linux-image, gcc, make | build-essential | dpkg-dev, binutils, pdf-viewer
-Conflicts: virtualbox, virtualbox-guest-additions-iso, virtualbox-ose, virtualbox-qt
-Replaces: virtualbox
-Filename: tools/virtualbox-7.0/virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb
-Size: 92242788
-MD5sum: b1c05091355056f0b6cec1e0e8d2779e
-SHA1: d2404baa29c63469c0344140c634f4fc6f4093db
-SHA256: 91686d8afb49c39ed3b6ef7752393a0579ae80ceaf8eba7bf5013b6b926570a3
-SHA512: 69358cd86b6b00999b2cdcf4eb8a48ff6b3f7f2ab8f14187bfa76ea1e933c24853ce8f84b98372e419b57e2f0a1f47b13ca895df578849a882720b0d9d906c3a
 Description: Oracle VM VirtualBox
  VirtualBox is a powerful PC virtualization solution allowing you to run a
  wide range of PC operating systems on your Linux system. This includes
@@ -11833,6 +11791,24 @@ MD5sum: e080e1398b77ab34fab93e41065c88b2
 SHA1: b2f0ccb0cb25911709687f0edf5f57b4199f9c54
 SHA256: db911a07102f4b8340efda8dfceab64120b747d77b110ec262dfc20337883d85
 SHA512: 90b9e1cde96eec0c518ecbd19cff35bec9e4d94b6b7a46e8900deb1b2e462b666c23f03604c585f04ed153729252085900f2295f3c07edbf54457023684e9896
+Homepage: https://music.163.com/
+Description: Netease CloudMusic Client
+ Netease CloudMusic Client on spark Wine
+
+Package: com.163.music.spark
+Architecture: amd64
+Version: 3.0.1.202031spark12.1
+Priority: optional
+Section: video
+Maintainer: sgb76 <sgb76@163.com>
+Installed-Size: 169128
+Depends: spark-wine-wow, spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei, ms-core-fonts | ms-core-fonts:i386 | ms-core-fonts:all
+Filename: music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12.1_amd64.deb
+Size: 172957928
+MD5sum: 18870acffed8d339501fa8418d6a1fa7
+SHA1: 9afb26d89e734f62feca416320ff5186c8eabaa0
+SHA256: fbb2a61f573408c7f9b1d3e8e9d1098be6fef022b29d82d3c0e7a49a582beb68
+SHA512: 5412fcc470e981bfd32d992c8b662bbd30c93f542504321ddb8ecea1cbcfd00a06a1e1e795b158f815dd4a272c857aa16560f28ca3795d370ff6e97c3c7f9235
 Homepage: https://music.163.com/
 Description: Netease CloudMusic Client
  Netease CloudMusic Client on spark Wine
@@ -31042,24 +31018,6 @@ Homepage: http://www.tixati.com
 Description: Tixati P2P Client
  Tixati P2P Client
 
-Package: tixati
-Architecture: amd64
-Version: 3.19-1
-Priority: optional
-Section: Network
-Maintainer: Tixati-support <support@tixati.com>
-Installed-Size: 35000
-Depends: libc6 (>= 2.7), libdbus-1-3 (>= 1.0.2), libdbus-glib-1-2 (>= 0.78), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.16.0), zlib1g (>= 1:1.1.4)
-Filename: network/tixati/tixati_3.19-1_amd64.deb
-Size: 14155540
-MD5sum: 28d44ea673bef7820619ca88f2e8e029
-SHA1: 2089ff707b6b06d816f1456023b4b2e56b1ddf4f
-SHA256: 68dd8a2db7400cb85e53d0ffac2a74ab66cbb4a8d56b2a509eb043f84b883cc9
-SHA512: 6d106e4c677d53eadf058b0642da81fefbb784ab8b9ead7f154b93003abb4bba17ba879fc7f9309bb9416868387cfbf3d97b52e3b69c4926ab303bf2c8fe39a1
-Homepage: http://www.tixati.com
-Description: Tixati P2P Client
- Tixati P2P Client
-
 Package: cn.speedtest.master
 Architecture: amd64
 Version: 1.6.1
@@ -31570,17 +31528,17 @@ Description: open-source AirPlay mirroring server
 
 Package: io.github.msojocs.bilibili
 Architecture: amd64
-Version: 1.14.0-1
+Version: 1.14.0-2
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 277898
-Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.14.0-1_amd64.deb
-Size: 80081584
-MD5sum: e5f8a34400ac200c40508fcb46d0f9d2
-SHA1: 9455f1ac910b4364b56d704f47a83d0a46afbb7f
-SHA256: 49124d2e299d9d85adc3dcbbd471944d0918f965b11d1606dccf8ab6ea1919ce
-SHA512: 7a308569ab77e35fe234db07695b5a6945e8f04991a397e556e27908094bc9432a64a66f975e5262cceb663b0f49ba09ef70f20377035d7b32c0d8e0206b558f
+Installed-Size: 277925
+Filename: video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.14.0-2_amd64.deb
+Size: 80085532
+MD5sum: 41b0b20d036d667c1bb10562ac7dd299
+SHA1: 68064a7e33a62e26e5997275dad5cb23377e03c8
+SHA256: 41031d129284eebfdf3cc697ff212869aeca8e296188f3182d1bc63e4bf58ddb
+SHA512: 49ddc1f845aaf21c621bc3f7e377e55f0bb0d7034427b42064803093ff637b41fa23470cf0009f49b48f11d7df17943c159dd39ac2e058bcb479d4bbfead3caa
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 
@@ -32930,22 +32888,6 @@ MD5sum: b16e27d87d3db6378510bc236e51fec9
 SHA1: bf7e6f9ceca8df77cccc281a3494b05f25335ec7
 SHA256: 44f75d4e29c8432ceb1c74e206f60b494de60e2857c6fd467fa497fce38caaab
 SHA512: ac62ba9a14bd679747615f65992005015c3420612f01dcee615d713bd2ca5ffd2a7964c385a34dece12faa27083b7e9ffd937c3f250670fefc22166139596eea
-Homepage: https://mifi.no/losslesscut/
-Description: losslesscut被称为无损视频剪辑的瑞士军刀，常用于粗剪（无损剪切、合并）。
-
-Package: losslesscut.spark
-Architecture: amd64
-Version: 3.59.1
-Priority: optional
-Section: default
-Maintainer: Fredoong
-Depends:
-Filename: video/losslesscut.spark/losslesscut.spark_3.59.1_amd64.deb
-Size: 116530008
-MD5sum: f2bd89cea4f376eeac8338dee9367e66
-SHA1: b393f30addea25c28bc1369d31fce7703c5f47b1
-SHA256: 07f04c10afeba4d25a7ce284976f7cebe6c9431e1419d1a099c277a296dc5179
-SHA512: 0a4f075959432a3b14d021a3bca0d5f1d8af3e35e80a51e289855295e4e167d485b8ce8fd981481b4fe5b739d4e3003c23db9533eff0e7f55b329f1cca1db571
 Homepage: https://mifi.no/losslesscut/
 Description: losslesscut被称为无损视频剪辑的瑞士军刀，常用于粗剪（无损剪切、合并）。
 
