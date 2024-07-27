@@ -429,12 +429,12 @@
     "Author": "Oracle Corporation <info@virtualbox.org>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://www.virtualbox.org/",
-    "Update": "2023-08-03 19:16:52",
-    "Size": "91.5 MB",
+    "Update": "2024-07-27 16:04:15",
+    "Size": "91.46 MB",
     "More": "VirtualBox是功能强大的PC虚拟化解决方案，可让您在Linux系统上运行包括Windows，Linux，FreeBSD，DOS，OpenBSD等的各种PC操作系统。 VirtualBox具有广泛的功能集和出色的性能，使其成为市场上著名的虚拟化软件解决方案。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/03/42b968e9ec6641af9b970fabd0b9f2fe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/03/ed9b9572a14441059c6495fe4ee7daf2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/03/4b7986ff153545f68321c185b33bbdf4.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/ccb25f42100447ce84abcd4df1a9491c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/eee35299f65a4c14b99f88c48ba059c6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/af421d0241a44c4196a7eb381483f244.png"
 }
 ,
 {
@@ -473,19 +473,19 @@
 ,
 {
     "Name": "VirtualBox 7.0",
-    "Version": "7.0.14-161095~Debian~buster",
-    "Filename": "virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb",
-    "Torrent_address": "virtualbox-7.0_7.0.14-161095~Debian~buster_amd64.deb.torrent",
+    "Version": "7.0.20-163906~Debian~buster",
+    "Filename": "virtualbox-7.0_7.0.20-163906~Debian~buster_amd64.deb",
+    "Torrent_address": "virtualbox-7.0_7.0.20-163906~Debian~buster_amd64.deb.torrent",
     "Pkgname": "virtualbox-7.0",
     "Author": "Oracle Corporation <info@virtualbox.org>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://www.virtualbox.org/",
-    "Update": "2024-04-05 12:15:22",
-    "Size": "87.97 MB",
+    "Update": "2024-07-27 15:59:53",
+    "Size": "87.92 MB",
     "More": "VirtualBox is a powerful PC virtualization solution allowing you to run a\n wide range of PC operating systems on your Linux system. This includes\n Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad\n feature set and excellent performance, making it the premier virtualization\n software solution on the market.",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/df75ed99151f44349f2a88c8323cff70.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/c2c0b762bc66439abba4fe4c2f45e76d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/cf609e5595ec4c0faca134e39ef190cb.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/ceeff76b44e74323926300b52f14f93b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/4b9ba06b5ec645d28927d35bc4b13428.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/11796b4d8ff34eefb68309e0a91b7197.png"
 }
 ,
 {
@@ -823,23 +823,6 @@
 }
 ,
 {
-    "Name": "Boost Changer",
-    "Version": "5.0.3",
-    "Filename": "boostchanger_5.0.3_amd64.deb",
-    "Torrent_address": "boostchanger_5.0.3_amd64.deb.torrent",
-    "Pkgname": "boostchanger",
-    "Author": "nbebaw",
-    "Contributor": "nbebaw",
-    "Website": "https://github.com/nbebaw/boostChanger#readme",
-    "Update": "2023-09-12 18:41:37",
-    "Size": "67.1 MB",
-    "More": "一款用于调节Intel CPU运行频率的小工具",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/c35c2f98037e48d18d546207437fd688.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/e2bce305040343f696f62ab78004fbbf.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/12/c1ff6232eeaf465f8e7653014bf045c4.png"
-}
-,
-{
     "Name": "LocalSend",
     "Version": "1.14.0+45",
     "Filename": "localsend_1.14.0_plus_45_amd64.deb",
@@ -856,6 +839,23 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/a6433d9fb4de4166ab3a3531bb9d76a9.png"
 }
 
+,
+{
+    "Name": "Boost Changer",
+    "Version": "5.0.3",
+    "Filename": "boostchanger_5.0.3_amd64.deb",
+    "Torrent_address": "boostchanger_5.0.3_amd64.deb.torrent",
+    "Pkgname": "boostchanger",
+    "Author": "nbebaw",
+    "Contributor": "nbebaw",
+    "Website": "https://github.com/nbebaw/boostChanger#readme",
+    "Update": "2023-09-12 18:41:37",
+    "Size": "67.1 MB",
+    "More": "一款用于调节Intel CPU运行频率的小工具",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/c35c2f98037e48d18d546207437fd688.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/12/e2bce305040343f696f62ab78004fbbf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/12/c1ff6232eeaf465f8e7653014bf045c4.png"
+}
 ,
 {
     "Name": "WIFI热点",
@@ -977,23 +977,6 @@
 }
 ,
 {
-    "Name": "AI工具集",
-    "Version": "1.0",
-    "Filename": "web-aibot.cn_1.0_amd64.deb",
-    "Torrent_address": "web-aibot.cn_1.0_amd64.deb.torrent",
-    "Pkgname": "web-aibot.cn",
-    "Author": "MMHMM",
-    "Contributor": "MMHMM",
-    "Website": "https://ai-bot.cn/",
-    "Update": "2023-05-14 15:46:30",
-    "Size": "4.28 KB",
-    "More": "欢迎访问AI工具集导航，你的一站式人工智能工具集合网站，500+AI工具导航大全。AI工具集专注于收录和推荐国内外热门、创意、有趣、前沿的AI工具和网站，致力于为\n大家提供一个快速访问任意人工智能网站的门户和入口。我们的目标是让所有人都方便\n快捷地探索AI技术，让你在个人学习、生活和工作中充分利用人工智能的潜力。",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462636376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462707876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462784376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462858276958200.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462021276958200.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -1010,6 +993,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "AI工具集",
+    "Version": "1.0",
+    "Filename": "web-aibot.cn_1.0_amd64.deb",
+    "Torrent_address": "web-aibot.cn_1.0_amd64.deb.torrent",
+    "Pkgname": "web-aibot.cn",
+    "Author": "MMHMM",
+    "Contributor": "MMHMM",
+    "Website": "https://ai-bot.cn/",
+    "Update": "2023-05-14 15:46:30",
+    "Size": "4.28 KB",
+    "More": "欢迎访问AI工具集导航，你的一站式人工智能工具集合网站，500+AI工具导航大全。AI工具集专注于收录和推荐国内外热门、创意、有趣、前沿的AI工具和网站，致力于为\n大家提供一个快速访问任意人工智能网站的门户和入口。我们的目标是让所有人都方便\n快捷地探索AI技术，让你在个人学习、生活和工作中充分利用人工智能的潜力。",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462636376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462707876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462784376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462858276958200.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462021276958200.png"
+}
 ,
 {
     "Name": "RustDesk",
@@ -1609,23 +1609,6 @@
 
 ,
 {
-    "Name": "Scrcpy安卓手机投屏",
-    "Version": "2.4+szbt4",
-    "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
-    "Torrent_address": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb.torrent",
-    "Pkgname": "scrcpy.genymobile.github",
-    "Author": "SZBT CI <lu1044100652@outlook.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://bbs.deepin.org/user/95253",
-    "Update": "2024-04-05 12:11:05",
-    "Size": "1.92 MB",
-    "More": "Scrcpy安卓手机投屏，只支持数据线连接",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
-}
-,
-{
     "Name": "360压缩(wine)",
     "Version": "4.0.0.1490spark0",
     "Filename": "com.360.ya.suo.spark_4.0.0.1490spark0_all.deb",
@@ -1640,6 +1623,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/46b28263ee3c4ad692cd7cfe6f1fb2f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/f154f48ee46e4877ba548b1a9f4eb18a.png"
+}
+,
+{
+    "Name": "Scrcpy安卓手机投屏",
+    "Version": "2.4+szbt4",
+    "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
+    "Torrent_address": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb.torrent",
+    "Pkgname": "scrcpy.genymobile.github",
+    "Author": "SZBT CI <lu1044100652@outlook.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://bbs.deepin.org/user/95253",
+    "Update": "2024-04-05 12:11:05",
+    "Size": "1.92 MB",
+    "More": "Scrcpy安卓手机投屏，只支持数据线连接",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
 }
 ,
 {
@@ -2098,6 +2098,23 @@
 }
 ,
 {
+    "Name": "GitHub 访问加速包",
+    "Version": "0.0.1-20240206",
+    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
+    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
+    "Pkgname": "github-fast-access",
+    "Author": "麻本法 <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface",
+    "Update": "2024-02-06 11:12:21",
+    "Size": "1.14 KB",
+    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+,
+{
     "Name": "DTK桌面便签",
     "Version": "0.0.4_plus_spark3",
     "Filename": "dtkstickynotes.spark_0.0.4_plus_spark3_amd64.deb",
@@ -2128,23 +2145,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/8a871ca1edcb43eb89d6e43ef508ac3e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/9c4debbe7d7a4668b181f2c397b50623.png"
-}
-,
-{
-    "Name": "GitHub 访问加速包",
-    "Version": "0.0.1-20240206",
-    "Filename": "github-fast-access_0.0.1-20240206_all.deb",
-    "Torrent_address": "github-fast-access_0.0.1-20240206_all.deb.torrent",
-    "Pkgname": "github-fast-access",
-    "Author": "麻本法 <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface",
-    "Update": "2024-02-06 11:12:21",
-    "Size": "1.14 KB",
-    "More": "通过使用 iptables 进行 DNAT 操作将 ;即将要访问错误ip的流量导向正确的ip;\n .\n 安装时:\n iptables -t nat -A OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n 卸载时:\n iptables -t nat -D OUTPUT -d 20.205.243.166/32 -j DNAT --to-destination 192.30.255.113\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
 }
 ,
 {
@@ -2450,23 +2450,6 @@
 }
 ,
 {
-    "Name": "gnome-pie应用启动器",
-    "Version": "0.7.3-1",
-    "Filename": "gnome-pie_0.7.3-1_amd64.deb",
-    "Torrent_address": "gnome-pie_0.7.3-1_amd64.deb.torrent",
-    "Pkgname": "gnome-pie",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "WAYYYAW <way610@126.com>",
-    "Website": "https://github.com/Schneegans/Gnome-Pie",
-    "Update": "2023-01-12 18:00:51",
-    "Size": "322.4 KB",
-    "More": "一个炫酷的应用启动器\n-默认皮肤挺丑的\n可以自己DIY皮肤，或者百度\n-皮肤文件放在『～/.config/gnome-pie/themes』\n-从ubuntu里扣出来的，Deepin不保证\n-其实『sudo apt install gnome-pie 』就可以了\n-deepin用户可以考虑添加ppa 『sudo add-apt-repository ppa:simonschneegans/testing 』",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
-}
-,
-{
     "Name": "Apk 文件查看器",
     "Version": "1.1-20231207",
     "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
@@ -2481,6 +2464,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/d89de06007bd414db3a959c247617626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/4c0dd3a9d7ec45d8a7bf57cfdba5a3a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/3e97058339ea481fb304517375e69ec8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/db4b10f23e4c4457b76d95be833c99ba.png"
+}
+,
+{
+    "Name": "gnome-pie应用启动器",
+    "Version": "0.7.3-1",
+    "Filename": "gnome-pie_0.7.3-1_amd64.deb",
+    "Torrent_address": "gnome-pie_0.7.3-1_amd64.deb.torrent",
+    "Pkgname": "gnome-pie",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "https://github.com/Schneegans/Gnome-Pie",
+    "Update": "2023-01-12 18:00:51",
+    "Size": "322.4 KB",
+    "More": "一个炫酷的应用启动器\n-默认皮肤挺丑的\n可以自己DIY皮肤，或者百度\n-皮肤文件放在『～/.config/gnome-pie/themes』\n-从ubuntu里扣出来的，Deepin不保证\n-其实『sudo apt install gnome-pie 』就可以了\n-deepin用户可以考虑添加ppa 『sudo add-apt-repository ppa:simonschneegans/testing 』",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
 }
 ,
 {
@@ -2517,6 +2517,23 @@
 }
 ,
 {
+    "Name": "Additional Base lib",
+    "Version": "2.38-13-9",
+    "Filename": "additional-base-lib_2.38-13-9_amd64.deb",
+    "Torrent_address": "additional-base-lib_2.38-13-9_amd64.deb.torrent",
+    "Pkgname": "additional-base-lib",
+    "Author": "CongTianKong",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
+    "Update": "2024-07-01 13:07:15",
+    "Size": "5.5 MB",
+    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/01/630d220e30c5472fbc1bc3044b7b6ab2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/01/54dc8b4f22184b22b835e0bfa06d710a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/01/57282a9388e946c28e6f14ef37746857.png"
+}
+,
+{
     "Name": "Debreate",
     "Version": "0.7.13",
     "Filename": "debreate_0.7.13_all.deb",
@@ -2547,23 +2564,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/02/c9cd975959b14de8915cf13463475162.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/02/e6c8e979077a4bfebb9205162013f246.png"
-}
-,
-{
-    "Name": "Additional Base lib",
-    "Version": "2.38-13-9",
-    "Filename": "additional-base-lib_2.38-13-9_amd64.deb",
-    "Torrent_address": "additional-base-lib_2.38-13-9_amd64.deb.torrent",
-    "Pkgname": "additional-base-lib",
-    "Author": "CongTianKong",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/deepin-community-store/additional-base-lib",
-    "Update": "2024-07-01 13:07:15",
-    "Size": "5.5 MB",
-    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/01/630d220e30c5472fbc1bc3044b7b6ab2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/01/54dc8b4f22184b22b835e0bfa06d710a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/01/57282a9388e946c28e6f14ef37746857.png"
 }
 ,
 {
@@ -3338,6 +3338,24 @@
 }
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "289 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+    "Update": "2024-06-29 17:54:44",
+    "Version": "9.0.1runner1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
     "Name": "FontBase",
     "Version": "2.17.5spark1",
     "Filename": "se.fontbase.spark_2.17.5spark1_amd64.deb",
@@ -3403,24 +3421,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/22a690eeb15e4e5fbe571998f3b7bc0d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/adee5c0ee3eb403eb610c9f7413a2b86.png"
 }
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "289 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
-    "Update": "2024-06-29 17:54:44",
-    "Version": "9.0.1runner1~beige",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "AppImageHub 简易搜索工具",
@@ -4146,6 +4146,23 @@
 }
 ,
 {
+    "Name": "下厨房（UEngine）",
+    "Version": "8.8.13",
+    "Filename": "com.xiachufang_8.8.13_all.deb",
+    "Torrent_address": "com.xiachufang_8.8.13_all.deb.torrent",
+    "Pkgname": "com.xiachufang",
+    "Author": "下厨房",
+    "Contributor": "於泓锦",
+    "Website": "https://www.xiachufang.com/",
+    "Update": "2023-09-14 12:50:29",
+    "Size": "58.07 MB",
+    "More": "下厨房美食菜谱网倡导在家烹饪、健康的生活方式,提供有版权的实用菜谱做法与饮食知识,提供厨师和美食爱好者一个记录、分享的平台。",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/14/520bf0ce0c2a48f8a385a0e6a5ecaad3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/14/d3dd38a2417a49f1a4045071a80de474.png"
+}
+,
+{
     "Name": "Debian 软件仓库分析工具",
     "Version": "0.0.13-20240724",
     "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb",
@@ -4279,23 +4296,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
-}
-,
-{
-    "Name": "下厨房（UEngine）",
-    "Version": "8.8.13",
-    "Filename": "com.xiachufang_8.8.13_all.deb",
-    "Torrent_address": "com.xiachufang_8.8.13_all.deb.torrent",
-    "Pkgname": "com.xiachufang",
-    "Author": "下厨房",
-    "Contributor": "於泓锦",
-    "Website": "https://www.xiachufang.com/",
-    "Update": "2023-09-14 12:50:29",
-    "Size": "58.07 MB",
-    "More": "下厨房美食菜谱网倡导在家烹饪、健康的生活方式,提供有版权的实用菜谱做法与饮食知识,提供厨师和美食爱好者一个记录、分享的平台。",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/14/520bf0ce0c2a48f8a385a0e6a5ecaad3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/14/d3dd38a2417a49f1a4045071a80de474.png"
 }
 ,
 {
@@ -4992,6 +4992,40 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3b5c6390-d82a-11ed-96e3-3560d378947d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/11/3ba4de40-d82a-11ed-96e3-3560d378947d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/11/79969090-d82a-11ed-96e3-3560d378947d.png"
+}
+,
+{
+    "Name": "deepin 磁盘管理器",
+    "Version": "1.3.34",
+    "Filename": "deepin-diskmanager_1.3.34_amd64.deb",
+    "Torrent_address": "deepin-diskmanager_1.3.34_amd64.deb.torrent",
+    "Pkgname": "deepin-diskmanager",
+    "Author": "deepin <packages@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/linuxdeepin/deepin-diskmanager",
+    "Update": "2024-07-27 17:18:38",
+    "Size": "4.42 MB",
+    "More": "deepin 磁盘管理器，dtk 5.4 移植",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c34a1cef330542be85f7fd8b955e3164.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/ab4778120ef24a1c8aa0b2f267794965.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/71131f395e0242b0936bb75e3b4f9696.png"
+}
+,
+{
+    "Name": "deepin 计算器",
+    "Version": "6.0.1",
+    "Filename": "deepin-calculator_6.0.1_amd64.deb",
+    "Torrent_address": "deepin-calculator_6.0.1_amd64.deb.torrent",
+    "Pkgname": "deepin-calculator",
+    "Author": "Deepin Packages Builder <packages@deepin.org>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.deepin.org",
+    "Update": "2024-07-27 17:53:37",
+    "Size": "965.73 KB",
+    "More": "deepin 计算器 for dtk5.4 移植",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c03acc06a6d74fe59be63144592bcae8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/db44377bb2614f2b973e19201b4dd8f8.png"
 }
 ,
 {

@@ -36,24 +36,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ace-bookworm-x86_12.4.12.2_loong64.deb",
-    "More": "使用bookworm-run-x86进入x86环境，可安装x86包\n\n修复无法使用sudo的问题，需全新安装\n\n首次安装后请重启或注销以显示已安装的程序\n\n* 修复v23下无法切换主题的问题",
-    "Name": "ACE Bookworm x86兼容环境",
-    "Pkgname": "ace-bookworm-x86",
-    "Size": "161 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "ace-bookworm-x86_12.4.12.2_loong64.deb.torrent",
-    "Update": "2024-06-01 14:19:50",
-    "Version": "12.4.12.2",
-    "Website": "https://gitee.com/amber-compatability-environment/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ace-bookworm-x86/icon.png",
-    "img_urls": "[]"
-}
-
-,
-{
     "Author": "gfdgd xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark-deepin-wine-runner_4.0.0_all.deb",
@@ -68,6 +50,24 @@
     "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ace-bookworm-x86_12.4.12.2_loong64.deb",
+    "More": "使用bookworm-run-x86进入x86环境，可安装x86包\n\n修复无法使用sudo的问题，需全新安装\n\n首次安装后请重启或注销以显示已安装的程序\n\n* 修复v23下无法切换主题的问题",
+    "Name": "ACE Bookworm x86兼容环境",
+    "Pkgname": "ace-bookworm-x86",
+    "Size": "161 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "ace-bookworm-x86_12.4.12.2_loong64.deb.torrent",
+    "Update": "2024-06-01 14:19:50",
+    "Version": "12.4.12.2",
+    "Website": "https://gitee.com/amber-compatability-environment/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/ace-bookworm-x86/icon.png",
+    "img_urls": "[]"
 }
 
 ,
@@ -424,6 +424,24 @@
 }
 ,
 {
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.qihoo.360safe_10.0.0.7536_loong64.deb",
+    "More": "360 安全卫士 For Linux\n\n修23无法启动",
+    "Name": "360 安全卫士（Linux）",
+    "Pkgname": "com.qihoo.360safe",
+    "Size": "154 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.qihoo.360safe_10.0.0.7536_loong64.deb.torrent",
+    "Update": "2024-03-24 14:23:36",
+    "Version": "10.0.0.7536",
+    "Website": "http://www.360.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/screen_1.png\"]"
+}
+
+,
+{
     "Author": "Dylan Aïssi <daissi@debian.org>",
     "Contributor": "Dylan Aïssi <daissi@debian.org>",
     "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_1_all.deb",
@@ -456,24 +474,6 @@
     "Website": "https://cn.ultraiso.net/",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "qihoo360 company <support@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.qihoo.360safe_10.0.0.7536_loong64.deb",
-    "More": "360 安全卫士 For Linux\n\n修23无法启动",
-    "Name": "360 安全卫士（Linux）",
-    "Pkgname": "com.qihoo.360safe",
-    "Size": "154 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.qihoo.360safe_10.0.0.7536_loong64.deb.torrent",
-    "Update": "2024-03-24 14:23:36",
-    "Version": "10.0.0.7536",
-    "Website": "http://www.360.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.qihoo.360safe/screen_1.png\"]"
 }
 
 ,
@@ -614,6 +614,24 @@
     "Website": "https://www.antutu.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_4.png\"]"
+}
+
+,
+{
+    "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.huorong.esm_2.0.7.5_loong64.deb",
+    "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
+    "Name": "火绒安全",
+    "Pkgname": "cn.huorong.esm",
+    "Size": "29 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "cn.huorong.esm_2.0.7.5_loong64.deb.torrent",
+    "Update": "2024-06-22 20:50:44",
+    "Version": "2.0.7.5",
+    "Website": "https://huorong.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_3.png\"]"
 }
 
 ,
@@ -776,6 +794,24 @@
 }
 ,
 {
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.360.epp_10.0.0.6278_loong64.deb",
+    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
+    "Name": "360终端安全防护系统",
+    "Pkgname": "com.360.epp",
+    "Size": "104 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.360.epp_10.0.0.6278_loong64.deb.torrent",
+    "Update": "2024-03-24 14:20:11",
+    "Version": "10.0.0.6278",
+    "Website": "http://www.360.cn/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_5.png\"]"
+}
+
+,
+{
     "Name": "2345好压（Wine）",
     "Version": "6.4spark0",
     "Filename": "com.2345haoya.spark_6.4spark0_all.deb",
@@ -791,24 +827,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/52c122215788412db4e7d19c7f968024.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9b10f4a025d0416696859e7bcfe4ef17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/59a26424738949ad952bfe289cd310c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/3e312b1340b640e886d0de21ae3776d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/929c40b764a34ce9b8caa3be6d84d7c1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/6676aad26f7549f68007e1a069650b9a.png"
 }
-,
-{
-    "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.huorong.esm_2.0.7.5_loong64.deb",
-    "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
-    "Name": "火绒安全",
-    "Pkgname": "cn.huorong.esm",
-    "Size": "29 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "cn.huorong.esm_2.0.7.5_loong64.deb.torrent",
-    "Update": "2024-06-22 20:50:44",
-    "Version": "2.0.7.5",
-    "Website": "https://huorong.cn",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.huorong.esm/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "引导修复 Boot-Repair",
@@ -1201,24 +1219,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/2fad901da12b4d8a9a9e90793129db27.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/1fad636144ba4f5595bcf5dfb41ec014.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/ed1de7c620274c4d977526cbecec49a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/3065f6cd0e064662adfb497dc54649be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/16/adfa3e43626d46a185f0766d446e8b7c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/16/2d549608e3814883815a54522f000dbc.png"
 }
-,
-{
-    "Author": "qihoo360 company <support@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "com.360.epp_10.0.0.6278_loong64.deb",
-    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
-    "Name": "360终端安全防护系统",
-    "Pkgname": "com.360.epp",
-    "Size": "104 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.360.epp_10.0.0.6278_loong64.deb.torrent",
-    "Update": "2024-03-24 14:20:11",
-    "Version": "10.0.0.6278",
-    "Website": "http://www.360.cn/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_5.png\"]"
-}
-
 ,
 {
    "Name":"必应好壁纸",

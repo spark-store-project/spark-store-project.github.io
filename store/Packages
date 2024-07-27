@@ -6425,6 +6425,24 @@ SHA256: bd36609e28407480f53636d734ced1b71a80538d1df172b3885b0d09ce6ac612
 SHA512: 570072796ba4b9710e899bb55f8b855f21a38f21d8c0db79ca9e69b58b55ebe34a006d792cc000daef250356b03f629ba974b0a624785d056633c708bb0c0139
 Description: i4tools
 
+Package: deepin-calculator
+Architecture: amd64
+Version: 6.0.1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 3438
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 4.2.1)
+Filename: tools/deepin-calculator/deepin-calculator_6.0.1_amd64.deb
+Size: 988908
+MD5sum: cb8327e23946d5de88dbe5c6aeb8e230
+SHA1: 8c57ec71255fc40209584ea13d6ec8b360f64706
+SHA256: 0a3270ef8370364be748071ce239fd91c3972a62923a1a27b6f1b3b5df33469b
+SHA512: 367d2f4d017f93adfe76150ea9dbdef536e200e0ad545a32d303d5beccddfd23413e4000a6094781dbb36a8184ec83b208ecae17ade09a0f832bd93fbd4bae4b
+Homepage: http://www.deepin.org
+Description: Calculator for UOS
+ Calculator is a simple and easy-to-use desktop calculator. It supports addition, subtraction, multiplication and division with keyboard input perfectly matched, as well as symbolic fault-tolerant computing and calculation result linkage.
+
 Package: amd-backlight
 Architecture: amd64
 Version: 0.0.1-20240602
@@ -6908,11 +6926,11 @@ Description: 键盘检测工具 By Deepin Wine 6 Stable And Build By Wine Runner
 
 Package: virtualbox-6.1
 Architecture: amd64
-Version: 6.1.46-158378~Debian~buster
+Version: 6.1.50-161033~Debian~buster
 Priority: optional
 Section: contrib/misc
 Maintainer: Oracle Corporation <info@virtualbox.org>
-Installed-Size: 217738
+Installed-Size: 217771
 Provides: virtualbox
 Pre-Depends: debconf (>= 1.1) | debconf-2.0
 Depends: psmisc, adduser, libc6 (>= 2.28), libcurl4 (>= 7.16.2), libdevmapper1.02.1 (>= 2:1.02.97), libgcc1 (>= 1:3.0), libgl1, libopus0 (>= 1.1), libpng16-16 (>= 1.6.2-1), libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.4.0), libqt5opengl5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libsdl1.2debian (>= 1.2.11), libssl1.1 (>= 1.1.1), libstdc++6 (>= 5.2), libvpx5 (>= 1.6.0), libx11-6, libxcb1, libxcursor1 (>> 1.1.2), libxext6, libxml2 (>= 2.7.4), libxt6, zlib1g (>= 1:1.1.4)
@@ -6920,11 +6938,11 @@ Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, kmod | kldutils | module-ini
 Conflicts: virtualbox, virtualbox-guest-additions-iso, virtualbox-ose, virtualbox-qt
 Replaces: virtualbox
 Filename: tools/virtualbox-6.1/virtualbox-6.1_2.7_amd64.deb
-Size: 95941936
-MD5sum: f3d28b0bfa695f264bc6ee8c821a2589
-SHA1: 765e0dfffcbabdb012aabb7e633e1e9d118f3c1b
-SHA256: 5a67d2d4253f40508aa6d40066fc0a4eb5e72c5d6cdd97e5b5fc1e15a8a52830
-SHA512: c0de28878ac582c3a48eb32fc3dd0760211db0ed7a552968a34bc2025e1a15e125431f000fc9e3ee2a1a79d690d00895c089d82f1fa60ecf63033df1a957bf71
+Size: 95903428
+MD5sum: 824a14a772fe5c7d6c31fe9632ee39ec
+SHA1: 442e1379004fd8e22395b86c057c22e8a1b44342
+SHA256: b42bceb358df8655920687654ad2e0b560cf91f885fbc6981187c3633f9d98d5
+SHA512: 283560bb5a78bf89574e2dfec4838a59e721e04a35f3c4809a68d1c5d7a006d4f101f0e8cd85c447c0944f8647948b09e26bba88edf5e9e6d6cfce94d1b764cf
 Description: Oracle VM VirtualBox
  VirtualBox is a powerful PC virtualization solution allowing you to run a
  wide range of PC operating systems on your Linux system. This includes
@@ -7219,6 +7237,22 @@ MD5sum: 663cdf9a86e0638999cb809a2f50d52d
 SHA1: fb8a4cb918f1d8567fee06435cc23c7889b47d42
 SHA256: 3f9908d8c3c03bc1952155ae21a31bd5162c7630c357dd4baf00165167cd9b9b
 SHA512: 1881af6ec0e5c88bf44f7d62c5d6927fe2e6838065138b2fc757535ae9309de87d0545eff06d80972e6113e3a7c30aa0f10fb7cc28df3b899a5391379d63e7ff
+Description: Gui interface to package application for deepin-wine. The frontend to create wine application packages.
+
+Package: deepin-wine-builder
+Architecture: amd64
+Version: 2.0.001-1
+Priority: optional
+Section: utils
+Maintainer: Tingzhong Luo <luotingzhong@uniontech.com>
+Installed-Size: 1888
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.2.0), libdtkgui5 (>= 5.2.0), libdtkwidget5, libgcc1 (>= 1:3.0), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), libx11-6, deepin-wine-runner (>= 2.0.001), deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/deepin-wine-builder/deepin-wine-builder_2.0.001-1_amd64.deb
+Size: 1145090
+MD5sum: 93d019bf134491029607033b619fdd3e
+SHA1: ea6021191a4dcc198ff5bd24e9c42b0f77a8c835
+SHA256: 32d260dde190020395f7f6bf2c9cc37c647cd2eacc28548b03299302c6b9c229
+SHA512: 55d155e4b80b4d516f6869a6aaa682bd15113a2b1b51d757cbf2a87363bf6e88ecbcefc693543810ee00dfae5ebbcbcaba70f2f39b4e3ae2d00eccb2c25d0458
 Description: Gui interface to package application for deepin-wine. The frontend to create wine application packages.
 
 Package: org.qgis.qgis
@@ -7791,6 +7825,23 @@ Description: visual application launcher for GNOME
  .
  It was inspired by the OPie addon written for the game World of Warcraft.
 
+Package: deepin-diskmanager
+Architecture: amd64
+Version: 1.3.34
+Priority: optional
+Section: tools
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 8860
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4), libgcc1 (>= 1:3.0), libparted-fs-resize0 (>= 3.1), libparted2 (>= 3.1), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), smartmontools, exfat-fuse
+Filename: tools/deepin-diskmanager/deepin-diskmanager_1.3.34_amd64.deb
+Size: 4630276
+MD5sum: 701fd2cd77d2b227f798929b1dd3bf5d
+SHA1: ee54d0fd7964efe1e93703bade19eeac50459d8d
+SHA256: f48b5423e4ddc7279a6fca5a757a561c77155825a81361b2589e83e06a0182b3
+SHA512: 4a16f10dae46749e3bc61d4218596da27b35dae6ae5718d6edf3352c243401dcac711f0a225be911122cc1d48d22581bdd961817550f0ff4cad0f9146e79f617
+Description: Disk Utility is a disk management tool for creating, reorganizing and formatting partitions.
+ Disk Utility is a disk management tool for disk.
+
 Package: fsearch
 Architecture: amd64
 Version: 0.2.2-1+3.1
@@ -8292,6 +8343,32 @@ Description: Free mathematics software for learning and teaching
  Authoring tool to create and share interactive online learning materials.
  Available in many languages for our millions of users around the world.
  Free and open source math/maths software.
+
+Package: virtualbox-7.0
+Architecture: amd64
+Version: 7.0.20-163906~Debian~buster
+Priority: optional
+Section: contrib/misc
+Maintainer: Oracle Corporation <info@virtualbox.org>
+Installed-Size: 213009
+Provides: virtualbox
+Pre-Depends: debconf (>= 1.1) | debconf-2.0
+Depends: psmisc, adduser, libvulkan1, libc6 (>= 2.28), libcurl4 (>= 7.16.2), libdevmapper1.02.1 (>= 2:1.02.97), libgcc1 (>= 1:3.0), libgl1, libpng16-16 (>= 1.6.2-1), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5help5 (>= 5.9.0), libqt5opengl5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libssl1.1 (>= 1.1.1), libstdc++6 (>= 7), libvpx5 (>= 1.6.0), libx11-6, libxcb1, libxcursor1 (>> 1.1.2), libxext6, libxml2 (>= 2.7.4), libxt6, zlib1g (>= 1:1.1.4)
+Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, kmod | kldutils | module-init-tools, linux-headers-generic | linux-headers-generic-pae | linux-headers-686-pae | linux-headers-amd64 | linux-headers-2.6-686 | linux-headers-2.6-amd64 | linux-headers, linux-image, gcc, make | build-essential | dpkg-dev, binutils, pdf-viewer
+Conflicts: virtualbox, virtualbox-dkms, virtualbox-guest-additions-iso, virtualbox-ose, virtualbox-qt
+Replaces: virtualbox
+Filename: tools/virtualbox-7.0/virtualbox-7.0_7.0.20-163906~Debian~buster_amd64.deb
+Size: 92188544
+MD5sum: f69eb5aac6dc4ebcd670ea42a127f9f7
+SHA1: 7a6ca31499f5d7a372aafa10b5a9a4f33ff8ec05
+SHA256: f47859136d3616c4036fddd10e35e67e8b22709e760b1d2c407843c353dc0cd2
+SHA512: 12de80c6d157ff777aeb1cf7ace952a0407a8d3dcccbeb34da90017fe09b7e2ec5b027dc17adc0e5a2afe58ce0e4cf5f870829a1d1e60602921c8f38368e13fb
+Description: Oracle VM VirtualBox
+ VirtualBox is a powerful PC virtualization solution allowing you to run a
+ wide range of PC operating systems on your Linux system. This includes
+ Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad
+ feature set and excellent performance, making it the premier virtualization
+ software solution on the market.
 
 Package: virtualbox-7.0
 Architecture: amd64
@@ -30949,6 +31026,24 @@ Description: 迅雷精简版 for deepin wine 6
 
 Package: tixati
 Architecture: amd64
+Version: 3.28-1
+Priority: optional
+Section: Network
+Maintainer: Tixati-support <support@tixati.com>
+Installed-Size: 35000
+Depends: libc6 (>= 2.17), libdbus-1-3 (>= 1.0.2), libdbus-glib-1-2 (>= 0.78), libglib2.0-0 (>= 2.16.0), libgtk-3-0 (>= 3.6.0), zlib1g (>= 1:1.1.4)
+Filename: network/tixati/tixati_3.28-1_amd64.deb
+Size: 15222700
+MD5sum: a36bc7ccbedfbcd8aca085324483d05f
+SHA1: fd968b8513ee7fe2bdf620d9b2ce491cafb99afa
+SHA256: 1a4cade164597a1033e765bb650a06de6fae2ab4acfc7f0f51e6b4ea2d84b52a
+SHA512: 3c918e4f2dfc2cd24a769db2240456975f91795e3a4adb28b5e49f99ca33e8da05bd2f67a52e00b2c0a1e4decf8059bf2c55e58d9c286637796e83e801988701
+Homepage: http://www.tixati.com
+Description: Tixati P2P Client
+ Tixati P2P Client
+
+Package: tixati
+Architecture: amd64
 Version: 3.19-1
 Priority: optional
 Section: Network
@@ -32821,6 +32916,22 @@ SHA256: 8245157aca5f492cc063fe96cdbfbec17371d42abb83fdcd242f7a82daeceeca
 SHA512: a5bfb588e1c844c7dd37da03997f47015ee21f829f62da2c85ac7e39b1e0dfb5161fac29cd461d4f104cfb40b8dc8802a3b411d1cb38978638ae5ce0571da003
 Description: videominimizer on Deepin Wine6
  一款免费的视频压缩器，使你以最简单的方式改变任何视频的“文件大小”或“图像大小”。
+
+Package: losslesscut.spark
+Architecture: amd64
+Version: 3.61.1
+Priority: optional
+Section: default
+Maintainer: Fredoong
+Depends:
+Filename: video/losslesscut.spark/losslesscut.spark_3.61.1_amd64.deb
+Size: 121077340
+MD5sum: b16e27d87d3db6378510bc236e51fec9
+SHA1: bf7e6f9ceca8df77cccc281a3494b05f25335ec7
+SHA256: 44f75d4e29c8432ceb1c74e206f60b494de60e2857c6fd467fa497fce38caaab
+SHA512: ac62ba9a14bd679747615f65992005015c3420612f01dcee615d713bd2ca5ffd2a7964c385a34dece12faa27083b7e9ffd937c3f250670fefc22166139596eea
+Homepage: https://mifi.no/losslesscut/
+Description: losslesscut被称为无损视频剪辑的瑞士军刀，常用于粗剪（无损剪切、合并）。
 
 Package: losslesscut.spark
 Architecture: amd64
