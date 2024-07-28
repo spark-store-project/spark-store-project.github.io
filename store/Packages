@@ -5804,6 +5804,21 @@ SHA512: f86d6ea66dc097d36dbd21084b1a43ba0720bcd9306cdfbdb552f0b4e3c70fdf39bcdf08
 Homepage: ttps://gitee.com/deepin-community-store/web-packer
 Description: Spark web-packer
 
+Package: keymanager-trustasia
+Architecture: amd64
+Version: 4.4.19
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Depends: libfuse2
+Filename: tools/keymanager-trustasia/keymanager-trustasia_4.4.19_amd64.deb
+Size: 60170902
+MD5sum: 89e4a15143b6a11dfaabb6e9ddfc55e9
+SHA1: 07c32efccdc14349bd17645d598a59ea1ee6d72d
+SHA256: 9f5b991057d19e442f0b4d6a357a457989a2cdc5727132ff15de3e1f18a74182
+SHA512: 42f15034699564addcadd7646f359ff19b723044efe2a417d953d7938ec4a9c4fb3d08bc7d3a7145b7e85cc7a591921b9fea92dc0d18fa1d8a066fcf4a474a8b
+Description: keymanager-trustasia Software Package created by Appimage2Deb
+
 Package: peazip
 Architecture: amd64
 Version: 9.8.0
@@ -7292,6 +7307,23 @@ MD5sum: a8f285cf5d5b6eb0cb34b0e40da60914
 SHA1: c8aa2e1427f51dbecbb2893510a4a9cb7b118180
 SHA256: 85c3aed2c71ace27d424b4b112d669c763ea5f6d3cbc9b17c438692e8a1009f3
 SHA512: 36bd7e4314a083ad0596927aac8f21f3ec5f560856430cfbceb80cf42858ca796573d7d2d980c0b57ded9412584b2b6327ba4fef2c95716f4979a70328a8c95c
+Homepage: https://zh.snipaste.com/
+Description: Snipaste
+ 一个简单但强大的截图工具
+
+Package: com.snipaste.spark
+Architecture: amd64
+Version: 2.9.2spark2
+Priority: optional
+Section: utils
+Maintainer: sgb76 <sgb76@163.com>
+Depends: additional-base-lib | com.gitee.congtiankong.additional-base-lib
+Filename: tools/com.snipaste.spark/com.snipaste.spark_2.9.2spark2_amd64.deb
+Size: 20296976
+MD5sum: cb56fc5190f703b93c81bd082097dcc3
+SHA1: 308221239fa775e8f51ab18fb8f07eed11a11c3c
+SHA256: d65a221bb9625071b47979122d880d7c3babde7fdce429050eb8c8802fab868e
+SHA512: 637687b3e0ddd591823bf5e4e6dbaea803d48100c6041e5f5f85ae32462129d5aa4da022b7ef244f2f66207bfc17343bbebccfab0825163fbd4427b94317b4f1
 Homepage: https://zh.snipaste.com/
 Description: Snipaste
  一个简单但强大的截图工具
@@ -9329,6 +9361,22 @@ Vendor: xsf <xushengfeng_zg@163.com>
 
 Package: com.calibre-ebook.calibre.spark
 Architecture: amd64
+Version: 7.15.0spark9
+Priority: optional
+Section: utils
+Maintainer: sgb76 <sgb76@163.com>
+Depends: additional-base-lib | com.gitee.congtiankong.additional-base-lib
+Filename: reading/com.calibre-ebook.calibre.spark/com.calibre-ebook.calibre.spark_7.15.0spark9_amd64.deb
+Size: 150838492
+MD5sum: 388460e78bce51141b1b675ffb6f23a4
+SHA1: b46333ba11d27ef76d83c2361c02c16d90d12381
+SHA256: 18f71728166e1fb2556b20bd9d8a038b494305ec69247a9bb786fd4cf1a309fa
+SHA512: 751d900176edcad3711b7e66c162fe20ea0fa19856b0b1db18876e8081f5b9feddaaa207a64454fcddf0ccfb3e63239dea24deadd697c772f8f769a9df8b1d0a
+Homepage: https://calibre-ebook.com/
+Description: 一款功能强大且易于使用的电子书管理器
+
+Package: com.calibre-ebook.calibre.spark
+Architecture: amd64
 Version: 7.10.0spark8
 Priority: optional
 Section: utils
@@ -11254,6 +11302,22 @@ SHA512: d6e2caf30c101dc4a4882f902ecee67381aac7d6aad565035b96909104bb1d0047ad717f
 Homepage: http://www.ocenaudio.com
 Description: Ocenaudio is a fast, cross-platform audio editor.
 
+Package: ocenaudio
+Architecture: amd64
+Version: 3.14.1-1
+Priority: optional
+Maintainer: ocenaudio <ocenaudio@ocenaudio.com>
+Installed-Size: 64335
+Depends: libqt5gui5 (>= 5.3.2), libqt5widgets5 (>= 5.3.2), libqt5concurrent5, libqt5svg5, libasound2, libpulse0, libjack-jackd2-0 | libjack0
+Filename: music/ocenaudio/ocenaudio_3.14.1-1_amd64.deb
+Size: 19084976
+MD5sum: 7fc1697641231422e9cb3000db8a4569
+SHA1: 8f15975986f88406ad5562fc7d4edf22ffaa2cbd
+SHA256: 177b2b7d0c45bf13a112cb205dd1429a26df19f2c4ebd48ca3bd4623fa8c8751
+SHA512: 97843f93015520f4fd8c9aa1c39a7d46c96afae4e7f75cc1703fb0d3c590e209ff01f734d4e3e8518bf2956c9105601b06a9c87c13100ab8fc88ba6ea7e106fe
+Homepage: http://www.ocenaudio.com
+Description: Ocenaudio is a fast, cross-platform audio editor.
+
 Package: spotify-client
 Architecture: amd64
 Version: 1:1.2.31.1205.g4d59ad7c
@@ -12576,6 +12640,23 @@ SHA512: d0978d6d272ee65088bd88dedc8e44336b0dcbec5e4cc7b41c0400f91a7d79ab7c1ce9db
 Homepage: https://2dph.com
 Description: Netease cloud music player.
  Netease cloud music player.
+
+Package: jamesdsp-pipewire
+Architecture: amd64
+Version: 2.7.0-30a30a
+Priority: optional
+Section: sound
+Maintainer: Tim Schneeberger (thepbone) <tim.schneeberger@outlook.de>
+Depends: libarchive13, libqt6gui6 (>= 6.2.4), libqt6dbus6 (>= 6.2.4), libqt6widgets6  (>= 6.2.4), libqt6svgwidgets6 (>= 6.2.4), libqt6dbus6 (>= 6.2.4), libqt6network6 (>= 6.2.4), libqt6svg6 (>= 6.2.4), libglibmm-2.4-1v5, libglib2.0-0, libpipewire-0.3-0 (>= 0.3.19-4)
+Conflicts: jamesdsp-pulse
+Filename: music/jamesdsp-pipewire/jamesdsp-pipewire_2.7.0-30a30a_amd64.deb
+Size: 5579292
+MD5sum: 9bd69ea210ad3bcb37e7c3c2435f30a2
+SHA1: a05ff70626950b84012ea7cf76853917c52885e7
+SHA256: 34ca987f55256ed27ae475e2f5eefcedbb8654a7f2a662a393ed863ef3537de8
+SHA512: a894c431848e467aefbe94e4449885dd6627027584b3979c7b457db28874ba216ee8cfc0044abe242b224d5a697fc51b1e3916b7c12b7f3244544281ce91ec6a
+Homepage: https://github.com/Audio4Linux/JDSP4Linux
+Description: JamesDSP for Linux
 
 Package: net.wifiaudio.spark
 Architecture: amd64
@@ -20599,6 +20680,23 @@ SHA512: 28a721b1768a4c12c92d1e7db201d30d4d28c7cf4ce5643a0b378aec98685d1522880f47
 Description: Sloppy Goat on Deepin Wine6
  一款十分考验玩家脑力的休闲益智游戏，玩家需要帮助不小心跌落山古的山羊重新爬出去，你需要以天空中落下的箱子为踏板不断往上爬，不过要小心不要被箱子砸中
 
+Package: spark-ra2-eneryag4
+Architecture: all
+Version: 1.3.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: LFRon
+Installed-Size: 660662
+Depends: spark-wine9-wow, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/spark-ra2-eneryag4/spark-ra2-eneryag4_1.3.0_all.deb
+Size: 660700304
+MD5sum: bacc32b90962719f9b33549d36f1bc6f
+SHA1: 7b0f522dbf219acbf141d37de7aea7778fa009b7
+SHA256: 6c432afd2e4ce110d5013169c8970bf80b53df8f3a0d99e12f2da5a2e213e231
+SHA512: 7e3e7cc202c42e7a9320b00b82a6648a59eb76556bd5697b467035dab82b47ed009beef6ed4fb2b14ea51a0a32af9caec6129df4b682621f3a29f8a8a34a7d54
+Description: 使用spark-wine9-wow64运行的红色警戒2:兵临城下4
+
 Package: fairdyne
 Architecture: amd64
 Version: 1.5
@@ -24342,6 +24440,22 @@ Description: 一款漂亮实用的笔记软件，由sgb76打包
 
 Package: md.obsidian.spark
 Architecture: amd64
+Version: 1.6.7spark14
+Priority: optional
+Section: editors
+Maintainer: sgb76 <sgb76@163.com>
+Filename: office/md.obsidian.spark/md.obsidian.spark_1.6.7spark14_amd64.deb
+Size: 81956868
+MD5sum: 5e7f56df4957e5b3507ff8e6c714d937
+SHA1: 4b5bd9ede4c0847b05c285c229d244a76bf82f26
+SHA256: 5d11e3ab91537606764d433f5aafbd2a940a063e242c09c0278b9631e735ec53
+SHA512: 9c3456ffdc7de9d66fb3d8e565e867fc52ef3dd0d98083bb44e3b8b7ec42fb42088baa24a01a6592847572af84f4b1c88d845a778bd3a504e93b65e9a90254bf
+Homepage: https://obsidian.md/
+Description: Obsidian
+ Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+
+Package: md.obsidian.spark
+Architecture: amd64
 Version: 1.6.3spark13
 Priority: optional
 Section: editors
@@ -26463,6 +26577,38 @@ MD5sum: 373d43fff0fd43e2e908b76390debf73
 SHA1: 3e57a316a91d931b9fb1fd28ee38f4196b77f33a
 SHA256: 3846a715c79562c711b12467223059de7b26f1ac064ba2c04e6948bfdf8e6428
 SHA512: 064204bdd0cb9a9eed00a97d60cbc51ce1a50a76d66a348946f693b5993bccddd6c0c18bd08c63a78605233a1d1a9ec53cb8c85d009edfb195b518738f5dd859
+Homepage: http://wps-community.org
+Description: WPS Office, is an office productivity suite.
+ WPS Office including Writer, Presentation
+ and Spreadsheets, is a powerful office suite, which is able to process
+ word file, produce wonderful slides, and analyze data as well. It is
+ deeply compatible with all of the latest Microsoft Office file formats. 
+ It can easily open and read the documents created with Microsoft Office.
+ This is the Linux version, and it's now a TESTING package.
+ Welcome to our website: http://wps-community.org
+Name: wps-office
+Relocations: /opt/kingsoft
+
+Package: wps-office
+Architecture: amd64
+Version: 11.1.0.11723-ACETuu
+Multi-Arch: foreign
+Priority: optional
+Section: editors
+Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
+Installed-Size: 1630552
+Depends: libc6 (>= 2.15) | libc6.1, libstdc++6 (>= 4.6), libfreetype6 (>= 2.4),
+         libcups2, libglib2.0-0, libglu1-mesa,
+         libsm6, libxrender1, libfontconfig1,
+         libxext6, libxcb1, libbz2-1.0
+Recommends: ttf-mscorefonts-installer
+Replaces: kingsoft-office
+Filename: office/wps-office/wps-office_11.1.0.11723-ACETuu_amd64.deb
+Size: 449467208
+MD5sum: ac08c50627c349d241aab081c4606d5a
+SHA1: 119dbe577b0282d4c7cd6da4cef0b2473c38f282
+SHA256: 3b0b4f0ad596cfa04b4f9de927c8d4e7ae1f96a148fd0c6e7c99c9bdf84ade2f
+SHA512: c14924899a18674fbb5aa0b4ff9ebb75238c042b677b923bc88b2b4a4ecc87c452f22780791a128e1675a16713611af9eed84aab1b6daf2856a2168229fad8ab
 Homepage: http://wps-community.org
 Description: WPS Office, is an office productivity suite.
  WPS Office including Writer, Presentation
@@ -30703,6 +30849,25 @@ Homepage: https://anydesk.com/
 Description: The fastest remote desktop software on the market.
   It allows for new usage scenarios and applications that have not been possible with current remote desktop software.
 
+Package: anydesk
+Architecture: amd64
+Version: 6.3.2
+Priority: optional
+Section: net
+Maintainer: AnyDesk Software GmbH <linux-support@anydesk.com>
+Installed-Size: 16794
+Depends: libc6 (>= 2.7), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.20.1), libstdc++6 (>= 4.1.1), libx11-6, libxcb-shm0, libxcb1, libpango-1.0-0, libcairo2, libxrandr2 (>= 1.3), libx11-xcb1, libxtst6, libxfixes3, libxdamage1, libxkbfile1, libgtkglext1
+Recommends: libglx-mesa0, xdg-utils
+Filename: network/anydesk/anydesk_6.3.2_amd64.deb
+Size: 7022112
+MD5sum: 264cd9916cf922502edaeb788b4d0f3d
+SHA1: bc5df948ffcd5b73b5f92c5fd718335795eacedc
+SHA256: 2bc739676672b531e91d50f302c6ea8ad6b1612dc499d1d2f83b21a4c852658d
+SHA512: 2a0b15fbfb93ea9505016b8906d98c8b7bda49e94fc281d66c83eb757b80ea7a7e6e7a7d257c57a2546a9c1bf74b87b5589271b88a4d5ada2e18cfa41ea6be72
+Homepage: https://anydesk.com/
+Description: The fastest remote desktop software on the market.
+  It allows for new usage scenarios and applications that have not been possible with current remote desktop software.
+
 Package: uengine-dc-com.taobao.taobao
 Architecture: all
 Version: 10.19.0
@@ -34930,6 +35095,25 @@ MD5sum: ac2a3aa3e374b5c43ac854b233561355
 SHA1: 7476aaf77147b190fd7e305af33fa9cbc5728649
 SHA256: b6f4505697f2947b19807ba9dcb646b142d59c3a0127a964097c8ecdfba3e797
 SHA512: 3944ae4b461ff17fd0411b0c3d890840b8e0a35b94db1bbdb6a5df8083ac8110c24b98427113cb3685259cf2d3aca42fefd9f243b344195f7dbea976564b31f6
+Homepage: https://github.com/QQxiaoming/quardCRT
+Description: quardCRT tools
+
+Package: quardcrt
+Architecture: amd64
+Version: 0.48
+Priority: extra
+Section: utils
+Source: quardcrt
+Maintainer: QQxiaoming <2014500726@smail.xtu.edu.cn>
+Installed-Size: 157304
+Depends:
+Recommends:
+Filename: development/quardcrt/quardcrt_0.48_amd64.deb
+Size: 52801584
+MD5sum: 8902d710c6f051fad9e7f5c72b3fe36c
+SHA1: b3273a59c8ebcba64553e6116adb703ec3e0efd2
+SHA256: e2fd98f7f3b4a5de9009c2b549ac13f6721a846f046a33162e4a041885cab3da
+SHA512: 25e4f1deb6a1928034fee48e19dfebab5ec0e777b29e80a46e58c9b6cb5ef20626517610c28b8fff2ace959ab65f71fdf43b595fdf3b329d9a08b41c28fa6a28
 Homepage: https://github.com/QQxiaoming/quardCRT
 Description: quardCRT tools
 
