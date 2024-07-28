@@ -11779,24 +11779,6 @@ Description: 酷狗概念版, Build By UEngine Runner Packager
 
 Package: com.163.music.spark
 Architecture: amd64
-Version: 3.0.1.202031spark12
-Priority: optional
-Section: video
-Maintainer: sgb76 <sgb76@163.com>
-Installed-Size: 169128
-Depends: deepin-wine8-stable, spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei, ms-core-fonts | ms-core-fonts:i386 | ms-core-fonts:all
-Filename: music/com.163.music.spark/com.163.music.spark_3.0.1.202031spark12_amd64.deb
-Size: 172957660
-MD5sum: e080e1398b77ab34fab93e41065c88b2
-SHA1: b2f0ccb0cb25911709687f0edf5f57b4199f9c54
-SHA256: db911a07102f4b8340efda8dfceab64120b747d77b110ec262dfc20337883d85
-SHA512: 90b9e1cde96eec0c518ecbd19cff35bec9e4d94b6b7a46e8900deb1b2e462b666c23f03604c585f04ed153729252085900f2295f3c07edbf54457023684e9896
-Homepage: https://music.163.com/
-Description: Netease CloudMusic Client
- Netease CloudMusic Client on spark Wine
-
-Package: com.163.music.spark
-Architecture: amd64
 Version: 3.0.1.202031spark12.1
 Priority: optional
 Section: video
@@ -22735,20 +22717,20 @@ Description: 欢迎使用云看盘软件
 
 Package: cn.wps.wps-office-pro
 Architecture: amd64
-Version: 11.8.2.1132.AK.preload.sw.withsn
+Version: 12.8.2.1113.AK.preload.sw
 Multi-Arch: foreign
 Priority: optional
 Section: editors
 Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
-Installed-Size: 1863260
+Installed-Size: 2104120
 Depends: libc6 (>= 2.15) | libc6.1, libfreetype6 (>= 2.4),         libcups2, libglib2.0-0, libglu1-mesa,         libsm6, libxrender1, libfontconfig1,         libxext6, libxcb1, libbz2-1.0, deepin-elf-verify (>= 1.1.10-1)
 Replaces: kingsoft-office
-Filename: office/cn.wps.wps-office-pro/cn.wps.wps-office-pro_11.8.2.1132.AK.preload.sw.withsn_amd64.deb
-Size: 537042486
-MD5sum: f384f2a35d0cf12c557f21195fb76c4c
-SHA1: ed3040b9cb8b810abab5758886c5098d77726e12
-SHA256: fae63d70e327bec99450954032290b751ffd47f842fe73a1fc959117f4941e82
-SHA512: ffca4512d03f2a6fe689a9d426f72daa2f09320e21d8c361bfc8b54e75db95a2038e3c3d3fb16fea513067881ec10478bf57c59c3b296369802b889652864702
+Filename: office/cn.wps.wps-office-pro/cn.wps.wps-office-pro_12.8.2.1113.AK.preload.sw_amd64.deb
+Size: 593583454
+MD5sum: adeb7130e46b39316e5780c086018c32
+SHA1: ebf1d8a70337dc8ccb605fc154f7e204be057b19
+SHA256: d3649d042145173fb818b9f377e3563938d85da2f99cacbc7dcec0dff81d4a0d
+SHA512: e2a38543ff71c7838e221c227acef2a0ea6014583c1e2b26dd053769b909bc689f508f0e1947ed38dcc0f66012bfd89b43d0804df4dbe10b66fadc8011f27b11
 Homepage: http://wps-community.org
 Description: WPS Office, is an office productivity suite. WPS Office including Writer, Presentation and Spreadsheets, is a powerful office suite, which is able to process word file, produce wonderful slides, and analyze data as well. It is deeply compatible with all of the latest Microsoft Office file formats.  It can easily open and read the documents created with Microsoft Office. This is the Linux version, and it's now a TESTING package. Welcome to our website: http://wps-community.org
 Name: wps-office

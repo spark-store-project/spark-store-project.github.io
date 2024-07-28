@@ -472,22 +472,6 @@
 
 ,
 {
-    "Name": "PulseEffects 音效切换器",
-    "Version": "1.0b20201224",
-    "Filename": "com.xretia.petray_1.0b20201224_all.deb",
-    "Pkgname": "com.xretia.petray",
-    "Author": "dfc643",
-    "Contributor": "dfc643",
-    "Website": "https://gitlab.com/dfc643/pulseeffectstray/",
-    "Update": "2020-12-24 06:42:58",
-    "Size": "290.22 KB",
-    "More": "兼容 PulseEffects 4.x ，不兼容深度商店的老版本，安装完成后在主菜单中右键图标选开机自动启动即可。\n\nPulseEffects 4.x 安装教程：https://bbs.deepin.org/post/208571\n\n1.0b20201224\n使用 PyQt 重写以适配 DTK\n添加左键点击图标快速禁用启动音效\n添加切换音效时显示通知\n添加打开 PulseEffects 入口\n添加简体中文、繁体中文、日语、英语支持\n优化图标大小",
-    "Tags": "community;deepin;uos;dtk5;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/22ce4ca0-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/27731c90-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/28ec4f10-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2ab88390-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2d419f70-45b3-11eb-9068-bf202cae3933.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/24/1dd73e00-45b3-11eb-9068-bf202cae3933.png"
-}
-,
-{
     "Name": "音频格式转换器（Sound Converter）",
     "Version": "3.0.1-2",
     "Filename": "uos.app.soundconverter_3.0.1-2_all.deb",
@@ -501,6 +485,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/741d96a0-5b20-11ec-b375-49e92b822e8f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/7123dea0-5b20-11ec-b375-49e92b822e8f.png"
+}
+,
+{
+    "Name": "PulseEffects 音效切换器",
+    "Version": "1.0b20201224",
+    "Filename": "com.xretia.petray_1.0b20201224_all.deb",
+    "Pkgname": "com.xretia.petray",
+    "Author": "dfc643",
+    "Contributor": "dfc643",
+    "Website": "https://gitlab.com/dfc643/pulseeffectstray/",
+    "Update": "2020-12-24 06:42:58",
+    "Size": "290.22 KB",
+    "More": "兼容 PulseEffects 4.x ，不兼容深度商店的老版本，安装完成后在主菜单中右键图标选开机自动启动即可。\n\nPulseEffects 4.x 安装教程：https://bbs.deepin.org/post/208571\n\n1.0b20201224\n使用 PyQt 重写以适配 DTK\n添加左键点击图标快速禁用启动音效\n添加切换音效时显示通知\n添加打开 PulseEffects 入口\n添加简体中文、繁体中文、日语、英语支持\n优化图标大小",
+    "Tags": "community;deepin;uos;dtk5;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/22ce4ca0-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/27731c90-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/28ec4f10-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2ab88390-45b3-11eb-9068-bf202cae3933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/24/2d419f70-45b3-11eb-9068-bf202cae3933.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/24/1dd73e00-45b3-11eb-9068-bf202cae3933.png"
 }
 ,
 {
@@ -654,23 +654,6 @@
 }
 ,
 {
-    "Name": "Lyricify 4",
-    "Version": "4.2.28.240502-release-wpack240503.01",
-    "Filename": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb",
-    "Torrent_address": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb.torrent",
-    "Pkgname": "com.wxriw.lyricify4",
-    "Author": "WXRIW <wxriw@foxmail.com>",
-    "Contributor": "Sheng Fan",
-    "Website": "https://github.com/WXRIW/Lyricify-App",
-    "Update": "2024-05-03 19:55:14",
-    "Size": "908.69 MB",
-    "More": "More than lyrics 不仅有歌词",
-    "Tags": "community;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/95bc45d6bbb64c088a64f617fe9c1122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/526ece2c06b14e5a8eeb0b0e53328aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/21193eb5408b4165a7fc8dcbdbd5789e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/62aeff5a81804ab49fcd01f3af34edbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/41aa2d3e5b5048108d3be6dbbcd86a6e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/cda9da7c46784982add7568172dcdab6.png"
-}
-,
-{
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "org.musescore.spark_4.1.0.231921359_amd64.deb",
@@ -687,6 +670,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "Lyricify 4",
+    "Version": "4.2.28.240502-release-wpack240503.01",
+    "Filename": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb",
+    "Torrent_address": "com.wxriw.lyricify4_4.2.28.240502-release-wpack240503.01_amd64.deb.torrent",
+    "Pkgname": "com.wxriw.lyricify4",
+    "Author": "WXRIW <wxriw@foxmail.com>",
+    "Contributor": "Sheng Fan",
+    "Website": "https://github.com/WXRIW/Lyricify-App",
+    "Update": "2024-05-03 19:55:14",
+    "Size": "908.69 MB",
+    "More": "More than lyrics 不仅有歌词",
+    "Tags": "community;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/95bc45d6bbb64c088a64f617fe9c1122.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/526ece2c06b14e5a8eeb0b0e53328aed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/21193eb5408b4165a7fc8dcbdbd5789e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/62aeff5a81804ab49fcd01f3af34edbf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/03/41aa2d3e5b5048108d3be6dbbcd86a6e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/03/cda9da7c46784982add7568172dcdab6.png"
+}
 ,
 {
     "Name": "musicyou",
@@ -1001,20 +1001,6 @@
 }
 ,
 {
-   "Name":"Chord弦音乐",
-   "Version":"0.2.29-174",
-   "Filename":"chord-0.2.29-linux-amd64.deb",
-   "Pkgname":"chord",
-   "Author":" ",
-   "Contributor":"神末shenmo",
-   "Website":" ",
-   "Update":"2020-06-29 10:46",
-   "Size":"78.47MB",
-   "More":"美观高效，弦音乐。来自github的投稿"
-}
-
-,
-{
     "Name": "易谱",
     "Version": "2.6.0.3",
     "Filename": "ziipoo_2.6.0.3_amd64.deb",
@@ -1030,6 +1016,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/777c1c6c0f4c4a2aa5891345a5731e89.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/b907620386c647b4899de3f985dab7b5.png"
 }
+,
+{
+   "Name":"Chord弦音乐",
+   "Version":"0.2.29-174",
+   "Filename":"chord-0.2.29-linux-amd64.deb",
+   "Pkgname":"chord",
+   "Author":" ",
+   "Contributor":"神末shenmo",
+   "Website":" ",
+   "Update":"2020-06-29 10:46",
+   "Size":"78.47MB",
+   "More":"美观高效，弦音乐。来自github的投稿"
+}
+
 ,
 {
     "Name": "Helio调音工作站",
