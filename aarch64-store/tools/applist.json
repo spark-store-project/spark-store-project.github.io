@@ -2,18 +2,18 @@
 {
     "Author": "gfdgd xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner_4.0.0_all.deb",
+    "Filename": "spark-deepin-wine-runner_4.0.0.2_all.deb",
     "More": "Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序，内置了对Wine图形化的支持、各种Wine工具、自制的Wine程序打包器和运行库安装工具等。\n它同时还内置了基于VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作。\n\n一个图形化了如下命令的程序（最简单格式）\nenv WINEPREFIX=容器路径 wine（wine的路径） 可执行文件路径\n让你可以简易方便的使用 wine\n\nWine 运行器 QQ 交流群：762985460",
-    "Name": "Wine运行器 4.0.0",
+    "Name": "Wine运行器 4.0.0.2",
     "Pkgname": "spark-deepin-wine-runner",
-    "Size": "57 Mb",
+    "Size": "67 Mb",
     "Tags": "community;deepin;uos;ubuntu;dtk5;dwine2;dwine5",
-    "Torrent_address": "spark-deepin-wine-runner_4.0.0_all.deb.torrent",
-    "Update": "2024-07-22 10:37:44",
-    "Version": "4.0.0",
+    "Torrent_address": "spark-deepin-wine-runner_4.0.0.2_all.deb.torrent",
+    "Update": "2024-07-29 18:31:17",
+    "Version": "4.0.0.2",
     "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_4.png\"]"
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner/screen_5.png\"]"
 }
 
 ,
@@ -516,24 +516,6 @@
 
 ,
 {
-    "Author": "MT管理器",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
-    "More": "Android 平台文件管理 & 逆向修改神器",
-    "Name": "MT管理器（UEngine）",
-    "Pkgname": "uengine-dc-bin.mt.plus",
-    "Size": "18 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "uengine-dc-bin.mt.plus_2.12.3_all.deb.torrent",
-    "Update": "2023-03-05 21:05:25",
-    "Version": "2.12.3",
-    "Website": "https://mt2.cn/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.6.4.2-5.3.14_all.deb",
@@ -548,6 +530,24 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "MT管理器",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "uengine-dc-bin.mt.plus_2.12.3_all.deb",
+    "More": "Android 平台文件管理 & 逆向修改神器",
+    "Name": "MT管理器（UEngine）",
+    "Pkgname": "uengine-dc-bin.mt.plus",
+    "Size": "18 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "uengine-dc-bin.mt.plus_2.12.3_all.deb.torrent",
+    "Update": "2023-03-05 21:05:25",
+    "Version": "2.12.3",
+    "Website": "https://mt2.cn/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uengine-dc-bin.mt.plus/screen_2.png\"]"
 }
 
 ,
@@ -588,6 +588,24 @@
 
 ,
 {
+    "Author": "phytium",
+    "Contributor": "phytium",
+    "Filename": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb",
+    "More": "PhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。 ",
+    "Name": "飞腾Phyvirt虚拟化套件 UOS版",
+    "Pkgname": "cn.com.phytium.phyvirt",
+    "Size": "125 Mb",
+    "Tags": "uos",
+    "Torrent_address": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb.torrent",
+    "Update": "2024-05-16 14:57:57",
+    "Version": "1.5.5.0",
+    "Website": "https://www.phytium.com.cn/developer/39/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
+}
+
+,
+{
     "Author": "zinface <zinface@163.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "z-tools-speedwidget_0.1-20230129_arm64.deb",
@@ -620,24 +638,6 @@
     "Website": "https://github.com/debuggerx01/fcitx5_customizer",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.debuggerx.fcitx5-customizer/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "phytium",
-    "Contributor": "phytium",
-    "Filename": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb",
-    "More": "PhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。 ",
-    "Name": "飞腾Phyvirt虚拟化套件 UOS版",
-    "Pkgname": "cn.com.phytium.phyvirt",
-    "Size": "125 Mb",
-    "Tags": "uos",
-    "Torrent_address": "cn.com.phytium.phyvirt_1.5.5.0_arm64.deb.torrent",
-    "Update": "2024-05-16 14:57:57",
-    "Version": "1.5.5.0",
-    "Website": "https://www.phytium.com.cn/developer/39/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
 }
 
 ,
@@ -876,6 +876,24 @@
 
 ,
 {
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb",
+    "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
+    "Name": "Android - adb/fastboot 测试工具",
+    "Pkgname": "android-adb-fastboot-tools",
+    "Size": "138 Kb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb.torrent",
+    "Update": "2023-03-08 22:30:34",
+    "Version": "0.3.2-20230308",
+    "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
+}
+
+,
+{
     "Author": "Dylan Aïssi <daissi@debian.org>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus_2_all.deb",
@@ -894,20 +912,20 @@
 
 ,
 {
-    "Author": "zinface <zinface@163.com>",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb",
-    "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
-    "Name": "Android - adb/fastboot 测试工具",
-    "Pkgname": "android-adb-fastboot-tools",
-    "Size": "138 Kb",
-    "Tags": "community;deepin;ubuntu",
-    "Torrent_address": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb.torrent",
-    "Update": "2023-03-08 22:30:34",
-    "Version": "0.3.2-20230308",
-    "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "290 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
+    "Update": "2024-06-29 17:33:54",
+    "Version": "9.0.1runner1~buster",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
 }
 
 ,
@@ -944,24 +962,6 @@
     "Website": "https://gitee.com/zinface/linuxqq-autoservice",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/linuxqq-autoservice/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/linuxqq-autoservice/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "290 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
-    "Update": "2024-06-29 17:33:54",
-    "Version": "9.0.1runner1~buster",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
 }
 
 ,

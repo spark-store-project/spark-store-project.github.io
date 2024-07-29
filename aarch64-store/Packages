@@ -2943,6 +2943,68 @@ Certainty: possible
 Check: binaries
 Type: binary, udeb
 
+Package: spark-deepin-wine-runner
+Architecture: all
+Version: 4.0.0.2
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 196396
+Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
+Depends: python3, 
+ python3-pil | pillow, 
+ python3-pil.imagetk | pillow, 
+ aria2, 
+ curl, 
+ unrar | unrar-free , 
+ unzip, 
+ python3-requests, 
+ python3-pyqt5 | pyqt5, 
+ python3-psutil | pypsutil, 
+ xfce4-terminal | deepin-terminal-gtk | deepin-terminal | mate-terminal | gnome-terminal, 
+ python3-dbus, 
+ python3-pip | pip, p7zip-full | p7zip-legacy | p7zip, 
+ sudo, 
+ python3-pyperclip | pyperclip, 
+ bubblewrap, 
+ zenity, 
+ tree, 
+ dpkg, 
+ fakeroot,
+ bash
+Recommends: winbind, 
+ wimtools | wimlib, 
+ python3-pyquery, 
+ python3-pyqt5.qtwebengine | pyqtwebengine, 
+ binfmt-support, 
+ libc6:i386, 
+ libc6:armhf, 
+ libwine, 
+ qemu-system, 
+ qemu-full, 
+ qemu,
+ alien, 
+ spark-deepin-wine-runner-qemu-system-extra, 
+ deepin-wine8-stable | spark-wine | spark-wine9 | spark-wine9-wow | spark-wine8 | spark-wine8-wow | spark-wine7-devel | deepin-wine6-stable | deepin-wine5-stable | deepin-wine5 | deepin-wine | wine, 
+ spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin
+Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux, termux-exec
+Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
+Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_4.0.0.2_all.deb
+Size: 67553920
+MD5sum: f0b86488374626a9a648a96d616ecfea
+SHA1: 82333cdaff2b6ada2cccce8d2c5ca77a62be30db
+SHA256: 79ca5fab31fb4f25620c068dbdc2df83d2a707868fe7c2c164fafa08da9f0759
+SHA512: 7f62babcd59dcf9ceff21aca81718387ae04b9853f24b8171ca5415f440788b1efbf83f1232c95fc736b7dc77577a079ec96fa68a784bd9c9c6ed58b1355d863
+Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
+Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
+ 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
+ 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
+ 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
+Severity: serious
+Certainty: possible
+Check: binaries
+Type: binary, udeb
+
 Package: grsync
 Architecture: arm64
 Version: 1.3.0-1
@@ -4894,6 +4956,45 @@ SHA512: 5aec6891165ab1be7cdcf3a2e3b9878b4d954fb3febd94e3fc21c70b4f7250d19dbf0682
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
 
+Package: com.tdx.tdxcfv
+Architecture: arm64
+Version: 7.64
+Priority: optional
+Section: utils
+Maintainer: tdx <nie@tdx.com.cn>
+Installed-Size: 690205
+Depends: deepin-elf-verify, libc6 (>= 2.23), libstdc++6, libfreetype6 (>= 2.6.1), libx11-6, libxext6, libasound2 (>= 1.0.16), libfontconfig1 (>= 2.11.94), libxss1, libx11-xcb1, libnspr4, libnss3, libgtk2.0-0, libxtst6, libpng16-16
+Filename: others/com.tdx.tdxcfv/com.tdx.tdxcfv_7.64_arm64.deb
+Size: 142447716
+MD5sum: 7d23db179c90ba445a2f6525a62d72a4
+SHA1: 4c4bdf319599dfedf1291fbdba0fd7196a9feee7
+SHA256: 42deeb7a8ae7f755e0a2095b0350682e71eef1bf76b05ce144f48ec37df2db69
+SHA512: da2560ecd711ac30c6069c39d2bb002249d55dad5e299be4765e366f471b2177341e2fcd6db5b67eeaf70ed0c6df8ce4067d7be672f2f3d4efd88507ce15d576
+Homepage: http://www.tdx.com.cn
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
+Package: arise-linux-graphics-driver-dri
+Architecture: arm64
+Version: 25.00.32
+Multi-Arch: same
+Priority: optional
+Section: restricted/misc
+Maintainer: Glenfly Tech Co., Ltd.
+Installed-Size: 62488
+Pre-Depends: libgl1-mesa-glx | libglx-mesa0, dkms (>= 1.95), libgbm1, libglvnd0, libwayland-client0, libwayland-server0, libwayland-egl1
+Depends: libc6(>=2.14),libdrm2(>=2.3.1),libx11-6(>=2:1.4.99.1),libx11-xcb1,libxcb-dri2-0(>=1.8),libxcb-dri3-0,libxcb-glx0(>=1.8),libxcb-present0,libxcb-sync1,libxcb1(>=1.9.2),libxdamage1(>=1:1.1),libxext6,libxfixes3,libxshmfence1,libxcb-randr0,libxcb-render0,libxcb-shape0,libxcb-xfixes0, deepin-elf-verify (>= 1.1.10-1)
+Conflicts: gf-arise-linux-graphics-driver-dri
+Replaces: gf-arise-linux-graphics-driver-dri
+Filename: others/arise-linux-graphics-driver-dri/arise-linux-graphics-driver-dri_25.00.32_arm64.deb
+Size: 13073178
+MD5sum: 41f7d290e917ca27e05bd1bbd7c99a31
+SHA1: f23519f928052c9c05eb31e8e689675856f0c689
+SHA256: 2d536c11786df43085ac6b690a60876271ffec28ada53b85f38d5e476778ab2f
+SHA512: a6092d97d5072d1d2c7380d7dfb49cefea60a6d3d77e3dddd46d3eb2b7d87c77b114cc129b1b78a0e62c009e1168e7e4c610ea4cf1daf85565ede94e18127aef
+Homepage: https://www.glenfly.com
+Description: Glenfly Tech Co., Ltd. Graphics drivers
+
 Package: winfonts
 Architecture: all
 Version: 1.3
@@ -5107,6 +5208,23 @@ SHA1: 8368ff41b3dce2d18f1fc753b64be8b58d84f332
 SHA256: 1bd7dc72d459823de43a6300ee5810d4018f2bf5c65be9fb4f50b3b3f700e76d
 SHA512: 2f0c27220b369c0be330231c011496bcc18b2e7963f3c57dd2a1657b4e6caac5e50049fc5786630f12aa0f0dca5a2e5f54536ad3b7ff0b1361ef4ca13135357a
 Description: ltmx.doushouqi.linux Software Package created by Appimage2Deb
+
+Package: com.pvzrh.spark
+Architecture: all
+Version: 1.3spark0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 124859
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepinwinerunner, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pvzrh.spark/com.pvzrh.spark_1.3spark0_all.deb
+Size: 124875992
+MD5sum: 7a5af4bbe5136436297a5e777f0d7fbf
+SHA1: 6eed98b0a68f20d4aa86829bcbf05cb3e73036ce
+SHA256: f9e28de06c0f82544beb06529dd6d82b208719bf06087387ff27a58685b84f0a
+SHA512: 7ed5c10c79a59dd3e39142312fc4173682572e7b5ca32420f078fdc562285dbe1764093fc87682b5cf6d2789737bc3110367ff5e545fc3f329caac65ede6048a
+Description: 植物大战僵尸融合版 for wine
 
 Package: com.rovio.badpiggies.dcs
 Architecture: all
@@ -5435,6 +5553,23 @@ SHA1: 23be62272201f11f620729224b2113951d9fd67c
 SHA256: 623c5a9c217574dbf121bae36475cb8564902272ec25236fe6cf184692f0a203
 SHA512: 552ca79257b77265842f111db36f49e8565521ddf3fd54c298643e4ab28ab85b49b8470ecdb08f9579b9a7d6056f1b45d6e9675c174afdf94257bd8bfb0787eb
 Description: 植物大战僵尸改版《胆小菇之梦》第一大关，同时打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。
+
+Package: com.pvzhz.spark
+Architecture: all
+Version: 2.3spark0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 341322
+Depends: spark-wine, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepinwinerunner, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.3spark0_all.deb
+Size: 341357128
+MD5sum: 73674fb2e82365ac64f2d86e935a4370
+SHA1: c109bfadd5ee015e8213e9df0457b0f215d208f7
+SHA256: b8fed52846d5262fa8eb64ec7cf514ab65451ba1085c7aed3a86fd4161a5b0cf
+SHA512: 337ec9724cc855173b02bee8a56a5b59938c117e0ca6d1c84b8484b1d5ca954b6be4ead4ac2fa74eab90ed7bbd157d812012a1d4e9de20a5bd1e45ebeca39c4d
+Description: 植物大战僵尸杂交版 for spark wine
 
 Package: com.pvzhz.spark
 Architecture: all
