@@ -440,19 +440,19 @@
 ,
 {
     "Name": "微信开发者工具 Linux版",
-    "Version": "1.06.2405020-1",
-    "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb",
-    "Torrent_address": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb.torrent",
+    "Version": "1.06.2405020-2",
+    "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-2_amd64.deb",
+    "Torrent_address": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-2_amd64.deb.torrent",
     "Pkgname": "io.github.msojocs.wechat-devtools-linux",
     "Author": "msojocs",
-    "Contributor": "mozixun <ronforever@outlook.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://github.com/msojocs/wechat-web-devtools-linux",
-    "Update": "2024-07-12 15:20:45",
-    "Size": "199.03 MB",
+    "Update": "2024-07-30 08:38:09",
+    "Size": "199.45 MB",
     "More": "本项目是一个完整的搭建Linux下可用的“微信开发者工具”的脚本和工具集， 用于在Linux下的GNOME桌面上搭建可以持续更新和使用的“微信开发者工具”。\n本项目修改自：https://githubfast.com/dragonation/wechat-devtools/",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/e55c0fdceb584602a3aa6899d7a27ee5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/51d2d517a4e043a09c06a115de49e2f9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/2a00f563ad8140fd936cd563b76470da.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/964c4f05f90644678f1e8a5804c93734.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/30/b7a037aae48642c691a3f039bc4045c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/30/240965ff134846498534bef6e262efe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/30/f9e7742189f240b78ca02bde4a1b963c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/30/3b12428e68914ae9ba9c42307cf0f003.png"
 }
 ,
 {
@@ -761,22 +761,6 @@
 }
 ,
 {
-    "Name": "mongodb-compass",
-    "Version": "1.29.0",
-    "Filename": "mongodb-compass_1.29.0_amd64.deb",
-    "Pkgname": "mongodb-compass",
-    "Author": "mongodb",
-    "Contributor": "hernay",
-    "Website": "https://compass.mongodb.com",
-    "Update": "2021-11-12 11:54:34",
-    "Size": "68.64 MB",
-    "More": "MongoDB官方连接数据库软件。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/12/f6e558b0-436b-11ec-8461-b7129e4d4ed8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/12/adc9fbe0-436b-11ec-8461-b7129e4d4ed8.png"
-}
-,
-{
     "Name": "通义千问（5亿参数版）",
     "Version": "0.15.1",
     "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
@@ -791,6 +775,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/59d3cf690c4b455a996dba3ea142d6fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/7e70dbd9327149b58832fbbd6e1bc7e2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/d080f1859222440b9489046cdb6da95d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/f82f8f626b8540d182c9f3841cfe04f5.png"
+}
+,
+{
+    "Name": "mongodb-compass",
+    "Version": "1.29.0",
+    "Filename": "mongodb-compass_1.29.0_amd64.deb",
+    "Pkgname": "mongodb-compass",
+    "Author": "mongodb",
+    "Contributor": "hernay",
+    "Website": "https://compass.mongodb.com",
+    "Update": "2021-11-12 11:54:34",
+    "Size": "68.64 MB",
+    "More": "MongoDB官方连接数据库软件。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/12/f6e558b0-436b-11ec-8461-b7129e4d4ed8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/12/adc9fbe0-436b-11ec-8461-b7129e4d4ed8.png"
 }
 ,
 {
@@ -894,23 +894,6 @@
 }
 ,
 {
-    "Name": "GitKraken",
-    "Version": "9.11.1",
-    "Filename": "gitkraken_9.11.1_amd64.deb",
-    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
-    "Pkgname": "gitkraken",
-    "Author": "GitKraken",
-    "Contributor": "liuyuankai",
-    "Website": "https://www.gitkraken.com/",
-    "Update": "2024-01-20 15:41:35",
-    "Size": "132.48 MB",
-    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
-}
-,
-{
     "Name": "海龟编辑器",
     "Version": "0.1.3",
     "Filename": "cn.codemao.wood_0.1.3_amd64.deb",
@@ -925,6 +908,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/f13739abcebf47d7a96bc5efae2383e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/082973b24d3645c5922317bd4158a18f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/2b75ab8ba96346cf904c9f5ab1e7505f.png"
+}
+,
+{
+    "Name": "GitKraken",
+    "Version": "9.11.1",
+    "Filename": "gitkraken_9.11.1_amd64.deb",
+    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
+    "Pkgname": "gitkraken",
+    "Author": "GitKraken",
+    "Contributor": "liuyuankai",
+    "Website": "https://www.gitkraken.com/",
+    "Update": "2024-01-20 15:41:35",
+    "Size": "132.48 MB",
+    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
 }
 ,
 {
@@ -1240,23 +1240,6 @@
 }
 ,
 {
-    "Name": "Beekeeper Studio",
-    "Version": "3.8.9",
-    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
-    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
-    "Pkgname": "beekeeper-studio",
-    "Author": "Beekeeper Studio Team",
-    "Contributor": "sgb76",
-    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
-    "Update": "2023-02-06 18:12:38",
-    "Size": "69.81 MB",
-    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
-}
-,
-{
     "Name": "Geany",
     "Version": "1.38-1",
     "Filename": "geany_1.38-1_amd64.deb",
@@ -1271,6 +1254,23 @@
     "Tags": "ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
+}
+,
+{
+    "Name": "Beekeeper Studio",
+    "Version": "3.8.9",
+    "Filename": "beekeeper-studio_3.8.9_amd64.deb",
+    "Torrent_address": "beekeeper-studio_3.8.9_amd64.deb.torrent",
+    "Pkgname": "beekeeper-studio",
+    "Author": "Beekeeper Studio Team",
+    "Contributor": "sgb76",
+    "Website": "https://github.com/beekeeper-studio/beekeeper-studio#readme",
+    "Update": "2023-02-06 18:12:38",
+    "Size": "69.81 MB",
+    "More": "Beekeeper Studio是一款可用于Linux、Mac和Windows的跨平台SQL编辑器和数据库管理器。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
 }
 ,
 {
@@ -1689,23 +1689,6 @@
 }
 ,
 {
-    "Name": "netbeans",
-    "Version": "17-1",
-    "Filename": "apache-netbeans_17-1_all.deb",
-    "Torrent_address": "apache-netbeans_17-1_all.deb.torrent",
-    "Pkgname": "apache-netbeans",
-    "Author": "Apache Software Foundation",
-    "Contributor": "freeor",
-    "Website": "https://netbeans.apache.org/",
-    "Update": "2023-03-11 11:02:27",
-    "Size": "382.05 MB",
-    "More": "开发环境、工具平台和应用程序框架。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
-}
-,
-{
     "Name": "quardCRT",
     "Version": "0.48",
     "Filename": "quardcrt_0.48_amd64.deb",
@@ -1720,6 +1703,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/be5cb579c75842b1a459935b463f6e87.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/f28587ebd2e44e0eb066b4ab76275d57.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/b492927e3a454423bd7753658bc3ca7b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/f6b907c291fa4e8e8e7a8ae4e165e2f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/0c60cb8400b24deea8ed4b4414154735.png"
+}
+,
+{
+    "Name": "netbeans",
+    "Version": "17-1",
+    "Filename": "apache-netbeans_17-1_all.deb",
+    "Torrent_address": "apache-netbeans_17-1_all.deb.torrent",
+    "Pkgname": "apache-netbeans",
+    "Author": "Apache Software Foundation",
+    "Contributor": "freeor",
+    "Website": "https://netbeans.apache.org/",
+    "Update": "2023-03-11 11:02:27",
+    "Size": "382.05 MB",
+    "More": "开发环境、工具平台和应用程序框架。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f647c620-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f66c8c30-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f65a15a0-bfb8-11ed-9b62-5f2349990689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/11/f67f29d0-bfb8-11ed-9b62-5f2349990689.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/11/bd7fcb30-bfb8-11ed-9b62-5f2349990689.png"
 }
 ,
 {

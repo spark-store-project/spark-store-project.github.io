@@ -15871,7 +15871,7 @@ Description: some Simplified Chinese resume document templates for WPS Office Wr
 
 Package: com.hp.hplip
 Architecture: amd64
-Version: 3.23.5.2
+Version: 3.24.1.1
 Priority: optional
 Section: office tool
 Maintainer: HPLIP
@@ -15879,12 +15879,12 @@ Installed-Size: 56300
 Provides: com.hp.hplip
 Depends: libusb-1.0-0,libexpat1,libjpeg62-turbo,libcups2,libcupsimage2,python3-dbus,python3-pyqt5,python3-reportlab,libsnmp30,libsane, deepin-elf-verify (>= 1.1.10-1)
 Replaces: libsane-hpaio,printer-driver-hpcups,printer-driver-postscript-hp,hplip-data,libhpmud0,printer-driver-hpijs,hpijs-ppd,hplip,hplip-plugin,hplip-gui
-Filename: others/com.hp.hplip/com.hp.hplip_3.23.5.2_amd64.deb
-Size: 27086564
-MD5sum: 65f72d0ad64a5168754e661a485d7028
-SHA1: 8754957eb094b8195d4c31873e9be70a8b48df1f
-SHA256: 6728c21262d6eab272d96d6cb53f4dee68826209630808bcfb6993c59987524f
-SHA512: 1aa64adbdabcae557b7041cfb037f16d31ead947305f2cb46f4093ff65086b669c1bf23e62a06266b75a9d5238cd96ed480cf87bd2e1ff2383f777e0df175bbe
+Filename: others/com.hp.hplip/com.hp.hplip_3.24.1.1_amd64.deb
+Size: 26989194
+MD5sum: 812a6c03cc884601f237ce1897613643
+SHA1: 34c965a7c80553ce29303952798171526e88198a
+SHA256: a78daf8711cf60e2534311a94e30ce3c2c673273af5a44a82accce8dc1d6731e
+SHA512: b6225ae5a4ec85fc38f5e394c1ce26aaeda46351bb2882b81c5e3c3bea16d4bb23c66b61c6a3c44b7b1a3c043ecb38d2ab952992b56e8c930e66a61fb136d523
 Description: HP Linux Imaging and Printing
 
 Package: fonts-harmonyos-sans-cn
@@ -18450,19 +18450,19 @@ Description: cloudar-electron
 
 Package: xmcl
 Architecture: amd64
-Version: 0.44.14-873
+Version: 0.44.17-904
 Priority: optional
 Section: default
 Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 285251
+Installed-Size: 285260
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: games/xmcl/xmcl_0.44.14-873_amd64.deb
-Size: 79917104
-MD5sum: 5fc72c75a4cb965c893727be3340c4fe
-SHA1: ad27a65eee3b5cb22437deb52604214cad667008
-SHA256: d94a98d5620962c5876893d09e258878a19b9faf628116bc1937470d06f51086
-SHA512: 5e89c11fcd84774695988f9a7bcb8de713657de09debd880e50dfb31d232a17f55ab62befbd32af9a385d1ce709b03330bfa6abfe5952b7f35e975b19f15444f
+Filename: games/xmcl/xmcl_0.44.17-904_amd64.deb
+Size: 79898696
+MD5sum: 8e7157bad013166a5f0d4f311dfae2db
+SHA1: aaba7484c900d09453f796c8f2c7e83b16746d46
+SHA256: 09b739e0c86a752af928fb001af34cd6e27a51ed3dc3d9e0c2108f3a5e2bfeff
+SHA512: bf9c8b4a840aa0d685ca6a1348ca1c88736216691b2fb2a7086b9937de01d643cfa3a172c13ceb8222f7fbd5216d09eab9be522076d754c55ccb8ee99e012e23
 Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
 Description: 
   A great minecraft launcher in the future
@@ -22210,17 +22210,17 @@ Description: 植物大战僵尸杂交版 for spark wine
 
 Package: osu-lazer
 Architecture: amd64
-Version: 2024.718.1
+Version: 2024.727.0
 Priority: optional
 Section: utils
 Maintainer: spark-store
 Depends: libfuse2
-Filename: games/osu-lazer/osu-lazer_2024.718.1_amd64.deb
-Size: 130549162
-MD5sum: b66b6a9e093540ded0ebd2d2e4f5873d
-SHA1: 9f356d6272a59976dff954c17ccd7e697ae91ce5
-SHA256: 50148d4c131a52726ad8dcf8afaf23fbcccf721b4c3453b74d1eefe7818d1cc3
-SHA512: 332794475d65a18859ebddd102020e6970d820d7e505b6a66ea0b1ba9412ef329d131154e7cbd4b7090de69db07a4afa9f723e977376ab8016da12b9d6fcd4ad
+Filename: games/osu-lazer/osu-lazer_2024.727.0_amd64.deb
+Size: 130550934
+MD5sum: fd74929cc8c2681ffbf5882bb9b5f85a
+SHA1: 35de36c42187e858747587fdf5f4391c6a2a8cc9
+SHA256: 2bfc64d54ba03e45406ea55452534a4f79290552d5af42602490e3e9ef82542a
+SHA512: dacd32c5dd8294fbc58d5e311e910b414945eba2c34e9309e8a34210058cd38ef546105c77cd0842640702df3a0f930d3b75d74fb382eb6214b3d4fbafba7a4e
 Description: osu-lazer Software Package created by Appimage2Deb
 
 Package: com.dxball2.spark
@@ -32892,6 +32892,22 @@ Description: A FFmpeg GUI front-end based on Qt5 and writed in C++
  of presets to help you convert media files within a few clicks. Advanced users
  can also adjust conversion parameters in detail.
 
+Package: com.github.wiliwili
+Architecture: amd64
+Version: 1.4.1
+Priority: optional
+Section: video
+Maintainer: kero990 <kero990@qq.com>
+Installed-Size: 21000
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: video/com.github.wiliwili/com.github.wiliwili_1.4.1_amd64.deb
+Size: 11810730
+MD5sum: 79f8b7b053dc92d69cdff2aa4f7be3d6
+SHA1: a462a8ad2433bea1941eba165e39efb7418227cd
+SHA256: 13ba439a5ec83fe4431b9ef6f1cc0ec633daee2ef90c9db57fbfc4ff47caa7de
+SHA512: c64a76b9c3ff5b6e828da7b67f68e4c799c81064f3774d51d880eb2c5214e6b46af9b97a08a5c00e37bc7b4e9de7bbdaef0a75c50f9ec2fad89ca1fdd13b6877
+Description: 专为手柄控制设计的第三方跨平台B站客户端，完美复刻官方UI，体积极小，支持硬解  专为手柄控制设计的第三方跨平台B站客户端，完美复刻官方UI，体积极小，支持硬解
+
 Package: com.youku.spark
 Architecture: amd64
 Version: 9.2.17.1001spark2
@@ -35375,22 +35391,19 @@ Description: BellSoft Liberica is a build of OpenJDK verified by the OpenJDK Tec
 
 Package: io.github.msojocs.wechat-devtools-linux
 Architecture: amd64
-Version: 1.06.2405020-1
+Version: 1.06.2405020-2
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 911686
-Filename: development/io.github.msojocs.wechat-devtools-linux/io.github.msojocs.wechat-devtools-linux_1.06.2405020-1_amd64.deb
-Size: 208701944
-MD5sum: 070e1289c8934b3a804c892e8719bfa3
-SHA1: be7dc07e8d82b339728bf90a3e11ab7a3f967216
-SHA256: 30bdf1b7858bab77c617b5f991257ac0398b410461d702138f30806f2d933139
-SHA512: a630d6b5a34a15341762a3f6502ad0bc410f23efc5f07bc2f901f2db9d9ff3145d0f40b0b4a1ca9d279cc06246fe1a89be367a3a88992d4b937a37e703dcf226
-Description: WeChat Devtools For Linux.
-  To help developers develop and debug Weixin Mini Programs more simply and efficiently,
-  Tencent have launched the new Weixin DevTools based on the original Official Account
-  web debugging tools. Therefore, we now have two developer modes (Official Account web
-  debugging) and (Mini Program debugging). This version is unofficial.
+Installed-Size: 916452
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: development/io.github.msojocs.wechat-devtools-linux/io.github.msojocs.wechat-devtools-linux_1.06.2405020-2_amd64.deb
+Size: 209135894
+MD5sum: 910b992104fb001c345163e66c2be253
+SHA1: 81072fa09707f29749b7541caf2139658d4e14d8
+SHA256: 80c30368ede3e590d7a2f5b34d211922697dbce0fdf8e71b1b23755d870df73f
+SHA512: a5921bc26f9209884306d77869d649993f916bcbecbd5d3b594131ee5ce1164c063743bddf2bd4bf47f01ee3cdbeb2b15b4747bad1c9d4e3d301bc0955c44d9a
+Description: WeChat Devtools For Linux.  To help developers develop and debug Weixin Mini Programs more simply and efficiently,  Tencent have launched the new Weixin DevTools based on the original Official Account  web debugging tools. Therefore, we now have two developer modes (Official Account web  debugging) and (Mini Program debugging). This version is unofficial.
 
 Package: atk-logic
 Architecture: amd64

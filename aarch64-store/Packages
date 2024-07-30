@@ -2883,68 +2883,6 @@ Description: Phyvirt provides a graphical tool to install and run guest.
 
 Package: spark-deepin-wine-runner
 Architecture: all
-Version: 4.0.0
-Priority: optional
-Section: utils
-Maintainer: gfdgd xi <3025613752@qq.com>
-Installed-Size: 196396
-Provides: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
-Depends: python3, 
- python3-pil | pillow, 
- python3-pil.imagetk | pillow, 
- aria2, 
- curl, 
- unrar | unrar-free , 
- unzip, 
- python3-requests, 
- python3-pyqt5 | pyqt5, 
- python3-psutil | pypsutil, 
- xfce4-terminal | deepin-terminal-gtk | deepin-terminal | mate-terminal | gnome-terminal, 
- python3-dbus, 
- python3-pip | pip, p7zip-full | p7zip-legacy | p7zip, 
- sudo, 
- python3-pyperclip | pyperclip, 
- bubblewrap, 
- zenity, 
- tree, 
- dpkg, 
- fakeroot,
- bash
-Recommends: winbind, 
- wimtools | wimlib, 
- python3-pyquery, 
- python3-pyqt5.qtwebengine | pyqtwebengine, 
- binfmt-support, 
- libc6:i386, 
- libc6:armhf, 
- libwine, 
- qemu-system, 
- qemu-full, 
- qemu,
- alien, 
- spark-deepin-wine-runner-qemu-system-extra, 
- deepin-wine8-stable | spark-wine | spark-wine9 | spark-wine9-wow | spark-wine8 | spark-wine8-wow | spark-wine7-devel | deepin-wine6-stable | deepin-wine5-stable | deepin-wine5 | deepin-wine | wine, 
- spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin
-Conflicts: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux, termux-exec
-Replaces: spark.deepin-venturi-setter, spark-deepin-wine5-application-packer, spark-deepin-wine-runner-52, spark-deepin-wine-runner-termux
-Filename: tools/spark-deepin-wine-runner/spark-deepin-wine-runner_4.0.0_all.deb
-Size: 57372872
-MD5sum: 08fa1c060adfec6fc0e2d03a4d7debe5
-SHA1: 090388d357abf7729fb62daeeed4b535c9bbcf03
-SHA256: e54085dbd147d7e594f3d47c0dfb42de54412ba5e6cd30956176f2c1906bbea1
-SHA512: 7c845683ad7f8ec51bca72c8f1b5406d880f03749aa6ba8a4cf969f0d2f66447ef7e62daaa1c8204b393893d791aa1be3861d20619c3d74e8fc1beaea9851709
-Homepage: https://gitee.com/gfdgd-xi/deep-wine-runner
-Description: Wine运行器是一个能让Linux用户更加方便地运行Windows应用的程序。原版的 Wine 只能使用命令操作，且安装过程较为繁琐，对小白不友好。于是该运行器为了解决该痛点，内置了对Wine图形化的支持、Wine 安装器、微型应用商店、各种Wine工具、自制的Wine程序打包器、运行库安装工具等。
- 它同时还内置了基于Qemu/VirtualBox制作的、专供小白使用的Windows虚拟机安装工具，可以做到只需下载系统镜像并点击安装即可，无需考虑虚拟机的安装、创建、分区等操作，也能在非 X86 架构安装 X86 架构的 Windows 操作系统（但是效率较低，可以运行些老系统）。
- 而且对于部分 Wine 应用适配者来说，提供了图形化的打包工具，以及提供了一些常用工具以及运行库的安装方式，以及能安装多种不同的 Wine 以测试效果，能极大提升适配效率。
- 且对于 Deepin23 用户做了特别优化，以便能在缺少 i386 运行库的情况下运行 Wine32。同时也为非 X86 架构用户提供了 Box86/64、Qemu User 的安装方式
-Severity: serious
-Certainty: possible
-Check: binaries
-Type: binary, udeb
-
-Package: spark-deepin-wine-runner
-Architecture: all
 Version: 4.0.0.2
 Priority: optional
 Section: utils
@@ -5571,23 +5509,6 @@ SHA256: b8fed52846d5262fa8eb64ec7cf514ab65451ba1085c7aed3a86fd4161a5b0cf
 SHA512: 337ec9724cc855173b02bee8a56a5b59938c117e0ca6d1c84b8484b1d5ca954b6be4ead4ac2fa74eab90ed7bbd157d812012a1d4e9de20a5bd1e45ebeca39c4d
 Description: 植物大战僵尸杂交版 for spark wine
 
-Package: com.pvzhz.spark
-Architecture: all
-Version: 2.1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: shenmo@spark-app.store
-Installed-Size: 377442
-Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/com.pvzhz.spark/com.pvzhz.spark_2.1_all.deb
-Size: 365951788
-MD5sum: a1139163cbbc44b48eb63846436be9d7
-SHA1: 867eb0c796f6e36ce85d1b131a7d31f2c3db3d21
-SHA256: 88ae5ffa268df11109d99d38f5769e09589280a459913a7d26aec30ea720e3ea
-SHA512: 100cfb3e0fcdc25393bf7a1049ff66a65dc1d8a99797ea7c63bf35489906ba94564533b9c6c16ddf0129becb36af582020b596250776432cfa0dc26d185003b2
-Description: com.pvzhz.spark
-
 Package: com.popcap.plants-vs-zombies
 Architecture: arm64
 Version: 1.0
@@ -7770,22 +7691,22 @@ Description: .高中地理通关游戏――宇宙中的地球将宇宙中的地
 
 Package: firefox-spark
 Architecture: arm64
-Version: 128.0+build2-0ubuntu0.22.04.1~mt1
+Version: 128.0.3+build1-0ubuntu0.22.04.1~mt2
 Priority: optional
 Section: utils
 Maintainer: shenmo<shenmo@spark-app.store>
 Installed-Size: 52K
-Provides: x-www-browser,gnome-www-browser,firefox(=128.0+build2-0ubuntu0.22.04.1~mt1)
+Provides: x-www-browser,gnome-www-browser,firefox(=128.0.3+build1-0ubuntu0.22.04.1~mt2)
 Depends: libdbus-glib-1-2,libgtk-3-0
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox
-Filename: network/firefox-spark/firefox-spark_128.0_plus_build2-0ubuntu0.22.04.1~mt1_arm64.deb
-Size: 58142188
-MD5sum: 8ba708fcd5ee560eba7d7dd78c6f86e7
-SHA1: d990d2257733213dcbc10e050b2726a07a225f40
-SHA256: bdad7e50fe6ceac4bd444b6d4d822f669983c83b5e52a0f9f2aa0d0d105951ad
-SHA512: 075115f658514a22552a0071f529463548217b6e22fa53b79d2a6a0f0beebccdf3b37e08ee96e2f186b3d7b73466eaa6434a236d43bc479fe5ceeb5c004d50b5
+Filename: network/firefox-spark/firefox-spark_128.0.3_plus_build1-0ubuntu0.22.04.1~mt2_arm64.deb
+Size: 58764184
+MD5sum: b6042cf3adc0a6708f64af23e6cfdef1
+SHA1: 477fafe6fa75f02d29ec20254bee87c7b86e0ed1
+SHA256: bc607bda6cdfc22795e9637807b924c2e3f1dfc1a51b9afe115063b2444ccd80
+SHA512: 544c3eeb54bc4219b7a934dfa8bb7ac945c851c43720ca5a160e713263a7dcdb321ff9d098b8620b1d671bc7f527089ad2017da41ca6dc1533ee06e1d4a6b3cd
 Homepage: https://gitee.com/spark-building-service/firefox-spark-arm
 Description: 一款开源自由的浏览器
  长介绍
