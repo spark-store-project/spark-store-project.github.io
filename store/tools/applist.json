@@ -687,23 +687,6 @@
 }
 ,
 {
-    "Name": "WinRAR for deepin-wine",
-    "Version": "5.3.0spark3",
-    "Filename": "deepin.cn.com.winrar_5.3.0spark3_all.deb",
-    "Torrent_address": "deepin.cn.com.winrar_5.3.0spark3_all.deb.torrent",
-    "Pkgname": "deepin.cn.com.winrar",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.winrar.com.cn/",
-    "Update": "2024-05-05 13:21:04",
-    "Size": "4.18 MB",
-    "More": "从 deepin-wine 里翻出来的安装包",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/7017c0b55eb1449fa7dd25928181af96.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/9d7616b6452741f5926aa5185cb85f7b.png"
-}
-,
-{
     "Name": "Snipaste",
     "Version": "2.9.2spark2",
     "Filename": "com.snipaste.spark_2.9.2spark2_amd64.deb",
@@ -718,6 +701,23 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/28/7f767ca991584934851f5c2ce0591159.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/28/7bd50152f3c848ada1ba3dd0b5665727.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/28/a8433d6945c8421a8250bba006c047d7.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/28/547ccc3d7a3243e78ab023bf848f5fb0.png"
+}
+,
+{
+    "Name": "WinRAR for deepin-wine",
+    "Version": "5.3.0spark3",
+    "Filename": "deepin.cn.com.winrar_5.3.0spark3_all.deb",
+    "Torrent_address": "deepin.cn.com.winrar_5.3.0spark3_all.deb.torrent",
+    "Pkgname": "deepin.cn.com.winrar",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.winrar.com.cn/",
+    "Update": "2024-05-05 13:21:04",
+    "Size": "4.18 MB",
+    "More": "从 deepin-wine 里翻出来的安装包",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/7017c0b55eb1449fa7dd25928181af96.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/9d7616b6452741f5926aa5185cb85f7b.png"
 }
 ,
 {
@@ -960,23 +960,6 @@
 }
 ,
 {
-    "Name": "Fsearch 搜索工具",
-    "Version": "0.2.2-1+3.1",
-    "Filename": "fsearch_0.2.2-1_plus3.1_amd64.deb",
-    "Torrent_address": "fsearch_0.2.2-1_plus3.1_amd64.deb.torrent",
-    "Pkgname": "fsearch",
-    "Author": "Christian Boxdörfer <cboxdoerfer@posteo.de>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://cboxdoerfer.github.io/fsearch/",
-    "Update": "2022-12-01 09:21:33",
-    "Size": "224.56 KB",
-    "More": "FSearch is a fast file search utility, based on GTK3.\n It supports regular expressions, wildcards, fast sorting,\n instant results with millions of files and more.",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/d2d26523a4504e6c8719bf98a2ed891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/266c6c104fb14b06a75c2298c03b2840.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/fae000cdaa6d47cfa791dde3983cbf61.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/0cf6402ffaed41ec93859b8923c001d7.png"
-}
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "uos-packaging-tools_1.2.1_all.deb",
@@ -993,6 +976,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "Fsearch 搜索工具",
+    "Version": "0.2.2-1+3.1",
+    "Filename": "fsearch_0.2.2-1_plus3.1_amd64.deb",
+    "Torrent_address": "fsearch_0.2.2-1_plus3.1_amd64.deb.torrent",
+    "Pkgname": "fsearch",
+    "Author": "Christian Boxdörfer <cboxdoerfer@posteo.de>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://cboxdoerfer.github.io/fsearch/",
+    "Update": "2022-12-01 09:21:33",
+    "Size": "224.56 KB",
+    "More": "FSearch is a fast file search utility, based on GTK3.\n It supports regular expressions, wildcards, fast sorting,\n instant results with millions of files and more.",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/d2d26523a4504e6c8719bf98a2ed891c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/266c6c104fb14b06a75c2298c03b2840.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/fae000cdaa6d47cfa791dde3983cbf61.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/0cf6402ffaed41ec93859b8923c001d7.png"
+}
 ,
 {
     "Name": "AI工具集",
@@ -1362,21 +1362,6 @@
 }
 ,
 {
-   "Name":"共享文件夹",
-   "Version":"1.5-1",
-   "Filename":"sendbylan_1.5-1_amd64.deb",
-   "Pkgname":"sendbylan",
-   "Author":"Maicss",
-   "Contributor":"shenmo",
-   "Website":"https://gitee.com/Maicss/SendByLAN",
-   "Update":"2023年6月6日",
-   "Size":"52.8Kb",
-   "Tags": "community;deepin;uos;dtk5",
-   "More":"这是一个简易的文件夹共享插件，集成到文件管理器右键中，仅支持deepin文件管理器。"
-}
-
-,
-{
     "Name": "羽云十六进制编辑器",
     "Version": "1.5.4",
     "Filename": "com.wingsummer.winghexexplorer_1.5.4_amd64.deb",
@@ -1392,6 +1377,21 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/f315dc72ea7549a9855e404149ee73ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/b8a996cef0a84a38959b53640cf187b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/e902cdff00cc4b6087c1d4c7b171f3ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/877836654bf24157bb07589b7ed0df64.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/119941e0017a415096f6230681a97dce.png"
 }
+,
+{
+   "Name":"共享文件夹",
+   "Version":"1.5-1",
+   "Filename":"sendbylan_1.5-1_amd64.deb",
+   "Pkgname":"sendbylan",
+   "Author":"Maicss",
+   "Contributor":"shenmo",
+   "Website":"https://gitee.com/Maicss/SendByLAN",
+   "Update":"2023年6月6日",
+   "Size":"52.8Kb",
+   "Tags": "community;deepin;uos;dtk5",
+   "More":"这是一个简易的文件夹共享插件，集成到文件管理器右键中，仅支持deepin文件管理器。"
+}
+
 ,
 {
     "Author": "ziggy <luzijie@uniontech.com>",
@@ -1561,6 +1561,23 @@
 }
 ,
 {
+    "Name": "优效日历",
+    "Version": "2.4.6.1spark2",
+    "Filename": "com.yxcalendar.spark_2.4.6.1spark2_all.deb",
+    "Torrent_address": "com.yxcalendar.spark_2.4.6.1spark2_all.deb.torrent",
+    "Pkgname": "com.yxcalendar.spark",
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "sgb76",
+    "Website": "http://www.youxiao.cn/",
+    "Update": "2024-06-02 21:23:14",
+    "Size": "19.63 MB",
+    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/cd8d02b6a32b459d8195cde655b4b6dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/860ca22215d34d92a5a89f41cd5470a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/b303c921ce51480ca1f379ed274598ca.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/44c3229effa04e29a97d0753f7434c3e.png"
+}
+,
+{
    "Name":"一键更换bing壁纸",
    "Version":"0.9",
    "Filename":"oneclickbingwallpaper_0.9_amd64.deb",
@@ -1589,23 +1606,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/e42f4138860d4cd28ca5ca7b450170be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/15be502006994a539a93e6288fb0b803.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/ab414cc6119846928ae9c9dfa2dcd6fb.png"
-}
-,
-{
-    "Name": "优效日历",
-    "Version": "2.4.6.1spark2",
-    "Filename": "com.yxcalendar.spark_2.4.6.1spark2_all.deb",
-    "Torrent_address": "com.yxcalendar.spark_2.4.6.1spark2_all.deb.torrent",
-    "Pkgname": "com.yxcalendar.spark",
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "sgb76",
-    "Website": "http://www.youxiao.cn/",
-    "Update": "2024-06-02 21:23:14",
-    "Size": "19.63 MB",
-    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/cd8d02b6a32b459d8195cde655b4b6dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/860ca22215d34d92a5a89f41cd5470a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/b303c921ce51480ca1f379ed274598ca.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/44c3229effa04e29a97d0753f7434c3e.png"
 }
 ,
 {
@@ -1914,6 +1914,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
+    "Version": "10.0.9.0.8-903spark1",
+    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
+    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
+    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
+    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.taotics.com/",
+    "Update": "2024-07-02 07:41:36",
+    "Size": "59.98 MB",
+    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
     "Name": "Q4Wine",
     "Version": "1.3.13-1",
     "Filename": "q4wine_1.3.13-1_amd64.deb",
@@ -1961,23 +1978,6 @@
     "Tags": "uos;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/bd89b5baf28046beb88b69b9c594cf89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/19fc190679384ca384141096be86513e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/3fa525465aab482aa74a96e651016077.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/0aa48cdde37746a38b1f179502d8891b.png"
-}
-,
-{
-    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
-    "Version": "10.0.9.0.8-903spark1",
-    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
-    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
-    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
-    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.taotics.com/",
-    "Update": "2024-07-02 07:41:36",
-    "Size": "59.98 MB",
-    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
 }
 ,
 {
@@ -2196,6 +2196,23 @@
 
 ,
 {
+    "Name": "MPaste：剪贴板管理工具",
+    "Version": "0.2.0",
+    "Filename": "mpaste_0.2.0_amd64.deb",
+    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
+    "Pkgname": "mpaste",
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/SeptemberHX/MPaste/",
+    "Update": "2023-02-12 13:17:37",
+    "Size": "2.81 MB",
+    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
+}
+,
+{
     "Name": "spark-webapp-runtime 运行器",
     "Version": "1.1.0",
     "Filename": "spark-webapp-runtime-runner_1.1.0_all.deb",
@@ -2227,23 +2244,6 @@
     "Tags": "community;deepin;uos;dtk5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/2abab04b-9c48-40d9-9c89-6943c0d6ea7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/6c97082e-9c76-4d66-912a-103bea9cf174.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/22be2471-22e7-499c-a119-6db9390e0583.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/48a4479f-c2bd-45af-b15c-3a8d72dd6833.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/03/65ed39b6-498f-4ef1-bedc-41c53cf48bd1.png"
-}
-,
-{
-    "Name": "MPaste：剪贴板管理工具",
-    "Version": "0.2.0",
-    "Filename": "mpaste_0.2.0_amd64.deb",
-    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
-    "Pkgname": "mpaste",
-    "Author": "SeptemberHX",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://github.com/SeptemberHX/MPaste/",
-    "Update": "2023-02-12 13:17:37",
-    "Size": "2.81 MB",
-    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
 }
 ,
 {
@@ -2950,6 +2950,23 @@
 }
 ,
 {
+    "Name": "DropPoint",
+    "Version": "1.2.0~spark",
+    "Filename": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb",
+    "Torrent_address": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb.torrent",
+    "Pkgname": "app.netlify.droppoint.spark",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://droppoint.netlify.app/",
+    "Update": "2022-10-15 10:45:13",
+    "Size": "75.35 MB",
+    "More": "DropPoint 是一款用来提高复制粘贴文件效率的跨平台工具，支持 Windows、macOS、Linux，它会给你一个临时中转悬浮框，只需要将一处或多处想要复制的文件拖拽到这个悬浮框，再一次性拖拽至目的地文件夹，就能高效完成复制粘贴。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/bfa46a61-610d-4e9d-b0b6-0ef0aaabf5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/2d8533c7-5af6-464d-a00c-186290900a8a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/41e83698-b321-44a0-ba07-e26efa706966.png"
+}
+,
+{
     "Name": "icalingua++ 用户服务",
     "Version": "0.0.1",
     "Filename": "icalingua-autoservice_0.0.1_all.deb",
@@ -2997,23 +3014,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/0f822586a78e4a9e8cb838836b425238.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/f7476b3265cb40009a299c4d987aa110.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/d8056da80eaa4c21b587c34267022a39.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/bfcc4f6a70e347dfa6ea808dcc4c87f1.png"
-}
-,
-{
-    "Name": "DropPoint",
-    "Version": "1.2.0~spark",
-    "Filename": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb",
-    "Torrent_address": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb.torrent",
-    "Pkgname": "app.netlify.droppoint.spark",
-    "Author": "spark-store",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://droppoint.netlify.app/",
-    "Update": "2022-10-15 10:45:13",
-    "Size": "75.35 MB",
-    "More": "DropPoint 是一款用来提高复制粘贴文件效率的跨平台工具，支持 Windows、macOS、Linux，它会给你一个临时中转悬浮框，只需要将一处或多处想要复制的文件拖拽到这个悬浮框，再一次性拖拽至目的地文件夹，就能高效完成复制粘贴。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/bfa46a61-610d-4e9d-b0b6-0ef0aaabf5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/2d8533c7-5af6-464d-a00c-186290900a8a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/41e83698-b321-44a0-ba07-e26efa706966.png"
 }
 ,
 {
@@ -3287,6 +3287,23 @@
 
 ,
 {
+    "Name": "draw.io",
+    "Version": "24.5.3",
+    "Filename": "draw.io_24.5.3_amd64.deb",
+    "Torrent_address": "draw.io_24.5.3_amd64.deb.torrent",
+    "Pkgname": "draw.io",
+    "Author": "JGraph <support@draw.io>",
+    "Contributor": "yuu2lee4",
+    "Website": "https://github.com/jgraph/drawio",
+    "Update": "2024-06-18 17:24:29",
+    "Size": "93.07 MB",
+    "More": "draw.io 是一个强大简洁的绘图软件，支持流程图，UML图，架构图，原型图等图标。支持Github，Google Drive, One drive等网盘同步，并且永久免费。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/22a690eeb15e4e5fbe571998f3b7bc0d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/adee5c0ee3eb403eb610c9f7413a2b86.png"
+}
+,
+{
     "Name": "键盘检测(Wine)",
     "Version": "1.0.0",
     "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
@@ -3318,23 +3335,6 @@
     "Tags": "community;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/31b6b713b891428dbf6cd1ac3b12376f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e2801c76dcd24fe68f7118439cb073d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/6e3b4b484adb44e19998b2f413b0a0f4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/08f655712b4441bbb59256f7e049c2c9.png"
-}
-,
-{
-    "Name": "draw.io",
-    "Version": "24.5.3",
-    "Filename": "draw.io_24.5.3_amd64.deb",
-    "Torrent_address": "draw.io_24.5.3_amd64.deb.torrent",
-    "Pkgname": "draw.io",
-    "Author": "JGraph <support@draw.io>",
-    "Contributor": "yuu2lee4",
-    "Website": "https://github.com/jgraph/drawio",
-    "Update": "2024-06-18 17:24:29",
-    "Size": "93.07 MB",
-    "More": "draw.io 是一个强大简洁的绘图软件，支持流程图，UML图，架构图，原型图等图标。支持Github，Google Drive, One drive等网盘同步，并且永久免费。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/18/22a690eeb15e4e5fbe571998f3b7bc0d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/18/adee5c0ee3eb403eb610c9f7413a2b86.png"
 }
 ,
 {
@@ -3576,6 +3576,23 @@
 }
 ,
 {
+    "Name": "UOS应用迁移助手",
+    "Version": "2.0.001-1",
+    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
+    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
+    "Pkgname": "deepin-wine-builder",
+    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2024-07-26 11:45:33",
+    "Size": "1.09 MB",
+    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
+    "Tags": "deepin;uos;dtk5;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
+}
+,
+{
     "Name": "Aechoterm闪令",
     "Version": "3.0.3",
     "Filename": "aechoterm_3.0.3_amd64.deb",
@@ -3672,23 +3689,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/ec092e53e2714bf7829a54ff12f84ff9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/28da0c0ac94844e89110f1554818aa1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/22cc435ca2c3450eaa8da3aca7d861fe.png"
-}
-,
-{
-    "Name": "UOS应用迁移助手",
-    "Version": "2.0.001-1",
-    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
-    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
-    "Pkgname": "deepin-wine-builder",
-    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2024-07-26 11:45:33",
-    "Size": "1.09 MB",
-    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
-    "Tags": "deepin;uos;dtk5;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
 }
 ,
 {
@@ -3843,6 +3843,22 @@
 }
 ,
 {
+    "Name": "光驱托盘控制",
+    "Version": "1.0.2",
+    "Filename": "spark-optical-drive-tray-control_1.0.2_all.deb",
+    "Pkgname": "spark-optical-drive-tray-control",
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/optical-drive-tray-control",
+    "Update": "2021-08-07 12:24:34",
+    "Size": "62.31 MB",
+    "More": "一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件。 如果出现类似 \nqt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"\" even though it was found. \n的错误，可以输入 sudo apt install -qq libglu1-mesa-dev libx11-xcb-dev '^libxcb*'",
+    "Tags": "community;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9961f0-f737-11eb-8738-31b965866860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9e1ce0-f737-11eb-8738-31b965866860.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/07/4c475fa0-f737-11eb-8738-31b965866860.png"
+}
+,
+{
     "Name": "Fishing Funds",
     "Version": "8.1.0spark4",
     "Filename": "top.1zilc.fishingfunds.spark_8.1.0spark4_amd64.deb",
@@ -3874,22 +3890,6 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/11/d9f2a3c0-b981-11ec-a878-75e977ce3fa5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/11/de7e4660-b981-11ec-a878-75e977ce3fa5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/11/e1bdb9f0-b981-11ec-a878-75e977ce3fa5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/11/d3af8d20-b981-11ec-a878-75e977ce3fa5.png"
-}
-,
-{
-    "Name": "光驱托盘控制",
-    "Version": "1.0.2",
-    "Filename": "spark-optical-drive-tray-control_1.0.2_all.deb",
-    "Pkgname": "spark-optical-drive-tray-control",
-    "Author": "gfdgd xi",
-    "Contributor": "gfdgd xi",
-    "Website": "https://gitee.com/gfdgd-xi/optical-drive-tray-control",
-    "Update": "2021-08-07 12:24:34",
-    "Size": "62.31 MB",
-    "More": "一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件。 如果出现类似 \nqt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"\" even though it was found. \n的错误，可以输入 sudo apt install -qq libglu1-mesa-dev libx11-xcb-dev '^libxcb*'",
-    "Tags": "community;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9961f0-f737-11eb-8738-31b965866860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9e1ce0-f737-11eb-8738-31b965866860.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/07/4c475fa0-f737-11eb-8738-31b965866860.png"
 }
 ,
 {

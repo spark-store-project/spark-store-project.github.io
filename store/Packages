@@ -27978,17 +27978,17 @@ Description: Open source desktop application to split, merge, rotate, extract pa
 
 Package: pdfsam-basic
 Architecture: all
-Version: 5.2.0-1
+Version: 5.2.4-1
 Priority: optional
 Section: utils
 Maintainer: Andrea Vacondio <info@pdfsam.org>
-Installed-Size: 112783
-Filename: office/pdfsam-basic/pdfsam-basic_5.2.0-1_all.deb
-Size: 86587042
-MD5sum: d4e0345bdf124ff515021a75c8a26195
-SHA1: ac8431ab53667b9391e1285b22f5deef1d3cfb45
-SHA256: 435dfced2bba6e60645ef72b4e05ad6196fdcffa4a1e23937d491434737c22d6
-SHA512: fb0499aa607179343b0d39d20194d071d5a47c69bb391ebad493eb9e09038220fc90a887e8b662a4c40553f693f214fb96ec2e02417e245025cac8a8ff7aaa4d
+Installed-Size: 110750
+Filename: office/pdfsam-basic/pdfsam-basic_5.2.4-1_all.deb
+Size: 84619160
+MD5sum: f983b09fb7b596e0ce2b3a6cbeb4ac68
+SHA1: 28b6b40c1bc78fa08402aa075b2d325be304c92e
+SHA256: c6d929e4e0b1ccbc7464d7989702d05ae773b082c4ae5ac01da72eab884e2fc1
+SHA512: 397c82af6d2f92585fdfb022e269ef1a5543d4057b7bc6d25c75535ff13747ffd73ccb2862e0f4a2bb390baad614f7294d4830f5980b942db35a9cc542ed3db2
 Homepage: https://pdfsam.org
 Description: Open source desktop application to split, merge, rotate, extract pages and mix PDF files.
 
@@ -36932,6 +36932,23 @@ Description:
   A client for (maybe) any IM made with Electron
 License: AGPL-3.0
 Vendor: The Icalingua++ Authors <Icalinguaplusplus@protonmail.com>
+
+Package: com.qq.weixin.work.deepin
+Architecture: amd64
+Version: 4.1.22.6009deepin10~spark1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 609068
+Depends: deepin-wine8-stable (>= 8.16-deepin21),  spark-dwine-helper (>= 5.3.15-1),  fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: chat/com.qq.weixin.work.deepin/com.qq.weixin.work.deepin_4.1.22.6009deepin10~spark1_amd64.deb
+Size: 579856900
+MD5sum: 29a132a1735d3d045174d55b77cf7b08
+SHA1: c37ed3abd402cbb2212733addc1b74e8d77ebe7b
+SHA256: 1ffa47c6b33235d44d06bf2bce48ad1b51137b3973742c769daa44fb2a6e38b6
+SHA512: a08ca6bf59596963d62b89565ad93c4178141b0292c3f247eb096f2b9d97af45c46b329744bf7a31823efad4d36a49f6bde757dee6f07fc9e002f50e53a7368d
+Description: Tencent WXWork Client on Deepin Wine
 
 Package: com.qq.weixin.work.deepin
 Architecture: amd64

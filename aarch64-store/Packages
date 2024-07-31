@@ -6906,18 +6906,18 @@ Description: 奇安信可信浏览器
 
 Package: firefox-spark-ace
 Architecture: all
-Version: 128.0+build2-0ubuntu0.22.04.1~mt1
+Version: 128.0.3+build1-0ubuntu0.22.04.1~mt2
 Priority: optional
 Section: utils
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 10
 Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Filename: network/firefox-spark-ace/firefox-spark-ace_128.0_plus_build2-0ubuntu0.22.04.1~mt1_all.deb
-Size: 1668
-MD5sum: 71337b14a7784784cbf5aafa2e57ecaa
-SHA1: 86e085c0067815e21a9e3d1807f7eddcef93d256
-SHA256: d6b3d86a7e478420d377e2af0e073df4a5eef1b87ad97166cad67ea9df31c196
-SHA512: e262cf8d97acc6ee541017773b5dbb891585a1ea7136f4e86b6a5f415ddb27421e071235fc3c916ca6270a31b728893919edb24dba854a26254c747a6a21350e
+Filename: network/firefox-spark-ace/firefox-spark-ace_128.0.3_plus_build1-0ubuntu0.22.04.1~mt2_all.deb
+Size: 1672
+MD5sum: 8fb04d7654a1bc1f6a7ea9ca55f0d891
+SHA1: 4409fca3a6c3ce946ad877a28b79a52c9a3dcf71
+SHA256: 311a2fead5df400c3190c117ce2f2b02bed9440d0be110c75d331cc0040b4ca7
+SHA512: 375037e51104f2b2c419e33484a15eda4518edf6a61b18ffd3213d2a3decc2a6cadf0102374240640857806cc5790581243f7f80ff8f97f8d5c7e636e9ca52f4
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
