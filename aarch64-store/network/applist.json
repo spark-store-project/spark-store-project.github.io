@@ -609,24 +609,6 @@
 
 ,
 {
-    "Name": "Tailscale",
-    "Version": "1.70.0",
-    "Filename": "tailscale_1.70.0_arm64.deb",
-    "Torrent_address": "tailscale_1.70.0_arm64.deb.torrent",
-    "Pkgname": "tailscale",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://tailscale.com/",
-    "Update": "2024-07-18 17:31:13",
-    "Size": "26M",
-    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
-}
-
-,
-{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.bitcomet.spark_2.03.1_all.deb",
@@ -641,6 +623,24 @@
     "Website": "https://www.bitcomet.com/en/downloads",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "Tailscale",
+    "Version": "1.70.0",
+    "Filename": "tailscale_1.70.0_arm64.deb",
+    "Torrent_address": "tailscale_1.70.0_arm64.deb.torrent",
+    "Pkgname": "tailscale",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://tailscale.com/",
+    "Update": "2024-07-18 17:31:13",
+    "Size": "26M",
+    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
 }
 
 ,
@@ -681,24 +681,6 @@
 
 ,
 {
-    "Author": "haitai",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "htbrowser_5.0.0.20_arm64.deb",
-    "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
-    "Name": "红莲花安全浏览器",
-    "Pkgname": "htbrowser",
-    "Size": "75 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
-    "Update": "2023-03-05 18:53:57",
-    "Version": "5.0.0.20",
-    "Website": "http://www.haitaibrowser.net/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
-}
-
-,
-{
     "Author": "sgb76 <sgb76@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.xunlei.spark_11.4.8.2122spark3_all.deb",
@@ -713,6 +695,24 @@
     "Website": "https://www.xunlei.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "haitai",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "htbrowser_5.0.0.20_arm64.deb",
+    "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
+    "Name": "红莲花安全浏览器",
+    "Pkgname": "htbrowser",
+    "Size": "75 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
+    "Update": "2023-03-05 18:53:57",
+    "Version": "5.0.0.20",
+    "Website": "http://www.haitaibrowser.net/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
 }
 
 ,
@@ -877,6 +877,24 @@
 }
 ,
 {
+    "Author": "wxhere <wxhere@hotmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.bitcomet.linux_2.8.3_plus_fix0_arm64.deb",
+    "More": "一款免费的BT/HTTP/FTP下载软件！\n功能强大速度快，操作简单的BT下载软件，BT资源下载利器！",
+    "Name": "比特彗星(Linux) BitComet",
+    "Pkgname": "com.bitcomet.linux",
+    "Size": "13 Mb",
+    "Tags": "deepin;uos;ubuntu;a2d",
+    "Torrent_address": "com.bitcomet.linux_2.8.3_plus_fix0_arm64.deb.torrent",
+    "Update": "2024-07-11 22:13:15",
+    "Version": "2.8.3+fix0",
+    "Website": "https://www.bitcomet.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/screen_2.png\"]"
+}
+
+,
+{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "torrent-file-editor_1.0.0_arm64.deb",
@@ -981,24 +999,6 @@
     "Website": "https://baoku.360.cn/soft/show/appid/102201010?channel=9510133",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "wxhere <wxhere@hotmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.bitcomet.linux_2.8.3_plus_fix0_arm64.deb",
-    "More": "一款免费的BT/HTTP/FTP下载软件！\n功能强大速度快，操作简单的BT下载软件，BT资源下载利器！",
-    "Name": "比特彗星(Linux) BitComet",
-    "Pkgname": "com.bitcomet.linux",
-    "Size": "13 Mb",
-    "Tags": "deepin;uos;ubuntu;a2d",
-    "Torrent_address": "com.bitcomet.linux_2.8.3_plus_fix0_arm64.deb.torrent",
-    "Update": "2024-07-11 22:13:15",
-    "Version": "2.8.3+fix0",
-    "Website": "https://www.bitcomet.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.bitcomet.linux/screen_2.png\"]"
 }
 
 ]

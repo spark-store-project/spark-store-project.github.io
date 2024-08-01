@@ -1111,22 +1111,6 @@
 }
 ,
 {
-    "Name": "Subtitler",
-    "Version": "1.5.5",
-    "Filename": "subtitler_1.5.5_amd64.deb",
-    "Pkgname": "subtitler",
-    "Author": "Subtitler",
-    "Contributor": "sgb76",
-    "Website": "https://s8sachin.github.io/subtitler/",
-    "Update": "2021-09-29 12:23:29",
-    "Size": "49.43 MB",
-    "More": "Subtitler 是一款免费的桌面应用程序，可以快速搜索和提取视频字幕文件。提取后的字幕文件默认保存在视频所在目录",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/29/e49ad8d0-20dc-11ec-9d25-4b4ee6203aa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/29/e8b4a6d0-20dc-11ec-9d25-4b4ee6203aa6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/29/e0b428c0-20dc-11ec-9d25-4b4ee6203aa6.png"
-}
-,
-{
     "Name": "人人视频",
     "Version": "1.7.0.33",
     "Filename": "com.renrenshipin.deepin_1.7.0.33_all.deb",
@@ -1144,6 +1128,22 @@
 }
 ,
 {
+    "Name": "Subtitler",
+    "Version": "1.5.5",
+    "Filename": "subtitler_1.5.5_amd64.deb",
+    "Pkgname": "subtitler",
+    "Author": "Subtitler",
+    "Contributor": "sgb76",
+    "Website": "https://s8sachin.github.io/subtitler/",
+    "Update": "2021-09-29 12:23:29",
+    "Size": "49.43 MB",
+    "More": "Subtitler 是一款免费的桌面应用程序，可以快速搜索和提取视频字幕文件。提取后的字幕文件默认保存在视频所在目录",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/29/e49ad8d0-20dc-11ec-9d25-4b4ee6203aa6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/29/e8b4a6d0-20dc-11ec-9d25-4b4ee6203aa6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/29/e0b428c0-20dc-11ec-9d25-4b4ee6203aa6.png"
+}
+,
+{
     "Name": "iDealshare VideoGo",
     "Version": "6.7.2.8768spark0",
     "Filename": "net.idealshare.spark_6.7.2.8768spark0_all.deb",
@@ -1158,6 +1158,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/9c7ebf9e9e2f4483bdd88f79eb252ace.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/3c4f6cfa2cb147299eefdcf8b006d4a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/06/82a05941cb4f4704905c29116b033b9f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/06/77686491d6e346339b90ba68e1ffd620.png"
+}
+,
+{
+    "Name": "biliup-app（开源 bilibili投稿客户端）",
+    "Version": "0.5.2",
+    "Filename": "biliup-app_0.5.2_amd64.deb",
+    "Torrent_address": "biliup-app_0.5.2_amd64.deb.torrent",
+    "Pkgname": "biliup-app",
+    "Author": "you",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/biliup/biliup-app",
+    "Update": "2024-06-08 23:08:05",
+    "Size": "7.21 MB",
+    "More": "bilibili投稿客户端，支持Windows，Linux，macOS。\n支持多p上传，支持线路切换、并发数控制，上海腾讯云可使用内网线路上传免流+大幅提速。\n支持稿件编辑追加多p，可编辑网页端不能编辑的\"是否转载\"、\"投稿分区\"等。\n低电磁力等级也可上传大于16G视频，最大32G。\n支持多种登录方式，账号密码，短信，扫码，浏览器登录。\n支持多用户账号快速切换\n使用操作 演示视频 （非最新版）\n文档地址：https://biliup.github.io/biliup-app\n主要是为了解决现有网页端不能多p投稿的问题，虽然现有b站客户端可以多p 但是有几个问题：\n仅支持Windows，不支持Linux，macOS\n不能批量选择文件，多p只能多次单选文件\n投稿线路对国外不友好，速度较慢稳定性较差，且不能自行切换\n不能调整单视频上传并发数，单视频限制大小4G以内\n仅能通过短信登录",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8cb9e4e0a39643c5a212eb5712ead5e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/fe57de49ed69430fa9fce3ce56ab5d92.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/01ec11b22157489289abbd66e6d977fb.png"
 }
 ,
 {
@@ -1192,23 +1209,6 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/43bbeeddfc214400aa51920e8ef97e4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/85d558bccb5f42e9b37a050aa9d7bb1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/a247c74e6d624c149a4a8e9dd93bc71b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/41744170e5e145079a4e7a361a25bb95.png"
-}
-,
-{
-    "Name": "biliup-app（开源 bilibili投稿客户端）",
-    "Version": "0.5.2",
-    "Filename": "biliup-app_0.5.2_amd64.deb",
-    "Torrent_address": "biliup-app_0.5.2_amd64.deb.torrent",
-    "Pkgname": "biliup-app",
-    "Author": "you",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/biliup/biliup-app",
-    "Update": "2024-06-08 23:08:05",
-    "Size": "7.21 MB",
-    "More": "bilibili投稿客户端，支持Windows，Linux，macOS。\n支持多p上传，支持线路切换、并发数控制，上海腾讯云可使用内网线路上传免流+大幅提速。\n支持稿件编辑追加多p，可编辑网页端不能编辑的\"是否转载\"、\"投稿分区\"等。\n低电磁力等级也可上传大于16G视频，最大32G。\n支持多种登录方式，账号密码，短信，扫码，浏览器登录。\n支持多用户账号快速切换\n使用操作 演示视频 （非最新版）\n文档地址：https://biliup.github.io/biliup-app\n主要是为了解决现有网页端不能多p投稿的问题，虽然现有b站客户端可以多p 但是有几个问题：\n仅支持Windows，不支持Linux，macOS\n不能批量选择文件，多p只能多次单选文件\n投稿线路对国外不友好，速度较慢稳定性较差，且不能自行切换\n不能调整单视频上传并发数，单视频限制大小4G以内\n仅能通过短信登录",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8cb9e4e0a39643c5a212eb5712ead5e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/fe57de49ed69430fa9fce3ce56ab5d92.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/01ec11b22157489289abbd66e6d977fb.png"
 }
 ,
 {

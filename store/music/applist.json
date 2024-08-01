@@ -391,23 +391,6 @@
 }
 ,
 {
-    "Name": "酷狗音乐",
-    "Version": "11.4.2",
-    "Filename": "uengine-dc-com.kugou.android_11.4.2_all.deb",
-    "Torrent_address": "uengine-dc-com.kugou.android_11.4.2_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.kugou.android",
-    "Author": "酷狗音乐",
-    "Contributor": "菜鸟",
-    "Website": "https://www.kugou.com/",
-    "Update": "2023-12-10 22:31:40",
-    "Size": "111.24 MB",
-    "More": "酷狗音乐就是歌多（在线功能正常，本地功能无法使用）",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/a63be242990744858411ea3ac7d0d21a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/c53b68ce399c4242baf133d0d6701063.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/60834bf4481544ed89f9856dad924bb7.png"
-}
-,
-{
     "Name": "Cider",
     "Version": "1.6.2-20230701.1",
     "Filename": "cider_1.6.2-20230701.1_amd64.deb",
@@ -422,6 +405,23 @@
     "Tags": "ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/bd8b09c2360345b7b9f99d7865cb9466.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/15/191eb602df5f4d4e877af33cfee3d969.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/15/36f47381cb1348b7a2ac20ebe43d856a.png"
+}
+,
+{
+    "Name": "酷狗音乐",
+    "Version": "11.4.2",
+    "Filename": "uengine-dc-com.kugou.android_11.4.2_all.deb",
+    "Torrent_address": "uengine-dc-com.kugou.android_11.4.2_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.kugou.android",
+    "Author": "酷狗音乐",
+    "Contributor": "菜鸟",
+    "Website": "https://www.kugou.com/",
+    "Update": "2023-12-10 22:31:40",
+    "Size": "111.24 MB",
+    "More": "酷狗音乐就是歌多（在线功能正常，本地功能无法使用）",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/a63be242990744858411ea3ac7d0d21a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/c53b68ce399c4242baf133d0d6701063.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/60834bf4481544ed89f9856dad924bb7.png"
 }
 ,
 {
@@ -723,22 +723,6 @@
 }
 ,
 {
-    "Name": "安卓无线音箱",
-    "Version": "0.0.1",
-    "Filename": "net.wifiaudio.spark_0.0.1_amd64.deb",
-    "Pkgname": "net.wifiaudio.spark",
-    "Author": "Ajeet Vijayvargiya",
-    "Contributor": "solarphys",
-    "Website": "https://wifiaudio.boards.net/",
-    "Update": "2021-02-08 05:39:08",
-    "Size": "249.53 KB",
-    "More": "谷歌商店应用wireless speaker for android的Linux服务器端，配合安卓端可以将局域网中的安卓手机当做无线音箱使用。该服务器端仅适用于已安装pulse audio的AMD64位Linux。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/08/b3c3bea0-698c-11eb-b7f0-a1195055589c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/08/a0aef2d0-698c-11eb-b7f0-a1195055589c.png"
-}
-,
-{
     "Name": "千千音乐（wine）",
     "Version": "12.1.2spark1",
     "Filename": "com.taihe.music.spark_12.1.2spark1_amd64.deb",
@@ -752,6 +736,22 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/18/436db090-185d-11ec-8adc-d5a44d5945a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/18/435e6e50-185d-11ec-8adc-d5a44d5945a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/18/437c7da0-185d-11ec-8adc-d5a44d5945a5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/18/46c39250-185d-11ec-8adc-d5a44d5945a5.png"
+}
+,
+{
+    "Name": "安卓无线音箱",
+    "Version": "0.0.1",
+    "Filename": "net.wifiaudio.spark_0.0.1_amd64.deb",
+    "Pkgname": "net.wifiaudio.spark",
+    "Author": "Ajeet Vijayvargiya",
+    "Contributor": "solarphys",
+    "Website": "https://wifiaudio.boards.net/",
+    "Update": "2021-02-08 05:39:08",
+    "Size": "249.53 KB",
+    "More": "谷歌商店应用wireless speaker for android的Linux服务器端，配合安卓端可以将局域网中的安卓手机当做无线音箱使用。该服务器端仅适用于已安装pulse audio的AMD64位Linux。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/08/b3c3bea0-698c-11eb-b7f0-a1195055589c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/08/a0aef2d0-698c-11eb-b7f0-a1195055589c.png"
 }
 ,
 {
@@ -1149,19 +1149,19 @@
 ,
 {
     "Name": "Waylyrics",
-    "Version": "0.3.10-1",
-    "Filename": "waylyrics_0.3.10-1_amd64.deb",
-    "Torrent_address": "waylyrics_0.3.10-1_amd64.deb.torrent",
+    "Version": "0.3.13-3",
+    "Filename": "waylyrics_0.3.13-3_amd64.deb",
+    "Torrent_address": "waylyrics_0.3.13-3_amd64.deb.torrent",
     "Pkgname": "waylyrics",
     "Author": "mokurin000 <https://space.bilibili.com/25382793/>",
     "Contributor": "xmb505 <530060699@qq.com>",
     "Website": "https://github.com/waylyrics",
-    "Update": "2024-06-01 16:18:52",
-    "Size": "4.06 MB",
-    "More": "一个外置歌词显示软件，支持musicfox，网易云音乐等多款音乐软件",
+    "Update": "2024-07-31 03:02:56",
+    "Size": "4.04 MB",
+    "More": "一个外置歌词显示软件，支持musicfox，网易云音乐等多款音乐软件\n2024.07.31 修复翻译问题，更新上游版本",
     "Tags": "community;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/01/aef2b132b1234a0aaf60694eb0b33e0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/01/fedeb43a34744aaaaa417151a3178822.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/01/bed1bda7983c4bd2a8db18cd2cddded5.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/31/c64c2d3a7b9a4c7682d62876e8ac9f6a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/31/2ea94861168b4e978d9bcb2a96a2b10d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/31/f3d9b364d8384b7cacf63c1ff3f5306b.png"
 }
 ,
 {

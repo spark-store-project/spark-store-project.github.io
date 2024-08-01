@@ -657,20 +657,6 @@
 
 ,
 {
-   "Name":"Intel核心管理器",
-   "Version":"0.2.0",
-   "Filename":"dde-pstate_0.2.0_all.deb",
-   "Pkgname":"dde-pstate",
-   "Author":"搬运自网络",
-   "Contributor":"奇点法则",
-   "Website":"Q群：226570931",
-   "Update":"2020-07-27 00:32",
-   "Size":"74.25KB",
-   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
-}
-
-,
-{
     "Name": "桌面快捷方式编辑器",
     "Version": "1.4.5+1",
     "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
@@ -685,6 +671,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
 }
+,
+{
+   "Name":"Intel核心管理器",
+   "Version":"0.2.0",
+   "Filename":"dde-pstate_0.2.0_all.deb",
+   "Pkgname":"dde-pstate",
+   "Author":"搬运自网络",
+   "Contributor":"奇点法则",
+   "Website":"Q群：226570931",
+   "Update":"2020-07-27 00:32",
+   "Size":"74.25KB",
+   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
+}
+
 ,
 {
     "Name": "Snipaste",
@@ -789,23 +789,6 @@
 }
 ,
 {
-    "Name": "豌豆荚（UEngine）",
-    "Version": "8.2.0.1",
-    "Filename": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb",
-    "Torrent_address": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.wandoujia.phoenix2",
-    "Author": "豌豆荚",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.wandoujia.com/",
-    "Update": "2023-01-17 17:39:30",
-    "Size": "34.39 MB",
-    "More": "使用前请使用 uengine运行器打开\n\n设置---》安全---》未知来源",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/ec2010ba18e14327a0afbd574bbb7637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e4653284d1434328a6acfe33c0476483.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/726b6630c52649b8ad98c9f174cc1048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/405b3c0c71ce47a4b5d43017ddb654a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e8292bae7642433490f74a51cc5c77f6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/17/b8090e5ec61d4703b2236b1cc7e2491e.png"
-}
-,
-{
     "Name": "LocalSend",
     "Version": "1.14.0+45",
     "Filename": "localsend_1.14.0_plus_45_amd64.deb",
@@ -822,6 +805,23 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/a6433d9fb4de4166ab3a3531bb9d76a9.png"
 }
 
+,
+{
+    "Name": "豌豆荚（UEngine）",
+    "Version": "8.2.0.1",
+    "Filename": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb",
+    "Torrent_address": "uengine-dc-com.wandoujia.phoenix2_8.2.0.1_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.wandoujia.phoenix2",
+    "Author": "豌豆荚",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.wandoujia.com/",
+    "Update": "2023-01-17 17:39:30",
+    "Size": "34.39 MB",
+    "More": "使用前请使用 uengine运行器打开\n\n设置---》安全---》未知来源",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/ec2010ba18e14327a0afbd574bbb7637.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e4653284d1434328a6acfe33c0476483.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/726b6630c52649b8ad98c9f174cc1048.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/405b3c0c71ce47a4b5d43017ddb654a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/17/e8292bae7642433490f74a51cc5c77f6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/17/b8090e5ec61d4703b2236b1cc7e2491e.png"
+}
 ,
 {
     "Name": "引导修复 Boot-Repair",
@@ -1080,23 +1080,6 @@
 }
 ,
 {
-    "Name": "360终端安全防护系统",
-    "Version": "10.0.0.6278",
-    "Filename": "com.360.epp_10.0.0.6278_amd64.deb",
-    "Torrent_address": "com.360.epp_10.0.0.6278_amd64.deb.torrent",
-    "Pkgname": "com.360.epp",
-    "Author": "qihoo360 company <support@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.360.cn/",
-    "Update": "2023-12-30 11:29:04",
-    "Size": "99.15 MB",
-    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/8698c2967e4c46369da663bd7efddd38.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bb5d2e19d4894aed9d261d3c537477c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/91bdb04b8c95495e88d3f05fa8844e3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bbaf4add7cb34e548ab4ddf033e9f99d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85e4a7dacacb433e988d183728a24040.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/dcd6a7557b104091b1b79da9a08852e8.png"
-}
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-store-console_4.2.13_all.deb",
@@ -1113,6 +1096,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-store-console/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "360终端安全防护系统",
+    "Version": "10.0.0.6278",
+    "Filename": "com.360.epp_10.0.0.6278_amd64.deb",
+    "Torrent_address": "com.360.epp_10.0.0.6278_amd64.deb.torrent",
+    "Pkgname": "com.360.epp",
+    "Author": "qihoo360 company <support@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.360.cn/",
+    "Update": "2023-12-30 11:29:04",
+    "Size": "99.15 MB",
+    "More": "360终端安全防护系统是在360安全大脑极智赋能下，面向政府、公检法、电信、能源、金融等各行业企事业单位推出的以安全防御为核心、以安全策略管控为重点、以自动化运维管理为支撑的专业化国产主机防护产品。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/8698c2967e4c46369da663bd7efddd38.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bb5d2e19d4894aed9d261d3c537477c1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/91bdb04b8c95495e88d3f05fa8844e3d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/bbaf4add7cb34e548ab4ddf033e9f99d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/85e4a7dacacb433e988d183728a24040.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/dcd6a7557b104091b1b79da9a08852e8.png"
+}
 ,
 {
     "Name": "爱思助手",
@@ -1263,22 +1263,6 @@
 
 ,
 {
-    "Name": "超卓文件管理器（uengine）",
-    "Version": "15.4.5",
-    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
-    "Pkgname": "com.chaozhuo.filemanager",
-    "Author": "Phoenix OS",
-    "Contributor": "shenmo",
-    "Website": "http://www.phoenixos.com/",
-    "Update": "2022-04-04 15:24:51",
-    "Size": "6.29 MB",
-    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
-}
-,
-{
     "Name": "Bandizip",
     "Version": "7.32spark0",
     "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
@@ -1296,20 +1280,19 @@
 }
 ,
 {
-    "Name": "DDE Top Panel 顶栏程序",
-    "Version": "0.6.8",
-    "Filename": "dde-top-panel_0.6.8_amd64.deb",
-    "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
-    "Pkgname": "dde-top-panel",
-    "Author": "SeptemberHX",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://github.com/SeptemberHX/dde-top-panel",
-    "Update": "2023-02-12 12:59:59",
-    "Size": "7.84 MB",
-    "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
+    "Name": "超卓文件管理器（uengine）",
+    "Version": "15.4.5",
+    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
+    "Pkgname": "com.chaozhuo.filemanager",
+    "Author": "Phoenix OS",
+    "Contributor": "shenmo",
+    "Website": "http://www.phoenixos.com/",
+    "Update": "2022-04-04 15:24:51",
+    "Size": "6.29 MB",
+    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
 }
 ,
 {
@@ -1327,6 +1310,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1d09fb9bc0464504aad41ad5cf1b85ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/dcf9bdbba39d4829b89c0a794089c471.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/269b84a6bffb40fb84515f45c206f669.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/61f91289ce714cb9afb0545169ca7dd8.png"
+}
+,
+{
+    "Name": "DDE Top Panel 顶栏程序",
+    "Version": "0.6.8",
+    "Filename": "dde-top-panel_0.6.8_amd64.deb",
+    "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
+    "Pkgname": "dde-top-panel",
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/SeptemberHX/dde-top-panel",
+    "Update": "2023-02-12 12:59:59",
+    "Size": "7.84 MB",
+    "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
 }
 ,
 {
@@ -1460,22 +1460,6 @@
 }
 ,
 {
-    "Name": "TLP 设置",
-    "Version": "1.3.1-1",
-    "Filename": "python3-tlpui_1.3.1-1_all.deb",
-    "Pkgname": "python3-tlpui",
-    "Author": "Daniel Christophis",
-    "Contributor": "lidanger",
-    "Website": "https://github.com/d4nj1/TLPUI",
-    "Update": "2020-10-24 01:58:02",
-    "Size": "56.46 KB",
-    "More": "GTK UI for tlp (Python 3)",
-    "Tags": "deepin;ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
-}
-,
-{
     "Name": "QGIS",
     "Version": "3.18.3",
     "Filename": "qgis.gisshows_3.18.3_amd64.deb",
@@ -1489,6 +1473,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
+}
+,
+{
+    "Name": "TLP 设置",
+    "Version": "1.3.1-1",
+    "Filename": "python3-tlpui_1.3.1-1_all.deb",
+    "Pkgname": "python3-tlpui",
+    "Author": "Daniel Christophis",
+    "Contributor": "lidanger",
+    "Website": "https://github.com/d4nj1/TLPUI",
+    "Update": "2020-10-24 01:58:02",
+    "Size": "56.46 KB",
+    "More": "GTK UI for tlp (Python 3)",
+    "Tags": "deepin;ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
 }
 ,
 {
@@ -1544,6 +1544,20 @@
 }
 ,
 {
+   "Name":"一键更换bing壁纸",
+   "Version":"0.9",
+   "Filename":"oneclickbingwallpaper_0.9_amd64.deb",
+   "Pkgname":"oneclickbingwallpaper",
+   "Author":" ",
+   "Contributor":"shenmo",
+   "Website":" ",
+   "Update":"2020-06-25 18:10",
+   "Size":"46.53KB",
+   "More":"一键更换bing壁纸"
+}
+
+,
+{
     "Name": "electerm",
     "Version": "1.39.68-1",
     "Filename": "electerm_1.39.68-1_amd64.deb",
@@ -1561,37 +1575,6 @@
 }
 ,
 {
-    "Name": "优效日历",
-    "Version": "2.4.6.1spark2",
-    "Filename": "com.yxcalendar.spark_2.4.6.1spark2_all.deb",
-    "Torrent_address": "com.yxcalendar.spark_2.4.6.1spark2_all.deb.torrent",
-    "Pkgname": "com.yxcalendar.spark",
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "sgb76",
-    "Website": "http://www.youxiao.cn/",
-    "Update": "2024-06-02 21:23:14",
-    "Size": "19.63 MB",
-    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/cd8d02b6a32b459d8195cde655b4b6dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/860ca22215d34d92a5a89f41cd5470a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/b303c921ce51480ca1f379ed274598ca.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/44c3229effa04e29a97d0753f7434c3e.png"
-}
-,
-{
-   "Name":"一键更换bing壁纸",
-   "Version":"0.9",
-   "Filename":"oneclickbingwallpaper_0.9_amd64.deb",
-   "Pkgname":"oneclickbingwallpaper",
-   "Author":" ",
-   "Contributor":"shenmo",
-   "Website":" ",
-   "Update":"2020-06-25 18:10",
-   "Size":"46.53KB",
-   "More":"一键更换bing壁纸"
-}
-
-,
-{
     "Name": "CopyQ",
     "Version": "9.0.0-1",
     "Filename": "copyq_9.0.0-1_amd64.deb",
@@ -1606,6 +1589,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/e42f4138860d4cd28ca5ca7b450170be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/15be502006994a539a93e6288fb0b803.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/ab414cc6119846928ae9c9dfa2dcd6fb.png"
+}
+,
+{
+    "Name": "优效日历",
+    "Version": "2.4.6.1spark2",
+    "Filename": "com.yxcalendar.spark_2.4.6.1spark2_all.deb",
+    "Torrent_address": "com.yxcalendar.spark_2.4.6.1spark2_all.deb.torrent",
+    "Pkgname": "com.yxcalendar.spark",
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "sgb76",
+    "Website": "http://www.youxiao.cn/",
+    "Update": "2024-06-02 21:23:14",
+    "Size": "19.63 MB",
+    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/cd8d02b6a32b459d8195cde655b4b6dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/860ca22215d34d92a5a89f41cd5470a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/b303c921ce51480ca1f379ed274598ca.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/44c3229effa04e29a97d0753f7434c3e.png"
 }
 ,
 {
@@ -1864,6 +1864,23 @@
 }
 ,
 {
+    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
+    "Version": "10.0.9.0.8-903spark1",
+    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
+    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
+    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
+    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.taotics.com/",
+    "Update": "2024-07-02 07:41:36",
+    "Size": "59.98 MB",
+    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
     "Name": "深度云扫描",
     "Version": "1.2-spark0",
     "Filename": "spark-deepin-cloud-scanner_1.2-spark0_amd64.deb",
@@ -1877,23 +1894,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b44337e0-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b73ca1c0-98ec-11eb-83e4-07d70af35066.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/923c20d0-98ec-11eb-83e4-07d70af35066.png"
-}
-,
-{
-    "Name": "alist",
-    "Version": "1",
-    "Filename": "alist_1_amd64.deb",
-    "Torrent_address": "alist_1_amd64.deb.torrent",
-    "Pkgname": "alist",
-    "Author": "BoYanZh",
-    "Contributor": "WAYYYAW <way610@126.com>",
-    "Website": "https://alist.nn.ci/zh/",
-    "Update": "2023-01-12 17:38:15",
-    "Size": "12.77 MB",
-    "More": "一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。\n-云盘挂载,支持\n-webdav\n-安装后不会自动开启，请打开“配置alist”\n-添加云盘请参考https://alist.nn.ci/zh/guide/install/manual.html",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/7740e89529ec46f78d3ae37c3a868aa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/69dcb6f9ba8e46a092936441c9301308.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/763c88e1d66c4660935b572e27e00340.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/aec20b0cebb148e899fc1c673f75950d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/7945cd0cc29047d4b2f77634be91f2fc.png"
 }
 ,
 {
@@ -1914,20 +1914,20 @@
 }
 ,
 {
-    "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
-    "Version": "10.0.9.0.8-903spark1",
-    "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
-    "Torrent_address": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb.torrent",
-    "Pkgname": "com.sogou.ime.ng.fcitx5.deepin",
-    "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.taotics.com/",
-    "Update": "2024-07-02 07:41:36",
-    "Size": "59.98 MB",
-    "More": "搜狗拼音输入法官网下载,荣获多个国内软件大奖的搜狗拼音输入法是一款打字更准、词库更大、速度更快、外观漂亮、用了让您爱不释手的输入法,是您装机输入的好选择。享受输入,从搜狗开始！\n由 http://repo.taotics.com/cross-platform-input-solution/ 源里的 deb 合包而来",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+    "Name": "alist",
+    "Version": "1",
+    "Filename": "alist_1_amd64.deb",
+    "Torrent_address": "alist_1_amd64.deb.torrent",
+    "Pkgname": "alist",
+    "Author": "BoYanZh",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "https://alist.nn.ci/zh/",
+    "Update": "2023-01-12 17:38:15",
+    "Size": "12.77 MB",
+    "More": "一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。\n-云盘挂载,支持\n-webdav\n-安装后不会自动开启，请打开“配置alist”\n-添加云盘请参考https://alist.nn.ci/zh/guide/install/manual.html",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/7740e89529ec46f78d3ae37c3a868aa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/69dcb6f9ba8e46a092936441c9301308.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/763c88e1d66c4660935b572e27e00340.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/aec20b0cebb148e899fc1c673f75950d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/7945cd0cc29047d4b2f77634be91f2fc.png"
 }
 ,
 {
@@ -2115,22 +2115,6 @@
 }
 ,
 {
-    "Name": "DTK桌面便签",
-    "Version": "0.0.4_plus_spark3",
-    "Filename": "dtkstickynotes.spark_0.0.4_plus_spark3_amd64.deb",
-    "Pkgname": "dtkstickynotes.spark",
-    "Author": "RubbishZhYic",
-    "Contributor": "Spark",
-    "Website": "http://zhyic.tk",
-    "Update": "2021-02-19 11:01:05",
-    "Size": "274.4 KB",
-    "More": "一款用DTK5开发的桌面便签",
-    "Tags": "deepin;community;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9a259a60-725e-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9ec27b10-725e-11eb-b279-bf053debaf81.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/972dde30-725e-11eb-b279-bf053debaf81.png"
-}
-,
-{
     "Name": "网速查看器(测试版本)",
     "Version": "0.1-20230107",
     "Filename": "z-tools-speedwidget_0.1-20230107_amd64.deb",
@@ -2148,6 +2132,22 @@
 }
 ,
 {
+    "Name": "DTK桌面便签",
+    "Version": "0.0.4_plus_spark3",
+    "Filename": "dtkstickynotes.spark_0.0.4_plus_spark3_amd64.deb",
+    "Pkgname": "dtkstickynotes.spark",
+    "Author": "RubbishZhYic",
+    "Contributor": "Spark",
+    "Website": "http://zhyic.tk",
+    "Update": "2021-02-19 11:01:05",
+    "Size": "274.4 KB",
+    "More": "一款用DTK5开发的桌面便签",
+    "Tags": "deepin;community;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9a259a60-725e-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9ec27b10-725e-11eb-b279-bf053debaf81.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/972dde30-725e-11eb-b279-bf053debaf81.png"
+}
+,
+{
     "Name": "奔图打印机驱动",
     "Version": "7.4.176-1+uos",
     "Filename": "com.pantum.pantum_7.4.176-1_plus_uos_amd64.deb",
@@ -2162,6 +2162,23 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/e43dbd0abad64a4faa26574856dcda6c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/2c9e507c3cda48b6ab111952abc7ec68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/24/7943153a735e4bf3b3e9997737b491b5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/470b6c14ac7443f2bb88d91b513ff728.png"
+}
+,
+{
+    "Name": "MPaste：剪贴板管理工具",
+    "Version": "0.2.0",
+    "Filename": "mpaste_0.2.0_amd64.deb",
+    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
+    "Pkgname": "mpaste",
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/SeptemberHX/MPaste/",
+    "Update": "2023-02-12 13:17:37",
+    "Size": "2.81 MB",
+    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
 }
 ,
 {
@@ -2194,23 +2211,6 @@
    "More":"小米bl解锁工具哦！！！"
 }
 
-,
-{
-    "Name": "MPaste：剪贴板管理工具",
-    "Version": "0.2.0",
-    "Filename": "mpaste_0.2.0_amd64.deb",
-    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
-    "Pkgname": "mpaste",
-    "Author": "SeptemberHX",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://github.com/SeptemberHX/MPaste/",
-    "Update": "2023-02-12 13:17:37",
-    "Size": "2.81 MB",
-    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
-}
 ,
 {
     "Name": "spark-webapp-runtime 运行器",
@@ -2247,23 +2247,6 @@
 }
 ,
 {
-    "Name": "pacapt--Arch用户的福音",
-    "Version": "3.0.7.2",
-    "Filename": "pacapt_3.0.7.2_all.deb",
-    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
-    "Pkgname": "pacapt",
-    "Author": "shy <1658347525@qq.com>",
-    "Contributor": "shy <1658347525@qq.com>",
-    "Website": "https://github.com/icy/pacapt",
-    "Update": "2023-01-01 13:16:19",
-    "Size": "13.67 KB",
-    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
-}
-,
-{
     "Name": "速享 局域网文件分享",
     "Version": "1.3.1-1",
     "Filename": "speed-share_1.3.1-1_amd64.deb",
@@ -2278,6 +2261,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/a99dfdfb-bb09-4c15-9239-85a09a955d35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/3d6d9328-a381-4105-b046-5c96ae64218a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/03545a03-e7b1-4650-b708-c5ff785d61c4.png"
+}
+,
+{
+    "Name": "pacapt--Arch用户的福音",
+    "Version": "3.0.7.2",
+    "Filename": "pacapt_3.0.7.2_all.deb",
+    "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
+    "Pkgname": "pacapt",
+    "Author": "shy <1658347525@qq.com>",
+    "Contributor": "shy <1658347525@qq.com>",
+    "Website": "https://github.com/icy/pacapt",
+    "Update": "2023-01-01 13:16:19",
+    "Size": "13.67 KB",
+    "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
 }
 ,
 {
@@ -2349,6 +2349,23 @@
 }
 ,
 {
+    "Name": "QGIS(书虫版)",
+    "Version": "3.32.1-fix1-cursor",
+    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
+    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
+    "Pkgname": "org.qgis.qgis",
+    "Author": "shenmo<ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://qgis.org/",
+    "Update": "2023-08-20 16:04:58",
+    "Size": "622.3 MB",
+    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -2365,23 +2382,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "QGIS(书虫版)",
-    "Version": "3.32.1-fix1-cursor",
-    "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
-    "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
-    "Pkgname": "org.qgis.qgis",
-    "Author": "shenmo<ouyangyunrui@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://qgis.org/",
-    "Update": "2023-08-20 16:04:58",
-    "Size": "622.3 MB",
-    "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
-}
 ,
 {
     "Name": "系统传感器显示工具",
@@ -2634,23 +2634,6 @@
 }
 ,
 {
-    "Name": "超级工具箱（xjavafxtools）",
-    "Version": "0.3.2",
-    "Filename": "xjavafxtool_0.3.2_amd64.deb",
-    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
-    "Pkgname": "xjavafxtool",
-    "Author": "xwintop",
-    "Contributor": "shenmo",
-    "Website": "https://gitee.com/xwintop/xJavaFxTool",
-    "Update": "2022-08-21 16:47:39",
-    "Size": "85.82 MB",
-    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
-}
-,
-{
     "Name": "finalshell",
     "Version": "4.3.10",
     "Filename": "finalshell_4.3.10_amd64.deb",
@@ -2665,6 +2648,23 @@
     "Tags": "deepin;ubuntu",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/21/41947650-ff96-11ee-b5ae-a318306da881.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/21/35b22a30-ff96-11ee-b5ae-a318306da881.png"
+}
+,
+{
+    "Name": "超级工具箱（xjavafxtools）",
+    "Version": "0.3.2",
+    "Filename": "xjavafxtool_0.3.2_amd64.deb",
+    "Torrent_address": "xjavafxtool_0.3.2_amd64.deb.torrent",
+    "Pkgname": "xjavafxtool",
+    "Author": "xwintop",
+    "Contributor": "shenmo",
+    "Website": "https://gitee.com/xwintop/xJavaFxTool",
+    "Update": "2022-08-21 16:47:39",
+    "Size": "85.82 MB",
+    "More": "xJavaFxTool是使用javaFx开发的实用小工具集，利用业余时间把工作中遇到的一些问题总结起来，打包进小工具集中，供大家参考和使用，里面包含了javaFx的一些功能的示例，如布局、国际化、第三方UI库controlsfx、JFoenix等、外部jar包加载(插件机制)等一些常用功能，想学习javaFx的同学可以参考参考，学习javaFx的资料参考www.javafxchina.net",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e76f9d50-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e78659a0-212d-11ed-9d7c-f52b0823211a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/21/e7910800-212d-11ed-9d7c-f52b0823211a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/21/e516e040-212d-11ed-9d7c-f52b0823211a.png"
 }
 ,
 {
@@ -2767,22 +2767,6 @@
 }
 ,
 {
-    "Name": "倒计时",
-    "Version": "1.0",
-    "Filename": "spark.gitee.timer_1.0_amd64.deb",
-    "Pkgname": "spark.gitee.timer",
-    "Author": "gfdgd xi",
-    "Contributor": "gfdgd xi",
-    "Website": "https://gitee.com/gfdgd-xi/timer",
-    "Update": "2021-07-20 09:51:13",
-    "Size": "12.6 KB",
-    "More": "使用 dtk 写的一个倒计时工具",
-    "Tags": "community;dtk5;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/20/e485f900-e8fc-11eb-a319-15d332c042af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/20/e4a0fb10-e8fc-11eb-a319-15d332c042af.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/20/dad13b40-e8fc-11eb-a319-15d332c042af.svg"
-}
-,
-{
     "Name": "羽云工具箱",
     "Version": "1.0.0",
     "Filename": "com.wingsummer.wingtool_1.0.0_amd64.deb",
@@ -2797,6 +2781,22 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/df1374d3f10e4abb8450ccdc66a0f791.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/20d407b92a7c44b8b03bfde82c77d652.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/f9d1c7d1070144dbb7127030fcb02215.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/01ac84ade538458bac751f958ad4e2a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/ee3ef868e23446fba57a10012bd7d97d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/4233dfac46334fc9b1671ac795d7ab69.png"
+}
+,
+{
+    "Name": "倒计时",
+    "Version": "1.0",
+    "Filename": "spark.gitee.timer_1.0_amd64.deb",
+    "Pkgname": "spark.gitee.timer",
+    "Author": "gfdgd xi",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/timer",
+    "Update": "2021-07-20 09:51:13",
+    "Size": "12.6 KB",
+    "More": "使用 dtk 写的一个倒计时工具",
+    "Tags": "community;dtk5;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/20/e485f900-e8fc-11eb-a319-15d332c042af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/20/e4a0fb10-e8fc-11eb-a319-15d332c042af.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/20/dad13b40-e8fc-11eb-a319-15d332c042af.svg"
 }
 ,
 {
@@ -2916,6 +2916,23 @@
 }
 ,
 {
+    "Name": "DropPoint",
+    "Version": "1.2.0~spark",
+    "Filename": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb",
+    "Torrent_address": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb.torrent",
+    "Pkgname": "app.netlify.droppoint.spark",
+    "Author": "spark-store",
+    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+    "Website": "https://droppoint.netlify.app/",
+    "Update": "2022-10-15 10:45:13",
+    "Size": "75.35 MB",
+    "More": "DropPoint 是一款用来提高复制粘贴文件效率的跨平台工具，支持 Windows、macOS、Linux，它会给你一个临时中转悬浮框，只需要将一处或多处想要复制的文件拖拽到这个悬浮框，再一次性拖拽至目的地文件夹，就能高效完成复制粘贴。",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/bfa46a61-610d-4e9d-b0b6-0ef0aaabf5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/2d8533c7-5af6-464d-a00c-186290900a8a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/41e83698-b321-44a0-ba07-e26efa706966.png"
+}
+,
+{
     "Name": "Deepin Community Live CD 2.0.0-tiny",
     "Version": "2.0.0",
     "Filename": "live-filesystem-community-tiny_2.0.0_amd64.deb",
@@ -2950,20 +2967,20 @@
 }
 ,
 {
-    "Name": "DropPoint",
-    "Version": "1.2.0~spark",
-    "Filename": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb",
-    "Torrent_address": "app.netlify.droppoint.spark_1.2.0~spark_amd64.deb.torrent",
-    "Pkgname": "app.netlify.droppoint.spark",
-    "Author": "spark-store",
-    "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-    "Website": "https://droppoint.netlify.app/",
-    "Update": "2022-10-15 10:45:13",
-    "Size": "75.35 MB",
-    "More": "DropPoint 是一款用来提高复制粘贴文件效率的跨平台工具，支持 Windows、macOS、Linux，它会给你一个临时中转悬浮框，只需要将一处或多处想要复制的文件拖拽到这个悬浮框，再一次性拖拽至目的地文件夹，就能高效完成复制粘贴。",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/bfa46a61-610d-4e9d-b0b6-0ef0aaabf5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/2d8533c7-5af6-464d-a00c-186290900a8a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/41e83698-b321-44a0-ba07-e26efa706966.png"
+    "Name": "换源宝贝",
+    "Version": "1.01",
+    "Filename": "com.huanyuanbaobei.spark_1.01_amd64.deb",
+    "Torrent_address": "com.huanyuanbaobei.spark_1.01_amd64.deb.torrent",
+    "Pkgname": "com.huanyuanbaobei.spark",
+    "Author": "fax928 <264214467@qq.com>",
+    "Contributor": "fax928",
+    "Website": "https://gitee.com/wu-wanjia/huan-yuan-bao-bei",
+    "Update": "2024-01-12 20:46:41",
+    "Size": "153.48 KB",
+    "More": "换源宝贝是一款可以修改源的迷你软件，亦是一款迷你的文件内容编辑软件。\n\n2024-01-07 V1.00发布。\n2024-01-10 V1.01-优化了帮助窗口。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/0f822586a78e4a9e8cb838836b425238.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/f7476b3265cb40009a299c4d987aa110.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/d8056da80eaa4c21b587c34267022a39.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/bfcc4f6a70e347dfa6ea808dcc4c87f1.png"
 }
 ,
 {
@@ -2997,23 +3014,6 @@
     "Tags": "deepin;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d0a8d690-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d315b7e0-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d643ed60-055f-11eb-9cad-b3640a7d923a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/03/d8bdc700-055f-11eb-9cad-b3640a7d923a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/03/cc9cc430-055f-11eb-9cad-b3640a7d923a.png"
-}
-,
-{
-    "Name": "换源宝贝",
-    "Version": "1.01",
-    "Filename": "com.huanyuanbaobei.spark_1.01_amd64.deb",
-    "Torrent_address": "com.huanyuanbaobei.spark_1.01_amd64.deb.torrent",
-    "Pkgname": "com.huanyuanbaobei.spark",
-    "Author": "fax928 <264214467@qq.com>",
-    "Contributor": "fax928",
-    "Website": "https://gitee.com/wu-wanjia/huan-yuan-bao-bei",
-    "Update": "2024-01-12 20:46:41",
-    "Size": "153.48 KB",
-    "More": "换源宝贝是一款可以修改源的迷你软件，亦是一款迷你的文件内容编辑软件。\n\n2024-01-07 V1.00发布。\n2024-01-10 V1.01-优化了帮助窗口。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/0f822586a78e4a9e8cb838836b425238.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/f7476b3265cb40009a299c4d987aa110.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/d8056da80eaa4c21b587c34267022a39.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/bfcc4f6a70e347dfa6ea808dcc4c87f1.png"
 }
 ,
 {
@@ -3423,6 +3423,23 @@
 }
 ,
 {
+    "Name": "UOS应用迁移助手",
+    "Version": "2.0.001-1",
+    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
+    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
+    "Pkgname": "deepin-wine-builder",
+    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2024-07-26 11:45:33",
+    "Size": "1.09 MB",
+    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
+    "Tags": "deepin;uos;dtk5;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
+}
+,
+{
     "Name": "AppImageHub 简易搜索工具",
     "Version": "0.0.1-20231206",
     "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
@@ -3573,23 +3590,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
-}
-,
-{
-    "Name": "UOS应用迁移助手",
-    "Version": "2.0.001-1",
-    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
-    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
-    "Pkgname": "deepin-wine-builder",
-    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2024-07-26 11:45:33",
-    "Size": "1.09 MB",
-    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
-    "Tags": "deepin;uos;dtk5;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
 }
 ,
 {
@@ -4011,6 +4011,23 @@
 }
 ,
 {
+    "Name": "时钟大师",
+    "Version": "1.5-20240517",
+    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
+    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
+    "Pkgname": "com.gitee.xinghuo.clock",
+    "Author": "夜行者",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
+    "Update": "2024-06-08 09:33:03",
+    "Size": "54.19 KB",
+    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
+}
+,
+{
     "Name": "Linux SOS端",
     "Version": "1.3.1.5",
     "Filename": "todesksos_1.3.1.5_amd64.deb",
@@ -4109,23 +4126,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/64dbe3af88044995befc21feb654fbf8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/a9c8ffd5a9154b2ba03b44d613dd5c3c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/e320b72570f34089a30f44a95f64d6da.png"
-}
-,
-{
-    "Name": "时钟大师",
-    "Version": "1.5-20240517",
-    "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
-    "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
-    "Pkgname": "com.gitee.xinghuo.clock",
-    "Author": "夜行者",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/xinghuowangluo/clockwidget",
-    "Update": "2024-06-08 09:33:03",
-    "Size": "54.19 KB",
-    "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
 }
 ,
 {
@@ -4722,6 +4722,23 @@
 }
 ,
 {
+    "Name": "deepin 磁盘管理器",
+    "Version": "1.3.34",
+    "Filename": "deepin-diskmanager_1.3.34_amd64.deb",
+    "Torrent_address": "deepin-diskmanager_1.3.34_amd64.deb.torrent",
+    "Pkgname": "deepin-diskmanager",
+    "Author": "deepin <packages@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/linuxdeepin/deepin-diskmanager",
+    "Update": "2024-07-27 17:18:38",
+    "Size": "4.42 MB",
+    "More": "deepin 磁盘管理器，dtk 5.4 移植",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c34a1cef330542be85f7fd8b955e3164.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/ab4778120ef24a1c8aa0b2f267794965.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/71131f395e0242b0936bb75e3b4f9696.png"
+}
+,
+{
     "Name": "ARCHPR 压缩文件密码破解",
     "Version": "4.66.266spark1",
     "Filename": "com.elcomsoft.deepin_4.66.266spark1_all.deb",
@@ -4873,23 +4890,6 @@
     "Tags": "community;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/09/da991b4e86124ebaa72058607fdf9b2f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/09/261c439a051e48b7ad4aa56793dfc079.png"
-}
-,
-{
-    "Name": "deepin 磁盘管理器",
-    "Version": "1.3.34",
-    "Filename": "deepin-diskmanager_1.3.34_amd64.deb",
-    "Torrent_address": "deepin-diskmanager_1.3.34_amd64.deb.torrent",
-    "Pkgname": "deepin-diskmanager",
-    "Author": "deepin <packages@deepin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/linuxdeepin/deepin-diskmanager",
-    "Update": "2024-07-27 17:18:38",
-    "Size": "4.42 MB",
-    "More": "deepin 磁盘管理器，dtk 5.4 移植",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c34a1cef330542be85f7fd8b955e3164.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/ab4778120ef24a1c8aa0b2f267794965.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/71131f395e0242b0936bb75e3b4f9696.png"
 }
 ,
 {

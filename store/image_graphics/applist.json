@@ -203,23 +203,6 @@
 }
 ,
 {
-    "Name": "蜂蜜图片浏览器",
-    "Version": "5.53spark3",
-    "Filename": "com.bandisoft.honeyview.spark_5.53spark3_all.deb",
-    "Torrent_address": "com.bandisoft.honeyview.spark_5.53spark3_all.deb.torrent",
-    "Pkgname": "com.bandisoft.honeyview.spark",
-    "Author": "Bandisoft International Inc",
-    "Contributor": "sgb76",
-    "Website": "http://www.bandisoft.com/honeyview/",
-    "Update": "2024-07-29 22:20:18",
-    "Size": "22.98 MB",
-    "More": "Honeyview 是一款快速的图片查看器\n*主要功能\n 轻量而快速\n 可以显示包括 GPS 信息在内的 JPEG 格式的 EXIF 信息\n 对图像格式进行批量转换和调整大小\n 支持显示 GIF 和 WebP 动图\n 无需解压即可直接查看压缩包中的图像\n*支持的格式\n 图像格式: BMP, JPG, GIF, PNG, PSD, DDS, JXR, WebP, J2K, JP2, TGA, TIFF, PCX, PGM, PNM, PPM, BPG\n Raw 图像格式: DNG, CR2, CRW, NEF, NRW, ORF, RW2, PEF, SR2, RAF\n 动画图像格式: Animated GIF, Animated WebP, Animated BPG, Animated PNG\n 无需解压即可直接查看压缩包中的图像: ZIP, RAR, 7Z, LZH, TAR, CBR, CBZ\n\n===更新说明===\nUbuntu22.04下改为默认调用wine文管，避免打开文件错误",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/eb6f93bc709645e987e00e824782b185.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/cab47f39665140989386f59ea0115cc4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/ccf6c82b77e5418ba5d862d511d820ea.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/29/e7e66a32813a4554ac27949409e53b58.png"
-}
-,
-{
     "Name": "Sunny 截图",
     "Version": "1.6.3",
     "Filename": "sunny_1.6.3_amd64.deb",
@@ -234,6 +217,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/0697ed3b0cd74a318bb029cc5fcb7dba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/7ecd11270e8b49258bb535cd80ad7f2e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f577e1db22844066926730b835008c15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/baf4c1ea15bc413f996f67b4d1b8a478.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1099a098771243968ad411e1455cada1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/dc8a20e95f85431cb03b556b87eff892.png"
+}
+,
+{
+    "Name": "蜂蜜图片浏览器",
+    "Version": "5.53spark3",
+    "Filename": "com.bandisoft.honeyview.spark_5.53spark3_all.deb",
+    "Torrent_address": "com.bandisoft.honeyview.spark_5.53spark3_all.deb.torrent",
+    "Pkgname": "com.bandisoft.honeyview.spark",
+    "Author": "Bandisoft International Inc",
+    "Contributor": "sgb76",
+    "Website": "http://www.bandisoft.com/honeyview/",
+    "Update": "2024-07-29 22:20:18",
+    "Size": "22.98 MB",
+    "More": "Honeyview 是一款快速的图片查看器\n*主要功能\n 轻量而快速\n 可以显示包括 GPS 信息在内的 JPEG 格式的 EXIF 信息\n 对图像格式进行批量转换和调整大小\n 支持显示 GIF 和 WebP 动图\n 无需解压即可直接查看压缩包中的图像\n*支持的格式\n 图像格式: BMP, JPG, GIF, PNG, PSD, DDS, JXR, WebP, J2K, JP2, TGA, TIFF, PCX, PGM, PNM, PPM, BPG\n Raw 图像格式: DNG, CR2, CRW, NEF, NRW, ORF, RW2, PEF, SR2, RAF\n 动画图像格式: Animated GIF, Animated WebP, Animated BPG, Animated PNG\n 无需解压即可直接查看压缩包中的图像: ZIP, RAR, 7Z, LZH, TAR, CBR, CBZ\n\n===更新说明===\nUbuntu22.04下改为默认调用wine文管，避免打开文件错误",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/eb6f93bc709645e987e00e824782b185.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/cab47f39665140989386f59ea0115cc4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/ccf6c82b77e5418ba5d862d511d820ea.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/29/e7e66a32813a4554ac27949409e53b58.png"
 }
 ,
 {
@@ -1360,6 +1360,24 @@
 }
 ,
 {
+    "Author": "info@ovital.com",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "ovital-map_2.6.8_arm64.deb",
+    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
+    "Name": "奥维互动地图",
+    "Pkgname": "ovital-map",
+    "Size": "103 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
+    "Update": "2024-05-30 16:07:55",
+    "Version": "2.6.8",
+    "Website": "https://www.ovital.com",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
+}
+
+,
+{
     "Name": "Lunacy",
     "Version": "8.4.0",
     "Filename": "lunacy_8.4.0_amd64.deb",
@@ -1408,24 +1426,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/20/6690b25e43a64ff894c018ccf1108a1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/20/99fc31ec6032443e906b561968b2a7ee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/20/b4802914c696456b9279624465eeb8e5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/20/096b0681acdc42149730302430323d32.png"
 }
-,
-{
-    "Author": "info@ovital.com",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "ovital-map_2.6.8_arm64.deb",
-    "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
-    "Name": "奥维互动地图",
-    "Pkgname": "ovital-map",
-    "Size": "103 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "ovital-map_2.6.8_arm64.deb.torrent",
-    "Update": "2024-05-30 16:07:55",
-    "Version": "2.6.8",
-    "Website": "https://www.ovital.com",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/ovital-map/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "jspaint",
@@ -2561,5 +2561,22 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/14/c04fa67d84fb4b3290c93dd1dc255298.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/14/15a796b11e15406a892fec68cb46c0e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/14/bb4d32bcee1141b8baf6cf208e5716f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/14/06a241b251084677bbad616d7e4db831.png"
+}
+,
+{
+    "Name": "浩辰CAD Linux版 2025",
+    "Version": "25.0",
+    "Filename": "com.gstarsoft.gstarcad2025_25.0_amd64.deb",
+    "Torrent_address": "com.gstarsoft.gstarcad2025_25.0_amd64.deb.torrent",
+    "Pkgname": "com.gstarsoft.gstarcad2025",
+    "Author": "support <support@gstarcad.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.gstarcad.com",
+    "Update": "2024-08-01 14:55:59",
+    "Size": "425.36 MB",
+    "More": "浩辰CAD Linux版是浩辰软件基于Linux系统开发的全国产CAD设计软件，完美兼容各个版本的图纸数据文件，提供全面丰富的CAD功能命令，延续Windows版的软件界面及操作习惯，实现了无差别化的CAD设计应用，为企业的发展提供了更安全可控的应用保障。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/01/a40447e3687f49949253d318a354c8c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/01/c5a9b7263b5540a18b879cc81308bcd4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/01/4cacef46cc604c47b9476adbc6abbd9f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/01/06ab4d9862f0498cadc2424765130e36.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/01/1e6c0d897a114861be0dba9c270c44e5.png"
 }
 ]

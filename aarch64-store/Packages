@@ -8369,22 +8369,22 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.91.1-1720562813
+Version: 1.92.0-1722471464
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 382009
+Installed-Size: 389281
 Provides: visual-studio-code
-Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgssapi-krb5-2 (>= 1.17), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libkrb5-3 (>= 1.6.dfsg.2), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 5.2), libstdc++6 (>= 6), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgssapi-krb5-2 (>= 1.17), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libkrb5-3 (>= 1.6.dfsg.2), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 5.2), libstdc++6 (>= 6), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.91.1-1720562813_arm64.deb
-Size: 93252506
-MD5sum: 6db439fad00149193880ab3ddf9d8352
-SHA1: 0b63ee78f1a831a58a23c2d73ebef108f3b8093f
-SHA256: 4021f51ae1dfdb11953a0d0814c82e1dbf4569f14fc9ddea70dc4f4b74cd7765
-SHA512: e4079a375920ef92d8005818eea069c8ba3b0b427d6dd3a8b85ffc64724647aa9de72e7539533a1a43e40a93a6c33babd970cb258babb4edd21034940b50fb8f
+Filename: development/code/code_1.92.0-1722471464_arm64.deb
+Size: 94805138
+MD5sum: 8fa3f917a7cab1514c66f1f60140f214
+SHA1: 3679082b7ae1e14fb5b0198491dea2bed1c49bd5
+SHA256: ecfc9f73de6029202f0010ddbc2113964dd635e3a901076dbfb3366b04c59cc6
+SHA512: a16cfed9692347e26d23f8f2a5e4aa0eb4271f91b083b64ec6e4111acca89fc69bad147091371a1be8deb5243055acd05019952dda6dcf103278308c4d1c6a3e
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
