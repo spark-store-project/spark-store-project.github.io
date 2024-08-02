@@ -1149,22 +1149,6 @@
 }
 ,
 {
-    "Name": "深度云打印配置助手",
-    "Version": "1.2.5.2-spark0",
-    "Filename": "spark-deepin-cloud-print_1.2.5.2-spark0_amd64.deb",
-    "Pkgname": "spark-deepin-cloud-print",
-    "Author": "linuxdeepin",
-    "Contributor": "shenmo",
-    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
-    "Update": "2021-04-09 12:29:44",
-    "Size": "296.99 KB",
-    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\n\n【安装提示】\n建议使用“星火内置安装器”安装",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/1e209e10-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/20f62c40-98ec-11eb-83e4-07d70af35066.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/eaa6d270-98eb-11eb-83e4-07d70af35066.png"
-}
-,
-{
     "Name": "NxShell",
     "Version": "1.9.3",
     "Filename": "nxshell_1.9.3_amd64.deb",
@@ -1179,6 +1163,22 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/30ddf581e8184189b9d4dd73f81304c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/0c83a0e3229541e1a2ee576c2811e209.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/94e78221f9c6487f9dd6288361cffd02.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/24/79df0845453a4259bb6e5f31617ce76c.png"
+}
+,
+{
+    "Name": "深度云打印配置助手",
+    "Version": "1.2.5.2-spark0",
+    "Filename": "spark-deepin-cloud-print_1.2.5.2-spark0_amd64.deb",
+    "Pkgname": "spark-deepin-cloud-print",
+    "Author": "linuxdeepin",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
+    "Update": "2021-04-09 12:29:44",
+    "Size": "296.99 KB",
+    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\n\n【安装提示】\n建议使用“星火内置安装器”安装",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/1e209e10-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/20f62c40-98ec-11eb-83e4-07d70af35066.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/eaa6d270-98eb-11eb-83e4-07d70af35066.png"
 }
 ,
 {
@@ -1443,6 +1443,22 @@
 
 ,
 {
+    "Name": "QGIS",
+    "Version": "3.18.3",
+    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
+    "Pkgname": "qgis.gisshows",
+    "Author": "QGIS",
+    "Contributor": "GIS Show",
+    "Website": "www.qgis.org",
+    "Update": "2021-05-18 20:43:57",
+    "Size": "57.33 MB",
+    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
+}
+,
+{
     "Name": "Macast",
     "Version": "0.7",
     "Filename": "macast_0.7_amd64.deb",
@@ -1457,22 +1473,6 @@
     "Tags": "deepin;ubuntu;uos;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/03/a78748c0-b31c-11ec-9c94-e5b618764332.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/03/a2bcef70-b31c-11ec-9c94-e5b618764332.png"
-}
-,
-{
-    "Name": "QGIS",
-    "Version": "3.18.3",
-    "Filename": "qgis.gisshows_3.18.3_amd64.deb",
-    "Pkgname": "qgis.gisshows",
-    "Author": "QGIS",
-    "Contributor": "GIS Show",
-    "Website": "www.qgis.org",
-    "Update": "2021-05-18 20:43:57",
-    "Size": "57.33 MB",
-    "More": "一款免费的开源地理信息系统，针对deepin和UOS进行优化和重新编译",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
 }
 ,
 {
@@ -1847,23 +1847,6 @@
 }
 ,
 {
-    "Name": "无界投屏",
-    "Version": "2.1.2-1",
-    "Filename": "uncon_2.1.2-1_amd64.deb",
-    "Torrent_address": "uncon_2.1.2-1_amd64.deb.torrent",
-    "Pkgname": "uncon",
-    "Author": "@Nightmare",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://nightmare.fun/screen/",
-    "Update": "2022-10-09 18:15:58",
-    "Size": "8.47 MB",
-    "More": "无界投屏\n需要安装对应的客户端才能使用\n\n客户端下载地址：http://nightmare.fun/YanTool/resources/Remote/",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/292a5f7c-88c4-4609-bb58-3ee058e50257.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/2d207ca3-f117-45fe-986b-9822f3ca4609.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/4178da8e-8384-4000-9719-017b730b3af3.png"
-}
-,
-{
     "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
     "Version": "10.0.9.0.8-903spark1",
     "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
@@ -1878,6 +1861,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
+    "Name": "无界投屏",
+    "Version": "2.1.2-1",
+    "Filename": "uncon_2.1.2-1_amd64.deb",
+    "Torrent_address": "uncon_2.1.2-1_amd64.deb.torrent",
+    "Pkgname": "uncon",
+    "Author": "@Nightmare",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://nightmare.fun/screen/",
+    "Update": "2022-10-09 18:15:58",
+    "Size": "8.47 MB",
+    "More": "无界投屏\n需要安装对应的客户端才能使用\n\n客户端下载地址：http://nightmare.fun/YanTool/resources/Remote/",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/292a5f7c-88c4-4609-bb58-3ee058e50257.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/09/2d207ca3-f117-45fe-986b-9822f3ca4609.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/09/4178da8e-8384-4000-9719-017b730b3af3.png"
 }
 ,
 {
@@ -2332,23 +2332,6 @@
 }
 ,
 {
-    "Name": "Furmark（wine）",
-    "Version": "2.2.0.1spark0",
-    "Filename": "com.furmark.deepin_2.2.0.1spark0_all.deb",
-    "Torrent_address": "com.furmark.deepin_2.2.0.1spark0_all.deb.torrent",
-    "Pkgname": "com.furmark.deepin",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.geeks3d.com/furmark/",
-    "Update": "2024-04-27 06:45:16",
-    "Size": "51.23 MB",
-    "More": "使用spark-wine7-devel打包\n用于检测显卡稳定性，显卡散热以及驱动是否正常。\nPS：笔记本用户请注意机器通风，同时请在有电源连接的情况下使用，还建议大家拿另一个软件如深度应用商店里的CPU-X关注一下显卡温度",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/6934335d691944b0a36878fd47e0ddbe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/3038e8416a494f7e9521e343b544d88d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/b1b4dd4088b749dfab855499b9952da5.png"
-}
-,
-{
     "Name": "QGIS(书虫版)",
     "Version": "3.32.1-fix1-cursor",
     "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
@@ -2363,6 +2346,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+,
+{
+    "Name": "Furmark（wine）",
+    "Version": "2.2.0.1spark0",
+    "Filename": "com.furmark.deepin_2.2.0.1spark0_all.deb",
+    "Torrent_address": "com.furmark.deepin_2.2.0.1spark0_all.deb.torrent",
+    "Pkgname": "com.furmark.deepin",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.geeks3d.com/furmark/",
+    "Update": "2024-04-27 06:45:16",
+    "Size": "51.23 MB",
+    "More": "使用spark-wine7-devel打包\n用于检测显卡稳定性，显卡散热以及驱动是否正常。\nPS：笔记本用户请注意机器通风，同时请在有电源连接的情况下使用，还建议大家拿另一个软件如深度应用商店里的CPU-X关注一下显卡温度",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/6934335d691944b0a36878fd47e0ddbe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/3038e8416a494f7e9521e343b544d88d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/b1b4dd4088b749dfab855499b9952da5.png"
 }
 ,
 {
@@ -3017,22 +3017,6 @@
 }
 ,
 {
-    "Name": "Feem",
-    "Version": "4.4.2",
-    "Filename": "feem.spark_4.4.2_amd64.deb",
-    "Pkgname": "feem.spark",
-    "Author": "Feem",
-    "Contributor": "Jerrywang",
-    "Website": "https://feem.io/",
-    "Update": "2021-04-15 17:06:46",
-    "Size": "101.55 MB",
-    "More": "局域网传输文件和发送消息神器",
-    "Tags": "community;ubuntu;uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/15/d4264fc0-9dc9-11eb-9f4c-e1ba386a0b46.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/15/d2c204d0-9dc9-11eb-9f4c-e1ba386a0b46.png"
-}
-,
-{
     "Name": "TTime",
     "Version": "0.9.2",
     "Filename": "time-translate_0.9.2_amd64.deb",
@@ -3047,6 +3031,22 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/e2a6463e67684e2cb0057f9036cdce05.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/afccedfc52d24b7d8334615d38718062.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/69a1f508988c499ea38bde8992a9501a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/a55f26a5adbe437b9eb2364058a9114b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/58d929564fe54b7b9abaa43011e07e5b.png"
+}
+,
+{
+    "Name": "Feem",
+    "Version": "4.4.2",
+    "Filename": "feem.spark_4.4.2_amd64.deb",
+    "Pkgname": "feem.spark",
+    "Author": "Feem",
+    "Contributor": "Jerrywang",
+    "Website": "https://feem.io/",
+    "Update": "2021-04-15 17:06:46",
+    "Size": "101.55 MB",
+    "More": "局域网传输文件和发送消息神器",
+    "Tags": "community;ubuntu;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/15/d4264fc0-9dc9-11eb-9f4c-e1ba386a0b46.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/15/d2c204d0-9dc9-11eb-9f4c-e1ba386a0b46.png"
 }
 ,
 {
@@ -3355,6 +3355,23 @@
 }
 ,
 {
+    "Name": "UOS应用迁移助手",
+    "Version": "2.0.001-1",
+    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
+    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
+    "Pkgname": "deepin-wine-builder",
+    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2024-07-26 11:45:33",
+    "Size": "1.09 MB",
+    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
+    "Tags": "deepin;uos;dtk5;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
+}
+,
+{
     "Author": "gfdgd_xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
@@ -3423,23 +3440,6 @@
 }
 ,
 {
-    "Name": "UOS应用迁移助手",
-    "Version": "2.0.001-1",
-    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
-    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
-    "Pkgname": "deepin-wine-builder",
-    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2024-07-26 11:45:33",
-    "Size": "1.09 MB",
-    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
-    "Tags": "deepin;uos;dtk5;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
-}
-,
-{
     "Name": "AppImageHub 简易搜索工具",
     "Version": "0.0.1-20231206",
     "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
@@ -3491,6 +3491,23 @@
 }
 ,
 {
+    "Name": "2345好压（Wine）",
+    "Version": "6.4spark0",
+    "Filename": "com.2345haoya.spark_6.4spark0_all.deb",
+    "Torrent_address": "com.2345haoya.spark_6.4spark0_all.deb.torrent",
+    "Pkgname": "com.2345haoya.spark",
+    "Author": "gfdgd xi<3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://haozip.2345.cc/",
+    "Update": "2023-05-21 11:15:21",
+    "Size": "222.64 MB",
+    "More": "2345好压是国内自主研发的免费压缩软件，拥有3.5亿用户，运用了多线程技术，压缩率比同类软件高出10%~30%。完美兼容包括Win8在内的所有WINDOWS系统，完美支持RAR5、ZIPX、ALZ格式解压，支持格式多达51种的新一代压缩软件。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/52c122215788412db4e7d19c7f968024.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9b10f4a025d0416696859e7bcfe4ef17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/59a26424738949ad952bfe289cd310c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/3e312b1340b640e886d0de21ae3776d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/929c40b764a34ce9b8caa3be6d84d7c1.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/6676aad26f7549f68007e1a069650b9a.png"
+}
+,
+{
     "Name": "xbj-com",
     "Version": "0.1.0",
     "Filename": "xbj-com_0.1.0_amd64.deb",
@@ -3539,23 +3556,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/1fca0b2bed8f4fbe860d01a183c70bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/f02ebb8ea3894927b58e9f3b7dbcfa4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/59c4cfe9b6af4ede84447f635e69e79f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/f616f49b4e1a427ebf6210c401250593.png"
-}
-,
-{
-    "Name": "2345好压（Wine）",
-    "Version": "6.4spark0",
-    "Filename": "com.2345haoya.spark_6.4spark0_all.deb",
-    "Torrent_address": "com.2345haoya.spark_6.4spark0_all.deb.torrent",
-    "Pkgname": "com.2345haoya.spark",
-    "Author": "gfdgd xi<3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://haozip.2345.cc/",
-    "Update": "2023-05-21 11:15:21",
-    "Size": "222.64 MB",
-    "More": "2345好压是国内自主研发的免费压缩软件，拥有3.5亿用户，运用了多线程技术，压缩率比同类软件高出10%~30%。完美兼容包括Win8在内的所有WINDOWS系统，完美支持RAR5、ZIPX、ALZ格式解压，支持格式多达51种的新一代压缩软件。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/52c122215788412db4e7d19c7f968024.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/9b10f4a025d0416696859e7bcfe4ef17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/59a26424738949ad952bfe289cd310c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/3e312b1340b640e886d0de21ae3776d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/929c40b764a34ce9b8caa3be6d84d7c1.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/6676aad26f7549f68007e1a069650b9a.png"
 }
 ,
 {
@@ -4129,6 +4129,23 @@
 }
 ,
 {
+    "Name": "Debian 软件仓库分析工具",
+    "Version": "0.0.13-20240724",
+    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb",
+    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb.torrent",
+    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
+    "Update": "2024-07-24 10:42:56",
+    "Size": "470.62 KB",
+    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/a46042b398d74d5c94fe69b9ccc4a707.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/defb6a5559f24dad8da292ce0a93144e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/b8b652dfe15c4ef49ac62e38bddfeca6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/24/0f5a4fc121ab4f8fbb0b650ee602984e.png"
+}
+,
+{
     "Name": "PicList",
     "Version": "2.6.1",
     "Filename": "piclist_2.6.1_amd64.deb",
@@ -4177,23 +4194,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/14/520bf0ce0c2a48f8a385a0e6a5ecaad3.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/14/d3dd38a2417a49f1a4045071a80de474.png"
-}
-,
-{
-    "Name": "Debian 软件仓库分析工具",
-    "Version": "0.0.13-20240724",
-    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb",
-    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb.torrent",
-    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
-    "Update": "2024-07-24 10:42:56",
-    "Size": "470.62 KB",
-    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/a46042b398d74d5c94fe69b9ccc4a707.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/defb6a5559f24dad8da292ce0a93144e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/b8b652dfe15c4ef49ac62e38bddfeca6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/24/0f5a4fc121ab4f8fbb0b650ee602984e.png"
 }
 ,
 {
