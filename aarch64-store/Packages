@@ -8634,6 +8634,27 @@ Description: 钉钉
 
 Package: linuxqq
 Architecture: arm64
+Version: 3.2.12-26702
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 553597
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.12-26702_arm64.deb
+Size: 152216104
+MD5sum: 70cb9b5194256b40b925c9f733c4039e
+SHA1: e4981f7d5ee4227cd4959ecdc1a763212f428a2b
+SHA256: a03b360470307d5f8cf28136e5b9ff69b2487eaf5986a89eaeb8269da304bf1b
+SHA512: 4271c746c68d0ec4baeffea8f4d7b07d611bdfbbb8d73cd3792bcf07bf48524f365bd978efb9d97156e477fd4dfcff3619f4c8064d6d32da68de22cef7a0cd36
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
+Package: linuxqq
+Architecture: arm64
 Version: 3.2.10-25765
 Priority: optional
 Section: default

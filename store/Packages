@@ -21139,23 +21139,6 @@ SHA512: 1e60c0ccdc11e3da27f7abe422878460a1102bcd025a325a8de36f065e96dd305e1a33f9
 Description: Neverending Nightmares on Deepin Wine6
  一款恐怖冒险解谜类游戏
 
-Package: deepin.ra2.enemyag4
-Architecture: all
-Version: 1.2.1
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: LFRon
-Installed-Size: 256544
-Depends: mejituu-wine8, spark-dwine-helper, fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: games/deepin.ra2.enemyag4/deepin.ra2.enemyag4_1.2.1_all.deb
-Size: 256560692
-MD5sum: ee21f1b7f38c079c2149cb57beccc33b
-SHA1: 4d6eebcec21d320d936e51deeebfc07a20a8a4c7
-SHA256: 2ab5081333a35b46fccc2b9121d4aa4f82799048948023f84dc935af5eaf6794
-SHA512: 5fe250a666c51bfe149e0657bdc4e77e56832da0c63e5346de70e2383effd2d1def51e47629aab4721b5012cbee5a36fe9660351508ef55e09a8c5a0a4437ce9
-Description: Deepin-wine8运行的红色警戒2-兵临城下4
-
 Package: com.pgvz.spark
 Architecture: all
 Version: 1.0.2.56spark0
@@ -36925,6 +36908,27 @@ MD5sum: 7bb2ea6793443f10ac3ac82171005f89
 SHA1: d98a71e1c213df3cb0234ba1cb4391ef713fcd38
 SHA256: 0ce218033135305f139e4a9e7c25d551893d37ec613f4a5b62944637475c9008
 SHA512: b8798b199bf4a2f83b802576b09b451a4fe213224095387370a658e52fb50be090e12c14855c69d08ec970f18011bc457a10338ed4d5a479a33eced77172cf61
+Homepage: https://im.qq.com
+Description: 
+  QQ
+License: unknown
+Vendor: Tencent <QQ-Team@tencent.com>
+
+Package: linuxqq
+Architecture: amd64
+Version: 3.2.12-26702
+Priority: optional
+Section: default
+Maintainer: Tencent <QQ-Team@tencent.com>
+Installed-Size: 528854
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: chat/linuxqq/linuxqq_3.2.12-26702_amd64.deb
+Size: 152264214
+MD5sum: f74d439232f057f4a578c911f946d4e3
+SHA1: 5e52c6b86fa571587ff619f0419d5e17e61c065e
+SHA256: c2f5bb8fd7762646d1b52c321718f212f0d4ca6265e55220bc471113abd46536
+SHA512: 8e2219e07355b80351eea570e2a51f3bf8b8266e45609007391b65d58d99f297033fb2527cf2a2099ccd76715676505e76e7fa1539c3348f10faeb77651a6f2b
 Homepage: https://im.qq.com
 Description: 
   QQ
