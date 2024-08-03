@@ -8054,6 +8054,24 @@ Vendor: tav@tencent.com
 
 Package: cn.huorong.esm
 Architecture: amd64
+Version: 2.0.8.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 81104
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.8.0_amd64.deb
+Size: 33759734
+MD5sum: 15fc562e178d8ef5b3ebf7c7f5377f31
+SHA1: f341d10d87741f9226c95e8ae1cf9d79451a43f1
+SHA256: ea7afb1fa8cd7bda43661478ec45b5928380887b9d6efc654a298ac35bed0375
+SHA512: 6b625c482a918c225e0c2c02525dcb5051ad85e17e72c296c941b66548affa54d084342a5d89f91beb8d0c9933761efb6cf78a4dc65f663a23c47badeaebfd7b
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+
+Package: cn.huorong.esm
+Architecture: amd64
 Version: 2.0.7.7
 Multi-Arch: foreign
 Priority: optional
@@ -23624,6 +23642,22 @@ Homepage: https://b3log.org/siyuan/
 Description: siyuan for linux
  一款本地离线优先的个人知识管理系统
 
+Package: org.b3log.siyuan.spark
+Architecture: amd64
+Version: 3.1.2spark18
+Priority: optional
+Section: utils
+Maintainer: sgb76 <sgb76@163.com>
+Filename: office/org.b3log.siyuan.spark/org.b3log.siyuan.spark_3.1.2spark18_amd64.deb
+Size: 136389088
+MD5sum: 21fe46a073f102bbab4755ddf1292440
+SHA1: 352b3a0b8cc5736d1e372a10816d8990009d3962
+SHA256: 664a7295a52cd95660e4e14d8e4fe208632f8c7f2afc9d177e14d14281006229
+SHA512: 1eeba7b7d76164d9d37d3605cf9f75810b8f4131c0b82d97ff81b18dd6e89aa91de94b8061a0e5da7738a033106663b8da491b9481f6a95c2598b01f4ea3e65a
+Homepage: https://b3log.org/siyuan/
+Description: siyuan for linux
+ 一款本地离线优先的个人知识管理系统
+
 Package: cmbcclient
 Architecture: i386
 Version: 1.0.0
@@ -26789,6 +26823,22 @@ MD5sum: 4d03de84d42b26ae0294002e05d55e6d
 SHA1: e2bb9aca065dbc32fbd9d0fabee0ef355dc9a9be
 SHA256: 7869168a8bc2c2e499343e32a8191c7e7b6eab4ee0d9ef253b481cdbf2470935
 SHA512: c1b0562e068337958140ae82b2d4caed0a117ac1a30127736aaf9a0d4a36b29ab99824491fdb674c857a15b37a832a1eba49f1f4962628780888a2941d0e9da0
+Homepage: https://www.wiz.cn/wiznew.html
+Description: wiznotenew client for linux
+ 为知笔记重构版（beta），全新设计，更加美观和流畅
+
+Package: cn.wiznotenew.spark
+Architecture: amd64
+Version: 0.1.107spark11
+Priority: optional
+Section: utils
+Maintainer: sgb76 <sgb76@163.com>
+Filename: office/cn.wiznotenew.spark/cn.wiznotenew.spark_0.1.107spark11_amd64.deb
+Size: 76803860
+MD5sum: 04081bfc7c42fb96300067783b8d3b6f
+SHA1: 08aed90c9b04f1bad71c66c92918b1b6b25f83ae
+SHA256: bc62218b8b61683317c3d722f79ba9b3914894f325771f47e7585851fcc3cfc8
+SHA512: 4e163fbda2b5423dc520bb1bdf3f65d9f9247b65dd419c5e212cbd65286480ffd2a6d1b6189da93fae58d4ca28ce90805fabce04e4635214c2692c8eb39f22a2
 Homepage: https://www.wiz.cn/wiznew.html
 Description: wiznotenew client for linux
  为知笔记重构版（beta），全新设计，更加美观和流畅
@@ -37006,6 +37056,26 @@ MD5sum: 5924bf63b1334f880ffe7403db703601
 SHA1: cb66c96d03861408e5fab80ae0bc14a227c6e00f
 SHA256: 818c998f5a91caec55dc3076788f73e07f4a91f8c96233e9f8f2cdd60cfca4b6
 SHA512: 7341f01545602d32015fc7c25ceb1d468568be6353adc35d0ad7a00693d119ff11cc5ec32680346db1bba833529a27d29f5d0855b166fbff906b4d72853e2928
+Homepage: https://discord.com
+Description: Chat for Communities and Friends
+ Discord is the easiest way to communicate over voice, video, and text. Chat,
+ hang out, and stay close with your friends and communities.
+
+Package: discord
+Architecture: amd64
+Version: 0.0.62
+Priority: optional
+Section: net
+Maintainer: Discord Maintainer Team <native-team@discord.com>
+Installed-Size: 254064
+Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
+Recommends: libappindicator1 | libayatana-appindicator1
+Filename: chat/discord/discord_0.0.62_amd64.deb
+Size: 103057564
+MD5sum: 02c8eb4e1a2d3e3787bd0caf4eaa107d
+SHA1: 3102fb3cfd5c7cbea5dde20c651cb9373567f4fd
+SHA256: 6f9773a9101e5ebf6dfd3c44692426f8c4263dad8594e2e9a415f212f2a40298
+SHA512: 12dcf4fedc473e3a4c437df42dbcb4d0b82d14afc20d9a3be069a13bd5991c8bfa12209b805993156cf2885f5c17f4b7c34dfe271597bdb6a777f430f3ff10a2
 Homepage: https://discord.com
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,

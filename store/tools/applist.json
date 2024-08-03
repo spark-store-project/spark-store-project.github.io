@@ -235,19 +235,19 @@
 ,
 {
     "Name": "火绒安全",
-    "Version": "2.0.7.7",
-    "Filename": "cn.huorong.esm_2.0.7.7_amd64.deb",
-    "Torrent_address": "cn.huorong.esm_2.0.7.7_amd64.deb.torrent",
+    "Version": "2.0.8.0",
+    "Filename": "cn.huorong.esm_2.0.8.0_amd64.deb",
+    "Torrent_address": "cn.huorong.esm_2.0.8.0_amd64.deb.torrent",
     "Pkgname": "cn.huorong.esm",
     "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Website": "https://huorong.cn",
-    "Update": "2024-07-12 14:32:20",
-    "Size": "31.94 MB",
+    "Update": "2024-08-03 15:47:44",
+    "Size": "32.2 MB",
     "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/dca209427a9d45288612d2dd47947313.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/841193ab19094b28bde9b86282e4381e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/e1186c72a94b4526ac46d19de7062f68.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/03/d2caa607d2f3414aa5370af47048f483.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/03/81a72c716b9042b9a04830d508a332d0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/03/18849761200a480c86485e26d5717486.png"
 }
 ,
 {
@@ -523,23 +523,6 @@
 }
 ,
 {
-    "Name": "QtScrcpy",
-    "Version": "2.1.2-3",
-    "Filename": "qtscrcpy_2.1.2-3_amd64.deb",
-    "Torrent_address": "qtscrcpy_2.1.2-3_amd64.deb.torrent",
-    "Pkgname": "qtscrcpy",
-    "Author": "Barry & pack <jiaxinchenhit@126.com>",
-    "Contributor": "Barry & pack <jiaxinchenhit@126.com>",
-    "Website": "https://github.com/barry-ran/QtScrcpy",
-    "Update": "2023-11-29 16:10:25",
-    "Size": "9.17 MB",
-    "More": "Android实时投屏软件，此应用程序提供USB(或通过TCP/IP)连接的Android设备的显示和控制。它不需要任何root访问权限。\n\n修正dde，kde分类",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/29/28ffd7fe2a3146e99be6f56e68c4e63d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/29/85b6bfcfa7ec47e5b635afc8df422f67.png"
-}
-,
-{
     "Name": "玲珑应用商店",
     "Version": "1.2.9",
     "Filename": "linglong-store_1.2.9_amd64.deb",
@@ -554,6 +537,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/12110354ef2d4cafb7b98f775cf63b76.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/7ea97ef3138f4126b012ace44759f96e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/7bb32645196b4822ad3f8805ec100801.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/89e9efd237db4d8da4d502a6ed03436d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/f5e7cc76f1dd4dae8ff1c551e2430a1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/18/1b100268369348009d964911477710b7.png"
+}
+,
+{
+    "Name": "QtScrcpy",
+    "Version": "2.1.2-3",
+    "Filename": "qtscrcpy_2.1.2-3_amd64.deb",
+    "Torrent_address": "qtscrcpy_2.1.2-3_amd64.deb.torrent",
+    "Pkgname": "qtscrcpy",
+    "Author": "Barry & pack <jiaxinchenhit@126.com>",
+    "Contributor": "Barry & pack <jiaxinchenhit@126.com>",
+    "Website": "https://github.com/barry-ran/QtScrcpy",
+    "Update": "2023-11-29 16:10:25",
+    "Size": "9.17 MB",
+    "More": "Android实时投屏软件，此应用程序提供USB(或通过TCP/IP)连接的Android设备的显示和控制。它不需要任何root访问权限。\n\n修正dde，kde分类",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/29/28ffd7fe2a3146e99be6f56e68c4e63d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/29/85b6bfcfa7ec47e5b635afc8df422f67.png"
 }
 ,
 {
@@ -1149,6 +1149,22 @@
 }
 ,
 {
+    "Name": "深度云打印配置助手",
+    "Version": "1.2.5.2-spark0",
+    "Filename": "spark-deepin-cloud-print_1.2.5.2-spark0_amd64.deb",
+    "Pkgname": "spark-deepin-cloud-print",
+    "Author": "linuxdeepin",
+    "Contributor": "shenmo",
+    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
+    "Update": "2021-04-09 12:29:44",
+    "Size": "296.99 KB",
+    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\n\n【安装提示】\n建议使用“星火内置安装器”安装",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/1e209e10-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/20f62c40-98ec-11eb-83e4-07d70af35066.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/eaa6d270-98eb-11eb-83e4-07d70af35066.png"
+}
+,
+{
     "Name": "NxShell",
     "Version": "1.9.3",
     "Filename": "nxshell_1.9.3_amd64.deb",
@@ -1163,22 +1179,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/30ddf581e8184189b9d4dd73f81304c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/0c83a0e3229541e1a2ee576c2811e209.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/24/94e78221f9c6487f9dd6288361cffd02.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/24/79df0845453a4259bb6e5f31617ce76c.png"
-}
-,
-{
-    "Name": "深度云打印配置助手",
-    "Version": "1.2.5.2-spark0",
-    "Filename": "spark-deepin-cloud-print_1.2.5.2-spark0_amd64.deb",
-    "Pkgname": "spark-deepin-cloud-print",
-    "Author": "linuxdeepin",
-    "Contributor": "shenmo",
-    "Website": "https://www.deepin.org/original/deepin-cloud-print/",
-    "Update": "2021-04-09 12:29:44",
-    "Size": "296.99 KB",
-    "More": "深度云打印是由深度科技团队开发的一种新型打印解决方案，它可以将您的打印机连接到网络，借助深度云打印，您可以通过日常使用的应用程序进行网络打印。同时深度云打印适用于台式机、笔记本电脑、部分平板电脑以及其他所有您已授权打印的联网设备。\n\n【安装提示】\n建议使用“星火内置安装器”安装",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/1e209e10-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/20f62c40-98ec-11eb-83e4-07d70af35066.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/eaa6d270-98eb-11eb-83e4-07d70af35066.png"
 }
 ,
 {
@@ -1263,22 +1263,6 @@
 
 ,
 {
-    "Name": "超卓文件管理器（uengine）",
-    "Version": "15.4.5",
-    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
-    "Pkgname": "com.chaozhuo.filemanager",
-    "Author": "Phoenix OS",
-    "Contributor": "shenmo",
-    "Website": "http://www.phoenixos.com/",
-    "Update": "2022-04-04 15:24:51",
-    "Size": "6.29 MB",
-    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
-}
-,
-{
     "Name": "Bandizip",
     "Version": "7.32spark0",
     "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
@@ -1293,6 +1277,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
+}
+,
+{
+    "Name": "超卓文件管理器（uengine）",
+    "Version": "15.4.5",
+    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
+    "Pkgname": "com.chaozhuo.filemanager",
+    "Author": "Phoenix OS",
+    "Contributor": "shenmo",
+    "Website": "http://www.phoenixos.com/",
+    "Update": "2022-04-04 15:24:51",
+    "Size": "6.29 MB",
+    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
 }
 ,
 {
@@ -1948,22 +1948,6 @@
 }
 ,
 {
-    "Name": "lfxNet",
-    "Version": "1.0.0-1",
-    "Filename": "lfxnet_1.0.0-1_amd64.deb",
-    "Pkgname": "lfxnet",
-    "Author": "偕臧<xmuli>",
-    "Contributor": "偕臧<xmuli>",
-    "Website": "https://xmuli.tech",
-    "Update": "2021-02-02 19:20:35",
-    "Size": "145.43 KB",
-    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
-}
-,
-{
     "Name": "设备网络搜索（密码重置）",
     "Version": "1.0",
     "Filename": "com.sadptool.spark_1.0_all.deb",
@@ -1978,6 +1962,22 @@
     "Tags": "uos;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/bd89b5baf28046beb88b69b9c594cf89.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/19fc190679384ca384141096be86513e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/3fa525465aab482aa74a96e651016077.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/0aa48cdde37746a38b1f179502d8891b.png"
+}
+,
+{
+    "Name": "lfxNet",
+    "Version": "1.0.0-1",
+    "Filename": "lfxnet_1.0.0-1_amd64.deb",
+    "Pkgname": "lfxnet",
+    "Author": "偕臧<xmuli>",
+    "Contributor": "偕臧<xmuli>",
+    "Website": "https://xmuli.tech",
+    "Update": "2021-02-02 19:20:35",
+    "Size": "145.43 KB",
+    "More": "lfxNet 是一款轻量、快速的实时显示系统资源信息的应用程序, 是 dde-dock 的网速插件； 项目地址 https://github.com/xmuli/lfxNet",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/86733540-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/868d25e0-6548-11eb-a7d4-295ea2f68a3b.gif\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a390190-6548-11eb-a7d4-295ea2f68a3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/02/9a55ff70-6548-11eb-a7d4-295ea2f68a3b.gif\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/02/43a77230-6548-11eb-a7d4-295ea2f68a3b.png"
 }
 ,
 {
@@ -2165,6 +2165,23 @@
 }
 ,
 {
+    "Name": "spark-webapp-runtime 运行器",
+    "Version": "1.1.0",
+    "Filename": "spark-webapp-runtime-runner_1.1.0_all.deb",
+    "Torrent_address": "spark-webapp-runtime-runner_1.1.0_all.deb.torrent",
+    "Pkgname": "spark-webapp-runtime-runner",
+    "Author": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd xi",
+    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner",
+    "Update": "2022-08-09 09:38:08",
+    "Size": "41.07 KB",
+    "More": "一个 spark-webapp-runtime（星火网页应用运行环境）图形化运行器，可以让你更加方便的使用星火网页应用运行环境\n\n更新内容：\n※1、程序全部重构，语言从 Python 转 C++、GUI 从 Tkinter 转 DTK、布局大改，参考了 sgb76 大佬的 Wine 运行器设计图、zty79的桌面快捷方式编辑器的参考布局\n※2、程序新增打包功能",
+    "Tags": "community;deepin;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/e44eaf70-1783-11ed-b704-136e1b5b46da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/dfa2daa0-1783-11ed-b704-136e1b5b46da.png"
+}
+,
+{
     "Name": "MPaste：剪贴板管理工具",
     "Version": "0.2.0",
     "Filename": "mpaste_0.2.0_amd64.deb",
@@ -2211,23 +2228,6 @@
    "More":"小米bl解锁工具哦！！！"
 }
 
-,
-{
-    "Name": "spark-webapp-runtime 运行器",
-    "Version": "1.1.0",
-    "Filename": "spark-webapp-runtime-runner_1.1.0_all.deb",
-    "Torrent_address": "spark-webapp-runtime-runner_1.1.0_all.deb.torrent",
-    "Pkgname": "spark-webapp-runtime-runner",
-    "Author": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Contributor": "gfdgd xi",
-    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner",
-    "Update": "2022-08-09 09:38:08",
-    "Size": "41.07 KB",
-    "More": "一个 spark-webapp-runtime（星火网页应用运行环境）图形化运行器，可以让你更加方便的使用星火网页应用运行环境\n\n更新内容：\n※1、程序全部重构，语言从 Python 转 C++、GUI 从 Tkinter 转 DTK、布局大改，参考了 sgb76 大佬的 Wine 运行器设计图、zty79的桌面快捷方式编辑器的参考布局\n※2、程序新增打包功能",
-    "Tags": "community;deepin;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/09/e44eaf70-1783-11ed-b704-136e1b5b46da.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/09/dfa2daa0-1783-11ed-b704-136e1b5b46da.png"
-}
 ,
 {
     "Name": "樱花助手",
@@ -2433,23 +2433,6 @@
 
 ,
 {
-    "Name": "钉钉视频会议日志清理",
-    "Version": "1.2.3-0.1",
-    "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
-    "Torrent_address": "dinglivelogclean_1.2.3-0.1_all.deb.torrent",
-    "Pkgname": "dinglivelogclean",
-    "Author": "NurIwL<way610@126.com>",
-    "Contributor": "WAYYYAW <way610@126.com>",
-    "Website": "...",
-    "Update": "2022-12-27 12:09:47",
-    "Size": "24.88 KB",
-    "More": "钉钉linux视频会议产生超大日志文件，还不能直接rm。写了个一键清理工具。可以在会议进行的情况下清理日志。\n-可以选择清理今天的日志\n-也可以清理以前的日志\n-想要定期执行可以写入crontab\n-安装后会生成两个图标，自行选择",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/b8d5e5277edb4ad4ac489574b29fc6e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/3c4331cfedb14772a13effb96493c749.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/6e7950ee141c41c3a8a32f9ed6dc3a30.png"
-}
-,
-{
     "Name": "Apk 文件查看器",
     "Version": "1.1-20231207",
     "Filename": "z-tools-base-apk-view_1.1-20231207_amd64.deb",
@@ -2464,6 +2447,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/d89de06007bd414db3a959c247617626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/4c0dd3a9d7ec45d8a7bf57cfdba5a3a2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/3e97058339ea481fb304517375e69ec8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/db4b10f23e4c4457b76d95be833c99ba.png"
+}
+,
+{
+    "Name": "钉钉视频会议日志清理",
+    "Version": "1.2.3-0.1",
+    "Filename": "dinglivelogclean_1.2.3-0.1_all.deb",
+    "Torrent_address": "dinglivelogclean_1.2.3-0.1_all.deb.torrent",
+    "Pkgname": "dinglivelogclean",
+    "Author": "NurIwL<way610@126.com>",
+    "Contributor": "WAYYYAW <way610@126.com>",
+    "Website": "...",
+    "Update": "2022-12-27 12:09:47",
+    "Size": "24.88 KB",
+    "More": "钉钉linux视频会议产生超大日志文件，还不能直接rm。写了个一键清理工具。可以在会议进行的情况下清理日志。\n-可以选择清理今天的日志\n-也可以清理以前的日志\n-想要定期执行可以写入crontab\n-安装后会生成两个图标，自行选择",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/b8d5e5277edb4ad4ac489574b29fc6e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/3c4331cfedb14772a13effb96493c749.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/6e7950ee141c41c3a8a32f9ed6dc3a30.png"
 }
 ,
 {
@@ -3304,6 +3304,23 @@
 }
 ,
 {
+    "Name": "UOS应用迁移助手",
+    "Version": "2.0.001-1",
+    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
+    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
+    "Pkgname": "deepin-wine-builder",
+    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2024-07-26 11:45:33",
+    "Size": "1.09 MB",
+    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
+    "Tags": "deepin;uos;dtk5;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
+}
+,
+{
     "Name": "键盘检测(Wine)",
     "Version": "1.0.0",
     "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
@@ -3355,23 +3372,6 @@
 }
 ,
 {
-    "Name": "UOS应用迁移助手",
-    "Version": "2.0.001-1",
-    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
-    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
-    "Pkgname": "deepin-wine-builder",
-    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2024-07-26 11:45:33",
-    "Size": "1.09 MB",
-    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
-    "Tags": "deepin;uos;dtk5;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
-}
-,
-{
     "Author": "gfdgd_xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
@@ -3390,6 +3390,22 @@
 
 ,
 {
+    "Name": "无线鼠标",
+    "Version": "1.1.0",
+    "Filename": "mousemove_1.1.0_amd64.deb",
+    "Pkgname": "mousemove",
+    "Author": "zhangyongwei10",
+    "Contributor": "zhangyongwei10",
+    "Website": "https://gitee.com/zhangyongwei11/mousemove/releases/1.0.0",
+    "Update": "2021-07-08 22:14:56",
+    "Size": "60.06 MB",
+    "More": "通过蓝牙或者无线网络，连接手机和电脑，使得手机可以控制电脑鼠标。\n手机体验版app获取方式，点击官网下载apk文件或者在软件打开的主窗口中扫描二维码下载；\n手机正式版app获取方式，手机华为应用商店搜索无线鼠标；\n使用蓝牙方式连接手机和电脑时，需要做以下准备：首先要安装libbluetooth-dev，必须安装(依赖关系)；其次需要设置蓝牙服务运行状态为兼容模式，到/etc/systemd/system/bluetooth.target.wants/目录下，以管理员权限打开bluetooth.service文件，在ExecStart=***这一行最后面添加 -C参数（记得添加空格），-C即-compat兼容性参数，然后重启电脑或者重新载入systemctl配置（sudo systemctl daemon-reload）并重启蓝牙服务（sudo systemctl restart bluetooth)。\n软件包安装后生成两个图标。带有root字样的图标点击后需要输入管理员密码，可以使用蓝牙连接方式；另一个图标点击进入后可以使用wifi连接方式。",
+    "Tags": "uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/699f79a0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/9201c330-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/971d49c0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/a1057390-dff6-11eb-8d27-75bc4085fde2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/99cd4400-dff5-11eb-8d27-75bc4085fde2.svg"
+}
+,
+{
     "Name": "FontBase",
     "Version": "2.17.5spark1",
     "Filename": "se.fontbase.spark_2.17.5spark1_amd64.deb",
@@ -3404,22 +3420,6 @@
     "Tags": "deepin;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/c4686900-f828-11ec-9f2d-cf3758573e41.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/c78e6120-f828-11ec-9f2d-cf3758573e41.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/30/cd532000-f828-11ec-9f2d-cf3758573e41.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/30/c02b0d70-f828-11ec-9f2d-cf3758573e41.png"
-}
-,
-{
-    "Name": "无线鼠标",
-    "Version": "1.1.0",
-    "Filename": "mousemove_1.1.0_amd64.deb",
-    "Pkgname": "mousemove",
-    "Author": "zhangyongwei10",
-    "Contributor": "zhangyongwei10",
-    "Website": "https://gitee.com/zhangyongwei11/mousemove/releases/1.0.0",
-    "Update": "2021-07-08 22:14:56",
-    "Size": "60.06 MB",
-    "More": "通过蓝牙或者无线网络，连接手机和电脑，使得手机可以控制电脑鼠标。\n手机体验版app获取方式，点击官网下载apk文件或者在软件打开的主窗口中扫描二维码下载；\n手机正式版app获取方式，手机华为应用商店搜索无线鼠标；\n使用蓝牙方式连接手机和电脑时，需要做以下准备：首先要安装libbluetooth-dev，必须安装(依赖关系)；其次需要设置蓝牙服务运行状态为兼容模式，到/etc/systemd/system/bluetooth.target.wants/目录下，以管理员权限打开bluetooth.service文件，在ExecStart=***这一行最后面添加 -C参数（记得添加空格），-C即-compat兼容性参数，然后重启电脑或者重新载入systemctl配置（sudo systemctl daemon-reload）并重启蓝牙服务（sudo systemctl restart bluetooth)。\n软件包安装后生成两个图标。带有root字样的图标点击后需要输入管理员密码，可以使用蓝牙连接方式；另一个图标点击进入后可以使用wifi连接方式。",
-    "Tags": "uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/699f79a0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/9201c330-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/971d49c0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/a1057390-dff6-11eb-8d27-75bc4085fde2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/99cd4400-dff5-11eb-8d27-75bc4085fde2.svg"
 }
 ,
 {
@@ -3994,6 +3994,23 @@
 }
 ,
 {
+    "Name": "GtkHash-哈希计算工具",
+    "Version": "1.5-1",
+    "Filename": "gtkhash_1.5-1_amd64.deb",
+    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
+    "Pkgname": "gtkhash",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Website": "https://gtkhash.org",
+    "Update": "2024-05-04 14:05:47",
+    "Size": "113.28 KB",
+    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
+}
+,
+{
     "Name": "elcalc",
     "Version": "6.1.3",
     "Filename": "elcalc_6.1.3_amd64.deb",
@@ -4059,23 +4076,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b661b030-b0a2-11ee-9861-e903bb217cd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b79b1a90-b0a2-11ee-9861-e903bb217cd5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/12/b997fc00-b0a2-11ee-9861-e903bb217cd5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/12/b6602990-b0a2-11ee-9861-e903bb217cd5.png"
-}
-,
-{
-    "Name": "GtkHash-哈希计算工具",
-    "Version": "1.5-1",
-    "Filename": "gtkhash_1.5-1_amd64.deb",
-    "Torrent_address": "gtkhash_1.5-1_amd64.deb.torrent",
-    "Pkgname": "gtkhash",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Website": "https://gtkhash.org",
-    "Update": "2024-05-04 14:05:47",
-    "Size": "113.28 KB",
-    "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
 ,
 {
@@ -4351,6 +4351,23 @@
 
 ,
 {
+    "Name": "GXDE 一言屏保",
+    "Version": "1.1.0",
+    "Filename": "gxde-time-screensaver_1.1.0_amd64.deb",
+    "Torrent_address": "gxde-time-screensaver_1.1.0_amd64.deb.torrent",
+    "Pkgname": "gxde-time-screensaver",
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://gitee.com/GXDE-OS/gxde-time-screensaver",
+    "Update": "2024-04-14 08:56:51",
+    "Size": "228.38 KB",
+    "More": "GXDE 一言屏保，可以显示时间和句子（句子来自一言）\n支持 GXDE（推荐）、deepin、UOS",
+    "Tags": "community;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/74428cc27bef42548126fdc5b6639427.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c2c4ccd8662f4e15acffaa07e5c9d5e5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/0fe45ad4daf748ab85fabd1b4c3cad44.png"
+}
+,
+{
     "Name": "摸鱼股票球",
     "Version": "0.0-2",
     "Filename": "findfish-stockball_0.0-2_amd64.deb",
@@ -4498,23 +4515,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/0632eb63fa6f4b5bbcb6fe9688d53c22.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/78d8fe28220c4a339127f8db1caf2896.png"
-}
-,
-{
-    "Name": "GXDE 一言屏保",
-    "Version": "1.1.0",
-    "Filename": "gxde-time-screensaver_1.1.0_amd64.deb",
-    "Torrent_address": "gxde-time-screensaver_1.1.0_amd64.deb.torrent",
-    "Pkgname": "gxde-time-screensaver",
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://gitee.com/GXDE-OS/gxde-time-screensaver",
-    "Update": "2024-04-14 08:56:51",
-    "Size": "228.38 KB",
-    "More": "GXDE 一言屏保，可以显示时间和句子（句子来自一言）\n支持 GXDE（推荐）、deepin、UOS",
-    "Tags": "community;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/74428cc27bef42548126fdc5b6639427.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/c2c4ccd8662f4e15acffaa07e5c9d5e5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/0fe45ad4daf748ab85fabd1b4c3cad44.png"
 }
 ,
 {

@@ -2697,6 +2697,24 @@ Vendor: tav@tencent.com
 
 Package: cn.huorong.esm
 Architecture: arm64
+Version: 2.0.8.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 79380
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.8.0_arm64.deb
+Size: 32170354
+MD5sum: adb66ecd3ba381450cdf86c971182c6a
+SHA1: c4a0dc6dac4d2b67a31bfb05cadb664027ce1dd7
+SHA256: b4c01ca0f6516459c777ce9b31051afb362850e07d1f6b33f1dc26b2ad145bdf
+SHA512: 2cdbc0fb6ffaa4cc23fe43718d2dca8a5654c84e32f5d5d2c11168960a5c2166979c8b52f6f66a2a1c4b8829dc0d7a04f0da08894d7d3e718c1a91365417f659
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+
+Package: cn.huorong.esm
+Architecture: arm64
 Version: 2.0.7.5
 Multi-Arch: foreign
 Priority: optional
@@ -4038,6 +4056,24 @@ MD5sum: 61ffd2f48410eb060dca4c711df890b9
 SHA1: 83a0e309bc7ac693410950d9d82495b59be16a8f
 SHA256: 3c7f3614c9a1437686d5611567644b8b11d418d4ba4ac36f96681cf0838f5c9e
 SHA512: 285688accce86b5fc7318a9d2665d7a8218713cff05b34beb162a414db01723f362941f18b770545ce6c92888f24860dbe6abb1ad9fa8d59bb1e5c6229ab1d27
+Homepage: https://www.gstarcad.com
+Description: GstarCAD 是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件 本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。
+Build-Depends: debhelper (>= 11)
+
+Package: com.gstarsoft.gstarcad2025
+Architecture: arm64
+Version: 25.0
+Priority: optional
+Section: graphics
+Source: com.gstarsoft.gstarcad2025
+Maintainer: support <support@gstarcad.com>
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: image_graphics/com.gstarsoft.gstarcad2025/com.gstarsoft.gstarcad2025_25.0_arm64.deb
+Size: 394850658
+MD5sum: 5b2ff7de52b70c0006a20f438ff7c15b
+SHA1: 8f2e92d8e1e58088c4408501661d902a473d5035
+SHA256: b12e57b645b2f30110aae3a97b702a1988d131738d4518bebd76940168465e92
+SHA512: af109fe2e108b84c80fa9cc8cc85e96c85437c5b4077dc6fa8a6ef8ab540cda017373146d1aee4afdddab2cf83c17bd9ad086145ac830738a9b3019cc1be6877
 Homepage: https://www.gstarcad.com
 Description: GstarCAD 是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件 本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。
 Build-Depends: debhelper (>= 11)
@@ -5699,6 +5735,23 @@ SHA512: 0ce121608b5cb8edebd69b6ac9c2b525799e9d3e3b05d8a7cebe1baaaff3d9dff4c3dd0b
 Homepage: http://www.10jqka.com.cn
 Description: a tool for scanning the stock infomation
 
+Package: cn.com.10jqka
+Architecture: arm64
+Version: 2.8.1.0
+Priority: optional
+Section: office
+Maintainer: wumeijie <wumeijie@myhexin.com>
+Installed-Size: 101691
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: office/cn.com.10jqka/cn.com.10jqka_2.8.1.0_arm64.deb
+Size: 104277758
+MD5sum: 3f2bfd77e99c3966cb62150f4c89849d
+SHA1: 6b29152c11ad92c23d193de8a4eb2074cdb7d041
+SHA256: 10ad6d34bcffd9a87603e4cc1308259408e99b62d8c1b1a442eaa786bc8d9048
+SHA512: 8aa34e4f9828683dbc43a99848ba697eddc767a3aa066687b02e44074f89508cb4a30fe97b9150df80404a20a9ec9da9f152ae1aff759fc44b224d254df55f36
+Homepage: http://www.10jqka.com.cn
+Description: a tool for scanning the stock infomation
+
 Package: shimo
 Architecture: arm64
 Version: 3.3.1
@@ -6720,6 +6773,25 @@ Homepage: https://www.deepin.com/
 Description: org.deepin.browser
  A fast web browser with simple interface.
 
+Package: ctyunclouddeskuniversal
+Architecture: arm64
+Version: 2.4.0
+Priority: extra
+Essential: no
+Section: utils
+Maintainer: 天翼云科技有限公司
+Installed-Size: 199M
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libusb-1.0-0, libopus0, libpixman-1-0, pulseaudio
+Filename: network/ctyunclouddeskuniversal/ctyunclouddeskuniversal_2.4.0_arm64.deb
+Size: 84493316
+MD5sum: 138897b0e6cebde6c9dd1d0da537b7f9
+SHA1: 51b29e3a86c37b4ed0033376aa0eeea3aaf332aa
+SHA256: 9d15fc0cb0bf2739f57866dddbe3ad633fabc8926cd06058660781bc1cc08829
+SHA512: 0fd0e837c8bb7ac4d87eff3f745e2c11aaf7c09c23836e64aa96b38672083a60295efaa0f23217fd3600e0cb5b498908737c27707d5c3affe348831987355533
+Description:
+  天翼云电脑 202040030 安装包, 20240724024945
+Vendor: 天翼云科技有限公司
+
 Package: downkyi
 Architecture: arm64
 Version: 1.0.10-1
@@ -6737,6 +6809,24 @@ Homepage: https://github.com/yaobiao131/downkyicore
 Description: 哔哩下载姬，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）
 License: GPL-3.0-or-later
 Vendor: yaobiao131
+
+Package: com.cmss.saas.ecloudcomputer
+Architecture: arm64
+Version: 3.1.1.0
+Priority: optional
+Section: utils
+Source: ecloudcomputer
+Maintainer: CMSS
+Installed-Size: 1833984
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: network/com.cmss.saas.ecloudcomputer/com.cmss.saas.ecloudcomputer_3.1.1.0_arm64.deb
+Size: 278905470
+MD5sum: cead5c2f87fba855e5ca36e2acb30387
+SHA1: aae95517637006b40da45b03cadc6bdb2ca5a441
+SHA256: 803464ace1955cc3eb200d2b4533e56521373302d0c53e6a695736afe46b75bd
+SHA512: 1c1d3f027d1976d7d60538d9c9e67e602052cf55b50e66598ae406ee871280ec45dad97286d3916b500315659dc5f1c57cb565833bd8446b5f91e3094fda792d
+Homepage: https://ecloud.10086.cn
+Description: 您目前使用的是公测版本软件，如有任何问题或建议，请及时反馈给我们，感谢您的支持和理解！
 
 Package: com.163.dashi.mailmaster.spark
 Architecture: all

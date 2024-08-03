@@ -2963,6 +2963,24 @@ SHA512: eb11e26e7a906965616d0516daad757fb61b8d874d788a2ce26fe38e24949f85175f13aa
 Homepage: https://huorong.cn
 Description: 火绒终端安全管理系统
 
+Package: cn.huorong.esm
+Architecture: loong64
+Version: 2.0.8.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 72987
+Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.8.0_loong64.deb
+Size: 30262938
+MD5sum: fc032f994ab9cf50e472573477ce0824
+SHA1: bdd4f15f0c2f43ae7c2368f2889e5291ae1b92c8
+SHA256: f3f7314cfe6967ad74d3fc783e962da3afe9870ffa2aa34a28961d7082103129
+SHA512: 464483e023ab48521121ac152f0466ba5d4e6bef78e7c0eb7db398046e9d60e2e8eeac2e0d22b28fecdcff1d02934733560c0cae3ea6bfc54225a5f0861242ed
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+
 Package: xcursor-viewer
 Architecture: loong64
 Version: 1.1.1-20240324
@@ -4570,6 +4588,24 @@ SHA512: 64be80941244aa8d3087d26540d3b25535d8f3db9d4549c80345aceb7991898dd68247dd
 Homepage: https://www.gstarcad.com
 Description: GstarCAD 是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件 本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。
 Build-Depends: liblol, debhelper (>= 11)
+
+Package: com.gstarsoft.gstarcad2025
+Architecture: loong64
+Version: 25.0
+Priority: optional
+Section: graphics
+Source: com.gstarsoft.gstarcad2025
+Maintainer: support <support@gstarcad.com>
+Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: image_graphics/com.gstarsoft.gstarcad2025/com.gstarsoft.gstarcad2025_25.0_loong64.deb
+Size: 333556090
+MD5sum: 327537330cbc059c569e4342b5d0c373
+SHA1: df3013f317765df36c0450007d69ca275e0fb92d
+SHA256: 08374c00d79883484a5125106a782b91747beb8c0ef4f6831486d3a296d82560
+SHA512: 06ac21a7717e1209ae2b5ecbd5e43db0d73c2a3e1df89e94b9a626c7385ad6ace337768c6295960f2ddd89fd6f0dff9875dcbc16d4e637e78dab1d302e507106
+Homepage: https://www.gstarcad.com
+Description: GstarCAD 是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件 本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。
+Build-Depends: debhelper (>= 11), liblol,liblol-dkms
 
 Package: com.sugarcane.adobe.photoshop
 Architecture: all
