@@ -2713,24 +2713,6 @@ SHA512: 2cdbc0fb6ffaa4cc23fe43718d2dca8a5654c84e32f5d5d2c11168960a5c2166979c8b52
 Homepage: https://huorong.cn
 Description: 火绒终端安全管理系统
 
-Package: cn.huorong.esm
-Architecture: arm64
-Version: 2.0.7.5
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
-Installed-Size: 78747
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.7.5_arm64.deb
-Size: 31707854
-MD5sum: 00adf6811c026af3fa72eab76a5264e9
-SHA1: e1ba8b0b63bea955ec30ad9da2e50233d7a4c97f
-SHA256: fae26e95df83a99b895b7841fe89878550572f555baf1d88f32546c73f429f25
-SHA512: d7ef9c593b6bab365f6f59c514100578615f19e4ba59bc48e4d35827901cf3ae9da24ca585934fbc701fb5d86eece808b82878629abedd22c72c9c745f8c608a
-Homepage: https://huorong.cn
-Description: 火绒终端安全管理系统
-
 Package: uos-packaging-tools
 Architecture: all
 Version: 1.2.1
@@ -5717,23 +5699,6 @@ SHA256: 4d1bf61b986b7759c9e50f56df1b5136448a4e30464f1fcf2326e169d3bae1ae
 SHA512: 9ac48e292af29244639f92230d4d89897952952db87657708b065e87d3bac78115e20fbfda86907ba1adc8283f4205a3df4eb6e6746b608023cc11e016e5cba6
 Homepage: http://pinyin.sogou.com/linux
 Description: 搜狗输入法UOS版小语种
-
-Package: cn.com.10jqka
-Architecture: arm64
-Version: 2.7.1.2
-Priority: optional
-Section: office
-Maintainer: wumeijie <wumeijie@myhexin.com>
-Installed-Size: 101691
-Depends: deepin-elf-verify (>= 1.1.1-1)
-Filename: office/cn.com.10jqka/cn.com.10jqka_2.7.1.2_arm64.deb
-Size: 103441456
-MD5sum: e78e7204f1ca3324dc9ec2d52dc313ae
-SHA1: 0e2fdee1d9080e602485f1a2c3115bac6eeadc85
-SHA256: 4bb7b2a803c15f9a49be5a82374be89286e5033a1af64cd75148995ebe5b4522
-SHA512: 0ce121608b5cb8edebd69b6ac9c2b525799e9d3e3b05d8a7cebe1baaaff3d9dff4c3dd0b6bc831c2e6f76af2a98686d72f0705efabdd0f3c00414e56f99ed99c
-Homepage: http://www.10jqka.com.cn
-Description: a tool for scanning the stock infomation
 
 Package: cn.com.10jqka
 Architecture: arm64

@@ -2947,24 +2947,6 @@ Description: WinRAR on deepin wine6
 
 Package: cn.huorong.esm
 Architecture: loong64
-Version: 2.0.7.5
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
-Installed-Size: 72391
-Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
-Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.7.5_loong64.deb
-Size: 29778126
-MD5sum: 3162b173bb6e2722c5ed8e329dce1af1
-SHA1: 888a42e07c7a12f4a0f0fed4395be89c948f796b
-SHA256: 4109de6ed0dde04bac0604748f0eba72973e06de6d86b18ea59c372ebbf4c0c6
-SHA512: eb11e26e7a906965616d0516daad757fb61b8d874d788a2ce26fe38e24949f85175f13aa69d61d68dc666e30ad670c5be90bc19877f3e221262833f438867716
-Homepage: https://huorong.cn
-Description: 火绒终端安全管理系统
-
-Package: cn.huorong.esm
-Architecture: loong64
 Version: 2.0.8.0
 Multi-Arch: foreign
 Priority: optional

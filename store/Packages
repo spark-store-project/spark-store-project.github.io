@@ -8070,24 +8070,6 @@ SHA512: 6b625c482a918c225e0c2c02525dcb5051ad85e17e72c296c941b66548affa54d084342a
 Homepage: https://huorong.cn
 Description: 火绒终端安全管理系统
 
-Package: cn.huorong.esm
-Architecture: amd64
-Version: 2.0.7.7
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
-Installed-Size: 80696
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: tools/cn.huorong.esm/cn.huorong.esm_2.0.7.7_amd64.deb
-Size: 33492022
-MD5sum: 05da05a10e6d072e8fc7612eb8709189
-SHA1: c53176000e6521dbe50816ed42910144fa02347a
-SHA256: d38789acd0f117f9424c1f6087675ed76ecc923fb3291083ebff68f818a1c620
-SHA512: fbebf717e43e28ca5e54c9236d674120032e6319c4569549b0b7d1b4474160d0ad94e51bbd3867b13110dec3d9e538e3ff1ada99a98dd4d5cbefd573cc558ed3
-Homepage: https://huorong.cn
-Description: 火绒终端安全管理系统
-
 Package: expresslrs-configurator
 Architecture: amd64
 Version: 1.5.6
@@ -23628,22 +23610,6 @@ Vendor: Evernote Corporation <en-eng-core-zone@evernote.com>
 
 Package: org.b3log.siyuan.spark
 Architecture: amd64
-Version: 3.0.0spark17
-Priority: optional
-Section: utils
-Maintainer: sgb76 <sgb76@163.com>
-Filename: office/org.b3log.siyuan.spark/org.b3log.siyuan.spark_3.0.0spark17_amd64.deb
-Size: 133562192
-MD5sum: 957b12c7e90ba7fc2f76377b5ab5f8a2
-SHA1: 4e4f7f0de8105f964f405b1eb561d7c6b1bf73c9
-SHA256: f39f17ac8cfc36e1e782246022bfede029a9d9b712afc58777e9bf3e7caeb53f
-SHA512: 9beab1fa6652279563547a2544c2b1a3d628904451d1750d0b597c8aef029511d15da3bb24a0dd20ace035eb023a301536cf72d1e8e6625a09776117969a399e
-Homepage: https://b3log.org/siyuan/
-Description: siyuan for linux
- 一款本地离线优先的个人知识管理系统
-
-Package: org.b3log.siyuan.spark
-Architecture: amd64
 Version: 3.1.2spark18
 Priority: optional
 Section: utils
@@ -26813,22 +26779,6 @@ Vendor: WeMind Technology <info@wemind.cn>
 
 Package: cn.wiznotenew.spark
 Architecture: amd64
-Version: 0.1.103spark10
-Priority: optional
-Section: utils
-Maintainer: sgb76 <sgb76@163.com>
-Filename: office/cn.wiznotenew.spark/cn.wiznotenew.spark_0.1.103spark10_amd64.deb
-Size: 76790516
-MD5sum: 4d03de84d42b26ae0294002e05d55e6d
-SHA1: e2bb9aca065dbc32fbd9d0fabee0ef355dc9a9be
-SHA256: 7869168a8bc2c2e499343e32a8191c7e7b6eab4ee0d9ef253b481cdbf2470935
-SHA512: c1b0562e068337958140ae82b2d4caed0a117ac1a30127736aaf9a0d4a36b29ab99824491fdb674c857a15b37a832a1eba49f1f4962628780888a2941d0e9da0
-Homepage: https://www.wiz.cn/wiznew.html
-Description: wiznotenew client for linux
- 为知笔记重构版（beta），全新设计，更加美观和流畅
-
-Package: cn.wiznotenew.spark
-Architecture: amd64
 Version: 0.1.107spark11
 Priority: optional
 Section: utils
@@ -29156,21 +29106,6 @@ MD5sum: 37170d3af5658a9e460d07ba527eb7ab
 SHA1: 669e89afb679a24a61d7bdf00d9a0781bab29caf
 SHA256: 0a6f629729b59d8a9f75142346f4f433de5432927c509b5a4693e532502bd860
 SHA512: a3d4d3d3e709047aaa6975a7c830a24e7de4f7699577cca19f600574fcb3073fef104c87e5b6bf8adbd22359f88b3a7f53e90a09e4f857379c6863b7cc4279c5
-Homepage: https://www.filezilla.cn/
-Description: Full-featured graphical FTP/FTPS/SFTP client
-
-Package: filezilla-spark
-Architecture: amd64
-Version: 3.67.0
-Priority: optional
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 30280
-Filename: network/filezilla-spark/filezilla-spark_3.67.0_amd64.deb
-Size: 12048620
-MD5sum: 476c951f8b5d0395cba5af76752ecf6f
-SHA1: fc0b7c9199fe2de3efdca4ca42bdd5aded52036a
-SHA256: ae35a67186d7a41c2bfda90c6eb073e1d1d8916f00233c037427b781e26ca1b7
-SHA512: 3e4f1bb2fa1daf1aaef06553b0737cc7b3b788241eb2b801f920a21adcf7bf3e1d8a5106e097868111f47cbd3b42c79fe13f74e0771fc40847862146fdc01208
 Homepage: https://www.filezilla.cn/
 Description: Full-featured graphical FTP/FTPS/SFTP client
 
@@ -37055,26 +36990,6 @@ Description: Messaging app for WhatsApp, Slack, Telegram, Gmail, Hangouts and ma
   Ferdium is your messaging app / former heir to the throne of Austria-Hungary and combines chat & messaging services into one application. Ferdium currently supports Slack, WhatsApp, Gmail, Facebook Messenger, Telegram, Google Hangouts, GroupMe, Skype and many more. You can download Ferdium for free for Mac, Windows, and Linux. For enabling webcam access you need to connect “camera” plug to snap, and for microphone with PulseAudio - “audio-record” plug. This can be done in Snap GUI or via command: `snap connect ferdium:camera; snap connect ferdium:audio-record`.
 License: Apache-2.0
 Vendor: Ferdium Contributors <hello@ferdium.org>
-
-Package: discord
-Architecture: amd64
-Version: 0.0.61
-Priority: optional
-Section: net
-Maintainer: Discord Maintainer Team <native-team@discord.com>
-Installed-Size: 254036
-Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
-Recommends: libappindicator1 | libayatana-appindicator1
-Filename: chat/discord/discord_0.0.61_amd64.deb
-Size: 103054400
-MD5sum: 5924bf63b1334f880ffe7403db703601
-SHA1: cb66c96d03861408e5fab80ae0bc14a227c6e00f
-SHA256: 818c998f5a91caec55dc3076788f73e07f4a91f8c96233e9f8f2cdd60cfca4b6
-SHA512: 7341f01545602d32015fc7c25ceb1d468568be6353adc35d0ad7a00693d119ff11cc5ec32680346db1bba833529a27d29f5d0855b166fbff906b4d72853e2928
-Homepage: https://discord.com
-Description: Chat for Communities and Friends
- Discord is the easiest way to communicate over voice, video, and text. Chat,
- hang out, and stay close with your friends and communities.
 
 Package: discord
 Architecture: amd64
