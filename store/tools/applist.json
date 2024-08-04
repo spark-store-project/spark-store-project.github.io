@@ -523,23 +523,6 @@
 }
 ,
 {
-    "Name": "QtScrcpy",
-    "Version": "2.1.2-3",
-    "Filename": "qtscrcpy_2.1.2-3_amd64.deb",
-    "Torrent_address": "qtscrcpy_2.1.2-3_amd64.deb.torrent",
-    "Pkgname": "qtscrcpy",
-    "Author": "Barry & pack <jiaxinchenhit@126.com>",
-    "Contributor": "Barry & pack <jiaxinchenhit@126.com>",
-    "Website": "https://github.com/barry-ran/QtScrcpy",
-    "Update": "2023-11-29 16:10:25",
-    "Size": "9.17 MB",
-    "More": "Android实时投屏软件，此应用程序提供USB(或通过TCP/IP)连接的Android设备的显示和控制。它不需要任何root访问权限。\n\n修正dde，kde分类",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/29/28ffd7fe2a3146e99be6f56e68c4e63d.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/29/85b6bfcfa7ec47e5b635afc8df422f67.png"
-}
-,
-{
     "Name": "玲珑应用商店",
     "Version": "1.2.9",
     "Filename": "linglong-store_1.2.9_amd64.deb",
@@ -554,6 +537,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/12110354ef2d4cafb7b98f775cf63b76.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/7ea97ef3138f4126b012ace44759f96e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/7bb32645196b4822ad3f8805ec100801.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/89e9efd237db4d8da4d502a6ed03436d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/18/f5e7cc76f1dd4dae8ff1c551e2430a1c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/18/1b100268369348009d964911477710b7.png"
+}
+,
+{
+    "Name": "QtScrcpy",
+    "Version": "2.1.2-3",
+    "Filename": "qtscrcpy_2.1.2-3_amd64.deb",
+    "Torrent_address": "qtscrcpy_2.1.2-3_amd64.deb.torrent",
+    "Pkgname": "qtscrcpy",
+    "Author": "Barry & pack <jiaxinchenhit@126.com>",
+    "Contributor": "Barry & pack <jiaxinchenhit@126.com>",
+    "Website": "https://github.com/barry-ran/QtScrcpy",
+    "Update": "2023-11-29 16:10:25",
+    "Size": "9.17 MB",
+    "More": "Android实时投屏软件，此应用程序提供USB(或通过TCP/IP)连接的Android设备的显示和控制。它不需要任何root访问权限。\n\n修正dde，kde分类",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/29/28ffd7fe2a3146e99be6f56e68c4e63d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/29/85b6bfcfa7ec47e5b635afc8df422f67.png"
 }
 ,
 {
@@ -1263,6 +1263,22 @@
 
 ,
 {
+    "Name": "超卓文件管理器（uengine）",
+    "Version": "15.4.5",
+    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
+    "Pkgname": "com.chaozhuo.filemanager",
+    "Author": "Phoenix OS",
+    "Contributor": "shenmo",
+    "Website": "http://www.phoenixos.com/",
+    "Update": "2022-04-04 15:24:51",
+    "Size": "6.29 MB",
+    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
+}
+,
+{
     "Name": "Bandizip",
     "Version": "7.32spark0",
     "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
@@ -1277,22 +1293,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
-}
-,
-{
-    "Name": "超卓文件管理器（uengine）",
-    "Version": "15.4.5",
-    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
-    "Pkgname": "com.chaozhuo.filemanager",
-    "Author": "Phoenix OS",
-    "Contributor": "shenmo",
-    "Website": "http://www.phoenixos.com/",
-    "Update": "2022-04-04 15:24:51",
-    "Size": "6.29 MB",
-    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
 }
 ,
 {
@@ -1831,22 +1831,6 @@
 }
 ,
 {
-    "Name": "radeontop",
-    "Version": "1.3-1",
-    "Filename": "radeontop_1.3-1_amd64.deb",
-    "Pkgname": "radeontop",
-    "Author": "clbr",
-    "Contributor": "RubbishZhYic",
-    "Website": "https://github.com/clbr/radeontop",
-    "Update": "2020-12-19 03:48:51",
-    "Size": "19.63 KB",
-    "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
-}
-,
-{
     "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
     "Version": "10.0.9.0.8-903spark1",
     "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
@@ -1861,6 +1845,22 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
+    "Name": "radeontop",
+    "Version": "1.3-1",
+    "Filename": "radeontop_1.3-1_amd64.deb",
+    "Pkgname": "radeontop",
+    "Author": "clbr",
+    "Contributor": "RubbishZhYic",
+    "Website": "https://github.com/clbr/radeontop",
+    "Update": "2020-12-19 03:48:51",
+    "Size": "19.63 KB",
+    "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
 }
 ,
 {
@@ -2402,19 +2402,19 @@
 ,
 {
     "Name": "PeaZip",
-    "Version": "9.8.0",
-    "Filename": "peazip_9.8.0_amd64.deb",
-    "Torrent_address": "peazip_9.8.0_amd64.deb.torrent",
+    "Version": "9.9.0",
+    "Filename": "peazip_9.9.0_amd64.deb",
+    "Torrent_address": "peazip_9.9.0_amd64.deb.torrent",
     "Pkgname": "peazip",
     "Author": "Giorgio Tani",
     "Contributor": "sgb76",
     "Website": "https://peazip.github.io",
-    "Update": "2024-05-13 21:31:43",
-    "Size": "9.58 MB",
+    "Update": "2024-08-04 04:34:36",
+    "Size": "9.65 MB",
     "More": "一款功能强大、易于使用的免费文件压缩和归档工具，它支持多种常见的文件格式，并提供了许多实用的特性，如256位AES加密、自动化、文件修复等。此外，PeaZip 还具有跨平台的特点，可以在 Windows、Linux 和 Mac 等操作系统上运行。\n\n--说明--\n软件默认为英文，可以在设置里设置为中文",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/037ee370fbff44c68c5dfac8c52aef9d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/13/9a8e3ce1c6df482facd559b6a8a671c9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/13/7f997f2d995e454c806191248f559ac1.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/04/aa79cbf1243c43bf8024e7eb6e7d2841.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/04/8fc4510252834719b3a574d752ad283d.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/04/fc95b3bba6514c75838b7e241bdc4ed6.png"
 }
 ,
 {
@@ -3034,22 +3034,6 @@
 }
 ,
 {
-    "Name": "Feem",
-    "Version": "4.4.2",
-    "Filename": "feem.spark_4.4.2_amd64.deb",
-    "Pkgname": "feem.spark",
-    "Author": "Feem",
-    "Contributor": "Jerrywang",
-    "Website": "https://feem.io/",
-    "Update": "2021-04-15 17:06:46",
-    "Size": "101.55 MB",
-    "More": "局域网传输文件和发送消息神器",
-    "Tags": "community;ubuntu;uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/15/d4264fc0-9dc9-11eb-9f4c-e1ba386a0b46.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/15/d2c204d0-9dc9-11eb-9f4c-e1ba386a0b46.png"
-}
-,
-{
     "Name": "Rubick",
     "Version": "2.0.4-beta.3",
     "Filename": "rubick_2.0.4-beta.3_amd64.deb",
@@ -3064,6 +3048,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
+}
+,
+{
+    "Name": "Feem",
+    "Version": "4.4.2",
+    "Filename": "feem.spark_4.4.2_amd64.deb",
+    "Pkgname": "feem.spark",
+    "Author": "Feem",
+    "Contributor": "Jerrywang",
+    "Website": "https://feem.io/",
+    "Update": "2021-04-15 17:06:46",
+    "Size": "101.55 MB",
+    "More": "局域网传输文件和发送消息神器",
+    "Tags": "community;ubuntu;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/15/d4264fc0-9dc9-11eb-9f4c-e1ba386a0b46.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/15/d2c204d0-9dc9-11eb-9f4c-e1ba386a0b46.png"
 }
 ,
 {
@@ -3252,6 +3252,24 @@
 }
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "289 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+    "Update": "2024-06-29 17:54:44",
+    "Version": "9.0.1runner1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
     "Name": "Mathpix",
     "Version": "3.00.0093",
     "Filename": "mathpix-spark_3.00.0093_amd64.deb",
@@ -3370,24 +3388,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/0dd069f79b0840a8ab0885986221031a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/21/45cefc7283bc49b69d11a8360afec15d.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/21/d3492f1d6bee4879a5c33c2b635ec43b.png"
 }
-,
-{
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "289 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
-    "Update": "2024-06-29 17:54:44",
-    "Version": "9.0.1runner1~beige",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
 ,
 {
     "Name": "无线鼠标",
@@ -4180,6 +4180,23 @@
 }
 ,
 {
+    "Name": "中学电路虚拟实验室",
+    "Version": "6.0spark1",
+    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
+    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
+    "Pkgname": "com.xunidianlu.deepin",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
+    "Update": "2024-06-08 13:35:25",
+    "Size": "11.78 MB",
+    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
+}
+,
+{
     "Name": "下厨房（UEngine）",
     "Version": "8.8.13",
     "Filename": "com.xiachufang_8.8.13_all.deb",
@@ -4296,23 +4313,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/4286c51170db4a5e88f544cda70dc078.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/fb2dba8807ae42008298512a11d2616b.png"
-}
-,
-{
-    "Name": "中学电路虚拟实验室",
-    "Version": "6.0spark1",
-    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
-    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
-    "Pkgname": "com.xunidianlu.deepin",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
-    "Update": "2024-06-08 13:35:25",
-    "Size": "11.78 MB",
-    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
 }
 ,
 {

@@ -5837,6 +5837,24 @@ Description: PeaZip free file archiver utility, Qt5 build
  supporting over 200 archiving and compression formats as 7Z, BZip2, Brotli, 
  GZip, PEA, RAR, ZIP, ZPAQ, Zstandard, and many more.
 
+Package: peazip
+Architecture: amd64
+Version: 9.9.0
+Priority: optional
+Section: contrib/utils
+Maintainer: Giorgio Tani <giorgio.tani.software@gmail.com>
+Filename: tools/peazip/peazip_9.9.0_amd64.deb
+Size: 10117492
+MD5sum: b51776ca90de30f22a5f8080a8e1898a
+SHA1: 6adc0d91053f7b9e1f81c52c9eec5edc3d94b98a
+SHA256: 3faabeabe9bf910b86530c675fc7edf3d69033767a120a0bbaa8a60b771cbb5b
+SHA512: 726b4ed500e105b4bcd9b8f41493cfff33f063089e70d1bfbbd601134e0ea1f53cb90f438e8c02b57fb8a4083bbdb6ca96efb85fe07fd580a3d5e5fe751e7b71
+Homepage: https://peazip.github.io
+Description: PeaZip free file archiver utility, Qt5 build
+ PeaZip is an Open Source (LGPLv3) cross-platform archive manager utility, 
+ supporting over 200 archiving and compression formats as 7Z, BZip2, Brotli, 
+ GZip, PEA, RAR, ZIP, ZPAQ, Zstandard, and many more.
+
 Package: lazygit
 Architecture: amd64
 Version: 0.38.2
@@ -11661,6 +11679,23 @@ MD5sum: c3e588db7ab2c67b0abcecf9aa8b5eb2
 SHA1: 796c42c419100dc49b1a0f4df73ad38d76b516c9
 SHA256: ee595b9f21e12d1f23830ee3d87f7c84e78bd49587caa924c843bf5cc295b93b
 SHA512: 705eb62814e17f847e558a2345135dd3be4432dda30403ee032266a49ca03bcdf1d50e25d56a4d55bc1f0e7770599eb88afe0e107f4ecc544c1e298c9eb15ac6
+Description: fonger on Deepin Wine6
+ 一款第三方的在线音乐播放器，颜值极高，拥有无损音质
+
+Package: top.fonger.fonger.spark
+Architecture: all
+Version: 1.6.1spark1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: sgb76 <sgb76@163.com>
+Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: music/top.fonger.fonger.spark/top.fonger.fonger.spark_1.6.1spark1_all.deb
+Size: 84957876
+MD5sum: 2e30622ac78738bc77d77496a02f778f
+SHA1: e49d6cdd4fc097d6abd2b5015440f69db9140bdb
+SHA256: 41ff41dc4cd785eef516cb55f95f3708e7d095ac7e6610709b7cae796ead3e36
+SHA512: 777d246b9989c655983899cb971cd755096aa07af52863d946fc061904866debcc7c594278e68b4f58e5c0c6aea0dc6560b92578c9a933dc2d363e090ddfd3d7
 Description: fonger on Deepin Wine6
  一款第三方的在线音乐播放器，颜值极高，拥有无损音质
 
