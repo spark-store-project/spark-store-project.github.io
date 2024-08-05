@@ -35509,21 +35509,22 @@ Vendor: 124410675@qq.com
 
 Package: deepin-unioncode
 Architecture: amd64
-Version: 1.3.3-1
+Version: 1.3.7
 Priority: optional
 Section: libdevel
 Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
-Installed-Size: 116822
-Depends: libc6 (>= 2.38), libcapstone4 (>= 4), libclang1-17 (>= 1:5.0~+rc1~), libdbus-1-3 (>= 1.9.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libdwarf++0 (>= 0.2), libelf++0 (>= 0.2), libgcc-s1 (>= 3.0), libjson-c5 (>= 0.15), libjsoncpp25 (>= 1.9.5), libkf5syntaxhighlighting5 (>= 5.90.0), libqt5concurrent5 (>= 5.6.0~rc), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5script5 (>= 5.6.0~beta), libqt5scripttools5 (>= 5.6.0~beta), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 13.1), libunwind8, libzstd1 (>= 1.5.5), deepin-elf-verify (>= 1.1.10-1)
-Recommends: cmake, make, gdb, g++, gcc, git, npm, clangd-13 | clangd, python3-pip
-Filename: development/deepin-unioncode/deepin-unioncode_1.3.3-1_amd64.deb
-Size: 73924414
-MD5sum: 59d0fc7c79fa52dab15a0753b307e81c
-SHA1: 48934dee980794c9418c6478d3db288a2e981bca
-SHA256: a47007017b3a74d730fe997123b93d75436058d72b5918b70ac58c2f85f00ccc
-SHA512: 1584f403933db2850ee8154fe3fdaf0154c93744793fa782cebc8aa9cd09362660bf390dd5ea4f69ba815c5d05426e489ff2c1a07c209c7c4cfe2f3055ec8afd
+Installed-Size: 124277
+Depends: libc6 (>= 2.38), libcapstone4 (>= 4), libclang1-17 (>= 1:5.0~+rc1~), libdbus-1-3 (>= 1.9.14), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libdwarf++0 (>= 0.2), libelf++0 (>= 0.2), libgcc-s1 (>= 3.0), libjson-c5 (>= 0.15), libjsoncpp25 (>= 1.9.5), libkf5syntaxhighlighting5 (>= 5.90.0), libqt5concurrent5 (>= 5.6.0~rc), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5 (>= 5.14.1), libqt5script5 (>= 5.6.0~beta), libqt5scripttools5 (>= 5.6.0~beta), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.15.1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 13.1), libunwind8, libyaml-cpp0.7 (>= 0.7.0), libzstd1 (>= 1.5.5), python3-pip
+Recommends: cmake, make, gdb, g++, gcc, git, clangd-13 | clangd
+Filename: development/deepin-unioncode/deepin-unioncode_1.3.7_amd64.deb
+Size: 74882988
+MD5sum: 75632012535b550632782feb28de1f79
+SHA1: c2c2169309c4951e6bfdd95b4dfde5b6f882d98e
+SHA256: 4cb4775c5c47f1068bd1c723e32064da2cd5ff603225e5ef45e0199be17dc242
+SHA512: a90fb0eaae2c919735ce912d9c36a84e3b104508f4a9a77461cbfbf4d44db2d25368d8f003c09a7c2abdd7fe06365dc437608fbb28dbde233fd5d8640f92e68e
 Homepage: http://www.deepin.org
-Description: IDE 'Deepin Union Code' Lightweight cross-platform integrated development environment
+Description: IDE 'Deepin Union Code'
+ Lightweight cross-platform integrated development environment
 
 Package: io.github.msojocs.wechat-devtools-wine
 Architecture: amd64
