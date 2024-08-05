@@ -18,24 +18,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.4.14_loong64.deb",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n此版本容器内为Debian sid而不是debian bookworm! 可使用bookworm-run启动\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n    feat: UOS 1070 /data直通\n    adjust: localtime不再直通，而是首次Init复制，避免部分包配置问题\n    adjust: 移除依赖gcc\n",
-    "Name": "ACE Bookworm兼容环境",
-    "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
-    "Size": "231 Mb",
-    "Tags": "community;deepin;ubuntu",
-    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.4.14_loong64.deb.torrent",
-    "Update": "2024-06-05 20:51:32",
-    "Version": "12.4.14",
-    "Website": "https://gitee.com/deepin-community-store/bookworm-compatibility-mode/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_3.png\"]"
-}
-
-,
-{
     "Author": "gfdgd xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark-deepin-wine-runner_4.0.0.2_all.deb",
@@ -50,6 +32,24 @@
     "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
     "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-deepin-wine-runner/screen_5.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.4.14_loong64.deb",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 12的应用，为你带来更好的使用体验！\n此版本容器内为Debian sid而不是debian bookworm! 可使用bookworm-run启动\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n    feat: UOS 1070 /data直通\n    adjust: localtime不再直通，而是首次Init复制，避免部分包配置问题\n    adjust: 移除依赖gcc\n",
+    "Name": "ACE Bookworm兼容环境",
+    "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
+    "Size": "231 Mb",
+    "Tags": "community;deepin;ubuntu",
+    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.4.14_loong64.deb.torrent",
+    "Update": "2024-06-05 20:51:32",
+    "Version": "12.4.14",
+    "Website": "https://gitee.com/deepin-community-store/bookworm-compatibility-mode/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_3.png\"]"
 }
 
 ,
@@ -230,24 +230,6 @@
 }
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "open-in-terminal-tool_1.0.1_all.deb",
-    "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
-    "Name": "在终端中打开工具",
-    "Pkgname": "open-in-terminal-tool",
-    "Size": "80 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
-    "Update": "2024-03-21 23:47:29",
-    "Version": "1.0.1",
-    "Website": "https://gitee.com/deepin-community-store/",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
-}
-
-,
-{
     "Author": "help@todesk.com",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "todesk_4.7.2.0_loong64.deb",
@@ -262,6 +244,24 @@
     "Website": "https://www.todesk.com",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/todesk/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/todesk/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "open-in-terminal-tool_1.0.1_all.deb",
+    "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
+    "Name": "在终端中打开工具",
+    "Pkgname": "open-in-terminal-tool",
+    "Size": "80 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
+    "Update": "2024-03-21 23:47:29",
+    "Version": "1.0.1",
+    "Website": "https://gitee.com/deepin-community-store/",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
 ,

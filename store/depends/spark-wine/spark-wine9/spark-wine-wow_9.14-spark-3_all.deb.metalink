@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine-wow_9.14-spark-3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">55569b6766f7b1414cb4e23f502de703</hash>
+				  
+				<hash type="sha1">aa540d8bb8e1faf65a88d7e99d59943b58eede66</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/depends/spark-wine/spark-wine9/spark-wine-wow_9.14-spark-3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://xinghuo.uitai.cn/store/depends/spark-wine/spark-wine9/spark-wine-wow_9.14-spark-3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/depends/spark-wine/spark-wine9/spark-wine-wow_9.14-spark-3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://gag.spark-app.store/store/depends/spark-wine/spark-wine9/spark-wine-wow_9.14-spark-3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.deepinos.org.cn:2096/store/depends/spark-wine/spark-wine9/spark-wine-wow_9.14-spark-3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/depends/spark-wine/spark-wine9/spark-wine-wow_9.14-spark-3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

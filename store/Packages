@@ -1504,6 +1504,23 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  This compatibility package allows to use wine-devel system-wide as
  the default Wine version.
 
+Package: spark-wine-wow
+Architecture: all
+Version: 9.14-spark-3
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
+Installed-Size: 28
+Depends: spark-wine9-wow (= 9.14-spark-3)
+Filename: depends/spark-wine/spark-wine9/spark-wine-wow_9.14-spark-3_all.deb
+Size: 1312
+MD5sum: 55569b6766f7b1414cb4e23f502de703
+SHA1: aa540d8bb8e1faf65a88d7e99d59943b58eede66
+SHA256: 78a4930a59f245243525868629d27d159f66708542336d327567f570e7bb75bd
+SHA512: 06539caebe9f8a553048c0babdbf7fc3e2ac314f4ce64bff4f7575115a47f9b32ccb1c2a4a7ffa7dee54e134aab96102684231ada208b1812b7cba185d94da64
+Description: Spark wine meta package
+
 Package: spark-wine
 Architecture: all
 Version: 9.1-spark-1
@@ -1598,23 +1615,6 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  This compatibility package allows to use wine-devel system-wide as
  the default Wine version.
 
-Package: spark-wine-wow
-Architecture: all
-Version: 9.1-spark-0
-Priority: optional
-Section: otherosfs
-Source: wine
-Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
-Installed-Size: 28
-Depends: spark-wine9-wow
-Filename: depends/spark-wine/spark-wine9/spark-wine-wow_9.1-spark-0_all.deb
-Size: 1296
-MD5sum: 53b74c4879ec3fe223b1dc66909a78a7
-SHA1: 0d526c585c665a033700c7302e75b17547cdaaec
-SHA256: 1cb941a32d060a80dc6de5af630ceb1e2fa272ce1db5fdc9ce65e65acab2d975
-SHA512: 8c6693c76f45a52f1b4bf4831d0843972d551f0b0003480c0faf7ef95690c45829cf076606abf7cd76ca96299992a1d975f1d4c32189565f507074fc987fa8bd
-Description: Spark wine meta package
-
 Package: spark-wine9-ace
 Architecture: all
 Version: 9.8-spark-2
@@ -1665,7 +1665,7 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
 
 Package: spark-wine9-wow
 Architecture: amd64
-Version: 9.11-spark-0
+Version: 9.14-spark-3
 Multi-Arch: foreign
 Priority: optional
 Section: otherosfs
@@ -1674,14 +1674,14 @@ Maintainer: RX7900XT
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Installed-Size: 74704
 Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), spark-dwine-helper, libasound2 (>= 1.0.16), libc6 (>= 2.25), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24) | libsane1, libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses,  libunwind8,libgl1-mesa-glx
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.17), spark-dwine-helper, libasound2 (>= 1.0.16), libc6 (>= 2.25), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.37.3), libgphoto2-6 (>= 2.5.10), libgphoto2-port12 (>= 2.5.10), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.4.0), libldap-2.4-2 (>= 2.4.7), libopenal1 (>= 1.14), libpcap0.8 (>= 1.5.1), libpulse0 (>= 0.99.1), libsane (>= 1.0.24), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses,  libunwind8,libgl1-mesa-glx
 Recommends: libcap2-bin
-Filename: depends/spark-wine/spark-wine9/spark-wine9-wow_9.11-spark-0_amd64.deb
-Size: 204975908
-MD5sum: 854fbdaa50bc51d6f42c6cb3689e667a
-SHA1: 8a91dff4e931d6acacab62a427b4c9198b7a1505
-SHA256: b41e0a5859efb4de141ddfa832de873709d7ae0ff3ffdc654d42390c6d8f2f06
-SHA512: 3b92f51a0e432ef1aa161cde16943ddbdd95357cf094500eb07f957f1cced68d12727aca6ad58678c525495e9452fd09b545a04dbeb45f0ef22ce6180059c13e
+Filename: depends/spark-wine/spark-wine9/spark-wine9-wow_9.14-spark-3_amd64.deb
+Size: 229079184
+MD5sum: 8d064fc7329af3cea62419b32c2bb33a
+SHA1: d50d1c64f737471186839e80fa7523fa823bebf0
+SHA256: 92274701316c1e3229c7662157b02f5b7202c44c6ece6de9f58595ad122c623b
+SHA512: 379061880e3d375e1a14ba7bc6fa2cf7f7c683cf532ee424e0553b192035c3af56179ffb6ea8093d4fdf4911d3d8e4967c902edae2f895f770cf64a8de973761
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix. It
