@@ -422,23 +422,6 @@
 }
 ,
 {
-    "Name": "文本对比工具(bcompare)",
-    "Version": "4.4.6-27483",
-    "Filename": "bcompare_4.4.6-27483_amd64.deb",
-    "Torrent_address": "bcompare_4.4.6-27483_amd64.deb.torrent",
-    "Pkgname": "bcompare",
-    "Author": "Scooter Software <support@scootersoftware.com>",
-    "Contributor": "Jokul",
-    "Website": "https://www.scootersoftware.com/",
-    "Update": "2023-03-07 09:52:10",
-    "Size": "19.65 MB",
-    "More": "用于文件夹、文本等资源文件的内容差异性对比,目前官方只支持英文版\n操作帖子参照：http://dongpl.com/repositories/810",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/b50bccecedf04290a3dbe2335ed00b35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/34a3810c1d6e4c299838890180ab8f28.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/84aee5c8fbcc4db9a89ef0a5febc0235.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/c5e9511828af49b187961bc542deeea7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/07/909b0b5613894413a4cb5ec1e1ca9fa7.png"
-}
-,
-{
     "Name": "微信开发者工具 Linux版",
     "Version": "1.06.2405020-2",
     "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2405020-2_amd64.deb",
@@ -453,6 +436,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/30/b7a037aae48642c691a3f039bc4045c6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/30/240965ff134846498534bef6e262efe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/30/f9e7742189f240b78ca02bde4a1b963c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/30/3b12428e68914ae9ba9c42307cf0f003.png"
+}
+,
+{
+    "Name": "文本对比工具(bcompare)",
+    "Version": "4.4.6-27483",
+    "Filename": "bcompare_4.4.6-27483_amd64.deb",
+    "Torrent_address": "bcompare_4.4.6-27483_amd64.deb.torrent",
+    "Pkgname": "bcompare",
+    "Author": "Scooter Software <support@scootersoftware.com>",
+    "Contributor": "Jokul",
+    "Website": "https://www.scootersoftware.com/",
+    "Update": "2023-03-07 09:52:10",
+    "Size": "19.65 MB",
+    "More": "用于文件夹、文本等资源文件的内容差异性对比,目前官方只支持英文版\n操作帖子参照：http://dongpl.com/repositories/810",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/b50bccecedf04290a3dbe2335ed00b35.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/34a3810c1d6e4c299838890180ab8f28.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/84aee5c8fbcc4db9a89ef0a5febc0235.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/07/c5e9511828af49b187961bc542deeea7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/07/909b0b5613894413a4cb5ec1e1ca9fa7.png"
 }
 ,
 {
@@ -1571,23 +1571,6 @@
 }
 ,
 {
-    "Name": "VOFA+",
-    "Version": "1.3.10+elysia-1",
-    "Filename": "vofa_plus_1.3.10_pluselysia-1_amd64.deb",
-    "Torrent_address": "vofa_plus_1.3.10_pluselysia-1_amd64.deb.torrent",
-    "Pkgname": "vofa+",
-    "Author": "je00 <zjt@gutega.com>",
-    "Contributor": "Elysia  <c.elysia@foxmail.com>",
-    "Website": "https://www.vofa.plus",
-    "Update": "2024-07-17 10:54:45",
-    "Size": "21.96 MB",
-    "More": "Elysia: 修复了 libcrypto.so.1.1 缺失问题。\n\n----------------------------\n\nVOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/dd3fe44d6c82437a9d21888de142092f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/7e7b756d7ace4a558eac7cc01579d894.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/17/d5f5807f13e345228a9bafa5fa554bd4.png"
-}
-,
-{
     "Name": "Ghidra",
     "Version": "10.4.0",
     "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
@@ -1602,6 +1585,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
+}
+,
+{
+    "Name": "VOFA+",
+    "Version": "1.3.10+elysia-1",
+    "Filename": "vofa_plus_1.3.10_pluselysia-1_amd64.deb",
+    "Torrent_address": "vofa_plus_1.3.10_pluselysia-1_amd64.deb.torrent",
+    "Pkgname": "vofa+",
+    "Author": "je00 <zjt@gutega.com>",
+    "Contributor": "Elysia  <c.elysia@foxmail.com>",
+    "Website": "https://www.vofa.plus",
+    "Update": "2024-07-17 10:54:45",
+    "Size": "21.96 MB",
+    "More": "Elysia: 修复了 libcrypto.so.1.1 缺失问题。\n\n----------------------------\n\nVOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/dd3fe44d6c82437a9d21888de142092f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/7e7b756d7ace4a558eac7cc01579d894.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/17/d5f5807f13e345228a9bafa5fa554bd4.png"
 }
 ,
 {

@@ -657,20 +657,6 @@
 
 ,
 {
-   "Name":"Intel核心管理器",
-   "Version":"0.2.0",
-   "Filename":"dde-pstate_0.2.0_all.deb",
-   "Pkgname":"dde-pstate",
-   "Author":"搬运自网络",
-   "Contributor":"奇点法则",
-   "Website":"Q群：226570931",
-   "Update":"2020-07-27 00:32",
-   "Size":"74.25KB",
-   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
-}
-
-,
-{
     "Name": "桌面快捷方式编辑器",
     "Version": "1.4.5+1",
     "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
@@ -685,6 +671,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
 }
+,
+{
+   "Name":"Intel核心管理器",
+   "Version":"0.2.0",
+   "Filename":"dde-pstate_0.2.0_all.deb",
+   "Pkgname":"dde-pstate",
+   "Author":"搬运自网络",
+   "Contributor":"奇点法则",
+   "Website":"Q群：226570931",
+   "Update":"2020-07-27 00:32",
+   "Size":"74.25KB",
+   "More":"适用于Intel平台的核心频率管理器,仅支持deepin"
+}
+
 ,
 {
     "Name": "Snipaste",
@@ -1263,22 +1263,6 @@
 
 ,
 {
-    "Name": "超卓文件管理器（uengine）",
-    "Version": "15.4.5",
-    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
-    "Pkgname": "com.chaozhuo.filemanager",
-    "Author": "Phoenix OS",
-    "Contributor": "shenmo",
-    "Website": "http://www.phoenixos.com/",
-    "Update": "2022-04-04 15:24:51",
-    "Size": "6.29 MB",
-    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
-}
-,
-{
     "Name": "Bandizip",
     "Version": "7.32spark0",
     "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
@@ -1310,6 +1294,22 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/1d09fb9bc0464504aad41ad5cf1b85ca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/dcf9bdbba39d4829b89c0a794089c471.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/269b84a6bffb40fb84515f45c206f669.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/61f91289ce714cb9afb0545169ca7dd8.png"
+}
+,
+{
+    "Name": "超卓文件管理器（uengine）",
+    "Version": "15.4.5",
+    "Filename": "com.chaozhuo.filemanager_15.4.5_all.deb",
+    "Pkgname": "com.chaozhuo.filemanager",
+    "Author": "Phoenix OS",
+    "Contributor": "shenmo",
+    "Website": "http://www.phoenixos.com/",
+    "Update": "2022-04-04 15:24:51",
+    "Size": "6.29 MB",
+    "More": "适用于Uengine的一款好用的安卓文件管理器，适配了多窗口安卓\n",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/04/4fd6e230-b3e8-11ec-89c0-1ffd92f6dd0a.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/04/18f8b5e0-b3e8-11ec-89c0-1ffd92f6dd0a.png"
 }
 ,
 {
@@ -1814,23 +1814,6 @@
 }
 ,
 {
-    "Name": "ES文件管理器",
-    "Version": "4.4.1.1",
-    "Filename": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb",
-    "Torrent_address": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.estrongs.android.pop",
-    "Author": "ES File Explorer",
-    "Contributor": "於泓锦 <2126791993@qq.com>",
-    "Website": "http://www.estrongs.com/",
-    "Update": "2023-09-29 20:48:57",
-    "Size": "38.9 MB",
-    "More": "填补UEngine这部分的空缺",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
-}
-,
-{
     "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
     "Version": "10.0.9.0.8-903spark1",
     "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
@@ -1845,6 +1828,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
+    "Name": "ES文件管理器",
+    "Version": "4.4.1.1",
+    "Filename": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb",
+    "Torrent_address": "uengine-dc-com.estrongs.android.pop_4.4.1.1_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.estrongs.android.pop",
+    "Author": "ES File Explorer",
+    "Contributor": "於泓锦 <2126791993@qq.com>",
+    "Website": "http://www.estrongs.com/",
+    "Update": "2023-09-29 20:48:57",
+    "Size": "38.9 MB",
+    "More": "填补UEngine这部分的空缺",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/29/44f62f2b63894098a68cfa496f05e3d0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/29/2c1f205a4d16446bb7f3eaccbe600006.png"
 }
 ,
 {
@@ -3201,23 +3201,6 @@
 }
 ,
 {
-    "Name": "XCursor Viewer(光标查看器)",
-    "Version": "1.1.1",
-    "Filename": "xcursor-viewer_1.1.1_amd64.deb",
-    "Torrent_address": "xcursor-viewer_1.1.1_amd64.deb.torrent",
-    "Pkgname": "xcursor-viewer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://www.gitlink.org.cn/zinface/xcursor-viewer",
-    "Update": "2023-11-09 15:04:05",
-    "Size": "61.17 KB",
-    "More": "XCursor Viewer(光标查看器)\n1. 提供查看 MimeType 为 image/x-xcursor 文件类型的工具\n2. 常规光标目录 /usr/share/icons/oreo_teal_cursors/cursors \n3. 可查看自己制作的光标\n\n v1.1: \n1. 增加窗口内鼠标指针预览\n2. 增加光标动画预览功能",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/f707dc995c584ea5a64aec042c87b117.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/9173e58be36e43a7bb2ea4566663b5f5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2654b8e153f947a7845fc36dce46655f.png"
-}
-,
-{
     "Author": "gfdgd_xi <3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
@@ -3234,6 +3217,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "XCursor Viewer(光标查看器)",
+    "Version": "1.1.1",
+    "Filename": "xcursor-viewer_1.1.1_amd64.deb",
+    "Torrent_address": "xcursor-viewer_1.1.1_amd64.deb.torrent",
+    "Pkgname": "xcursor-viewer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://www.gitlink.org.cn/zinface/xcursor-viewer",
+    "Update": "2023-11-09 15:04:05",
+    "Size": "61.17 KB",
+    "More": "XCursor Viewer(光标查看器)\n1. 提供查看 MimeType 为 image/x-xcursor 文件类型的工具\n2. 常规光标目录 /usr/share/icons/oreo_teal_cursors/cursors \n3. 可查看自己制作的光标\n\n v1.1: \n1. 增加窗口内鼠标指针预览\n2. 增加光标动画预览功能",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/f707dc995c584ea5a64aec042c87b117.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/9173e58be36e43a7bb2ea4566663b5f5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2654b8e153f947a7845fc36dce46655f.png"
+}
 ,
 {
     "Name": "简传",
@@ -3893,6 +3893,40 @@
 }
 ,
 {
+    "Name": "今天吃什么",
+    "Version": "1.1.2",
+    "Filename": "jim.yhj_1.1.2_amd64.deb",
+    "Torrent_address": "jim.yhj_1.1.2_amd64.deb.torrent",
+    "Pkgname": "jim.yhj",
+    "Author": "於泓锦",
+    "Contributor": "於泓锦",
+    "Website": "https://mofangsoft.github.io/",
+    "Update": "2023-09-17 16:19:46",
+    "Size": "26.66 KB",
+    "More": "点到啥吃啥！",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/5e7ce55ba35a4066a240a4db9d788b61.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/d8ff081d08f84c759f18c0363ddd3fd1.png"
+}
+,
+{
+    "Name": "Debian 软件仓库分析工具",
+    "Version": "0.0.13-20240724",
+    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb",
+    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb.torrent",
+    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
+    "Update": "2024-07-24 10:42:56",
+    "Size": "470.62 KB",
+    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/a46042b398d74d5c94fe69b9ccc4a707.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/defb6a5559f24dad8da292ce0a93144e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/b8b652dfe15c4ef49ac62e38bddfeca6.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/24/0f5a4fc121ab4f8fbb0b650ee602984e.png"
+}
+,
+{
     "Name": "AlphaPlot",
     "Version": "1.02-1",
     "Filename": "alphaplot_1.02-1_amd64.deb",
@@ -3961,23 +3995,6 @@
 }
 ,
 {
-    "Name": "今天吃什么",
-    "Version": "1.1.2",
-    "Filename": "jim.yhj_1.1.2_amd64.deb",
-    "Torrent_address": "jim.yhj_1.1.2_amd64.deb.torrent",
-    "Pkgname": "jim.yhj",
-    "Author": "於泓锦",
-    "Contributor": "於泓锦",
-    "Website": "https://mofangsoft.github.io/",
-    "Update": "2023-09-17 16:19:46",
-    "Size": "26.66 KB",
-    "More": "点到啥吃啥！",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/5e7ce55ba35a4066a240a4db9d788b61.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/d8ff081d08f84c759f18c0363ddd3fd1.png"
-}
-,
-{
     "Name": "GuanJi",
     "Version": "1.2",
     "Filename": "guanji.spark_1.2_amd64.deb",
@@ -4028,23 +4045,6 @@
 }
 ,
 {
-    "Name": "Debian 软件仓库分析工具",
-    "Version": "0.0.13-20240724",
-    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb",
-    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb.torrent",
-    "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
-    "Update": "2024-07-24 10:42:56",
-    "Size": "470.62 KB",
-    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/a46042b398d74d5c94fe69b9ccc4a707.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/defb6a5559f24dad8da292ce0a93144e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/b8b652dfe15c4ef49ac62e38bddfeca6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/24/0f5a4fc121ab4f8fbb0b650ee602984e.png"
-}
-,
-{
     "Name": "时钟大师",
     "Version": "1.5-20240517",
     "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
@@ -4076,6 +4076,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/9dc374b537d84538a036431393768011.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/fa75cfe1527e41dfa3b9648b775c06b4.png"
+}
+,
+{
+    "Name": "简繁转换",
+    "Version": "1.2.5",
+    "Filename": "mfra.jianfanzh_1.2.5_amd64.deb",
+    "Torrent_address": "mfra.jianfanzh_1.2.5_amd64.deb.torrent",
+    "Pkgname": "mfra.jianfanzh",
+    "Author": "校医软件室",
+    "Contributor": "校医软件室",
+    "Website": "t.me/otohime_soft_room/32",
+    "Update": "2024-02-02 22:02:53",
+    "Size": "6.68 MB",
+    "More": "简繁转换（此软件由AI生成py脚本，再由nuitka打包生成。）\n  本软件可以相互转换简体文本和繁体文本。\n  用法：\n 输入转换类型：(s2t简转繁，t2s繁转简)\n 模式：1或2\n 选1不用说，你懂的。\n 选2就是批量转换\n 文件夹路径：（输入待转换的文件夹的路径）\n 文本格式：（后缀，.xxx）\n 字符编码：（UTF-8,UTF-16,gbk等等）\n 注：转换后会直接覆盖原来的文件夹，操作前记得备份！",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/66cefae845404ea78366bc898a744fb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/9b4046b1cdcc4358ba143b29c5afa16b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/87c1c488ef534b149f1a6f8e740e85b8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/02/d51f714ae3064aa89e09a94506c48912.png"
 }
 ,
 {
@@ -4180,23 +4197,6 @@
 }
 ,
 {
-    "Name": "简繁转换",
-    "Version": "1.2.5",
-    "Filename": "mfra.jianfanzh_1.2.5_amd64.deb",
-    "Torrent_address": "mfra.jianfanzh_1.2.5_amd64.deb.torrent",
-    "Pkgname": "mfra.jianfanzh",
-    "Author": "校医软件室",
-    "Contributor": "校医软件室",
-    "Website": "t.me/otohime_soft_room/32",
-    "Update": "2024-02-02 22:02:53",
-    "Size": "6.68 MB",
-    "More": "简繁转换（此软件由AI生成py脚本，再由nuitka打包生成。）\n  本软件可以相互转换简体文本和繁体文本。\n  用法：\n 输入转换类型：(s2t简转繁，t2s繁转简)\n 模式：1或2\n 选1不用说，你懂的。\n 选2就是批量转换\n 文件夹路径：（输入待转换的文件夹的路径）\n 文本格式：（后缀，.xxx）\n 字符编码：（UTF-8,UTF-16,gbk等等）\n 注：转换后会直接覆盖原来的文件夹，操作前记得备份！",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/66cefae845404ea78366bc898a744fb7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/9b4046b1cdcc4358ba143b29c5afa16b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/02/87c1c488ef534b149f1a6f8e740e85b8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/02/d51f714ae3064aa89e09a94506c48912.png"
-}
-,
-{
     "Name": "中学电路虚拟实验室",
     "Version": "6.0spark1",
     "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
@@ -4297,6 +4297,23 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/grsync/screen_2.png\"]"
 }
 
+,
+{
+    "Name": "deepin 终端（deepin 15 经典版本）",
+    "Version": "5.0.4.3gxde2",
+    "Filename": "deepin-terminal-gtk_5.0.4.3gxde2_amd64.deb",
+    "Torrent_address": "deepin-terminal-gtk_5.0.4.3gxde2_amd64.deb.torrent",
+    "Pkgname": "deepin-terminal-gtk",
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/linuxdeepin/deepin-terminal-gtk",
+    "Update": "2024-07-16 12:01:36",
+    "Size": "355.45 KB",
+    "More": "deepin 终端（deepin 15 经典版本） \n支持与现在的 deepin 终端共存\n支持 deepin23",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/f19f5bf4b94740dead9b81f83cc3b672.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/6e726ee391b943d98a7e4cad41e6f5d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/ece3eaeded6a41f1a0959b90e0c42512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/76bbc5fd83eb48caace2e21775fddcca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/5ff5a65b9b7c4ca3badf0c191486f9cf.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/16/ff627751505a4170859f93d4d3343d1c.png"
+}
 ,
 {
     "Name": "转换工具（convert tool）",
@@ -4549,23 +4566,6 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/0145c0b17d874757b919dd3023072620.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/c3de0aa21390497da88b1e548d935f23.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/af2d2d4469ba480ebc7c0c12780a4135.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/af06c3f3b3f1441c9de0b5f0d338208b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/f2132a5b1bf249108124fd8dc23495b8.png"
-}
-,
-{
-    "Name": "deepin 终端（deepin 15 经典版本）",
-    "Version": "5.0.4.3gxde2",
-    "Filename": "deepin-terminal-gtk_5.0.4.3gxde2_amd64.deb",
-    "Torrent_address": "deepin-terminal-gtk_5.0.4.3gxde2_amd64.deb.torrent",
-    "Pkgname": "deepin-terminal-gtk",
-    "Author": "Deepin Packages Builder <packages@deepin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/linuxdeepin/deepin-terminal-gtk",
-    "Update": "2024-07-16 12:01:36",
-    "Size": "355.45 KB",
-    "More": "deepin 终端（deepin 15 经典版本） \n支持与现在的 deepin 终端共存\n支持 deepin23",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/f19f5bf4b94740dead9b81f83cc3b672.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/6e726ee391b943d98a7e4cad41e6f5d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/ece3eaeded6a41f1a0959b90e0c42512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/76bbc5fd83eb48caace2e21775fddcca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/16/5ff5a65b9b7c4ca3badf0c191486f9cf.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/16/ff627751505a4170859f93d4d3343d1c.png"
 }
 ,
 {
