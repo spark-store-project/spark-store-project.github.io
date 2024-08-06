@@ -1689,6 +1689,27 @@ SHA512: d6051406563d89459930cfaee745d47bea339e7c1fd4518bfe1429ac17c39662778218af
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
+Package: spark-dwine-helper
+Architecture: all
+Version: 5.6.4.3-5.3.14
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 724
+Provides: store.spark-app.spark-dwine-helper(=5.6.4.3-5.3.14)
+Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
+Recommends: python3-pyqt5
+Replaces: store.spark-app.spark-dwine-helper(<=5.6.4.3-5.3.14)
+Filename: tools/spark-dwine-helper/spark-dwine-helper_5.6.4.3-5.3.14_all.deb
+Size: 277624
+MD5sum: 6c7785bd10199d590188c76e646f3371
+SHA1: a003cd2d4674c924e64456212f00c3b5befa8d05
+SHA256: 30517e2275fea664d33901f9156a96b230dda30a80851330b8dae7dcf5ee8bae
+SHA512: 244220660cdea43dda741a99e887137db16acf7146468c826bc3d799650da20cd02499c82e9d8d357f83e39e7420f3f5de2ec41b7d80a4e5fe05a9401139fef9
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
 Package: uos-ai
 Architecture: arm64
 Version: 1.2.1-1
@@ -5999,6 +6020,26 @@ SHA512: c97cb98aab0bdbaa17188810fb770b4257fdf33a0b52c29617e1f3810a86c845eb00c4e7
 Homepage: http://pinyin.sogou.com/linux
 Description: 搜狗输入法Deepin版语音数据包
 
+Package: vic-diary
+Architecture: amd64
+Version: 0.5.0
+Priority: optional
+Section: default
+Maintainer: stevobm
+Installed-Size: 246149
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Recommends: libappindicator3-1
+Filename: office/vic-diary/vic-diary_0.5.0_amd64.deb
+Size: 71173826
+MD5sum: 180f35c51e17f20348773522f85199ed
+SHA1: 520f8733bdf5ec0fb0890647802c2d81c84d0739
+SHA256: 15eba2672d1b9448425a268f5b071e12da61edef4053e73a35f29a458a9fca2d
+SHA512: aceefd857d8a77b784bd04473cfdb2be00d54097948b9e4b8b0bb1f799f4d5ec9462bc62ae59a074dd96422e0617b4507894ff58fafbd56b6cf55c9e7594c20b
+Homepage: https://github.com/vo-soft/vic-diary
+Description: An elegant diary supported markdown
+License: unknown
+Vendor: stevobm
+
 Package: top.yzzi.tomato
 Architecture: arm64
 Version: 1.0.0-1
@@ -6032,6 +6073,22 @@ SHA1: e5e72b809a83cf5b8943929b721e1428ca18ba15
 SHA256: af1927a1d556bd594cbc10a4286465444c6d0a57c9c6a46385e6eb54979e4c38
 SHA512: 15dd93d35db990921b1be135218bf4fcbdfe42e2282b87e6bd719dd7b25214a4acc5fa8f9abd1c4bc483a865182ea9fe51e8bb1dc9075ded140904ca96d04644
 Description: .PDF-XChange Editor Plus是一款功能强大的PDF文件查看和编辑软件，它提供了便携版，这款软件以其高效的PDF处理能力而闻名，包括但不限于查看、编辑、注释、转换PDF文件。
+
+Package: com.tongyi.uos
+Architecture: arm64
+Version: 1.0
+Priority: optional
+Section: devel
+Maintainer: <zyl@uniontech.com>
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.tongyi.uos/com.tongyi.uos_1.0_arm64.deb
+Size: 71736594
+MD5sum: fb5090ce21cb7aa07c96138275e27015
+SHA1: 205d5f60deb6783db3fed40e2ad6fefe5ba060c1
+SHA256: 535f37ea7527826245501e8d014cc80760a956f1e0e2501b96e53bcca099faab
+SHA512: 12c65c6016d430cbb1bc965bfd3dfacc3715a772b2f5237807e65e8d5c47c60f13a7b379db1c83afc4762964e0e903da539dd2f0bfa294c01f7e4ad69a9fe1a2
+Homepage: https://tongyi.aliyun.com/
+Description: "通义，是一款超大规模预训练模型，是您日常办公、学习提效、生活娱乐的AI超级助理；为您提供全方位、方便快捷的协助。"
 
 Package: com.sogou.sogoupinyin-uos-sogouhw
 Architecture: all

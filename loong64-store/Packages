@@ -2092,6 +2092,27 @@ SHA512: d6051406563d89459930cfaee745d47bea339e7c1fd4518bfe1429ac17c39662778218af
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
+Package: spark-dwine-helper
+Architecture: all
+Version: 5.6.4.3-5.3.14
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 724
+Provides: store.spark-app.spark-dwine-helper(=5.6.4.3-5.3.14)
+Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
+Recommends: python3-pyqt5
+Replaces: store.spark-app.spark-dwine-helper(<=5.6.4.3-5.3.14)
+Filename: tools/spark-dwine-helper/spark-dwine-helper_5.6.4.3-5.3.14_all.deb
+Size: 277624
+MD5sum: 6c7785bd10199d590188c76e646f3371
+SHA1: a003cd2d4674c924e64456212f00c3b5befa8d05
+SHA256: 30517e2275fea664d33901f9156a96b230dda30a80851330b8dae7dcf5ee8bae
+SHA512: 244220660cdea43dda741a99e887137db16acf7146468c826bc3d799650da20cd02499c82e9d8d357f83e39e7420f3f5de2ec41b7d80a4e5fe05a9401139fef9
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
 Package: com.jzdy.deepin
 Architecture: all
 Version: 8.0.4
@@ -7063,6 +7084,22 @@ SHA1: 93acbf87b5a8581a47f243a2f6c0acf31e3ede63
 SHA256: a42868d726ea2cb46f5e1324b7f14b7f2abab840a2e1d36bea943d3ebeb7d7ce
 SHA512: 69ce64e20fce57d7b9179b2720ee4a17bf2941874d9e676664196c53d416128e497f40e2df08f140b79eae3cb95b2042bfa6d5a4c2f10219f002898acbd87836
 Description: 金山PDF是一款功能强大、操作简单的PDF编辑器。
+
+Package: com.tongyi.uos
+Architecture: loong64
+Version: 1.0
+Priority: optional
+Section: devel
+Maintainer: <zyl@uniontech.com>
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb
+Size: 93945430
+MD5sum: 8883058ec6cf9dece62671a7fed980d8
+SHA1: b7383036315ab34b71a020138fde2f75b06a40f2
+SHA256: 1b3dbf6152e7620473caa6b0e7e3b7acc7709e4cab999d2714aa19bd10cd76c5
+SHA512: a3f300e05b1de4dc459ab8ea629955678e79cbe7656a225aaa9dbf378cc35ac2560dce1ab930482804be651095f5af682fb451739d73b09f4755dbf4eb33e8a9
+Homepage: https://tongyi.aliyun.com/
+Description: "通义，是一款超大规模预训练模型，是您日常办公、学习提效、生活娱乐的AI超级助理；为您提供全方位、方便快捷的协助。"
 
 Package: com.sbfglkhd.spark
 Architecture: all
