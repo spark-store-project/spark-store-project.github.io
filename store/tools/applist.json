@@ -1429,20 +1429,6 @@
 }
 ,
 {
-   "Name":"海天鹰文件管理器",
-   "Version":"2.9",
-   "Filename":"htyfm-spark_2.9_amd64.deb",
-   "Pkgname":"htyfm-spark",
-   "Author":"黄颖",
-   "Contributor":"shenmo",
-   "Website":"github.com/sonichy",
-   "Update":"2020-09-05 19:17",
-   "Size":"83.60KB",
-   "More":"一款好用的文件管理器"
-}
-
-,
-{
     "Name": "QGIS",
     "Version": "3.18.3",
     "Filename": "qgis.gisshows_3.18.3_amd64.deb",
@@ -1457,6 +1443,20 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/8fa658a0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/92cc77d0-b7d6-11eb-95cc-55162659a757.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/18/950095e0-b7d6-11eb-95cc-55162659a757.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/18/744e6070-b7d6-11eb-95cc-55162659a757.png"
 }
+,
+{
+   "Name":"海天鹰文件管理器",
+   "Version":"2.9",
+   "Filename":"htyfm-spark_2.9_amd64.deb",
+   "Pkgname":"htyfm-spark",
+   "Author":"黄颖",
+   "Contributor":"shenmo",
+   "Website":"github.com/sonichy",
+   "Update":"2020-09-05 19:17",
+   "Size":"83.60KB",
+   "More":"一款好用的文件管理器"
+}
+
 ,
 {
     "Name": "Macast",
@@ -1510,6 +1510,23 @@
 
 ,
 {
+    "Name": "SecureCRT",
+    "Version": "9.0.2-2496",
+    "Filename": "scrt_9.0.2-2496_amd64.deb",
+    "Torrent_address": "scrt_9.0.2-2496_amd64.deb.torrent",
+    "Pkgname": "scrt",
+    "Author": "VanDyke",
+    "Contributor": "错失一亿",
+    "Website": "https://www.vandyke.com/",
+    "Update": "2023-11-15 23:00:24",
+    "Size": "22 MB",
+    "More": "官方未适配deepin,缺少依赖，加入依赖再打包，可以直接在V23上安装。商业软件，涉及授权，license就需要自行想办法了",
+    "Tags": "deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/d3f44b70-83c6-11ee-b5cb-27e705cc1ba9.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/2cb739c0-83c7-11ee-b5cb-27e705cc1ba9.png"
+}
+,
+{
     "Name": "Deskreen投屏工具",
     "Version": "2.0.3",
     "Filename": "deskreen_2.0.3_amd64.deb",
@@ -1527,20 +1544,20 @@
 }
 ,
 {
-    "Name": "SecureCRT",
-    "Version": "9.0.2-2496",
-    "Filename": "scrt_9.0.2-2496_amd64.deb",
-    "Torrent_address": "scrt_9.0.2-2496_amd64.deb.torrent",
-    "Pkgname": "scrt",
-    "Author": "VanDyke",
-    "Contributor": "错失一亿",
-    "Website": "https://www.vandyke.com/",
-    "Update": "2023-11-15 23:00:24",
-    "Size": "22 MB",
-    "More": "官方未适配deepin,缺少依赖，加入依赖再打包，可以直接在V23上安装。商业软件，涉及授权，license就需要自行想办法了",
-    "Tags": "deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/d3f44b70-83c6-11ee-b5cb-27e705cc1ba9.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/2cb739c0-83c7-11ee-b5cb-27e705cc1ba9.png"
+    "Name": "优效日历",
+    "Version": "2.4.6.1spark2",
+    "Filename": "com.yxcalendar.spark_2.4.6.1spark2_all.deb",
+    "Torrent_address": "com.yxcalendar.spark_2.4.6.1spark2_all.deb.torrent",
+    "Pkgname": "com.yxcalendar.spark",
+    "Author": "sgb76 <sgb76@163.com>",
+    "Contributor": "sgb76",
+    "Website": "http://www.youxiao.cn/",
+    "Update": "2024-06-02 21:23:14",
+    "Size": "19.63 MB",
+    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/cd8d02b6a32b459d8195cde655b4b6dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/860ca22215d34d92a5a89f41cd5470a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/b303c921ce51480ca1f379ed274598ca.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/44c3229effa04e29a97d0753f7434c3e.png"
 }
 ,
 {
@@ -1589,23 +1606,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/36a15dbd63ad4870aff25b7ddd86cdaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/a78ab2797ae34e49931f301ef3b7b374.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/11/7de5ae83b369439aa3b21df24fd8405f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/11/37da6b1891bf4f7383085eb783c05da1.png"
-}
-,
-{
-    "Name": "优效日历",
-    "Version": "2.4.6.1spark2",
-    "Filename": "com.yxcalendar.spark_2.4.6.1spark2_all.deb",
-    "Torrent_address": "com.yxcalendar.spark_2.4.6.1spark2_all.deb.torrent",
-    "Pkgname": "com.yxcalendar.spark",
-    "Author": "sgb76 <sgb76@163.com>",
-    "Contributor": "sgb76",
-    "Website": "http://www.youxiao.cn/",
-    "Update": "2024-06-02 21:23:14",
-    "Size": "19.63 MB",
-    "More": "一款具有 Win10 风格的桌面日历软件，并自带许多实用小功能。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/cd8d02b6a32b459d8195cde655b4b6dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/860ca22215d34d92a5a89f41cd5470a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/b303c921ce51480ca1f379ed274598ca.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/44c3229effa04e29a97d0753f7434c3e.png"
 }
 ,
 {
@@ -1797,23 +1797,6 @@
 }
 ,
 {
-    "Name": "WinSCP",
-    "Version": "6.1.2Spark0",
-    "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
-    "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
-    "Pkgname": "com.winscp.spark",
-    "Author": "错失一亿",
-    "Contributor": "错失一亿",
-    "Website": "no",
-    "Update": "2023-10-15 13:24:13",
-    "Size": "17.66 MB",
-    "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
-}
-,
-{
     "Name": "搜狗输入法 Deepin Next 版（fcitx5）",
     "Version": "10.0.9.0.8-903spark1",
     "Filename": "com.sogou.ime.ng.fcitx5.deepin_10.0.9.0.8-903spark1_amd64.deb",
@@ -1828,6 +1811,23 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/00afb892fb524037a75909c8a789b2ab.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d2eafeeaf9014e6fbd96d31059644c87.png"
+}
+,
+{
+    "Name": "WinSCP",
+    "Version": "6.1.2Spark0",
+    "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
+    "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
+    "Pkgname": "com.winscp.spark",
+    "Author": "错失一亿",
+    "Contributor": "错失一亿",
+    "Website": "no",
+    "Update": "2023-10-15 13:24:13",
+    "Size": "17.66 MB",
+    "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
 }
 ,
 {
@@ -2115,6 +2115,22 @@
 }
 ,
 {
+    "Name": "DTK桌面便签",
+    "Version": "0.0.4_plus_spark3",
+    "Filename": "dtkstickynotes.spark_0.0.4_plus_spark3_amd64.deb",
+    "Pkgname": "dtkstickynotes.spark",
+    "Author": "RubbishZhYic",
+    "Contributor": "Spark",
+    "Website": "http://zhyic.tk",
+    "Update": "2021-02-19 11:01:05",
+    "Size": "274.4 KB",
+    "More": "一款用DTK5开发的桌面便签",
+    "Tags": "deepin;community;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9a259a60-725e-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9ec27b10-725e-11eb-b279-bf053debaf81.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/972dde30-725e-11eb-b279-bf053debaf81.png"
+}
+,
+{
     "Name": "网速查看器(测试版本)",
     "Version": "0.1-20230107",
     "Filename": "z-tools-speedwidget_0.1-20230107_amd64.deb",
@@ -2129,22 +2145,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/8a871ca1edcb43eb89d6e43ef508ac3e.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/9c4debbe7d7a4668b181f2c397b50623.png"
-}
-,
-{
-    "Name": "DTK桌面便签",
-    "Version": "0.0.4_plus_spark3",
-    "Filename": "dtkstickynotes.spark_0.0.4_plus_spark3_amd64.deb",
-    "Pkgname": "dtkstickynotes.spark",
-    "Author": "RubbishZhYic",
-    "Contributor": "Spark",
-    "Website": "http://zhyic.tk",
-    "Update": "2021-02-19 11:01:05",
-    "Size": "274.4 KB",
-    "More": "一款用DTK5开发的桌面便签",
-    "Tags": "deepin;community;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9a259a60-725e-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9ec27b10-725e-11eb-b279-bf053debaf81.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/972dde30-725e-11eb-b279-bf053debaf81.png"
 }
 ,
 {
@@ -3168,6 +3168,24 @@
 }
 ,
 {
+    "Author": "gfdgd_xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
+    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+    "Name": "Wine 运行器 Qemu 拓展",
+    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+    "Size": "289 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+    "Update": "2024-06-29 17:54:44",
+    "Version": "9.0.1runner1~beige",
+    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+}
+
+,
+{
     "Name": "Slimbook Battery",
     "Version": "3.97beta",
     "Filename": "slimbookbattery_3.97beta_all.deb",
@@ -3201,24 +3219,6 @@
 }
 ,
 {
-    "Author": "gfdgd_xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
-    "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-    "Name": "Wine 运行器 Qemu 拓展",
-    "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-    "Size": "289 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
-    "Update": "2024-06-29 17:54:44",
-    "Version": "9.0.1runner1~beige",
-    "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
-,
-{
     "Name": "XCursor Viewer(光标查看器)",
     "Version": "1.1.1",
     "Filename": "xcursor-viewer_1.1.1_amd64.deb",
@@ -3250,6 +3250,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/13/9fabd0afe3c44208a239fa99e510cbb8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/13/e54dec5be9664b288835361b00e64b14.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/13/bed4f5ea008d43e0a98f2821be6f5f59.png"
+}
+,
+{
+    "Name": "UOS应用迁移助手",
+    "Version": "2.0.001-1",
+    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
+    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
+    "Pkgname": "deepin-wine-builder",
+    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.deepin.org",
+    "Update": "2024-07-26 11:45:33",
+    "Size": "1.09 MB",
+    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
+    "Tags": "deepin;uos;dtk5;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
 }
 ,
 {
@@ -3304,6 +3321,23 @@
 }
 ,
 {
+    "Name": "键盘检测(Wine)",
+    "Version": "1.0.0",
+    "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
+    "Torrent_address": "com.jianpanjiancegongju.spark_1.0.0_i386.deb.torrent",
+    "Pkgname": "com.jianpanjiancegongju.spark",
+    "Author": "rc3583z",
+    "Contributor": "rc3583z",
+    "Website": "QQ:1733089032",
+    "Update": "2023-04-09 13:54:20",
+    "Size": "8.42 MB",
+    "More": "用于检测键盘按键和鼠标按键",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce383090-d69a-11ed-8a97-15d378a127b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce5380c0-d69a-11ed-8a97-15d378a127b8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
+}
+,
+{
     "Author": "98五笔小组",
     "Contributor": "wubixiaozhu <wubixiaozhu@126.com>",
     "Filename": "wubi98-char_1.0.0_amd64.deb",
@@ -3320,40 +3354,6 @@
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wubi98-char/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wubi98-char/screen_2.png\"]"
 }
 
-,
-{
-    "Name": "UOS应用迁移助手",
-    "Version": "2.0.001-1",
-    "Filename": "deepin-wine-builder_2.0.001-1_amd64.deb",
-    "Torrent_address": "deepin-wine-builder_2.0.001-1_amd64.deb.torrent",
-    "Pkgname": "deepin-wine-builder",
-    "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.deepin.org",
-    "Update": "2024-07-26 11:45:33",
-    "Size": "1.09 MB",
-    "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
-    "Tags": "deepin;uos;dtk5;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/26/2a8a049df13a4e50bc029f21d3f2c497.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/26/ffe265069b5845eba98729e2a4483128.png"
-}
-,
-{
-    "Name": "键盘检测(Wine)",
-    "Version": "1.0.0",
-    "Filename": "com.jianpanjiancegongju.spark_1.0.0_i386.deb",
-    "Torrent_address": "com.jianpanjiancegongju.spark_1.0.0_i386.deb.torrent",
-    "Pkgname": "com.jianpanjiancegongju.spark",
-    "Author": "rc3583z",
-    "Contributor": "rc3583z",
-    "Website": "QQ:1733089032",
-    "Update": "2023-04-09 13:54:20",
-    "Size": "8.42 MB",
-    "More": "用于检测键盘按键和鼠标按键",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce383090-d69a-11ed-8a97-15d378a127b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce5380c0-d69a-11ed-8a97-15d378a127b8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
-}
 ,
 {
     "Name": "DDE手势管理器",
@@ -3911,19 +3911,19 @@
 ,
 {
     "Name": "Debian 软件仓库分析工具",
-    "Version": "0.0.13-20240724",
-    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb",
-    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb.torrent",
+    "Version": "0.0.13-20240806",
+    "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240806_amd64.deb",
+    "Torrent_address": "com.gitee.zinface-debian-apt-analyzer_0.0.13-20240806_amd64.deb.torrent",
     "Pkgname": "com.gitee.zinface-debian-apt-analyzer",
     "Author": "zinface <zinface@163.com>",
     "Contributor": "zinface <zinface@163.com>",
     "Website": "https://gitee.com/zinface/qt.debian-apt-analyzer",
-    "Update": "2024-07-24 10:42:56",
-    "Size": "470.62 KB",
-    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.",
+    "Update": "2024-08-06 15:00:27",
+    "Size": "523.52 KB",
+    "More": "Debian 软件仓库分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。\n .\n 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。\n .\n Build for Deepin20.9 through spark-deb-build.\n\n2024/07/12:\n1. Debian源、Deepin源、Ubuntu源、Lingmo源、Uos源\n\n2024/07/16: \n1. 龙芯软件源(7)\n2. 麒麟软件源(222)\n3. 优麒麟软件源(3)\n3. Termux软件源(1)\n4. 微软软件源(VSCode/Edge)\n5. ROS(7)\n6. parrot软件源(25)\n7. Ubuntu-Ports 软件源(45)\n\n2024/08/06:\n1. 微软 dotnet 软件源(1)",
     "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/a46042b398d74d5c94fe69b9ccc4a707.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/defb6a5559f24dad8da292ce0a93144e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/24/b8b652dfe15c4ef49ac62e38bddfeca6.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/24/0f5a4fc121ab4f8fbb0b650ee602984e.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/06/ec7885e16ec14ff98e87e4519a6900e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/06/5bff1945146847f89eef2219f703e95b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/06/55839073d4204b1596cb1f785489fc3b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/06/01f2c1d0bfe9414391574034680cd18c.png"
 }
 ,
 {
@@ -4146,6 +4146,23 @@
 }
 ,
 {
+    "Name": "中学电路虚拟实验室",
+    "Version": "6.0spark1",
+    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
+    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
+    "Pkgname": "com.xunidianlu.deepin",
+    "Author": "gfdgd xi <3025613752@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
+    "Update": "2024-06-08 13:35:25",
+    "Size": "11.78 MB",
+    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
+}
+,
+{
     "Name": "下厨房（UEngine）",
     "Version": "8.8.13",
     "Filename": "com.xiachufang_8.8.13_all.deb",
@@ -4194,23 +4211,6 @@
     "Tags": "deepin;a2d;community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/55012150-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/590e9340-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/5ea8e6c0-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/62528dd0-59ee-11ee-85d4-79a50bfb310a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/23/6622f6c0-59ee-11ee-85d4-79a50bfb310a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/23/9f043b80-59ed-11ee-85d4-79a50bfb310a.png"
-}
-,
-{
-    "Name": "中学电路虚拟实验室",
-    "Version": "6.0spark1",
-    "Filename": "com.xunidianlu.deepin_6.0spark1_all.deb",
-    "Torrent_address": "com.xunidianlu.deepin_6.0spark1_all.deb.torrent",
-    "Pkgname": "com.xunidianlu.deepin",
-    "Author": "gfdgd xi <3025613752@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "http://www.regsky.com/index.php?c=goods&a=info&zc_id=1296",
-    "Update": "2024-06-08 13:35:25",
-    "Size": "11.78 MB",
-    "More": "本软件为免安装绿色软件，无插件，双击即可运行。为中学物理电路仿真模拟（虚拟）软件，能象真实实验一样随意连接试验元件和导线，支持任意结构的单电源串联并联电路以及各种复杂电路实验的仿真模拟，有先进的画标准电路图功能，有多种强大而体贴的功能，是中学物理电路教学与学习的好工具，能增强中学生学习兴趣和效率，也可用于启蒙教育或作益智游戏。\n\n修改了容器名称，调整了标题栏",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/4440773453f242418bf7ca975b31711a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/ac836daee10846d19727b282881f930d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/8713ad25e8754e5197801a8969248281.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/010ebaa4ba2c4e22a5aae0b8fd8ef028.png"
 }
 ,
 {
@@ -4569,6 +4569,23 @@
 }
 ,
 {
+    "Name": "deepin 磁盘管理器",
+    "Version": "1.3.34",
+    "Filename": "deepin-diskmanager_1.3.34_amd64.deb",
+    "Torrent_address": "deepin-diskmanager_1.3.34_amd64.deb.torrent",
+    "Pkgname": "deepin-diskmanager",
+    "Author": "deepin <packages@deepin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://github.com/linuxdeepin/deepin-diskmanager",
+    "Update": "2024-07-27 17:18:38",
+    "Size": "4.42 MB",
+    "More": "deepin 磁盘管理器，dtk 5.4 移植",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c34a1cef330542be85f7fd8b955e3164.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/ab4778120ef24a1c8aa0b2f267794965.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/71131f395e0242b0936bb75e3b4f9696.png"
+}
+,
+{
     "Name": "Soup(升级版)",
     "Version": "0.0.2-20240625",
     "Filename": "com.gitee.zinface.soup_0.0.2-20240625_amd64.deb",
@@ -4719,23 +4736,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/50e0f22e5ce54bbd8d013f221e35256f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/ccecd492599f4b96a1390c54fdafb719.png"
-}
-,
-{
-    "Name": "deepin 磁盘管理器",
-    "Version": "1.3.34",
-    "Filename": "deepin-diskmanager_1.3.34_amd64.deb",
-    "Torrent_address": "deepin-diskmanager_1.3.34_amd64.deb.torrent",
-    "Pkgname": "deepin-diskmanager",
-    "Author": "deepin <packages@deepin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://github.com/linuxdeepin/deepin-diskmanager",
-    "Update": "2024-07-27 17:18:38",
-    "Size": "4.42 MB",
-    "More": "deepin 磁盘管理器，dtk 5.4 移植",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c34a1cef330542be85f7fd8b955e3164.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/ab4778120ef24a1c8aa0b2f267794965.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/71131f395e0242b0936bb75e3b4f9696.png"
 }
 ,
 {

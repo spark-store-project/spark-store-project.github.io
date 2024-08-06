@@ -198,24 +198,6 @@
 
 ,
 {
-    "Author": "TencentDocs",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "tdappdesktop_3.1.13_arm64.deb",
-    "More": "腾讯文档 Linux 原生版本",
-    "Name": "腾讯文档(Linux版)",
-    "Pkgname": "tdappdesktop",
-    "Size": "111 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "tdappdesktop_3.1.13_arm64.deb.torrent",
-    "Update": "2023-12-30 17:11:31",
-    "Version": "3.1.13",
-    "Website": "https://docs.qq.com/home",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\"]"
-}
-
-,
-{
     "Author": "Brocadesoft",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.brocadesoft.ruiyin_1.2.0.1_arm64.deb",
@@ -230,6 +212,24 @@
     "Website": "https://www.brocadesoft.com",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "TencentDocs",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "tdappdesktop_3.1.13_arm64.deb",
+    "More": "腾讯文档 Linux 原生版本",
+    "Name": "腾讯文档(Linux版)",
+    "Pkgname": "tdappdesktop",
+    "Size": "111 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "tdappdesktop_3.1.13_arm64.deb.torrent",
+    "Update": "2023-12-30 17:11:31",
+    "Version": "3.1.13",
+    "Website": "https://docs.qq.com/home",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\"]"
 }
 
 ,
@@ -846,20 +846,20 @@
 
 ,
 {
-    "Author": "quantum6 <liukp@ts-it.cn>",
+    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.ts-it.suite_5.1.0.487_arm64.deb",
-    "More": "（推荐用 WPS Office）\n泰山办公2022是一款由泰山信息科技自主开发、拥有自主知识产权的办公软件。整个软件产品包括五个应用，分别为文字、表格、放映、PDF、OFD。产品针对市场对办公软件新的需求，使用了Java作为开发语言，采用了全新的数据结构，彻底解决了无障碍跨平台的技术难题，能够在Windows、Linux等不同的平台上运行，尤其对国产主流的Linux系统的适配尤为出色。\n泰山Suite 不仅提供了一些常用功能，如形状、剪贴画、图表等，还扩展了同类Ofice的功能应用，开发了很多实用的功能。其中表格应用在金融方面的使用尤其突出，包括财务函数，强大的图表功能，甚至是专业的数据处理功能，包括模拟运算表，分类汇总，数据分析等。泰山办公2022功能完备，适用性强，不仅可以满足一般用户的办公需求，还提供了丰富的二次开发接口和插件机制，完全可以满足不同行业的专业级用户需求。",
-    "Name": "泰山办公2022专业版",
-    "Pkgname": "cn.ts-it.suite",
-    "Size": "407 Mb",
-    "Tags": "deepin;uos",
-    "Torrent_address": "cn.ts-it.suite_5.1.0.487_arm64.deb.torrent",
-    "Update": "2023-04-29 07:55:31",
-    "Version": "5.1.0.487",
-    "Website": "www.ts-it.cn",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/screen_1.png\"]"
+    "Filename": "wps-office-365_12.8.2.17001.AK.preload.sw_arm64.deb",
+    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
+    "Name": "WPS Office 365",
+    "Pkgname": "wps-office-365",
+    "Size": "719 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "wps-office-365_12.8.2.17001.AK.preload.sw_arm64.deb.torrent",
+    "Update": "2024-07-28 19:01:55",
+    "Version": "12.8.2.17001.AK.preload.sw",
+    "Website": "http://wps-community.org",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/screen_3.png\"]"
 }
 
 ,
@@ -882,6 +882,24 @@
 
 ,
 {
+    "Author": "quantum6 <liukp@ts-it.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.ts-it.suite_5.1.0.487_arm64.deb",
+    "More": "（推荐用 WPS Office）\n泰山办公2022是一款由泰山信息科技自主开发、拥有自主知识产权的办公软件。整个软件产品包括五个应用，分别为文字、表格、放映、PDF、OFD。产品针对市场对办公软件新的需求，使用了Java作为开发语言，采用了全新的数据结构，彻底解决了无障碍跨平台的技术难题，能够在Windows、Linux等不同的平台上运行，尤其对国产主流的Linux系统的适配尤为出色。\n泰山Suite 不仅提供了一些常用功能，如形状、剪贴画、图表等，还扩展了同类Ofice的功能应用，开发了很多实用的功能。其中表格应用在金融方面的使用尤其突出，包括财务函数，强大的图表功能，甚至是专业的数据处理功能，包括模拟运算表，分类汇总，数据分析等。泰山办公2022功能完备，适用性强，不仅可以满足一般用户的办公需求，还提供了丰富的二次开发接口和插件机制，完全可以满足不同行业的专业级用户需求。",
+    "Name": "泰山办公2022专业版",
+    "Pkgname": "cn.ts-it.suite",
+    "Size": "407 Mb",
+    "Tags": "deepin;uos",
+    "Torrent_address": "cn.ts-it.suite_5.1.0.487_arm64.deb.torrent",
+    "Update": "2023-04-29 07:55:31",
+    "Version": "5.1.0.487",
+    "Website": "www.ts-it.cn",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/screen_1.png\"]"
+}
+
+,
+{
     "Author": "Bail<2915289604@qq.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "bssenglish_2.1.4_all.deb",
@@ -896,24 +914,6 @@
     "Website": "https://bailplus.github.io/bssenglish.pages/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/bssenglish/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/bssenglish/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/bssenglish/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/bssenglish/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/bssenglish/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "wps-office-365_12.8.2.17001.AK.preload.sw_arm64.deb",
-    "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
-    "Name": "WPS Office 365",
-    "Pkgname": "wps-office-365",
-    "Size": "719 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "wps-office-365_12.8.2.17001.AK.preload.sw_arm64.deb.torrent",
-    "Update": "2024-07-28 19:01:55",
-    "Version": "12.8.2.17001.AK.preload.sw",
-    "Website": "http://wps-community.org",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/wps-office-365/screen_3.png\"]"
 }
 
 ,

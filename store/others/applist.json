@@ -1197,23 +1197,6 @@
 }
 ,
 {
-    "Name": "联想打印机",
-    "Version": "1.0-17",
-    "Filename": "lenovo-image-g-series_1.0-17_amd64.deb",
-    "Torrent_address": "lenovo-image-g-series_1.0-17_amd64.deb.torrent",
-    "Pkgname": "lenovo-image-g-series",
-    "Author": "Lenovo Image(Tianjin) Technology Co., LTD. <lips@lenovo.com>",
-    "Contributor": "gfdgd-xi <3025613752@qq.com>",
-    "Website": "https://www.lenovo.com.cn/",
-    "Update": "2023-11-04 14:26:18",
-    "Size": "35.85 MB",
-    "More": "联想打印机，标配网络打印功能，支持自动双面打印。在技术上，该产品从打印机机芯、板卡等硬件，到固件、驱动程序等软件完全自主研发。适用型号：G262DN、G336DN、GM265DN、GM337DN",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/633b9f03938c49f5b656f1a24786b76f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/a9bc0c70b5be4c0ea40c669dfa01fcd9.png"
-}
-,
-{
     "Name": "adb",
     "Version": "2024-03",
     "Filename": "androidsdk_2024-03_amd64.deb",
@@ -1228,6 +1211,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/15/bcc9fb76dd7040abae68e1282b03767a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/15/45e80ebacef646b7aad23c3fe206f3b0.png"
+}
+,
+{
+    "Name": "联想打印机",
+    "Version": "1.0-17",
+    "Filename": "lenovo-image-g-series_1.0-17_amd64.deb",
+    "Torrent_address": "lenovo-image-g-series_1.0-17_amd64.deb.torrent",
+    "Pkgname": "lenovo-image-g-series",
+    "Author": "Lenovo Image(Tianjin) Technology Co., LTD. <lips@lenovo.com>",
+    "Contributor": "gfdgd-xi <3025613752@qq.com>",
+    "Website": "https://www.lenovo.com.cn/",
+    "Update": "2023-11-04 14:26:18",
+    "Size": "35.85 MB",
+    "More": "联想打印机，标配网络打印功能，支持自动双面打印。在技术上，该产品从打印机机芯、板卡等硬件，到固件、驱动程序等软件完全自主研发。适用型号：G262DN、G336DN、GM265DN、GM337DN",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/633b9f03938c49f5b656f1a24786b76f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/a9bc0c70b5be4c0ea40c669dfa01fcd9.png"
 }
 ,
 {
@@ -1587,20 +1587,6 @@
 }
 ,
 {
-   "Name":"萌研社与熊论道",
-   "Version":"1.0.0",
-   "Filename":"bear-say_1.0.0_all.deb",
-   "Pkgname":"bear-say",
-   "Author":" ",
-   "Contributor":"anima",
-   "Website":" ",
-   "Update":"2020-08-15 20:17",
-   "Size":"94.68KB",
-   "More":"萌研社与熊论道。"
-}
-
-,
-{
     "Author": "tdx <nie@tdx.com.cn>",
     "Contributor": "tdx <nie@tdx.com.cn>",
     "Filename": "com.tdx.tdxcfv_7.64_amd64.deb",
@@ -1615,6 +1601,20 @@
     "Website": "http://www.tdx.com.cn",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/others/com.tdx.tdxcfv/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/others/com.tdx.tdxcfv/screen_1.png\"]"
+}
+
+,
+{
+   "Name":"萌研社与熊论道",
+   "Version":"1.0.0",
+   "Filename":"bear-say_1.0.0_all.deb",
+   "Pkgname":"bear-say",
+   "Author":" ",
+   "Contributor":"anima",
+   "Website":" ",
+   "Update":"2020-08-15 20:17",
+   "Size":"94.68KB",
+   "More":"萌研社与熊论道。"
 }
 
 ,
