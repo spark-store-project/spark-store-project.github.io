@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.mtxx.wine_7.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a21f62df4cf4145257e4009a431653f7</hash>
+				  
+				<hash type="sha1">fb0bd266dae6946a404d6fd16ebb4b43439495e7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://xinghuo.uitai.cn/store/image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://gag.spark-app.store/store/image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.deepinos.org.cn:2096/store/image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.deepinos.org.cn/store/image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

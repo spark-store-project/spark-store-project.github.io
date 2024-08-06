@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="firefox-spark_129.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">db1a226f1e89f0681a5ce5f2de7c9d7c</hash>
+				  
+				<hash type="sha1">aa9520f8b6ce6f819de82af9701d4a4183d460ce</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/network/firefox-spark/firefox-spark_129.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://xinghuo.uitai.cn/store/network/firefox-spark/firefox-spark_129.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/network/firefox-spark/firefox-spark_129.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://gag.spark-app.store/store/network/firefox-spark/firefox-spark_129.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.deepinos.org.cn:2096/store/network/firefox-spark/firefox-spark_129.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://zunyun01.store.deepinos.org.cn/store/network/firefox-spark/firefox-spark_129.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://blinder.deepinos.org.cn/store/network/firefox-spark/firefox-spark_129.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

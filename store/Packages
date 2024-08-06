@@ -3896,27 +3896,6 @@ Description: FileGee Client on Deepin Wine6
 
 Package: spark-dwine-helper
 Architecture: all
-Version: 5.6.4.2-5.3.14
-Multi-Arch: foreign
-Priority: extra
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 724
-Provides: store.spark-app.spark-dwine-helper(=5.6.4.2-5.3.14)
-Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
-Recommends: python3-pyqt5
-Replaces: store.spark-app.spark-dwine-helper(<=5.6.4.2-5.3.14)
-Filename: tools/spark-dwine-helper/spark-dwine-helper_5.6.4.2-5.3.14_all.deb
-Size: 277544
-MD5sum: bcc4ef986388e88554116e0352bf72f9
-SHA1: 7edd59adb9cb0151a717bfda6c4ceb9b5b905a48
-SHA256: 54477866e80865abcc25b469dc9d4af633fa0b4d9bb18eb73a312c7f2ac8f79d
-SHA512: d6051406563d89459930cfaee745d47bea339e7c1fd4518bfe1429ac17c39662778218af2f55ccdbea905c603aeba4e52e174ae86613297890af2c4b9ee2c63e
-Homepage: https://gitee.com/deepin-community-store/spark-wine
-Description: Spark Deepin Wine Helper
-
-Package: spark-dwine-helper
-Architecture: all
 Version: 5.6.4.3-5.3.14
 Multi-Arch: foreign
 Priority: extra
@@ -4437,26 +4416,6 @@ SHA512: 6bf2b71e56f42245de681d6cd54150f4dbc40d29ce8a899570c23fac5b64dd0fa47177c1
 Homepage: https://gist.github.com/yookoala/818c1ff057e3d965980b7fd3bf8f77a6
 Description: Mac Superdrive rules
  udev rules for Apple Superdrive, for making it work under Linux
-
-Package: com.gitee.zinface-debian-apt-analyzer
-Architecture: amd64
-Version: 0.0.13-20240724
-Priority: optional
-Section: devel
-Maintainer: zinface <zinface@163.com>
-Installed-Size: 697
-Filename: tools/com.gitee.zinface-debian-apt-analyzer/com.gitee.zinface-debian-apt-analyzer_0.0.13-20240724_amd64.deb
-Size: 481912
-MD5sum: 7af07b7d0e58f5dabeffba81b15f9bf1
-SHA1: 7f522019d61544850c475c8aa68e8b36ad2603ce
-SHA256: d5e6731be7c9e8de16a583d484104c56f15afc6d12f5543abb5bb311ffac8041
-SHA512: 5e639d6475d7969e8517dbce8461c41811aca5aaa2bcdca608fd8cd6acab7406506388249da169c8f939511677159d137d8f4afa89def381c3395b6a6c74451b
-Description: Debian 软件源分析工具
- Debian软件源分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。
- .
- 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。
- .
- Build for Uos20 through spark-deb-build.
 
 Package: com.gitee.zinface-debian-apt-analyzer
 Architecture: amd64
@@ -15233,21 +15192,21 @@ Homepage: <https://www.yuntucad.com>
 Description: 云图三维
 
 Package: com.mtxx.wine
-Architecture: all
-Version: 7.0
+Architecture: amd64
+Version: 7.1
 Multi-Arch: foreign
 Priority: optional
 Section: non-free/otherosfs
 Maintainer: LFRon
-Installed-Size: 298516
-Depends: deepin-wine8-stable, deepin-wine-helper (>= 5.1.30-1), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: image_graphics/com.mtxx.wine/com.mtxx.wine_7.0_all.deb
-Size: 298534176
-MD5sum: 18186f3610cab6824a6d04ba7c60aef4
-SHA1: 363d9cba0a4e7a5e6e5fe512ad15ff8298315ab0
-SHA256: f6d1a84346dfcb111b4c1625437a3103c840fcda07c7ef8b303492d2f3af4637
-SHA512: 64871f8cd13da1c5200bb8cf1de39bbf40499b2e0a6fd0a6ca1c2ba836faabff6deff248b9504ef0c1683913b36e4ba26a6fcaf2d26fab68877fb730f8e5bce8
-Description: deepin-wine8运行的美图秀秀7.0-AI版
+Installed-Size: 828284
+Depends: deepin-wine8-stable, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: image_graphics/com.mtxx.wine/com.mtxx.wine_7.1_amd64.deb
+Size: 828360016
+MD5sum: a21f62df4cf4145257e4009a431653f7
+SHA1: fb0bd266dae6946a404d6fd16ebb4b43439495e7
+SHA256: 17742935158502e23931cebde4018cbbc225f1a58ca346ff8259180cabeba95c
+SHA512: dbafb8fc58cc85c44dabcf12dc16b2d21006c18aa35cd61cc0f894370a776c9637c2d995121054e20ed8b8638b8d07bddaeda1b42994cac1487699234d273aa0
+Description: Deepin-wine8运行的美图秀秀7.0-AI版本(64位),现全功能可用
 
 Package: com.nchsoftware.clickcharts.spark
 Architecture: amd64
@@ -22252,17 +22211,17 @@ Description: 植物大战僵尸杂交版 for spark wine
 
 Package: osu-lazer
 Architecture: amd64
-Version: 2024.727.0
+Version: 2024.731.0
 Priority: optional
 Section: utils
 Maintainer: spark-store
 Depends: libfuse2
-Filename: games/osu-lazer/osu-lazer_2024.727.0_amd64.deb
-Size: 130550934
-MD5sum: fd74929cc8c2681ffbf5882bb9b5f85a
-SHA1: 35de36c42187e858747587fdf5f4391c6a2a8cc9
-SHA256: 2bfc64d54ba03e45406ea55452534a4f79290552d5af42602490e3e9ef82542a
-SHA512: dacd32c5dd8294fbc58d5e311e910b414945eba2c34e9309e8a34210058cd38ef546105c77cd0842640702df3a0f930d3b75d74fb382eb6214b3d4fbafba7a4e
+Filename: games/osu-lazer/osu-lazer_2024.731.0_amd64.deb
+Size: 130586102
+MD5sum: 034ff39b72ecf1998298e39919364ee3
+SHA1: dfd96015f8a0bcf58ac0475d950054e37557994a
+SHA256: 1e0bfa4bd093fecc89b8bd22f371e1d370d4755a9df38f1a2771953fb2022244
+SHA512: 834b091446b192b9d15c1114efb1ae0c0e33baa672b99450f2bbcf43907b0093635672b25de10c0f5cdcaf04c08def18c8bbf9e08f1abaf1159ac296d0022eda
 Description: osu-lazer Software Package created by Appimage2Deb
 
 Package: com.dxball2.spark
@@ -25251,22 +25210,21 @@ Description: 澎博博易大师6 on wine7.9
 
 Package: vic-diary
 Architecture: amd64
-Version: 0.4.1
+Version: 0.5.0
 Priority: optional
 Section: default
 Maintainer: stevobm
-Installed-Size: 243965
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Installed-Size: 246149
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
 Recommends: libappindicator3-1
-Filename: office/vic-diary/vic-diary_0.4.1_amd64.deb
-Size: 68658118
-MD5sum: cef1b6851e2fc53a17a895cbb5324f8b
-SHA1: 8cfc3c5620e8e680e055916756381f348f513b96
-SHA256: 0a7eec5280cf1e0144a0dcfc2ac071781d0f79eee0afebd8520c1a60b33a1ce1
-SHA512: 360563225008b086c4fc886eb63dc187cc33b9b0e8e374096c194a85110b6471e3a6fdd4928882e8e72b0a40585c778f3ec779808a537b7e01067963166cf064
+Filename: office/vic-diary/vic-diary_0.5.0_amd64.deb
+Size: 71173826
+MD5sum: 180f35c51e17f20348773522f85199ed
+SHA1: 520f8733bdf5ec0fb0890647802c2d81c84d0739
+SHA256: 15eba2672d1b9448425a268f5b071e12da61edef4053e73a35f29a458a9fca2d
+SHA512: aceefd857d8a77b784bd04473cfdb2be00d54097948b9e4b8b0bb1f799f4d5ec9462bc62ae59a074dd96422e0617b4507894ff58fafbd56b6cf55c9e7594c20b
 Homepage: https://github.com/vo-soft/vic-diary
-Description: 
-  An elegant diary supported markdown
+Description: An elegant diary supported markdown
 License: unknown
 Vendor: stevobm
 
@@ -25532,6 +25490,22 @@ Description:
   📚 P3X OneNote Linux
 License: MIT
 Vendor: Patrik Laszlo <alabard@gmail.com>
+
+Package: com.tongyi.uos
+Architecture: amd64
+Version: 1.0
+Priority: optional
+Section: devel
+Maintainer: <zyl@uniontech.com>
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Filename: office/com.tongyi.uos/com.tongyi.uos_1.0_amd64.deb
+Size: 76740934
+MD5sum: 9d02ad51f7983652c0538f44b76dc3c1
+SHA1: 1560ed3d8325d8b6706993bedc75ee96ee8c19bf
+SHA256: b5df51fc007be453e2d202009bddb3442a11dccd40bd0a7e8cbded8168740588
+SHA512: bf8770b0d8ae798105c87437d394b7a3b6e8b0d5c7a4bd0d0fd87f57d19ede58e1135e9682c070f3f2355dadbdbeeb7c4b9486a81ae60971e5624d22ddbbcc61
+Homepage: https://tongyi.aliyun.com/
+Description: "通义，是一款超大规模预训练模型，是您日常办公、学习提效、生活娱乐的AI超级助理；为您提供全方位、方便快捷的协助。"
 
 Package: com.founderinternational.cebreader
 Architecture: amd64
@@ -31557,22 +31531,22 @@ Description: NFSBrowser - Web Browser
 
 Package: firefox-spark
 Architecture: amd64
-Version: 128.0.3
+Version: 129.0
 Priority: optional
 Section: web
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 214784
-Provides: x-www-browser,gnome-www-browser,firefox(=128.0.3)
+Provides: x-www-browser,gnome-www-browser,firefox(=129.0)
 Depends: libdbus-glib-1-2,zenity
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
-Filename: network/firefox-spark/firefox-spark_128.0.3_amd64.deb
-Size: 70562428
-MD5sum: e5a35bdd73728af5ef49da190f23016e
-SHA1: 30096f7f2328ec1de6170d1128e1cb88284d7b4b
-SHA256: 6788b46f6d18a4d2039f0c6e048a264fc2677afd2b0c0f0b7fef6f2dba53aa84
-SHA512: cdcb3adf1a12b6f0f229c99f241c7056488821d07bb1102646aaea1e88689f007aa285f2cf9ff44fd7ba071eeafdff39b677729e990f41bc62efa3a28cef0e73
+Filename: network/firefox-spark/firefox-spark_129.0_amd64.deb
+Size: 70876668
+MD5sum: db1a226f1e89f0681a5ce5f2de7c9d7c
+SHA1: aa9520f8b6ce6f819de82af9701d4a4183d460ce
+SHA256: 8cefdc0a506cd040f9c2abb7e8ac0831951c4aff21de4bbe6110e80000f1b3ff
+SHA512: 608b5bcb8e149f67cb2e8e8bdf6620d4abb795739228b856c8b21722089faacd083de675094072a8c783e11530c3b8c6bb617199b04715483d3f7b7b26987a99
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -37035,19 +37009,19 @@ Vendor: Ferdium Contributors <hello@ferdium.org>
 
 Package: discord
 Architecture: amd64
-Version: 0.0.62
+Version: 0.0.63
 Priority: optional
 Section: net
 Maintainer: Discord Maintainer Team <native-team@discord.com>
-Installed-Size: 254064
+Installed-Size: 254060
 Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
 Recommends: libappindicator1 | libayatana-appindicator1
-Filename: chat/discord/discord_0.0.62_amd64.deb
-Size: 103057564
-MD5sum: 02c8eb4e1a2d3e3787bd0caf4eaa107d
-SHA1: 3102fb3cfd5c7cbea5dde20c651cb9373567f4fd
-SHA256: 6f9773a9101e5ebf6dfd3c44692426f8c4263dad8594e2e9a415f212f2a40298
-SHA512: 12dcf4fedc473e3a4c437df42dbcb4d0b82d14afc20d9a3be069a13bd5991c8bfa12209b805993156cf2885f5c17f4b7c34dfe271597bdb6a777f430f3ff10a2
+Filename: chat/discord/discord_0.0.63_amd64.deb
+Size: 103057530
+MD5sum: 52b992a4a660068c1ade675cdb8f9f50
+SHA1: a133957c5b8dcd9758700635751ad43071763dae
+SHA256: 0e2dba481628a78dbce6690e66a1f1ecc1684f01c35130cfe07a35b836879bbc
+SHA512: 11605e497ac06ee8dad24a513acf873539e0161928e44407add6ffd5143b6ab3f4397deb1ff096a3022c6efe0c5c1d5e25449be6556d4687601aa7edcf14b20a
 Homepage: https://discord.com
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,

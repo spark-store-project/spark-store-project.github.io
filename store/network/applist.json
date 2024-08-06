@@ -155,15 +155,15 @@
 ,
 {
     "Name": "火狐浏览器国际版 Firefox",
-    "Version": "128.0.3",
-    "Filename": "firefox-spark_128.0.3_amd64.deb",
-    "Torrent_address": "firefox-spark_128.0.3_amd64.deb.torrent",
+    "Version": "129.0",
+    "Filename": "firefox-spark_129.0_amd64.deb",
+    "Torrent_address": "firefox-spark_129.0_amd64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2024-07-27 01:31:50",
-    "Size": "68912",
+    "Update": "2024-08-07 01:31:49",
+    "Size": "69216",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/87ad15a3d25b442aa5e78358ca31a8e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/4c7826cf206d4c8bbab36e8e8fc79568.png\"]",
@@ -1517,6 +1517,22 @@
 }
 ,
 {
+    "Name": "红旗浏览器",
+    "Version": "1.1.0.0",
+    "Filename": "redflag-browser_1.1.0.0_amd64.deb",
+    "Pkgname": "redflag-browser",
+    "Author": "红旗Linux",
+    "Contributor": "OkayPJ",
+    "Website": "http://www.chinaredflag.cn/",
+    "Update": "2021-07-05 07:01:00",
+    "Size": "102.17 MB",
+    "More": "红旗浏览器是一款搭载Chromium内核版本的安全、高效、快捷的自研应用程序，具有启动速度快、网页渲染能力佳等特点。全面支持主流CPU架构(包括X86_86、鲲鹏、兆芯、飞腾、龙芯、海光等CPU平台)、操作系统、流版签办公插件、1080p及4K高清视频流畅播放、显卡硬件加速。\n\n为了完善软件生态不足问题，中科红旗持续推进自研应用程序生态构建的步伐。目前，已有多款自研应用逐步开发、测试中，将逐步发布并开放下载。红旗操作系统一直以构建良好的应用软件生态圈为目标，积极响应行业主管部门和市场的需求号召，为用户带来更好的使用体验。",
+    "Tags": "deepin;uos;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c0c52f0-dd1a-11eb-bf76-f7677d1b01f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c03c770-dd1a-11eb-bf76-f7677d1b01f2.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/05/182d9220-dd1a-11eb-bf76-f7677d1b01f2.png"
+}
+,
+{
     "Name": "畅邮",
     "Version": "6.6.4.6",
     "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
@@ -1531,22 +1547,6 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7f3340-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7c7420-2a94-11ed-9bd6-8b4709310a39.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/fa7dd3b0-2a94-11ed-9bd6-8b4709310a39.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
-}
-,
-{
-    "Name": "红旗浏览器",
-    "Version": "1.1.0.0",
-    "Filename": "redflag-browser_1.1.0.0_amd64.deb",
-    "Pkgname": "redflag-browser",
-    "Author": "红旗Linux",
-    "Contributor": "OkayPJ",
-    "Website": "http://www.chinaredflag.cn/",
-    "Update": "2021-07-05 07:01:00",
-    "Size": "102.17 MB",
-    "More": "红旗浏览器是一款搭载Chromium内核版本的安全、高效、快捷的自研应用程序，具有启动速度快、网页渲染能力佳等特点。全面支持主流CPU架构(包括X86_86、鲲鹏、兆芯、飞腾、龙芯、海光等CPU平台)、操作系统、流版签办公插件、1080p及4K高清视频流畅播放、显卡硬件加速。\n\n为了完善软件生态不足问题，中科红旗持续推进自研应用程序生态构建的步伐。目前，已有多款自研应用逐步开发、测试中，将逐步发布并开放下载。红旗操作系统一直以构建良好的应用软件生态圈为目标，积极响应行业主管部门和市场的需求号召，为用户带来更好的使用体验。",
-    "Tags": "deepin;uos;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c0c52f0-dd1a-11eb-bf76-f7677d1b01f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c03c770-dd1a-11eb-bf76-f7677d1b01f2.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/05/182d9220-dd1a-11eb-bf76-f7677d1b01f2.png"
 }
 ,
 {
@@ -1598,6 +1598,23 @@
 }
 ,
 {
+    "Name": "bilidown",
+    "Version": "1.1.1spark1",
+    "Filename": "vip.zhouql.bilidown.spark_1.1.1spark1_all.deb",
+    "Torrent_address": "vip.zhouql.bilidown.spark_1.1.1spark1_all.deb.torrent",
+    "Pkgname": "vip.zhouql.bilidown.spark",
+    "Author": "周棋洛",
+    "Contributor": "sgb76",
+    "Website": "http://zhouql.vip/bilibili/pc/",
+    "Update": "2024-02-26 22:42:57",
+    "Size": "97.55 MB",
+    "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
+    "Tags": "ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/34ccfef070104a3abe3117d7bf7937e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/05c776134657485eb30981a9d85165d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/a667b9d9407e4136b47be55bd7eb92f0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/01144a3400a2454893d5f64ca7228273.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/cc6d63d3b9004535b735e0e3a7dd94ad.png"
+}
+,
+{
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.bitcomet.spark_2.03.1_all.deb",
@@ -1614,23 +1631,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
 }
 
-,
-{
-    "Name": "bilidown",
-    "Version": "1.1.1spark1",
-    "Filename": "vip.zhouql.bilidown.spark_1.1.1spark1_all.deb",
-    "Torrent_address": "vip.zhouql.bilidown.spark_1.1.1spark1_all.deb.torrent",
-    "Pkgname": "vip.zhouql.bilidown.spark",
-    "Author": "周棋洛",
-    "Contributor": "sgb76",
-    "Website": "http://zhouql.vip/bilibili/pc/",
-    "Update": "2024-02-26 22:42:57",
-    "Size": "97.55 MB",
-    "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
-    "Tags": "ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/34ccfef070104a3abe3117d7bf7937e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/05c776134657485eb30981a9d85165d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/a667b9d9407e4136b47be55bd7eb92f0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/01144a3400a2454893d5f64ca7228273.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/cc6d63d3b9004535b735e0e3a7dd94ad.png"
-}
 ,
 {
     "Name": "megasync",
@@ -1665,23 +1665,6 @@
 }
 ,
 {
-    "Name": "HopToDesk",
-    "Version": "1.40.7.1",
-    "Filename": "hoptodesk_1.40.7.1_amd64.deb",
-    "Torrent_address": "hoptodesk_1.40.7.1_amd64.deb.torrent",
-    "Pkgname": "hoptodesk",
-    "Author": "HopToDesk",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://www.hoptodesk.com",
-    "Update": "2023-08-26 16:31:44",
-    "Size": "9.4 MB",
-    "More": "HopToDesk是一个免费的远程桌面工具，允许用户分享他们的屏幕并允许远程控制访问他们的电脑和设备。与TeamViewer或AnyDesk等其他类似工具不同，HopToDesk对个人和企业使用都是免费的，为所有同行通信提供真正的端到端加密，并且是开源的。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/26/1ca1732c17f1457f846170f3ce31d613.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/26/725abd4fb3ae4e578b85c9e7b6b82ab9.png"
-}
-,
-{
     "Name": "闪电藤文件传输",
     "Version": "2.2.3+fix0",
     "Filename": "life.zishu.sdt_2.2.3_plusfix0_amd64.deb",
@@ -1696,6 +1679,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/b5895d5822464e428178506979fb043d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/9c57792066ee4911ab69923b2fba6131.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/12/a732918bc793485ca1ed895be7a1ada8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/fd07f35395914ad688446eabe746b065.png"
+}
+,
+{
+    "Name": "HopToDesk",
+    "Version": "1.40.7.1",
+    "Filename": "hoptodesk_1.40.7.1_amd64.deb",
+    "Torrent_address": "hoptodesk_1.40.7.1_amd64.deb.torrent",
+    "Pkgname": "hoptodesk",
+    "Author": "HopToDesk",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://www.hoptodesk.com",
+    "Update": "2023-08-26 16:31:44",
+    "Size": "9.4 MB",
+    "More": "HopToDesk是一个免费的远程桌面工具，允许用户分享他们的屏幕并允许远程控制访问他们的电脑和设备。与TeamViewer或AnyDesk等其他类似工具不同，HopToDesk对个人和企业使用都是免费的，为所有同行通信提供真正的端到端加密，并且是开源的。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/26/1ca1732c17f1457f846170f3ce31d613.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/26/725abd4fb3ae4e578b85c9e7b6b82ab9.png"
 }
 ,
 {
@@ -2013,6 +2013,23 @@
 }
 ,
 {
+    "Name": "哔哩下载姬（Linux版）",
+    "Version": "1.0.10-1",
+    "Filename": "downkyi_1.0.10-1_amd64.deb",
+    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
+    "Pkgname": "downkyi",
+    "Author": "yaobiao131",
+    "Contributor": "sgb",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "Update": "2024-06-02 00:16:32",
+    "Size": "38.66 MB",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
+}
+,
+{
     "Name": "Slimjet",
     "Version": "33.0.0.0",
     "Filename": "slimjet_33.0.0.0_amd64.deb",
@@ -2043,23 +2060,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/97ab9ffe020048aab86c5332b21245a1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/c9e1e00841ba45a2950b198e0c060215.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/d8a0590509b341bdb1dc7b5d2ba7ab4c.png"
-}
-,
-{
-    "Name": "哔哩下载姬（Linux版）",
-    "Version": "1.0.10-1",
-    "Filename": "downkyi_1.0.10-1_amd64.deb",
-    "Torrent_address": "downkyi_1.0.10-1_amd64.deb.torrent",
-    "Pkgname": "downkyi",
-    "Author": "yaobiao131",
-    "Contributor": "sgb",
-    "Website": "https://github.com/yaobiao131/downkyicore",
-    "Update": "2024-06-02 00:16:32",
-    "Size": "38.66 MB",
-    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/d127b60f946c4b0a89109dcfb6139167.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/f11ffe9e58e245718abfd4470cadb65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/49ee9d18432f4d3e92e38ba3a482d5cb.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/46d00e022bc8417eb510e5ca2734cbb6.png"
 }
 ,
 {
@@ -2515,23 +2515,6 @@
 }
 ,
 {
-    "Name": "BT种子编辑器",
-    "Version": "0.3.18-master-20240415",
-    "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
-    "Torrent_address": "torrent-file-editor_0.3.18-master-20240415_amd64.deb.torrent",
-    "Pkgname": "torrent-file-editor",
-    "Author": "zinface <zinface@163.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
-    "Update": "2024-04-15 11:54:29",
-    "Size": "553.64 KB",
-    "More": "好用的bt种子编辑器，可以编辑bt种子",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/15/85946781c94c4a2591d5d4c006727fb0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/15/7b95652feb1440859dfed86d6d04a4bb.png"
-}
-,
-{
     "Name": "ODE 多功能助手",
     "Version": "0.8.4",
     "Filename": "com.ode.deepin_0.8.4_all.deb",
@@ -2546,6 +2529,23 @@
     "Tags": "deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/7d012eaeba6247af9d9e0999a0369d37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/4b214f0678d544899809a9717a63a6c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/836ab7bb99e1414ca922d36f1824da3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/133f0f1694564e44882b6cce183d3c14.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/10abec1efc3945a1b635671fdeb6bd8b.png"
+}
+,
+{
+    "Name": "BT种子编辑器",
+    "Version": "0.3.18-master-20240415",
+    "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
+    "Torrent_address": "torrent-file-editor_0.3.18-master-20240415_amd64.deb.torrent",
+    "Pkgname": "torrent-file-editor",
+    "Author": "zinface <zinface@163.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
+    "Update": "2024-04-15 11:54:29",
+    "Size": "553.64 KB",
+    "More": "好用的bt种子编辑器，可以编辑bt种子",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/15/85946781c94c4a2591d5d4c006727fb0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/15/7b95652feb1440859dfed86d6d04a4bb.png"
 }
 ,
 {

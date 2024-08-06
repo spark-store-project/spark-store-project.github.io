@@ -86,22 +86,6 @@
 }
 ,
 {
-    "Name": "terminus",
-    "Version": "1.0.135",
-    "Filename": "terminus_1.0.135_amd64.deb",
-    "Pkgname": "terminus",
-    "Author": "Eugeny",
-    "Contributor": "jerrywang",
-    "Website": "https://github.com/Eugeny/terminus",
-    "Update": "2021-04-16 11:19:08",
-    "Size": "64.36 MB",
-    "More": "一个更现代的终端",
-    "Tags": "community;ubuntu;uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/63b45b80-9e62-11eb-8c0a-ddc69716c836.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/7b977840-9e62-11eb-8c0a-ddc69716c836.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/16/4cad46e0-9e62-11eb-8c0a-ddc69716c836.png"
-}
-,
-{
     "Name": "IntelliJ IDEA 旗舰版",
     "Version": "2024.1",
     "Filename": "jetbrains-idea-ultimate_2024.1_all.deb",
@@ -116,6 +100,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/cf70ca2bd65a4c7792066994ad04fb60.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a066aec659ab403582486c4b982e897b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/9bee47f6bc8a49b48775babee924c911.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/910094fc05a1451cbef4ab8cd0d0c69e.png"
+}
+,
+{
+    "Name": "terminus",
+    "Version": "1.0.135",
+    "Filename": "terminus_1.0.135_amd64.deb",
+    "Pkgname": "terminus",
+    "Author": "Eugeny",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/Eugeny/terminus",
+    "Update": "2021-04-16 11:19:08",
+    "Size": "64.36 MB",
+    "More": "一个更现代的终端",
+    "Tags": "community;ubuntu;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/63b45b80-9e62-11eb-8c0a-ddc69716c836.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/7b977840-9e62-11eb-8c0a-ddc69716c836.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/16/4cad46e0-9e62-11eb-8c0a-ddc69716c836.png"
 }
 ,
 {
@@ -237,23 +237,6 @@
 }
 ,
 {
-    "Name": "DBeaver Community",
-    "Version": "22.0.3",
-    "Filename": "org.dbeaver.sugarcane.deepin_22.0.3_amd64.deb",
-    "Torrent_address": "org.dbeaver.sugarcane.deepin_22.0.3_amd64.deb.torrent",
-    "Pkgname": "org.dbeaver.sugarcane.deepin",
-    "Author": "Serge Rider",
-    "Contributor": "zkqgxlbjx",
-    "Website": "https://dbeaver.io/",
-    "Update": "2022-04-25 11:17:44",
-    "Size": "99.43 MB",
-    "More": "免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要使用数据库的人。支持所有流行的数据库：MySQL、PostgreSQL、SQLite、Oracle、DB2、SQL Server、Sybase、MS Access、Teradata、Firebird、Apache Hive、Phoenix、Presto等。",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/25/2f429410-c446-11ec-a72f-5f7673c44952.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/25/2d866520-c446-11ec-a72f-5f7673c44952.png"
-}
-,
-{
     "Name": "MobaXterm (wine)",
     "Version": "23.1",
     "Filename": "net.mobatek.mobaxterm_23.1_all.deb",
@@ -268,6 +251,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/5f8629701594447390693e653ddbdaaa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/08/cfa616f4e2e3402abeb6c8a064095a81.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/08/b927011c9edc4394a43d49e77cc0923b.png"
+}
+,
+{
+    "Name": "DBeaver Community",
+    "Version": "22.0.3",
+    "Filename": "org.dbeaver.sugarcane.deepin_22.0.3_amd64.deb",
+    "Torrent_address": "org.dbeaver.sugarcane.deepin_22.0.3_amd64.deb.torrent",
+    "Pkgname": "org.dbeaver.sugarcane.deepin",
+    "Author": "Serge Rider",
+    "Contributor": "zkqgxlbjx",
+    "Website": "https://dbeaver.io/",
+    "Update": "2022-04-25 11:17:44",
+    "Size": "99.43 MB",
+    "More": "免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要使用数据库的人。支持所有流行的数据库：MySQL、PostgreSQL、SQLite、Oracle、DB2、SQL Server、Sybase、MS Access、Teradata、Firebird、Apache Hive、Phoenix、Presto等。",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/25/2f429410-c446-11ec-a72f-5f7673c44952.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/25/2d866520-c446-11ec-a72f-5f7673c44952.png"
 }
 ,
 {
@@ -894,23 +894,6 @@
 }
 ,
 {
-    "Name": "GitKraken",
-    "Version": "9.11.1",
-    "Filename": "gitkraken_9.11.1_amd64.deb",
-    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
-    "Pkgname": "gitkraken",
-    "Author": "GitKraken",
-    "Contributor": "liuyuankai",
-    "Website": "https://www.gitkraken.com/",
-    "Update": "2024-01-20 15:41:35",
-    "Size": "132.48 MB",
-    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
-}
-,
-{
     "Name": "海龟编辑器",
     "Version": "0.1.3",
     "Filename": "cn.codemao.wood_0.1.3_amd64.deb",
@@ -925,6 +908,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/f13739abcebf47d7a96bc5efae2383e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/082973b24d3645c5922317bd4158a18f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/2b75ab8ba96346cf904c9f5ab1e7505f.png"
+}
+,
+{
+    "Name": "GitKraken",
+    "Version": "9.11.1",
+    "Filename": "gitkraken_9.11.1_amd64.deb",
+    "Torrent_address": "gitkraken_9.11.1_amd64.deb.torrent",
+    "Pkgname": "gitkraken",
+    "Author": "GitKraken",
+    "Contributor": "liuyuankai",
+    "Website": "https://www.gitkraken.com/",
+    "Update": "2024-01-20 15:41:35",
+    "Size": "132.48 MB",
+    "More": "图形化Git客户端，可以关联Github，Gitlab等账户",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/be32bbb28e6345a891ae37eb5a07c504.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/20/9827270980494b869ac58d6952cbfed7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/20/e575b276f96b4a1498120f106aff6001.png"
 }
 ,
 {
@@ -1191,39 +1191,6 @@
 }
 ,
 {
-    "Name": "STM32Cube 编程器",
-    "Version": "2.5.0",
-    "Filename": "stm32cubeprogrammer_2.5.0_amd64.deb",
-    "Pkgname": "stm32cubeprogrammer",
-    "Author": "STMicroelectronics",
-    "Contributor": "lidanger",
-    "Website": "https://www.st.com",
-    "Update": "2020-10-31 06:19:40",
-    "Size": "26.09 MB",
-    "More": "STM32CubeProgrammer（STM32CubeProg）是一个用于 STM32 产品编程的多合一多操作系统软件工具。\\n它提供了一个易于使用和高效的环境，可通过调试接口（JTAG和SWD）和引导加载程序接口（UART、USB DFU、I2C、SPI和CAN）读取、写入和验证设备内存。\\n它提供多种特性对 STM32 内部存储器（如 Flash、RAM 和 OTP）以及外部存储器进行编程，还支持选项编程和上载、编程内容验证和通过脚本编程实现编程自动化。\\nSTM32CubeProgrammer 包含两种版本：GUI（图形用户界面）和 CLI（命令行界面）。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec3e60e0-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec49d290-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec4e1850-1b40-11eb-b385-c37fbc249468.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/d4abfc30-1b40-11eb-b385-c37fbc249468.png"
-}
-,
-{
-    "Name": "Geany",
-    "Version": "1.38-1",
-    "Filename": "geany_1.38-1_amd64.deb",
-    "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
-    "Pkgname": "geany",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "卢博轩",
-    "Website": "http://www.geany.org",
-    "Update": "2023-04-02 15:08:40",
-    "Size": "1.18 MB",
-    "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
-}
-,
-{
     "Name": "OpenCore Auxiliary Tools",
     "Version": "20220230",
     "Filename": "com.github.ocat-linux_20220230_amd64.deb",
@@ -1255,6 +1222,39 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/6d5d332ccfd94048993490c493c23a0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/06/aff962c8a1e543beaf3a026bc4095f29.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/06/b24ab96e8dab4056bc6ea31e665afa84.png"
+}
+,
+{
+    "Name": "STM32Cube 编程器",
+    "Version": "2.5.0",
+    "Filename": "stm32cubeprogrammer_2.5.0_amd64.deb",
+    "Pkgname": "stm32cubeprogrammer",
+    "Author": "STMicroelectronics",
+    "Contributor": "lidanger",
+    "Website": "https://www.st.com",
+    "Update": "2020-10-31 06:19:40",
+    "Size": "26.09 MB",
+    "More": "STM32CubeProgrammer（STM32CubeProg）是一个用于 STM32 产品编程的多合一多操作系统软件工具。\\n它提供了一个易于使用和高效的环境，可通过调试接口（JTAG和SWD）和引导加载程序接口（UART、USB DFU、I2C、SPI和CAN）读取、写入和验证设备内存。\\n它提供多种特性对 STM32 内部存储器（如 Flash、RAM 和 OTP）以及外部存储器进行编程，还支持选项编程和上载、编程内容验证和通过脚本编程实现编程自动化。\\nSTM32CubeProgrammer 包含两种版本：GUI（图形用户界面）和 CLI（命令行界面）。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec3e60e0-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec49d290-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec4e1850-1b40-11eb-b385-c37fbc249468.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/d4abfc30-1b40-11eb-b385-c37fbc249468.png"
+}
+,
+{
+    "Name": "Geany",
+    "Version": "1.38-1",
+    "Filename": "geany_1.38-1_amd64.deb",
+    "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
+    "Pkgname": "geany",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "卢博轩",
+    "Website": "http://www.geany.org",
+    "Update": "2023-04-02 15:08:40",
+    "Size": "1.18 MB",
+    "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
 }
 ,
 {
