@@ -5011,6 +5011,27 @@ SHA512: c215e16daae98a4eaa051c3094280bec87a19ed15a411a1b0bdafd08556f2a4928f8f45f
 Description: 基于 Qt 的微型屏幕涂鸦程序
 
 Package: linglong-store
+Architecture: arm64
+Version: 1.2.10
+Priority: optional
+Section: default
+Maintainer: Jokul <986432015@qq.com>
+Installed-Size: 328875
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: tools/linglong-store/linglong-store_1.2.10_arm64.deb
+Size: 72930612
+MD5sum: ed8d7c1856425c7b43b9722e65d71065
+SHA1: 230a42db2fa93825469aa5611afbccb7c06a9839
+SHA256: 5d78d8d84c7089cf08352d5a856af857d9d21d48a5636db1400b2cd192c2cd2a
+SHA512: 6d43fc7c8b813d7a79525188ec61f8e903cc29659d9d9aafa46c735354d4a14e91101a32080d46e7d1f6160fca665a3e91f0f4fb01c0facb049feef789ba1be6
+Homepage: https://github.com/GershonWang/linglong-store
+Description: 
+  简易式玲珑商店客户端
+License: MIT
+Vendor: Jokul <986432015@qq.com>
+
+Package: linglong-store
 Architecture: amd64
 Version: 1.2.9
 Priority: optional
@@ -5025,6 +5046,27 @@ MD5sum: 0fb276cd0d73e629510883ff0e36183a
 SHA1: 34800d91a5fcb34b0822c27c7064a5d288081ac7
 SHA256: 3545d1cc28f715e0d042a13a57cd742cd7b43525dda1e4cea133d323f597dbe3
 SHA512: cfaff69406178d16821c91127640f32bda4aeaa02748ea58a5e21b1c8f1a28f2330213b21b31d716c75bcc7f369ffff9f4e387088f7688b9359afef357dc16ea
+Homepage: https://github.com/GershonWang/linglong-store
+Description: 
+  简易式玲珑商店客户端
+License: MIT
+Vendor: Jokul <986432015@qq.com>
+
+Package: linglong-store
+Architecture: amd64
+Version: 1.2.10
+Priority: optional
+Section: default
+Maintainer: Jokul <986432015@qq.com>
+Installed-Size: 322852
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: tools/linglong-store/linglong-store_1.2.10_amd64.deb
+Size: 77842276
+MD5sum: 212a5cf58c8ef1e62a62a46c1baf49ee
+SHA1: e0cd5ab9b3f68b8f011c8c0566ddf1b3a76c52c8
+SHA256: e26d0fe97294f0c3f46bc138780db24e70946d0bcded32f044f55269b395ce83
+SHA512: fd2b34d3ee5a506c022383ec158b0752a929763a6757178341ca10c0d614564280d71f61d82f9823f5d3452d4f5f47c8e9369b056ce37f7ccf40455c234c25ca
 Homepage: https://github.com/GershonWang/linglong-store
 Description: 
   简易式玲珑商店客户端
