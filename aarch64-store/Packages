@@ -7782,22 +7782,22 @@ Description: .高中地理通关游戏――宇宙中的地球将宇宙中的地
 
 Package: firefox-spark
 Architecture: arm64
-Version: 128.0.3+build1-0ubuntu0.22.04.1~mt2
+Version: 129.0+build2-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo<shenmo@spark-app.store>
 Installed-Size: 52K
-Provides: x-www-browser,gnome-www-browser,firefox(=128.0.3+build1-0ubuntu0.22.04.1~mt2)
+Provides: x-www-browser,gnome-www-browser,firefox(=129.0+build2-0ubuntu0.22.04.1~mt1)
 Depends: libdbus-glib-1-2,libgtk-3-0
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox
-Filename: network/firefox-spark/firefox-spark_128.0.3_plus_build1-0ubuntu0.22.04.1~mt2_arm64.deb
-Size: 58764184
-MD5sum: b6042cf3adc0a6708f64af23e6cfdef1
-SHA1: 477fafe6fa75f02d29ec20254bee87c7b86e0ed1
-SHA256: bc607bda6cdfc22795e9637807b924c2e3f1dfc1a51b9afe115063b2444ccd80
-SHA512: 544c3eeb54bc4219b7a934dfa8bb7ac945c851c43720ca5a160e713263a7dcdb321ff9d098b8620b1d671bc7f527089ad2017da41ca6dc1533ee06e1d4a6b3cd
+Filename: network/firefox-spark/firefox-spark_129.0_plus_build2-0ubuntu0.22.04.1~mt1_arm64.deb
+Size: 58349552
+MD5sum: f943a8f0562a9c21b8280f019e0f9707
+SHA1: 5220bbea5b98c90a103312884ed8297589971265
+SHA256: eb2cac56750d95664a765ebd0203a252978c9e8f78c3e85c8d5b6deea744dfb7
+SHA512: 8f807056c47ef37116b9b44c8380e29013467742c76a1828bc82676022eb881b718a98e57524cb4e54b6f98db2bd6f6c2558b70539147cf188656055ca1c4ae7
 Homepage: https://gitee.com/spark-building-service/firefox-spark-arm
 Description: 一款开源自由的浏览器
  长介绍

@@ -353,6 +353,23 @@
 }
 ,
 {
+    "Name": "dbeaver",
+    "Version": "24.0.3",
+    "Filename": "dbeaver-ce_24.0.3_amd64.deb",
+    "Torrent_address": "dbeaver-ce_24.0.3_amd64.deb.torrent",
+    "Pkgname": "dbeaver-ce",
+    "Author": "DBeaver Corp <support@dbeaver.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://dbeaver.io/",
+    "Update": "2024-05-05 21:26:15",
+    "Size": "122.13 MB",
+    "More": "免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要使用数据库的人。支持所有流行的数据库：MySQL、PostgreSQL、SQLite、Oracle、DB2、SQL Server、Sybase、MS Access、Teradata、Firebird、Apache Hive、Phoenix、Presto等。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/2a62ec3af46e4d3bab7378f7fe54f5b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/dbe7850958024ec399035e64a4904634.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/f37b1878ac0c4949876a31504ecf9f69.png"
+}
+,
+{
     "Author": "spark-store",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "appimage2deb_2.5.1_all.deb",
@@ -369,23 +386,6 @@
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/appimage2deb/screen_3.png\"]"
 }
 
-,
-{
-    "Name": "dbeaver",
-    "Version": "24.0.3",
-    "Filename": "dbeaver-ce_24.0.3_amd64.deb",
-    "Torrent_address": "dbeaver-ce_24.0.3_amd64.deb.torrent",
-    "Pkgname": "dbeaver-ce",
-    "Author": "DBeaver Corp <support@dbeaver.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://dbeaver.io/",
-    "Update": "2024-05-05 21:26:15",
-    "Size": "122.13 MB",
-    "More": "免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要使用数据库的人。支持所有流行的数据库：MySQL、PostgreSQL、SQLite、Oracle、DB2、SQL Server、Sybase、MS Access、Teradata、Firebird、Apache Hive、Phoenix、Presto等。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/2a62ec3af46e4d3bab7378f7fe54f5b2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/dbe7850958024ec399035e64a4904634.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/f37b1878ac0c4949876a31504ecf9f69.png"
-}
 ,
 {
     "Name": "WebStorm",
@@ -778,22 +778,6 @@
 }
 ,
 {
-    "Name": "mongodb-compass",
-    "Version": "1.29.0",
-    "Filename": "mongodb-compass_1.29.0_amd64.deb",
-    "Pkgname": "mongodb-compass",
-    "Author": "mongodb",
-    "Contributor": "hernay",
-    "Website": "https://compass.mongodb.com",
-    "Update": "2021-11-12 11:54:34",
-    "Size": "68.64 MB",
-    "More": "MongoDB官方连接数据库软件。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/12/f6e558b0-436b-11ec-8461-b7129e4d4ed8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/12/adc9fbe0-436b-11ec-8461-b7129e4d4ed8.png"
-}
-,
-{
     "Name": "PhpStorm",
     "Version": "2024.1",
     "Filename": "jetbrains-phpstorm_2024.1_all.deb",
@@ -808,6 +792,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/6d4f932d67a842b097dc0772b7d068a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/60440413b1a046889dac3971728df840.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/0e5e1daed126444488a3b0affa6acfc6.png"
+}
+,
+{
+    "Name": "mongodb-compass",
+    "Version": "1.29.0",
+    "Filename": "mongodb-compass_1.29.0_amd64.deb",
+    "Pkgname": "mongodb-compass",
+    "Author": "mongodb",
+    "Contributor": "hernay",
+    "Website": "https://compass.mongodb.com",
+    "Update": "2021-11-12 11:54:34",
+    "Size": "68.64 MB",
+    "More": "MongoDB官方连接数据库软件。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/12/f6e558b0-436b-11ec-8461-b7129e4d4ed8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/12/adc9fbe0-436b-11ec-8461-b7129e4d4ed8.png"
 }
 ,
 {
@@ -1891,6 +1891,23 @@
 }
 ,
 {
+    "Name": "Mixly",
+    "Version": "2.0",
+    "Filename": "org.mixly_2.0_amd64.deb",
+    "Torrent_address": "org.mixly_2.0_amd64.deb.torrent",
+    "Pkgname": "org.mixly",
+    "Author": "wanweiyang@uniontech.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://mixly.org/",
+    "Update": "2024-03-30 10:17:07",
+    "Size": "947.51 MB",
+    "More": "Mixly（米思齐）是在北京师范大学傅骞博士团队组织开发的一款国内自主研发，且免费开源的图形化编程工具。在国内外都掀起创客教育的浪潮中，傅骞老师认真分析了当前电子领域内的创客教育，并认为“如果不能给学生提供一个足够简单的、不能给教师提供一个容易上手的，不能给各大生产厂商提供一个足够自主的编程工具，所谓的“创”也只能是停留在表面的浮云，风一吹便散。”为了大力贯彻落实创客实验室“自主实践，分享快乐”的教育理念，傅骞老师带领其团队，开发出具有易用性、简单性、功能性、普适性、延续性及生态性等特点的Mixly。",
+    "Tags": "community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/28ab1857d4064c4994a0949a1ac505eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/faa4d13b1475480699ec53ba27ea2646.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/7f053b2b44844d139cb6ab712eb38d11.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/ffe4c3ad968441c1abaa37e3905843e2.png"
+}
+,
+{
     "Name": "Responsivize",
     "Version": "3.0.0spark0",
     "Filename": "io.github.virejdasani.responsivize.spark_3.0.0spark0_amd64.deb",
@@ -1938,23 +1955,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/6a241a08-0240-42f8-aa01-fce5afab75ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/44bc1045-5344-415e-b263-9f228fbd912a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/08/16991809-4d52-49c4-bd5d-2bf390587ea7.png"
-}
-,
-{
-    "Name": "Mixly",
-    "Version": "2.0",
-    "Filename": "org.mixly_2.0_amd64.deb",
-    "Torrent_address": "org.mixly_2.0_amd64.deb.torrent",
-    "Pkgname": "org.mixly",
-    "Author": "wanweiyang@uniontech.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://mixly.org/",
-    "Update": "2024-03-30 10:17:07",
-    "Size": "947.51 MB",
-    "More": "Mixly（米思齐）是在北京师范大学傅骞博士团队组织开发的一款国内自主研发，且免费开源的图形化编程工具。在国内外都掀起创客教育的浪潮中，傅骞老师认真分析了当前电子领域内的创客教育，并认为“如果不能给学生提供一个足够简单的、不能给教师提供一个容易上手的，不能给各大生产厂商提供一个足够自主的编程工具，所谓的“创”也只能是停留在表面的浮云，风一吹便散。”为了大力贯彻落实创客实验室“自主实践，分享快乐”的教育理念，傅骞老师带领其团队，开发出具有易用性、简单性、功能性、普适性、延续性及生态性等特点的Mixly。",
-    "Tags": "community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/28ab1857d4064c4994a0949a1ac505eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/faa4d13b1475480699ec53ba27ea2646.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/7f053b2b44844d139cb6ab712eb38d11.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/ffe4c3ad968441c1abaa37e3905843e2.png"
 }
 ,
 {
@@ -2025,6 +2025,23 @@
 
 ,
 {
+    "Name": "RubyMine",
+    "Version": "2024.1",
+    "Filename": "jetbrains-rubymine_2024.1_all.deb",
+    "Torrent_address": "jetbrains-rubymine_2024.1_all.deb.torrent",
+    "Pkgname": "jetbrains-rubymine",
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://www.jetbrains.com/zh-cn/ruby/",
+    "Update": "2024-04-10 21:35:07",
+    "Size": "2.55 KB",
+    "More": "RubyMine\n  最智能的 Ruby 与 Rails IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/17dab5b448eb4b12bef925b996a54d9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/608c7938c203468487a8cd6b730a2234.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/eb2a4b6534cb4db68c35da00efb9611e.png"
+}
+,
+{
     "Name": "Heynote",
     "Version": "1.7.0spark0",
     "Filename": "com.heynote.spark_1.7.0spark0_amd64.deb",
@@ -2056,23 +2073,6 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/a3ce43f13f214957883f3a23a6aaf566.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/373b4452ec7a41359f62953ee2528d38.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/c6e79c57192c4044aba8f4142106b4fe.png"
-}
-,
-{
-    "Name": "RubyMine",
-    "Version": "2024.1",
-    "Filename": "jetbrains-rubymine_2024.1_all.deb",
-    "Torrent_address": "jetbrains-rubymine_2024.1_all.deb.torrent",
-    "Pkgname": "jetbrains-rubymine",
-    "Author": "懵仙兔兔",
-    "Contributor": "懵仙兔兔",
-    "Website": "https://www.jetbrains.com/zh-cn/ruby/",
-    "Update": "2024-04-10 21:35:07",
-    "Size": "2.55 KB",
-    "More": "RubyMine\n  最智能的 Ruby 与 Rails IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/17dab5b448eb4b12bef925b996a54d9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/608c7938c203468487a8cd6b730a2234.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/eb2a4b6534cb4db68c35da00efb9611e.png"
 }
 ,
 {

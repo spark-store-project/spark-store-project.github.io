@@ -460,6 +460,22 @@
 }
 ,
 {
+    "Name": "天翼云盘(Linux版)",
+    "Version": "1.1.0-1_plus_a1",
+    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
+    "Pkgname": "com.cloud.21cn",
+    "Author": "21CN Corporation Limited",
+    "Contributor": "fredoong",
+    "Website": "https://cloud.189.cn/",
+    "Update": "2021-07-06 06:06:28",
+    "Size": "55.56 MB",
+    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
+}
+,
+{
     "Name": "Microsoft Edge Dev开发者通道",
     "Version": "127.0.2638.2-1",
     "Filename": "microsoft-edge-dev_127.0.2638.2-1_amd64.deb",
@@ -476,22 +492,6 @@
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/icon.png"
 }
 
-,
-{
-    "Name": "天翼云盘(Linux版)",
-    "Version": "1.1.0-1_plus_a1",
-    "Filename": "com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb",
-    "Pkgname": "com.cloud.21cn",
-    "Author": "21CN Corporation Limited",
-    "Contributor": "fredoong",
-    "Website": "https://cloud.189.cn/",
-    "Update": "2021-07-06 06:06:28",
-    "Size": "55.56 MB",
-    "More": "A project of Tianyi Cloud Disk\n天翼云盘Linux版",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/06/26bc07e0-dddd-11eb-a494-017e838ccdaa.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/06/1c52a020-dddd-11eb-a494-017e838ccdaa.png"
-}
 ,
 {
     "Name": "rdp远程桌面连接工具",
@@ -1350,6 +1350,23 @@
 }
 ,
 {
+    "Name": "360安全浏览器Beta版",
+    "Version": "13.108.1000.22-1",
+    "Filename": "browser360-cn-beta_13.108.1000.22-1_amd64.deb",
+    "Torrent_address": "browser360-cn-beta_13.108.1000.22-1_amd64.deb.torrent",
+    "Pkgname": "browser360-cn-beta",
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://browser.360.net/gc/index.html",
+    "Update": "2023-05-27 14:46:16",
+    "Size": "117.56 MB",
+    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/a944a7583bce4415944c29fdd9469afe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/f2e6a827db134991bbfa1a62a5f3fbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/4e405fa64d764bb68cb9ac50a6707e68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/86a4a2d5af2e4852a806a9d29c3684da.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/a17cd46db7d8458190c9b991d48f16fe.png"
+}
+,
+{
     "Name": "局域网文件分享服务器",
     "Version": "1.0.0-deepin20.08",
     "Filename": "fynelanshare_1.0.0-deepin20.08_amd64.deb",
@@ -1381,23 +1398,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/621c0fd809854f489bdf897238da3269.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/cbc5f43e242643e0943c112187832d11.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/166e5973cddc4af7a26ef49dda23eff1.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/fb24757433684c67bd0dd3a144a2d2ff.png"
-}
-,
-{
-    "Name": "360安全浏览器Beta版",
-    "Version": "13.108.1000.22-1",
-    "Filename": "browser360-cn-beta_13.108.1000.22-1_amd64.deb",
-    "Torrent_address": "browser360-cn-beta_13.108.1000.22-1_amd64.deb.torrent",
-    "Pkgname": "browser360-cn-beta",
-    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://browser.360.net/gc/index.html",
-    "Update": "2023-05-27 14:46:16",
-    "Size": "117.56 MB",
-    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/a944a7583bce4415944c29fdd9469afe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/f2e6a827db134991bbfa1a62a5f3fbe1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/4e405fa64d764bb68cb9ac50a6707e68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/86a4a2d5af2e4852a806a9d29c3684da.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/a17cd46db7d8458190c9b991d48f16fe.png"
 }
 ,
 {

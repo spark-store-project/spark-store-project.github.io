@@ -5033,27 +5033,6 @@ Vendor: Jokul <986432015@qq.com>
 
 Package: linglong-store
 Architecture: amd64
-Version: 1.2.9
-Priority: optional
-Section: default
-Maintainer: Jokul <986432015@qq.com>
-Installed-Size: 322851
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
-Recommends: libappindicator3-1
-Filename: tools/linglong-store/linglong-store_1.2.9_amd64.deb
-Size: 77839530
-MD5sum: 0fb276cd0d73e629510883ff0e36183a
-SHA1: 34800d91a5fcb34b0822c27c7064a5d288081ac7
-SHA256: 3545d1cc28f715e0d042a13a57cd742cd7b43525dda1e4cea133d323f597dbe3
-SHA512: cfaff69406178d16821c91127640f32bda4aeaa02748ea58a5e21b1c8f1a28f2330213b21b31d716c75bcc7f369ffff9f4e387088f7688b9359afef357dc16ea
-Homepage: https://github.com/GershonWang/linglong-store
-Description: 
-  简易式玲珑商店客户端
-License: MIT
-Vendor: Jokul <986432015@qq.com>
-
-Package: linglong-store
-Architecture: amd64
 Version: 1.2.10
 Priority: optional
 Section: default
