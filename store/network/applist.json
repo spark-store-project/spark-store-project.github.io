@@ -1250,22 +1250,6 @@
 
 ,
 {
-    "Name": "SnowFlake 终端",
-    "Version": "1.0.4-fix1",
-    "Filename": "snowflake_1.0.4-fix1_amd64.deb",
-    "Pkgname": "snowflake",
-    "Author": "subhra74",
-    "Contributor": "dfc643",
-    "Website": "https://github.com/subhra74/snowflake",
-    "Update": "2020-12-17 06:25:57",
-    "Size": "193.45 MB",
-    "More": "一款集成了 SFTP 和 SSH 功能的远程终端管理程序。应该可以媲美 MobaXterm 了。\n我打包的时候修复了 Deepin 上启动不了和字体发虚的问题。\n\n顺带测试我写的 Appimage2Deb 生成的包能不能投稿（滑稽）",
-    "Tags": "ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095937c0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095c1df0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0960b1d0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0966cc50-402d-11eb-9901-b19676ce26f7.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/066e4cd0-402d-11eb-9901-b19676ce26f7.png"
-}
-,
-{
     "Name": "360企业安全浏览器",
     "Version": "10.5.2002.473-1",
     "Filename": "browser360ent-cn-stable_10.5.2002.473-1_amd64.deb",
@@ -1280,6 +1264,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/e6ff1dc787304065b8a373dcffae87ab.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/23/73cb9b3ec66d4daa95f9fae36593c012.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/1ad86b5503cf4ef3872b82718189de32.png"
+}
+,
+{
+    "Name": "SnowFlake 终端",
+    "Version": "1.0.4-fix1",
+    "Filename": "snowflake_1.0.4-fix1_amd64.deb",
+    "Pkgname": "snowflake",
+    "Author": "subhra74",
+    "Contributor": "dfc643",
+    "Website": "https://github.com/subhra74/snowflake",
+    "Update": "2020-12-17 06:25:57",
+    "Size": "193.45 MB",
+    "More": "一款集成了 SFTP 和 SSH 功能的远程终端管理程序。应该可以媲美 MobaXterm 了。\n我打包的时候修复了 Deepin 上启动不了和字体发虚的问题。\n\n顺带测试我写的 Appimage2Deb 生成的包能不能投稿（滑稽）",
+    "Tags": "ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095937c0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095c1df0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0960b1d0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0966cc50-402d-11eb-9901-b19676ce26f7.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/066e4cd0-402d-11eb-9901-b19676ce26f7.png"
 }
 ,
 {
@@ -1433,6 +1433,22 @@
 
 ,
 {
+    "Name": "IT之家（web）",
+    "Version": "1.0spark0",
+    "Filename": "web-ithome-spark_1.0spark0_amd64.deb",
+    "Pkgname": "web-ithome-spark",
+    "Author": "软媒",
+    "Contributor": "Anysets",
+    "Website": "www.ithome.com",
+    "Update": "2021-01-01 09:39:36",
+    "Size": "1.98 KB",
+    "More": "IT之家 - 数码，科技，生活 - 软媒旗下\n\n通过星火网页应用运行环境打包。",
+    "Tags": "deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
+}
+,
+{
     "Name": "网络投递",
     "Version": "0.4.0",
     "Filename": "landrop_0.4.0_amd64.deb",
@@ -1447,22 +1463,6 @@
     "Tags": "ubuntu;deepin;uos;a2d",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/22/46cd5ef0-110f-11ee-8cbf-e769c1600687.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/22/29875260-110f-11ee-8cbf-e769c1600687.png"
-}
-,
-{
-    "Name": "IT之家（web）",
-    "Version": "1.0spark0",
-    "Filename": "web-ithome-spark_1.0spark0_amd64.deb",
-    "Pkgname": "web-ithome-spark",
-    "Author": "软媒",
-    "Contributor": "Anysets",
-    "Website": "www.ithome.com",
-    "Update": "2021-01-01 09:39:36",
-    "Size": "1.98 KB",
-    "More": "IT之家 - 数码，科技，生活 - 软媒旗下\n\n通过星火网页应用运行环境打包。",
-    "Tags": "deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
 }
 ,
 {
@@ -2566,6 +2566,24 @@
 }
 ,
 {
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.jd.jm_11.3.3_all.deb",
+    "More": "京麦工作台",
+    "Name": "京麦工作台",
+    "Pkgname": "com.jd.jm",
+    "Size": "608 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5",
+    "Torrent_address": "com.jd.jm_11.3.3_all.deb.torrent",
+    "Update": "2024-05-13 19:21:10",
+    "Version": "11.3.3",
+    "Website": "",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
+}
+
+,
+{
     "Name": "移动云电脑",
     "Version": "3.1.1.0",
     "Filename": "com.cmss.saas.ecloudcomputer_3.1.1.0_amd64.deb",
@@ -2598,24 +2616,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/360a4d86f5d64924bd7bd6957a86901f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/25768d25f0334ed788963fac2bc964b0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/29/e4b7df8075034bf5bbbc57de7393b847.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/29/1fd9086d1e8f4ee0a843fd143b1b0a66.png"
 }
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.jd.jm_11.3.3_all.deb",
-    "More": "京麦工作台",
-    "Name": "京麦工作台",
-    "Pkgname": "com.jd.jm",
-    "Size": "608 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5",
-    "Torrent_address": "com.jd.jm_11.3.3_all.deb.torrent",
-    "Update": "2024-05-13 19:21:10",
-    "Version": "11.3.3",
-    "Website": "",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.jd.jm/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "高中地理通关游戏 宇宙中的地球",

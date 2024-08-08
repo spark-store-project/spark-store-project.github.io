@@ -1,14 +1,14 @@
 [
 {
     "Name": "Visual Studio Code(vscode)",
-    "Version": "1.92.0-1722473020",
-    "Filename": "code_1.92.0-1722473020_amd64.deb",
-    "Torrent_address": "code_1.92.0-1722473020_amd64.deb.torrent",
+    "Version": "1.92.1-1723066302",
+    "Filename": "code_1.92.1-1723066302_amd64.deb",
+    "Torrent_address": "code_1.92.1-1723066302_amd64.deb.torrent",
     "Pkgname": "code",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://code.visualstudio.com/",
-    "Update": "2024-08-01 17:38:45",
+    "Update": "2024-08-08 17:40:03",
     "Size": "98M",
     "More": "VSCode是一款非常牛逼的编辑器",
     "Tags": "community;ubuntu;deepin;uos",
@@ -86,6 +86,22 @@
 }
 ,
 {
+    "Name": "terminus",
+    "Version": "1.0.135",
+    "Filename": "terminus_1.0.135_amd64.deb",
+    "Pkgname": "terminus",
+    "Author": "Eugeny",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/Eugeny/terminus",
+    "Update": "2021-04-16 11:19:08",
+    "Size": "64.36 MB",
+    "More": "一个更现代的终端",
+    "Tags": "community;ubuntu;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/63b45b80-9e62-11eb-8c0a-ddc69716c836.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/7b977840-9e62-11eb-8c0a-ddc69716c836.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/16/4cad46e0-9e62-11eb-8c0a-ddc69716c836.png"
+}
+,
+{
     "Name": "IntelliJ IDEA 旗舰版",
     "Version": "2024.1",
     "Filename": "jetbrains-idea-ultimate_2024.1_all.deb",
@@ -100,22 +116,6 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/cf70ca2bd65a4c7792066994ad04fb60.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a066aec659ab403582486c4b982e897b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/9bee47f6bc8a49b48775babee924c911.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/910094fc05a1451cbef4ab8cd0d0c69e.png"
-}
-,
-{
-    "Name": "terminus",
-    "Version": "1.0.135",
-    "Filename": "terminus_1.0.135_amd64.deb",
-    "Pkgname": "terminus",
-    "Author": "Eugeny",
-    "Contributor": "jerrywang",
-    "Website": "https://github.com/Eugeny/terminus",
-    "Update": "2021-04-16 11:19:08",
-    "Size": "64.36 MB",
-    "More": "一个更现代的终端",
-    "Tags": "community;ubuntu;uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/63b45b80-9e62-11eb-8c0a-ddc69716c836.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/7b977840-9e62-11eb-8c0a-ddc69716c836.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/16/4cad46e0-9e62-11eb-8c0a-ddc69716c836.png"
 }
 ,
 {
@@ -1191,6 +1191,23 @@
 }
 ,
 {
+    "Name": "Geany",
+    "Version": "1.38-1",
+    "Filename": "geany_1.38-1_amd64.deb",
+    "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
+    "Pkgname": "geany",
+    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+    "Contributor": "卢博轩",
+    "Website": "http://www.geany.org",
+    "Update": "2023-04-02 15:08:40",
+    "Size": "1.18 MB",
+    "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
+    "Tags": "ubuntu",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
+}
+,
+{
     "Name": "OpenCore Auxiliary Tools",
     "Version": "20220230",
     "Filename": "com.github.ocat-linux_20220230_amd64.deb",
@@ -1238,23 +1255,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec3e60e0-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec49d290-1b40-11eb-b385-c37fbc249468.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/ec4e1850-1b40-11eb-b385-c37fbc249468.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/d4abfc30-1b40-11eb-b385-c37fbc249468.png"
-}
-,
-{
-    "Name": "Geany",
-    "Version": "1.38-1",
-    "Filename": "geany_1.38-1_amd64.deb",
-    "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
-    "Pkgname": "geany",
-    "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-    "Contributor": "卢博轩",
-    "Website": "http://www.geany.org",
-    "Update": "2023-04-02 15:08:40",
-    "Size": "1.18 MB",
-    "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
-    "Tags": "ubuntu",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
 }
 ,
 {
@@ -1723,23 +1723,6 @@
 }
 ,
 {
-    "Name": "Fritzing",
-    "Version": "0.9.10",
-    "Filename": "org.fritzing_0.9.10_amd64.deb",
-    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
-    "Pkgname": "org.fritzing",
-    "Author": "Fritzing",
-    "Contributor": "秦以南",
-    "Website": "https://fritzing.org/releases",
-    "Update": "2022-08-04 10:37:21",
-    "Size": "66.39 MB",
-    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
-    "Tags": "a2d;community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
-}
-,
-{
     "Name": "HeidiSQL(wine)",
     "Version": "12.7.0.6850",
     "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
@@ -1754,6 +1737,23 @@
     "Tags": "ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
+}
+,
+{
+    "Name": "Fritzing",
+    "Version": "0.9.10",
+    "Filename": "org.fritzing_0.9.10_amd64.deb",
+    "Torrent_address": "org.fritzing_0.9.10_amd64.deb.torrent",
+    "Pkgname": "org.fritzing",
+    "Author": "Fritzing",
+    "Contributor": "秦以南",
+    "Website": "https://fritzing.org/releases",
+    "Update": "2022-08-04 10:37:21",
+    "Size": "66.39 MB",
+    "More": "Fritzing是一个开源的硬件计划，它使电子学作为一种创造性的材料为任何人所接受。我们本着Processing和Arduino的精神提供一个软件工具、一个社区网站和服务，促进一个创造性的生态系统，使用户能够记录他们的原型，与他人分享，在课堂上教授电子技术，并布置和制造专业的PCB。",
+    "Tags": "a2d;community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/04/51d864d0-139e-11ed-8756-c505056a962f.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
 }
 ,
 {
@@ -1891,6 +1891,23 @@
 }
 ,
 {
+    "Name": "Liberica JDK 17 Full",
+    "Version": "17.0.11+10",
+    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java17-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:06:56",
+    "Size": "262.52 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
+}
+,
+{
     "Name": "Mixly",
     "Version": "2.0",
     "Filename": "org.mixly_2.0_amd64.deb",
@@ -1921,23 +1938,6 @@
     "Tags": "ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/01/7e929590-2295-11ec-bfcc-03e1109272b5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/01/820c2bf0-2295-11ec-bfcc-03e1109272b5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/01/845558a0-2295-11ec-bfcc-03e1109272b5.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/01/7bc51db0-2295-11ec-bfcc-03e1109272b5.png"
-}
-,
-{
-    "Name": "Liberica JDK 17 Full",
-    "Version": "17.0.11+10",
-    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java17-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:06:56",
-    "Size": "262.52 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
 }
 ,
 {

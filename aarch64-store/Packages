@@ -6997,18 +6997,18 @@ Description: 奇安信可信浏览器
 
 Package: firefox-spark-ace
 Architecture: all
-Version: 128.0.3+build1-0ubuntu0.22.04.1~mt2
+Version: 129.0+build2-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 10
 Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Filename: network/firefox-spark-ace/firefox-spark-ace_128.0.3_plus_build1-0ubuntu0.22.04.1~mt2_all.deb
-Size: 1672
-MD5sum: 8fb04d7654a1bc1f6a7ea9ca55f0d891
-SHA1: 4409fca3a6c3ce946ad877a28b79a52c9a3dcf71
-SHA256: 311a2fead5df400c3190c117ce2f2b02bed9440d0be110c75d331cc0040b4ca7
-SHA512: 375037e51104f2b2c419e33484a15eda4518edf6a61b18ffd3213d2a3decc2a6cadf0102374240640857806cc5790581243f7f80ff8f97f8d5c7e636e9ca52f4
+Filename: network/firefox-spark-ace/firefox-spark-ace_129.0_plus_build2-0ubuntu0.22.04.1~mt1_all.deb
+Size: 1664
+MD5sum: 63011daa90c3c07c848eff19d2fe4a0b
+SHA1: 41bab707e67e694aa354f67f19c1a8f31e9e2bd4
+SHA256: 514d70d84ca8f1db34f67a83dafcb0a3b9c13a3cc157e9f9d429d9987626273c
+SHA512: 6dcebc1f889e630b0a7d4fc673a29c611b00fb6a8de8f4839e5843e41fb53cd15c78fa1effefc5e50a4fcaf1cc7699fd82fc25c5bc9c1dc723c15e75dca0b095
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -8460,22 +8460,22 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.92.0-1722471464
+Version: 1.92.1-1723064751
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 389281
+Installed-Size: 389209
 Provides: visual-studio-code
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgssapi-krb5-2 (>= 1.17), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libkrb5-3 (>= 1.6.dfsg.2), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 5.2), libstdc++6 (>= 6), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: development/code/code_1.92.0-1722471464_arm64.deb
-Size: 94805138
-MD5sum: 8fa3f917a7cab1514c66f1f60140f214
-SHA1: 3679082b7ae1e14fb5b0198491dea2bed1c49bd5
-SHA256: ecfc9f73de6029202f0010ddbc2113964dd635e3a901076dbfb3366b04c59cc6
-SHA512: a16cfed9692347e26d23f8f2a5e4aa0eb4271f91b083b64ec6e4111acca89fc69bad147091371a1be8deb5243055acd05019952dda6dcf103278308c4d1c6a3e
+Filename: development/code/code_1.92.1-1723064751_arm64.deb
+Size: 94793538
+MD5sum: 778f886bf603c41ed76862bb7af0282e
+SHA1: 0f8358f882e83d0c9b3fdd806b94f67bee6fccec
+SHA256: 200e9be6cd02f62969c762919d9677e3e48ef321c73b9e1a85a43d06a43a099f
+SHA512: 2d67792d7f944c221077070d903b4c2487066299234e9d61d21885897447402270f8d4eee214eaa8e5c5375230ceb21f688bf3cfebf1688ecf6457151c5e529f
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
