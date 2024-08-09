@@ -86,22 +86,6 @@
 }
 ,
 {
-    "Name": "terminus",
-    "Version": "1.0.135",
-    "Filename": "terminus_1.0.135_amd64.deb",
-    "Pkgname": "terminus",
-    "Author": "Eugeny",
-    "Contributor": "jerrywang",
-    "Website": "https://github.com/Eugeny/terminus",
-    "Update": "2021-04-16 11:19:08",
-    "Size": "64.36 MB",
-    "More": "一个更现代的终端",
-    "Tags": "community;ubuntu;uos;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/63b45b80-9e62-11eb-8c0a-ddc69716c836.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/7b977840-9e62-11eb-8c0a-ddc69716c836.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/16/4cad46e0-9e62-11eb-8c0a-ddc69716c836.png"
-}
-,
-{
     "Name": "IntelliJ IDEA 旗舰版",
     "Version": "2024.1",
     "Filename": "jetbrains-idea-ultimate_2024.1_all.deb",
@@ -116,6 +100,22 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/cf70ca2bd65a4c7792066994ad04fb60.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/a066aec659ab403582486c4b982e897b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/9bee47f6bc8a49b48775babee924c911.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/910094fc05a1451cbef4ab8cd0d0c69e.png"
+}
+,
+{
+    "Name": "terminus",
+    "Version": "1.0.135",
+    "Filename": "terminus_1.0.135_amd64.deb",
+    "Pkgname": "terminus",
+    "Author": "Eugeny",
+    "Contributor": "jerrywang",
+    "Website": "https://github.com/Eugeny/terminus",
+    "Update": "2021-04-16 11:19:08",
+    "Size": "64.36 MB",
+    "More": "一个更现代的终端",
+    "Tags": "community;ubuntu;uos;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/63b45b80-9e62-11eb-8c0a-ddc69716c836.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/16/7b977840-9e62-11eb-8c0a-ddc69716c836.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/16/4cad46e0-9e62-11eb-8c0a-ddc69716c836.png"
 }
 ,
 {
@@ -744,23 +744,6 @@
 }
 ,
 {
-    "Name": "Godot游戏引擎",
-    "Version": "4.1.3",
-    "Filename": "godot_4.1.3_amd64.deb",
-    "Torrent_address": "godot_4.1.3_amd64.deb.torrent",
-    "Pkgname": "godot",
-    "Author": "godot团队",
-    "Contributor": "sgb76",
-    "Website": "https://godotengine.org/",
-    "Update": "2023-11-04 22:15:51",
-    "Size": "42.04 MB",
-    "More": "一个功能丰富的跨平台游戏引擎，用于从统一界面创建 2D 和 3D 游戏。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/308361eef03847da9ed39e950c21e512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/79fce1e3d55c493792c716025e272970.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/2aed699218de41e681c7e624b6a55ed5.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/5161e6c032674cc0b0502a2820e28bb1.png"
-}
-,
-{
     "Name": "通义千问（5亿参数版）",
     "Version": "0.15.1",
     "Filename": "com.qwen.chat.0dot5b_0.15.1_amd64.deb",
@@ -778,20 +761,20 @@
 }
 ,
 {
-    "Name": "PhpStorm",
-    "Version": "2024.1",
-    "Filename": "jetbrains-phpstorm_2024.1_all.deb",
-    "Torrent_address": "jetbrains-phpstorm_2024.1_all.deb.torrent",
-    "Pkgname": "jetbrains-phpstorm",
-    "Author": "懵仙兔兔",
-    "Contributor": "懵仙兔兔",
-    "Website": "https://www.jetbrains.com/zh-cn/phpstorm/",
-    "Update": "2024-04-10 21:33:11",
-    "Size": "2.55 KB",
-    "More": "PhpStorm\n  高效智能的PHP IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+    "Name": "Godot游戏引擎",
+    "Version": "4.1.3",
+    "Filename": "godot_4.1.3_amd64.deb",
+    "Torrent_address": "godot_4.1.3_amd64.deb.torrent",
+    "Pkgname": "godot",
+    "Author": "godot团队",
+    "Contributor": "sgb76",
+    "Website": "https://godotengine.org/",
+    "Update": "2023-11-04 22:15:51",
+    "Size": "42.04 MB",
+    "More": "一个功能丰富的跨平台游戏引擎，用于从统一界面创建 2D 和 3D 游戏。",
     "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/6d4f932d67a842b097dc0772b7d068a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/60440413b1a046889dac3971728df840.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/0e5e1daed126444488a3b0affa6acfc6.png"
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/308361eef03847da9ed39e950c21e512.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/79fce1e3d55c493792c716025e272970.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/2aed699218de41e681c7e624b6a55ed5.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/5161e6c032674cc0b0502a2820e28bb1.png"
 }
 ,
 {
@@ -808,6 +791,23 @@
     "Tags": "ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/12/f6e558b0-436b-11ec-8461-b7129e4d4ed8.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/12/adc9fbe0-436b-11ec-8461-b7129e4d4ed8.png"
+}
+,
+{
+    "Name": "PhpStorm",
+    "Version": "2024.1",
+    "Filename": "jetbrains-phpstorm_2024.1_all.deb",
+    "Torrent_address": "jetbrains-phpstorm_2024.1_all.deb.torrent",
+    "Pkgname": "jetbrains-phpstorm",
+    "Author": "懵仙兔兔",
+    "Contributor": "懵仙兔兔",
+    "Website": "https://www.jetbrains.com/zh-cn/phpstorm/",
+    "Update": "2024-04-10 21:33:11",
+    "Size": "2.55 KB",
+    "More": "PhpStorm\n  高效智能的PHP IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/6d4f932d67a842b097dc0772b7d068a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/60440413b1a046889dac3971728df840.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/0e5e1daed126444488a3b0affa6acfc6.png"
 }
 ,
 {
@@ -1891,23 +1891,6 @@
 }
 ,
 {
-    "Name": "Liberica JDK 17 Full",
-    "Version": "17.0.11+10",
-    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
-    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
-    "Pkgname": "bellsoft-java17-full",
-    "Author": "BellSoft <info@bell-sw.com>",
-    "Contributor": "ThinkYoung",
-    "Website": "https://bell-sw.com/pages/libericajdk/",
-    "Update": "2024-05-09 11:06:56",
-    "Size": "262.52 MB",
-    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-    "Tags": "ubuntu;deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
-}
-,
-{
     "Name": "Mixly",
     "Version": "2.0",
     "Filename": "org.mixly_2.0_amd64.deb",
@@ -1922,6 +1905,23 @@
     "Tags": "community;ubuntu;deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/28ab1857d4064c4994a0949a1ac505eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/faa4d13b1475480699ec53ba27ea2646.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/30/7f053b2b44844d139cb6ab712eb38d11.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/30/ffe4c3ad968441c1abaa37e3905843e2.png"
+}
+,
+{
+    "Name": "Liberica JDK 17 Full",
+    "Version": "17.0.11+10",
+    "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
+    "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
+    "Pkgname": "bellsoft-java17-full",
+    "Author": "BellSoft <info@bell-sw.com>",
+    "Contributor": "ThinkYoung",
+    "Website": "https://bell-sw.com/pages/libericajdk/",
+    "Update": "2024-05-09 11:06:56",
+    "Size": "262.52 MB",
+    "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+    "Tags": "ubuntu;deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
 }
 ,
 {
@@ -1941,6 +1941,22 @@
 }
 ,
 {
+    "Name": "服务监控助手",
+    "Version": "1.0.0",
+    "Filename": "cn.kingtous.service-monitor_1.0.0_amd64.deb",
+    "Pkgname": "cn.kingtous.service-monitor",
+    "Author": "Kingtous",
+    "Contributor": "Kingtous",
+    "Website": "https://kingtous.cn",
+    "Update": "2021-12-18 17:58:20",
+    "Size": "57.72 MB",
+    "More": "可用于监控各类URL，定制化监控需求（定时，定量），保障API稳定。\nWiki: http://service-monitor-wiki.kingtous.cn/",
+    "Tags": "community;deepin;uos;dtk5",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f23a4840-5fe8-11ec-aaaf-c51169906c45.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f49b1ba0-5fe8-11ec-aaaf-c51169906c45.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/18/f0653a20-5fe8-11ec-aaaf-c51169906c45.png"
+}
+,
+{
     "Name": "unmkbootimg(CLI工具)",
     "Version": "1.0.0-1",
     "Filename": "unmkbootimg_1.0.0-1_amd64.deb",
@@ -1955,22 +1971,6 @@
     "Tags": "deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/6a241a08-0240-42f8-aa01-fce5afab75ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/08/44bc1045-5344-415e-b263-9f228fbd912a.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/08/16991809-4d52-49c4-bd5d-2bf390587ea7.png"
-}
-,
-{
-    "Name": "服务监控助手",
-    "Version": "1.0.0",
-    "Filename": "cn.kingtous.service-monitor_1.0.0_amd64.deb",
-    "Pkgname": "cn.kingtous.service-monitor",
-    "Author": "Kingtous",
-    "Contributor": "Kingtous",
-    "Website": "https://kingtous.cn",
-    "Update": "2021-12-18 17:58:20",
-    "Size": "57.72 MB",
-    "More": "可用于监控各类URL，定制化监控需求（定时，定量），保障API稳定。\nWiki: http://service-monitor-wiki.kingtous.cn/",
-    "Tags": "community;deepin;uos;dtk5",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f23a4840-5fe8-11ec-aaaf-c51169906c45.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/18/f49b1ba0-5fe8-11ec-aaaf-c51169906c45.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/18/f0653a20-5fe8-11ec-aaaf-c51169906c45.png"
 }
 ,
 {

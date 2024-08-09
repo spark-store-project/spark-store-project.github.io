@@ -3915,6 +3915,27 @@ SHA512: 244220660cdea43dda741a99e887137db16acf7146468c826bc3d799650da20cd02499c8
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
+Package: spark-dwine-helper
+Architecture: all
+Version: 5.6.4.4-5.3.14
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 724
+Provides: store.spark-app.spark-dwine-helper(=5.6.4.4-5.3.14)
+Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
+Recommends: python3-pyqt5
+Replaces: store.spark-app.spark-dwine-helper(<=5.6.4.4-5.3.14)
+Filename: tools/spark-dwine-helper/spark-dwine-helper_5.6.4.4-5.3.14_all.deb
+Size: 277680
+MD5sum: 6d29c52852f5c0c3cee04d5cb7733d1f
+SHA1: 1705029907217c7481a127abe97f2cc35e809892
+SHA256: f22c9ffcd1a38b77ef80888ad5e6664ce6797b6a9983668f8393e0d306134bd7
+SHA512: 34e825e776ba7ebd119550fc451f77349f4dc759fef970c4486365edd0de42e911b7bb888314d836ab379cd575a8565547476c0afcac7b4c3cbb6950e477954b
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
 Package: xdroid-installer
 Architecture: amd64
 Version: 9.0.15
@@ -4416,6 +4437,26 @@ SHA512: 6bf2b71e56f42245de681d6cd54150f4dbc40d29ce8a899570c23fac5b64dd0fa47177c1
 Homepage: https://gist.github.com/yookoala/818c1ff057e3d965980b7fd3bf8f77a6
 Description: Mac Superdrive rules
  udev rules for Apple Superdrive, for making it work under Linux
+
+Package: com.gitee.zinface-debian-apt-analyzer
+Architecture: amd64
+Version: 0.0.14-20240809
+Priority: optional
+Section: devel
+Maintainer: zinface <zinface@163.com>
+Installed-Size: 770
+Filename: tools/com.gitee.zinface-debian-apt-analyzer/com.gitee.zinface-debian-apt-analyzer_0.0.14-20240809_amd64.deb
+Size: 545714
+MD5sum: 4c2f0dd3eca332f2cdc21ffe20278df1
+SHA1: 3074f0b24be9ccf5afda4377c5a38e0a25342d89
+SHA256: bd4489ce0dc94168fdca3a8f99a4d8b9d1a064178c6a13779b4fccd492cfda49
+SHA512: f1a859417a1b65ec98f1619c968376fc4b46d0430d410a70f50fc69f20a0a18dae6875f4b14bac51227bf146ccb678148c1dfae2a9ef223e278ad01c8954a4d9
+Description: Debian 软件源分析工具
+ Debian软件源分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。
+ .
+ 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。
+ .
+ Build for Uos20 through spark-deb-build.
 
 Package: com.gitee.zinface-debian-apt-analyzer
 Architecture: amd64

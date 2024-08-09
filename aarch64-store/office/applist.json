@@ -198,24 +198,6 @@
 
 ,
 {
-    "Author": "TencentDocs",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "tdappdesktop_3.1.13_arm64.deb",
-    "More": "腾讯文档 Linux 原生版本",
-    "Name": "腾讯文档(Linux版)",
-    "Pkgname": "tdappdesktop",
-    "Size": "111 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "tdappdesktop_3.1.13_arm64.deb.torrent",
-    "Update": "2023-12-30 17:11:31",
-    "Version": "3.1.13",
-    "Website": "https://docs.qq.com/home",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\"]"
-}
-
-,
-{
     "Author": "Brocadesoft",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.brocadesoft.ruiyin_1.2.0.1_arm64.deb",
@@ -230,6 +212,24 @@
     "Website": "https://www.brocadesoft.com",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "TencentDocs",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "tdappdesktop_3.1.13_arm64.deb",
+    "More": "腾讯文档 Linux 原生版本",
+    "Name": "腾讯文档(Linux版)",
+    "Pkgname": "tdappdesktop",
+    "Size": "111 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "tdappdesktop_3.1.13_arm64.deb.torrent",
+    "Update": "2023-12-30 17:11:31",
+    "Version": "3.1.13",
+    "Website": "https://docs.qq.com/home",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\"]"
 }
 
 ,
@@ -864,24 +864,6 @@
 
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cn.com.tdx.spark_7.642_all.deb",
-    "More": "通达信金融终端V7.612，由deepin-wine6运行。（拥有内嵌闪电交易功能，可登录各大券商账号）\n提示：\n（1）登录界面在不同分辨率的电脑上显示可能会错位，但不影响使用；\n（2）字体问题，可下载星火应用商店里的wine字体；\n（3）若你此前在星火应用商店安装过老版本，请自行备份~/.deepinwine/Deepin-TdxSpark/drive_c/new_tdx文件夹下T0001、T0002、vipdoc文件夹，以免个人数据被抹除。",
-    "Name": "通达信金融终端（wine）",
-    "Pkgname": "cn.com.tdx.spark",
-    "Size": "223 Mb",
-    "Tags": "community;deepin",
-    "Torrent_address": "cn.com.tdx.spark_7.642_all.deb.torrent",
-    "Update": "2024-04-24 18:12:51",
-    "Version": "7.642",
-    "Website": "https://www.tdx.com.cn/soft.html",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_5.png\"]"
-}
-
-,
-{
     "Author": "quantum6 <liukp@ts-it.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cn.ts-it.suite_5.1.0.487_arm64.deb",
@@ -896,6 +878,24 @@
     "Website": "www.ts-it.cn",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cn.com.tdx.spark_7.642_all.deb",
+    "More": "通达信金融终端V7.612，由deepin-wine6运行。（拥有内嵌闪电交易功能，可登录各大券商账号）\n提示：\n（1）登录界面在不同分辨率的电脑上显示可能会错位，但不影响使用；\n（2）字体问题，可下载星火应用商店里的wine字体；\n（3）若你此前在星火应用商店安装过老版本，请自行备份~/.deepinwine/Deepin-TdxSpark/drive_c/new_tdx文件夹下T0001、T0002、vipdoc文件夹，以免个人数据被抹除。",
+    "Name": "通达信金融终端（wine）",
+    "Pkgname": "cn.com.tdx.spark",
+    "Size": "223 Mb",
+    "Tags": "community;deepin",
+    "Torrent_address": "cn.com.tdx.spark_7.642_all.deb.torrent",
+    "Update": "2024-04-24 18:12:51",
+    "Version": "7.642",
+    "Website": "https://www.tdx.com.cn/soft.html",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/cn.com.tdx.spark/screen_5.png\"]"
 }
 
 ,
@@ -1062,24 +1062,6 @@
 
 ,
 {
-    "Author": "stevobm",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "vic-diary_0.5.0_amd64.deb",
-    "More": "一款支持Markdown语法的跨平台日记",
-    "Name": "维克日记",
-    "Pkgname": "vic-diary",
-    "Size": "71 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "vic-diary_0.5.0_amd64.deb.torrent",
-    "Update": "2024-08-06 10:45:06",
-    "Version": "0.5.0",
-    "Website": "https://github.com/vo-soft/vic-diary",
-    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/screen_3.png\"]"
-}
-
-,
-{
     "Author": "<zyl@uniontech.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.tongyi.uos_1.0_arm64.deb",
@@ -1094,6 +1076,24 @@
     "Website": "https://tongyi.aliyun.com/",
     "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.tongyi.uos/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/com.tongyi.uos/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "stevobm",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "vic-diary_0.5.0_amd64.deb",
+    "More": "一款支持Markdown语法的跨平台日记",
+    "Name": "维克日记",
+    "Pkgname": "vic-diary",
+    "Size": "71 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "vic-diary_0.5.0_amd64.deb.torrent",
+    "Update": "2024-08-06 10:45:06",
+    "Version": "0.5.0",
+    "Website": "https://github.com/vo-soft/vic-diary",
+    "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/vic-diary/screen_3.png\"]"
 }
 
 ,

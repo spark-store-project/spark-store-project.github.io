@@ -755,23 +755,6 @@
 
 ,
 {
-    "Name": "液晶数字字体",
-    "Version": "001.102-1",
-    "Filename": "fonts-digital-numbers_001.102-1_all.deb",
-    "Torrent_address": "fonts-digital-numbers_001.102-1_all.deb.torrent",
-    "Pkgname": "fonts-digital-numbers",
-    "Author": "Stephan Ahlf",
-    "Contributor": "Careone",
-    "Website": "https://github.com/s-a/digital-numbers-font",
-    "Update": "2023-04-30 14:16:30",
-    "Size": "41.71 KB",
-    "More": "Digital Numbers 是一种固定宽度（web）字体，采用冷液晶显示（LCD）样式。采用SIL Open Font License 1.1授权发表，可以免费商用。\n* 官网: https://github.com/s-a/digital-numbers-font \n* 猫啃网介绍: https://www.maoken.com/english/style/sans-serif/11236.html",
-    "Tags": "community",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/30/0dfb46c0-e71e-11ed-875a-3f5a897fe812.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/30/c58a1730-e71e-11ed-875a-3f5a897fe812.png"
-}
-,
-{
     "Name": "鸿雷板书简体：发布一款近乎完美的板绘免费商用手写体",
     "Version": "2.0-3+20201104",
     "Filename": "fonts-cjk-cn-hongleibanshu_2.0-3_plus20201104_all.deb",
@@ -786,6 +769,23 @@
     "Tags": "community",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/01/fffdce00-e829-11ed-bfb3-af6359dc1a55.jpeg\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/01/b776c1f0-e829-11ed-bfb3-af6359dc1a55.jpg"
+}
+,
+{
+    "Name": "液晶数字字体",
+    "Version": "001.102-1",
+    "Filename": "fonts-digital-numbers_001.102-1_all.deb",
+    "Torrent_address": "fonts-digital-numbers_001.102-1_all.deb.torrent",
+    "Pkgname": "fonts-digital-numbers",
+    "Author": "Stephan Ahlf",
+    "Contributor": "Careone",
+    "Website": "https://github.com/s-a/digital-numbers-font",
+    "Update": "2023-04-30 14:16:30",
+    "Size": "41.71 KB",
+    "More": "Digital Numbers 是一种固定宽度（web）字体，采用冷液晶显示（LCD）样式。采用SIL Open Font License 1.1授权发表，可以免费商用。\n* 官网: https://github.com/s-a/digital-numbers-font \n* 猫啃网介绍: https://www.maoken.com/english/style/sans-serif/11236.html",
+    "Tags": "community",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/30/0dfb46c0-e71e-11ed-875a-3f5a897fe812.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/30/c58a1730-e71e-11ed-875a-3f5a897fe812.png"
 }
 ,
 {
@@ -1361,6 +1361,24 @@
 }
 ,
 {
+    "Author": "tdx <nie@tdx.com.cn>",
+    "Contributor": "tdx <nie@tdx.com.cn>",
+    "Filename": "com.tdx.tdxcfv_7.64_amd64.deb",
+    "More": "通达信金融终端是一款专业的股票、期货、债券、基金等市场行情分析软件，提供多种图表、指标、策略、预警等功能",
+    "Name": "通达信金融终端（Linux）",
+    "Pkgname": "com.tdx.tdxcfv",
+    "Size": "123 Mb",
+    "Tags": "deepin;uos;ubuntu",
+    "Torrent_address": "com.tdx.tdxcfv_7.64_amd64.deb.torrent",
+    "Update": "2024-07-29 23:05:12",
+    "Version": "7.64",
+    "Website": "http://www.tdx.com.cn",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/others/com.tdx.tdxcfv/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/others/com.tdx.tdxcfv/screen_1.png\"]"
+}
+
+,
+{
     "Name": "极域课堂（学生端）",
     "Version": "2.7.3605-1.0.102+10751uos",
     "Filename": "com.mythware.cms-student_2.7.3605-1.0.102_plus_10751uos_amd64.deb",
@@ -1487,24 +1505,6 @@
    "Update":"2020-06-24 20:06",
    "Size":"153.60MB",
    "More":"宫崎骏御用软件"
-}
-
-,
-{
-    "Author": "tdx <nie@tdx.com.cn>",
-    "Contributor": "tdx <nie@tdx.com.cn>",
-    "Filename": "com.tdx.tdxcfv_7.64_amd64.deb",
-    "More": "通达信金融终端是一款专业的股票、期货、债券、基金等市场行情分析软件，提供多种图表、指标、策略、预警等功能",
-    "Name": "通达信金融终端（Linux）",
-    "Pkgname": "com.tdx.tdxcfv",
-    "Size": "123 Mb",
-    "Tags": "deepin;uos;ubuntu",
-    "Torrent_address": "com.tdx.tdxcfv_7.64_amd64.deb.torrent",
-    "Update": "2024-07-29 23:05:12",
-    "Version": "7.64",
-    "Website": "http://www.tdx.com.cn",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/others/com.tdx.tdxcfv/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/others/com.tdx.tdxcfv/screen_1.png\"]"
 }
 
 ,
@@ -1636,22 +1636,6 @@
 }
 ,
 {
-    "Name": "星火deepinID/UnionID切换工具",
-    "Version": "1.1",
-    "Filename": "spark-deepinid-unionid-patch_1.1_amd64.deb",
-    "Pkgname": "spark-deepinid-unionid-patch",
-    "Author": "shenmo",
-    "Contributor": "shenmo",
-    "Website": "https://shenmo7192.gitee.io/",
-    "Update": "2022-01-22 13:44:08",
-    "Size": "111.09 KB",
-    "More": "用于切换deepinID/UnionID的小工具",
-    "Tags": "community;ubuntu;deepin",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/4c441460-7b46-11ec-a975-71d53bbb6f15.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/22/438ec540-7b46-11ec-a975-71d53bbb6f15.png"
-}
-,
-{
     "Name": "银河证券双子星统信版客户端",
     "Version": "2.8.6.6",
     "Filename": "cn.com.yinhe_2.8.6.6_amd64.deb",
@@ -1683,5 +1667,21 @@
     "Tags": "deepin;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/10bdb126b71843deb0407b352dee9776.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/29/c834cebe8f1f428c9c961a7b226cf41b.png"
+}
+,
+{
+    "Name": "星火deepinID/UnionID切换工具",
+    "Version": "1.1",
+    "Filename": "spark-deepinid-unionid-patch_1.1_amd64.deb",
+    "Pkgname": "spark-deepinid-unionid-patch",
+    "Author": "shenmo",
+    "Contributor": "shenmo",
+    "Website": "https://shenmo7192.gitee.io/",
+    "Update": "2022-01-22 13:44:08",
+    "Size": "111.09 KB",
+    "More": "用于切换deepinID/UnionID的小工具",
+    "Tags": "community;ubuntu;deepin",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/4c441460-7b46-11ec-a975-71d53bbb6f15.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/22/438ec540-7b46-11ec-a975-71d53bbb6f15.png"
 }
 ]

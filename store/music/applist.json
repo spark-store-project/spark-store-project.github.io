@@ -357,23 +357,6 @@
 }
 ,
 {
-    "Name": "酷狗音乐",
-    "Version": "11.4.2",
-    "Filename": "uengine-dc-com.kugou.android_11.4.2_all.deb",
-    "Torrent_address": "uengine-dc-com.kugou.android_11.4.2_all.deb.torrent",
-    "Pkgname": "uengine-dc-com.kugou.android",
-    "Author": "酷狗音乐",
-    "Contributor": "菜鸟",
-    "Website": "https://www.kugou.com/",
-    "Update": "2023-12-10 22:31:40",
-    "Size": "111.24 MB",
-    "More": "酷狗音乐就是歌多（在线功能正常，本地功能无法使用）",
-    "Tags": "deepin;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/a63be242990744858411ea3ac7d0d21a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/c53b68ce399c4242baf133d0d6701063.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/60834bf4481544ed89f9856dad924bb7.png"
-}
-,
-{
     "Name": "MusicFree",
     "Version": "0.0.3",
     "Filename": "musicfree_0.0.3_amd64.deb",
@@ -388,6 +371,23 @@
     "Tags": "community;ubuntu;deepin",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/ba6c2cadec0b4c5bae57b84cc544fc4c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/310348f39ffb4c2684492f9e0b36d84b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/29/5c520b4f879a44b3a2dc81f877a6bf59.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/29/3c768e2486af42e0b5691b444150d85a.png"
+}
+,
+{
+    "Name": "酷狗音乐",
+    "Version": "11.4.2",
+    "Filename": "uengine-dc-com.kugou.android_11.4.2_all.deb",
+    "Torrent_address": "uengine-dc-com.kugou.android_11.4.2_all.deb.torrent",
+    "Pkgname": "uengine-dc-com.kugou.android",
+    "Author": "酷狗音乐",
+    "Contributor": "菜鸟",
+    "Website": "https://www.kugou.com/",
+    "Update": "2023-12-10 22:31:40",
+    "Size": "111.24 MB",
+    "More": "酷狗音乐就是歌多（在线功能正常，本地功能无法使用）",
+    "Tags": "deepin;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/a63be242990744858411ea3ac7d0d21a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/10/c53b68ce399c4242baf133d0d6701063.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/60834bf4481544ed89f9856dad924bb7.png"
 }
 ,
 {
@@ -555,6 +555,20 @@
 }
 ,
 {
+   "Name":"Iease-Music",
+   "Version":"1.3.4",
+   "Filename":"ieaseMusic-1.3.4-linux-amd64.deb",
+   "Pkgname":"iease-music",
+   "Author":"trazyn",
+   "Contributor":"jalawov",
+   "Website":"https://github.com/trazyn/ieaseMusic",
+   "Update":"2020-07-09 09:23",
+   "Size":"55.37MB",
+   "More":"美观的第三方网易云,由Electron, React, MobX, JSS构建"
+}
+
+,
+{
     "Name": "FLB Music",
     "Version": "1.1.9spark1",
     "Filename": "app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb",
@@ -570,20 +584,6 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/1bf6255806d1487a8147462a0440eead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/714c5847852c499ab40eb0b707a149fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/18/04240e9b105e451081fc3bb8dc44f0c4.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/18/88ab09d79e994baeba35d4f16013e290.png"
 }
-,
-{
-   "Name":"Iease-Music",
-   "Version":"1.3.4",
-   "Filename":"ieaseMusic-1.3.4-linux-amd64.deb",
-   "Pkgname":"iease-music",
-   "Author":"trazyn",
-   "Contributor":"jalawov",
-   "Website":"https://github.com/trazyn/ieaseMusic",
-   "Update":"2020-07-09 09:23",
-   "Size":"55.37MB",
-   "More":"美观的第三方网易云,由Electron, React, MobX, JSS构建"
-}
-
 ,
 {
     "Name": "TTS-Vue微软语音合成工具",
