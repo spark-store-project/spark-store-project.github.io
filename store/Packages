@@ -3896,27 +3896,6 @@ Description: FileGee Client on Deepin Wine6
 
 Package: spark-dwine-helper
 Architecture: all
-Version: 5.6.4.3-5.3.14
-Multi-Arch: foreign
-Priority: extra
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 724
-Provides: store.spark-app.spark-dwine-helper(=5.6.4.3-5.3.14)
-Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
-Recommends: python3-pyqt5
-Replaces: store.spark-app.spark-dwine-helper(<=5.6.4.3-5.3.14)
-Filename: tools/spark-dwine-helper/spark-dwine-helper_5.6.4.3-5.3.14_all.deb
-Size: 277624
-MD5sum: 6c7785bd10199d590188c76e646f3371
-SHA1: a003cd2d4674c924e64456212f00c3b5befa8d05
-SHA256: 30517e2275fea664d33901f9156a96b230dda30a80851330b8dae7dcf5ee8bae
-SHA512: 244220660cdea43dda741a99e887137db16acf7146468c826bc3d799650da20cd02499c82e9d8d357f83e39e7420f3f5de2ec41b7d80a4e5fe05a9401139fef9
-Homepage: https://gitee.com/deepin-community-store/spark-wine
-Description: Spark Deepin Wine Helper
-
-Package: spark-dwine-helper
-Architecture: all
 Version: 5.6.4.4-5.3.14
 Multi-Arch: foreign
 Priority: extra
@@ -4451,26 +4430,6 @@ MD5sum: 4c2f0dd3eca332f2cdc21ffe20278df1
 SHA1: 3074f0b24be9ccf5afda4377c5a38e0a25342d89
 SHA256: bd4489ce0dc94168fdca3a8f99a4d8b9d1a064178c6a13779b4fccd492cfda49
 SHA512: f1a859417a1b65ec98f1619c968376fc4b46d0430d410a70f50fc69f20a0a18dae6875f4b14bac51227bf146ccb678148c1dfae2a9ef223e278ad01c8954a4d9
-Description: Debian 软件源分析工具
- Debian软件源分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。
- .
- 这款工具具有简单易用的特点，让用户能够快速了解各个软件包的详细信息，从而更高效地管理和维护Debian软件包。
- .
- Build for Uos20 through spark-deb-build.
-
-Package: com.gitee.zinface-debian-apt-analyzer
-Architecture: amd64
-Version: 0.0.13-20240806
-Priority: optional
-Section: devel
-Maintainer: zinface <zinface@163.com>
-Installed-Size: 753
-Filename: tools/com.gitee.zinface-debian-apt-analyzer/com.gitee.zinface-debian-apt-analyzer_0.0.13-20240806_amd64.deb
-Size: 536086
-MD5sum: ec427d80b403be444cde5d1d8153cfba
-SHA1: fcdde32c4e9838d17f21c834149ac65417448ca1
-SHA256: 9ae59ff15949cd5887e7ffb7bc336e6ec0b2a7ef82a236d7e0d3f31daa8f2e46
-SHA512: 23151b81afc0a9ebcf8c7b101145a042577c20b9ce1871ac37c0e5118cd2ccf6954e2043283933a7935dab076eb9c54e35f77e85f934e72bc189b416b0742dcc
 Description: Debian 软件源分析工具
  Debian软件源分析工具是一款基于Qt框架的实用小工具，旨在帮助用户轻松地在线查看apt源中的所有软件包信息。
  .
@@ -32225,19 +32184,19 @@ Description: Open Source Home Theatre (executable binaries)
 
 Package: com.cctv.ysyy.spark
 Architecture: all
-Version: 6.0.0.1spark10
+Version: 6.0.1.2spark11
 Multi-Arch: foreign
 Priority: optional
 Section: non-free/otherosfs
 Maintainer: sgb76 <sgb76@163.com>
-Depends: deepin-wine6-stable:amd64 (>= 6.0.0.42-1), spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
-Filename: video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.0.1spark10_all.deb
-Size: 83786104
-MD5sum: e88eb28cb7b8381c3e6a9cd7733b00ae
-SHA1: 145497f097011555e12f77acb942e6f6f2f2878f
-SHA256: 59c45bcd90cb17439fea4fe9e131f18255cb47f57653e5607f80c4d63e312e9f
-SHA512: 432fbfc94fce177d4bf98fe1385154bb7bbd53b8821231c5679f1aff6d598fee367cd6b954df22a771652fcd996f173ffe366dcd0ad64186660f6e30258f3724
-Description: ysyy on Deepin Wine6
+Depends: deepin-wine8-stable, spark-dwine-helper (>= 2.2), fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: video/com.cctv.ysyy.spark/com.cctv.ysyy.spark_6.0.1.2spark11_all.deb
+Size: 65170776
+MD5sum: 3b70397a935dbbdd39e013ecc35ab059
+SHA1: f50a141626f20fb399d4b0a32f50d1e45991555c
+SHA256: 6e7b78ed924b420a813e549905085d6ea36877a7b462dc2a4aa084b9d7b511fa
+SHA512: d0b93a34f2832467cd1127e326d9434eb6b45ec26c7c6652671d1a4fb26d239b7b34f5d7de83d1cd8fb6eb42f821733acdee556cd4272a462b7f22fdf60c6334
+Description: 央视影音
 
 Package: vst-video
 Architecture: amd64
@@ -35994,6 +35953,27 @@ Description: easy to use programming environment for ages 8 and up
  learn important mathematical and computational ideas, while also
  gaining a deeper understanding of the process of design.
 
+Package: devbit
+Architecture: amd64
+Version: 1.1.0
+Priority: optional
+Section: default
+Maintainer: devbit, Inc <505187749@qq.com>
+Installed-Size: 221602
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: development/devbit/devbit_1.1.0_amd64.deb
+Size: 64362694
+MD5sum: c87001a011ac9c91638e4535d4fe0f93
+SHA1: 30a794af30b7698c25eb01368fce92ce0ee9dbac
+SHA256: ab5967bc6f4d3c1de8c4b0625d0eb9ec57c66db1080721cb531a48feaf297083
+SHA512: 1ca70726f13c49869f61bfbf46e66f112017d04bd12a6f0ca4f3052baa70c5e3e069e19d3ebd1f22665814a55060c53ef1fdaf7f648207dc73e9ea77a5e1dde2
+Homepage: https://devbit.csdn.net
+Description: 
+  程序员的如意兵器
+License: unknown
+Vendor: devbit, Inc <505187749@qq.com>
+
 Package: org.apachedirectorystudio.spark
 Architecture: amd64
 Version: 2.0.0.v20210717
@@ -36901,34 +36881,18 @@ Description: 绒毛墙, Build By UEngine Runner Packager
 
 Package: com.alibabainc.dingtalk
 Architecture: amd64
-Version: 7.5.20.40605
+Version: 7.6.0.40718
 Priority: optional
 Section: devel
 Maintainer: dingtalk alibaba-inc
-Installed-Size: 1221604
-Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.20.40605_amd64.deb
-Size: 356806784
-MD5sum: 73338ce6f9d6536439847976fed208fe
-SHA1: 676cfaf7f02f0309b228d5078634dd269597f224
-SHA256: 880f1021bc7a0325a0221bf9272bfc8658f2e7e9357514e39219340c1697dcfa
-SHA512: 395638a29341bae5ffbef20700a7414e49272490ead27d7a3e428899a4f5592e1d1d7ea581f70175d408a9e9296ca5e7e9643ef660b333f774d930265b9d2ad7
-Homepage: https://gov.dingtalk.com
-Description: 钉钉
-
-Package: com.alibabainc.dingtalk
-Architecture: amd64
-Version: 7.5.20.40605
-Priority: optional
-Section: devel
-Maintainer: dingtalk alibaba-inc
-Installed-Size: 1221604
+Installed-Size: 1219832
 Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.5.20.40605_amd64.deb
-Size: 357292094
-MD5sum: e4e84aec1da7cfd513be116a93d6ac09
-SHA1: cf5a8c4c9921754728966fcee85e955b80ca0bc9
-SHA256: 613292ebf078375c31e818eb7b64b5eca129d8ed4fdefbaa0771ae700f1e3607
-SHA512: 414410fc3866bf0a09f5d5d7249683eed0504efe69a7f35c2bdf1da7967955af7a2aa552f3d8af6908dda42c8c58e9cf04729df10af0be089c2bbd2e78380e89
+Filename: chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.6.0.40718_amd64.deb
+Size: 353752898
+MD5sum: f14cc5f778e4360166d79511e6e24400
+SHA1: c8fd3547c70c7b8c5627d82a3a5b127f1cea2e7f
+SHA256: 08412d0162f971b11ad9f940e5277d8fec215bc2ae1ef3317b8b1483efd33351
+SHA512: 34f4c20ecaa0dfcda485aabf65a8ebd5593cb712b855a7ab662ce8bcfa5489361440f3398c49f701e7814ab32541600d74a0adac547b25cdbe35f606b11a904d
 Homepage: https://gov.dingtalk.com
 Description: 钉钉
 
