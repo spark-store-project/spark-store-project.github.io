@@ -256,18 +256,18 @@
     {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "uos-packaging-tools_1.7.3_all.deb",
+      "Filename": "uos-packaging-tools_1.7.5_all.deb",
       "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
       "Name": "维护打包工具箱",
       "Pkgname": "uos-packaging-tools",
       "Size": "78 Kb",
       "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "uos-packaging-tools_1.7.3_all.deb.torrent",
-      "Update": "2025-06-11 20:21:56",
-      "Version": "1.7.3",
+      "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
+      "Update": "2025-06-16 23:07:11",
+      "Version": "1.7.5",
       "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/uos-packaging-tools/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/uos-packaging-tools/screen_2.png\"]"
+      "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
     },
     {
       "Author": "gfdgd_xi <3025613752@qq.com>",
@@ -334,22 +334,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_3.png\"]"
     },
     {
-      "Author": "SuperGeek shenmo<shenmo@spark-app.store>",
-      "Contributor": "SuperGeek shenmo<shenmo@spark-app.store>",
-      "Filename": "com.360.ya.suo.spark_4.0.0.1490_all.deb",
-      "More": "360压缩，wine版，支持压缩包连续看图等功能\n\n支持arm",
-      "Name": "360压缩(wine)",
-      "Pkgname": "com.360.ya.suo.spark",
-      "Size": "49 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "com.360.ya.suo.spark_4.0.0.1490_all.deb.torrent",
-      "Update": "2023-08-30 21:40:39",
-      "Version": "4.0.0.1490",
-      "Website": "https://yasuo.360.cn/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/screen_1.png\"]"
-    },
-    {
       "Author": "dice2o",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "binggpt_0.3.6_arm64.deb",
@@ -364,6 +348,22 @@
       "Website": "https://github.com/dice2o/BingGPT",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_2.png\"]"
+    },
+    {
+      "Author": "SuperGeek shenmo<shenmo@spark-app.store>",
+      "Contributor": "SuperGeek shenmo<shenmo@spark-app.store>",
+      "Filename": "com.360.ya.suo.spark_4.0.0.1490_all.deb",
+      "More": "360压缩，wine版，支持压缩包连续看图等功能\n\n支持arm",
+      "Name": "360压缩(wine)",
+      "Pkgname": "com.360.ya.suo.spark",
+      "Size": "49 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "com.360.ya.suo.spark_4.0.0.1490_all.deb.torrent",
+      "Update": "2023-08-30 21:40:39",
+      "Version": "4.0.0.1490",
+      "Website": "https://yasuo.360.cn/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/screen_1.png\"]"
     },
     {
       "Author": "udom<uostools.com>",
@@ -2383,22 +2383,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_2.png\"]"
     },
     {
-      "Author": "FunnyAWM <1142978300@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "kaf-cursors_1.1.0_all.deb",
-      "More": "1.1.0更新内容\n修复了拖动时光标消失的情况",
-      "Name": "花谱（Kaf）光标包",
-      "Pkgname": "kaf-cursors",
-      "Size": "12 Kb",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "kaf-cursors_1.1.0_all.deb.torrent",
-      "Update": "2023-03-07 22:10:25",
-      "Version": "1.1.0",
-      "Website": "https://www.pixiv.net/users/31570727",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/kaf-cursors/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/kaf-cursors/screen_1.png\"]"
-    },
-    {
       "Author": "zinface <zinface@163.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "mimicry-clock-screensaver_0.0.2-20230308_arm64.deb",
@@ -2413,6 +2397,22 @@
       "Website": "https://gitee.com/zinface/qt.mimicry-clock-screensaver",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/mimicry-clock-screensaver/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/mimicry-clock-screensaver/screen_1.png\"]"
+    },
+    {
+      "Author": "FunnyAWM <1142978300@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "kaf-cursors_1.1.0_all.deb",
+      "More": "1.1.0更新内容\n修复了拖动时光标消失的情况",
+      "Name": "花谱（Kaf）光标包",
+      "Pkgname": "kaf-cursors",
+      "Size": "12 Kb",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "kaf-cursors_1.1.0_all.deb.torrent",
+      "Update": "2023-03-07 22:10:25",
+      "Version": "1.1.0",
+      "Website": "https://www.pixiv.net/users/31570727",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/kaf-cursors/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/kaf-cursors/screen_1.png\"]"
     },
     {
       "Author": "3025613752 <3025613752@qq.com>",
@@ -3377,22 +3377,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.jpchacha.chasysdraw.spark/screen_4.png\"]"
     },
     {
-      "Author": "嘉立创 <lichuang>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "cn.lceda_6.5.39_arm64.deb",
-      "More": "高效的国产PCB设计工具， 永久免费",
-      "Name": "立创EDA",
-      "Pkgname": "cn.lceda",
-      "Size": "72 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "cn.lceda_6.5.39_arm64.deb.torrent",
-      "Update": "2024-03-24 13:37:39",
-      "Version": "6.5.39",
-      "Website": "https://lceda.cn/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_3.png\"]"
-    },
-    {
       "Author": "Deepin WINE Team and gtjdoctor@163.com",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.microsoft.paint.deepin_1.0spark2_all.deb",
@@ -3407,6 +3391,22 @@
       "Website": "https://bbs.deepin.org/post/218516",
       "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_3.png\"]"
+    },
+    {
+      "Author": "嘉立创 <lichuang>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "cn.lceda_6.5.39_arm64.deb",
+      "More": "高效的国产PCB设计工具， 永久免费",
+      "Name": "立创EDA",
+      "Pkgname": "cn.lceda",
+      "Size": "72 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "cn.lceda_6.5.39_arm64.deb.torrent",
+      "Update": "2024-03-24 13:37:39",
+      "Version": "6.5.39",
+      "Website": "https://lceda.cn/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_3.png\"]"
     },
     {
       "Author": "support <support@gstarcad.com>",
@@ -5008,22 +5008,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_3.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb",
-      "More": "Super Tux Kart是一款开源赛车游戏",
-      "Name": "SuperTuxKart 卡丁车",
-      "Pkgname": "store.spark-app.appwrapper.supertuxkart",
-      "Size": "3 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb.torrent",
-      "Update": "2024-12-18 14:45:35",
-      "Version": "1.4+dfsg-2",
-      "Website": "",
-      "icons": "https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/screen_1.png\"]"
-    },
-    {
       "Author": "Deepin WINE Team",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.eatfish.deepin_1.2gxde1_all.deb",
@@ -5038,6 +5022,22 @@
       "Website": "http://www.sj3g.com/youxi/xz29014/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/com.eatfish.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/com.eatfish.deepin/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb",
+      "More": "Super Tux Kart是一款开源赛车游戏",
+      "Name": "SuperTuxKart 卡丁车",
+      "Pkgname": "store.spark-app.appwrapper.supertuxkart",
+      "Size": "3 Kb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb.torrent",
+      "Update": "2024-12-18 14:45:35",
+      "Version": "1.4+dfsg-2",
+      "Website": "",
+      "icons": "https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/screen_1.png\"]"
     },
     {
       "Author": "nillerusr",
@@ -6513,22 +6513,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_4.png\"]"
     },
     {
-      "Author": "sgb76 <sgb76@163.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.cctalk.spark_7.10.6.5spark0_all.deb",
-      "More": "一个实时互动教育平台，多类型终端支持，网师可以随时随地上课、与学员沟通以及掌握业务情况",
-      "Name": "CCtalk",
-      "Pkgname": "com.cctalk.spark",
-      "Size": "211 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
-      "Torrent_address": "com.cctalk.spark_7.10.6.5spark0_all.deb.torrent",
-      "Update": "2024-10-31 18:21:16",
-      "Version": "7.10.6.5spark0",
-      "Website": "https://www.cctalk.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/screen_3.png\"]"
-    },
-    {
       "Author": "User Support Services <support@yozosoft.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.yozosoft.yozo-office.s1_9.0.6115.191ZH.S1_arm64.deb",
@@ -6543,6 +6527,22 @@
       "Website": "http://www.yozosoft.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.yozosoft.yozo-office.s1/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.yozosoft.yozo-office.s1/screen_1.png\"]"
+    },
+    {
+      "Author": "sgb76 <sgb76@163.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.cctalk.spark_7.10.6.5spark0_all.deb",
+      "More": "一个实时互动教育平台，多类型终端支持，网师可以随时随地上课、与学员沟通以及掌握业务情况",
+      "Name": "CCtalk",
+      "Pkgname": "com.cctalk.spark",
+      "Size": "211 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
+      "Torrent_address": "com.cctalk.spark_7.10.6.5spark0_all.deb.torrent",
+      "Update": "2024-10-31 18:21:16",
+      "Version": "7.10.6.5spark0",
+      "Website": "https://www.cctalk.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.cctalk.spark/screen_3.png\"]"
     },
     {
       "Author": "shenmo<shenmo@spark-app.store>",
@@ -7454,22 +7454,6 @@
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
-      "Author": "haitai",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "htbrowser_5.0.0.20_arm64.deb",
-      "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
-      "Name": "红莲花安全浏览器",
-      "Pkgname": "htbrowser",
-      "Size": "75 Mb",
-      "Tags": "debian;deepin;ubuntu;uos",
-      "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
-      "Update": "2023-03-05 18:53:57",
-      "Version": "5.0.0.20",
-      "Website": "http://www.haitaibrowser.net/",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
-    },
-    {
       "Author": "AnyDesk Software GmbH <linux-support@anydesk.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "anydesk_6.4.2_arm64.deb",
@@ -7484,6 +7468,22 @@
       "Website": "https://anydesk.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/network/anydesk/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/anydesk/screen_1.png\"]"
+    },
+    {
+      "Author": "haitai",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "htbrowser_5.0.0.20_arm64.deb",
+      "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
+      "Name": "红莲花安全浏览器",
+      "Pkgname": "htbrowser",
+      "Size": "75 Mb",
+      "Tags": "debian;deepin;ubuntu;uos",
+      "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
+      "Update": "2023-03-05 18:53:57",
+      "Version": "5.0.0.20",
+      "Website": "http://www.haitaibrowser.net/",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
     },
     {
       "Author": "天翼云科技有限公司",
@@ -7502,6 +7502,20 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/ctyunclouddeskuniversal/screen_1.png\"]"
     },
     {
+      "Name": "哔哩下载姬(跨平台版)",
+      "Author": "28655758+yaobiao131@users.noreply.github.com",
+      "Website": "https://github.com/yaobiao131/downkyicore",
+      "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+      "Tags": "debian;ubuntu;deepin;uos",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
+      "Pkgname": "downkyi",
+      "Version": "1.0.20",
+      "Filename": "downkyi_1.0.20_arm64.deb",
+      "Update": "2025-05-11 01:43:14",
+      "Size": "39.00MB",
+      "Contributor": "https://gitee.com/spark-building-service/github"
+    },
+    {
       "Author": "linglongsha <499918911@qq.com>",
       "Contributor": "linglongsha <499918911@qq.com>",
       "Filename": "com.github.floorp_11.22.0_arm64.deb",
@@ -7516,20 +7530,6 @@
       "Website": "https://github.com/Floorp-Projects/Floorp",
       "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.github.floorp/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.github.floorp/screen_1.png\"]"
-    },
-    {
-      "Name": "哔哩下载姬(跨平台版)",
-      "Author": "28655758+yaobiao131@users.noreply.github.com",
-      "Website": "https://github.com/yaobiao131/downkyicore",
-      "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-      "Tags": "debian;ubuntu;deepin;uos",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
-      "Pkgname": "downkyi",
-      "Version": "1.0.20",
-      "Filename": "downkyi_1.0.20_arm64.deb",
-      "Update": "2025-05-11 01:43:14",
-      "Size": "39.00MB",
-      "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
       "Author": "Oray <dev@oray.com>",
@@ -7724,6 +7724,22 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_3.png\"]"
     },
     {
+      "Author": "help@todesk.com",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "todeskhost_2.0.3.2_arm64.deb",
+      "More": "全功能版被控端，可直接访问，适用于远程办公/无人值守场景",
+      "Name": "ToDesk企业版被控端",
+      "Pkgname": "todeskhost",
+      "Size": "27 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "todeskhost_2.0.3.2_arm64.deb.torrent",
+      "Update": "2025-03-14 22:26:52",
+      "Version": "2.0.3.2",
+      "Website": "https://www.todesk.com",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/network/todeskhost/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/todeskhost/screen_1.png\"]"
+    },
+    {
       "Name": "ODE 多功能助手",
       "Version": "0.8.4",
       "Filename": "com.ode.deepin_0.8.4_all.deb",
@@ -7754,22 +7770,6 @@
       "Tags": "deepin;uos;dwine5;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
-    },
-    {
-      "Author": "help@todesk.com",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "todeskhost_2.0.3.2_arm64.deb",
-      "More": "全功能版被控端，可直接访问，适用于远程办公/无人值守场景",
-      "Name": "ToDesk企业版被控端",
-      "Pkgname": "todeskhost",
-      "Size": "27 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "todeskhost_2.0.3.2_arm64.deb.torrent",
-      "Update": "2025-03-14 22:26:52",
-      "Version": "2.0.3.2",
-      "Website": "https://www.todesk.com",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/network/todeskhost/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/todeskhost/screen_1.png\"]"
     },
     {
       "Author": "良师多媒体工作室",
@@ -8800,14 +8800,14 @@
     },
     {
       "Name": "QQ NT",
-      "Version": "3.2.18-35951",
-      "Filename": "linuxqq_3.2.18-35951_arm64.deb",
-      "Torrent_address": "linuxqq_3.2.18-35951_arm64.deb.torrent",
+      "Version": "3.2.18-36330",
+      "Filename": "linuxqq_3.2.18-36330_arm64.deb",
+      "Torrent_address": "linuxqq_3.2.18-36330_arm64.deb.torrent",
       "Pkgname": "linuxqq",
       "Author": "shenmo<shenmo@spark-app.store>",
       "Contributor": "shenmo<shenmo@spark-app.store>",
       "Website": "https://im.qq.com/linuxqq/index.shtml",
-      "Update": "2025-06-07 17:33:40",
+      "Update": "2025-06-16 17:34:14",
       "Size": "159M",
       "More": "QQ Linux官方版，从 hhttps://gitee.com/spark-building-service/linuxqq/ 自动维护，感谢 @wcbing 的软件仓库",
       "Tags": "ubuntu;deepin;uos;debian",

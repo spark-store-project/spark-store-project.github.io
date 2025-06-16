@@ -769,24 +769,6 @@
 
 ,
 {
-  "Name": "简单任务栏网速插件",
-  "Version": "0.0.7",
-  "Filename": "com.github.ccc-proc-info-plugin_0.0.7_amd64.deb",
-  "Torrent_address": "com.github.ccc-proc-info-plugin_0.0.7_amd64.deb.torrent",
-  "Pkgname": "com.github.ccc-proc-info-plugin",
-  "Author": "keke <243768648@qq.com>",
-  "Contributor": "keke <243768648@qq.com>",
-  "Website": "https://gitee.com/ct243768648/ccc-proc-info-plugin",
-  "Update": "2024-11-17 17:19:21",
-  "Size": "352.38 KB",
-  "More": "查看进程信息，包括网速、包名等；清理进程。\n（如果安装不成功，可能是由于安装了此工具的较老版本，请在终端执行“sudo apt remove com.github.proc-info-plugin”卸载之前版本后，再尝试安装本工具）\n\n\nV0.0.6更新说明：\n——————————————————\n1、增加进程清理启动文件到启动器中； \n2、修复不停打印日志问题。",
-  "Tags": "community;deepin;dtk5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/ac412623a90b4b3bba9ee72c9cd07f82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f2a297c639e544ddb3de0f3ba49d58e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/3f7be342f15f443bbfa7d398780f3b2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f75d32298c1946ca94a1eb08fe214ac5.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/17/52bcd9c3e94d422a83b0d5390dd95f5f.png"
-}
-
-,
-{
   "Name": "引导修复 Boot-Repair",
   "Version": "4ppa203",
   "Filename": "boot-repair_4ppa203_all.deb",
@@ -801,6 +783,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
+}
+
+,
+{
+  "Name": "简单任务栏网速插件",
+  "Version": "0.0.7",
+  "Filename": "com.github.ccc-proc-info-plugin_0.0.7_amd64.deb",
+  "Torrent_address": "com.github.ccc-proc-info-plugin_0.0.7_amd64.deb.torrent",
+  "Pkgname": "com.github.ccc-proc-info-plugin",
+  "Author": "keke <243768648@qq.com>",
+  "Contributor": "keke <243768648@qq.com>",
+  "Website": "https://gitee.com/ct243768648/ccc-proc-info-plugin",
+  "Update": "2024-11-17 17:19:21",
+  "Size": "352.38 KB",
+  "More": "查看进程信息，包括网速、包名等；清理进程。\n（如果安装不成功，可能是由于安装了此工具的较老版本，请在终端执行“sudo apt remove com.github.proc-info-plugin”卸载之前版本后，再尝试安装本工具）\n\n\nV0.0.6更新说明：\n——————————————————\n1、增加进程清理启动文件到启动器中； \n2、修复不停打印日志问题。",
+  "Tags": "community;deepin;dtk5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/ac412623a90b4b3bba9ee72c9cd07f82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f2a297c639e544ddb3de0f3ba49d58e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/3f7be342f15f443bbfa7d398780f3b2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f75d32298c1946ca94a1eb08fe214ac5.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/17/52bcd9c3e94d422a83b0d5390dd95f5f.png"
 }
 
 ,
@@ -879,18 +879,18 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "uos-packaging-tools_1.7.3_all.deb",
+    "Filename": "uos-packaging-tools_1.7.5_all.deb",
     "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
     "Name": "维护打包工具箱",
     "Pkgname": "uos-packaging-tools",
     "Size": "78 Kb",
     "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "uos-packaging-tools_1.7.3_all.deb.torrent",
-    "Update": "2025-06-11 20:21:56",
-    "Version": "1.7.3",
+    "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
+    "Update": "2025-06-16 23:07:11",
+    "Version": "1.7.5",
     "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/uos-packaging-tools/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/uos-packaging-tools/screen_2.png\"]"
+    "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
 }
 
 ,
@@ -1003,24 +1003,6 @@
 
 ,
 {
-  "Name": "Android - adb/fastboot 测试工具",
-  "Version": "0.3.2-20221210",
-  "Filename": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb",
-  "Torrent_address": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb.torrent",
-  "Pkgname": "android-adb-fastboot-tools",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
-  "Update": "2022-12-10 01:38:51",
-  "Size": "7.27 MB",
-  "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
-  "Tags": "community;debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/2c4350b7-1ad8-466d-9443-0c326156bbdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/ec59e585-05b9-4f4b-8c8f-f576fe7b5b58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/6a6bcea4-a399-4de0-9911-354640fa54c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/cc0d939d-e3e3-4a24-9ae9-127628ab3643.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/10/bd65a178-a7fa-41b1-bc9e-2038dc6d8c7b.png"
-}
-
-,
-{
     "Name": "安兔兔评测",
     "Version": "1.0.0.610",
     "Filename": "com.antutu.benchmark_1.0.0.610_amd64.deb",
@@ -1035,6 +1017,24 @@
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/8026135d32384834a6ce7118be2ac42f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/317409dd01364c45b6723c782d3d29eb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/46cd0f0ece934816be6bf039b9b9595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/11/34e44c4d9b5b4d22a65767bed3684ffd.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/11/fde06c9646d84c6c98829ceacd849d16.png"
+}
+
+,
+{
+  "Name": "Android - adb/fastboot 测试工具",
+  "Version": "0.3.2-20221210",
+  "Filename": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb",
+  "Torrent_address": "android-adb-fastboot-tools_0.3.2-20221210_amd64.deb.torrent",
+  "Pkgname": "android-adb-fastboot-tools",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
+  "Update": "2022-12-10 01:38:51",
+  "Size": "7.27 MB",
+  "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
+  "Tags": "community;debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/2c4350b7-1ad8-466d-9443-0c326156bbdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/ec59e585-05b9-4f4b-8c8f-f576fe7b5b58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/6a6bcea4-a399-4de0-9911-354640fa54c7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/10/cc0d939d-e3e3-4a24-9ae9-127628ab3643.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/10/bd65a178-a7fa-41b1-bc9e-2038dc6d8c7b.png"
 }
 
 ,
@@ -2616,24 +2616,6 @@
 
 ,
 {
-  "Name": "柚坛工具箱",
-  "Version": "3.3.5",
-  "Filename": "uotantoolbox_3.3.5_amd64.deb",
-  "Torrent_address": "uotantoolbox_3.3.5_amd64.deb.torrent",
-  "Pkgname": "uotantoolbox",
-  "Author": "mujianwu <lrh15563910083@163.com>",
-  "Contributor": "https://gitee.com/spark-building-service/github",
-  "Website": "https://toolbox.uotan.cn/",
-  "Update": "2025-03-10 11:12:48",
-  "Size": "112.9 MB",
-  "More": "柚坛工具箱全新版本正式发布，专为玩机发烧友而生！\n采用全新现代化UI设计 支持跨平台，可轻松在Windows、Linux、macOS上使用\n同时也是全球首款原生适配龙芯架构的Android工具箱\n集成全网最丝滑的Scrcpy图形端，为开发如虎添翼\n更有新增 应用管理、无级调节 等众多实用功能\n\n系统支持： Linux：Ubuntu 16.04+、Debian 9+\n注： 龙芯版本推荐使用新世界，不确定旧世界是否能够正常使用。",
-  "Tags": "community;debian;ubuntu;deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/10/9d8fa01463ba4bd4aca58695e3bd1af0.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/03/10/fe905c9c1939447c98ea66269226cad8.png"
-}
-
-,
-{
   "Author": "shenmo<shenmo@spark-app.store>",
   "Contributor": "shenmo<shenmo@spark-app.store>",
   "Filename": "open-in-terminal-tool_1.0.1_all.deb",
@@ -2652,20 +2634,20 @@
 
 ,
 {
-  "Name": "pacapt--Arch用户的福音",
-  "Version": "3.0.7.2",
-  "Filename": "pacapt_3.0.7.2_all.deb",
-  "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
-  "Pkgname": "pacapt",
-  "Author": "shy <1658347525@qq.com>",
-  "Contributor": "shy <1658347525@qq.com>",
-  "Website": "https://github.com/icy/pacapt",
-  "Update": "2023-01-01 13:16:19",
-  "Size": "13.67 KB",
-  "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
-  "Tags": "community;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
+  "Name": "柚坛工具箱",
+  "Version": "3.3.5",
+  "Filename": "uotantoolbox_3.3.5_amd64.deb",
+  "Torrent_address": "uotantoolbox_3.3.5_amd64.deb.torrent",
+  "Pkgname": "uotantoolbox",
+  "Author": "mujianwu <lrh15563910083@163.com>",
+  "Contributor": "https://gitee.com/spark-building-service/github",
+  "Website": "https://toolbox.uotan.cn/",
+  "Update": "2025-03-10 11:12:48",
+  "Size": "112.9 MB",
+  "More": "柚坛工具箱全新版本正式发布，专为玩机发烧友而生！\n采用全新现代化UI设计 支持跨平台，可轻松在Windows、Linux、macOS上使用\n同时也是全球首款原生适配龙芯架构的Android工具箱\n集成全网最丝滑的Scrcpy图形端，为开发如虎添翼\n更有新增 应用管理、无级调节 等众多实用功能\n\n系统支持： Linux：Ubuntu 16.04+、Debian 9+\n注： 龙芯版本推荐使用新世界，不确定旧世界是否能够正常使用。",
+  "Tags": "community;debian;ubuntu;deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/10/9d8fa01463ba4bd4aca58695e3bd1af0.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/03/10/fe905c9c1939447c98ea66269226cad8.png"
 }
 
 ,
@@ -2684,6 +2666,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "pacapt--Arch用户的福音",
+  "Version": "3.0.7.2",
+  "Filename": "pacapt_3.0.7.2_all.deb",
+  "Torrent_address": "pacapt_3.0.7.2_all.deb.torrent",
+  "Pkgname": "pacapt",
+  "Author": "shy <1658347525@qq.com>",
+  "Contributor": "shy <1658347525@qq.com>",
+  "Website": "https://github.com/icy/pacapt",
+  "Update": "2023-01-01 13:16:19",
+  "Size": "13.67 KB",
+  "More": "pacapt是对apt等非pacman包管理器的简单封装\n安装了pacapt后，你就可以快乐地在非Arch系Linux上sudo pacman -Syu啦！\n\nto星火商店运营：上一版打包套娃了。。",
+  "Tags": "community;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/2e68be4f2a884cfa8c653429dc4e7c64.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/a3346935dd1c47a28003f06cc28089f3.png"
 }
 
 ,
@@ -2953,6 +2953,24 @@
 
 ,
 {
+  "Name": "MissionCenter 任务中心",
+  "Version": "0.6.2",
+  "Filename": "io.missioncenter.missioncenter_0.6.2_amd64.deb",
+  "Torrent_address": "io.missioncenter.missioncenter_0.6.2_amd64.deb.torrent",
+  "Pkgname": "io.missioncenter.missioncenter",
+  "Author": "-=Red-13=-",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "https://missioncenter.io/",
+  "Update": "2024-12-09 09:06:28",
+  "Size": "33.71 MB",
+  "More": "简洁、高效的系统资源监控工具",
+  "Tags": "community;ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/676c44fb614a40dcb619d66bac51f81c.png\",\"https://spk-json.spark-app.store/images/2024/12/09/a667609503f84fc1972dc48bfea5f325.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/09/c243f507b29d483fa984c41f38437e2e.png"
+}
+
+,
+{
   "Name": "deepin 计算器",
   "Version": "6.0.1",
   "Filename": "deepin-calculator_6.0.1_amd64.deb",
@@ -2985,24 +3003,6 @@
   "Tags": "community;ubuntu;deepin;uos;a2d;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/26522e341b95469988119147e14d057c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/08/c2fbb5c4b55b4b739acef706d1b2dff3.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/08/3cb1607e5d7c424ea3c7fbbc1407de64.png"
-}
-
-,
-{
-  "Name": "MissionCenter 任务中心",
-  "Version": "0.6.2",
-  "Filename": "io.missioncenter.missioncenter_0.6.2_amd64.deb",
-  "Torrent_address": "io.missioncenter.missioncenter_0.6.2_amd64.deb.torrent",
-  "Pkgname": "io.missioncenter.missioncenter",
-  "Author": "-=Red-13=-",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "https://missioncenter.io/",
-  "Update": "2024-12-09 09:06:28",
-  "Size": "33.71 MB",
-  "More": "简洁、高效的系统资源监控工具",
-  "Tags": "community;ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/676c44fb614a40dcb619d66bac51f81c.png\",\"https://spk-json.spark-app.store/images/2024/12/09/a667609503f84fc1972dc48bfea5f325.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2024/12/09/c243f507b29d483fa984c41f38437e2e.png"
 }
 
 ,
@@ -3431,6 +3431,23 @@
 
 ,
 {
+    "Name": "AmberCE deepin23",
+    "Version": "23.8.4",
+    "Filename": "amber-ce-deepin23_23.8.4_amd64.deb",
+    "Torrent_address": "amber-ce-deepin23_23.8.4_amd64.deb.torrent",
+    "Pkgname": "amber-ce-deepin23",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+    "Update": "2025-06-14 15:36:51",
+    "Size": "218.98 MB",
+    "More": "deepin 23的ACE\n通过deepin23-run启动\n\n首次安装后需要重启以展示已安装应用",
+    "Tags": "community;debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/7caccec9eca74c8cb0f09daebd4a3b38.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/6bbbe94db9fc46dfa9dcb7cd9956fe75.png"
+}
+,
+{
   "Name": "黑阈激活器",
   "Version": "2.2.1",
   "Filename": "io.gitee.brevent-enable-tool_2.2.1_amd64.deb",
@@ -3447,23 +3464,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/23/0d447084dca94781bb2e003644ac3e78.png"
 }
 
-,
-{
-    "Name": "AmberCE deepin23",
-    "Version": "23.8.4",
-    "Filename": "amber-ce-deepin23_23.8.4_amd64.deb",
-    "Torrent_address": "amber-ce-deepin23_23.8.4_amd64.deb.torrent",
-    "Pkgname": "amber-ce-deepin23",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "Update": "2025-06-14 15:36:51",
-    "Size": "218.98 MB",
-    "More": "deepin 23的ACE\n通过deepin23-run启动\n\n首次安装后需要重启以展示已安装应用",
-    "Tags": "community;debian;ubuntu;deepin;native",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/7caccec9eca74c8cb0f09daebd4a3b38.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/6bbbe94db9fc46dfa9dcb7cd9956fe75.png"
-}
 ,
 {
   "Name": "XCursor Viewer(光标查看器)",
@@ -3841,6 +3841,23 @@
 
 ,
 {
+    "Name": "ACE Trixie  兼容环境",
+    "Version": "13.8.4",
+    "Filename": "amber-ce-trixie_13.8.4_amd64.deb",
+    "Torrent_address": "amber-ce-trixie_13.8.4_amd64.deb.torrent",
+    "Pkgname": "amber-ce-trixie",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+    "Update": "2025-06-14 12:56:49",
+    "Size": "142.62 MB",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
+    "Tags": "community;debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/173ba8a22edf4060b7ff4fb1a3a2555a.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8214a82fbe05477d87485f7ebcb5688d.png"
+}
+,
+{
   "Name": "朗读女 (Wine)",
   "Version": "9.22",
   "Filename": "spark-wine-lln_9.22_all.deb",
@@ -3857,23 +3874,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/29/e0070aa0-7616-11ee-b02a-ffa67c89e541.png"
 }
 
-,
-{
-    "Name": "ACE Trixie  兼容环境",
-    "Version": "13.8.4",
-    "Filename": "amber-ce-trixie_13.8.4_amd64.deb",
-    "Torrent_address": "amber-ce-trixie_13.8.4_amd64.deb.torrent",
-    "Pkgname": "amber-ce-trixie",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "Update": "2025-06-14 12:56:49",
-    "Size": "142.62 MB",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
-    "Tags": "community;debian;ubuntu;deepin;native",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/173ba8a22edf4060b7ff4fb1a3a2555a.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8214a82fbe05477d87485f7ebcb5688d.png"
-}
 ,
 {
   "Name": "Sunshine",

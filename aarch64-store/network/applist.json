@@ -806,24 +806,6 @@
 }
 ,
 {
-  "Author": "haitai",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "htbrowser_5.0.0.20_arm64.deb",
-  "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
-  "Name": "红莲花安全浏览器",
-  "Pkgname": "htbrowser",
-  "Size": "75 Mb",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
-  "Update": "2023-03-05 18:53:57",
-  "Version": "5.0.0.20",
-  "Website": "http://www.haitaibrowser.net/",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
-}
-
-,
-{
     "Author": "AnyDesk Software GmbH <linux-support@anydesk.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "anydesk_6.4.2_arm64.deb",
@@ -838,6 +820,24 @@
     "Website": "https://anydesk.com/",
     "icons": "https://spk-json.spark-app.store/aarch64-store/network/anydesk/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/anydesk/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "haitai",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "htbrowser_5.0.0.20_arm64.deb",
+  "More": "红莲花安全浏览器是一款安全、专业、可靠、省心的浏览器",
+  "Name": "红莲花安全浏览器",
+  "Pkgname": "htbrowser",
+  "Size": "75 Mb",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "Torrent_address": "htbrowser_5.0.0.20_arm64.deb.torrent",
+  "Update": "2023-03-05 18:53:57",
+  "Version": "5.0.0.20",
+  "Website": "http://www.haitaibrowser.net/",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
 }
 
 ,
@@ -860,6 +860,21 @@
 
 ,
 {
+    "Name": "哔哩下载姬(跨平台版)",
+    "Author": "28655758+yaobiao131@users.noreply.github.com",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
+    "Pkgname": "downkyi",
+    "Version": "1.0.20",
+    "Filename": "downkyi_1.0.20_arm64.deb",
+    "Update": "2025-05-11 01:43:14",
+    "Size": "39.00MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Author": "linglongsha <499918911@qq.com>",
   "Contributor": "linglongsha <499918911@qq.com>",
   "Filename": "com.github.floorp_11.22.0_arm64.deb",
@@ -876,21 +891,6 @@
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.github.floorp/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "哔哩下载姬(跨平台版)",
-    "Author": "28655758+yaobiao131@users.noreply.github.com",
-    "Website": "https://github.com/yaobiao131/downkyicore",
-    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
-    "Pkgname": "downkyi",
-    "Version": "1.0.20",
-    "Filename": "downkyi_1.0.20_arm64.deb",
-    "Update": "2025-05-11 01:43:14",
-    "Size": "39.00MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Author": "Oray <dev@oray.com>",
@@ -1109,6 +1109,24 @@
 
 ,
 {
+    "Author": "help@todesk.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "todeskhost_2.0.3.2_arm64.deb",
+    "More": "全功能版被控端，可直接访问，适用于远程办公/无人值守场景",
+    "Name": "ToDesk企业版被控端",
+    "Pkgname": "todeskhost",
+    "Size": "27 Mb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "todeskhost_2.0.3.2_arm64.deb.torrent",
+    "Update": "2025-03-14 22:26:52",
+    "Version": "2.0.3.2",
+    "Website": "https://www.todesk.com",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/network/todeskhost/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/todeskhost/screen_1.png\"]"
+}
+
+,
+{
   "Name": "ODE 多功能助手",
   "Version": "0.8.4",
   "Filename": "com.ode.deepin_0.8.4_all.deb",
@@ -1141,24 +1159,6 @@
   "Tags": "deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
-}
-
-,
-{
-    "Author": "help@todesk.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "todeskhost_2.0.3.2_arm64.deb",
-    "More": "全功能版被控端，可直接访问，适用于远程办公/无人值守场景",
-    "Name": "ToDesk企业版被控端",
-    "Pkgname": "todeskhost",
-    "Size": "27 Mb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "todeskhost_2.0.3.2_arm64.deb.torrent",
-    "Update": "2025-03-14 22:26:52",
-    "Version": "2.0.3.2",
-    "Website": "https://www.todesk.com",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/network/todeskhost/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/todeskhost/screen_1.png\"]"
 }
 
 ,
