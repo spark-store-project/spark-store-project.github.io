@@ -1608,6 +1608,19 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/reading/com.pdfgear/screen_1.png\"]"
     },
     {
+      "Name": "Foliate",
+      "Author": "John Factotum",
+      "Website": "https://johnfactotum.github.io/foliate/",
+      "More": "Foliate是一个使用GJS和 Epub.js构建的开源GTK电子书阅读器，具有简单而现代的用户界面",
+      "Tags": "debian;deepin;ubuntu;uos",
+      "Pkgname": "foliate",
+      "Version": "3.2.1",
+      "Filename": "foliate_3.2.1_loong64.deb",
+      "Update": "2025-03-07 21:14:19",
+      "Size": "3.38MB",
+      "Contributor": "https://gitee.com/spark-building-service/github"
+    },
+    {
       "Author": "海天鹰 <sonichy@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.htypdf.spark_1.0_loong64.deb",
@@ -1622,19 +1635,6 @@
       "Website": "https://github.com/sonichy/HTYPDF",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/reading/com.htypdf.spark/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/reading/com.htypdf.spark/screen_1.png\"]"
-    },
-    {
-      "Name": "Foliate",
-      "Author": "John Factotum",
-      "Website": "https://johnfactotum.github.io/foliate/",
-      "More": "Foliate是一个使用GJS和 Epub.js构建的开源GTK电子书阅读器，具有简单而现代的用户界面",
-      "Tags": "debian;deepin;ubuntu;uos",
-      "Pkgname": "foliate",
-      "Version": "3.2.1",
-      "Filename": "foliate_3.2.1_loong64.deb",
-      "Update": "2025-03-07 21:14:19",
-      "Size": "3.38MB",
-      "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
       "Author": "sgb76 <sgb76@163.com>",
@@ -6409,22 +6409,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/07/51beef006de54340bd85261537aa15a9.png"
     },
     {
-      "Author": "sgb76 <sgb76@163.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.xunlei.spark_11.4.8.2122spark3_all.deb",
-      "More": "更快！但不止于快！",
-      "Name": "迅雷（wine）",
-      "Pkgname": "com.xunlei.spark",
-      "Size": "534 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "com.xunlei.spark_11.4.8.2122spark3_all.deb.torrent",
-      "Update": "2024-05-18 21:58:44",
-      "Version": "11.4.8.2122spark3",
-      "Website": "https://www.xunlei.com/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_3.png\"]"
-    },
-    {
       "Author": "lidan06 <lidan06@baidu.com>",
       "Contributor": "lidan06 <lidan06@baidu.com>",
       "Filename": "com.baidu.baidunetdisk_4.17.7_loong64.deb",
@@ -6439,6 +6423,22 @@
       "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
       "icons": "https://spk-json.spark-app.store/loong64-store/network/com.baidu.baidunetdisk/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/network/com.baidu.baidunetdisk/screen_1.png\"]"
+    },
+    {
+      "Author": "sgb76 <sgb76@163.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.xunlei.spark_11.4.8.2122spark3_all.deb",
+      "More": "更快！但不止于快！",
+      "Name": "迅雷（wine）",
+      "Pkgname": "com.xunlei.spark",
+      "Size": "534 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "com.xunlei.spark_11.4.8.2122spark3_all.deb.torrent",
+      "Update": "2024-05-18 21:58:44",
+      "Version": "11.4.8.2122spark3",
+      "Website": "https://www.xunlei.com/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.xunlei.spark/screen_3.png\"]"
     },
     {
       "Author": "Qaxbrowser Team <qaxbrowser@qianxin.com>",

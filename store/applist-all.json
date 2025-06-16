@@ -3954,6 +3954,22 @@
       "Tags": "debian;native"
     },
     {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-25-upgrader_1.1.5_all.deb",
+      "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
+      "Name": "GXDE 2025 升级工具",
+      "Pkgname": "gxde-25-upgrader",
+      "Size": "1217 Kb",
+      "Tags": "community;debian;native",
+      "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
+      "Update": "2025-05-11 23:20:45",
+      "Version": "1.1.5",
+      "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
+      "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+    },
+    {
       "Name": "小说助手",
       "Version": "1.0.1",
       "Filename": "epub-tool_1.0.1_amd64.deb",
@@ -4047,22 +4063,6 @@
       "Tags": "ubuntu;deepin;uos;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/5e7ce55ba35a4066a240a4db9d788b61.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/d8ff081d08f84c759f18c0363ddd3fd1.png"
-    },
-    {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-25-upgrader_1.1.5_all.deb",
-      "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
-      "Name": "GXDE 2025 升级工具",
-      "Pkgname": "gxde-25-upgrader",
-      "Size": "1217 Kb",
-      "Tags": "community;debian;native",
-      "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
-      "Update": "2025-05-11 23:20:45",
-      "Version": "1.1.5",
-      "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
-      "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
     },
     {
       "Author": "Martijn van Brummelen <mvb@debian.org>",
@@ -8602,22 +8602,6 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/01/24/6947ba38e51a47ffaafbc6d8f9dd9ab8.png"
     },
     {
-      "Author": "spark-store",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "org.musescore.spark_4.1.0.231921359_amd64.deb",
-      "More": "一款用于创建、播放、打印乐谱的实用工具",
-      "Name": "MuseScore",
-      "Pkgname": "org.musescore.spark",
-      "Size": "132 Mb",
-      "Tags": "deepin;uos;ubuntu;a2d;debian",
-      "Torrent_address": "org.musescore.spark_4.1.0.231921359_amd64.deb.torrent",
-      "Update": "2023-07-18 17:23:14",
-      "Version": "4.1.0.231921359",
-      "Website": "https://musescore.org/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_2.png\"]"
-    },
-    {
       "Name": "汽水音乐",
       "Version": "2.2.1spark0",
       "Filename": "com.qishui.spark_2.2.1spark0_all.deb",
@@ -8632,6 +8616,22 @@
       "Tags": "deepin;uos;dwine5",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/13/b7c5963b56ac4e0db48e01cbb097ef0d.png\",\"https://spk-json.spark-app.store/images/2025/05/13/2f0ef5aa73f949ef87390de806c0c09a.png\",\"https://spk-json.spark-app.store/images/2025/05/13/b70eb1850f124e1593250aaee0499c6a.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/05/13/42568e5594404be7a08ec032804470b0.png"
+    },
+    {
+      "Author": "spark-store",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "org.musescore.spark_4.1.0.231921359_amd64.deb",
+      "More": "一款用于创建、播放、打印乐谱的实用工具",
+      "Name": "MuseScore",
+      "Pkgname": "org.musescore.spark",
+      "Size": "132 Mb",
+      "Tags": "deepin;uos;ubuntu;a2d;debian",
+      "Torrent_address": "org.musescore.spark_4.1.0.231921359_amd64.deb.torrent",
+      "Update": "2023-07-18 17:23:14",
+      "Version": "4.1.0.231921359",
+      "Website": "https://musescore.org/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/org.musescore.spark/screen_2.png\"]"
     },
     {
       "Name": "哔哔音乐",
@@ -15989,22 +15989,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/757017a5a5ac46f6829cb6732027168f.png"
     },
     {
-      "Name": "马克思·佩恩2",
-      "Version": "1.0spark2",
-      "Filename": "com.maxpayne2.spark_1.0spark2_all.deb",
-      "Torrent_address": "com.maxpayne2.spark_1.0spark2_all.deb.torrent",
-      "Pkgname": "com.maxpayne2.spark",
-      "Author": "Remedy Entertainment",
-      "Contributor": "sgb76",
-      "Website": "no",
-      "Update": "2025-04-15 00:41:47",
-      "Size": "1.16 GB",
-      "More": "一款第三人称射击游戏\n\n--说明--\n1.运行汉化版，请在游戏开始的设置界面，点开最下方的“Choose Customized Game”选项，选择汉化后再运行即为中文汉化版\n2.游戏安装运行后，如出现游戏画面放大等问题，请查看星火应用的缩放系数，将游戏的缩放系数调整为1.0，或者前往/home/用户名/.deepinwine/Spark-maxpayne2目录下，打开scale.txt文件，将数值修改为1.0",
-      "Tags": "debian;deepin;uos;dwine5",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/15/632c7a7d9c91479aae7e5a4c0724e38d.png\",\"https://spk-json.spark-app.store/images/2025/04/15/601c98451fb145f08102a4833e80d3cb.png\",\"https://spk-json.spark-app.store/images/2025/04/15/da3ed1bbefc14985a8fa2a604616f0ec.png\",\"https://spk-json.spark-app.store/images/2025/04/15/89a1fc1cedd84b25a71072d8fd3303de.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/04/15/17bcf3c9f72746b5a4fda562b94f5904.png"
-    },
-    {
       "Name": "ePSXe模拟器(wine)",
       "Version": "1.0",
       "Filename": "spark-wine-epsxe_1.0_i386.deb",
@@ -16019,6 +16003,22 @@
       "Tags": "debian;deepin;dwine5;ubuntu;uos",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/303166d7f60d4be0af43d70d1d62aca7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/b4560e46776448ccab7c0b60ac218bc3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/43db5bf55c1e45cb9656db73268aae2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/8d1b3d9cc497413fbd28d33aa0e22f1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/23/0c0033acc9a148dbbd3208d761639708.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/23/b19909ff59d74cb9a3366db2d62ff3f3.png"
+    },
+    {
+      "Name": "马克思·佩恩2",
+      "Version": "1.0spark2",
+      "Filename": "com.maxpayne2.spark_1.0spark2_all.deb",
+      "Torrent_address": "com.maxpayne2.spark_1.0spark2_all.deb.torrent",
+      "Pkgname": "com.maxpayne2.spark",
+      "Author": "Remedy Entertainment",
+      "Contributor": "sgb76",
+      "Website": "no",
+      "Update": "2025-04-15 00:41:47",
+      "Size": "1.16 GB",
+      "More": "一款第三人称射击游戏\n\n--说明--\n1.运行汉化版，请在游戏开始的设置界面，点开最下方的“Choose Customized Game”选项，选择汉化后再运行即为中文汉化版\n2.游戏安装运行后，如出现游戏画面放大等问题，请查看星火应用的缩放系数，将游戏的缩放系数调整为1.0，或者前往/home/用户名/.deepinwine/Spark-maxpayne2目录下，打开scale.txt文件，将数值修改为1.0",
+      "Tags": "debian;deepin;uos;dwine5",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/15/632c7a7d9c91479aae7e5a4c0724e38d.png\",\"https://spk-json.spark-app.store/images/2025/04/15/601c98451fb145f08102a4833e80d3cb.png\",\"https://spk-json.spark-app.store/images/2025/04/15/da3ed1bbefc14985a8fa2a604616f0ec.png\",\"https://spk-json.spark-app.store/images/2025/04/15/89a1fc1cedd84b25a71072d8fd3303de.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/04/15/17bcf3c9f72746b5a4fda562b94f5904.png"
     },
     {
       "Author": "杀毒软件吧，六指书生",
@@ -25202,21 +25202,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
     },
     {
-      "Name": "IT之家（web）",
-      "Version": "1.0spark0",
-      "Filename": "web-ithome-spark_1.0spark0_amd64.deb",
-      "Pkgname": "web-ithome-spark",
-      "Author": "软媒",
-      "Contributor": "Anysets",
-      "Website": "www.ithome.com",
-      "Update": "2021-01-01 09:39:36",
-      "Size": "1.98 KB",
-      "More": "IT之家 - 数码，科技，生活 - 软媒旗下\n\n通过星火网页应用运行环境打包。",
-      "Tags": "deepin",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
-    },
-    {
       "Name": "qBittorrent",
       "Version": "5.0.4.10",
       "Filename": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb",
@@ -25231,6 +25216,21 @@
       "Tags": "community;debian;ubuntu;deepin;uos",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/07/bcb2f2ddb5554d6e8c295fc52859e0a4.png\",\"https://spk-json.spark-app.store/images/2025/04/07/443772c9989d49df9f10e5cebd9e1d8e.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/04/07/d3a334cf057c48f6ac60f93f9c527f1b.png"
+    },
+    {
+      "Name": "IT之家（web）",
+      "Version": "1.0spark0",
+      "Filename": "web-ithome-spark_1.0spark0_amd64.deb",
+      "Pkgname": "web-ithome-spark",
+      "Author": "软媒",
+      "Contributor": "Anysets",
+      "Website": "www.ithome.com",
+      "Update": "2021-01-01 09:39:36",
+      "Size": "1.98 KB",
+      "More": "IT之家 - 数码，科技，生活 - 软媒旗下\n\n通过星火网页应用运行环境打包。",
+      "Tags": "deepin",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/01/38818a90-4c15-11eb-b2ef-29b020fa4a6b.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/01/301f3d70-4c15-11eb-b2ef-29b020fa4a6b.png"
     },
     {
       "Name": "方德浏览器",
