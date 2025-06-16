@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="suyu_0.0.3-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">aa1533855a639e280a2a818475d27170</hash>
+				  
+				<hash type="sha1">ebb734e6da7865f12bbe5ec71e99090b5d4f8b22</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./games/suyu/suyu_0.0.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./games/suyu/suyu_0.0.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./games/suyu/suyu_0.0.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./games/suyu/suyu_0.0.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./games/suyu/suyu_0.0.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./games/suyu/suyu_0.0.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./games/suyu/suyu_0.0.3-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

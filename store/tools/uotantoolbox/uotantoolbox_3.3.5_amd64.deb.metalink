@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uotantoolbox_3.3.5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d7852a5077a96119c21af209c2e9aeca</hash>
+				  
+				<hash type="sha1">379e203028f10b3ea940fe7db2bf0bdf253ec688</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/uotantoolbox/uotantoolbox_3.3.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/uotantoolbox/uotantoolbox_3.3.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/uotantoolbox/uotantoolbox_3.3.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/uotantoolbox/uotantoolbox_3.3.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/uotantoolbox/uotantoolbox_3.3.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/uotantoolbox/uotantoolbox_3.3.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/uotantoolbox/uotantoolbox_3.3.5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

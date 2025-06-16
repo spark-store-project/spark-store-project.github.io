@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-webapp-runtime_1.8_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">52da0012710f51a1eee5b6448d58b2db</hash>
+				  
+				<hash type="sha1">5f6067e273337364fbb30401f7255a22f6c8c50b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./depends/swrt/spark-webapp-runtime_1.8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./depends/swrt/spark-webapp-runtime_1.8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./depends/swrt/spark-webapp-runtime_1.8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./depends/swrt/spark-webapp-runtime_1.8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./depends/swrt/spark-webapp-runtime_1.8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./depends/swrt/spark-webapp-runtime_1.8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./depends/swrt/spark-webapp-runtime_1.8_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="youdao-dict_6.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1316bf270b0a64d62b802ebf2f8eff7a</hash>
+				  
+				<hash type="sha1">9eb171f20047d86e7a2a007ff20e06222765dc63</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./reading/youdao-dict/youdao-dict_6.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./reading/youdao-dict/youdao-dict_6.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./reading/youdao-dict/youdao-dict_6.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./reading/youdao-dict/youdao-dict_6.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./reading/youdao-dict/youdao-dict_6.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./reading/youdao-dict/youdao-dict_6.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./reading/youdao-dict/youdao-dict_6.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

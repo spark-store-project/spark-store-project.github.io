@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="codex_2.0.0-beta.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5911ceb9fe0e61fd154e044ddc5e532b</hash>
+				  
+				<hash type="sha1">fec5b0cb9baa08bc9ec45c7a0fa7882d329e8074</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./office/codex/codex_2.0.0-beta.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./office/codex/codex_2.0.0-beta.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./office/codex/codex_2.0.0-beta.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./office/codex/codex_2.0.0-beta.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./office/codex/codex_2.0.0-beta.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./office/codex/codex_2.0.0-beta.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./office/codex/codex_2.0.0-beta.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

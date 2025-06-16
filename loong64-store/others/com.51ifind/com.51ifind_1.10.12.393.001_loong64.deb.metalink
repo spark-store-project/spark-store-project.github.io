@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.51ifind_1.10.12.393.001_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">082c8a34a52b6d686b253083cca1e985</hash>
+				  
+				<hash type="sha1">5d91620b71d20050416cb2104bfd1d2fe53f3014</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="box64_0.2.7-20240429_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1c5a7c8c880261a01fb65d1a4db2eb5f</hash>
+				  
+				<hash type="sha1">8fbc78fe2a025e9bcf7bc1fa8a3a47cf88b96049</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./depends/box64/box64_0.2.7-20240429_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./depends/box64/box64_0.2.7-20240429_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./depends/box64/box64_0.2.7-20240429_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./depends/box64/box64_0.2.7-20240429_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./depends/box64/box64_0.2.7-20240429_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./depends/box64/box64_0.2.7-20240429_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./depends/box64/box64_0.2.7-20240429_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

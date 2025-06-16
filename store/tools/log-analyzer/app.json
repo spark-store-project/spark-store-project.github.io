@@ -1,0 +1,16 @@
+{
+  "Name": "日志分析器",
+  "Version": "0.0.1-20250430",
+  "Filename": "log-analyzer_0.0.1-20250430_amd64.deb",
+  "Torrent_address": "log-analyzer_0.0.1-20250430_amd64.deb.torrent",
+  "Pkgname": "log-analyzer",
+  "Author": "Individual developer <packages@email.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/qt.log-analyzer.git",
+  "Update": "2025-04-30 10:58:48",
+  "Size": "190.22 KB",
+  "More": "使命: 为 Android Framework 日志分析而设计\n\n基本使用\n1. Open 目录或拖入 log 文件或粘贴日志内容\n2. 新增匹配或选中内容添加以过滤匹配项\n3. 反向过滤则单独显示右侧匹配项\n\n起点可自行设置匹配词\n1. 例如日期时间\n2. 某特定关键词\n3. 勾选反向则从尾向前搜索，命中时设置为起点\n结束与起点同理，一般在明确范围后进行使用。\n\n可拓扑日志，全选已命中日志后转向粘贴日志，进行二阶段处理。\n反向过滤时可对匹配项进行 “屏蔽” 来达到在命中大范围时过滤不需要的内容。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/30/c78980a5f29a40fd931d83b111671d95.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/30/3f83f840f7e541c5b20d785519e3df6b.png"
+}

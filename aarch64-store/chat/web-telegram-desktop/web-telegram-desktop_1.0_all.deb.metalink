@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="web-telegram-desktop_1.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">95b8474ef91691548a4ebc23c1a45112</hash>
+				  
+				<hash type="sha1">aa2f777273cfa41658cbbb9d165c19d0a00c17dd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./chat/web-telegram-desktop/web-telegram-desktop_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./chat/web-telegram-desktop/web-telegram-desktop_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./chat/web-telegram-desktop/web-telegram-desktop_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./chat/web-telegram-desktop/web-telegram-desktop_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./chat/web-telegram-desktop/web-telegram-desktop_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./chat/web-telegram-desktop/web-telegram-desktop_1.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./chat/web-telegram-desktop/web-telegram-desktop_1.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

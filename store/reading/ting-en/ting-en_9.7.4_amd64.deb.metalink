@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ting-en_9.7.4_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5b85700bc6d1360d64495e4129e4cdfe</hash>
+				  
+				<hash type="sha1">dfd53f9b48ef90e940d957d74df46edf27a634ee</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./reading/ting-en/ting-en_9.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./reading/ting-en/ting-en_9.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./reading/ting-en/ting-en_9.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./reading/ting-en/ting-en_9.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./reading/ting-en/ting-en_9.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./reading/ting-en/ting-en_9.7.4_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./reading/ting-en/ting-en_9.7.4_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

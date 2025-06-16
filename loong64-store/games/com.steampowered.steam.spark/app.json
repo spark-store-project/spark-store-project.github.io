@@ -1,0 +1,16 @@
+{
+    "Author": "Spark WINE Team <unknown@spark-app.store>",
+    "Contributor": "Spark WINE Team <unknown@spark-app.store>",
+    "Filename": "com.steampowered.steam.spark_1.0-20250503spark1_all.deb",
+    "More": "Steam Client on Wine Proton 9.\n\n使用 Wine-Proton 9.0-4 运行的 Steam 客户端，容器内添加了 dxvk-2.5.3 以及 vkd3d-proton-2.14.1，可以正常安装运行部分 DX11 游戏（e.g. 光明记忆）以及 DX9 游戏（e.g. 黑山起源）；DX12 游戏暂不支持。\n\n说明：\n1. 由于 latx 目前仅能加载 32 位 cef，容器内 Windows 版本为 Windows 7，Steam 客户端将提示不再支持\n2. 如调整容器为 Windows 10 及以上版本，将导致 steamwebhelper.exe 自动加载 64 位 cef，循环崩溃启动导致无法正常启动（-cef-force-32bit 启动参数无效）\n\n可使用以下邪道方式在 Windows 10 及以上版本容器内运行 Steam：\n1. 安装 box64（需要 4K 分页内核支持），并删除 latx-x86_64 的 binfmt 配置文件，重启 systemd-binfmt 服务；此时运行 wine 应用将调用 box64 运行 64 位程序，实测可以正常运行 64 位 cef\n2. 从终端启动 Steam，在观察到日志循环打印 \"cef.win7x64\" 启动失败等信息后（此时 steamwebhelper.exe 将循环重启，CPU 占用很高），进入容器内 \"C:\\Program Files (x86)\\Steam\\bin\\cef\" 文件夹，移除 \"cef.win7x64\" 文件夹，并将 \"cef.win7\" 文件夹复制为 \"cef.win7x64\"，骗过 Steam 以启动 32 位 cef（由于 Steam 启动自动检查文件完整性，建议使用结束后及时还原）\n",
+    "Name": "Steam (Proton)",
+    "Pkgname": "com.steampowered.steam.spark",
+    "Size": "800 Mb",
+    "Tags": "deepin;dwine5",
+    "Torrent_address": "com.steampowered.steam.spark_1.0-20250503spark1_all.deb.torrent",
+    "Update": "2025-05-05 11:09:35",
+    "Version": "1.0-20250503spark1",
+    "Website": "https://store.steampowered.com/",
+    "icons": "https://spk-json.spark-app.store/loong64-store/games/com.steampowered.steam.spark/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/com.steampowered.steam.spark/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/com.steampowered.steam.spark/screen_2.png\"]"
+}

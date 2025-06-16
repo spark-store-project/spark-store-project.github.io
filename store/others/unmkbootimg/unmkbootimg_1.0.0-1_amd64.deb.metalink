@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="unmkbootimg_1.0.0-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a82249ed7349d21b1b09131d42baad32</hash>
+				  
+				<hash type="sha1">e12fcc1beddf732eab95115ea30f4712360ad2dc</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./others/unmkbootimg/unmkbootimg_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./others/unmkbootimg/unmkbootimg_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./others/unmkbootimg/unmkbootimg_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./others/unmkbootimg/unmkbootimg_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./others/unmkbootimg/unmkbootimg_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./others/unmkbootimg/unmkbootimg_1.0.0-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./others/unmkbootimg/unmkbootimg_1.0.0-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

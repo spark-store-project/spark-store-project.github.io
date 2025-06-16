@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.igv_2.8.2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7f9d357ae2747b269a5e07aeb555867c</hash>
+				  
+				<hash type="sha1">392b54b9c914e5566f27505afc383250e7008da9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./others/org.igv/org.igv_2.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./others/org.igv/org.igv_2.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./others/org.igv/org.igv_2.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./others/org.igv/org.igv_2.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./others/org.igv/org.igv_2.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./others/org.igv/org.igv_2.8.2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./others/org.igv/org.igv_2.8.2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

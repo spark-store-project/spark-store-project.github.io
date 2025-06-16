@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libgrpc_plus__plus_1_1.16.1-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e81e96ddb8ad327730ea88a72b103183</hash>
+				  
+				<hash type="sha1">7e9d03581d00295c95022575e48b784802c26a73</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./depends/iflytek/libgrpc_plus__plus_1_1.16.1-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./depends/iflytek/libgrpc_plus__plus_1_1.16.1-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./depends/iflytek/libgrpc_plus__plus_1_1.16.1-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./depends/iflytek/libgrpc_plus__plus_1_1.16.1-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./depends/iflytek/libgrpc_plus__plus_1_1.16.1-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./depends/iflytek/libgrpc_plus__plus_1_1.16.1-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./depends/iflytek/libgrpc_plus__plus_1_1.16.1-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

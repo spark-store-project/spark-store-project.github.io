@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="haroopad_0.13.1.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7a040fac582ec880f29414700bc91d13</hash>
+				  
+				<hash type="sha1">835b2ef0849c0fc96d89d002d7d58bc01c6af7a2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./office/haroopad/haroopad_0.13.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./office/haroopad/haroopad_0.13.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./office/haroopad/haroopad_0.13.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./office/haroopad/haroopad_0.13.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./office/haroopad/haroopad_0.13.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./office/haroopad/haroopad_0.13.1.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./office/haroopad/haroopad_0.13.1.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

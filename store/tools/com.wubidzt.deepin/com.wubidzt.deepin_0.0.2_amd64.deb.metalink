@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.wubidzt.deepin_0.0.2_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">5e8d30b4405dae61b3d2427acb3f13e3</hash>
+				  
+				<hash type="sha1">9170d9a36073f5f335a97d2733824ca8a17eee9e</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/com.wubidzt.deepin/com.wubidzt.deepin_0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/com.wubidzt.deepin/com.wubidzt.deepin_0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/com.wubidzt.deepin/com.wubidzt.deepin_0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/com.wubidzt.deepin/com.wubidzt.deepin_0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/com.wubidzt.deepin/com.wubidzt.deepin_0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/com.wubidzt.deepin/com.wubidzt.deepin_0.0.2_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/com.wubidzt.deepin/com.wubidzt.deepin_0.0.2_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

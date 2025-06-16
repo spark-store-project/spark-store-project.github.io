@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="rlinux_6.3.191253_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bcc22f19d20283b5516b1ee916e5b54a</hash>
+				  
+				<hash type="sha1">cb62ffdaec688d458ae9f15be13efdc774ee91cb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./others/rlinux/rlinux_6.3.191253_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./others/rlinux/rlinux_6.3.191253_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./others/rlinux/rlinux_6.3.191253_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./others/rlinux/rlinux_6.3.191253_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./others/rlinux/rlinux_6.3.191253_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./others/rlinux/rlinux_6.3.191253_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./others/rlinux/rlinux_6.3.191253_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

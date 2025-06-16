@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="flameshot_12.1.0-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f12c6170b067d8137fcc6cb9dfa4de9d</hash>
+				  
+				<hash type="sha1">2a8af2e95c048721e9211070d3e12999f27aa348</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./image_graphics/flameshot/flameshot_12.1.0-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./image_graphics/flameshot/flameshot_12.1.0-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./image_graphics/flameshot/flameshot_12.1.0-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./image_graphics/flameshot/flameshot_12.1.0-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./image_graphics/flameshot/flameshot_12.1.0-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./image_graphics/flameshot/flameshot_12.1.0-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./image_graphics/flameshot/flameshot_12.1.0-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+  "Author": "Luoyaoming <luoyaoming@kylinos.cn>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "kmre_3.0.0.0gxde1_arm64.deb",
+  "More": "麒麟移动运行环境，简称KMRE，旨在将丰富的Android应用生态迁移到Linux桌面操作系统上，提供桌面化的操作体验。本项目为麒麟软件维护的对KMRE支持的仓库，主要包含了Linux侧和Android侧的修改支持，其余组件直接从上游AOSP仓库拉取。\n\n此为虚包，目前只支持GXDE和麒麟，暂不支持小小电脑、 termux、chroot 等，安装时会自动安装系统源里的 kmre\n重启后即可使用（如果没有出现错误的话）",
+  "Name": "Kmre 安卓模拟器（GXDE/麒麟）",
+  "Pkgname": "kmre",
+  "Size": "1 Kb",
+  "Tags": "community;ubuntu;debian;native",
+  "Torrent_address": "kmre_3.0.0.0gxde1_arm64.deb.torrent",
+  "Update": "2025-01-11 13:43:45",
+  "Version": "3.0.0.0gxde1",
+  "Website": "https://gitee.com/GXDE-OS/kmre",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/kmre/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_2.png\"]"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f50de972f118cd0d1c2d3e2bf7029c50</hash>
+				  
+				<hash type="sha1">f1c55a8fd77538aa52ad357413518d5729f6a7a3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./depends/qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./depends/qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./depends/qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./depends/qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./depends/qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./depends/qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./depends/qt5.15gles-extra.runtime.szbt_5.15.10_plus_szbt5_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

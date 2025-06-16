@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="xdroid-installer_9.0.15_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">df72b50dccc1b717e76e1122b40c2281</hash>
+				  
+				<hash type="sha1">e36c0c32c77176e0ff073a3236018bdaadec3d8f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/xdroid-installer/xdroid-installer_9.0.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/xdroid-installer/xdroid-installer_9.0.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/xdroid-installer/xdroid-installer_9.0.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/xdroid-installer/xdroid-installer_9.0.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/xdroid-installer/xdroid-installer_9.0.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/xdroid-installer/xdroid-installer_9.0.15_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/xdroid-installer/xdroid-installer_9.0.15_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

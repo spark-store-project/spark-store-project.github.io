@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="audacity-data_2.4.2_dfsg0-3_obs_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9bba8bf44183bf5af0520d4b5f91ee1a</hash>
+				  
+				<hash type="sha1">e3daad65de2a6beae9fb964ea21f44a73048e38f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./depends/audacity/audacity-data_2.4.2_dfsg0-3_obs_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./depends/audacity/audacity-data_2.4.2_dfsg0-3_obs_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./depends/audacity/audacity-data_2.4.2_dfsg0-3_obs_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./depends/audacity/audacity-data_2.4.2_dfsg0-3_obs_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./depends/audacity/audacity-data_2.4.2_dfsg0-3_obs_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./depends/audacity/audacity-data_2.4.2_dfsg0-3_obs_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./depends/audacity/audacity-data_2.4.2_dfsg0-3_obs_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

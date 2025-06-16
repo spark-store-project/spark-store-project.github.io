@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libcdio18_2.0.0-3_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4206ce486120d876e31b5f5381fb0d95</hash>
+				  
+				<hash type="sha1">a23c8acd81522fd1e2a9e0081a91e608367cc9bb</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./depends/libmpv1/libcdio18_2.0.0-3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./depends/libmpv1/libcdio18_2.0.0-3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./depends/libmpv1/libcdio18_2.0.0-3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./depends/libmpv1/libcdio18_2.0.0-3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./depends/libmpv1/libcdio18_2.0.0-3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./depends/libmpv1/libcdio18_2.0.0-3_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./depends/libmpv1/libcdio18_2.0.0-3_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

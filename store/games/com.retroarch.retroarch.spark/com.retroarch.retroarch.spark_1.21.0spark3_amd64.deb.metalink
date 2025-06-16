@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">28e4d2c1fab5ebfc30efb3a342aa3552</hash>
+				  
+				<hash type="sha1">d1eff5a19e23761d3cc1eb55fba76348148dcebe</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./games/com.retroarch.retroarch.spark/com.retroarch.retroarch.spark_1.21.0spark3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

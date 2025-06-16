@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="apt-is-aptss_1.0.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">832d162cfbb3c1417b8d0c1490bbf9ea</hash>
+				  
+				<hash type="sha1">667109924b1da051c4014dafd6c4f730424334f8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./depends/apt-is-aptss_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./depends/apt-is-aptss_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./depends/apt-is-aptss_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./depends/apt-is-aptss_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./depends/apt-is-aptss_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./depends/apt-is-aptss_1.0.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./depends/apt-is-aptss_1.0.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.360.epp_10.0.0.6278_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">51ad581cddbdd31da1a97a27446c6bce</hash>
+				  
+				<hash type="sha1">f46a182e231f5b615ca62ce4a84905018c4bf96d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/com.360.epp/com.360.epp_10.0.0.6278_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/com.360.epp/com.360.epp_10.0.0.6278_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/com.360.epp/com.360.epp_10.0.0.6278_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/com.360.epp/com.360.epp_10.0.0.6278_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/com.360.epp/com.360.epp_10.0.0.6278_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/com.360.epp/com.360.epp_10.0.0.6278_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/com.360.epp/com.360.epp_10.0.0.6278_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

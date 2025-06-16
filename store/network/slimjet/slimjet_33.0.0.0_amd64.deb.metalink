@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="slimjet_33.0.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2c3009237d3028af33ba1d93c5ceae66</hash>
+				  
+				<hash type="sha1">e79c01186e919133cb3b05417a20264ba4f53f70</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/slimjet/slimjet_33.0.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/slimjet/slimjet_33.0.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/slimjet/slimjet_33.0.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/slimjet/slimjet_33.0.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/slimjet/slimjet_33.0.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/slimjet/slimjet_33.0.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/slimjet/slimjet_33.0.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

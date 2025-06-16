@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="amber-ce-deepin23_23.7.0-fix1_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e09d56ab3bf3c8ff69b371737791734c</hash>
+				  
+				<hash type="sha1">4e3cdb1abbce2158f63cb42e44ac6b56e665f141</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./tools/amber-ce-deepin23/amber-ce-deepin23_23.7.0-fix1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./tools/amber-ce-deepin23/amber-ce-deepin23_23.7.0-fix1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./tools/amber-ce-deepin23/amber-ce-deepin23_23.7.0-fix1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./tools/amber-ce-deepin23/amber-ce-deepin23_23.7.0-fix1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./tools/amber-ce-deepin23/amber-ce-deepin23_23.7.0-fix1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./tools/amber-ce-deepin23/amber-ce-deepin23_23.7.0-fix1_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./tools/amber-ce-deepin23/amber-ce-deepin23_23.7.0-fix1_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f6bb6d3fd60b9b3b67e46f35a1a0599f</hash>
+				  
+				<hash type="sha1">8f4f009170ed6641aaa9f2ef4193f72c8ecd5205</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./depends/python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./depends/python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./depends/python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./depends/python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./depends/python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./depends/python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./depends/python311.runtime.szbt_3.11.6_plus_szbt1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

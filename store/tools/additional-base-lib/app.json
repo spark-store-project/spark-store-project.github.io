@@ -1,0 +1,16 @@
+{
+  "Name": "附加基础库 Additional Base Lib",
+  "Version": "2.41-8-9",
+  "Filename": "additional-base-lib_2.41-8-9_amd64.deb",
+  "Torrent_address": "additional-base-lib_2.41-8-9_amd64.deb.torrent",
+  "Pkgname": "additional-base-lib",
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <shenmo@spark-app.store>",
+  "Website": "https://gitee.com/spark-store-project/additional-base-lib",
+  "Update": "2025-05-18 17:40:01",
+  "Size": "3.2M",
+  "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+  "Tags": "ubuntu;deepin;uos;debian;community;native",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
+}

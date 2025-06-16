@@ -1,0 +1,16 @@
+{
+  "Name": "QQ 违规文件 MD5 修改器",
+  "Version": "0.0.1-20241216",
+  "Filename": "qq-file-md5-modifier_0.0.1-20241216_amd64.deb",
+  "Torrent_address": "qq-file-md5-modifier_0.0.1-20241216_amd64.deb.torrent",
+  "Pkgname": "qq-file-md5-modifier",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/qt.qq-file-md5-modifier",
+  "Update": "2024-12-16 17:08:45",
+  "Size": "59.79 KB",
+  "More": "QQ 违规文件 MD5 修改器\n .\n Build for Deepin20.9 through spark-deb-build.\n\n\n⚠️ 本项目已停止维护，请勿使用，此方案已疑似已无效(图片除外)。\n该项目旨在通过向文件追加0字节来改变其MD5值，从而解除QQ的违规文件限制。\n\n功能说明\n1. 拖放支持：用户可以通过拖放的方式将文件添加到程序中。\n2. 确认对话框：在修改文件之前，程序会弹出一个确认对话框，询问用户是否确定要修改文件。\n3. MD5值修改：如果用户确认，程序会在文件尾部追加一个0字节，从而改变文件的MD5值。\n4. 操作反馈：修改完成后，程序会显示一个提示框，告知用户文件已成功修改。\n\n使用步骤\n1. 启动程序。\n2. 将需要修改的文件拖放到程序窗口中。\n3. 在弹出的确认对话框中选择“是”以确认修改。\n4. 程序会自动修改文件并显示操作结果。",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/16/7e51d14e2f0a4b02af641184fe23d4d1.png\",\"https://spk-json.spark-app.store/images/2024/12/16/7a0b01b140814d32ba0f05dce873bed8.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/16/1a75e736a91e4a5590f34addd579f54a.png"
+}

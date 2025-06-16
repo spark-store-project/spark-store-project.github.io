@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.yuanben.deepin_2.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">443463f077fe3a5275a421703280d129</hash>
+				  
+				<hash type="sha1">43bcb6efb01bd403297ab06bee68baaee419af42</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./image_graphics/com.yuanben.deepin/com.yuanben.deepin_2.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./image_graphics/com.yuanben.deepin/com.yuanben.deepin_2.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./image_graphics/com.yuanben.deepin/com.yuanben.deepin_2.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./image_graphics/com.yuanben.deepin/com.yuanben.deepin_2.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./image_graphics/com.yuanben.deepin/com.yuanben.deepin_2.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./image_graphics/com.yuanben.deepin/com.yuanben.deepin_2.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./image_graphics/com.yuanben.deepin/com.yuanben.deepin_2.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

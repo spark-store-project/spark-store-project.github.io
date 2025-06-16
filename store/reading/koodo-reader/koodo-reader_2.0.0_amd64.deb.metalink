@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="koodo-reader_2.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c5fba04b9818d3f4b5ce04becc24a9c5</hash>
+				  
+				<hash type="sha1">1e3e3495d829ad6b0632e52a919e70d30c3fd819</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

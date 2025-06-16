@@ -1,0 +1,16 @@
+{
+  "Author": "fb93<fb93@fb93.com>",
+  "Contributor": "fb93<fb93@fb93.com>",
+  "Filename": "xiaoq-tools_1.04_all.deb",
+  "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统.\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n支持arm64",
+  "Name": "小Q工具箱",
+  "Pkgname": "xiaoq-tools",
+  "Size": "1401 Kb",
+  "Tags": "community;deepin;uos;native",
+  "Torrent_address": "xiaoq-tools_1.04_all.deb.torrent",
+  "Update": "2025-05-09 11:07:26",
+  "Version": "1.04",
+  "Website": "https://gitee.com/seeker_ok",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_5.png\"]"
+}

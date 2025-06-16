@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mindmaster_9.0.2_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">caa3ac8b5c9b21acbd8c8cf6c4b7cde1</hash>
+				  
+				<hash type="sha1">827cb1e4c7d2e46deb0e3cce8b65de56be8739bd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./office/mindmaster/mindmaster_9.0.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./office/mindmaster/mindmaster_9.0.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./office/mindmaster/mindmaster_9.0.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./office/mindmaster/mindmaster_9.0.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./office/mindmaster/mindmaster_9.0.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./office/mindmaster/mindmaster_9.0.2_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./office/mindmaster/mindmaster_9.0.2_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

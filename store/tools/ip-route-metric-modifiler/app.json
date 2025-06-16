@@ -1,0 +1,16 @@
+{
+  "Name": "IP 路由优先级修改器",
+  "Version": "0.0.6-20250506",
+  "Filename": "ip-route-metric-modifiler_0.0.6-20250506_amd64.deb",
+  "Torrent_address": "ip-route-metric-modifiler_0.0.6-20250506_amd64.deb.torrent",
+  "Pkgname": "ip-route-metric-modifiler",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/qt.ip-route-metric-modifiler",
+  "Update": "2025-05-06 11:16:21",
+  "Size": "131.44 KB",
+  "More": "用于 Linux 系统路由配置的工具，为可控可调系统路由配置而制作。\n\n参看：场景·内、外双网卡机器，配置魔幻路由访问\nhttps://bbs.deepin.org.cn/post/284158\n\n用法1 —— 优先级更改：\n1. 内(wan)外(wifi)双网卡用户，192.168.10.1 与 192.168.1.1\n2. 打开工具，对 wifi 网卡优先级设置为 99 (数字越小优先级越高)\n3. 右击该项，选择“应用更改”，输入密码，完成设置\n\n用法2 —— 添加新路由：\n1. 添加内网到达路由(对非所在网段设置下一跳或路由目标)，例如在 192.168.13.14(内部 gitlab)\n2. 打开工具，“菜单》新增路由”直接填写目标IP，填写跳跃地址(via)，选择跳跃网卡(dev)\n3. 点击 OK，输入密码，完成设置\n\n用法3 —— 全部重新设置(不建议使用)：\n1. 点击 apply 预览脚本内容，并点击确定\n2. 输入密码，直接运行脚本\n\n2025/02/18: 重建路由编辑过程与UI交互，拥有极其简单修改功能\n2025/02/21: 扩展路由编辑能力，提供添加路由等操作能力\n2025/05/06: 新增优先级编辑完成时右键菜单“应用更改”功能",
+  "Tags": "community;debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/06/e9de07787d7b460b9db8feee198eb78e.png\",\"https://spk-json.spark-app.store/images/2025/05/06/7d2a6b8aa4714bf7949b0c3f1294f8b0.png\",\"https://spk-json.spark-app.store/images/2025/05/06/51d38af2c3634439a37bea85a4f7b491.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/05/06/6a6ec55e38ae4933befe09f313fbb143.png"
+}

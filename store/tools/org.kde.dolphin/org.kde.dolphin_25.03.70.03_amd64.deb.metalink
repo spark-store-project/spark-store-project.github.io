@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.kde.dolphin_25.03.70.03_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">18342acf06273dd44e7c1a91d937c113</hash>
+				  
+				<hash type="sha1">c475496e097bdfa1f376be807fdf4061015da686</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/org.kde.dolphin/org.kde.dolphin_25.03.70.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/org.kde.dolphin/org.kde.dolphin_25.03.70.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/org.kde.dolphin/org.kde.dolphin_25.03.70.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/org.kde.dolphin/org.kde.dolphin_25.03.70.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/org.kde.dolphin/org.kde.dolphin_25.03.70.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/org.kde.dolphin/org.kde.dolphin_25.03.70.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/org.kde.dolphin/org.kde.dolphin_25.03.70.03_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

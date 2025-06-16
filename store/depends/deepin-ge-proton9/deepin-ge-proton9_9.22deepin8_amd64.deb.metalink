@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-ge-proton9_9.22deepin8_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">2002c8a4ceba1738867a013853459edf</hash>
+				  
+				<hash type="sha1">86a9fb20f77ae236114be62a0cb1634d3afbdc9c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

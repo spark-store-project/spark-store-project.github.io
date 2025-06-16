@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="lx-music-desktop_2.11.0_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">528f07fc9010b86b7306d1a5aab005d9</hash>
+				  
+				<hash type="sha1">b0d6d1979cf02249cd706b7655350e1ba57ccaff</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./music/lx-music-desktop/lx-music-desktop_2.11.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./music/lx-music-desktop/lx-music-desktop_2.11.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./music/lx-music-desktop/lx-music-desktop_2.11.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./music/lx-music-desktop/lx-music-desktop_2.11.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./music/lx-music-desktop/lx-music-desktop_2.11.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./music/lx-music-desktop/lx-music-desktop_2.11.0_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./music/lx-music-desktop/lx-music-desktop_2.11.0_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

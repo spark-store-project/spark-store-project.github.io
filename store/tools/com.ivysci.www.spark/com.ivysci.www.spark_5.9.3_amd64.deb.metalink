@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.ivysci.www.spark_5.9.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dde54e9643ad18f237c18b46930d7515</hash>
+				  
+				<hash type="sha1">afb084f02993099510392801444abce3625b7351</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/com.ivysci.www.spark/com.ivysci.www.spark_5.9.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/com.ivysci.www.spark/com.ivysci.www.spark_5.9.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/com.ivysci.www.spark/com.ivysci.www.spark_5.9.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/com.ivysci.www.spark/com.ivysci.www.spark_5.9.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/com.ivysci.www.spark/com.ivysci.www.spark_5.9.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/com.ivysci.www.spark/com.ivysci.www.spark_5.9.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/com.ivysci.www.spark/com.ivysci.www.spark_5.9.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="jetbrains-webstorm_2024.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">60a3a68405dcd12a6e0c0c89dddf34ed</hash>
+				  
+				<hash type="sha1">0bbcafe02e55f043e59b4224090ad07b960b4548</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/jetbrains-webstorm/jetbrains-webstorm_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./development/jetbrains-webstorm/jetbrains-webstorm_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/jetbrains-webstorm/jetbrains-webstorm_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./development/jetbrains-webstorm/jetbrains-webstorm_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./development/jetbrains-webstorm/jetbrains-webstorm_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./development/jetbrains-webstorm/jetbrains-webstorm_2024.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./development/jetbrains-webstorm/jetbrains-webstorm_2024.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,16 @@
+{
+  "Name": "云剪贴板(基于Qt)",
+  "Version": "1.0.0-20250212",
+  "Filename": "qgo-clipboard-client_1.0.0-20250212_amd64.deb",
+  "Torrent_address": "qgo-clipboard-client_1.0.0-20250212_amd64.deb.torrent",
+  "Pkgname": "qgo-clipboard-client",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/qt.qgo-clipboard-client",
+  "Update": "2025-02-12 19:42:47",
+  "Size": "122.27 KB",
+  "More": "云剪贴板(基于Qt)\n .\n Build for Deepin20.9 through spark-deb-build.\n\nWindows 版本：\nhttps://gitee.com/zinface/qt.qgo-clipboard-client/releases\n\nLinux 版本：\ngit clone https://gitee.com/zinface/qt.qgo-clipboard-client\ncd qt.qgo-clipboard-client\nmake package\nsudo dpkg -i build/*.deb\n\n服务器：默认端口 9090\ngit clone https://gitee.com/zinface/go.clipboard-server\ncd go.clipboard-server\ngo run .\n\n客户端：服务器配置：http://你的服务器IP:9090\n客户端：功能限制：\n1. 文件级传输限制 <5mb\n2. 重复打开程序限制(询问)\n3. 响应延时 <3s\n4. 支持范围：文字、图片、文件(<5m)\n\n视频地址：https://www.bilibili.com/video/BV1z46gYiEFF",
+  "Tags": "community;debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/12/2f3835dfb0db479abe89d58b04c9d44c.png\",\"https://spk-json.spark-app.store/images/2025/02/12/54c81394764e452b92ca3d18c301e52d.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/02/12/f3b840ae2b494989b0de3eee71d03dd6.png"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="opentabletdriver_0.6.5.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">192eb445811cd943d5e0e287cb18b54f</hash>
+				  
+				<hash type="sha1">b9604ee60ffd8d52e551459215058182da520e5f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/opentabletdriver/opentabletdriver_0.6.5.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/opentabletdriver/opentabletdriver_0.6.5.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/opentabletdriver/opentabletdriver_0.6.5.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/opentabletdriver/opentabletdriver_0.6.5.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/opentabletdriver/opentabletdriver_0.6.5.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/opentabletdriver/opentabletdriver_0.6.5.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/opentabletdriver/opentabletdriver_0.6.5.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="z-tools-aptmanager_0.7.10-20250112_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d582ce29c62c74a50765e90689003133</hash>
+				  
+				<hash type="sha1">2469ec2f1b7afef2ab336c6e3be13af70bdb7554</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/z-tools-aptmanager/z-tools-aptmanager_0.7.10-20250112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/z-tools-aptmanager/z-tools-aptmanager_0.7.10-20250112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/z-tools-aptmanager/z-tools-aptmanager_0.7.10-20250112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/z-tools-aptmanager/z-tools-aptmanager_0.7.10-20250112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/z-tools-aptmanager/z-tools-aptmanager_0.7.10-20250112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/z-tools-aptmanager/z-tools-aptmanager_0.7.10-20250112_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/z-tools-aptmanager/z-tools-aptmanager_0.7.10-20250112_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

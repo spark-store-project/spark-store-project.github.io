@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="yolx_0.3.9_plus_1__amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dbfeeaeae3b8aba6786dff3a3435bb84</hash>
+				  
+				<hash type="sha1">ad7cf4391edf34172c1eb334dc00ca0c2ee61494</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/yolx/yolx_0.3.9_plus_1__amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/yolx/yolx_0.3.9_plus_1__amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/yolx/yolx_0.3.9_plus_1__amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/yolx/yolx_0.3.9_plus_1__amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/yolx/yolx_0.3.9_plus_1__amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/yolx/yolx_0.3.9_plus_1__amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/yolx/yolx_0.3.9_plus_1__amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

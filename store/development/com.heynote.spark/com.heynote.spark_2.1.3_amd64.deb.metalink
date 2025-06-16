@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.heynote.spark_2.1.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3dc442b27e4f7a3fc60ce2dafb5134f1</hash>
+				  
+				<hash type="sha1">ce02077419fa14bae492f0e92a227ef0600a4dcf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/com.heynote.spark/com.heynote.spark_2.1.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./development/com.heynote.spark/com.heynote.spark_2.1.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/com.heynote.spark/com.heynote.spark_2.1.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./development/com.heynote.spark/com.heynote.spark_2.1.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./development/com.heynote.spark/com.heynote.spark_2.1.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./development/com.heynote.spark/com.heynote.spark_2.1.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./development/com.heynote.spark/com.heynote.spark_2.1.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

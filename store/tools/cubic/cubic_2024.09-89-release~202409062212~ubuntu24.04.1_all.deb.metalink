@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3b2f6a3f569f4d70d6809ff18b1efca2</hash>
+				  
+				<hash type="sha1">8e5f0c6d8106be60740a785ac74735e773b7fc41</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/cubic/cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/cubic/cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/cubic/cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/cubic/cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/cubic/cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/cubic/cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/cubic/cubic_2024.09-89-release~202409062212~ubuntu24.04.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

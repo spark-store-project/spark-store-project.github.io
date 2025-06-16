@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.write.spark_3.0.0spark_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ac41062c5af51f94eb62762975b70566</hash>
+				  
+				<hash type="sha1">ca72a5567e120e94bddd45d4d84a551e94e3d321</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./office/com.write.spark/com.write.spark_3.0.0spark_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="browser360ent-cn-stable_10.5.2002.500-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c72f89bce8b0f50cff1fb13125c10db3</hash>
+				  
+				<hash type="sha1">22b2f874069ae6b588196b8c7c245293c2e5f355</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.500-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.500-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.500-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.500-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.500-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.500-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/browser360ent-cn-stable/browser360ent-cn-stable_10.5.2002.500-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

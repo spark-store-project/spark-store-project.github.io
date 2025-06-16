@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine9-wow_9_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">399c63b57aa3f4c21df824d9258c3d4e</hash>
+				  
+				<hash type="sha1">222834d7b549b1640ca01a16bbb0de1d3f89a4bd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./depends/spark-wine/wine9/spark-wine9-wow_9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./depends/spark-wine/wine9/spark-wine9-wow_9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./depends/spark-wine/wine9/spark-wine9-wow_9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./depends/spark-wine/wine9/spark-wine9-wow_9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./depends/spark-wine/wine9/spark-wine9-wow_9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./depends/spark-wine/wine9/spark-wine9-wow_9_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./depends/spark-wine/wine9/spark-wine9-wow_9_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

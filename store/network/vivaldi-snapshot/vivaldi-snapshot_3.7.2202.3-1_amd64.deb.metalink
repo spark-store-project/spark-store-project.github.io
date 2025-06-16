@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="vivaldi-snapshot_3.7.2202.3-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3fb225aacfbd62efe82b35f9e6294c63</hash>
+				  
+				<hash type="sha1">daac369598aa468453d4ea6d4d0982bc2cd93cb4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/vivaldi-snapshot/vivaldi-snapshot_3.7.2202.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/vivaldi-snapshot/vivaldi-snapshot_3.7.2202.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/vivaldi-snapshot/vivaldi-snapshot_3.7.2202.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/vivaldi-snapshot/vivaldi-snapshot_3.7.2202.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/vivaldi-snapshot/vivaldi-snapshot_3.7.2202.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/vivaldi-snapshot/vivaldi-snapshot_3.7.2202.3-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/vivaldi-snapshot/vivaldi-snapshot_3.7.2202.3-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

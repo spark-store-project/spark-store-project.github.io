@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="panda-dock_1.0.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e37ca2c093cbddd80b1a8da461fe1e8a</hash>
+				  
+				<hash type="sha1">3898c2767514fc1dbeb9718f5c46adeaec103fb3</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./themes/panda-dock/panda-dock_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./themes/panda-dock/panda-dock_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./themes/panda-dock/panda-dock_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./themes/panda-dock/panda-dock_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./themes/panda-dock/panda-dock_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./themes/panda-dock/panda-dock_1.0.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./themes/panda-dock/panda-dock_1.0.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

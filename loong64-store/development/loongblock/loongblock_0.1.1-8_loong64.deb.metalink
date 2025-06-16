@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="loongblock_0.1.1-8_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a6a5e10c05c803589d56f6b0b6e5ee55</hash>
+				  
+				<hash type="sha1">c7b00e227d274d9a5865c56972e8196252209d6f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./development/loongblock/loongblock_0.1.1-8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./development/loongblock/loongblock_0.1.1-8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./development/loongblock/loongblock_0.1.1-8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./development/loongblock/loongblock_0.1.1-8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./development/loongblock/loongblock_0.1.1-8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./development/loongblock/loongblock_0.1.1-8_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./development/loongblock/loongblock_0.1.1-8_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

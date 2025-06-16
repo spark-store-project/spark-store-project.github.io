@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine9-ace_9.22-spark-1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4cfd115c16badbbc1607d9724a79a79b</hash>
+				  
+				<hash type="sha1">c5cd667f7c7ae733d766ea3f11d0656b611393b9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./depends/spark-wine/wine9/spark-wine9-ace_9.22-spark-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./depends/spark-wine/wine9/spark-wine9-ace_9.22-spark-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./depends/spark-wine/wine9/spark-wine9-ace_9.22-spark-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./depends/spark-wine/wine9/spark-wine9-ace_9.22-spark-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./depends/spark-wine/wine9/spark-wine9-ace_9.22-spark-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./depends/spark-wine/wine9/spark-wine9-ace_9.22-spark-1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./depends/spark-wine/wine9/spark-wine9-ace_9.22-spark-1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

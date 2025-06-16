@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="org.edit.kate_4:18.08.0-2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9705dfc7c52baa466c8f7adb5e51005b</hash>
+				  
+				<hash type="sha1">e00970662fc74b57cc701ab7cc7d02a80448fec2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./office/org.edit.kate/org.edit.kate_4:18.08.0-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./office/org.edit.kate/org.edit.kate_4:18.08.0-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./office/org.edit.kate/org.edit.kate_4:18.08.0-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./office/org.edit.kate/org.edit.kate_4:18.08.0-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./office/org.edit.kate/org.edit.kate_4:18.08.0-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./office/org.edit.kate/org.edit.kate_4:18.08.0-2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./office/org.edit.kate/org.edit.kate_4:18.08.0-2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

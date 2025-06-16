@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.floorp_11.22.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">dd6673d1931631d3b958ab2825676a31</hash>
+				  
+				<hash type="sha1">4ef39dfebe79aa0bdbf8d5e55f9b8ff6de8a64d7</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/com.github.floorp/com.github.floorp_11.22.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/com.github.floorp/com.github.floorp_11.22.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/com.github.floorp/com.github.floorp_11.22.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/com.github.floorp/com.github.floorp_11.22.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/com.github.floorp/com.github.floorp_11.22.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/com.github.floorp/com.github.floorp_11.22.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/com.github.floorp/com.github.floorp_11.22.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

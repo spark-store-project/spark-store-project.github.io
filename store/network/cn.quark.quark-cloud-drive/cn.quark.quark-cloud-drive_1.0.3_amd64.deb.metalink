@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.quark.quark-cloud-drive_1.0.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f4f34234b161147745cad3334ca9c331</hash>
+				  
+				<hash type="sha1">9ac316d2f7330d6661a3360e0f983e4b32a18c37</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/cn.quark.quark-cloud-drive/cn.quark.quark-cloud-drive_1.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/cn.quark.quark-cloud-drive/cn.quark.quark-cloud-drive_1.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/cn.quark.quark-cloud-drive/cn.quark.quark-cloud-drive_1.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/cn.quark.quark-cloud-drive/cn.quark.quark-cloud-drive_1.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/cn.quark.quark-cloud-drive/cn.quark.quark-cloud-drive_1.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/cn.quark.quark-cloud-drive/cn.quark.quark-cloud-drive_1.0.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/cn.quark.quark-cloud-drive/cn.quark.quark-cloud-drive_1.0.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

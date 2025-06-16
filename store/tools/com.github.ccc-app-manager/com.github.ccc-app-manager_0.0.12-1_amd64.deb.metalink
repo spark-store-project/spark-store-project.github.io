@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.github.ccc-app-manager_0.0.12-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">b16d79628589fa20deb35fd02601ca80</hash>
+				  
+				<hash type="sha1">6ae24d6115fed595172f25f22960b7dd9fe73374</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

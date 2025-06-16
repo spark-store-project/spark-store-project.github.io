@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="reboot-uefi_0.0.1_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">e41c12d8e58f63a91fb8af8f956a4a07</hash>
+				  
+				<hash type="sha1">941f9405206721a7ac3c761c649756db8b39bdcf</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./others/reboot-uefi/reboot-uefi_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./others/reboot-uefi/reboot-uefi_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./others/reboot-uefi/reboot-uefi_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./others/reboot-uefi/reboot-uefi_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./others/reboot-uefi/reboot-uefi_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./others/reboot-uefi/reboot-uefi_0.0.1_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./others/reboot-uefi/reboot-uefi_0.0.1_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

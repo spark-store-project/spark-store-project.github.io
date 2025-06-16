@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mybase-desktop_8.2.12_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">61f5865848ae96524981af84846ed518</hash>
+				  
+				<hash type="sha1">152ede15b906b95d6c03a43e90b58dc9f1adb57b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./office/mybase-desktop/mybase-desktop_8.2.12_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cc.arduino.spark_2.1.2spark10_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">44078c3a552a312de5c9971227974f5a</hash>
+				  
+				<hash type="sha1">46a0d001d68b585eb64d319f71e13952720c6821</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/cc.arduino.spark/cc.arduino.spark_2.1.2spark10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./development/cc.arduino.spark/cc.arduino.spark_2.1.2spark10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/cc.arduino.spark/cc.arduino.spark_2.1.2spark10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./development/cc.arduino.spark/cc.arduino.spark_2.1.2spark10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./development/cc.arduino.spark/cc.arduino.spark_2.1.2spark10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./development/cc.arduino.spark/cc.arduino.spark_2.1.2spark10_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./development/cc.arduino.spark/cc.arduino.spark_2.1.2spark10_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

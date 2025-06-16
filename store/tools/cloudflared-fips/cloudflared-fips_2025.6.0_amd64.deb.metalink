@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cloudflared-fips_2025.6.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">7b604da6f6ceaf989bc5341004db6fd1</hash>
+				  
+				<hash type="sha1">f91feaa03ece72ec898b1f8909e36b3fd1e3fac1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

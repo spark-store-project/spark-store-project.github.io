@@ -1,0 +1,16 @@
+{
+  "Name": "WPS优化工具",
+  "Version": "3.0",
+  "Filename": "wps-optimizer_3.0_all.deb",
+  "Torrent_address": "wps-optimizer_3.0_all.deb.torrent",
+  "Pkgname": "wps-optimizer",
+  "Author": "fb93<fb93@fb93.com>",
+  "Contributor": "fb93<fb93@fb93.com>",
+  "Website": "https://gitee.com/seeker_ok/wps-optimizer",
+  "Update": "2025-06-04 11:33:07",
+  "Size": "641.48 KB",
+  "More": "重置WPS配置并清理临时文件，解决卡顿问题。兼容统信UOS、deepin系统和麒麟系统。\n以下是上述Bash脚本实现的功能列表：\n1‌、获取真实用户目录‌：\n脚本通过eval echo ~${SUDO_USER:-$USER}获取当前用户的家目录，无论是以普通用户还是通过sudo执行的用户。\n2、‌颜色定义‌：\n定义了几种颜色变量（RED, GREEN, YELLOW, BLUE, NC），用于在终端输出彩色文本，提高可读性和用户友好性。\n3‌、检测并删除旧备份‌：\nclean_old_backup函数接收一个备份目录作为参数，如果该目录存在，则提示用户是否删除。如果用户确认，则删除该目录及其内容，并输出相应的成功或失败信息。\n4、‌备份配置文件‌：\nbackup_config函数接收一个配置目录作为参数，创建一个以_bak为后缀的备份目录，将原配置目录移动到备份目录，并在移动前调用clean_old_backup函数删除可能存在的旧备份。\n5‌、清理临时文件‌：\nclean_temps函数用于清理临时文件。它删除/tmp目录下所有以wps开头的文件，并删除用户家目录下名为.wps的目录（如果存在）。这些操作都静默进行（错误输出被重定向到/dev/null）。\n6‌、主流程‌：\n脚本的主流程首先输出正在优化WPS性能的信息，然后依次备份WPS的配置文件（位于用户家目录下的.config/Kingsoft、.config/kingsoft和.local/share/Kingsoft目录），清理临时文件，最后输出优化完成的信息，并提供一个软件更新网址。 脚本结束时，提示用户按任意键关闭窗口。 这些功能共同构成了一个用于优化WPS性能的Bash脚本，通过备份配置文件、清理临时文件等方式，帮助用户提升WPS的使用体验。",
+  "Tags": "community;debian;ubuntu;deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/04/c7faae89d2024ca49935f8a1d4d961b0.png\",\"https://spk-json.spark-app.store/images/2025/06/04/64d403d350b446598fa04aad095e7509.png\",\"https://spk-json.spark-app.store/images/2025/06/04/79fe6b32db4b433eb62ff32f4f27ba96.png\",\"https://spk-json.spark-app.store/images/2025/06/04/6ce0fda04be3486c9b41c5ea9efcac28.png\",\"https://spk-json.spark-app.store/images/2025/06/04/5009c2dcee6a41c9a6abf8569133bbd8.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/06/04/5d49a3238f8843de943d348a3333b3bb.png"
+}

@@ -1,0 +1,16 @@
+{
+  "Name": "Microsoft Visual C++ 6.0",
+  "Version": "6.0.0-spark-wine0",
+  "Filename": "spark-wine-vc6_6.0.0-spark-wine0_amd64.deb",
+  "Torrent_address": "spark-wine-vc6_6.0.0-spark-wine0_amd64.deb.torrent",
+  "Pkgname": "spark-wine-vc6",
+  "Author": "Elysia",
+  "Contributor": "Elysia <c.elysia@foxmail.com>",
+  "Website": "https://visualstudio.microsoft.com/",
+  "Update": "2024-10-16 19:27:04",
+  "Size": "410.15 MB",
+  "More": "解除了原版不能打开超过 256 色位图的限制。\n解除了原版字体选项过少的限制。\n增加对 .asm 和 .inc 汇编类型文件的支持，向项目添加此类文件时，会被默认归类到“Source Files”和“Header Files”分类下。\n替换 c2.dll 版本为 13.0.9044.0 ，支持内联汇编的 SSE 指令。\n修改 VC6 版本号为 \"6.x\" ，使同一系统中能和其他版本的 VC6 共存。\n\n集成 Visual Assist X、WndTabs 插件。\n集成 DevTrueColour.dll 和 FileTool.dll 插件，前者是字体颜色选择插件，后者是用于 Vista 以上系统中用来替代 IDE 本身的添加和打开文件功能，以防止 IDE 崩溃。\n集成 VS 2008 SP1 的 ml.exe ，增加对汇编的支持。\n集成 Glut 3.7 beta。\n\n集成 Windows 2003 SDK ，这是微软官方最后一个支持 VC 6 的 SDK 版本。\n集成 WTL 和 VFC 。\n\n集成 Native Development Kit 。\n集成 Masm32 ，方便编写和调试简单的汇编程序。\n集成 Boost C++ 库。",
+  "Tags": "debian;deepin;dwine5;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/16/6c89e8a9a61548cfbf12600ded68139d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/16/3f23575800fe46e48c042c6e435b687b.png"
+}

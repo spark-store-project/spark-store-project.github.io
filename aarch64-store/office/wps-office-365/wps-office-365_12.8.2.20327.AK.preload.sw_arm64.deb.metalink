@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c01d8be673ac2c805b168532cd25b427</hash>
+				  
+				<hash type="sha1">39f075dd7bf9c98aa0aa44d3319b7935f3c125a8</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

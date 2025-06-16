@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="at32-work-bench_1.0.03_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9a059738bb831c69c01bddcab69d8da6</hash>
+				  
+				<hash type="sha1">dc0f21cc63a6580dea88d1a2dc03492f2e94742b</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/at32-work-bench/at32-work-bench_1.0.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./development/at32-work-bench/at32-work-bench_1.0.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/at32-work-bench/at32-work-bench_1.0.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./development/at32-work-bench/at32-work-bench_1.0.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./development/at32-work-bench/at32-work-bench_1.0.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./development/at32-work-bench/at32-work-bench_1.0.03_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./development/at32-work-bench/at32-work-bench_1.0.03_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

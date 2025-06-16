@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="android-adb-fastboot-tools_0.3.2-20221210_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f9fd0c6d9b67b307e22132a795adc586</hash>
+				  
+				<hash type="sha1">b33f74e159718facd41be419c3447b7226c00c51</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/android-adb-fastboot-tools/android-adb-fastboot-tools_0.3.2-20221210_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/android-adb-fastboot-tools/android-adb-fastboot-tools_0.3.2-20221210_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/android-adb-fastboot-tools/android-adb-fastboot-tools_0.3.2-20221210_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/android-adb-fastboot-tools/android-adb-fastboot-tools_0.3.2-20221210_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/android-adb-fastboot-tools/android-adb-fastboot-tools_0.3.2-20221210_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/android-adb-fastboot-tools/android-adb-fastboot-tools_0.3.2-20221210_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/android-adb-fastboot-tools/android-adb-fastboot-tools_0.3.2-20221210_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

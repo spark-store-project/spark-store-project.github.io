@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="libidn11_1.33-2.2_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">357a230419bba1682a8fb5eaab8741fd</hash>
+				  
+				<hash type="sha1">06b5a44925851c54f9abdec9a2811ca15b2b44c6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./depends/iflytek/libidn11_1.33-2.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./depends/iflytek/libidn11_1.33-2.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./depends/iflytek/libidn11_1.33-2.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./depends/iflytek/libidn11_1.33-2.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./depends/iflytek/libidn11_1.33-2.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./depends/iflytek/libidn11_1.33-2.2_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./depends/iflytek/libidn11_1.33-2.2_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

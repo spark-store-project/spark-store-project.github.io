@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="browser360-cn-beta_13.126.1020.16-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">f555a3bf298d73afe341de0f9d538f7e</hash>
+				  
+				<hash type="sha1">3d54d51c39520271547a41fd048d3517e9b6201d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./network/browser360-cn-beta/browser360-cn-beta_13.126.1020.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./network/browser360-cn-beta/browser360-cn-beta_13.126.1020.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./network/browser360-cn-beta/browser360-cn-beta_13.126.1020.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./network/browser360-cn-beta/browser360-cn-beta_13.126.1020.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./network/browser360-cn-beta/browser360-cn-beta_13.126.1020.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./network/browser360-cn-beta/browser360-cn-beta_13.126.1020.16-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./network/browser360-cn-beta/browser360-cn-beta_13.126.1020.16-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="gzdoom_4.14.1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">edd9d7537f7d495a34119e60e7928e09</hash>
+				  
+				<hash type="sha1">a42f8a47a009b86c86fc1113930537cfe0149503</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./games/gzdoom/gzdoom_4.14.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./games/gzdoom/gzdoom_4.14.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./games/gzdoom/gzdoom_4.14.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./games/gzdoom/gzdoom_4.14.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./games/gzdoom/gzdoom_4.14.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./games/gzdoom/gzdoom_4.14.1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./games/gzdoom/gzdoom_4.14.1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

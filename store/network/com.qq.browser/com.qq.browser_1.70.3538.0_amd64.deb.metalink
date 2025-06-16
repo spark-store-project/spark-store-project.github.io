@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.qq.browser_1.70.3538.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">0ab8fc301bab71e7a2928256ff4b54b1</hash>
+				  
+				<hash type="sha1">141a9dce331d4e6cd0129b4b6d6ab2aeac1d848d</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/com.qq.browser/com.qq.browser_1.70.3538.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/com.qq.browser/com.qq.browser_1.70.3538.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/com.qq.browser/com.qq.browser_1.70.3538.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/com.qq.browser/com.qq.browser_1.70.3538.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/com.qq.browser/com.qq.browser_1.70.3538.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/com.qq.browser/com.qq.browser_1.70.3538.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/com.qq.browser/com.qq.browser_1.70.3538.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

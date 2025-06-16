@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="nautilus-nutstore-public_5.1.7_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">3fd16f52ab8943a84f70b98b7bc98deb</hash>
+				  
+				<hash type="sha1">885a4566e56eb3f0173f5bc50b692226c0417542</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/nautilus-nutstore-public/nautilus-nutstore-public_5.1.7_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.tongyi.uos_1.0_loong64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">8883058ec6cf9dece62671a7fed980d8</hash>
+				  
+				<hash type="sha1">b7383036315ab34b71a020138fde2f75b06a40f2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/loong64-store/./office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/loong64-store/./office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/loong64-store/./office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/loong64-store/./office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/loong64-store/./office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/loong64-store/./office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/loong64-store/./office/com.tongyi.uos/com.tongyi.uos_1.0_loong64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

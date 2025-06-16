@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-wine9-mono_9.3.0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">d7c386a49f799a25a1d8adb6f3fe6772</hash>
+				  
+				<hash type="sha1">4448bdda5b4dd3146e91eb6e8898754263197850</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./depends/spark-wine/spark-wine9/spark-wine9-mono_9.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./depends/spark-wine/spark-wine9/spark-wine9-mono_9.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./depends/spark-wine/spark-wine9/spark-wine9-mono_9.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./depends/spark-wine/spark-wine9/spark-wine9-mono_9.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./depends/spark-wine/spark-wine9/spark-wine9-mono_9.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./depends/spark-wine/spark-wine9/spark-wine9-mono_9.3.0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./depends/spark-wine/spark-wine9/spark-wine9-mono_9.3.0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

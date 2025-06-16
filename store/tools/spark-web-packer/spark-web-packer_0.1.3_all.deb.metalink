@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-web-packer_0.1.3_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">1684b2b073d5ee174c40852b7743c4ba</hash>
+				  
+				<hash type="sha1">bce10fa7a04890ebd1af11f0f67c5c884081ccc6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/spark-web-packer/spark-web-packer_0.1.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/spark-web-packer/spark-web-packer_0.1.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/spark-web-packer/spark-web-packer_0.1.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/spark-web-packer/spark-web-packer_0.1.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/spark-web-packer/spark-web-packer_0.1.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/spark-web-packer/spark-web-packer_0.1.3_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/spark-web-packer/spark-web-packer_0.1.3_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

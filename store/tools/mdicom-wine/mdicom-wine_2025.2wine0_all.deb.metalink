@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mdicom-wine_2025.2wine0_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">931ae22aca2bf45effdb049e7343b1ec</hash>
+				  
+				<hash type="sha1">6c3a19e8f03bfa2af806b1a59b28ea8f690fdc5c</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/mdicom-wine/mdicom-wine_2025.2wine0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/mdicom-wine/mdicom-wine_2025.2wine0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/mdicom-wine/mdicom-wine_2025.2wine0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/mdicom-wine/mdicom-wine_2025.2wine0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/mdicom-wine/mdicom-wine_2025.2wine0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/mdicom-wine/mdicom-wine_2025.2wine0_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/mdicom-wine/mdicom-wine_2025.2wine0_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c9bbf3f0c73818e35491182f67d17a06</hash>
+				  
+				<hash type="sha1">fe14dd6eb3eb0df4d01b7559c19a964e8ceae7f6</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/com.cloud.21cn/com.cloud.21cn_1.1.0-1_plus_a1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

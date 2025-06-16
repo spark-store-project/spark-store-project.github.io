@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.myhash64.spark_1.4.7.0_i386.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">08a76618d53a1c52007d6b1c67dafff4</hash>
+				  
+				<hash type="sha1">e19cf387c22b83d08b574fd1f4c8d2984d4a691f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/com.myhash64.spark/com.myhash64.spark_1.4.7.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/com.myhash64.spark/com.myhash64.spark_1.4.7.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/com.myhash64.spark/com.myhash64.spark_1.4.7.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/com.myhash64.spark/com.myhash64.spark_1.4.7.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/com.myhash64.spark/com.myhash64.spark_1.4.7.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/com.myhash64.spark/com.myhash64.spark_1.4.7.0_i386.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/com.myhash64.spark/com.myhash64.spark_1.4.7.0_i386.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

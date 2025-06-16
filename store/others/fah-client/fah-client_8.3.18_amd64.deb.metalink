@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="fah-client_8.3.18_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">557de9bdebf2745a9cb7ab8a9ac3a30a</hash>
+				  
+				<hash type="sha1">7e98006ab14c5b4808cf40cc3ae1e372883577c4</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./others/fah-client/fah-client_8.3.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./others/fah-client/fah-client_8.3.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./others/fah-client/fah-client_8.3.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./others/fah-client/fah-client_8.3.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./others/fah-client/fah-client_8.3.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./others/fah-client/fah-client_8.3.18_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./others/fah-client/fah-client_8.3.18_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

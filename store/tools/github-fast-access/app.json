@@ -1,0 +1,16 @@
+{
+  "Name": "GitHub 访问加速包",
+  "Version": "0.0.1-20250105",
+  "Filename": "github-fast-access_0.0.1-20250105_all.deb",
+  "Torrent_address": "github-fast-access_0.0.1-20250105_all.deb.torrent",
+  "Pkgname": "github-fast-access",
+  "Author": "麻本法 <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface",
+  "Update": "2025-01-05 22:47:42",
+  "Size": "1.84 KB",
+  "More": "通过使用 iptables 进行 DNAT 操作将; 即将要访问错误ip的流量导向正确的ip(大概);\n .\n 安装时:\n /etc/cron.hourly/github-dnat.sh || true\n .\n 卸载时:\n /etc/cron.hourly/github-dnat.sh clean || true\n .\n 此脚本可能会在每小时自动运行一次，iptables 规则也将会自动更新。",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/05/12cb91cf76e640e0be0f8867a0fcffa5.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/05/bdf414cde19e4b94a64da8af11fa69ba.png"
+}

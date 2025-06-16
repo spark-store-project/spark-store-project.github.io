@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="uos-remote-assistance_1.1.34-1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">a40d6c5aa4cf23bbdbf84f58dbac99ed</hash>
+				  
+				<hash type="sha1">866a5ff9293e5d11266289b8fd512499cfee98ad</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./network/uos-remote-assistance/uos-remote-assistance_1.1.34-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./network/uos-remote-assistance/uos-remote-assistance_1.1.34-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./network/uos-remote-assistance/uos-remote-assistance_1.1.34-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./network/uos-remote-assistance/uos-remote-assistance_1.1.34-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./network/uos-remote-assistance/uos-remote-assistance_1.1.34-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./network/uos-remote-assistance/uos-remote-assistance_1.1.34-1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./network/uos-remote-assistance/uos-remote-assistance_1.1.34-1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

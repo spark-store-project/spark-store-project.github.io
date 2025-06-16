@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="mindmaster_11.0.4_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">84f4a9c7baa0dc6b8e9e4e7a28eb7040</hash>
+				  
+				<hash type="sha1">de19e71eee7a219f7d567c05d6296fb5de6955e1</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./office/mindmaster/mindmaster_11.0.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./office/mindmaster/mindmaster_11.0.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./office/mindmaster/mindmaster_11.0.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./office/mindmaster/mindmaster_11.0.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./office/mindmaster/mindmaster_11.0.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./office/mindmaster/mindmaster_11.0.4_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./office/mindmaster/mindmaster_11.0.4_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

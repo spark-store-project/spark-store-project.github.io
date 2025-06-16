@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="dbeaver-ce_25.1.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">bb3700b69c0ec8cd6bd73af8c0c43daa</hash>
+				  
+				<hash type="sha1">2a54f9a428e87a3d1728312026c94bf3094a8270</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

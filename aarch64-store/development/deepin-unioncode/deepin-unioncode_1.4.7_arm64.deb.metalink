@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-unioncode_1.4.7_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">07e50d082f5adb334843003af7ce9516</hash>
+				  
+				<hash type="sha1">89f57d3689c38e46d2d70c58ce3cda1b5ec5c9e9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./development/deepin-unioncode/deepin-unioncode_1.4.7_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./development/deepin-unioncode/deepin-unioncode_1.4.7_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./development/deepin-unioncode/deepin-unioncode_1.4.7_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./development/deepin-unioncode/deepin-unioncode_1.4.7_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./development/deepin-unioncode/deepin-unioncode_1.4.7_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./development/deepin-unioncode/deepin-unioncode_1.4.7_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./development/deepin-unioncode/deepin-unioncode_1.4.7_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

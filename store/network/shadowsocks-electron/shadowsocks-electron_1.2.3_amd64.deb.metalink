@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="shadowsocks-electron_1.2.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cb77b3c0dc36fe8551dc690af81eb4b4</hash>
+				  
+				<hash type="sha1">87cf4946bdd9818276b2c008519db072505df155</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/shadowsocks-electron/shadowsocks-electron_1.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/shadowsocks-electron/shadowsocks-electron_1.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/shadowsocks-electron/shadowsocks-electron_1.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/shadowsocks-electron/shadowsocks-electron_1.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/shadowsocks-electron/shadowsocks-electron_1.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/shadowsocks-electron/shadowsocks-electron_1.2.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/shadowsocks-electron/shadowsocks-electron_1.2.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

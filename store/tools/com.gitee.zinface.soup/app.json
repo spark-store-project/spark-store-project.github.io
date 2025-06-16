@@ -1,0 +1,16 @@
+{
+  "Name": "Soup(升级版)",
+  "Version": "0.0.5-20241212",
+  "Filename": "com.gitee.zinface.soup_0.0.5-20241212_amd64.deb",
+  "Torrent_address": "com.gitee.zinface.soup_0.0.5-20241212_amd64.deb.torrent",
+  "Pkgname": "com.gitee.zinface.soup",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/pyside6.beautiful-soup",
+  "Update": "2024-12-12 20:38:35",
+  "Size": "90.29 MB",
+  "More": "基于 PySide6 的 beautifulSoup 图形化工具\n .\n 灵感来自可视化一切;\n .\n Build for Deepin20.9 through spark-deb-build.\n\n2024/03/11: 诞生，在这之前，尝试过使用 streamlit 进行可视化\n2024/06/25: 遇到了128460 行的数据集，遂即进行了线程化处理\n\n2024/09/06: 全新使用场景，即日起用于制作 wiki 数据集的专用工具\n2024/09/30: 制作wiki数据集时，soup 操作由实时响应转延时响应\n\n2024/12/12: 增加 soup 命令行工具，支持直接使用 soup 进行快速检索\n\n获取 Distrowatch 中的 deepin 版本号数据例子：\ncurl https://distrowatch.com/index.php?distribution=deepin \\\n    | soup -i - \\\n    -m 'table[class=News] td[class=NewsDate]'  \\\n    -m 'table[class=News] td[class=NewsHeadline]' \\\n    --separator ': ' -l",
+  "Tags": "ubuntu;deepin;debian;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/12/61b9db8d287445108229990c4129fc9d.png\",\"https://spk-json.spark-app.store/images/2024/12/12/ca565017cd3241f1969a02ec0cc5f04d.png\",\"https://spk-json.spark-app.store/images/2024/12/12/93c2221cb90c4199aef73bb3a359880e.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/12/e048f61e145c4bc0b0a14bc9bd3fd0fa.png"
+}

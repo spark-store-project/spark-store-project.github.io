@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="ms-core-fonts_1.0-2_all.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">ac69aa9a8b4812b8b5b93e27f3f46b6f</hash>
+				  
+				<hash type="sha1">c0781051476f9ea6aaac1b98f1d270f7d33e9954</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./others/ms-core-fonts/ms-core-fonts_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./others/ms-core-fonts/ms-core-fonts_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./others/ms-core-fonts/ms-core-fonts_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./others/ms-core-fonts/ms-core-fonts_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./others/ms-core-fonts/ms-core-fonts_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./others/ms-core-fonts/ms-core-fonts_1.0-2_all.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./others/ms-core-fonts/ms-core-fonts_1.0-2_all.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

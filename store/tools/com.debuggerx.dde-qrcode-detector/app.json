@@ -1,0 +1,16 @@
+{
+  "Name": "DDE二维码识别",
+  "Version": "1.0.1.1",
+  "Filename": "com.debuggerx.dde-qrcode-detector_1.0.1.1_amd64.deb",
+  "Torrent_address": "com.debuggerx.dde-qrcode-detector_1.0.1.1_amd64.deb.torrent",
+  "Pkgname": "com.debuggerx.dde-qrcode-detector",
+  "Author": "DebuggerX <dx8913712@163.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://github.com/debuggerx01/dde_qrcode_detector",
+  "Update": "2024-11-10 13:45:00",
+  "Size": "6.35 MB",
+  "More": "专为 DDE 桌面环境打造的屏幕二维码识别工具，使用 Flutter 构建。\n小技巧：可以绑定为快捷键触发，命令是 /opt/apps/com.debuggerx.dde-qrcode-detector/files/dde_qrcode_detector\n说明：\n1. 由于是基于Zbar识别，可能存在部分二维码识别不到的问题\n2. 由于是基于Zbar识别，某些条形码也会被识别到(这不是bug而是feature)\n3. 目前不支持Wayland，问题太多了……",
+  "Tags": "community;ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/db3bac31718c47a6822166f6688ae675.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/10/cce41bd5d59c499599876af172680c43.png"
+}

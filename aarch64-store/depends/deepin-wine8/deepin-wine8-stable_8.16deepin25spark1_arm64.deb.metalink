@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="deepin-wine8-stable_8.16deepin25spark1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">59b5a00408e7a1d06157ddbafc79f2b1</hash>
+				  
+				<hash type="sha1">6312066ab2ce5ae52088b38de70a0d108f6ab841</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./depends/deepin-wine8/deepin-wine8-stable_8.16deepin25spark1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./depends/deepin-wine8/deepin-wine8-stable_8.16deepin25spark1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./depends/deepin-wine8/deepin-wine8-stable_8.16deepin25spark1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./depends/deepin-wine8/deepin-wine8-stable_8.16deepin25spark1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./depends/deepin-wine8/deepin-wine8-stable_8.16deepin25spark1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./depends/deepin-wine8/deepin-wine8-stable_8.16deepin25spark1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./depends/deepin-wine8/deepin-wine8-stable_8.16deepin25spark1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

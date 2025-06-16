@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="firefox-esr_102.10.0esr-1_deb10u1_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">9c4d7c8ebc23b56281fbfe9503216da1</hash>
+				  
+				<hash type="sha1">bf1d92e3de97a299554750753b5b629b4e2f5774</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./network/org.mozilla.firefox-esr.spark/firefox-esr_102.10.0esr-1_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./network/org.mozilla.firefox-esr.spark/firefox-esr_102.10.0esr-1_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./network/org.mozilla.firefox-esr.spark/firefox-esr_102.10.0esr-1_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./network/org.mozilla.firefox-esr.spark/firefox-esr_102.10.0esr-1_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./network/org.mozilla.firefox-esr.spark/firefox-esr_102.10.0esr-1_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./network/org.mozilla.firefox-esr.spark/firefox-esr_102.10.0esr-1_deb10u1_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./network/org.mozilla.firefox-esr.spark/firefox-esr_102.10.0esr-1_deb10u1_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="spark-ts-tools_1.0.5_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">cdd21ee82a36abe3a6e1e67a76c6e1c1</hash>
+				  
+				<hash type="sha1">a0b7bc10fc63fcfbc064dc6cbe18e5520ba423ba</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/spark-ts-tools/spark-ts-tools_1.0.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./development/spark-ts-tools/spark-ts-tools_1.0.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/spark-ts-tools/spark-ts-tools_1.0.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./development/spark-ts-tools/spark-ts-tools_1.0.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./development/spark-ts-tools/spark-ts-tools_1.0.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./development/spark-ts-tools/spark-ts-tools_1.0.5_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./development/spark-ts-tools/spark-ts-tools_1.0.5_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

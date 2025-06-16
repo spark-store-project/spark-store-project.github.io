@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="chromium-linux_111.0.5503.0_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">295285187dccb3677c1b689c5c27cf8a</hash>
+				  
+				<hash type="sha1">2eccb7e7e60a140196290eb513ab3c234b5069c9</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/chromium-linux/chromium-linux_111.0.5503.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/chromium-linux/chromium-linux_111.0.5503.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/chromium-linux/chromium-linux_111.0.5503.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/chromium-linux/chromium-linux_111.0.5503.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/chromium-linux/chromium-linux_111.0.5503.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/chromium-linux/chromium-linux_111.0.5503.0_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/chromium-linux/chromium-linux_111.0.5503.0_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
