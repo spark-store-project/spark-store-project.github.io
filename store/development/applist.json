@@ -590,24 +590,6 @@
 
 ,
 {
-  "Name": "XTerminal",
-  "Version": "2.9.3-84",
-  "Filename": "xterminal_2.9.3-84_amd64.deb",
-  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
-  "Pkgname": "xterminal",
-  "Author": "Xterminal",
-  "Contributor": "sgb76",
-  "Website": "https://xterminal.cn",
-  "Update": "2025-01-04 11:32:44",
-  "Size": "117.89 MB",
-  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
-}
-
-,
-{
   "Author": "wntr <Unknown>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "finalshell_4.5.12_amd64.deb",
@@ -622,6 +604,24 @@
   "Website": "kentrl",
   "icons": "https://spk-json.spark-app.store/store/development/finalshell/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/development/finalshell/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "XTerminal",
+  "Version": "2.9.3-84",
+  "Filename": "xterminal_2.9.3-84_amd64.deb",
+  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
+  "Pkgname": "xterminal",
+  "Author": "Xterminal",
+  "Contributor": "sgb76",
+  "Website": "https://xterminal.cn",
+  "Update": "2025-01-04 11:32:44",
+  "Size": "117.89 MB",
+  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
 }
 
 ,
@@ -1033,23 +1033,6 @@
 
 ,
 {
-  "Name": "TeXstudio",
-  "Version": "4.1.2-1_plus_3.1",
-  "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
-  "Pkgname": "texstudio",
-  "Author": "Benito van der Zander, Jan Sundermeyer, Daniel Braun, Tim Hoffmann",
-  "Contributor": "sgb76",
-  "Website": "http://texstudio.sourceforge.net/",
-  "Update": "2021-12-16 20:38:42",
-  "Size": "19.37 MB",
-  "More": "TeXstudio是一个用于创建LaTeX文档的集成写作环境。",
-  "Tags": "deepin",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/05cadd70-5e6d-11ec-95f6-1d6d123aedfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/0b9f2cb0-5e6d-11ec-95f6-1d6d123aedfa.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/0032faf0-5e6d-11ec-95f6-1d6d123aedfa.png"
-}
-
-,
-{
   "Name": "RedisViewer",
   "Version": "2.4.5",
   "Filename": "redisviewer_2.4.5_amd64.deb",
@@ -1080,6 +1063,23 @@
     "Size": "105.87MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
+,
+{
+  "Name": "TeXstudio",
+  "Version": "4.1.2-1_plus_3.1",
+  "Filename": "texstudio_4.1.2-1_plus_3.1_amd64.deb",
+  "Pkgname": "texstudio",
+  "Author": "Benito van der Zander, Jan Sundermeyer, Daniel Braun, Tim Hoffmann",
+  "Contributor": "sgb76",
+  "Website": "http://texstudio.sourceforge.net/",
+  "Update": "2021-12-16 20:38:42",
+  "Size": "19.37 MB",
+  "More": "TeXstudio是一个用于创建LaTeX文档的集成写作环境。",
+  "Tags": "deepin",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/05cadd70-5e6d-11ec-95f6-1d6d123aedfa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/16/0b9f2cb0-5e6d-11ec-95f6-1d6d123aedfa.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/16/0032faf0-5e6d-11ec-95f6-1d6d123aedfa.png"
+}
+
 ,
 {
   "Name": "墨刀",
@@ -1235,6 +1235,23 @@
 }
 ,
 {
+    "Name": "navicat",
+    "Version": "17.1.8",
+    "Filename": "navicat_17.1.8_amd64.deb",
+    "Torrent_address": "navicat_17.1.8_amd64.deb.torrent",
+    "Pkgname": "navicat",
+    "Author": "navicat",
+    "Contributor": "momen <vmomenv@gmail.com>",
+    "Website": "https://www.navicat.com.cn/",
+    "Update": "2025-03-11 17:00:08",
+    "Size": "194.33 MB",
+    "More": "Navicat 是一款功能强大的数据库管理工具，支持 MySQL、MariaDB、PostgreSQL、Oracle、SQLite、SQL Server 等多种数据库。它主要用于数据库的管理、开发和维护，适合开发人员、数据库管理员以及数据分析师使用。",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/11/9310863c9aaa4d26803c9ded5792f67e.png\",\"https://spk-json.spark-app.store/images/2025/03/11/87da15ae56b147768df85148d4346b46.png\",\"https://spk-json.spark-app.store/images/2025/03/11/187200aea4cd4e44829ba9eccd4266f7.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/11/f45399980b2d4c66979c50458263fefe.png"
+}
+,
+{
   "Name": "LibrePCB",
   "Version": "0.1.6",
   "Filename": "org.librepcb_0.1.6_amd64.deb",
@@ -1251,23 +1268,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/03/7dcde6b0-132f-11ed-b41d-b3e7f276408f.png"
 }
 
-,
-{
-    "Name": "navicat",
-    "Version": "17.1.8",
-    "Filename": "navicat_17.1.8_amd64.deb",
-    "Torrent_address": "navicat_17.1.8_amd64.deb.torrent",
-    "Pkgname": "navicat",
-    "Author": "navicat",
-    "Contributor": "momen <vmomenv@gmail.com>",
-    "Website": "https://www.navicat.com.cn/",
-    "Update": "2025-03-11 17:00:08",
-    "Size": "194.33 MB",
-    "More": "Navicat 是一款功能强大的数据库管理工具，支持 MySQL、MariaDB、PostgreSQL、Oracle、SQLite、SQL Server 等多种数据库。它主要用于数据库的管理、开发和维护，适合开发人员、数据库管理员以及数据分析师使用。",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/11/9310863c9aaa4d26803c9ded5792f67e.png\",\"https://spk-json.spark-app.store/images/2025/03/11/87da15ae56b147768df85148d4346b46.png\",\"https://spk-json.spark-app.store/images/2025/03/11/187200aea4cd4e44829ba9eccd4266f7.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/11/f45399980b2d4c66979c50458263fefe.png"
-}
 ,
 {
   "Name": "GitFiend",

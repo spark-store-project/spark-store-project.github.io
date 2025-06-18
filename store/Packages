@@ -6035,6 +6035,23 @@ SHA512: a741dc280f0c3d12e47ce06d953731b0b7ded3eaefba159e70412beadfbdf6a785688650
 Description: WPS Office性能优化工具
  重置WPS配置并清理临时文件，解决卡顿问题。
 
+Package: wps-optimizer
+Architecture: all
+Version: 3.3
+Priority: optional
+Section: utils
+Maintainer: fb93<fb93@fb93.com>
+Installed-Size: 720
+Depends: bash, coreutils
+Filename: ./tools/wps-optimizer/wps-optimizer_3.3_all.deb
+Size: 656332
+MD5sum: baa867698107a40c3a10894b1758d673
+SHA1: b8826d0466545aa5edbf758335b5ae403665c582
+SHA256: 2c1b0ffc41bc1e32336ff3f41a51c4a950a3b4752bacfe9ebd7d746474fc9b03
+SHA512: ace77667d8faefe4d214463908bb329fb78dc43399b432b2782db4e839f1048dd5dbb2d8780ea14121a7756dcf278802e438ff43e22bf42ce0d084328df518db
+Description: WPS Office性能优化工具
+ 重置WPS配置并清理临时文件，解决卡顿问题。
+
 Package: deepin-system-upgrade
 Architecture: amd64
 Version: 6.0.9-1
@@ -13257,6 +13274,26 @@ Description: 《原神》纳西妲主题光标，作者为B站用户@唯溯（ht
 
 Package: fantascene-dynamic-wallpaper
 Architecture: amd64
+Version: 2.0.5-1
+Priority: optional
+Section: utils
+Maintainer: liuminghang <liuminghang0821@gmail.com>
+Installed-Size: 9678
+Provides: fantascene-gxde
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libglib2.0-0 (>= 2.36.0), libmpv2 (>= 0.29), libqt5charts5 (>= 5.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 11), libx11-6, libxcb-ewmh2 (>= 0.4.1), libxcb1, libxext6, wget, ffmpeg, aria2
+Breaks: fantascene-gxde (<< 1.9~)
+Replaces: fantascene-gxde (<< 1.9~)
+Filename: ./themes/fantascene-dynamic-wallpaper/fantascene-dynamic-wallpaper_2.0.5-1_amd64.deb
+Size: 6970432
+MD5sum: 506b7f487459dba1a28191cd4f02f59a
+SHA1: faaf1ed0c6e6fecb57455f46076dc36688ac934d
+SHA256: 0fe93fb9d8537d5f64087395dd063ba651305bf6ee19fa6c77f50b016e7771f9
+SHA512: 6ff1132dcb2a224956a96194bf1c9e2664b6e6bb66296ec7139f837e1000f84e83f76f1c8a34481ba65f2ff598082bee9380c43003b50e1a8b45606ac8e43e35
+Homepage: http://github.com/dependon/fantascene-dynamic-wallpaper
+Description: animated wallpaper for fantascene.
+
+Package: fantascene-dynamic-wallpaper
+Architecture: amd64
 Version: 2.0.2-1
 Priority: optional
 Section: utils
@@ -15339,6 +15376,23 @@ MD5sum: 6554879226248de2d7ffbcc7049eff41
 SHA1: 0627c5e161936e89a2cfc0c4de3ea309a820b585
 SHA256: 8d4db5d771f0d01c0bf9d01e6bfd07a6d3756c2be955bba01f4dd683e32d8c43
 SHA512: 96b09064e79aee01ce105ad12ec9c89f8d3b0f3ddcf6afce577c0f9a701f8a08fb26ea10479bab320547dbae7cd7a756008ba0187f6a8949a11d5ea9e6345dfa
+Homepage: https://www.ovital.com
+Description: Ovital Map for Linux Version
+
+Package: ovital-map
+Architecture: amd64
+Version: 10.2.7
+Priority: optional
+Section: utils
+Maintainer:  info@ovital.com
+Installed-Size: 409761
+Depends: libx11-xcb1, libxcb1,libfreetype6,libsm6,libx11-6,libxrender1,libnss3,libnspr4
+Filename: ./image_graphics/ovital-map/ovital-map_10.2.7_amd64.deb
+Size: 170553674
+MD5sum: 1b3995eb498fdf2b0243f757ddd9318a
+SHA1: dd5aab0193509f5bfbe0c75bae33135f26cdbdac
+SHA256: 23e668cebabf21213dcd442c59693f1e0676d50aac227aadd99e81dc3cfa5d2a
+SHA512: 36b14c520caaee64fb78c002907664c30b8d0b9e1d07116dd723745341cd88da7f81cfee0aa5b6393f3b9d791b2fb1921710adde2162a4cd2ef950a99d5f730a
 Homepage: https://www.ovital.com
 Description: Ovital Map for Linux Version
 

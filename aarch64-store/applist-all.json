@@ -3201,22 +3201,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/sunny/screen_5.png\"]"
     },
     {
-      "Author": "support <support@gstarcad.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.gstarcad2023.cad_23.0.2_arm64.deb",
-      "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
-      "Name": "浩辰CAD 2023 For Linux",
-      "Pkgname": "com.gstarcad2023.cad",
-      "Size": "116 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.gstarcad2023.cad_23.0.2_arm64.deb.torrent",
-      "Update": "2023-06-11 12:29:59",
-      "Version": "23.0.2",
-      "Website": "https://www.gstarcad.com",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_3.png\"]"
-    },
-    {
       "Author": "jiar <jiar@kuaicad.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.kuaicad.cadreader_1.0.0.0-1_arm64.deb",
@@ -3231,6 +3215,22 @@
       "Website": "http://cad.glodon.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.kuaicad.cadreader/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.kuaicad.cadreader/screen_1.png\"]"
+    },
+    {
+      "Author": "support <support@gstarcad.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.gstarcad2023.cad_23.0.2_arm64.deb",
+      "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+      "Name": "浩辰CAD 2023 For Linux",
+      "Pkgname": "com.gstarcad2023.cad",
+      "Size": "116 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.gstarcad2023.cad_23.0.2_arm64.deb.torrent",
+      "Update": "2023-06-11 12:29:59",
+      "Version": "23.0.2",
+      "Website": "https://www.gstarcad.com",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2023.cad/screen_3.png\"]"
     },
     {
       "Author": "刘久胜 <891599396@qq.com>",
@@ -3521,6 +3521,19 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/htycolorpicker/screen_1.png\"]"
     },
     {
+      "Name": "火焰截图flameshot",
+      "Version": "12.1.0-1",
+      "Filename": "flameshot_12.1.0-1_arm64.deb",
+      "Pkgname": "flameshot",
+      "Author": "Boyuan Yang <byang@debian.org>",
+      "Contributor": "wcbing <i@wcbing.top>",
+      "Website": "https://github.com/flameshot-org/flameshot",
+      "Update": "2023-05-26 23:40:29",
+      "Size": "604.00 KB",
+      "More": "好用的截图软件，支持划区截图，贴图等。",
+      "Tags": "community;debian;deepin;ubuntu;uos"
+    },
+    {
       "Author": "北京大麦地信息科技有限公司 <support@processon.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.processon.processonmind_5.5.1.0_arm64.deb",
@@ -3535,19 +3548,6 @@
       "Website": "https://www.processon.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.processon.processonmind/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.processon.processonmind/screen_1.png\"]"
-    },
-    {
-      "Name": "火焰截图flameshot",
-      "Version": "12.1.0-1",
-      "Filename": "flameshot_12.1.0-1_arm64.deb",
-      "Pkgname": "flameshot",
-      "Author": "Boyuan Yang <byang@debian.org>",
-      "Contributor": "wcbing <i@wcbing.top>",
-      "Website": "https://github.com/flameshot-org/flameshot",
-      "Update": "2023-05-26 23:40:29",
-      "Size": "604.00 KB",
-      "More": "好用的截图软件，支持划区截图，贴图等。",
-      "Tags": "community;debian;deepin;ubuntu;uos"
     },
     {
       "Author": "zhengzeli <zhengzeli@zwcad.com>",
@@ -4784,22 +4784,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/org.ppsspp/screen_1.png\"]"
     },
     {
-      "Name": "Unciv 开源文明五",
-      "Version": "4.6.11~spark2",
-      "Filename": "unciv_4.6.11~spark2_all.deb",
-      "Torrent_address": "unciv_4.6.11~spark2_all.deb.torrent",
-      "Pkgname": "unciv",
-      "Author": "Yair Morgenstern",
-      "Contributor": "Donald Sebastian Leung",
-      "Website": "https://github.com/yairm210/Unciv",
-      "Update": "2023-05-12 20:54:33",
-      "Size": "40.86 MB",
-      "More": "Unciv 是一个永远免费开源、占用空间小、无广告的 Civ V 克隆。\n\n创建您的文明、研究发展科技、扩张您的地盘并歼灭您的敌人！\n\n世界正在等待您！您有能力把您的文明发展成经得起时间考验的帝国吗？",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1ca7d210-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1cd4fc90-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1d343390-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1d7eaa10-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1db1a0f0-f0c4-11ed-a34c-9b2c26a1fde8.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/12/1a36d210-f0c4-11ed-a34c-9b2c26a1fde8.png"
-    },
-    {
       "Author": "nillerusr",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "cstrikesource_1.0-1_arm64.deb",
@@ -4814,6 +4798,22 @@
       "Website": "https://github.com/kanhuiji100",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/cstrikesource/icon.png",
       "img_urls": "[]"
+    },
+    {
+      "Name": "Unciv 开源文明五",
+      "Version": "4.6.11~spark2",
+      "Filename": "unciv_4.6.11~spark2_all.deb",
+      "Torrent_address": "unciv_4.6.11~spark2_all.deb.torrent",
+      "Pkgname": "unciv",
+      "Author": "Yair Morgenstern",
+      "Contributor": "Donald Sebastian Leung",
+      "Website": "https://github.com/yairm210/Unciv",
+      "Update": "2023-05-12 20:54:33",
+      "Size": "40.86 MB",
+      "More": "Unciv 是一个永远免费开源、占用空间小、无广告的 Civ V 克隆。\n\n创建您的文明、研究发展科技、扩张您的地盘并歼灭您的敌人！\n\n世界正在等待您！您有能力把您的文明发展成经得起时间考验的帝国吗？",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1ca7d210-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1cd4fc90-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1d343390-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1d7eaa10-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1db1a0f0-f0c4-11ed-a34c-9b2c26a1fde8.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/12/1a36d210-f0c4-11ed-a34c-9b2c26a1fde8.png"
     },
     {
       "Author": "长沙次元超越科技有限公司",
@@ -4976,22 +4976,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/screen_1.png\"]"
     },
     {
-      "Author": "shenmo<shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "fairdyne_1.5.1_all.deb",
-      "More": "安黛因模拟战，UT厨狂喜\n端口38324将在游戏运行期间被占用",
-      "Name": "安黛因模拟战",
-      "Pkgname": "fairdyne",
-      "Size": "27 Mb",
-      "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
-      "Torrent_address": "fairdyne_1.5.1_all.deb.torrent",
-      "Update": "2023-03-12 10:11:35",
-      "Version": "1.5.1",
-      "Website": "https://github.com/joezeng/fairdyne",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/screen_1.png\"]"
-    },
-    {
       "Author": "nillerusr",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "portal_1.0_arm64.deb",
@@ -5006,6 +4990,22 @@
       "Website": "https://github.com/kanhuiji100",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/portal/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_3.png\"]"
+    },
+    {
+      "Author": "shenmo<shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "fairdyne_1.5.1_all.deb",
+      "More": "安黛因模拟战，UT厨狂喜\n端口38324将在游戏运行期间被占用",
+      "Name": "安黛因模拟战",
+      "Pkgname": "fairdyne",
+      "Size": "27 Mb",
+      "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
+      "Torrent_address": "fairdyne_1.5.1_all.deb.torrent",
+      "Update": "2023-03-12 10:11:35",
+      "Version": "1.5.1",
+      "Website": "https://github.com/joezeng/fairdyne",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/screen_1.png\"]"
     },
     {
       "Author": "Deepin WINE Team",
@@ -6193,22 +6193,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_4.png\"]"
     },
     {
-      "Author": "武汉初心科技有限公司 <contact@shimo.im>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "shimo_3.4.2_arm64.deb",
-      "More": "为企业和组织打造的国产企业级云端 Office\n全员高效协同｜数据安全管控｜系统集成定制｜轻型应用搭建",
-      "Name": "石墨文档",
-      "Pkgname": "shimo",
-      "Size": "437 Mb",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "shimo_3.4.2_arm64.deb.torrent",
-      "Update": "2025-01-11 13:46:28",
-      "Version": "3.4.2",
-      "Website": "https://shimo.im",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/office/shimo/icon.png",
-      "img_urls": "[]"
-    },
-    {
       "Author": "spark-store",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "chatbox_1.10.4_arm64.deb",
@@ -6223,6 +6207,22 @@
       "Website": "https://chatboxai.app/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/office/chatbox/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/chatbox/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/chatbox/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/chatbox/screen_3.png\"]"
+    },
+    {
+      "Author": "武汉初心科技有限公司 <contact@shimo.im>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "shimo_3.4.2_arm64.deb",
+      "More": "为企业和组织打造的国产企业级云端 Office\n全员高效协同｜数据安全管控｜系统集成定制｜轻型应用搭建",
+      "Name": "石墨文档",
+      "Pkgname": "shimo",
+      "Size": "437 Mb",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "shimo_3.4.2_arm64.deb.torrent",
+      "Update": "2025-01-11 13:46:28",
+      "Version": "3.4.2",
+      "Website": "https://shimo.im",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/office/shimo/icon.png",
+      "img_urls": "[]"
     },
     {
       "Author": "<zyl@uniontech.com>",
@@ -6561,6 +6561,22 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.doudian.workstation.spark/screen_1.png\"]"
     },
     {
+      "Author": "uclient<uclient@yonyou.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.yonyou.uclient_3.1_arm64.deb",
+      "More": "UBrowser是专为企业服务定制的浏览器，它为云应用、软件应用，提供了完整统一的使用体验，实现一个桌面、一个入口统一管理和使用所有的应用。",
+      "Name": "UClient",
+      "Pkgname": "com.yonyou.uclient",
+      "Size": "3250 Kb",
+      "Tags": "deepin;uos;ubuntu;debian;native",
+      "Torrent_address": "com.yonyou.uclient_3.1_arm64.deb.torrent",
+      "Update": "2024-11-22 22:15:21",
+      "Version": "3.1",
+      "Website": "https://uclient.yonyoucloud.com",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.yonyou.uclient/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.yonyou.uclient/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.yonyou.uclient/screen_2.png\"]"
+    },
+    {
       "Author": "gfdgd xi、为什么您不知道熊出没和阿布呢",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "spark-microsoftsharepoint_1.0.0_arm64.deb",
@@ -6622,22 +6638,6 @@
       "Website": "https://www.gxde.top",
       "icons": "https://spk-json.spark-app.store/aarch64-store/office/gxde-editor/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/gxde-editor/screen_1.png\"]"
-    },
-    {
-      "Author": "uclient<uclient@yonyou.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.yonyou.uclient_3.1_arm64.deb",
-      "More": "UBrowser是专为企业服务定制的浏览器，它为云应用、软件应用，提供了完整统一的使用体验，实现一个桌面、一个入口统一管理和使用所有的应用。",
-      "Name": "UClient",
-      "Pkgname": "com.yonyou.uclient",
-      "Size": "3250 Kb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "com.yonyou.uclient_3.1_arm64.deb.torrent",
-      "Update": "2024-11-22 22:15:21",
-      "Version": "3.1",
-      "Website": "https://uclient.yonyoucloud.com",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.yonyou.uclient/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.yonyou.uclient/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.yonyou.uclient/screen_2.png\"]"
     },
     {
       "Author": "CloudLink Kit Team",
@@ -7391,22 +7391,6 @@
       "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-downloader_1.1.3_all.deb",
-      "More": "GXDE 下载助手是一个基于AriaNG构建的下载辅助工具，可以用于Http/Https/Ftp/BT/PT/Metalink 下载\n\n* 新增：Upnp支持\n* 新增:   DHT 6",
-      "Name": "GXDE 下载助手 AriaNG",
-      "Pkgname": "gxde-downloader",
-      "Size": "547 Kb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Torrent_address": "gxde-downloader_1.1.3_all.deb.torrent",
-      "Update": "2024-10-25 15:52:42",
-      "Version": "1.1.3",
-      "Website": "https://gitee.com/GXDE-OS/gxde-downloader-neo",
-      "icons": "https://spk-json.spark-app.store/store/network/gxde-downloader/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_1.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_2.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_3.png\"]"
-    },
-    {
       "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "quark-cloud-drive_2.2.3_all.deb",
@@ -7421,6 +7405,22 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-downloader_1.1.3_all.deb",
+      "More": "GXDE 下载助手是一个基于AriaNG构建的下载辅助工具，可以用于Http/Https/Ftp/BT/PT/Metalink 下载\n\n* 新增：Upnp支持\n* 新增:   DHT 6",
+      "Name": "GXDE 下载助手 AriaNG",
+      "Pkgname": "gxde-downloader",
+      "Size": "547 Kb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Torrent_address": "gxde-downloader_1.1.3_all.deb.torrent",
+      "Update": "2024-10-25 15:52:42",
+      "Version": "1.1.3",
+      "Website": "https://gitee.com/GXDE-OS/gxde-downloader-neo",
+      "icons": "https://spk-json.spark-app.store/store/network/gxde-downloader/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_1.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_2.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_3.png\"]"
     },
     {
       "Author": "HopToDesk",

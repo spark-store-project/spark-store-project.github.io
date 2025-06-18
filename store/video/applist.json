@@ -400,24 +400,6 @@
 
 ,
 {
-  "Name": "Kdenlive",
-  "Version": "22.12.2spark1",
-  "Filename": "org.kdenlive.spark_22.12.2spark1_amd64.deb",
-  "Torrent_address": "org.kdenlive.spark_22.12.2spark1_amd64.deb.torrent",
-  "Pkgname": "org.kdenlive.spark",
-  "Author": "spark-store",
-  "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-  "Website": "https://kdenlive.org",
-  "Update": "2023-03-01 13:20:48",
-  "Size": "182.5 MB",
-  "More": "Kdenlive 是一款自由开源的免费视频剪辑软件，项目发起于 2003 年。Kdenlive 基于 Qt 和 KDE 程序库框架构建，大部分的视频处理功能则是通过 MLT 媒体程序框架实现，而 MLT 的功能则是基于 FFmpeg、frei0r、movit、ladspa、sox 等自由开源软件项目实现。",
-  "Tags": "ubuntu;deepin;uos;a2d;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/47f6451d465f4ae28dbe88d3ca884cbd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/a1c12f2c4ccc421d858a606a5b5c9d3c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/01/a73dc541574b4d868368717f1d24d979.png"
-}
-
-,
-{
   "Name": "360万能播放器",
   "Version": "1.0.0.111",
   "Filename": "cn.360.360player_1.0.0.111_amd64.deb",
@@ -432,6 +414,24 @@
   "Tags": "deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/c436616dbe884ff08946b345460fc198.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/01/49afee443a6f4cff981b3c1e75b8be73.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/01/5ff25d43c6db437fbfb6b59ab95c927e.png"
+}
+
+,
+{
+  "Name": "Kdenlive",
+  "Version": "22.12.2spark1",
+  "Filename": "org.kdenlive.spark_22.12.2spark1_amd64.deb",
+  "Torrent_address": "org.kdenlive.spark_22.12.2spark1_amd64.deb.torrent",
+  "Pkgname": "org.kdenlive.spark",
+  "Author": "spark-store",
+  "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+  "Website": "https://kdenlive.org",
+  "Update": "2023-03-01 13:20:48",
+  "Size": "182.5 MB",
+  "More": "Kdenlive 是一款自由开源的免费视频剪辑软件，项目发起于 2003 年。Kdenlive 基于 Qt 和 KDE 程序库框架构建，大部分的视频处理功能则是通过 MLT 媒体程序框架实现，而 MLT 的功能则是基于 FFmpeg、frei0r、movit、ladspa、sox 等自由开源软件项目实现。",
+  "Tags": "ubuntu;deepin;uos;a2d;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/47f6451d465f4ae28dbe88d3ca884cbd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/a1c12f2c4ccc421d858a606a5b5c9d3c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/01/a73dc541574b4d868368717f1d24d979.png"
 }
 
 ,
@@ -1381,6 +1381,23 @@
 
 ,
 {
+    "Name": "Open格式转换",
+    "Version": "1.2",
+    "Filename": "com.mrarub.open_1.2_amd64.deb",
+    "Torrent_address": "com.mrarub.open_1.2_amd64.deb.torrent",
+    "Pkgname": "com.mrarub.open",
+    "Author": "mrarub",
+    "Contributor": "mrarub",
+    "Website": "https://mrarub.eu.org",
+    "Update": "2025-06-14 22:00:34",
+    "Size": "112.7 MB",
+    "More": "Open Format Conversion 是一款专为 Linux 系统开发 的 图形化格式转换工具，旨在为用户提供原生、高效且开源的Linux格式转换解决方案。项目灵感源自 Deepin 论坛网友需求——打造一个 Linux 原生 GUI 交互 的开源程序。",
+    "Tags": "community;debian;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/020fc45fe4be4a88823ddf3a99afbc62.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4254f809edec471a810db6514166e36d.png"
+}
+,
+{
   "Name": "Aiseesoft 3D Converter",
   "Version": "6.5.20",
   "Filename": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb",
@@ -1397,23 +1414,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/ff3aa714ace34f31a2aa8aa8324e6f1f.png"
 }
 
-,
-{
-    "Name": "Open格式转换",
-    "Version": "1.2",
-    "Filename": "com.mrarub.open_1.2_amd64.deb",
-    "Torrent_address": "com.mrarub.open_1.2_amd64.deb.torrent",
-    "Pkgname": "com.mrarub.open",
-    "Author": "mrarub",
-    "Contributor": "mrarub",
-    "Website": "https://mrarub.eu.org",
-    "Update": "2025-06-14 22:00:34",
-    "Size": "112.7 MB",
-    "More": "Open Format Conversion 是一款专为 Linux 系统开发 的 图形化格式转换工具，旨在为用户提供原生、高效且开源的Linux格式转换解决方案。项目灵感源自 Deepin 论坛网友需求——打造一个 Linux 原生 GUI 交互 的开源程序。",
-    "Tags": "community;debian;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/020fc45fe4be4a88823ddf3a99afbc62.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4254f809edec471a810db6514166e36d.png"
-}
 ,
 {
     "Name": "FastFlix",

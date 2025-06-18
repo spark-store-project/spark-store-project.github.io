@@ -623,24 +623,6 @@
 
 ,
 {
-  "Name": "NeatDownloadManager",
-  "Version": "1.4.10spark2",
-  "Filename": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb",
-  "Torrent_address": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb.torrent",
-  "Pkgname": "com.neatdownloadmanager.spark",
-  "Author": "NeatDownloadManager",
-  "Contributor": "sgb76",
-  "Website": "https://www.neatdownloadmanager.com/",
-  "Update": "2024-01-28 19:57:48",
-  "Size": "13.91 MB",
-  "More": "NeatDownloadManager是一款免费轻量小巧的多线程下载工具，可以支持多线程下载和在线视频嗅探下载，功能和特性上和 IDM、FDM 或 Mac 上的 Folx 等下载软件非常相似。界面也简单易上手，可以轻松帮你提升网络下载速度。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/ce00ea7dee514da9b2ff471513b7b7cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/b2766b8d9e9f458295a5249d4c496889.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/63eff2f6427140fbab92a339e7149f2c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/c65e0c8b61174d1486676f3ee2a2849a.png"
-}
-
-,
-{
   "Name": "Chromium",
   "Version": "111.0.5503.0",
   "Filename": "chromium-linux_111.0.5503.0_amd64.deb",
@@ -655,6 +637,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/88722011696846fea8665b0c43a2dfb5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/335383763a5a434c9b63a980bd9db90a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/475a088280dd4b32a5f4b65c46f134ea.png"
+}
+
+,
+{
+  "Name": "NeatDownloadManager",
+  "Version": "1.4.10spark2",
+  "Filename": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb",
+  "Torrent_address": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb.torrent",
+  "Pkgname": "com.neatdownloadmanager.spark",
+  "Author": "NeatDownloadManager",
+  "Contributor": "sgb76",
+  "Website": "https://www.neatdownloadmanager.com/",
+  "Update": "2024-01-28 19:57:48",
+  "Size": "13.91 MB",
+  "More": "NeatDownloadManager是一款免费轻量小巧的多线程下载工具，可以支持多线程下载和在线视频嗅探下载，功能和特性上和 IDM、FDM 或 Mac 上的 Folx 等下载软件非常相似。界面也简单易上手，可以轻松帮你提升网络下载速度。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/ce00ea7dee514da9b2ff471513b7b7cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/b2766b8d9e9f458295a5249d4c496889.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/63eff2f6427140fbab92a339e7149f2c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/c65e0c8b61174d1486676f3ee2a2849a.png"
 }
 
 ,
@@ -1069,21 +1069,6 @@
 
 ,
 {
-  "Name": "OneDrive for Linux 命令行版",
-  "Version": "2.4.3",
-  "Filename": "onedrive_2.4.3_all.deb",
-  "Pkgname": "onedrive",
-  "Author": "abraunegg",
-  "Contributor": "jalawov",
-  "Website": "https://github.com/abraunegg/onedrive",
-  "Update": "2020-07-07 17:58",
-  "Size": "4.54MB",
-  "More": "onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版",
-  "Tags": "debian"
-}
-
-,
-{
   "Name": "夸克网盘精简版（Linux）",
   "Version": "1.0.3",
   "Filename": "cn.quark.quark-cloud-drive_1.0.3_amd64.deb",
@@ -1098,6 +1083,21 @@
   "Tags": "community;ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/0307c6e72261441a85f0e16a6916b055.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/04/e2b1f4627eb74b8480414e0a7b9a5833.png"
+}
+
+,
+{
+  "Name": "OneDrive for Linux 命令行版",
+  "Version": "2.4.3",
+  "Filename": "onedrive_2.4.3_all.deb",
+  "Pkgname": "onedrive",
+  "Author": "abraunegg",
+  "Contributor": "jalawov",
+  "Website": "https://github.com/abraunegg/onedrive",
+  "Update": "2020-07-07 17:58",
+  "Size": "4.54MB",
+  "More": "onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版",
+  "Tags": "debian"
 }
 
 ,
@@ -1661,23 +1661,6 @@
 
 ,
 {
-  "Name": "红旗浏览器",
-  "Version": "1.1.0.0",
-  "Filename": "redflag-browser_1.1.0.0_amd64.deb",
-  "Pkgname": "redflag-browser",
-  "Author": "红旗Linux",
-  "Contributor": "OkayPJ",
-  "Website": "http://www.chinaredflag.cn/",
-  "Update": "2021-07-05 07:01:00",
-  "Size": "102.17 MB",
-  "More": "红旗浏览器是一款搭载Chromium内核版本的安全、高效、快捷的自研应用程序，具有启动速度快、网页渲染能力佳等特点。全面支持主流CPU架构(包括X86_86、鲲鹏、兆芯、飞腾、龙芯、海光等CPU平台)、操作系统、流版签办公插件、1080p及4K高清视频流畅播放、显卡硬件加速。\n\n为了完善软件生态不足问题，中科红旗持续推进自研应用程序生态构建的步伐。目前，已有多款自研应用逐步开发、测试中，将逐步发布并开放下载。红旗操作系统一直以构建良好的应用软件生态圈为目标，积极响应行业主管部门和市场的需求号召，为用户带来更好的使用体验。",
-  "Tags": "deepin;uos;community",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c0c52f0-dd1a-11eb-bf76-f7677d1b01f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c03c770-dd1a-11eb-bf76-f7677d1b01f2.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/05/182d9220-dd1a-11eb-bf76-f7677d1b01f2.png"
-}
-
-,
-{
   "Name": "水狐",
   "Version": "3.1.0",
   "Filename": "waterfox_3.1.0_amd64.deb",
@@ -1691,6 +1674,23 @@
   "Tags": "deepin",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/a35d1af0-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/b1d57b40-66af-11eb-af9a-59029733c48e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/04/bb4d7e20-66af-11eb-af9a-59029733c48e.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/04/a47b9530-66ad-11eb-af9a-59029733c48e.png"
+}
+
+,
+{
+  "Name": "红旗浏览器",
+  "Version": "1.1.0.0",
+  "Filename": "redflag-browser_1.1.0.0_amd64.deb",
+  "Pkgname": "redflag-browser",
+  "Author": "红旗Linux",
+  "Contributor": "OkayPJ",
+  "Website": "http://www.chinaredflag.cn/",
+  "Update": "2021-07-05 07:01:00",
+  "Size": "102.17 MB",
+  "More": "红旗浏览器是一款搭载Chromium内核版本的安全、高效、快捷的自研应用程序，具有启动速度快、网页渲染能力佳等特点。全面支持主流CPU架构(包括X86_86、鲲鹏、兆芯、飞腾、龙芯、海光等CPU平台)、操作系统、流版签办公插件、1080p及4K高清视频流畅播放、显卡硬件加速。\n\n为了完善软件生态不足问题，中科红旗持续推进自研应用程序生态构建的步伐。目前，已有多款自研应用逐步开发、测试中，将逐步发布并开放下载。红旗操作系统一直以构建良好的应用软件生态圈为目标，积极响应行业主管部门和市场的需求号召，为用户带来更好的使用体验。",
+  "Tags": "deepin;uos;community",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c0c52f0-dd1a-11eb-bf76-f7677d1b01f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/05/1c03c770-dd1a-11eb-bf76-f7677d1b01f2.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/05/182d9220-dd1a-11eb-bf76-f7677d1b01f2.png"
 }
 
 ,
@@ -1779,24 +1779,6 @@
 
 ,
 {
-  "Name": "蓝奏云盘",
-  "Version": "3.4.8spark2",
-  "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
-  "Torrent_address": "com.lanzou.spark_3.4.8spark2_all.deb.torrent",
-  "Pkgname": "com.lanzou.spark",
-  "Author": "chenhb23",
-  "Contributor": "sgb76",
-  "Website": "https://github.com/chenhb23/lanzouyun-disk",
-  "Update": "2024-02-26 23:34:36",
-  "Size": "75.33 MB",
-  "More": "一款蓝奏云盘的第三方客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。\n\n--说明--\nUbuntu22.04在KDE桌面环境下测试运行正常",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/619c17e2e0ae4c30ba98a079b02d5a1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/34aab0dab70a41a09ffe2afc7ac807d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/75aaeb84d9e24a6183683dd18bf09915.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/4e75967c1b024f408ec60d112b1a7cab.png"
-}
-
-,
-{
   "Author": "shenmo",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1811,6 +1793,24 @@
   "Website": "",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "蓝奏云盘",
+  "Version": "3.4.8spark2",
+  "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
+  "Torrent_address": "com.lanzou.spark_3.4.8spark2_all.deb.torrent",
+  "Pkgname": "com.lanzou.spark",
+  "Author": "chenhb23",
+  "Contributor": "sgb76",
+  "Website": "https://github.com/chenhb23/lanzouyun-disk",
+  "Update": "2024-02-26 23:34:36",
+  "Size": "75.33 MB",
+  "More": "一款蓝奏云盘的第三方客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。\n\n--说明--\nUbuntu22.04在KDE桌面环境下测试运行正常",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/619c17e2e0ae4c30ba98a079b02d5a1a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/34aab0dab70a41a09ffe2afc7ac807d3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/26/75aaeb84d9e24a6183683dd18bf09915.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/26/4e75967c1b024f408ec60d112b1a7cab.png"
 }
 
 ,
@@ -1972,6 +1972,23 @@
 
 ,
 {
+    "Name": "浙政钉",
+    "Version": "2.23.0.1-spark1",
+    "Filename": "com.zjd.gov_2.23.0.1-spark1_amd64.deb",
+    "Torrent_address": "com.zjd.gov_2.23.0.1-spark1_amd64.deb.torrent",
+    "Pkgname": "com.zjd.gov",
+    "Author": "com.zjd.gov",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://com.zjd.gov.com",
+    "Update": "2025-06-14 16:45:39",
+    "Size": "318.69 MB",
+    "More": "“浙政钉”APP是浙江省大数据发展管理局建设打造的浙江省政务协同平台，采用技术融合、业务融合、数据融合，实现政务运行跨层级、跨地域、跨系统、跨部门、跨业务高效协同，全面支撑“掌上办公之省”“掌上治理之省”建设。\n“浙政钉”APP以满足政务办公场景需求为目标，通过建立覆盖浙江省的统一政务通讯录，落实高效闭环的消息送达机制，搭建内外闭环的协同流程体系，打造集成开放的移动应用门户，实现组织在线、沟通在线、协同在线、业务在线。\n\n“浙政钉”APP特色：\n1.账号权限统一账户：构建统一的账号管理、身份认证与权限管控，支持应用账号的统一管理，账号权限按照分级授权，赋能业务应用的单点登录。\n2.条块结合的通讯录：支持搭建区划组织、条线组织和专属组织的多类型通讯录，可见性与免打扰灵活配置，实现快速找组织、找人。\n3.通讯多元消息必达：通过单聊、群聊、DING、云会议、工作通知等多元通讯能力扩展触达渠道，提供多场景找人路径，实现即时通讯、DING消息必达。\n4.特色定制工作门户：根据工作场景灵活定制PC和移动工作门户，支持千组织千面、千人千面，日程、待办、审批任务提供强提醒通知。",
+    "Tags": "debian;ubuntu;deepin;amber-ce-deepin23",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/cc2c15d1327840038cf6bd2c41cf799f.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/f26e6d47a41c4413aacff5d4f5dee44e.png"
+}
+,
+{
   "Name": "摸鱼股票球",
   "Version": "0.3.0",
   "Filename": "findfish-stockball_0.3.0_amd64.deb",
@@ -2021,23 +2038,6 @@
     "Tags": "debian;ubuntu;deepin;uos",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/315265c13cda4f4789d4ffe0a49609a8.png\",\"https://spk-json.spark-app.store/images/2025/05/29/a7450481d7614994abe37831759a71b7.png\",\"https://spk-json.spark-app.store/images/2025/05/29/a420916760724150b65bef8981b242c9.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/05/29/1144c7c4437642c18681a83d3ce53db4.png"
-}
-,
-{
-    "Name": "浙政钉",
-    "Version": "2.23.0.1-spark1",
-    "Filename": "com.zjd.gov_2.23.0.1-spark1_amd64.deb",
-    "Torrent_address": "com.zjd.gov_2.23.0.1-spark1_amd64.deb.torrent",
-    "Pkgname": "com.zjd.gov",
-    "Author": "com.zjd.gov",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://com.zjd.gov.com",
-    "Update": "2025-06-14 16:45:39",
-    "Size": "318.69 MB",
-    "More": "“浙政钉”APP是浙江省大数据发展管理局建设打造的浙江省政务协同平台，采用技术融合、业务融合、数据融合，实现政务运行跨层级、跨地域、跨系统、跨部门、跨业务高效协同，全面支撑“掌上办公之省”“掌上治理之省”建设。\n“浙政钉”APP以满足政务办公场景需求为目标，通过建立覆盖浙江省的统一政务通讯录，落实高效闭环的消息送达机制，搭建内外闭环的协同流程体系，打造集成开放的移动应用门户，实现组织在线、沟通在线、协同在线、业务在线。\n\n“浙政钉”APP特色：\n1.账号权限统一账户：构建统一的账号管理、身份认证与权限管控，支持应用账号的统一管理，账号权限按照分级授权，赋能业务应用的单点登录。\n2.条块结合的通讯录：支持搭建区划组织、条线组织和专属组织的多类型通讯录，可见性与免打扰灵活配置，实现快速找组织、找人。\n3.通讯多元消息必达：通过单聊、群聊、DING、云会议、工作通知等多元通讯能力扩展触达渠道，提供多场景找人路径，实现即时通讯、DING消息必达。\n4.特色定制工作门户：根据工作场景灵活定制PC和移动工作门户，支持千组织千面、千人千面，日程、待办、审批任务提供强提醒通知。",
-    "Tags": "debian;ubuntu;deepin;amber-ce-deepin23",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/cc2c15d1327840038cf6bd2c41cf799f.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/f26e6d47a41c4413aacff5d4f5dee44e.png"
 }
 ,
 {
@@ -2164,24 +2164,6 @@
 
 ,
 {
-  "Name": "anto  翻译工具",
-  "Version": "3.6.3",
-  "Filename": "com.anto.deepin_3.6.3_all.deb",
-  "Torrent_address": "com.anto.deepin_3.6.3_all.deb.torrent",
-  "Pkgname": "com.anto.deepin",
-  "Author": "wang",
-  "Contributor": "wang",
-  "Website": "https://www.appinn.com/anto-srt-translate/",
-  "Update": "2024-05-30 22:51:16",
-  "Size": "10.28 MB",
-  "More": "anto 是一款简单、开箱即用的 Windows 工具，用来翻译字幕文件。内置彩云小译、DeepL、微软翻译，并支持自配置的百度翻译、华为云、火山、腾讯、有道、OpenAI 翻译引擎。",
-  "Tags": "deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
-}
-
-,
-{
   "Author": "spark-store",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "zen_1.7.6b_amd64.deb",
@@ -2196,6 +2178,24 @@
   "Website": "https://zen-browser.app/",
   "icons": "https://spk-json.spark-app.store/store/network/zen/icon.png",
   "img_urls": "[]"
+}
+
+,
+{
+  "Name": "anto  翻译工具",
+  "Version": "3.6.3",
+  "Filename": "com.anto.deepin_3.6.3_all.deb",
+  "Torrent_address": "com.anto.deepin_3.6.3_all.deb.torrent",
+  "Pkgname": "com.anto.deepin",
+  "Author": "wang",
+  "Contributor": "wang",
+  "Website": "https://www.appinn.com/anto-srt-translate/",
+  "Update": "2024-05-30 22:51:16",
+  "Size": "10.28 MB",
+  "More": "anto 是一款简单、开箱即用的 Windows 工具，用来翻译字幕文件。内置彩云小译、DeepL、微软翻译，并支持自配置的百度翻译、华为云、火山、腾讯、有道、OpenAI 翻译引擎。",
+  "Tags": "deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
 }
 
 ,
@@ -2377,6 +2377,23 @@
 
 ,
 {
+    "Name": "豆包(wine)",
+    "Version": "1.56.6wine3",
+    "Filename": "doubao-wine_1.56.6wine3_all.deb",
+    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
+    "Pkgname": "doubao-wine",
+    "Author": "豆包",
+    "Contributor": "CR.Zhu",
+    "Website": "https://www.doubao.com/download/",
+    "Update": "2025-05-26 16:27:34",
+    "Size": "519.32 MB",
+    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+}
+,
+{
   "Name": "皮皮直连",
   "Version": "9.2.1",
   "Filename": "pplink_9.2.1_amd64.deb",
@@ -2428,23 +2445,6 @@
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frpc/icon.png"
 }
 
-,
-{
-    "Name": "豆包(wine)",
-    "Version": "1.56.6wine3",
-    "Filename": "doubao-wine_1.56.6wine3_all.deb",
-    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
-    "Pkgname": "doubao-wine",
-    "Author": "豆包",
-    "Contributor": "CR.Zhu",
-    "Website": "https://www.doubao.com/download/",
-    "Update": "2025-05-26 16:27:34",
-    "Size": "519.32 MB",
-    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
-}
 ,
 {
   "Name": "ODE 多功能助手",
