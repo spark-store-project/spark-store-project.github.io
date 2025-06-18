@@ -19,15 +19,15 @@
 ,
 {
     "Name": "Google Chrome",
-    "Version": "137.0.7151.103-1",
-    "Filename": "google-chrome-stable_137.0.7151.103-1_amd64.deb",
-    "Torrent_address": "google-chrome-stable_137.0.7151.103-1_amd64.deb.torrent",
+    "Version": "137.0.7151.119-1",
+    "Filename": "google-chrome-stable_137.0.7151.119-1_amd64.deb",
+    "Torrent_address": "google-chrome-stable_137.0.7151.119-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-stable",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-06-11 17:35:53",
-    "Size": "112M",
+    "Update": "2025-06-18 17:42:40",
+    "Size": "113M",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-stable/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-stable/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-stable/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-stable/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-stable/screen_5.png\"]",
@@ -444,14 +444,14 @@
 ,
 {
     "Name": "Microsoft Edge Dev开发者通道",
-    "Version": "139.0.3365.2-1",
-    "Filename": "microsoft-edge-dev_139.0.3365.2-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-dev_139.0.3365.2-1_amd64.deb.torrent",
+    "Version": "139.0.3380.1-1",
+    "Filename": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-dev",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-06-10 17:36:05",
+    "Update": "2025-06-18 17:39:08",
     "Size": "179M",
     "More": "Access the Internet/连接网络\nMicrosoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier./Microsoft Edge 是一款将极简设计与先进技术相结合的浏览器，使网络变得更快、更安全、更轻松。\n每周更新\n比金丝雀更稳定。过去一周改进的最佳代表。\n我们的三个预览频道（Canary、Dev 和 Beta）可在所有受支持的 Windows、Windows Server 以及 macOS、Mobile 和 Linux 版本上使用。安装预览频道不会卸载已发布的 Microsoft Edge 版本，你可以同时安装多个预览频道。\n\n\n                    以下是 Microsoft Edge 新增功能介绍\n                从移动设备上传文件或照片\n通过扫描二维码，快速连接与 PC 处于同一网络的任何移动设备。这样，您便可以在 PC 上访问移动设备上的文件。\n阅读任何语言的 PDF\n只需右键单击 PDF，即可在 Microsoft Edge 边栏中将文本翻译为您的首选语言。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -659,24 +659,6 @@
 
 ,
 {
-  "Name": "天翼云盘（wine）",
-  "Version": "6.6.0spark10",
-  "Filename": "cn.189.cloud.spark_6.6.0spark10_all.deb",
-  "Torrent_address": "cn.189.cloud.spark_6.6.0spark10_all.deb.torrent",
-  "Pkgname": "cn.189.cloud.spark",
-  "Author": "China Telecom",
-  "Contributor": "Spark WINE Team",
-  "Website": "https://cloud.189.cn/",
-  "Update": "2024-03-07 11:47:08",
-  "Size": "64.68 MB",
-  "More": "文件云端存储 从此抛弃随身碟\n文件自动同步 便捷上传下载\n\n--更新说明--\n1.修复了上一版无法生成分享码的问题\n2.该应用貌似不支援界面缩放，能过winecfg设置容器缩放或星火自动缩放脚本均无效，高分屏下可能字体显示较小",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/07/7e1be210bcc34b70877a00568772d9dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/07/aca59edc4b554bb88c184a2a8560448e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/07/a5cb8a77072a469f93afd632e8e7376d.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/07/51beef006de54340bd85261537aa15a9.png"
-}
-
-,
-{
   "Name": "Internet Download Manager（IDM）（Wine）",
   "Version": "6.42",
   "Filename": "com.idm.spark_6.42_all.deb",
@@ -691,6 +673,24 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/8da80a4f6389437399b734b10eebb56f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/b5c164cfb2d64bb4ababf896c417f933.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/de699bb572b2487a8bc2502aed6426da.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/e0f739bbd02a41079a34bfcc01df547d.png"
+}
+
+,
+{
+  "Name": "天翼云盘（wine）",
+  "Version": "6.6.0spark10",
+  "Filename": "cn.189.cloud.spark_6.6.0spark10_all.deb",
+  "Torrent_address": "cn.189.cloud.spark_6.6.0spark10_all.deb.torrent",
+  "Pkgname": "cn.189.cloud.spark",
+  "Author": "China Telecom",
+  "Contributor": "Spark WINE Team",
+  "Website": "https://cloud.189.cn/",
+  "Update": "2024-03-07 11:47:08",
+  "Size": "64.68 MB",
+  "More": "文件云端存储 从此抛弃随身碟\n文件自动同步 便捷上传下载\n\n--更新说明--\n1.修复了上一版无法生成分享码的问题\n2.该应用貌似不支援界面缩放，能过winecfg设置容器缩放或星火自动缩放脚本均无效，高分屏下可能字体显示较小",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/07/7e1be210bcc34b70877a00568772d9dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/07/aca59edc4b554bb88c184a2a8560448e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/07/a5cb8a77072a469f93afd632e8e7376d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/07/51beef006de54340bd85261537aa15a9.png"
 }
 
 ,
@@ -1121,15 +1121,15 @@
 ,
 {
     "Name": "Microsoft Edge(Beta)",
-    "Version": "138.0.3351.21-1",
-    "Filename": "microsoft-edge-beta_138.0.3351.21-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-beta_138.0.3351.21-1_amd64.deb.torrent",
+    "Version": "138.0.3351.34-1",
+    "Filename": "microsoft-edge-beta_138.0.3351.34-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-beta_138.0.3351.34-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-beta",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-06-09 17:36:47",
-    "Size": "179M",
+    "Update": "2025-06-18 17:41:39",
+    "Size": "178M",
     "More": "Microsoft Edge Beta 渠道Beta 版频道可以提供最稳定的 Microsoft Edge 预览版体验。 通过每 4 个星期一次重大更新，每个版本都融入了从开发和 Canary 版本获得的经验教训和改进。",
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_5.png\"]",
@@ -1209,19 +1209,37 @@
 ,
 {
     "Name": "Google Chrome 测试版",
-    "Version": "138.0.7204.23-1",
-    "Filename": "google-chrome-beta_138.0.7204.23-1_amd64.deb",
-    "Torrent_address": "google-chrome-beta_138.0.7204.23-1_amd64.deb.torrent",
+    "Version": "138.0.7204.35-1",
+    "Filename": "google-chrome-beta_138.0.7204.35-1_amd64.deb",
+    "Torrent_address": "google-chrome-beta_138.0.7204.35-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-beta",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-06-12 17:36:51",
+    "Update": "2025-06-18 17:43:56",
     "Size": "113M",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_5.png\"]",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/icon.png"
+}
+
+,
+{
+    "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "quark-cloud-drive_2.2.3_all.deb",
+    "More": "  夸克网盘\n",
+    "Name": "夸克网盘（Linux）",
+    "Pkgname": "quark-cloud-drive",
+    "Size": "1737 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "quark-cloud-drive_2.2.3_all.deb.torrent",
+    "Update": "2025-03-15 22:30:42",
+    "Version": "2.2.3",
+    "Website": "",
+    "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
 }
 
 ,
@@ -1241,24 +1259,6 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/17/54957d09c8694be59573f26d965c657f.png\",\"https://spk-json.spark-app.store/images/2025/05/17/d5c98acd6daf4438bc82205cc817962b.png\",\"https://spk-json.spark-app.store/images/2025/05/17/2509f77d65e7422190ba4fbc05823e83.png\",\"https://spk-json.spark-app.store/images/2025/05/17/5ebadd883c2c42bc8c44d3b82d03d5b1.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/05/17/01c414921b8249b19c13e02732d9f09a.png"
 }
-,
-{
-    "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "quark-cloud-drive_2.2.3_all.deb",
-    "More": "  夸克网盘\n",
-    "Name": "夸克网盘（Linux）",
-    "Pkgname": "quark-cloud-drive",
-    "Size": "1737 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "quark-cloud-drive_2.2.3_all.deb.torrent",
-    "Update": "2025-03-15 22:30:42",
-    "Version": "2.2.3",
-    "Website": "",
-    "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
-}
-
 ,
 {
     "Name": "Tailscale",
@@ -2146,24 +2146,6 @@
 
 ,
 {
-  "Name": "蜗牛下载器",
-  "Version": "1.17.1-1",
-  "Filename": "snail_1.17.1-1_amd64.deb",
-  "Torrent_address": "snail_1.17.1-1_amd64.deb.torrent",
-  "Pkgname": "snail",
-  "Author": "acgist <Unknown>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "https://gitee.com/acgist/snail/",
-  "Update": "2023-01-20 17:17:18",
-  "Size": "29.27 MB",
-  "More": "Java下载器一个～",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/1e1735073fc046e4840fb019b304b4fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/982e0c038d614454883c5f47a99f1108.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/3dc8c63ab53f470f9b7b08e6c91c7e78.png"
-}
-
-,
-{
   "Author": "spark-store",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "zen_1.7.6b_amd64.deb",
@@ -2178,6 +2160,24 @@
   "Website": "https://zen-browser.app/",
   "icons": "https://spk-json.spark-app.store/store/network/zen/icon.png",
   "img_urls": "[]"
+}
+
+,
+{
+  "Name": "蜗牛下载器",
+  "Version": "1.17.1-1",
+  "Filename": "snail_1.17.1-1_amd64.deb",
+  "Torrent_address": "snail_1.17.1-1_amd64.deb.torrent",
+  "Pkgname": "snail",
+  "Author": "acgist <Unknown>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "https://gitee.com/acgist/snail/",
+  "Update": "2023-01-20 17:17:18",
+  "Size": "29.27 MB",
+  "More": "Java下载器一个～",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/1e1735073fc046e4840fb019b304b4fa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/982e0c038d614454883c5f47a99f1108.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/3dc8c63ab53f470f9b7b08e6c91c7e78.png"
 }
 
 ,
@@ -2447,6 +2447,24 @@
 
 ,
 {
+  "Name": "Veyon",
+  "Version": "4.8.3.0-debian.buster",
+  "Filename": "veyon_4.8.3.0-debian.buster_amd64.deb",
+  "Torrent_address": "veyon_4.8.3.0-debian.buster_amd64.deb.torrent",
+  "Pkgname": "veyon",
+  "Author": "Tobias Junghans",
+  "Contributor": "sgb76",
+  "Website": "https://veyon.io/en/",
+  "Update": "2024-02-23 23:26:17",
+  "Size": "1.73 MB",
+  "More": "Veyon 是一款免费的开源软件，用于支持 Windows 和 Linux 的计算机监控和教室管理，它使教师可以查看和控制计算机实验室并与学生互动。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/e01b17acd9bb4519b46e4337012c9d34.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/a71b3083fca5472390b6a207d6922dc8.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/23/91e411960932405ca2a6b3d8e6d93ba4.png"
+}
+
+,
+{
   "Name": "ODE 多功能助手",
   "Version": "1.1.1",
   "Filename": "com.ode.deepin_1.1.1_all.deb",
@@ -2497,24 +2515,6 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/03/982f0040e1bb486c86b46d35a8c64473.png\",\"https://spk-json.spark-app.store/images/2025/01/03/4b138b7cc13d402f92f297f9f9a9c406.png\",\"https://spk-json.spark-app.store/images/2025/01/03/d628da89f43c400fa947a22e04e77672.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/03/74546ccc4b424c01ba0c67b8126fe37a.png"
-}
-
-,
-{
-  "Name": "Veyon",
-  "Version": "4.8.3.0-debian.buster",
-  "Filename": "veyon_4.8.3.0-debian.buster_amd64.deb",
-  "Torrent_address": "veyon_4.8.3.0-debian.buster_amd64.deb.torrent",
-  "Pkgname": "veyon",
-  "Author": "Tobias Junghans",
-  "Contributor": "sgb76",
-  "Website": "https://veyon.io/en/",
-  "Update": "2024-02-23 23:26:17",
-  "Size": "1.73 MB",
-  "More": "Veyon 是一款免费的开源软件，用于支持 Windows 和 Linux 的计算机监控和教室管理，它使教师可以查看和控制计算机实验室并与学生互动。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/e01b17acd9bb4519b46e4337012c9d34.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/a71b3083fca5472390b6a207d6922dc8.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/23/91e411960932405ca2a6b3d8e6d93ba4.png"
 }
 
 ,

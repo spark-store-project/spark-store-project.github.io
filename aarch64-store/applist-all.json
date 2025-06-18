@@ -270,22 +270,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
     },
     {
-      "Author": "gfdgd_xi <3025613752@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
-      "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-      "Name": "Wine 运行器 Qemu 拓展",
-      "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-      "Size": "290 Mb",
-      "Tags": "community;deepin;native",
-      "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
-      "Update": "2024-06-29 17:33:54",
-      "Version": "9.0.1runner1~buster",
-      "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-    },
-    {
       "Author": "Luoyaoming <luoyaoming@kylinos.cn>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "kmre_3.0.0.0gxde1_arm64.deb",
@@ -300,6 +284,22 @@
       "Website": "https://gitee.com/GXDE-OS/kmre",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/kmre/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_2.png\"]"
+    },
+    {
+      "Author": "gfdgd_xi <3025613752@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
+      "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+      "Name": "Wine 运行器 Qemu 拓展",
+      "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+      "Size": "290 Mb",
+      "Tags": "community;deepin;native",
+      "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
+      "Update": "2024-06-29 17:33:54",
+      "Version": "9.0.1runner1~buster",
+      "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
     },
     {
       "Name": "引导修复 Boot-Repair",
@@ -320,34 +320,18 @@
     {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "spark-store-console_4.5.0-console1_all.deb",
+      "Filename": "spark-store-console_4.8.0-console1_all.deb",
       "More": "现在并入主线\n支持龙架构\n感谢支持\n修复部分机型客户端白屏，修复连接源失败问题",
       "Name": "星火应用商店终端版",
       "Pkgname": "spark-store-console",
-      "Size": "145 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "spark-store-console_4.5.0-console1_all.deb.torrent",
-      "Update": "2025-02-25 20:21:27",
-      "Version": "4.5.0-console1",
+      "Size": "148 Kb",
+      "Tags": "community;deepin;ubuntu;debian;native",
+      "Torrent_address": "spark-store-console_4.8.0-console1_all.deb.torrent",
+      "Update": "2025-06-18 18:54:18",
+      "Version": "4.8.0-console1",
       "Website": "https://www.spark-app.store/",
       "icons": "https://spk-json.spark-app.store/store/tools/spark-store-console/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_3.png\"]"
-    },
-    {
-      "Author": "dice2o",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "binggpt_0.3.6_arm64.deb",
-      "More": "全新的Bing，更好的Bing，人工智能驱动的Bing，新一代的生产力曙光\n\n需要科学上网",
-      "Name": "bingGPT",
-      "Pkgname": "binggpt",
-      "Size": "69 Mb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Torrent_address": "binggpt_0.3.6_arm64.deb.torrent",
-      "Update": "2023-06-07 21:23:26",
-      "Version": "0.3.6",
-      "Website": "https://github.com/dice2o/BingGPT",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_2.png\"]"
     },
     {
       "Author": "SuperGeek shenmo<shenmo@spark-app.store>",
@@ -364,6 +348,22 @@
       "Website": "https://yasuo.360.cn/",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/screen_1.png\"]"
+    },
+    {
+      "Author": "dice2o",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "binggpt_0.3.6_arm64.deb",
+      "More": "全新的Bing，更好的Bing，人工智能驱动的Bing，新一代的生产力曙光\n\n需要科学上网",
+      "Name": "bingGPT",
+      "Pkgname": "binggpt",
+      "Size": "69 Mb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Torrent_address": "binggpt_0.3.6_arm64.deb.torrent",
+      "Update": "2023-06-07 21:23:26",
+      "Version": "0.3.6",
+      "Website": "https://github.com/dice2o/BingGPT",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_2.png\"]"
     },
     {
       "Author": "udom<uostools.com>",
@@ -680,22 +680,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_3.png\"]"
     },
     {
-      "Author": "Careone <emacslocale@126.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "wps-check_0.3-1_all.deb",
-      "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
-      "Name": "WPS Office 版本信息及字体检测小工具",
-      "Pkgname": "wps-check",
-      "Size": "126 Kb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
-      "Update": "2023-03-05 18:41:53",
-      "Version": "0.3-1",
-      "Website": "https://bbs.deepin.org/post/248386",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
-    },
-    {
       "Author": "mujianwu <lrh15563910083@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "uotantoolbox_3.3.5_arm64.deb",
@@ -710,6 +694,22 @@
       "Website": "https://toolbox.uotan.cn/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/uotantoolbox/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/uotantoolbox/screen_1.png\"]"
+    },
+    {
+      "Author": "Careone <emacslocale@126.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "wps-check_0.3-1_all.deb",
+      "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
+      "Name": "WPS Office 版本信息及字体检测小工具",
+      "Pkgname": "wps-check",
+      "Size": "126 Kb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
+      "Update": "2023-03-05 18:41:53",
+      "Version": "0.3-1",
+      "Website": "https://bbs.deepin.org/post/248386",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
     },
     {
       "Author": "gfdgd_xi <3025613752@qq.com>",
@@ -920,22 +920,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
     },
     {
-      "Author": "phytium",
-      "Contributor": "PlaneCN",
-      "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
-      "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
-      "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
-      "Pkgname": "cn.com.phytium.phyvirt.kylin",
-      "Size": "126 Mb",
-      "Tags": "native",
-      "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
-      "Update": "2024-05-16 17:43:17",
-      "Version": "1.5.5.0",
-      "Website": "https://www.phytium.com.cn/developer/39/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
-    },
-    {
       "Author": "SeptemberHX",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "dde-top-panel_0.6.8_arm64.deb",
@@ -950,6 +934,22 @@
       "Website": "https://github.com/SeptemberHX/dde-top-panel",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
+    },
+    {
+      "Author": "phytium",
+      "Contributor": "PlaneCN",
+      "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
+      "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
+      "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
+      "Pkgname": "cn.com.phytium.phyvirt.kylin",
+      "Size": "126 Mb",
+      "Tags": "native",
+      "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
+      "Update": "2024-05-16 17:43:17",
+      "Version": "1.5.5.0",
+      "Website": "https://www.phytium.com.cn/developer/39/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
     },
     {
       "Author": "海天鹰 <3025613752@qq.com>",
@@ -1760,10 +1760,10 @@
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/0ec1daa5df0f4f9597c0440c39e69116.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f50bab7804504b66a266b027c29c0adc.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/01/01/5db109ad0dd9452b81b87088b512a512.png",
       "Pkgname": "cloudflared",
-      "Version": "2025.6.0",
-      "Filename": "cloudflared_2025.6.0_arm64.deb",
-      "Update": "2025-06-12 01:40:56",
-      "Size": "18.47MB",
+      "Version": "2025.6.1",
+      "Filename": "cloudflared_2025.6.1_arm64.deb",
+      "Update": "2025-06-19 01:47:46",
+      "Size": "18.88MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -1783,22 +1783,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
     },
     {
-      "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "logger_0.0.10-1_arm64.deb",
-      "More": "如在使用Wine应用中出现诸如：崩溃、闪退等情况，可以利用此工具收集相关日志，并在下发链接跟帖回复上传结果，便于及时跟进。\n详细可见：https://bbs.deepin.org/post/248586",
-      "Name": "logger Wine应用日志收集工具",
-      "Pkgname": "logger",
-      "Size": "36 Kb",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "logger_0.0.10-1_arm64.deb.torrent",
-      "Update": "2023-04-29 07:32:32",
-      "Version": "0.0.10-1",
-      "Website": "http://www.linuxdeepin.com/",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_3.png\"]"
-    },
-    {
       "Author": "skyyx2002 <mzldkj@qq.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "skydisktest_1.01-1fix_arm64.deb",
@@ -1813,6 +1797,22 @@
       "Website": "none",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_2.png\"]"
+    },
+    {
+      "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "logger_0.0.10-1_arm64.deb",
+      "More": "如在使用Wine应用中出现诸如：崩溃、闪退等情况，可以利用此工具收集相关日志，并在下发链接跟帖回复上传结果，便于及时跟进。\n详细可见：https://bbs.deepin.org/post/248586",
+      "Name": "logger Wine应用日志收集工具",
+      "Pkgname": "logger",
+      "Size": "36 Kb",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "logger_0.0.10-1_arm64.deb.torrent",
+      "Update": "2023-04-29 07:32:32",
+      "Version": "0.0.10-1",
+      "Website": "http://www.linuxdeepin.com/",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_3.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -2042,12 +2042,12 @@
       "Author": "wgh136",
       "Website": "https://github.com/venera-app/venera",
       "More": "Venera 支持阅读本地和多个源的网络漫画的漫画阅读器",
-      "Tags": "amber-ce-trixie;debian;deepin;ubuntu;uos;community",
+      "Tags": "debian;ubuntu;deepin;uos",
       "Pkgname": "venera",
-      "Version": "1.4.4",
-      "Filename": "venera_1.4.4_arm64.deb",
-      "Update": "2025-05-27 01:37:21",
-      "Size": "20.91MB",
+      "Version": "1.4.5",
+      "Filename": "venera_1.4.5_arm64.deb",
+      "Update": "2025-06-19 01:47:17",
+      "Size": "20.93MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -3646,22 +3646,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/gxde-ocr/screen_1.png\"]"
     },
     {
-      "Author": "wang",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.qicaise.v.deepin_11.1_all.deb",
-      "More": "七彩色淘宝主图视频制作工具，制作主图视频很方便！将多张宝贝图片合并成拥有多种动画展示效果的主图视频。支持在制作的淘宝主图视频上添加文字和图标。提示：由正方形的图片输出的视频展示效果最好。 详细使用教程见：http://v.qicaise.com/",
-      "Name": "七彩色淘宝主图视频制作工具",
-      "Pkgname": "com.qicaise.v.deepin",
-      "Size": "40 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "com.qicaise.v.deepin_11.1_all.deb.torrent",
-      "Update": "2024-06-06 20:00:17",
-      "Version": "11.1",
-      "Website": "http://v.qicaise.com/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_4.png\"]"
-    },
-    {
       "Author": "北京大麦地信息科技有限公司 <support@processon.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.processon.processonclient_5.5.1.0_arm64.deb",
@@ -3676,6 +3660,22 @@
       "Website": "https://www.processon.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.processon.processonclient/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.processon.processonclient/screen_1.png\"]"
+    },
+    {
+      "Author": "wang",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.qicaise.v.deepin_11.1_all.deb",
+      "More": "七彩色淘宝主图视频制作工具，制作主图视频很方便！将多张宝贝图片合并成拥有多种动画展示效果的主图视频。支持在制作的淘宝主图视频上添加文字和图标。提示：由正方形的图片输出的视频展示效果最好。 详细使用教程见：http://v.qicaise.com/",
+      "Name": "七彩色淘宝主图视频制作工具",
+      "Pkgname": "com.qicaise.v.deepin",
+      "Size": "40 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "com.qicaise.v.deepin_11.1_all.deb.torrent",
+      "Update": "2024-06-06 20:00:17",
+      "Version": "11.1",
+      "Website": "http://v.qicaise.com/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicaise.v.deepin/screen_4.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -4624,22 +4624,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/screen_2.png\"]"
     },
     {
-      "Author": "shiroko <hanhaoxuan@uniontech.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.mihoyo.ys-cloud_1.0.0_all.deb",
-      "More": "云原神网页版是米哈游（miHoYo）旗下的原神云游戏版本。通过实时云端技术，你无需下载完整原神包体，也可尽享低延迟、高画质、高顿率游戏体验。《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到\n你与分离的血亲重聚，在终点见证一切事物的沉淀\n",
-      "Name": "云·原神",
-      "Pkgname": "com.mihoyo.ys-cloud",
-      "Size": "49 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.mihoyo.ys-cloud_1.0.0_all.deb.torrent",
-      "Update": "2024-01-05 17:51:54",
-      "Version": "1.0.0",
-      "Website": "https://ys.mihoyo.com/cloud/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
-    },
-    {
       "Author": "shenmo<shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "team.s.steam_1.0.1_all.deb",
@@ -4654,6 +4638,22 @@
       "Website": "https://store.steampowered.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/team.s.steam/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/team.s.steam/screen_1.png\"]"
+    },
+    {
+      "Author": "shiroko <hanhaoxuan@uniontech.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.mihoyo.ys-cloud_1.0.0_all.deb",
+      "More": "云原神网页版是米哈游（miHoYo）旗下的原神云游戏版本。通过实时云端技术，你无需下载完整原神包体，也可尽享低延迟、高画质、高顿率游戏体验。《原神》是由米哈游自研的一款开放世界冒险RPG。你将在游戏中探索一个被称作「提瓦特」的幻想世界。在这广阔的世界中，你可以踏遍七国，邂逅性格各异、能力独特的同伴，与他们一同对抗强敌，踏上寻回血亲之路；也可以不带目的地漫游，沉浸在充满生机的世界里，让好奇心驱使自己发掘各个角落的奥秘……直到\n你与分离的血亲重聚，在终点见证一切事物的沉淀\n",
+      "Name": "云·原神",
+      "Pkgname": "com.mihoyo.ys-cloud",
+      "Size": "49 Kb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.mihoyo.ys-cloud_1.0.0_all.deb.torrent",
+      "Update": "2024-01-05 17:51:54",
+      "Version": "1.0.0",
+      "Website": "https://ys.mihoyo.com/cloud/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
     },
     {
       "Author": "Anysets <1443454956@qq.com>",
@@ -4768,22 +4768,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/spark-pinball/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/spark-pinball/screen_2.png\"]"
     },
     {
-      "Author": "kero990@gmail.com <kero990@qq.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "org.ppsspp_1.13.1-234-g5434bd83e_arm64.deb",
-      "More": "PPSSPP可以在您的PC以及安卓设备上以全高清的分辨率来运行PSP游戏。PPSSPP在PSP实机画面模糊的小屏幕的基础上加以高清纹理化。\n 甚至在先进的安卓手机或者平板上，您可以以双倍分辨率来运行您所喜爱的PSP游戏！\n ·以高清或全高清的分辨率来运行游戏\n ·在平板上以大屏幕来玩游戏\n ·自定义屏幕按钮来操作，或者使用键盘或者外接手柄\n ·随时随地存档、读档\n ·扩大各向异性过滤以及缩放纹理\n ·从您的实机上转移存档来继续体验",
-      "Name": "PPSSPP",
-      "Pkgname": "org.ppsspp",
-      "Size": "12 Mb",
-      "Tags": "community;ubuntu;debian",
-      "Torrent_address": "org.ppsspp_1.13.1-234-g5434bd83e_arm64.deb.torrent",
-      "Update": "2023-04-03 15:34:11",
-      "Version": "1.13.1-234-g5434bd83e",
-      "Website": "https://www.ppsspp.org/index.html",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/org.ppsspp/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/org.ppsspp/screen_1.png\"]"
-    },
-    {
       "Author": "nillerusr",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "cstrikesource_1.0-1_arm64.deb",
@@ -4814,6 +4798,22 @@
       "Tags": "community;debian;deepin;ubuntu;uos",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1ca7d210-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1cd4fc90-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1d343390-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1d7eaa10-f0c4-11ed-a34c-9b2c26a1fde8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/12/1db1a0f0-f0c4-11ed-a34c-9b2c26a1fde8.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/12/1a36d210-f0c4-11ed-a34c-9b2c26a1fde8.png"
+    },
+    {
+      "Author": "kero990@gmail.com <kero990@qq.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "org.ppsspp_1.13.1-234-g5434bd83e_arm64.deb",
+      "More": "PPSSPP可以在您的PC以及安卓设备上以全高清的分辨率来运行PSP游戏。PPSSPP在PSP实机画面模糊的小屏幕的基础上加以高清纹理化。\n 甚至在先进的安卓手机或者平板上，您可以以双倍分辨率来运行您所喜爱的PSP游戏！\n ·以高清或全高清的分辨率来运行游戏\n ·在平板上以大屏幕来玩游戏\n ·自定义屏幕按钮来操作，或者使用键盘或者外接手柄\n ·随时随地存档、读档\n ·扩大各向异性过滤以及缩放纹理\n ·从您的实机上转移存档来继续体验",
+      "Name": "PPSSPP",
+      "Pkgname": "org.ppsspp",
+      "Size": "12 Mb",
+      "Tags": "community;ubuntu;debian",
+      "Torrent_address": "org.ppsspp_1.13.1-234-g5434bd83e_arm64.deb.torrent",
+      "Update": "2023-04-03 15:34:11",
+      "Version": "1.13.1-234-g5434bd83e",
+      "Website": "https://www.ppsspp.org/index.html",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/org.ppsspp/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/org.ppsspp/screen_1.png\"]"
     },
     {
       "Author": "长沙次元超越科技有限公司",
@@ -6497,22 +6497,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_5.png\"]"
     },
     {
-      "Author": "NetChina <support@nd.com.cn>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.netchina.ndoffice-stable_1.0.20.837.24ZH_arm64.deb",
-      "More": "网龙Office是一个包含文字、展示和表格处理的强大的办公软件产品，支持多种文件数据格式，可以轻松地存取或创建这些格式文档。",
-      "Name": "网龙 Office",
-      "Pkgname": "com.netchina.ndoffice-stable",
-      "Size": "177 Mb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "com.netchina.ndoffice-stable_1.0.20.837.24ZH_arm64.deb.torrent",
-      "Update": "2025-01-11 13:23:28",
-      "Version": "1.0.20.837.24ZH",
-      "Website": "office.99.com",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_4.png\"]"
-    },
-    {
       "Author": "User Support Services <support@yozosoft.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.yozosoft.yozo-office.s1_9.0.6115.191ZH.S1_arm64.deb",
@@ -6527,6 +6511,22 @@
       "Website": "http://www.yozosoft.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.yozosoft.yozo-office.s1/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.yozosoft.yozo-office.s1/screen_1.png\"]"
+    },
+    {
+      "Author": "NetChina <support@nd.com.cn>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.netchina.ndoffice-stable_1.0.20.837.24ZH_arm64.deb",
+      "More": "网龙Office是一个包含文字、展示和表格处理的强大的办公软件产品，支持多种文件数据格式，可以轻松地存取或创建这些格式文档。",
+      "Name": "网龙 Office",
+      "Pkgname": "com.netchina.ndoffice-stable",
+      "Size": "177 Mb",
+      "Tags": "deepin;uos;ubuntu;debian;native",
+      "Torrent_address": "com.netchina.ndoffice-stable_1.0.20.837.24ZH_arm64.deb.torrent",
+      "Update": "2025-01-11 13:23:28",
+      "Version": "1.0.20.837.24ZH",
+      "Website": "office.99.com",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netchina.ndoffice-stable/screen_4.png\"]"
     },
     {
       "Author": "sgb76 <sgb76@163.com>",
@@ -7167,22 +7167,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/midori/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/midori/screen_2.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <shenmo@spark-app.store>",
-      "Filename": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb",
-      "More": "一款使用 Qt 做界面的 BT 传输软件。",
-      "Name": "qBittorrent",
-      "Pkgname": "org.qbittorrent.qbittorrent",
-      "Size": "188 Mb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb.torrent",
-      "Update": "2023-08-30 10:22:09",
-      "Version": "4.5.2-3+fix2",
-      "Website": "http://www.qbittorrent.org/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
-    },
-    {
       "Author": "Sangfor Technologies Inc <support@sangfor.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "cn.com.sangfor.atrust_2.2.10.3_arm64.deb",
@@ -7197,6 +7181,22 @@
       "Website": "http://www.sangfor.com.cn",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.com.sangfor.atrust/screen_2.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <shenmo@spark-app.store>",
+      "Filename": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb",
+      "More": "一款使用 Qt 做界面的 BT 传输软件。",
+      "Name": "qBittorrent",
+      "Pkgname": "org.qbittorrent.qbittorrent",
+      "Size": "188 Mb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "org.qbittorrent.qbittorrent_4.5.2-3_plus_fix2_arm64.deb.torrent",
+      "Update": "2023-08-30 10:22:09",
+      "Version": "4.5.2-3+fix2",
+      "Website": "http://www.qbittorrent.org/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/org.qbittorrent.qbittorrent/screen_2.png\"]"
     },
     {
       "Author": "kero990 <kero990@qq.com>",
@@ -9180,22 +9180,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/chat/infoflow/screen_1.png\"]"
     },
     {
-      "Author": "xinda <www.youduqt.me>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "im.xinda.youdu_242.8.16_arm64.deb",
-      "More": "有度即时通是一个融合即时通讯、实时协作于一体的办公平台，专注私有化部署，提供即时通讯、在线文档、网盘、会议等功能和丰富的API接口。",
-      "Name": "有度即时通",
-      "Pkgname": "im.xinda.youdu",
-      "Size": "227 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "im.xinda.youdu_242.8.16_arm64.deb.torrent",
-      "Update": "2025-01-16 18:03:18",
-      "Version": "242.8.16",
-      "Website": "https//www.youdu.cn/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/chat/im.xinda.youdu/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/im.xinda.youdu/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/chat/im.xinda.youdu/screen_2.png\"]"
-    },
-    {
       "Author": "lhdevelopers",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.lhmeeting.client_8.0.9.4513-1_arm64.deb",
@@ -9210,6 +9194,22 @@
       "Website": "lhdevelopers",
       "icons": "https://spk-json.spark-app.store/aarch64-store/chat/com.lhmeeting.client/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/com.lhmeeting.client/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/chat/com.lhmeeting.client/screen_2.png\"]"
+    },
+    {
+      "Author": "xinda <www.youduqt.me>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "im.xinda.youdu_242.8.16_arm64.deb",
+      "More": "有度即时通是一个融合即时通讯、实时协作于一体的办公平台，专注私有化部署，提供即时通讯、在线文档、网盘、会议等功能和丰富的API接口。",
+      "Name": "有度即时通",
+      "Pkgname": "im.xinda.youdu",
+      "Size": "227 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "im.xinda.youdu_242.8.16_arm64.deb.torrent",
+      "Update": "2025-01-16 18:03:18",
+      "Version": "242.8.16",
+      "Website": "https//www.youdu.cn/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/chat/im.xinda.youdu/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/im.xinda.youdu/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/chat/im.xinda.youdu/screen_2.png\"]"
     }
   ]
 ]

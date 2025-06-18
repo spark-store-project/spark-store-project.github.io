@@ -303,24 +303,6 @@
 
 ,
 {
-  "Author": "gfdgd_xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
-  "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-  "Name": "Wine 运行器 Qemu 拓展",
-  "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-  "Size": "290 Mb",
-  "Tags": "community;deepin;native",
-  "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
-  "Update": "2024-06-29 17:33:54",
-  "Version": "9.0.1runner1~buster",
-  "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
-,
-{
   "Author": "Luoyaoming <luoyaoming@kylinos.cn>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "kmre_3.0.0.0gxde1_arm64.deb",
@@ -335,6 +317,24 @@
   "Website": "https://gitee.com/GXDE-OS/kmre",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/kmre/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "gfdgd_xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
+  "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \nWine 运行器 3.9.2 及其更高版本的虚拟机配置工具支持调用该新版本的 Qemu\n\n该版本只支持 deepin20,如需支持其它系统版本的（如 deepin 23），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+  "Name": "Wine 运行器 Qemu 拓展",
+  "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+  "Size": "290 Mb",
+  "Tags": "community;deepin;native",
+  "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb.torrent",
+  "Update": "2024-06-29 17:33:54",
+  "Version": "9.0.1runner1~buster",
+  "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
 }
 
 ,
@@ -357,38 +357,20 @@
 
 ,
 {
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "spark-store-console_4.5.0-console1_all.deb",
-  "More": "现在并入主线\n支持龙架构\n感谢支持\n修复部分机型客户端白屏，修复连接源失败问题",
-  "Name": "星火应用商店终端版",
-  "Pkgname": "spark-store-console",
-  "Size": "145 Kb",
-  "Tags": "community;deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "spark-store-console_4.5.0-console1_all.deb.torrent",
-  "Update": "2025-02-25 20:21:27",
-  "Version": "4.5.0-console1",
-  "Website": "https://www.spark-app.store/",
-  "icons": "https://spk-json.spark-app.store/store/tools/spark-store-console/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "dice2o",
+    "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "binggpt_0.3.6_arm64.deb",
-    "More": "全新的Bing，更好的Bing，人工智能驱动的Bing，新一代的生产力曙光\n\n需要科学上网",
-    "Name": "bingGPT",
-    "Pkgname": "binggpt",
-    "Size": "69 Mb",
-    "Tags": "community;debian;deepin;ubuntu;uos",
-    "Torrent_address": "binggpt_0.3.6_arm64.deb.torrent",
-    "Update": "2023-06-07 21:23:26",
-    "Version": "0.3.6",
-    "Website": "https://github.com/dice2o/BingGPT",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_2.png\"]"
+    "Filename": "spark-store-console_4.8.0-console1_all.deb",
+    "More": "现在并入主线\n支持龙架构\n感谢支持\n修复部分机型客户端白屏，修复连接源失败问题",
+    "Name": "星火应用商店终端版",
+    "Pkgname": "spark-store-console",
+    "Size": "148 Kb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "spark-store-console_4.8.0-console1_all.deb.torrent",
+    "Update": "2025-06-18 18:54:18",
+    "Version": "4.8.0-console1",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://spk-json.spark-app.store/store/tools/spark-store-console/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_3.png\"]"
 }
 
 ,
@@ -407,6 +389,24 @@
     "Website": "https://yasuo.360.cn/",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.ya.suo.spark/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "dice2o",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "binggpt_0.3.6_arm64.deb",
+    "More": "全新的Bing，更好的Bing，人工智能驱动的Bing，新一代的生产力曙光\n\n需要科学上网",
+    "Name": "bingGPT",
+    "Pkgname": "binggpt",
+    "Size": "69 Mb",
+    "Tags": "community;debian;deepin;ubuntu;uos",
+    "Torrent_address": "binggpt_0.3.6_arm64.deb.torrent",
+    "Update": "2023-06-07 21:23:26",
+    "Version": "0.3.6",
+    "Website": "https://github.com/dice2o/BingGPT",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/binggpt/screen_2.png\"]"
 }
 
 ,
@@ -765,24 +765,6 @@
 
 ,
 {
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "wps-check_0.3-1_all.deb",
-    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
-    "Name": "WPS Office 版本信息及字体检测小工具",
-    "Pkgname": "wps-check",
-    "Size": "126 Kb",
-    "Tags": "community;debian;deepin;ubuntu;uos",
-    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
-    "Update": "2023-03-05 18:41:53",
-    "Version": "0.3-1",
-    "Website": "https://bbs.deepin.org/post/248386",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
-}
-
-,
-{
   "Author": "mujianwu <lrh15563910083@163.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "uotantoolbox_3.3.5_arm64.deb",
@@ -797,6 +779,24 @@
   "Website": "https://toolbox.uotan.cn/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/uotantoolbox/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/uotantoolbox/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "wps-check_0.3-1_all.deb",
+    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
+    "Name": "WPS Office 版本信息及字体检测小工具",
+    "Pkgname": "wps-check",
+    "Size": "126 Kb",
+    "Tags": "community;debian;deepin;ubuntu;uos",
+    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
+    "Update": "2023-03-05 18:41:53",
+    "Version": "0.3-1",
+    "Website": "https://bbs.deepin.org/post/248386",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/wps-check/screen_1.png\"]"
 }
 
 ,
@@ -1035,24 +1035,6 @@
 
 ,
 {
-  "Author": "phytium",
-  "Contributor": "PlaneCN",
-  "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
-  "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
-  "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
-  "Pkgname": "cn.com.phytium.phyvirt.kylin",
-  "Size": "126 Mb",
-  "Tags": "native",
-  "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
-  "Update": "2024-05-16 17:43:17",
-  "Version": "1.5.5.0",
-  "Website": "https://www.phytium.com.cn/developer/39/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
-}
-
-,
-{
   "Author": "SeptemberHX",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "dde-top-panel_0.6.8_arm64.deb",
@@ -1067,6 +1049,24 @@
   "Website": "https://github.com/SeptemberHX/dde-top-panel",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
+}
+
+,
+{
+  "Author": "phytium",
+  "Contributor": "PlaneCN",
+  "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
+  "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
+  "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
+  "Pkgname": "cn.com.phytium.phyvirt.kylin",
+  "Size": "126 Mb",
+  "Tags": "native",
+  "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
+  "Update": "2024-05-16 17:43:17",
+  "Version": "1.5.5.0",
+  "Website": "https://www.phytium.com.cn/developer/39/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
 }
 
 ,
@@ -1979,10 +1979,10 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/0ec1daa5df0f4f9597c0440c39e69116.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f50bab7804504b66a266b027c29c0adc.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/01/01/5db109ad0dd9452b81b87088b512a512.png",
     "Pkgname": "cloudflared",
-    "Version": "2025.6.0",
-    "Filename": "cloudflared_2025.6.0_arm64.deb",
-    "Update": "2025-06-12 01:40:56",
-    "Size": "18.47MB",
+    "Version": "2025.6.1",
+    "Filename": "cloudflared_2025.6.1_arm64.deb",
+    "Update": "2025-06-19 01:47:46",
+    "Size": "18.88MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -2005,24 +2005,6 @@
 
 ,
 {
-  "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "logger_0.0.10-1_arm64.deb",
-  "More": "如在使用Wine应用中出现诸如：崩溃、闪退等情况，可以利用此工具收集相关日志，并在下发链接跟帖回复上传结果，便于及时跟进。\n详细可见：https://bbs.deepin.org/post/248586",
-  "Name": "logger Wine应用日志收集工具",
-  "Pkgname": "logger",
-  "Size": "36 Kb",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "Torrent_address": "logger_0.0.10-1_arm64.deb.torrent",
-  "Update": "2023-04-29 07:32:32",
-  "Version": "0.0.10-1",
-  "Website": "http://www.linuxdeepin.com/",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_3.png\"]"
-}
-
-,
-{
     "Author": "skyyx2002 <mzldkj@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "skydisktest_1.01-1fix_arm64.deb",
@@ -2037,6 +2019,24 @@
     "Website": "none",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "logger_0.0.10-1_arm64.deb",
+  "More": "如在使用Wine应用中出现诸如：崩溃、闪退等情况，可以利用此工具收集相关日志，并在下发链接跟帖回复上传结果，便于及时跟进。\n详细可见：https://bbs.deepin.org/post/248586",
+  "Name": "logger Wine应用日志收集工具",
+  "Pkgname": "logger",
+  "Size": "36 Kb",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "Torrent_address": "logger_0.0.10-1_arm64.deb.torrent",
+  "Update": "2023-04-29 07:32:32",
+  "Version": "0.0.10-1",
+  "Website": "http://www.linuxdeepin.com/",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/logger/screen_3.png\"]"
 }
 
 ,

@@ -5799,17 +5799,17 @@ Description: A remote control software.
 
 Package: cloudflared-fips
 Architecture: amd64
-Version: 2025.6.0
+Version: 2025.6.1
 Priority: optional
 Section: default
 Maintainer: Cloudflare <support@cloudflare.com>
-Installed-Size: 41508
-Filename: ./tools/cloudflared-fips/cloudflared-fips_2025.6.0_amd64.deb
-Size: 20040714
-MD5sum: 7b604da6f6ceaf989bc5341004db6fd1
-SHA1: f91feaa03ece72ec898b1f8909e36b3fd1e3fac1
-SHA256: 64c714c0de3e11415fa1a64bd17184c3cd67730677b6cfd5d14ac19fc8a883d6
-SHA512: 79e30bf18a1009f04aca9110a6632583736d419bc0736b5c91a176771ab1d67fb70cc99488fd121331b27331fdd0419bb7ebb0ecfa9392c657b2a1ba5b6cec77
+Installed-Size: 42367
+Filename: ./tools/cloudflared-fips/cloudflared-fips_2025.6.1_amd64.deb
+Size: 20442868
+MD5sum: 30a1cd03731216ca590fdc6b2a5d404b
+SHA1: 70fefc9aaf6f62833f4e4b2834e5984e84c33453
+SHA256: ef0f58f6b049f06b3c3702c24f330d6111676702c8dba170ff66d715f99410a5
+SHA512: 083cc7def6630c5ea272bedb387e8ae503942decd04f5c647b075fb9712c31e51ba12db911f85cee1e5990cee51932ebeae9ad827d6a26511108b1d594011ee6
 Homepage: https://github.com/cloudflare/cloudflared
 Description: Cloudflare Tunnel daemon
 License: Apache License Version 2.0
@@ -6018,22 +6018,6 @@ Homepage: https://gitlab.gz.cvte.cn/front-end/enow-cloud
 Description: EasiNote5 for Linux
 License: MIT
 Vendor: liushaojie <liushaojie@cvte.com>
-
-Package: wps-optimizer
-Architecture: all
-Version: 3.0
-Priority: optional
-Section: utils
-Maintainer: fb93<fb93@fb93.com>
-Depends: bash, coreutils
-Filename: ./tools/wps-optimizer/wps-optimizer_3.0_all.deb
-Size: 656880
-MD5sum: 8dac4ff6cb93efba5e783b8b48d72968
-SHA1: 82afa468ac7da1d762011f3e17290b8322a89804
-SHA256: 38150edcbf1161680e84390c239191c42383b031e99fdf13cf54a704bb52f7d2
-SHA512: a741dc280f0c3d12e47ce06d953731b0b7ded3eaefba159e70412beadfbdf6a785688650f435872672d6c82d459c9a22ea553ee513a661bef32952bf23c06f1d
-Description: WPS Office性能优化工具
- 重置WPS配置并清理临时文件，解决卡顿问题。
 
 Package: wps-optimizer
 Architecture: all
@@ -7742,19 +7726,19 @@ Description: 简介部分
 
 Package: ollama
 Architecture: amd64
-Version: 0.9.1
+Version: 0.9.2
 Priority: optional
 Section: golang
 Maintainer: lingfish <lingfish@users.noreply.github.com>
-Installed-Size: 32140
+Installed-Size: 32012
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 10.2), sysuser-helper (>= 1.3.3)
 Recommends: libollama-nvidia | libollama-amd
-Filename: ./tools/ollama/ollama_0.9.1_amd64.deb
-Size: 8527996
-MD5sum: 00b718baf9b53eb92dfb6f90c1b6a3ca
-SHA1: 2bd129f044f799984e761d921de25f869ddce032
-SHA256: acd8be993450e247f1616d42ec425b4065f9aa0957661d4f37d6564eb99e1407
-SHA512: 1a5e956160877d2c6b9ce847415258169655eb08b690d8022ee76d9e40f527a98a768699d807eaee709809a1b07830a35e48d8f612b87816b851e064c8fdef3e
+Filename: ./tools/ollama/ollama_0.9.2_amd64.deb
+Size: 8502412
+MD5sum: 947d7f9872e47d3ff4ef2bee1955db93
+SHA1: 0c951cbb8bc649aa77ce26bb609372aa5d25a550
+SHA256: 019617a0224bcfb19628a1d681a67e33d6e9dce48adb1d9146f63cf117ccb7b1
+SHA512: 98a32a94a153aaca3c5622499faa9d5b86ccead7ca313ba183fa4637f578574e57cf9a8c7fd19f9a71e6b59f16c37f1493c3ae648db5c97759fb4181c9126189
 Homepage: https://github.com/ollama/ollama
 Description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (program)
  Ollama
@@ -7793,24 +7777,24 @@ Description: screen your phone on computer
 
 Package: additional-base-lib
 Architecture: amd64
-Version: 2.41-8-9
+Version: 2.41-9-9
 Priority: optional
 Section: utils
 Maintainer: CongTianKong
 Installed-Size: 15724
 Depends: bubblewrap, bash, coreutils
 Suggests: shared-mime-info, xdg-utils
-Filename: ./tools/additional-base-lib/additional-base-lib_2.41-8-9_amd64.deb
-Size: 3252156
-MD5sum: 0b3a05a30758bf6fe44356d3c351691a
-SHA1: e9b0c87384a8aaf0f1c0a61eb12ea52ad44ca6b3
-SHA256: 9a501bec8f94795b40ba6d1134f5b30c5dafa1e6ddba820c83d76334e3c63c7f
-SHA512: 73610ee729b3be40b5b19d91329f33e41a9357717a4aa578f4258b2ec95a45b44db5467d4b9c43d0c3d8fa77ff2d0ccf472db0a4f226925c825786242449f9bc
+Filename: ./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb
+Size: 3254032
+MD5sum: 4cb3ff5b55d5f994fa74f170882a2ab3
+SHA1: df0ca3bdf5337eb33795566e8efb271a1d392ebd
+SHA256: 610e522dbafd3998b59d12a2f06ccb7fd318bf1d8d4edf285cdc619db382c681
+SHA512: c50574852fc268f41e4618186f958ecfdba761feab65cb64539ac1b7ef4ea7b610a4eb9ec2e2e0d1d19e0f44cf4918c7f593ca94fdf7e5440521c95103201108
 Homepage: https://gitee.com/deepin-community-store/additional-base-lib
 Description: A script to run programs with newer libc.
  package built with make-deb.sh from additional-base-lib project.
- libc6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc6_2.41-8_amd64.deb
- libc-bin download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc-bin_2.41-8_amd64.deb
+ libc6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc6_2.41-9_amd64.deb
+ libc-bin download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc-bin_2.41-9_amd64.deb
  libstdc++6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/gcc-14/libstdc++6_14.2.0-19_amd64.deb
 
 Package: sm-refresh
@@ -9217,17 +9201,17 @@ Description: Deepin Community Live CD Debian Core
 
 Package: cloudflared
 Architecture: amd64
-Version: 2025.6.0
+Version: 2025.6.1
 Priority: optional
 Section: default
 Maintainer: Cloudflare <support@cloudflare.com>
-Installed-Size: 39323
-Filename: ./tools/cloudflared/cloudflared_2025.6.0_amd64.deb
-Size: 19734784
-MD5sum: abfce41271cf80e3823a4de4746d3b77
-SHA1: 8c257cc9a15d52c558e0f9706d6c55b8041e37c0
-SHA256: 6d9ea7b7d93fb9cc99c244fcfc72ee112e0300fc533ab99b34a84f52cfdf2027
-SHA512: 8d53e77be66cf99775bebd9f5a438a236c6f87bec02a63b22fa4aebffa43269bf67823b0d0bd69cadc80071fb869d736ac3a083e4a0e6e6f903ca423ce9a5f61
+Installed-Size: 40199
+Filename: ./tools/cloudflared/cloudflared_2025.6.1_amd64.deb
+Size: 20160292
+MD5sum: 813eecae0ea158a0f9254807a3454b74
+SHA1: eb54f5ecc6b13bd5ab9a069d2d88844f393e4572
+SHA256: 8c14cad34fd53b4991796921604f6854053f0c146128aad8dfdeba59f3927846
+SHA512: 83fad5acbb49e63c86d6c1211c115ab016f01bf2c9e77499b3f4aa2338c6c6008f1798ee010688639e653bbee56edcf2e198712ebc6157710983a63948ff9b29
 Homepage: https://github.com/cloudflare/cloudflared
 Description: Cloudflare Tunnel daemon
 License: Apache License Version 2.0
@@ -9985,26 +9969,6 @@ Description: auto-generated package by debmake
  This Debian binary package was auto-generated by the
  debmake(1) command provided by the debmake package.
 
-Package: uos-packaging-tools
-Architecture: all
-Version: 1.7.3
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 143
-Depends: libnotify-bin, fakeroot, zstd, policykit-1 | polkit | pkexec, zenity, bash, ostree
-Filename: ./tools/uos-packaging-tools/uos-packaging-tools_1.7.3_all.deb
-Size: 78388
-MD5sum: 0276c5d52d9b91d7a96e8754c878b457
-SHA1: 2e7886468de5d0dbb403b1af90679d7c00168f95
-SHA256: 2d7b89af84969416b5c007143ca0dd7ca0cd88aaa98444b818a9d57f09bcedb4
-SHA512: 357c248b882047b4742aabaf03c2a53e2df6aa57218be8741e8c343e610246c00177ef5dca63145e162dc8c7dcd3bb2b86a8d3ae3220fb8230dd92b0cb921d18
-Homepage: https://gitee.com/spark-store-project/uos-packaging-tools
-Description: auto-generated package by debmake
- This Debian binary package was auto-generated by the
- debmake(1) command provided by the debmake package.
-
 Package: deepin-wine-assist
 Architecture: amd64
 Version: 1.0.20-1
@@ -10328,6 +10292,27 @@ MD5sum: 2bb7bfae420d5f12a95fd30b87db872b
 SHA1: ce723867a213f2a1854eaff8bac1ed4e410ab966
 SHA256: 383763729e1a9a4126c3c05b7ee631ab2b78646fb5a251b7f301f95f1b0cf3b6
 SHA512: edd48de747253544565f960736af7e40d5e7cbd68063265ba4eafe410c7439ac47d4c792745047eec6ee85d19f5869a4c9824c606ac465001fa0b71fbbbe1300
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
+Package: spark-store-console
+Architecture: all
+Version: 4.8.0-console1
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 656
+Provides: spark-store, aptss
+Depends: wget,aria2, zenity, policykit-1 | pkexec | polkit-1 | polkit, libnotify-bin, python3, desktop-file-utils,curl,sudo,lsb-release,gnupg
+Conflicts: spark-store, aptss
+Replaces: spark-store, aptss
+Filename: ./tools/spark-store-console/spark-store-console_4.8.0-console1_all.deb
+Size: 148772
+MD5sum: ed427c554c76de60b2066961211be5be
+SHA1: bd8c9a075e8b97262277a2176862adf39c70cd88
+SHA256: b036ed1c823e6b0683582e65271b3e0dc35fbaaa357c9f30aebb2c407d132af5
+SHA512: 627ced2d5314a7397d0fbadf5ebf4e1fa6b1befb757ee47f21e61a1d3dc0d3592b0831c34af1a90c35780d333ebb2b349582b5f538708a70b7e842e41f6c72a2
 Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
@@ -11954,17 +11939,17 @@ Description: Package Description
 
 Package: venera
 Architecture: amd64
-Version: 1.4.4
+Version: 1.4.5
 Priority: optional
 Essential: no
 Maintainer: nyne
 Depends:
-Filename: ./reading/venera/venera_1.4.4_amd64.deb
-Size: 18915956
-MD5sum: d2780efe1917a390bed5ccc89a8fecaa
-SHA1: 4c3acde6f0d903e6dc62998b9edace1f0a3f0245
-SHA256: 790e4984d6d3480753f5e8163aa231414251acb3d3f8488a4e2fc557a6f1519f
-SHA512: 0e9566af5bd5acb26bb8d6e531376ca7e6eb1e9c993dfe2fc117e47a6ff778f50b9ee52d1fe73bb9ed275a246145453ea7f9d30241c5061799a9060b9626a9ac
+Filename: ./reading/venera/venera_1.4.5_amd64.deb
+Size: 18914188
+MD5sum: 1af8d49d55090410bd055974dbbd9da0
+SHA1: d84d5b1299fd2291858c69fb6140894735172d53
+SHA256: ba597140fffc9fb2c61d1fd486d47d3e402cb8dda185b76441b859f21307804a
+SHA512: fd5c1be2987ce474560819aaa2c654d5786d77a92f4956c83280c5e8cffec00102f1c17f93c7e36e5336966d3646ac8616f437c121195affd66a2544d047c26c
 Description: venera
 
 Package: com.app.vivlio.spark
@@ -13289,26 +13274,6 @@ MD5sum: 506b7f487459dba1a28191cd4f02f59a
 SHA1: faaf1ed0c6e6fecb57455f46076dc36688ac934d
 SHA256: 0fe93fb9d8537d5f64087395dd063ba651305bf6ee19fa6c77f50b016e7771f9
 SHA512: 6ff1132dcb2a224956a96194bf1c9e2664b6e6bb66296ec7139f837e1000f84e83f76f1c8a34481ba65f2ff598082bee9380c43003b50e1a8b45606ac8e43e35
-Homepage: http://github.com/dependon/fantascene-dynamic-wallpaper
-Description: animated wallpaper for fantascene.
-
-Package: fantascene-dynamic-wallpaper
-Architecture: amd64
-Version: 2.0.2-1
-Priority: optional
-Section: utils
-Maintainer: liuminghang <liuminghang0821@gmail.com>
-Installed-Size: 9931
-Provides: fantascene-gxde
-Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.3.1), libglib2.0-0 (>= 2.36.0), libmpv2 (>= 0.29), libqt5charts5 (>= 5.7.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5multimediawidgets5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5sql5 (>= 5.0.2), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 11), libx11-6, libxcb-ewmh2 (>= 0.4.1), libxcb1, libxext6, wget, ffmpeg, aria2
-Breaks: fantascene-gxde (<< 1.9~)
-Replaces: fantascene-gxde (<< 1.9~)
-Filename: ./themes/fantascene-dynamic-wallpaper/fantascene-dynamic-wallpaper_2.0.2-1_amd64.deb
-Size: 7248492
-MD5sum: cc4fc9175f1f722137f6ef27e229f5fb
-SHA1: d17ee2f11d7dd393653c70c48ab626138853c2c4
-SHA256: e0f054d8040605168459a563e86798ae3ade7646a58790b853e926a83278cbcf
-SHA512: ba5cd3bad927548d421b9ee0520cc2ce6be24c3be918c3c5eacd0eb2eb94d3095e54870055a649523aee98b57b5d3b5160f51d772054f76bfb3e2e6296eef95e
 Homepage: http://github.com/dependon/fantascene-dynamic-wallpaper
 Description: animated wallpaper for fantascene.
 
@@ -15361,23 +15326,6 @@ Description: 16bit RGB full color paint software
  drawing. This is not suitable for dot editing. Since the color is
  handled with 16 bit color (15 bit fixed point number) internally,
  the accuracy of color rises, but the memory is consumed correspondingly.
-
-Package: ovital-map
-Architecture: amd64
-Version: 10.1.8
-Priority: optional
-Section: utils
-Maintainer:  info@ovital.com
-Installed-Size: 408750
-Depends: libx11-xcb1, libxcb1,libfreetype6,libsm6,libx11-6,libxrender1,libnss3,libnspr4
-Filename: ./image_graphics/ovital-map/ovital-map_10.1.8_amd64.deb
-Size: 169960736
-MD5sum: 6554879226248de2d7ffbcc7049eff41
-SHA1: 0627c5e161936e89a2cfc0c4de3ea309a820b585
-SHA256: 8d4db5d771f0d01c0bf9d01e6bfd07a6d3756c2be955bba01f4dd683e32d8c43
-SHA512: 96b09064e79aee01ce105ad12ec9c89f8d3b0f3ddcf6afce577c0f9a701f8a08fb26ea10479bab320547dbae7cd7a756008ba0187f6a8949a11d5ea9e6345dfa
-Homepage: https://www.ovital.com
-Description: Ovital Map for Linux Version
 
 Package: ovital-map
 Architecture: amd64
@@ -20298,24 +20246,6 @@ SHA512: c21bb1ec6cfef67eb7545787a5993400754f8d3efa5fb9dff2854e9854fdd3074cc90a3d
 Homepage: http://www.deepin.org/
 Description: deepin desktop-environment - dock module
  Dock module of deepin desktop-environment
-
-Package: winfonts
-Architecture: all
-Version: 1.3
-Priority: extra
-Section: non-free
-Maintainer: Nobody
-Depends: fontconfig
-Recommends:
-Filename: ./others/winfonts/winfonts_1.3_all.deb
-Size: 391042046
-MD5sum: a5bce445ab363f739affdcd5c894177f
-SHA1: 669830eeba0491b7aa8709cd36b27066360561c8
-SHA256: f8d4ddffb0ccf68613745b16bd81b3462058ed8be036c95ba5f6fc0fef1bc24a
-SHA512: 85e04fd763821e781e50de9fe511515c4e0fc44b9767134f6c34fe73a2ea309583ef797f1f7af8a1e40bba769d1eeeca7b42492a8dcb9ec7dec54bc309d6b267
-Description: Windows和MS Office中的字体
- 本deb安装包可以安装上简体中文版Windows上的字体和简体中文版 Microsoft Office 中的字体。       
- 注意：本安装包中许多字体为版权字体，使用这些字体请自行确定拥有这些字体的使用授权。
 
 Package: com.mythware.cms-student
 Architecture: amd64
@@ -32972,20 +32902,20 @@ Description: JD.JM
 
 Package: microsoft-edge-dev
 Architecture: amd64
-Version: 139.0.3365.2-1
+Version: 139.0.3380.1-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 611904
+Installed-Size: 612914
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-dev/microsoft-edge-dev_139.0.3365.2-1_amd64.deb
-Size: 187140192
-MD5sum: 60ff59ff5727364fd9e4414b91480293
-SHA1: 282b447ab72126e1f223c12832d96618d92798d5
-SHA256: ba36ee26074aeb8f9c66bf0e91b8ecfbbbe0f6bf4204ce24cc858822a65fbf7c
-SHA512: 36e011aa0008f34ab60b735236d9c5fdc877f8b6e9068f84af29a44dda4ef17e3ff7a034e661abaf04b54a5fb24f526a9e9dd74f32ed06c23f6718c2f7f372c6
+Filename: ./network/microsoft-edge-dev/microsoft-edge-dev_139.0.3380.1-1_amd64.deb
+Size: 187473728
+MD5sum: 0032b4c7ce8ca9e3e9a0ab3ccb4fbee3
+SHA1: d630521668d4ab35f4d8d18a07572140c5095e3b
+SHA256: e7d86e84479c0186de02792faa2d1b22e7c733c8fb5ba6810e2415fa6b80eb95
+SHA512: 56404ad3e4b91f0c63ebc11b1af14e6a5ff789ab53ad57757496c3981747b9cc198a674e30c9802fe1da36d39a0694adb8dd2c5c9062098a8a4029c8460a9ac1
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34210,20 +34140,20 @@ Description: SunloginRemote-6.5.5.20079 for Linux
 
 Package: microsoft-edge-beta
 Architecture: amd64
-Version: 138.0.3351.21-1
+Version: 138.0.3351.34-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 609948
+Installed-Size: 609928
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_138.0.3351.21-1_amd64.deb
-Size: 186651812
-MD5sum: 34af507b31e034d4eef407b0fe5f690b
-SHA1: 962a06bfa23a054754059556943ac84ce59721d3
-SHA256: 7247bc1f0bded8f4b2fd7387a4a12bd1063b755fdfc340b862fe1477fb2e3606
-SHA512: 271eb1f586ba5f04bee353199e2128ab8b248b8bc7e83156f826e78c1e39de5e74c553ae749eeab4bd4d6e5ae55b12296ce6a3bddf310f0aafcf40d79dbaee61
+Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_138.0.3351.34-1_amd64.deb
+Size: 186605572
+MD5sum: 940da88080e580027e58e9fa7b815766
+SHA1: fa3d92c57d18a720cc88bda052bd52d20d8308ce
+SHA256: 34d04bad7b87cd4286d8bdc134356f1e8c41497ceeba2b553f2b873e79d1e7e4
+SHA512: 81c63b167c5b689f8bc93c4bc57ce81a61ac5ce51f24549df052d31c4289eed0ab151db640f51d8206c72c3c0eafe78b9dae1b416b33feee6dbcd577ebe967da
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34665,20 +34595,20 @@ Description: Popcorn-Time
 
 Package: google-chrome-stable
 Architecture: amd64
-Version: 137.0.7151.103-1
+Version: 137.0.7151.119-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 374688
+Installed-Size: 378316
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/google-chrome-stable/google-chrome-stable_137.0.7151.103-1_amd64.deb
-Size: 117322064
-MD5sum: 9d7386c7c64be760ce1637e7cbb5749f
-SHA1: 5295f808ab2b589b9e8d7ce40dfa978ccdffc661
-SHA256: 7e8771be1b195c1e6ac907f4e487790c3b6803287b6399be6f5a790e04cd7cce
-SHA512: 6f2624e931db6fcb4aea8f8f950a6344c1d9638acbf273252483879876849c382549f9ac2d19bb1b688eefca3c6e8c93c3b986b5c1b154b17b0c88e0bde9dae9
+Filename: ./network/google-chrome-stable/google-chrome-stable_137.0.7151.119-1_amd64.deb
+Size: 117745852
+MD5sum: 37f6c46d912cc0e3b6ac207b73acd8bb
+SHA1: 66097ec0fc9cfc0d8dcdefac01dc01f544c76c33
+SHA256: 11c537a6e94fd48fbc90abed1c94af35ab68dbf6f317e5da64802f266e8a187a
+SHA512: cead1dbc614379ad95e55d902dd3163274706293bcc405c4dcf5ec119750d834e724c9b2fc3e06476bfd472c66954f9599df0da0195fda320eb59e60bf94093d
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -35310,20 +35240,20 @@ Description: QuarkPC Client on Deepin Wine8
 
 Package: google-chrome-beta
 Architecture: amd64
-Version: 138.0.7204.23-1
+Version: 138.0.7204.35-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 376776
+Installed-Size: 377079
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/google-chrome-beta/google-chrome-beta_138.0.7204.23-1_amd64.deb
-Size: 118115260
-MD5sum: f52aa77ed1eb3544de7c30e70624cc05
-SHA1: a9bcb9ab09c3d174536e1685e4211b6e6653edb2
-SHA256: 4d0d2627b1f309d6392d26a109b4ef1ce7d25e461a7131a2d59850d3472f4049
-SHA512: fba83719363e9d8da1f3fd167316d8ddacb63e5bb45d63ed29c22f548b60ed024d6a5594e3d7f1073029d74f250601c2245102764364e936c83d8488fdff45f1
+Filename: ./network/google-chrome-beta/google-chrome-beta_138.0.7204.35-1_amd64.deb
+Size: 118232908
+MD5sum: 47a33a894ccdfabaac7b2de2cf132b5d
+SHA1: fd2dfb1a9c802da79d3284cd5d825c66b5fcee68
+SHA256: c490b180987eadb824977e3565cd69157b901c0b02bad333ea4d9d29ca1001d5
+SHA512: 3e9e435dc1ed60cadc92bcecc38c7a851d0ca074f788e2d655b33fc66d4d382866798bc942b5c4c1f27bc6911ebf8f8ddbb62501265406ba11dc63aee3412096
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -37522,19 +37452,19 @@ Description: A software reverse engineering (SRE) framework created and maintain
 
 Package: termius-app
 Architecture: amd64
-Version: 9.21.2
+Version: 9.22.0
 Priority: optional
 Section: default
 Maintainer: Termius Corporation <support@termius.com>
-Installed-Size: 374919
+Installed-Size: 375004
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./development/termius-app/termius-app_9.21.2_amd64.deb
-Size: 102755304
-MD5sum: 5d4f447ca7a0ed323aff51d33cd57ad9
-SHA1: 1f209adc77142663449c340d9b87fe83aa068bb0
-SHA256: 6423dc0fba556ad376f8a56f75babbf2533f58f93db89ae1b9ba70076a0a6fd2
-SHA512: f040bc622fb107da318ced891bff81127a68fed5a53d26284205d4b7a71e1bdbb5ed7ada92d41ec43cba0dcaf6ef7ce3ab891d743c900bc5e1434ec10687de36
+Filename: ./development/termius-app/termius-app_9.22.0_amd64.deb
+Size: 102811936
+MD5sum: 75cbe69caafd9f46efd46fbc53c2fcb8
+SHA1: 9acf000d81e6f9e511bffefabbe76f30b3c1dda8
+SHA256: 9c3aa44059105a591523849e7ad6fc7b93860a6dea5bc0c3491d3ed3901c097a
+SHA512: 73653a2eb18e2401eb7f1efbbcf0d7c4443f4273e9ca41ad746ad76ad5abe2b189810f82623d0339d5d6c62d6854b3bbc0e786aa82a191bb21d7e5471655f840
 Homepage: https://termius.com/
 Description: 
   Desktop SSH Client
@@ -41099,19 +41029,19 @@ Vendor: Ferdium Contributors <hello@ferdium.org>
 
 Package: discord
 Architecture: amd64
-Version: 0.0.97
+Version: 0.0.98
 Priority: optional
 Section: net
 Maintainer: Discord Maintainer Team <native-team@discord.com>
 Installed-Size: 263156
 Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
 Recommends: libappindicator1 | libayatana-appindicator1
-Filename: ./chat/discord/discord_0.0.97_amd64.deb
-Size: 104908592
-MD5sum: 1c58d464ef0bd632c38b0d0cda8f9d16
-SHA1: a0977f6fa2c7b77ac3a1ecae809507b39b8020d1
-SHA256: dcb73e213d5167407fff9510859cc490ef23c61644b672eec7c903544a12a3b6
-SHA512: 877f0dff96ae09dcd8cc4913645f83f3982cf252c98404f4bdfd881782f986f80102901bb5c033365ac7ea07be37f11fe355a2284aba49ea85e8ceb2ab19f601
+Filename: ./chat/discord/discord_0.0.98_amd64.deb
+Size: 104908628
+MD5sum: c166c27e72b1ca85b2b1246ca0435a0a
+SHA1: 9bfa19340424b8aa417b654d0fe5a1c064437c86
+SHA256: f2a45d67b9c3d9a417a32dba251b56b507550e4a1a751182f885082f2a9ec772
+SHA512: f5e163cf544ca28565368ff5479fe12e2a53adf2b06855794b6a2d43b2e3311e5bb4381ecbba64734ebf8e48956f6aaba7dabe89bc15380be8a6e6d0766fd7c1
 Homepage: https://discord.com
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,

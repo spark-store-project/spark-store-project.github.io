@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="additional-base-lib_2.41-9-9_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">4cb3ff5b55d5f994fa74f170882a2ab3</hash>
+				  
+				<hash type="sha1">df0ca3bdf5337eb33795566e8efb271a1d392ebd</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/additional-base-lib/additional-base-lib_2.41-9-9_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
