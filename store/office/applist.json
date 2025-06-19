@@ -232,21 +232,20 @@
 
 ,
 {
-  "Name": "OnlyOffice 桌面编辑器",
-  "Author": "Ascensio System SIA <support@onlyoffice.com>",
-  "More": "ONLYOFFICE Desktop Editors.\n一个结合了文本、电子表格和演示编辑器的办公套件，允许创建、查看和编辑本地文档",
-  "Website": "https://www.onlyoffice.com/zh/",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "icons": "https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/screen_1.png\",\"https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/screen_2.png\",\"https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/screen_3.png\"]",
-  "Pkgname": "onlyoffice-desktopeditors",
-  "Version": "8.3.2",
-  "Filename": "onlyoffice-desktopeditors_8.3.2_amd64.deb",
-  "Update": "2025-04-16 12:42:22",
-  "Size": "288.69MB",
-  "Contributor": "https://gitee.com/spark-building-service/github"
+    "Name": "OnlyOffice 桌面编辑器",
+    "Author": "Ascensio System SIA <support@onlyoffice.com>",
+    "More": "ONLYOFFICE Desktop Editors.\n一个结合了文本、电子表格和演示编辑器的办公套件，允许创建、查看和编辑本地文档",
+    "Website": "https://www.onlyoffice.com/zh/",
+    "Tags": "community;debian;deepin;ubuntu;uos",
+    "icons": "https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/screen_1.png\",\"https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/screen_2.png\",\"https://spk-json.spark-app.store/store/office/onlyoffice-desktopeditors/screen_3.png\"]",
+    "Pkgname": "onlyoffice-desktopeditors",
+    "Version": "9.0.0",
+    "Filename": "onlyoffice-desktopeditors_9.0.0_amd64.deb",
+    "Update": "2025-06-20 01:40:42",
+    "Size": "301.73MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
 }
-
 ,
 {
   "Name": "腾讯文档",
@@ -589,24 +588,6 @@
 
 ,
 {
-  "Name": "东方财富终端",
-  "Version": "11.6.0.11160spark2",
-  "Filename": "com.eastmoney.emdesk.spark_11.6.0.11160spark2_all.deb",
-  "Torrent_address": "com.eastmoney.emdesk.spark_11.6.0.11160spark2_all.deb.torrent",
-  "Pkgname": "com.eastmoney.emdesk.spark",
-  "Author": "东方财富证券股份有限公司",
-  "Contributor": "sgb76",
-  "Website": "https://emdesk.eastmoney.com/pc_activity/AHome/Index",
-  "Update": "2025-06-09 19:22:15",
-  "Size": "107.83 MB",
-  "More": "东方财富终端\n您的一站式金融理财平台\n炒股票，买基金，做理财",
-  "Tags": "debian;deepin;uos;dwine5;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/09/0acb73c7f92f48d49f1d6eeffcdea698.png\",\"https://spk-json.spark-app.store/images/2025/06/09/311f0f8f66b74870a5cbe86e400abc6d.png\",\"https://spk-json.spark-app.store/images/2025/06/09/ac317ba6474f47c4826084917ad8f8ab.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/06/09/b8495e74db794b6ba23a705980ccd761.png"
-}
-
-,
-{
   "Name": "金山PDF（wine）",
   "Version": "11.6.0.8806deepin6",
   "Filename": "com.wpspdf.spark_11.6.0.8806deepin6_all.deb",
@@ -621,6 +602,24 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/17/ef88b7969fab4cafa33f27ff4ef03d42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/17/772a085b85054652b92247e2453f9b1e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/17/0ec4374c88684f25b9e9d2824c45e06f.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/17/cfb99851b75d453ab260bf1d94cdee83.png"
+}
+
+,
+{
+  "Name": "东方财富终端",
+  "Version": "11.6.0.11160spark2",
+  "Filename": "com.eastmoney.emdesk.spark_11.6.0.11160spark2_all.deb",
+  "Torrent_address": "com.eastmoney.emdesk.spark_11.6.0.11160spark2_all.deb.torrent",
+  "Pkgname": "com.eastmoney.emdesk.spark",
+  "Author": "东方财富证券股份有限公司",
+  "Contributor": "sgb76",
+  "Website": "https://emdesk.eastmoney.com/pc_activity/AHome/Index",
+  "Update": "2025-06-09 19:22:15",
+  "Size": "107.83 MB",
+  "More": "东方财富终端\n您的一站式金融理财平台\n炒股票，买基金，做理财",
+  "Tags": "debian;deepin;uos;dwine5;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/09/0acb73c7f92f48d49f1d6eeffcdea698.png\",\"https://spk-json.spark-app.store/images/2025/06/09/311f0f8f66b74870a5cbe86e400abc6d.png\",\"https://spk-json.spark-app.store/images/2025/06/09/ac317ba6474f47c4826084917ad8f8ab.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/06/09/b8495e74db794b6ba23a705980ccd761.png"
 }
 
 ,
@@ -873,24 +872,6 @@
 
 ,
 {
-  "Name": "瑞印万能打印驱动（个人版\n）",
-  "Version": "1.3.0.0",
-  "Filename": "com.brocadesoft.ruiyin_1.3.0.0_amd64.deb",
-  "Torrent_address": "com.brocadesoft.ruiyin_1.3.0.0_amd64.deb.torrent",
-  "Pkgname": "com.brocadesoft.ruiyin",
-  "Author": "Brocadesoft",
-  "Contributor": "gfdgd-xi <3025613752@qq.com>",
-  "Website": "https://www.brocadesoft.com",
-  "Update": "2023-11-04 14:11:44",
-  "Size": "29.21 MB",
-  "More": "瑞印万能打印驱动是国产操作系统下的通用打印驱动程序。兼容99%主流网络打印机，即便没有针对国产适配的打印机也支持打印。解决存量打印机的利旧使\n用问题，解决信创和非信创打印机混合使用问题。支持主流品牌复印机的装订打孔和小册子装订。",
-  "Tags": "deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/af7e4383f5a3452d90338971c007f865.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/8e9917bd011441f18fff736456fb8731.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/5cc28725c66046cf8d78d5b3949dd254.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/30a1a1f93b294abdba2779a49b70c671.png"
-}
-
-,
-{
   "Name": "WPS Office 2016",
   "Version": "10.1.0.6757spark1",
   "Filename": "wps-office-2016_10.1.0.6757spark1_amd64.deb",
@@ -905,6 +886,24 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ee21fa1593d54ce4a1fdf603201ed9a3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/07d3456370d344568c9e7901262ed282.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/b9646b883af543f2959e60deca1e6276.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/19/ac962151e5784565ad34e565d0142e33.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/19/73ad7ec5759e459c83335c348379c206.png"
+}
+
+,
+{
+  "Name": "瑞印万能打印驱动（个人版\n）",
+  "Version": "1.3.0.0",
+  "Filename": "com.brocadesoft.ruiyin_1.3.0.0_amd64.deb",
+  "Torrent_address": "com.brocadesoft.ruiyin_1.3.0.0_amd64.deb.torrent",
+  "Pkgname": "com.brocadesoft.ruiyin",
+  "Author": "Brocadesoft",
+  "Contributor": "gfdgd-xi <3025613752@qq.com>",
+  "Website": "https://www.brocadesoft.com",
+  "Update": "2023-11-04 14:11:44",
+  "Size": "29.21 MB",
+  "More": "瑞印万能打印驱动是国产操作系统下的通用打印驱动程序。兼容99%主流网络打印机，即便没有针对国产适配的打印机也支持打印。解决存量打印机的利旧使\n用问题，解决信创和非信创打印机混合使用问题。支持主流品牌复印机的装订打孔和小册子装订。",
+  "Tags": "deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/af7e4383f5a3452d90338971c007f865.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/8e9917bd011441f18fff736456fb8731.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/04/5cc28725c66046cf8d78d5b3949dd254.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/04/30a1a1f93b294abdba2779a49b70c671.png"
 }
 
 ,
@@ -1393,6 +1392,23 @@
 
 ,
 {
+  "Name": "语雀（web）",
+  "Version": "1.0spark0",
+  "Filename": "web-yuque_1.0spark0_amd64.deb",
+  "Pkgname": "web-yuque",
+  "Author": "阿里支付宝",
+  "Contributor": "sgb76",
+  "Website": "https://www.yuque.com/",
+  "Update": "2020-11-25 15:20:51",
+  "Size": "16.29 KB",
+  "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
+}
+
+,
+{
   "Name": "Chatbox 多模型AI客户端",
   "Version": "1.10.4",
   "Filename": "chatbox_1.10.4_amd64.deb",
@@ -1407,23 +1423,6 @@
   "Tags": "community;debian;ubuntu;deepin;uos;a2d;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/02/f2d3b45261394775aa80e71dbcf4f73d.png\",\"https://spk-json.spark-app.store/images/2025/03/02/36c55306554e48a4ba984bfc10e19ccb.png\",\"https://spk-json.spark-app.store/images/2025/03/02/7dc1867433054779994fac0322a1438b.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/02/e378518020064f41b0d8d7a421ed2102.png"
-}
-
-,
-{
-  "Name": "语雀（web）",
-  "Version": "1.0spark0",
-  "Filename": "web-yuque_1.0spark0_amd64.deb",
-  "Pkgname": "web-yuque",
-  "Author": "阿里支付宝",
-  "Contributor": "sgb76",
-  "Website": "https://www.yuque.com/",
-  "Update": "2020-11-25 15:20:51",
-  "Size": "16.29 KB",
-  "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
 }
 
 ,
@@ -1642,6 +1641,24 @@
 
 ,
 {
+  "Name": "蓝信",
+  "Version": "7.33.32spark0",
+  "Filename": "org.lanxin.spark_7.33.32spark0_amd64.deb",
+  "Torrent_address": "org.lanxin.spark_7.33.32spark0_amd64.deb.torrent",
+  "Pkgname": "org.lanxin.spark",
+  "Author": "蓝信移动(北京)科技有限公司",
+  "Contributor": "spl",
+  "Website": "https://www.lanxin.cn/",
+  "Update": "2022-06-11 17:45:51",
+  "Size": "404.93 MB",
+  "More": "通讯类，支持文字、语音、表情、位置、图片、文件、音频、视频等消息类型，形式可图文、多图发送，满足多样化的沟通场景和沟通诉求，为沟通创造无限可能。支持一键发起千人超大群组，所有成员实名沟通。私聊、群聊消息支持原文回复、查看已读未读，并可一键@未读成员；如有不能及时处理的已读私聊会话，可重新标记为未读，作为备忘，后续跟进处理。 所有信息安全可控，支持添加水印、防截屏、阅后即焚设置，信息安全多重保障。",
+  "Tags": "deepin;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/efef5f10-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/effdde00-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0120240-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0256330-e96a-11ec-a40a-313790704626.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/11/eaec6990-e96a-11ec-a40a-313790704626.png"
+}
+
+,
+{
   "Name": "VNote",
   "Version": "3.17.0",
   "Filename": "vnote_3.17.0_amd64.deb",
@@ -1674,24 +1691,6 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/02/5f2e2f3599df425da938b87185b8f742.png\",\"https://spk-json.spark-app.store/images/2025/02/02/5106fc1526e94af29eae446f59e536f2.png\",\"https://spk-json.spark-app.store/images/2025/02/02/0102ac86091d4ec09d1753fb2f39b393.png\",\"https://spk-json.spark-app.store/images/2025/02/02/e3b64045ae1e430ea712c31a2ac4f43d.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/02/02/256483bef5e44ec1805cabf5e322711d.png"
-}
-
-,
-{
-  "Name": "蓝信",
-  "Version": "7.33.32spark0",
-  "Filename": "org.lanxin.spark_7.33.32spark0_amd64.deb",
-  "Torrent_address": "org.lanxin.spark_7.33.32spark0_amd64.deb.torrent",
-  "Pkgname": "org.lanxin.spark",
-  "Author": "蓝信移动(北京)科技有限公司",
-  "Contributor": "spl",
-  "Website": "https://www.lanxin.cn/",
-  "Update": "2022-06-11 17:45:51",
-  "Size": "404.93 MB",
-  "More": "通讯类，支持文字、语音、表情、位置、图片、文件、音频、视频等消息类型，形式可图文、多图发送，满足多样化的沟通场景和沟通诉求，为沟通创造无限可能。支持一键发起千人超大群组，所有成员实名沟通。私聊、群聊消息支持原文回复、查看已读未读，并可一键@未读成员；如有不能及时处理的已读私聊会话，可重新标记为未读，作为备忘，后续跟进处理。 所有信息安全可控，支持添加水印、防截屏、阅后即焚设置，信息安全多重保障。",
-  "Tags": "deepin;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/efef5f10-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/effdde00-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0120240-e96a-11ec-a40a-313790704626.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/11/f0256330-e96a-11ec-a40a-313790704626.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/11/eaec6990-e96a-11ec-a40a-313790704626.png"
 }
 
 ,
@@ -2509,6 +2508,24 @@
 
 ,
 {
+  "Name": "搜狗输入法UOS版语言数据包",
+  "Version": "1.0.0",
+  "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
+  "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
+  "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
+  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "http://pinyin.sogou.com/linux",
+  "Update": "2023-05-20 22:09:03",
+  "Size": "878.22 MB",
+  "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
+  "Tags": "uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
+}
+
+,
+{
   "Name": "班级优化大师",
   "Version": "2.0.11",
   "Filename": "com.seewo.easicare.spark_2.0.11_amd64.deb",
@@ -2558,24 +2575,6 @@
   "Tags": "deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/23/47142530-daae-11ec-afcf-0b2b115ffe8e.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/23/438de4a0-daae-11ec-afcf-0b2b115ffe8e.png"
-}
-
-,
-{
-  "Name": "搜狗输入法UOS版语言数据包",
-  "Version": "1.0.0",
-  "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
-  "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
-  "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
-  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "http://pinyin.sogou.com/linux",
-  "Update": "2023-05-20 22:09:03",
-  "Size": "878.22 MB",
-  "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-  "Tags": "uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
 }
 
 ,
@@ -2686,24 +2685,6 @@
 
 ,
 {
-  "Name": "火龙果写作",
-  "Version": "4.5.1spark1",
-  "Filename": "com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb",
-  "Torrent_address": "com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb.torrent",
-  "Pkgname": "com.mypitaya.pitaya.spark",
-  "Author": "北京香侬慧语科技有限责任公司",
-  "Contributor": "sgb76",
-  "Website": "https://mypitaya.com/",
-  "Update": "2023-04-27 18:07:16",
-  "Size": "107.08 MB",
-  "More": "一款AI驱动的文字生产力工具，包含强大的AI文本处理能力，功能包含智能撰写，改写润色，纠错校对，多语言翻译等。",
-  "Tags": "deepin;uos;dwine5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ff3e23595a5d48fa981fbb70217c9fb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/06c89c71e90d435ca4735ef3b4d96e70.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/041ee6aa8dbc4b048ff8c877f28e7283.png"
-}
-
-,
-{
   "Author": "support@cbewin.com",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.cbewin.anytxt_1.3.1482_amd64.deb",
@@ -2718,6 +2699,24 @@
   "Website": "https://anytxt.net.cn/",
   "icons": "https://spk-json.spark-app.store/store/office/com.cbewin.anytxt/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/office/com.cbewin.anytxt/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "火龙果写作",
+  "Version": "4.5.1spark1",
+  "Filename": "com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb",
+  "Torrent_address": "com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb.torrent",
+  "Pkgname": "com.mypitaya.pitaya.spark",
+  "Author": "北京香侬慧语科技有限责任公司",
+  "Contributor": "sgb76",
+  "Website": "https://mypitaya.com/",
+  "Update": "2023-04-27 18:07:16",
+  "Size": "107.08 MB",
+  "More": "一款AI驱动的文字生产力工具，包含强大的AI文本处理能力，功能包含智能撰写，改写润色，纠错校对，多语言翻译等。",
+  "Tags": "deepin;uos;dwine5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ff3e23595a5d48fa981fbb70217c9fb0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/06c89c71e90d435ca4735ef3b4d96e70.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/041ee6aa8dbc4b048ff8c877f28e7283.png"
 }
 
 ,

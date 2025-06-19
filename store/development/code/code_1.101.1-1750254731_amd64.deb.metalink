@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="code_1.101.1-1750254731_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">114977cf969f3117e8e3393669dcefe6</hash>
+				  
+				<hash type="sha1">8725927e51cf8d811dedaab0fa0c5b8547e67f61</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/code/code_1.101.1-1750254731_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./development/code/code_1.101.1-1750254731_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/code/code_1.101.1-1750254731_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./development/code/code_1.101.1-1750254731_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./development/code/code_1.101.1-1750254731_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./development/code/code_1.101.1-1750254731_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./development/code/code_1.101.1-1750254731_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

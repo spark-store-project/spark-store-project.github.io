@@ -3435,24 +3435,24 @@ Description: deepin simple mirror selector
 
 Package: additional-base-lib
 Architecture: arm64
-Version: 2.41-8-9
+Version: 2.41-9-9
 Priority: optional
 Section: utils
 Maintainer: CongTianKong
 Installed-Size: 26308
 Depends: bubblewrap, bash, coreutils
 Suggests: shared-mime-info, xdg-utils
-Filename: ./tools/additional-base-lib/additional-base-lib_2.41-8-9_arm64.deb
-Size: 2828200
-MD5sum: dc30b9a659ab6a9814a6822d4a984d58
-SHA1: a8f4f1c84aadd1683cf17bd6c5310021d86c9d07
-SHA256: 3c807aa49ab745f1076f7e377f7cb678bea8e8b6ffd8565089bda1bc6c35c12c
-SHA512: 80c8ac272b3ff77460949c67cdc37ca0f0a80d954e392bb54764f2ef63d4b756256787f2553d7c47908440fd64ccb11fc843b8f98d3cebce187f3bcc33c54257
+Filename: ./tools/additional-base-lib/additional-base-lib_2.41-9-9_arm64.deb
+Size: 2832212
+MD5sum: cd3b30dab73562f9b5599b19e89670b3
+SHA1: 8e5cc685bf50ec0a2c266bfd67ad307379e4e30d
+SHA256: 3dc72eca09636da088672808f8b545030417071bce3241163cd585ccce319d5d
+SHA512: cf7d55f8320ddc4c0d71c00528e23b703adf6d5fd4dbdc8e4ae180100e4d186276ae99d6b4500f4e30bc9fe762f146baf4651e89c5c8915cb57c0d836014cfd3
 Homepage: https://gitee.com/deepin-community-store/additional-base-lib
 Description: A script to run programs with newer libc.
  package built with make-deb.sh from additional-base-lib project.
- libc6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc6_2.41-8_arm64.deb
- libc-bin download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc-bin_2.41-8_arm64.deb
+ libc6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc6_2.41-9_arm64.deb
+ libc-bin download URL: http://ftp.cn.debian.org/debian/pool/main/g/glibc/libc-bin_2.41-9_arm64.deb
  libstdc++6 download URL: http://ftp.cn.debian.org/debian/pool/main/g/gcc-14/libstdc++6_14.2.0-19_arm64.deb
 
 Package: sm-refresh
@@ -4097,27 +4097,6 @@ SHA512: 69c810f858a61010522b3e4d4f025d559a18c582750b17792a200ca600c04b4d8101f7a0
 Homepage: https://gitee.com/spark-store-project/ccc-app-manager
 Description: manage your applications.
  应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包。支持deepin、uos系统。
-
-Package: spark-store-console
-Architecture: all
-Version: 4.5.0-console1
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 1187
-Provides: spark-store, aptss
-Depends: wget,aria2, zenity, policykit-1 | pkexec | polkit-1 | polkit, libnotify-bin, python3, desktop-file-utils,curl,sudo,lsb-release,gnupg
-Conflicts: spark-store, aptss
-Replaces: spark-store, aptss
-Filename: ./tools/spark-store-console/spark-store-console_4.5.0-console1_all.deb
-Size: 145172
-MD5sum: 2bb7bfae420d5f12a95fd30b87db872b
-SHA1: ce723867a213f2a1854eaff8bac1ed4e410ab966
-SHA256: 383763729e1a9a4126c3c05b7ee631ab2b78646fb5a251b7f301f95f1b0cf3b6
-SHA512: edd48de747253544565f960736af7e40d5e7cbd68063265ba4eafe410c7439ac47d4c792745047eec6ee85d19f5869a4c9824c606ac465001fa0b71fbbbe1300
-Homepage: https://www.spark-app.store/
-Description: Spark Store
- A community powered app store, based on DTK.
 
 Package: spark-store-console
 Architecture: all
@@ -12660,22 +12639,22 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.101.0-1749655353
+Version: 1.101.1-1750254710
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 416444
+Installed-Size: 416445
 Provides: visual-studio-code
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 5.2), libstdc++6 (>= 6), libstdc++6 (>= 9), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: ./development/code/code_1.101.0-1749655353_arm64.deb
-Size: 100448670
-MD5sum: 7a495514760cf3f452338dd86de3e324
-SHA1: 313ed2aa21fb30d8bc47c0f002ae871baf684e19
-SHA256: bf1f6895514ba1b2f01c4da6e9543f1a430b29c15f79032b1672012c11cc8724
-SHA512: 4d64dfc2af74ef5543104b9af1ae965e989c7cca3c0cc7e7f21243897b02e6edc374824b5eafbf5067fb92d5a7db8cb0fb12e7597a87fefba53717ce96036c97
+Filename: ./development/code/code_1.101.1-1750254710_arm64.deb
+Size: 100432842
+MD5sum: fdcf8065f8f3f8fcdf47e67944b3bb59
+SHA1: d55e233b8065c37dd74f1f5b2e727551f0ac9431
+SHA256: ef60deb1d270ef588eaf718df134162c51687b2b468e273dba9ed052961040b7
+SHA512: 3dea3c0ee8692659912761a458845989e1e27cebd64d2cd8f03e5d317b7b5068b03b6212da947d693b0ce373b25e88348b29ba4b0a7009cbdb2c145cd1ea13c3
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of

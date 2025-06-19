@@ -10277,27 +10277,6 @@ Description: 简介部分
 
 Package: spark-store-console
 Architecture: all
-Version: 4.5.0-console1
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 1187
-Provides: spark-store, aptss
-Depends: wget,aria2, zenity, policykit-1 | pkexec | polkit-1 | polkit, libnotify-bin, python3, desktop-file-utils,curl,sudo,lsb-release,gnupg
-Conflicts: spark-store, aptss
-Replaces: spark-store, aptss
-Filename: ./tools/spark-store-console/spark-store-console_4.5.0-console1_all.deb
-Size: 145172
-MD5sum: 2bb7bfae420d5f12a95fd30b87db872b
-SHA1: ce723867a213f2a1854eaff8bac1ed4e410ab966
-SHA256: 383763729e1a9a4126c3c05b7ee631ab2b78646fb5a251b7f301f95f1b0cf3b6
-SHA512: edd48de747253544565f960736af7e40d5e7cbd68063265ba4eafe410c7439ac47d4c792745047eec6ee85d19f5869a4c9824c606ac465001fa0b71fbbbe1300
-Homepage: https://www.spark-app.store/
-Description: Spark Store
- A community powered app store, based on DTK.
-
-Package: spark-store-console
-Architecture: all
 Version: 4.8.0-console1
 Priority: optional
 Section: utils
@@ -31056,26 +31035,24 @@ Description: include some Chinese CTex examples and templates for LyX
 
 Package: onlyoffice-desktopeditors
 Architecture: amd64
-Version: 8.3.2-19
+Version: 9.0.0-172
 Priority: optional
 Section: editors
 Maintainer: Ascensio System SIA <support@onlyoffice.com>
-Installed-Size: 1011997
+Installed-Size: 1050762
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: x11-common, libasound2, curl | wget, desktop-file-utils, gstreamer1.0-libav, gstreamer1.0-plugins-ugly, libxss1, libatk1.0-0, libgtk-3-0, libcairo2, libstdc++6 (>= 4.8), libxkbcommon-x11-0, fonts-dejavu | ttf-dejavu, fonts-liberation, fonts-crosextra-carlito, xdg-utils
 Recommends: ttf-mscorefonts-installer, fonts-takao-gothic
 Suggests: onlyoffice-desktopeditors-help
-Filename: ./office/onlyoffice-desktopeditors/onlyoffice-desktopeditors_8.3.2_amd64.deb
-Size: 288687152
-MD5sum: 05b4f4f60c5921dad88bea1c179dd3b5
-SHA1: 58980f675525dc01df5017865e38ae78323c01ae
-SHA256: ba91a330b3495189caccee14b38b7ea91b9c2a5880a290e4c2696c617f112daf
-SHA512: 196f8728dd581a85e374ea7284cb3d9ec759a80958afdca2e5d1c152d94b2f58b79dc66dc21aa649a5a610eaf1b6cb0a13960f194e6e4fd85747e62760254c34
-Description: office suite
- ONLYOFFICE Desktop Editors is a free office suite that combines text,
- spreadsheet and presentation editors allowing to create, view and edit
- documents without an Internet connection.
- It is fully compatible with Office Open XML formats: .docx, .xlsx, .pptx.
+Filename: ./office/onlyoffice-desktopeditors/onlyoffice-desktopeditors_9.0.0_amd64.deb
+Size: 301728986
+MD5sum: 63a3c934ff4042a7f07809834cbe1d70
+SHA1: 3d62b71e82a8ee88552470c189678bda497690d5
+SHA256: 9868c516eba994620d823b88107a0edc03b8a6992e9b59627e3e6e91b7d6592f
+SHA512: 0f2a1aab391c4690cf5fa5bceed3a447a83f4cd2eb47929d72cc865de2d8e63ca51663f02eb608e7065d1286cb17acd359978548ea253b6a0ee0a02d6c58fef4
+Description: Desktop editors for text docs, spreadsheets, presentations, PDFs, and PDF forms.
+ Open-source office suite pack that comprises all the tools you need to
+ work offline with documents, spreadsheets, presentations, PDFs, and PDF forms.
 
 Package: org.standard-notes.spark
 Architecture: amd64
@@ -37452,19 +37429,19 @@ Description: A software reverse engineering (SRE) framework created and maintain
 
 Package: termius-app
 Architecture: amd64
-Version: 9.22.0
+Version: 9.22.1
 Priority: optional
 Section: default
 Maintainer: Termius Corporation <support@termius.com>
 Installed-Size: 375004
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./development/termius-app/termius-app_9.22.0_amd64.deb
-Size: 102811936
-MD5sum: 75cbe69caafd9f46efd46fbc53c2fcb8
-SHA1: 9acf000d81e6f9e511bffefabbe76f30b3c1dda8
-SHA256: 9c3aa44059105a591523849e7ad6fc7b93860a6dea5bc0c3491d3ed3901c097a
-SHA512: 73653a2eb18e2401eb7f1efbbcf0d7c4443f4273e9ca41ad746ad76ad5abe2b189810f82623d0339d5d6c62d6854b3bbc0e786aa82a191bb21d7e5471655f840
+Filename: ./development/termius-app/termius-app_9.22.1_amd64.deb
+Size: 102824934
+MD5sum: 8459c10efc9b79298226682122b35573
+SHA1: 71ac53746f9a4952cf9f2bfcda2d04a843c30cb9
+SHA256: 9185842e65e3f0aa903e3c8f73f06bca8e7e408c753709b49281a30eec010e67
+SHA512: d4a9e654bd309701e673d6ace69a5f4e2d41b50f68862d9fe1a86b63ec71569d8cde77f5164cce3d67358c0c688b60139336c7411e1313b741c47fe43f038799
 Homepage: https://termius.com/
 Description: 
   Desktop SSH Client
@@ -39864,7 +39841,7 @@ Description: Vim-fork focused on extensibility and usability.
 
 Package: code
 Architecture: amd64
-Version: 1.101.0-1749655245
+Version: 1.101.1-1750254731
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -39874,12 +39851,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: ./development/code/code_1.101.0-1749655245_amd64.deb
-Size: 108606922
-MD5sum: 59a735e3402397dc7907349be306fe0e
-SHA1: 2ca6f1e644444c3ab865c0a5657fbd35654093dd
-SHA256: c0cb221aa17ef63d818957c63f33d43dd4deb96b4d7b069b0bd3513b920e4492
-SHA512: ce6502ac1d5baf0110e3b96ddbfdfb5a6b92e1bf1039b79894402f3e713c14edf961ec07614c97330347f83a0d8a8a3589973247838228338c9496e4cff70330
+Filename: ./development/code/code_1.101.1-1750254731_amd64.deb
+Size: 108605322
+MD5sum: 114977cf969f3117e8e3393669dcefe6
+SHA1: 8725927e51cf8d811dedaab0fa0c5b8547e67f61
+SHA256: e1f65b55302c3e81af5102ec291cd8f71ea25fbc4259f24772fd57ccc7810871
+SHA512: 01af096cbcb889b93769ab05ff078058a355218955447d49638fc159ae3612dc80f8af12ed62eeaf4a8d67131576742cffa56af54c8ded586eb86fdfb9f4b2eb
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
