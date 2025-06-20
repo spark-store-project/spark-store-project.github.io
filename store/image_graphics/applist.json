@@ -963,24 +963,6 @@
 
 ,
 {
-  "Name": "XnConvert",
-  "Version": "1.101.0",
-  "Filename": "xnconvert_1.101.0_amd64.deb",
-  "Torrent_address": "xnconvert_1.101.0_amd64.deb.torrent",
-  "Pkgname": "xnconvert",
-  "Author": "XnSoft",
-  "Contributor": "sgb76",
-  "Website": "http://www.xnconvert.com",
-  "Update": "2024-09-22 22:53:03",
-  "Size": "31.6 MB",
-  "More": "XnConvert是一款快速、强大且免费的跨平台批处理图像转换器。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/22/e002f0e43dcc4649a3c7c11ed2d58f01.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/22/fdbf8ba5da5741a6905b55a87210eb22.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/22/6cbe7d2a04a245ec8eb0454778d21102.png"
-}
-
-,
-{
   "Name": "中望CAD 2025",
   "Version": "25.0.3.4",
   "Filename": "com.zwsoft.zwcad2025_25.0.3.4_amd64.deb",
@@ -995,6 +977,24 @@
   "Tags": "ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/0e7fddedcccd46bd8b91d3df03d2e7b2.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/205a065ee468440d9f03f3d465539646.png"
+}
+
+,
+{
+  "Name": "XnConvert",
+  "Version": "1.101.0",
+  "Filename": "xnconvert_1.101.0_amd64.deb",
+  "Torrent_address": "xnconvert_1.101.0_amd64.deb.torrent",
+  "Pkgname": "xnconvert",
+  "Author": "XnSoft",
+  "Contributor": "sgb76",
+  "Website": "http://www.xnconvert.com",
+  "Update": "2024-09-22 22:53:03",
+  "Size": "31.6 MB",
+  "More": "XnConvert是一款快速、强大且免费的跨平台批处理图像转换器。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/22/e002f0e43dcc4649a3c7c11ed2d58f01.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/22/fdbf8ba5da5741a6905b55a87210eb22.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/22/6cbe7d2a04a245ec8eb0454778d21102.png"
 }
 
 ,
@@ -1367,23 +1367,6 @@
 
 ,
 {
-  "Name": "OpenSCAD",
-  "Version": "2021.01spark0",
-  "Filename": "org.openscad.spark_2021.01spark0_amd64.deb",
-  "Pkgname": "org.openscad.spark",
-  "Author": "Marius Kintel",
-  "Contributor": "sgb76",
-  "Website": "http://www.openscad.org/index.html",
-  "Update": "2021-02-26 22:45:18",
-  "Size": "27.45 MB",
-  "More": "OpenSCAD是一款用于创建实体三维CAD模型的软件。\nOpenSCAD is software for creating solid 3D CAD models.",
-  "Tags": "deepin;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/7b44f950-7840-11eb-ba38-895c6c3c4743.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/83dc6030-7840-11eb-ba38-895c6c3c4743.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/8820e7b0-7840-11eb-ba38-895c6c3c4743.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/26/66fed970-7840-11eb-ba38-895c6c3c4743.png"
-}
-
-,
-{
   "Name": "Inpaint",
   "Version": "11.0spark2",
   "Filename": "com.inpaint.spark_11.0spark2_all.deb",
@@ -1398,6 +1381,23 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/18/e40c39f9b6dd408190e0e382b0a6d134.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/18/efac0922a683416690bd84a9475f5923.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/18/508a7698fcb248bf8fdb18c9301c0f25.png"
+}
+
+,
+{
+  "Name": "OpenSCAD",
+  "Version": "2021.01spark0",
+  "Filename": "org.openscad.spark_2021.01spark0_amd64.deb",
+  "Pkgname": "org.openscad.spark",
+  "Author": "Marius Kintel",
+  "Contributor": "sgb76",
+  "Website": "http://www.openscad.org/index.html",
+  "Update": "2021-02-26 22:45:18",
+  "Size": "27.45 MB",
+  "More": "OpenSCAD是一款用于创建实体三维CAD模型的软件。\nOpenSCAD is software for creating solid 3D CAD models.",
+  "Tags": "deepin;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/7b44f950-7840-11eb-ba38-895c6c3c4743.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/83dc6030-7840-11eb-ba38-895c6c3c4743.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/26/8820e7b0-7840-11eb-ba38-895c6c3c4743.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/26/66fed970-7840-11eb-ba38-895c6c3c4743.png"
 }
 
 ,
@@ -2267,6 +2267,24 @@
 
 ,
 {
+  "Name": "极速图片压缩器",
+  "Version": "3.1.0spark0",
+  "Filename": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb",
+  "Torrent_address": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb.torrent",
+  "Pkgname": "com.ticompressor.ticompressor.spark",
+  "Author": "present ZG",
+  "Contributor": "sgb76",
+  "Website": "https://www.ticompressor.com/online/",
+  "Update": "2023-12-09 22:57:38",
+  "Size": "98.82 MB",
+  "More": "一款压缩速度极快的桌面端图片压缩软件",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/9cc6a08fcb1a48db8bb2a0be10c237de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/b7e90c1ba59744f5982c44156443134e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/0c87c59fb8214853aebad1b59b3c9eec.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/8fda4657a92841b9a17fd931be956e49.png"
+}
+
+,
+{
   "Name": "XnSketch",
   "Version": "1.18spark0",
   "Filename": "com.xnview.xnsketch.spark_1.18spark0_amd64.deb",
@@ -2295,24 +2313,6 @@
   "Size": "50.50MB",
   "Tags": "ubuntu;debian;deepin",
   "More": "一款简易的卡通动画软件"
-}
-
-,
-{
-  "Name": "极速图片压缩器",
-  "Version": "3.1.0spark0",
-  "Filename": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb",
-  "Torrent_address": "com.ticompressor.ticompressor.spark_3.1.0spark0_all.deb.torrent",
-  "Pkgname": "com.ticompressor.ticompressor.spark",
-  "Author": "present ZG",
-  "Contributor": "sgb76",
-  "Website": "https://www.ticompressor.com/online/",
-  "Update": "2023-12-09 22:57:38",
-  "Size": "98.82 MB",
-  "More": "一款压缩速度极快的桌面端图片压缩软件",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/9cc6a08fcb1a48db8bb2a0be10c237de.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/b7e90c1ba59744f5982c44156443134e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/09/0c87c59fb8214853aebad1b59b3c9eec.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/09/8fda4657a92841b9a17fd931be956e49.png"
 }
 
 ,

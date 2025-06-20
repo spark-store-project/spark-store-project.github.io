@@ -1,0 +1,16 @@
+{
+    "Author": "zhangmingming9 <zhangmingming9@hikvision.com>",
+    "Contributor": "zhangmingming9 <zhangmingming9@hikvision.com>",
+    "Filename": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb",
+    "More": "国产电脑系统网页看录像机画面，浏览器插件下载\nhttps://knowbot.hikvision.com/webchatbot-pc/#/sharingPath?params=359407&sysNum=1693447044565&type=0\n国产系统访问录像机时，推荐使用谷歌浏览器；\n原因：1、部分NVR录像机通过谷歌浏览器网页访问时，可直接下载对应系统的插件；2、谷歌浏览器下载的插件都是线上下载的，且国产插件需要线上下载，故而推荐使用谷歌浏览器。\n\n\n——链接里的插件下载下来之后，运行安装即可：\n若谷歌浏览器访问录像机无插件下载的界面，可在如下链接中下载符合自己国产电脑的插件，具体适用情况请以现场为准：\n麒麟兆芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_amd64_kylin.deb\n \nuos兆芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_amd64_uos.deb\n\n麒麟飞腾：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_arm64_kylin.deb\n\nuos飞腾：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_arm64_uos.deb\n\n麒麟龙芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_mips64el_kylin.deb\n \nuos龙芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_mips64el_uos.deb\n\n\n\n",
+    "Name": "海康威视监控软件浏览器插件",
+    "Pkgname": "com.hikvision.weblocalserver",
+    "Size": "26 Mb",
+    "Tags": "deepin",
+    "Torrent_address": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb.torrent",
+    "Update": "2025-06-19 16:27:48",
+    "Version": "1.0.002-1",
+    "Website": "https://www.hikvision.com",
+    "icons": "https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/screen_1.png\"]"
+}

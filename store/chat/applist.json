@@ -37,14 +37,14 @@
 ,
 {
     "Name": "QQ NT",
-    "Version": "3.2.18-36330",
-    "Filename": "linuxqq_3.2.18-36330_amd64.deb",
-    "Torrent_address": "linuxqq_3.2.18-36330_amd64.deb.torrent",
+    "Version": "3.2.18-36497",
+    "Filename": "linuxqq_3.2.18-36497_amd64.deb",
+    "Torrent_address": "linuxqq_3.2.18-36497_amd64.deb.torrent",
     "Pkgname": "linuxqq",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://im.qq.com/linuxqq/index.shtml",
-    "Update": "2025-06-16 17:33:16",
+    "Update": "2025-06-20 17:32:58",
     "Size": "144M",
     "More": "QQ Linux官方版，从 hhttps://gitee.com/spark-building-service/linuxqq/ 自动维护，感谢 @wcbing 的软件仓库",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -881,6 +881,23 @@
 }
 ,
 {
+    "Name": "云湖",
+    "Version": "1.6.0+175",
+    "Filename": "com.yhchat.app_1.6.0_plus175_amd64.deb",
+    "Torrent_address": "com.yhchat.app_1.6.0_plus175_amd64.deb.torrent",
+    "Pkgname": "com.yhchat.app",
+    "Author": "Beijing Jiuwan Zhida Technology Co., Ltd <null>",
+    "Contributor": "wiwyil2tr <wiwyil2tr@gmail.com>",
+    "Website": "https://chat-web-go.jwzhd.com",
+    "Update": "2025-04-01 16:28:42",
+    "Size": "34.32 MB",
+    "More": "云湖聊天软件",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/2450b8f1dd26443989e98542ac5e706d.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/627bf9582adc40479b7afef79df85b09.png"
+}
+,
+{
   "Name": "Ferdium",
   "Version": "6.2.0",
   "Filename": "ferdium_6.2.0_amd64.deb",
@@ -899,21 +916,22 @@
 
 ,
 {
-    "Name": "云湖",
-    "Version": "1.6.0+175",
-    "Filename": "com.yhchat.app_1.6.0_plus175_amd64.deb",
-    "Torrent_address": "com.yhchat.app_1.6.0_plus175_amd64.deb.torrent",
-    "Pkgname": "com.yhchat.app",
-    "Author": "Beijing Jiuwan Zhida Technology Co., Ltd <null>",
-    "Contributor": "wiwyil2tr <wiwyil2tr@gmail.com>",
-    "Website": "https://chat-web-go.jwzhd.com",
-    "Update": "2025-04-01 16:28:42",
-    "Size": "34.32 MB",
-    "More": "云湖聊天软件",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/2450b8f1dd26443989e98542ac5e706d.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/627bf9582adc40479b7afef79df85b09.png"
+  "Name": "云视频会议系统",
+  "Version": "8.0.9.4513-1",
+  "Filename": "com.lhmeeting.client_8.0.9.4513-1_amd64.deb",
+  "Torrent_address": "com.lhmeeting.client_8.0.9.4513-1_amd64.deb.torrent",
+  "Pkgname": "com.lhmeeting.client",
+  "Author": "meeting <meeting@unknown>",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "<insert the upstream URL, if relevant>",
+  "Update": "2023-02-07 21:20:05",
+  "Size": "77.65 MB",
+  "More": "云视频会议系统是一款功能涵盖音视频、电子白板、屏幕共享、媒体播放等功能的远程网络视频会议软件，采用了全新设计和研发的系统架构——涵盖核心的\n音视频、网络传输、服务器结构、集群架构等。",
+  "Tags": "deepin;uos;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/07/78a85e6cedc6472d87ffb12ed8f8a297.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/07/928328621416418a877a2405f51dbf23.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/07/63c3d69e40cc46c89ed09d555ce602d8.png"
 }
+
 ,
 {
   "Name": "Zulip",
@@ -929,24 +947,6 @@
   "Tags": "ubuntu;deepin;a2d;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/06/812ca560-0ee1-11ec-92cb-f1d97def1689.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/09/06/864daa30-0ee1-11ec-92cb-f1d97def1689.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/09/06/78376710-0ee1-11ec-92cb-f1d97def1689.png"
-}
-
-,
-{
-  "Name": "云视频会议系统",
-  "Version": "8.0.9.4513-1",
-  "Filename": "com.lhmeeting.client_8.0.9.4513-1_amd64.deb",
-  "Torrent_address": "com.lhmeeting.client_8.0.9.4513-1_amd64.deb.torrent",
-  "Pkgname": "com.lhmeeting.client",
-  "Author": "meeting <meeting@unknown>",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "<insert the upstream URL, if relevant>",
-  "Update": "2023-02-07 21:20:05",
-  "Size": "77.65 MB",
-  "More": "云视频会议系统是一款功能涵盖音视频、电子白板、屏幕共享、媒体播放等功能的远程网络视频会议软件，采用了全新设计和研发的系统架构——涵盖核心的\n音视频、网络传输、服务器结构、集群架构等。",
-  "Tags": "deepin;uos;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/07/78a85e6cedc6472d87ffb12ed8f8a297.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/07/928328621416418a877a2405f51dbf23.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/07/63c3d69e40cc46c89ed09d555ce602d8.png"
 }
 
 ,

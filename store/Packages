@@ -2690,6 +2690,63 @@ SHA512: a8a5c6b8ccc061f861ff9c900a888b6e6bbbda59239940615b50281c64e69086dc3ff227
 Homepage: https://gitee.com/GXDE-OS/aptss/
 Description: aptss
 
+Package: sogou-ime-ng-cpis-dict-keyboard-chs-pcwb
+Architecture: all
+Version: 10.0.2-2
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Source: sogou-ime-ng-data
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 13719
+Depends: sogou-ime-ng-cpis-user-default-profile, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/sogou/sogou-ime-ng-cpis-dict-keyboard-chs-pcwb_10.0.2-2_all.deb
+Size: 5287022
+MD5sum: d21a7e8bf2989f90de5bd81c79a69419
+SHA1: d604ed61a9abe36b226cbcff50b047b074c8dd2c
+SHA256: 2b92ba0cb7986c72a7a32a80fbfa065c1ee5bfd4dacd12d210ac2f943c7bcf94
+SHA512: 0de1827f70ce8b678a7d6e045694269a87765c2b8b7a29757a0ea602dfd52caf225713f951cd9bc42b2de74f5d85e62f8677cccf74e162abab0e4be7067cd696
+Homepage: https://www.taotics.com/
+Description: Package Dict for Sogou IME NG
+
+Package: sogou-ime-ng-cpis-dict-handwriting-chinese
+Architecture: all
+Version: 10.0.2-2
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Source: sogou-ime-ng-data
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 20
+Depends: sogou-ime-ng-cpis-dict-handwriting-chinese-dict, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/sogou/sogou-ime-ng-cpis-dict-handwriting-chinese_10.0.2-2_all.deb
+Size: 15822
+MD5sum: 668a31735bc826d6619caefadb50c19c
+SHA1: 1333c94223595c27580bdcab6e81623711cceef6
+SHA256: 148518638513a75e224c30f411f8f207cf250a4529d6156404d4bb5849bf24c1
+SHA512: e9b873cd4d62c876db62f5e498df84a98cd6b47a28df0ddf189e4270ea2fda01d3c228596d142042d07c654398173d70fbcc9481854e62aeeab48bb356e14e6a
+Homepage: https://www.taotics.com/
+Description: Package chinese free.
+
+Package: sogou-ime-ng-cpis-dict-keyboard-chs-pcpy
+Architecture: all
+Version: 10.0.2-2
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Source: sogou-ime-ng-data
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 41038
+Depends: sogou-ime-ng-cpis-user-default-profile, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/sogou/sogou-ime-ng-cpis-dict-keyboard-chs-pcpy_10.0.2-2_all.deb
+Size: 15975198
+MD5sum: cdba8d7bc0ca78e3111a4655ebcc5f27
+SHA1: aec5158a381b9be529f47e4f558ed4431c94e388
+SHA256: 34d25470c6520663c1b3c9d2a44cdf758b70132959f0390873e94d0e2f20735a
+SHA512: 49c0133eeafd52b2821311de67bac5dddefb83f79e562129eabeb7b428ebe6fb1bcb15cd6f41fcac28f238ab2aa0573b4967a9181d97814555cefd38826b66f5
+Homepage: https://www.taotics.com/
+Description: Package Dict for Sogou IME NG
+
 Package: aptss
 Architecture: all
 Version: 4.3.0-fix5
@@ -26676,25 +26733,6 @@ SHA512: 13e59f504a89a26edd293f636796b60e5e686c783e50d0a46ea80d6d44748465ea091ada
 Homepage: https://www.taotics.com/
 Description: Package Dict for Sogou IME NG
 
-Package: sogou-ime-ng-cpis-dict-keyboard-chs-pcwb
-Architecture: all
-Version: 10.0.1-48.1
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Source: sogou-ime-ng-data
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 13718
-Depends: sogou-ime-ng-cpis-user-default-profile
-Filename: ./office/sogou-ime-ng-fcitx5-kylin-desktop/sogou-ime-ng-cpis-dict-keyboard-chs-pcwb_10.0.1-48.1_all.deb
-Size: 5276420
-MD5sum: 5546abd3461096695e049557b69ff799
-SHA1: 438e84a89e89a8e3837034d3809d00b501b1f130
-SHA256: 5d02a30b88fc977dba6a04eea3f73b949d7becbded816581f6c271dad2f8ab32
-SHA512: c50e1cc83366761613ce7b1b3ed3100d116f1dee0344c603bb95b06a26eb64a9dc6464144d436d67d8f017f368c6942e750ed5d7a7587856df2fbf1724d30c8f
-Homepage: https://www.taotics.com/
-Description: Package Dict for Sogou IME NG
-
 Package: cpis-base
 Architecture: amd64
 Version: 10.0.9.0.6-202311280935
@@ -26730,25 +26768,6 @@ MD5sum: 3097a3e6e17548ff62924289a6c5068c
 SHA1: 025b017bcdeba318b75c8f1b4aecfd16d8db474b
 SHA256: cebb053ac612ce64e97b69557f1c9911207e198cc0d8c7e57d8e0a20b722d45c
 SHA512: 190c3491e3a047e613280e832f8ad3ca12a5c62448c1e6aea640e44dd6273d883e3c7a3bac3ab0f013a55c90784b73a642fa16f2b4b4e462d374735e703b1e36
-Homepage: https://www.taotics.com/
-Description: Package Dict for Sogou IME NG
-
-Package: sogou-ime-ng-cpis-dict-keyboard-chs-pcpy
-Architecture: all
-Version: 10.0.1-48.1
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Source: sogou-ime-ng-data
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 41037
-Depends: sogou-ime-ng-cpis-user-default-profile
-Filename: ./office/sogou-ime-ng-fcitx5-kylin-desktop/sogou-ime-ng-cpis-dict-keyboard-chs-pcpy_10.0.1-48.1_all.deb
-Size: 15975104
-MD5sum: a854cd57b256df71838a89cd4a295bbc
-SHA1: 6281a9cbec93849d92aeda13da28001399dc9a5e
-SHA256: ee40d758cd557d238cfc398af0fdc7480e7df6ea30566ff7fbdeca4add35822f
-SHA512: 2d18f7d862bca6cebcd19fa66fbe99358cad45a1f6d59aae27c59fd545218e8b98028c842d1f1fdd8bcfb4e3cc14e537d83184c78f34787f108606421ae409f9
 Homepage: https://www.taotics.com/
 Description: Package Dict for Sogou IME NG
 
@@ -28484,6 +28503,26 @@ SHA256: 5f26530bcb375ded8b4c90f8dc77c83d6e7d7a8fdfcb4ad7e02cbca8935cc42d
 SHA512: ea36bfe9d2182ec6efdb082fcab6959554b053519844ddba34da832b94b7f3d0b31a458752ee71f82e6663161b25c715fb9e0490b1362e86e2a371e5f1a25d65
 Description: 澎博博易大师6 on wine7.9
  博易大师6实盘交易版。本版本已经支持多家期货公司实盘交易。
+
+Package: vic-diary
+Architecture: amd64
+Version: 1.0.1
+Priority: optional
+Section: default
+Maintainer: stevobm
+Installed-Size: 256117
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Recommends: libappindicator3-1
+Filename: ./office/vic-diary/vic-diary_1.0.1_amd64.deb
+Size: 73022342
+MD5sum: 21ca3ae76567c6c202885357da716c51
+SHA1: e3685c62eb0e99cf70f84aeeff10aeee0b725136
+SHA256: f246ae4dee71a16081ed166a05492bc5915f3a2f54c46c56f277d7e171dcb0ff
+SHA512: c7bfc2547028822888ecba2c4678076f4c39c60067e984b2153dbb65d342b3b5140271d6eb3587fbf12c743f6751c6633d2ae96754e28ebbc1097bc7b544fe77
+Homepage: https://github.com/vo-soft/vic-diary
+Description: An elegant diary supported markdown
+License: unknown
+Vendor: stevobm
 
 Package: vic-diary
 Architecture: amd64
@@ -32422,20 +32461,20 @@ Description: IDM For dwine6
 
 Package: microsoft-edge-stable
 Architecture: amd64
-Version: 137.0.3296.83-1
+Version: 137.0.3296.93-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 608424
+Installed-Size: 608428
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-stable/microsoft-edge-stable_137.0.3296.83-1_amd64.deb
-Size: 185805692
-MD5sum: f2364d62bf43e4ebed58f6201493f50a
-SHA1: 1696d7435c2aa5d1f9267ac634f08ef030745ccc
-SHA256: dd6e2ddf935e2eb0b91be354f5c0840e73689b9d93f096f8ee919c9d0e93aeec
-SHA512: ee157a4dd7ac5b4d0df82882484c59e5678f0bf283a6d9dccc48004bdfa15e77f846d17dffb5576d2eb031910647aaf4d2f7ab107d3d65c97cb42c8f283f8ef8
+Filename: ./network/microsoft-edge-stable/microsoft-edge-stable_137.0.3296.93-1_amd64.deb
+Size: 185770100
+MD5sum: 1352a1babc611d251346b0f68ef95457
+SHA1: d7ccf26f00db59ba49efde52a3558a3b417e286a
+SHA256: df5457d935d1115a7c804151ad19ffcd4394db4e4fb0956fcfbc91702291ced0
+SHA512: a508eafdd7668df8d01e82f703888e0aa07b5443ccd3f31a48ddef7533ddf36911303f4fc53f068d9a93e3e38cae6b1a747b676c22af66bdd1165a2c2b2e1919
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -33290,20 +33329,20 @@ Description: 天翼云盘
 
 Package: google-chrome-unstable
 Architecture: amd64
-Version: 139.0.7232.3-1
+Version: 139.0.7246.0-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 379132
+Installed-Size: 379513
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/google-chrome-unstable/google-chrome-unstable_139.0.7232.3-1_amd64.deb
-Size: 118768060
-MD5sum: a8ac647c1197b3254cf7b1491265bfbf
-SHA1: 171b15aca5c86692b64b74aed1f1efb7dfcb77de
-SHA256: 85c1c0d74c5755b8c213d0b90091ba4ca8d931ac99c8b46599a7f609ad57a806
-SHA512: c1214121e1049b1ee816a8865edd3be6e07d92b88e368d1fe7dec1b807281ac2385f1da37deaca4326b00b2fbf52c829e34dd53a35af046adfedcd56f54029d7
+Filename: ./network/google-chrome-unstable/google-chrome-unstable_139.0.7246.0-1_amd64.deb
+Size: 119027372
+MD5sum: e5c7a8f36c27f57e8c0f96814ea589ed
+SHA1: cbdb2b620ec2e84887e5c32a1ed0075f4141e03a
+SHA256: 8bd43e4f3508db726cd4bb234e46f2ff87b4a95f6354e90348382dea292f854a
+SHA512: 4c9b639963332ecd1f85ae960bd610e04675dd1cb894c9a0caa5527b9a5e6576f0a6ffd2bd519acdad2b837aac77e9ef84b97b7876f6da813c6c2c33beecfd65
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -35765,6 +35804,23 @@ Description:
   uos版本优酷客户端APP，基于Electron 技术实现在uos（国产操作系统）的APP客户端。
 License: ISC
 Vendor: ${author}
+
+Package: com.hikvision.weblocalserver
+Architecture: amd64
+Version: 1.0.002-1
+Priority: optional
+Section: sps
+Maintainer: zhangmingming9 <zhangmingming9@hikvision.com>
+Installed-Size: 107479
+Depends: deepin-elf-verify
+Filename: ./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb
+Size: 26569630
+MD5sum: 40556c12ce63f021f62ea2866ed88e74
+SHA1: d02318fc2972db8c4fd63a0df486c84897183988
+SHA256: e2ff46e8df0acd0edbec6f51a67fc5e44d5a05faa3a9298174338aa3ba049f33
+SHA512: 236c1c950be5ef6abe618c1488d0d015c38958bac1b7ef261f1eca3a72ea65add511d05a9ee4b2bf91fca6ff35c636e20b35cef738d83e9ea4cd4ddd8917100d
+Homepage: https://www.hikvision.com
+Description: Web Local Server 1.0.001
 
 Package: cn.360.360player
 Architecture: amd64
@@ -39619,22 +39675,22 @@ Description: PhpStorm
 
 Package: codium
 Architecture: amd64
-Version: 1.101.03933
+Version: 1.101.14098
 Priority: optional
 Section: devel
 Maintainer: VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors
-Installed-Size: 412948
+Installed-Size: 412949
 Provides: visual-studio-codium
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.14), libc6 (>= 2.16), libc6 (>= 2.17), libc6 (>= 2.2.5), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-codium
 Replaces: visual-studio-codium
-Filename: ./development/codium/codium_1.101.03933_amd64.deb
-Size: 105873716
-MD5sum: 66c5932bf8055ff7c9acd2d6b87a3626
-SHA1: b443b64e98e17e6ffb13c8f081fc323eb6e8d74f
-SHA256: a3af979e6dd02d2bc31a95ba69d4e9715b801c94dd285d93c94cb3d1f2c16071
-SHA512: e60c6bce46d8392a8b2fa0be09772d88550302ad40bdf9ab9f3fa9194da97180ecd4dc9d1bc6a0d6d64ca2a357f6a48be163bdff6aece6abd5dc131835c6c33a
+Filename: ./development/codium/codium_1.101.14098_amd64.deb
+Size: 105869164
+MD5sum: 3e98261925b7703be1197d8766c08ead
+SHA1: e02e4f3317695424c53dc6afb8f23f04aa7b9c49
+SHA256: ce6478dd6c0ba107056e994377c71af2080a673d365df9b5535293a46e5355fa
+SHA512: 1e6aa7ffb08fcdfaf11f8eb07f7dc1daafc8428788579526f09d51aee6e00710fdb52d930b3cdbcc0abb69121cced25d6454a75de08fbfcd67c510e4e0b582b7
 Homepage: https://vscodium.com/
 Description: Code editing. Redefined.
  VSCodium is a new choice of tool that combines the simplicity of
@@ -40908,19 +40964,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: amd64
-Version: 3.2.18-36330
+Version: 3.2.18-36497
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 505033
+Installed-Size: 506151
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-36330_amd64.deb
-Size: 150375574
-MD5sum: 4154e4639ff6c9d0985dbfad005813da
-SHA1: 761ed55eb69c41856a2d2c0a2d4b41182634c0f2
-SHA256: eff7353f095c5a88173b6dbd7bb7f58185a4b424fe869c90235fb6d9392fccb4
-SHA512: 6cce1ab9478b038fd4a2f035a841e824f673bcb7e2ffbd2507f125f8d22f56441367a625515f731bdfd49e9cf23419957c62c0686ad1d8375f119cbf0ed62d8c
+Filename: ./chat/linuxqq/linuxqq_3.2.18-36497_amd64.deb
+Size: 150691888
+MD5sum: 81e26a2705a0cce3016b59bc2e28aa38
+SHA1: 844f799a679ce9d14f860b0373a86a3cc29880d0
+SHA256: 77a2d51d94e58147c6016c648b16ebe7e949359a95b84cd79bae9e3e3e4832b4
+SHA512: 917b08c5898709577359cff47309d913455f6cd94d9a2ae6a53ce1454163885fc8ba6c5af5e16c78e58c5b638f678018bd8fa3ac5f536fe5132181e403ff13c6
 Homepage: https://im.qq.com
 Description: 
   QQ

@@ -1033,6 +1033,20 @@
 
 ,
 {
+    "Name": "VSCodium",
+    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
+    "Website": "https://vscodium.com/",
+    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
+    "Tags": "community;debian;deepin;ubuntu;uos",
+    "Pkgname": "codium",
+    "Version": "1.101.14098",
+    "Filename": "codium_1.101.14098_amd64.deb",
+    "Update": "2025-06-21 01:45:21",
+    "Size": "105.87MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "RedisViewer",
   "Version": "2.4.5",
   "Filename": "redisviewer_2.4.5_amd64.deb",
@@ -1049,20 +1063,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/d723df8965a54af6b0ba070b2fcdd6fd.png"
 }
 
-,
-{
-    "Name": "VSCodium",
-    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
-    "Website": "https://vscodium.com/",
-    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
-    "Tags": "community;debian;deepin;ubuntu;uos",
-    "Pkgname": "codium",
-    "Version": "1.101.03933",
-    "Filename": "codium_1.101.03933_amd64.deb",
-    "Update": "2025-06-14 01:40:32",
-    "Size": "105.87MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "TeXstudio",
@@ -1219,22 +1219,6 @@
 
 ,
 {
-    "Name": "Neovim",
-    "Author": "Neovim.io",
-    "Website": "https://neovim.io/",
-    "More": "Vim-fork focused on extensibility and usability.",
-    "Tags": "debian;deepin;uos;ubuntu",
-    "icons": "https://spk-json.spark-app.store/store/development/neovim/icon.png",
-    "img_urls": "[]",
-    "Pkgname": "neovim",
-    "Version": "0.11.2",
-    "Filename": "neovim_0.11.2_amd64.deb",
-    "Update": "2025-06-07 01:38:52",
-    "Size": "9.60MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
-,
-{
     "Name": "navicat",
     "Version": "17.1.8",
     "Filename": "navicat_17.1.8_amd64.deb",
@@ -1249,6 +1233,22 @@
     "Tags": "debian;ubuntu;deepin",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/11/9310863c9aaa4d26803c9ded5792f67e.png\",\"https://spk-json.spark-app.store/images/2025/03/11/87da15ae56b147768df85148d4346b46.png\",\"https://spk-json.spark-app.store/images/2025/03/11/187200aea4cd4e44829ba9eccd4266f7.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/03/11/f45399980b2d4c66979c50458263fefe.png"
+}
+,
+{
+    "Name": "Neovim",
+    "Author": "Neovim.io",
+    "Website": "https://neovim.io/",
+    "More": "Vim-fork focused on extensibility and usability.",
+    "Tags": "debian;deepin;uos;ubuntu",
+    "icons": "https://spk-json.spark-app.store/store/development/neovim/icon.png",
+    "img_urls": "[]",
+    "Pkgname": "neovim",
+    "Version": "0.11.2",
+    "Filename": "neovim_0.11.2_amd64.deb",
+    "Update": "2025-06-07 01:38:52",
+    "Size": "9.60MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
 {
@@ -1357,24 +1357,6 @@
 
 ,
 {
-  "Name": "HeidiSQL(wine)",
-  "Version": "12.7.0.6850",
-  "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
-  "Torrent_address": "com.heidisql.spark_12.7.0.6850_i386.deb.torrent",
-  "Pkgname": "com.heidisql.spark",
-  "Author": "heidisql",
-  "Contributor": "ThinkYoung",
-  "Website": "https://www.heidisql.com/",
-  "Update": "2024-05-05 22:45:53",
-  "Size": "34.57 MB",
-  "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
-}
-
-,
-{
   "Name": "Liberica JDK 21 Full",
   "Version": "21.0.3+10",
   "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
@@ -1389,6 +1371,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+
+,
+{
+  "Name": "HeidiSQL(wine)",
+  "Version": "12.7.0.6850",
+  "Filename": "com.heidisql.spark_12.7.0.6850_i386.deb",
+  "Torrent_address": "com.heidisql.spark_12.7.0.6850_i386.deb.torrent",
+  "Pkgname": "com.heidisql.spark",
+  "Author": "heidisql",
+  "Contributor": "ThinkYoung",
+  "Website": "https://www.heidisql.com/",
+  "Update": "2024-05-05 22:45:53",
+  "Size": "34.57 MB",
+  "More": "HeidiSQL是一款面向Web开发人员的功能强大且可靠的工具，适用于流行数据库如MySQL、SQlite、Microsoft SQL和PostgreSQL。它允许用户轻松浏览和编辑数据，创建和编辑结构。该软件免费使用，旨在易于学习。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/05/414fa85ea4c34f0796ba83893603ec89.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/05/8bc85a35f1014aa89dfb7af038b76207.png"
 }
 
 ,
@@ -1582,23 +1582,6 @@
 
 ,
 {
-  "Name": "massCode",
-  "Version": "1.3.0spark0",
-  "Filename": "io.masscode.spark_1.3.0spark0_amd64.deb",
-  "Pkgname": "io.masscode.spark",
-  "Author": "Anton Reshetov",
-  "Contributor": "sgb76",
-  "Website": "https://masscode.io/",
-  "Update": "2021-10-19 15:48:59",
-  "Size": "63.27 MB",
-  "More": "一个免费、开源的代码片段管理器，它可以帮助您创建和组织自己的个人代码片段集合，并快速访问它。",
-  "Tags": "ubuntu;deepin;a2d;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/19/dddbf540-30b0-11ec-8110-ebfd8860c384.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/19/e3797d10-30b0-11ec-8110-ebfd8860c384.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/19/e7b8d470-30b0-11ec-8110-ebfd8860c384.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/19/d4caca80-30b0-11ec-8110-ebfd8860c384.png"
-}
-
-,
-{
   "Name": "编程猫源码编辑器",
   "Version": "3.7.14",
   "Filename": "cn.codemao.kitten3_3.7.14_amd64.deb",
@@ -1613,6 +1596,23 @@
   "Tags": "ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/77aad368736846d5a4a334c995be5b63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/80225203a30647ab932d8dabcce41c93.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/6c8eab3343b9471e909518c8f34134f8.png"
+}
+
+,
+{
+  "Name": "massCode",
+  "Version": "1.3.0spark0",
+  "Filename": "io.masscode.spark_1.3.0spark0_amd64.deb",
+  "Pkgname": "io.masscode.spark",
+  "Author": "Anton Reshetov",
+  "Contributor": "sgb76",
+  "Website": "https://masscode.io/",
+  "Update": "2021-10-19 15:48:59",
+  "Size": "63.27 MB",
+  "More": "一个免费、开源的代码片段管理器，它可以帮助您创建和组织自己的个人代码片段集合，并快速访问它。",
+  "Tags": "ubuntu;deepin;a2d;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/19/dddbf540-30b0-11ec-8110-ebfd8860c384.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/19/e3797d10-30b0-11ec-8110-ebfd8860c384.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/19/e7b8d470-30b0-11ec-8110-ebfd8860c384.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/19/d4caca80-30b0-11ec-8110-ebfd8860c384.png"
 }
 
 ,
@@ -2026,6 +2026,20 @@
 
 ,
 {
+    "Name": "Lazydocker",
+    "Author": "wcbing <i@wcbing.top>",
+    "Website": "https://github.com/jesseduffield/lazydocker",
+    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
+    "Tags": "debian;community;ubuntu;deepin",
+    "Pkgname": "lazydocker",
+    "Version": "0.24.1",
+    "Filename": "lazydocker_0.24.1-1_amd64.deb",
+    "Update": "2025-03-07 20:54:23",
+    "Size": "3.87MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "Adobe Flash Builder 4.2",
   "Version": "4.6deepin1",
   "Filename": "com.adobe.flashbuilder.spark_4.6deepin1_i386.deb",
@@ -2042,20 +2056,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/07/67e947a5dfc0414e96ba9225a26a371b.png"
 }
 
-,
-{
-    "Name": "Lazydocker",
-    "Author": "wcbing <i@wcbing.top>",
-    "Website": "https://github.com/jesseduffield/lazydocker",
-    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
-    "Tags": "debian;community;ubuntu;deepin",
-    "Pkgname": "lazydocker",
-    "Version": "0.24.1",
-    "Filename": "lazydocker_0.24.1-1_amd64.deb",
-    "Update": "2025-03-07 20:54:23",
-    "Size": "3.87MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "Sublime Merge",
@@ -2093,6 +2093,23 @@
 
 ,
 {
+    "Name": "嘉立创EDA专业版",
+    "Version": "2.2.36.7-1",
+    "Filename": "lceda-pro_2.2.36.7-1_amd64.deb",
+    "Torrent_address": "lceda-pro_2.2.36.7-1_amd64.deb.torrent",
+    "Pkgname": "lceda-pro",
+    "Author": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Website": "https://lceda.cn/",
+    "Update": "2025-02-27 11:18:00",
+    "Size": "209.55 MB",
+    "More": "嘉立创EDA是一款友好易用的，强大的EDA(Electronics Design Automation: 电子设计自动化)工具，起于2010年，现属于嘉立创旗下的一个重要部门。 嘉立创EDA服务于广大电子工程师、教育者、学生、爱好者和电子设计企业。致力于中小电路（1万Pin左右）的原理图、电路图绘制，仿真，PCB设计及制造一站式体验。\n嘉立创EDA具有以下特点：\n轻量级：嘉立创EDA可以不需要安装任何软件或插件。只需打开浏览器即可使用，也可以下载客户端支持离线使用。浏览器推荐谷歌浏览器，Edge浏览器和火狐浏览器。\n高性能：在浏览器也可以实现传统主流EDA工具相同的运行效率与速度。部分性能甚至更优。\n多年积累：嘉立创EDA是知名在线EDA软件EasyEDA的国内版本，嘉立创EDA专注国内用户，EasyEDA专注国外用户\n跨平台：无论你使用的是Linux, Mac, Windows，在何处使用，访问地址：https://pro.lceda.cn/editor\n自主可控：完全由中国人独立开发，拥有独立自主知识产权。\n良好支持：国内用户提供友好的社区支持。社区请访问：https://www.jlc-bbs.com/eda\n更新迅速：积极响应用户需求，快速更新，满足用户不同需求。\n特色功能：具有创新的特色功能，更符合国人使用习惯，提升作业效率。",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/95938608613d4d678e155151a6157928.png\",\"https://spk-json.spark-app.store/images/2025/02/27/722dd3df5de84052925f31e2398d777e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/f9d8288bdee34146a4b787827ccf5da9.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/fb346eeda86c475cb302325543d9d8ff.png"
+}
+,
+{
     "Name": "Heynote",
     "Version": "2.1.3",
     "Filename": "com.heynote.spark_2.1.3_amd64.deb",
@@ -2124,23 +2141,6 @@
     "Tags": "community;debian;ubuntu;deepin",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/19/6b7f6a754aa344f5a4e25538979fc0a1.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/02/19/c88b6159db2c498eb71c6535baeb2a0c.png"
-}
-,
-{
-    "Name": "嘉立创EDA专业版",
-    "Version": "2.2.36.7-1",
-    "Filename": "lceda-pro_2.2.36.7-1_amd64.deb",
-    "Torrent_address": "lceda-pro_2.2.36.7-1_amd64.deb.torrent",
-    "Pkgname": "lceda-pro",
-    "Author": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Website": "https://lceda.cn/",
-    "Update": "2025-02-27 11:18:00",
-    "Size": "209.55 MB",
-    "More": "嘉立创EDA是一款友好易用的，强大的EDA(Electronics Design Automation: 电子设计自动化)工具，起于2010年，现属于嘉立创旗下的一个重要部门。 嘉立创EDA服务于广大电子工程师、教育者、学生、爱好者和电子设计企业。致力于中小电路（1万Pin左右）的原理图、电路图绘制，仿真，PCB设计及制造一站式体验。\n嘉立创EDA具有以下特点：\n轻量级：嘉立创EDA可以不需要安装任何软件或插件。只需打开浏览器即可使用，也可以下载客户端支持离线使用。浏览器推荐谷歌浏览器，Edge浏览器和火狐浏览器。\n高性能：在浏览器也可以实现传统主流EDA工具相同的运行效率与速度。部分性能甚至更优。\n多年积累：嘉立创EDA是知名在线EDA软件EasyEDA的国内版本，嘉立创EDA专注国内用户，EasyEDA专注国外用户\n跨平台：无论你使用的是Linux, Mac, Windows，在何处使用，访问地址：https://pro.lceda.cn/editor\n自主可控：完全由中国人独立开发，拥有独立自主知识产权。\n良好支持：国内用户提供友好的社区支持。社区请访问：https://www.jlc-bbs.com/eda\n更新迅速：积极响应用户需求，快速更新，满足用户不同需求。\n特色功能：具有创新的特色功能，更符合国人使用习惯，提升作业效率。",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/95938608613d4d678e155151a6157928.png\",\"https://spk-json.spark-app.store/images/2025/02/27/722dd3df5de84052925f31e2398d777e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/f9d8288bdee34146a4b787827ccf5da9.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/fb346eeda86c475cb302325543d9d8ff.png"
 }
 ,
 {

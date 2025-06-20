@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="com.hikvision.weblocalserver_1.0.002-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">40556c12ce63f021f62ea2866ed88e74</hash>
+				  
+				<hash type="sha1">d02318fc2972db8c4fd63a0df486c84897183988</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./video/com.hikvision.weblocalserver/com.hikvision.weblocalserver_1.0.002-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
