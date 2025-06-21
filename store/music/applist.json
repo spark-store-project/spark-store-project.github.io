@@ -421,24 +421,6 @@
 
 ,
 {
-  "Name": "musicfox （网易云音乐命令行版）",
-  "Version": "4.6.0-2",
-  "Filename": "go-musicfox_4.6.0-2_amd64.deb",
-  "Torrent_address": "go-musicfox_4.6.0-2_amd64.deb.torrent",
-  "Pkgname": "go-musicfox",
-  "Author": "anhoder <anhoder@88.com>",
-  "Contributor": "Retromilia Hatoboku <530060699@qq.com>",
-  "Website": "https://github.com/go-musicfox/go-musicfox",
-  "Update": "2024-12-11 09:30:09",
-  "Size": "10.61 MB",
-  "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。\n\n新毛维护的星火商店版本：\n2024/09/26：修复了Ubuntu 24.04缺失依赖库的问题\n\n2024/10/28：跟进上游版本\n\n2024/11/15：跟进上游版本",
-  "Tags": "community;debian;deepin;ubuntu",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/11/a2d5e2f852c84f0680b69e0543c28bdf.png\",\"https://spk-json.spark-app.store/images/2024/12/11/faab060178f34ff59b4094771893bd89.png\",\"https://spk-json.spark-app.store/images/2024/12/11/69acdc09f1414328884e6e5aaf2e7ef2.png\",\"https://spk-json.spark-app.store/images/2024/12/11/ba2a2a0e4e7d4559a551f59bd96e499d.png\",\"https://spk-json.spark-app.store/images/2024/12/11/ae082e88f09f4482a24d12b29a95e2f2.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2024/12/11/57274eb57dfb4a479509bc6d550c7a0e.png"
-}
-
-,
-{
   "Name": "DeaDBeeF",
   "Version": "1.9.5-1",
   "Filename": "deadbeef-static_1.9.5-1_amd64.deb",
@@ -453,6 +435,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/a12adeaefc8742409c7a01cd3155c053.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/b6bf24e460ad4aa38b9deaf075215ede.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/6abbb32addb14e81bdc3b1db746ff208.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/abab3d58548c4af69b12f1896bcf227c.png"
+}
+
+,
+{
+  "Name": "musicfox （网易云音乐命令行版）",
+  "Version": "4.6.0-2",
+  "Filename": "go-musicfox_4.6.0-2_amd64.deb",
+  "Torrent_address": "go-musicfox_4.6.0-2_amd64.deb.torrent",
+  "Pkgname": "go-musicfox",
+  "Author": "anhoder <anhoder@88.com>",
+  "Contributor": "Retromilia Hatoboku <530060699@qq.com>",
+  "Website": "https://github.com/go-musicfox/go-musicfox",
+  "Update": "2024-12-11 09:30:09",
+  "Size": "10.61 MB",
+  "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。\n\n新毛维护的星火商店版本：\n2024/09/26：修复了Ubuntu 24.04缺失依赖库的问题\n\n2024/10/28：跟进上游版本\n\n2024/11/15：跟进上游版本",
+  "Tags": "community;debian;deepin;ubuntu",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/11/a2d5e2f852c84f0680b69e0543c28bdf.png\",\"https://spk-json.spark-app.store/images/2024/12/11/faab060178f34ff59b4094771893bd89.png\",\"https://spk-json.spark-app.store/images/2024/12/11/69acdc09f1414328884e6e5aaf2e7ef2.png\",\"https://spk-json.spark-app.store/images/2024/12/11/ba2a2a0e4e7d4559a551f59bd96e499d.png\",\"https://spk-json.spark-app.store/images/2024/12/11/ae082e88f09f4482a24d12b29a95e2f2.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/11/57274eb57dfb4a479509bc6d550c7a0e.png"
 }
 
 ,
@@ -593,6 +593,23 @@
 
 ,
 {
+    "Name": "汽水音乐",
+    "Version": "2.2.1spark0",
+    "Filename": "com.qishui.spark_2.2.1spark0_all.deb",
+    "Torrent_address": "com.qishui.spark_2.2.1spark0_all.deb.torrent",
+    "Pkgname": "com.qishui.spark",
+    "Author": "抖音",
+    "Contributor": "sgb76",
+    "Website": "https://www.qishui.com/",
+    "Update": "2025-05-13 00:33:15",
+    "Size": "127.03 MB",
+    "More": "抖音官方出品音乐APP\n\n--说明--\n1.基于deepin-wine-staging打包\n2.经测试，可以在应用内直接升级",
+    "Tags": "deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/13/b7c5963b56ac4e0db48e01cbb097ef0d.png\",\"https://spk-json.spark-app.store/images/2025/05/13/2f0ef5aa73f949ef87390de806c0c09a.png\",\"https://spk-json.spark-app.store/images/2025/05/13/b70eb1850f124e1593250aaee0499c6a.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/13/42568e5594404be7a08ec032804470b0.png"
+}
+,
+{
   "Name": "FLB Music",
   "Version": "1.1.9spark1",
   "Filename": "app.netlify.flbmusic.spark_1.1.9spark1_amd64.deb",
@@ -627,23 +644,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/2725682f9b6f4b9e8718d80ed4b6d30d.png"
 }
 
-,
-{
-    "Name": "汽水音乐",
-    "Version": "2.2.1spark0",
-    "Filename": "com.qishui.spark_2.2.1spark0_all.deb",
-    "Torrent_address": "com.qishui.spark_2.2.1spark0_all.deb.torrent",
-    "Pkgname": "com.qishui.spark",
-    "Author": "抖音",
-    "Contributor": "sgb76",
-    "Website": "https://www.qishui.com/",
-    "Update": "2025-05-13 00:33:15",
-    "Size": "127.03 MB",
-    "More": "抖音官方出品音乐APP\n\n--说明--\n1.基于deepin-wine-staging打包\n2.经测试，可以在应用内直接升级",
-    "Tags": "deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/13/b7c5963b56ac4e0db48e01cbb097ef0d.png\",\"https://spk-json.spark-app.store/images/2025/05/13/2f0ef5aa73f949ef87390de806c0c09a.png\",\"https://spk-json.spark-app.store/images/2025/05/13/b70eb1850f124e1593250aaee0499c6a.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/13/42568e5594404be7a08ec032804470b0.png"
-}
 ,
 {
   "Name": "QQ音乐(Wine）",

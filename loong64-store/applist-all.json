@@ -894,6 +894,22 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/deepin-terminal-gtk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/deepin-terminal-gtk/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/deepin-terminal-gtk/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/deepin-terminal-gtk/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/deepin-terminal-gtk/screen_5.png\"]"
     },
     {
+      "Name": "引导修复 Boot-Repair",
+      "Version": "4ppa203",
+      "Filename": "boot-repair_4ppa203_all.deb",
+      "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
+      "Pkgname": "boot-repair",
+      "Author": "Yann Mrn <yannubuntu@protonmail.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Website": "https://launchpad.net/boot-repair",
+      "Update": "2023-03-03 23:16:33",
+      "Size": "15.31 KB",
+      "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
+      "Tags": "community;debian;deepin;ubuntu;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
+    },
+    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "amber-ce-deepin23_23.7.0-fix1_loong64.deb",
@@ -987,22 +1003,6 @@
       "Website": "https://gitee.com/spark-building-service/spark-building-service",
       "icons": "https://spk-json.spark-app.store/store/tools/spark-building-service/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-building-service/screen_1.png\"]"
-    },
-    {
-      "Name": "引导修复 Boot-Repair",
-      "Version": "4ppa203",
-      "Filename": "boot-repair_4ppa203_all.deb",
-      "Torrent_address": "boot-repair_4ppa203_all.deb.torrent",
-      "Pkgname": "boot-repair",
-      "Author": "Yann Mrn <yannubuntu@protonmail.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Website": "https://launchpad.net/boot-repair",
-      "Update": "2023-03-03 23:16:33",
-      "Size": "15.31 KB",
-      "More": "In some situation, you might loose access to one or several of\n your operating systems, because of a buggy update, a bootloader\n problem, or after installing a new OS (e.g. installing\n Windows breaks Linux bootloader).\n .\n Boot-Repair is a graphical tool that will repair these problems,\n generally by reinstalling GRUB, which then restores access to the\n operating systems you had installed before the issue.\n .\n Boot-Repair also has advanced options to reinstall GRUB, add\n kernel options, or restore a generic MBR.",
-      "Tags": "community;debian;deepin;ubuntu;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/f8c5955496724364892c9aeb48814314.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/03/0bc66a7cfc8c49f2aad86b41f840a1c9.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/03/9a360c13ca32441489dc8344e7bb6799.png"
     },
     {
       "Author": "”daya” <”admin@yzzi.top”>",
@@ -3813,6 +3813,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/others/fonts-cjk-cn-ramega-zhangqingping/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/others/fonts-cjk-cn-ramega-zhangqingping/screen_2.png\"]"
     },
     {
+      "Author": "yanfeng.xiao <yanfeng.xiao@mythware.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.mythware.cms-student_2.7.3715-1.0.112+48g110cf77+10751uos_loong64.deb",
+      "More": "极域课堂管理系统软件最新版是一款界面精美，操作简单便捷的专业教学管理软件。极域课堂管理系统软件最新版可以实现教师机与学生机同步，通过极域课堂管理系统软件官方版可以帮助大家实时查看学生的学习情况，同时也可以帮助老师更好的与学生进行沟通。\n学生端和教师端不能同时安装",
+      "Name": "极域课堂（学生端）",
+      "Pkgname": "com.mythware.cms-student",
+      "Size": "116 Mb",
+      "Tags": "deepin;uos;debian;native",
+      "Torrent_address": "com.mythware.cms-student_2.7.3715-1.0.112+48g110cf77+10751uos_loong64.deb.torrent",
+      "Update": "2025-03-01 11:23:25",
+      "Version": "2.7.3715-1.0.112+48g110cf77+10751uos",
+      "Website": "www.mythware.net",
+      "icons": "https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_3.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_4.png\"]"
+    },
+    {
       "Author": "shenjianwei <shenjianwei@myhexin.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.51ifind_1.10.12.393.001_loong64.deb",
@@ -3971,22 +3987,6 @@
       "Website": "www.mythware.net",
       "icons": "https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-teacher/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-teacher/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-teacher/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-teacher/screen_3.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-teacher/screen_4.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-teacher/screen_5.png\"]"
-    },
-    {
-      "Author": "yanfeng.xiao <yanfeng.xiao@mythware.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.mythware.cms-student_2.7.3715-1.0.112+48g110cf77+10751uos_loong64.deb",
-      "More": "极域课堂管理系统软件最新版是一款界面精美，操作简单便捷的专业教学管理软件。极域课堂管理系统软件最新版可以实现教师机与学生机同步，通过极域课堂管理系统软件官方版可以帮助大家实时查看学生的学习情况，同时也可以帮助老师更好的与学生进行沟通。\n学生端和教师端不能同时安装",
-      "Name": "极域课堂（学生端）",
-      "Pkgname": "com.mythware.cms-student",
-      "Size": "116 Mb",
-      "Tags": "deepin;uos;debian;native",
-      "Torrent_address": "com.mythware.cms-student_2.7.3715-1.0.112+48g110cf77+10751uos_loong64.deb.torrent",
-      "Update": "2025-03-01 11:23:25",
-      "Version": "2.7.3715-1.0.112+48g110cf77+10751uos",
-      "Website": "www.mythware.net",
-      "icons": "https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_3.png\",\"https://spk-json.spark-app.store/loong64-store/others/com.mythware.cms-student/screen_4.png\"]"
     },
     {
       "Author": "codetokids <codetokids@codetokids.com>",
@@ -5216,22 +5216,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_3.png\"]"
     },
     {
-      "Name": "PDFsam Basic",
-      "Version": "5.2.0-1",
-      "Filename": "pdfsam-basic_5.2.0-1_all.deb",
-      "Torrent_address": "pdfsam-basic_5.2.0-1_all.deb.torrent",
-      "Pkgname": "pdfsam-basic",
-      "Author": "Andrea Vacondio",
-      "Contributor": "sgb76",
-      "Website": "https://pdfsam.org",
-      "Update": "2023-11-07 11:37:13",
-      "Size": "82.58 MB",
-      "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
-    },
-    {
       "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "wps-office-2016_10.1.0.6757spark1_loong64.deb",
@@ -5246,6 +5230,22 @@
       "Website": "http://wps-community.org",
       "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office-2016/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office-2016/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office-2016/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office-2016/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/wps-office-2016/screen_4.png\"]"
+    },
+    {
+      "Name": "PDFsam Basic",
+      "Version": "5.2.0-1",
+      "Filename": "pdfsam-basic_5.2.0-1_all.deb",
+      "Torrent_address": "pdfsam-basic_5.2.0-1_all.deb.torrent",
+      "Pkgname": "pdfsam-basic",
+      "Author": "Andrea Vacondio",
+      "Contributor": "sgb76",
+      "Website": "https://pdfsam.org",
+      "Update": "2023-11-07 11:37:13",
+      "Size": "82.58 MB",
+      "More": "PDFsam Basic是一款用来分割、合并、旋转、混合以及从PDF文件中提取页面的pdf工具软件，免费而且开源",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/4d116650b3a34d50a2f7a33e8dd41479.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/a327e6c7c7b549328f1e0da8e713aef0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/39b2e53f7e5d431c95ef4c95a92a38c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/07/59ea48faaae04c7a9ad37d977d395a1c.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/07/631f465473f1472fbb934eb7ed709f8c.png"
     },
     {
       "Author": "洗头_乐",
@@ -5662,6 +5662,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/office/mindmaster/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/office/mindmaster/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/office/mindmaster/screen_3.png\"]"
     },
     {
+      "Author": "User Support Services <support@yozosoft.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.yozosoft.yozo-office.s1_9.0.6141.161ZH.S1_loong64.deb",
+      "More": "永中Office 2024专业版是一款功能强大的办公软件，该产品集应用集成、数据集成、文件集成于一体，实现了跨越不同操作系统平台运行，是主要面向政府、教育、企业等行业打造的自主、安全、可控的国产办公软件产品。",
+      "Name": "永中Office2024专业版办公软件V12",
+      "Pkgname": "com.yozosoft.yozo-office.s1",
+      "Size": "474 Mb",
+      "Tags": "deepin;uos;debian;native",
+      "Torrent_address": "com.yozosoft.yozo-office.s1_9.0.6141.161ZH.S1_loong64.deb.torrent",
+      "Update": "2025-05-30 18:59:34",
+      "Version": "9.0.6141.161ZH.S1",
+      "Website": "http://www.yozosoft.com",
+      "icons": "https://spk-json.spark-app.store/loong64-store/office/com.yozosoft.yozo-office.s1/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/office/com.yozosoft.yozo-office.s1/screen_1.png\"]"
+    },
+    {
       "Author": "<zhuyanlong@uniontech.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.xinghuo.uos_1.0-1_loong64.deb",
@@ -5753,22 +5769,6 @@
       "Tags": "deepin;uos;dwine5;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/e04c6990807f4260b7994728d288e4c4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/71b2dd1531444c76a26e83380f3efd07.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/25/6d6fc952f2584e3aa15b1e60941cda24.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/25/e24546ce46a34c69aa31cca345212adf.png"
-    },
-    {
-      "Author": "User Support Services <support@yozosoft.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.yozosoft.yozo-office.s1_9.0.6141.161ZH.S1_loong64.deb",
-      "More": "永中Office 2024专业版是一款功能强大的办公软件，该产品集应用集成、数据集成、文件集成于一体，实现了跨越不同操作系统平台运行，是主要面向政府、教育、企业等行业打造的自主、安全、可控的国产办公软件产品。",
-      "Name": "永中Office2024专业版办公软件V12",
-      "Pkgname": "com.yozosoft.yozo-office.s1",
-      "Size": "474 Mb",
-      "Tags": "deepin;uos;debian;native",
-      "Torrent_address": "com.yozosoft.yozo-office.s1_9.0.6141.161ZH.S1_loong64.deb.torrent",
-      "Update": "2025-05-30 18:59:34",
-      "Version": "9.0.6141.161ZH.S1",
-      "Website": "http://www.yozosoft.com",
-      "icons": "https://spk-json.spark-app.store/loong64-store/office/com.yozosoft.yozo-office.s1/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/office/com.yozosoft.yozo-office.s1/screen_1.png\"]"
     },
     {
       "Name": "思记",
@@ -6585,6 +6585,19 @@
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/network/quark-cloud-drive/screen_1.png\"]"
     },
     {
+      "Name": "OneDrive for Linux 命令行版",
+      "Version": "2.4.3",
+      "Filename": "onedrive_2.4.3_all.deb",
+      "Pkgname": "onedrive",
+      "Author": "abraunegg",
+      "Contributor": "jalawov",
+      "Website": "https://github.com/abraunegg/onedrive",
+      "Update": "2020-07-07 17:58",
+      "Size": "4.54MB",
+      "More": "onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版",
+      "Tags": "debian"
+    },
+    {
       "Author": "sgb76 <sgb76@163.com>",
       "Contributor": "sgb76 <sgb76@163.com>",
       "Filename": "com.github.liii.spark_0.1.1.20spark6_all.deb",
@@ -6631,19 +6644,6 @@
       "Website": "https://www.123pan.com/login",
       "icons": "https://spk-json.spark-app.store/store/network/com.123pan.spark/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/network/com.123pan.spark/screen_1.png\",\"https://spk-json.spark-app.store/store/network/com.123pan.spark/screen_2.png\"]"
-    },
-    {
-      "Name": "OneDrive for Linux 命令行版",
-      "Version": "2.4.3",
-      "Filename": "onedrive_2.4.3_all.deb",
-      "Pkgname": "onedrive",
-      "Author": "abraunegg",
-      "Contributor": "jalawov",
-      "Website": "https://github.com/abraunegg/onedrive",
-      "Update": "2020-07-07 17:58",
-      "Size": "4.54MB",
-      "More": "onedrive 的命令行客户端 支持business版和office365版，支持世纪互联（zg特色）版",
-      "Tags": "debian"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",

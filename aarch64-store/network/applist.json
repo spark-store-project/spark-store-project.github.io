@@ -790,22 +790,6 @@
 
 ,
 {
-    "Name": "Motrix",
-    "Author": "Dr_rOot <agalwood.net@gmail.com>",
-    "Website": "https://motrix.app",
-    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
-    "Tags": "debian;community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/network/motrix/screen_1.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_2.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_3.png\"]",
-    "icons": "https://spk-json.spark-app.store/store/network/motrix/icon.png",
-    "Pkgname": "motrix",
-    "Version": "1.8.19",
-    "Filename": "motrix_1.8.19_arm64.deb",
-    "Update": "2025-03-07 21:11:00",
-    "Size": "66.84MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
-,
-{
     "Author": "AnyDesk Software GmbH <linux-support@anydesk.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "anydesk_6.4.2_arm64.deb",
@@ -822,6 +806,22 @@
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/anydesk/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "Motrix",
+    "Author": "Dr_rOot <agalwood.net@gmail.com>",
+    "Website": "https://motrix.app",
+    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
+    "Tags": "debian;community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/network/motrix/screen_1.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_2.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_3.png\"]",
+    "icons": "https://spk-json.spark-app.store/store/network/motrix/icon.png",
+    "Pkgname": "motrix",
+    "Version": "1.8.19",
+    "Filename": "motrix_1.8.19_arm64.deb",
+    "Update": "2025-03-07 21:11:00",
+    "Size": "66.84MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
 ,
 {
   "Author": "haitai",
@@ -911,24 +911,6 @@
 
 ,
 {
-  "Author": "shenmo",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
-  "More": "绿联私有云",
-  "Name": "绿联私有云",
-  "Pkgname": "com.ugreen.client",
-  "Size": "306 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.ugreen.client_4.9.0.9559_all.deb.torrent",
-  "Update": "2024-01-09 11:00:42",
-  "Version": "4.9.0.9559",
-  "Website": "",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
-}
-
-,
-{
   "Author": "wxhere <wxhere@hotmail.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.bitcomet.linux_2.9.0_arm64.deb",
@@ -961,6 +943,24 @@
   "Website": "https://www.deepin.org",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "shenmo",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
+  "More": "绿联私有云",
+  "Name": "绿联私有云",
+  "Pkgname": "com.ugreen.client",
+  "Size": "306 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.ugreen.client_4.9.0.9559_all.deb.torrent",
+  "Update": "2024-01-09 11:00:42",
+  "Version": "4.9.0.9559",
+  "Website": "",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
 }
 
 ,
@@ -1335,6 +1335,24 @@
   "Website": "https://b.cloud.189.cn/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.dlife.corpcloud/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.dlife.corpcloud/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "NoMachine S.a.r.l. <info@nomachine.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "nomachine_9.0.188-11_arm64.deb",
+    "More": " NoMachine is a fast and secure remote access system and terminal server\n service. It provides a full set of administration tools that make it a complete\n desktop virtualization solution for you or for your organization.\n .\n This package includes all programs and libraries necessary to\n transform your machine into a server in the cloud or a remote\n desktop client according to your needs. \n",
+    "Name": "NoMachine",
+    "Pkgname": "nomachine",
+    "Size": "68 Mb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "nomachine_9.0.188-11_arm64.deb.torrent",
+    "Update": "2025-06-21 20:32:55",
+    "Version": "9.0.188-11",
+    "Website": "https://www.nomachine.com/",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/network/nomachine/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/nomachine/screen_1.png\"]"
 }
 
 ]

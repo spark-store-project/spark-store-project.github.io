@@ -2747,6 +2747,43 @@ SHA512: 49c0133eeafd52b2821311de67bac5dddefb83f79e562129eabeb7b428ebe6fb1bcb15cd
 Homepage: https://www.taotics.com/
 Description: Package Dict for Sogou IME NG
 
+Package: sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen
+Architecture: all
+Version: 10.0.2-2
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Source: sogou-ime-ng-data
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 18485
+Depends: sogou-ime-ng-cpis-user-default-profile, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/sogou/sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen_10.0.2-2_all.deb
+Size: 9743830
+MD5sum: 714f260b921da9c50fb132d6729d0751
+SHA1: 0c4d37c93998de3b801910524a600a1ec643d165
+SHA256: f63f13c5d9117a8261575b634daf71686d3f9464a643f8378ab41190d043b41d
+SHA512: 888b7e262cd856ea6ebb595b44acf23b3204e894b130f855b5aded16bdddb2abc78c79de2df3152aaa2e653ba99144e2936ecdd75a6609abaae23f5b6f06101a
+Homepage: https://www.taotics.com/
+Description: Package Dict for Sogou IME NG
+
+Package: sogou-ime-ng
+Architecture: amd64
+Version: 10.0.9.0.8-1122
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 69943
+Depends: cpis-base, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_amd64.deb
+Size: 14990014
+MD5sum: 63d50f5c9dc540e880770e5b23ece568
+SHA1: 27fd52fd2647990e94534e7e4a9ca6cd719fa646
+SHA256: 876aec64abcbece1b9a733ee368ba9bd8ea25accecf08702ab4906db7911896b
+SHA512: 07d79e387c4a419545685ec14b8edcff3e7e01ccf9571061941618b4513e9e7065dd661d98b82d1e8f7bc6563dd903aed04fae68805980e885b80726caa4f6c5
+Homepage: https://www.taotics.com/
+Description: package sogou-ime-ng.
+
 Package: aptss
 Architecture: all
 Version: 4.3.0-fix5
@@ -26673,24 +26710,6 @@ SHA512: 19c065992f189f0798b087fffe1d598920f68d1ef1286ef43930d4392a82d43fd7c9b4a9
 Description: NoteExpress on Wine6
  国产参考文献管理工具。
 
-Package: sogou-ime-ng
-Architecture: amd64
-Version: 10.0.9.0.6-20231128000607
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 61439
-Depends: cpis-base
-Filename: ./office/sogou-ime-ng-fcitx5-kylin-desktop/sogou-ime-ng_10.0.9.0.6-20231128000607_amd64.deb
-Size: 13430608
-MD5sum: 958bb61eb5729020f3297e4c8826074b
-SHA1: 9023a2790f0f34b3f07370f589a7f3bad84962f8
-SHA256: 9fd28578f1980ed715bcda5e7e0ae80239638e3af82f57c3d156f8d5946e6c82
-SHA512: 98a37f079cc51aed48e46ee92cc5788d415405bee0b12018594c52ec8a4ff829398e7a9df4710b2d4dcd9352814d55e5d39ec3f05ed9d692e5e468643d02ea84
-Homepage: https://www.taotics.com/
-Description: package sogou-ime-ng.
-
 Package: sogou-ime-ng-fcitx5-kylin-desktop
 Architecture: amd64
 Version: 10.0.9.0.6-20231128000607
@@ -26751,25 +26770,6 @@ SHA256: 1cb8308cc24de8960f577ef8b5913a575d2c06d9fea92c5630557cb0b5757927
 SHA512: 72ae5d4b99ef362ea05af632f5c4228d99e9da53080191dbae67de910a28b7b68ec57b93e8e090f57c001e0360d6d3cba47fc9332e0ea6440a8ae073249b1222
 Homepage: https://www.sleepboy.com/
 Description: package cpis-base.
-
-Package: sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen
-Architecture: all
-Version: 10.0.1-48.1
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Source: sogou-ime-ng-data
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 18484
-Depends: sogou-ime-ng-cpis-user-default-profile
-Filename: ./office/sogou-ime-ng-fcitx5-kylin-desktop/sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen_10.0.1-48.1_all.deb
-Size: 9728712
-MD5sum: 3097a3e6e17548ff62924289a6c5068c
-SHA1: 025b017bcdeba318b75c8f1b4aecfd16d8db474b
-SHA256: cebb053ac612ce64e97b69557f1c9911207e198cc0d8c7e57d8e0a20b722d45c
-SHA512: 190c3491e3a047e613280e832f8ad3ca12a5c62448c1e6aea640e44dd6273d883e3c7a3bac3ab0f013a55c90784b73a642fa16f2b4b4e462d374735e703b1e36
-Homepage: https://www.taotics.com/
-Description: Package Dict for Sogou IME NG
 
 Package: evernote-client
 Architecture: amd64
@@ -28524,26 +28524,6 @@ Description: An elegant diary supported markdown
 License: unknown
 Vendor: stevobm
 
-Package: vic-diary
-Architecture: amd64
-Version: 1.0.0
-Priority: optional
-Section: default
-Maintainer: stevobm
-Installed-Size: 256115
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
-Recommends: libappindicator3-1
-Filename: ./office/vic-diary/vic-diary_1.0.0_amd64.deb
-Size: 73023114
-MD5sum: 8bb7c89b2db9a892bbf8458264ecbc2e
-SHA1: 029d57843063bcf7c1558670d35c4efdaed4cf12
-SHA256: 1ac3ef63f9a316d22d53e61ea76c2d3a8c7631309d432f22ba1ce844f3cacf3a
-SHA512: 9df151ef46f4a1dabdda1329b36d43765c65c8261ba2dbd0e8b3c9f8b076d9167278784dfb4114e8d9d3f6a8bc0d4a63b106a1daf22509345fc6f4ec75c6fd8a
-Homepage: https://github.com/vo-soft/vic-diary
-Description: An elegant diary supported markdown
-License: unknown
-Vendor: stevobm
-
 Package: cn.kuailemazi.spark
 Architecture: i386
 Version: 4.7.9spark0
@@ -29822,18 +29802,18 @@ Description: zuoyebang
 
 Package: zotero
 Architecture: amd64
-Version: 7.0.15
+Version: 7.0.16
 Priority: optional
 Section: Office
 Maintainer: Emiliano Heyns <emiliano.heyns@iris-advies.com>
-Installed-Size: 218401
+Installed-Size: 218506
 Depends: libegl1|libwayland-egl1, libegl-mesa0, libasound2, libatk1.0-0, libc6, libcairo-gobject2, libcairo2, libdbus-1-3, libdbus-glib-1-2, libfontconfig1, libfreetype6, libglib2.0-0, libgtk-3-0, libharfbuzz0b, libpango-1.0-0, libpangocairo-1.0-0, libstdc++6, libx11-6, libx11-xcb1, libxcb-shm0, libxcb1, libxcomposite1, libxcursor1, libxdamage1, libxext6, libxfixes3, libxi6, libxrandr2, libxrender1, libxtst6, gnupg
-Filename: ./office/zotero/zotero_7.0.15_amd64.deb
-Size: 118166136
-MD5sum: 4cd8df1cfe557a2d369d3382ed5ef844
-SHA1: 3ee9bbac0f851ad7c398eeb66c6666a5ad627308
-SHA256: f6678d10bd7635112d6e94e132ac97b4293db7c6649a7061d53919f870e6f132
-SHA512: b8be2a9f3a8e3a50349c0909340a46d069aa8f57d9cb9d6683dfb665f2ebc934d74da15a420a9d7b527f7ac4c344ee495d83d4db7cec7d27bc411245d0421220
+Filename: ./office/zotero/zotero_7.0.16_amd64.deb
+Size: 118321780
+MD5sum: 31818e6d9011fdcb8a15c8f0a3107a15
+SHA1: cc0e0c5adc4ba94fc47ba04e8f499615344bcaf8
+SHA256: 339ab14dcc5941bac0beccb8cf83cbfd985f0cb5044af9a1f0b2e41cbfc10040
+SHA512: 9c0afa0b323d5dd61ccf875cb849cd3bd12be4a9522611fcb160144bfbd2c97f8761b9e13f876ddcdf4870cca54d940f8bc8b98c2809d97d6b9078806ddf3766
 Homepage: https://www.zotero.org/
 Description: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research
 
@@ -34156,20 +34136,20 @@ Description: SunloginRemote-6.5.5.20079 for Linux
 
 Package: microsoft-edge-beta
 Architecture: amd64
-Version: 138.0.3351.34-1
+Version: 138.0.3351.42-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 609928
+Installed-Size: 610292
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_138.0.3351.34-1_amd64.deb
-Size: 186605572
-MD5sum: 940da88080e580027e58e9fa7b815766
-SHA1: fa3d92c57d18a720cc88bda052bd52d20d8308ce
-SHA256: 34d04bad7b87cd4286d8bdc134356f1e8c41497ceeba2b553f2b873e79d1e7e4
-SHA512: 81c63b167c5b689f8bc93c4bc57ce81a61ac5ce51f24549df052d31c4289eed0ab151db640f51d8206c72c3c0eafe78b9dae1b416b33feee6dbcd577ebe967da
+Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_138.0.3351.42-1_amd64.deb
+Size: 186747348
+MD5sum: 99b0e62f034a52bb2d9ffed83e9f2b55
+SHA1: d7645ec3a52d88ef21894732d0f5fc1de1149059
+SHA256: 31ebe954c6957f75278fee5693b9ac44912e2e2079be49b44a62e62b0dcd3235
+SHA512: ba81004d67cd7996c68b25b3147e58a0d89eb8fd9218e37042d8f5e7045f59118abea34d9eaa19115972c29e1a622c085eda060ba3f1de9cba16afdc68166a3c
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 

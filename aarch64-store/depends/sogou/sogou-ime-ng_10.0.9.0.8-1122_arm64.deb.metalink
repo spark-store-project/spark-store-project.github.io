@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="sogou-ime-ng_10.0.9.0.8-1122_arm64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c80eb8ef5c9673d7d2fb0e7c1bef4008</hash>
+				  
+				<hash type="sha1">65ec97b9f752ae942363994e7d468715158fa3a2</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/aarch64-store/./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/aarch64-store/./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/aarch64-store/./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/aarch64-store/./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/aarch64-store/./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/aarch64-store/./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/aarch64-store/./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

@@ -772,21 +772,6 @@
 
 ,
 {
-  "Name": "Intel核心管理器",
-  "Version": "0.2.0",
-  "Filename": "dde-pstate_0.2.0_all.deb",
-  "Pkgname": "dde-pstate",
-  "Author": "搬运自网络",
-  "Contributor": "奇点法则",
-  "Website": "Q群：226570931",
-  "Update": "2020-07-27 00:32",
-  "Size": "74.25KB",
-  "More": "适用于Intel平台的核心频率管理器,仅支持deepin",
-  "Tags": "debian;native"
-}
-
-,
-{
   "Name": "简单任务栏网速插件",
   "Version": "0.0.7",
   "Filename": "com.github.ccc-proc-info-plugin_0.0.7_amd64.deb",
@@ -801,6 +786,21 @@
   "Tags": "community;deepin;dtk5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/ac412623a90b4b3bba9ee72c9cd07f82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f2a297c639e544ddb3de0f3ba49d58e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/3f7be342f15f443bbfa7d398780f3b2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f75d32298c1946ca94a1eb08fe214ac5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/17/52bcd9c3e94d422a83b0d5390dd95f5f.png"
+}
+
+,
+{
+  "Name": "Intel核心管理器",
+  "Version": "0.2.0",
+  "Filename": "dde-pstate_0.2.0_all.deb",
+  "Pkgname": "dde-pstate",
+  "Author": "搬运自网络",
+  "Contributor": "奇点法则",
+  "Website": "Q群：226570931",
+  "Update": "2020-07-27 00:32",
+  "Size": "74.25KB",
+  "More": "适用于Intel平台的核心频率管理器,仅支持deepin",
+  "Tags": "debian;native"
 }
 
 ,
@@ -2742,24 +2742,6 @@
 
 ,
 {
-  "Name": "Furmark（wine）",
-  "Version": "2.2.0.1spark0",
-  "Filename": "com.furmark.deepin_2.2.0.1spark0_all.deb",
-  "Torrent_address": "com.furmark.deepin_2.2.0.1spark0_all.deb.torrent",
-  "Pkgname": "com.furmark.deepin",
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.geeks3d.com/furmark/",
-  "Update": "2024-04-27 06:45:16",
-  "Size": "51.23 MB",
-  "More": "使用spark-wine7-devel打包\n用于检测显卡稳定性，显卡散热以及驱动是否正常。\nPS：笔记本用户请注意机器通风，同时请在有电源连接的情况下使用，还建议大家拿另一个软件如深度应用商店里的CPU-X关注一下显卡温度",
-  "Tags": "ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/6934335d691944b0a36878fd47e0ddbe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/3038e8416a494f7e9521e343b544d88d.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/b1b4dd4088b749dfab855499b9952da5.png"
-}
-
-,
-{
   "Name": "gnome-pie应用启动器",
   "Version": "0.7.3-1",
   "Filename": "gnome-pie_0.7.3-1_amd64.deb",
@@ -2774,6 +2756,24 @@
   "Tags": "ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
+}
+
+,
+{
+  "Name": "Furmark（wine）",
+  "Version": "2.2.0.1spark0",
+  "Filename": "com.furmark.deepin_2.2.0.1spark0_all.deb",
+  "Torrent_address": "com.furmark.deepin_2.2.0.1spark0_all.deb.torrent",
+  "Pkgname": "com.furmark.deepin",
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.geeks3d.com/furmark/",
+  "Update": "2024-04-27 06:45:16",
+  "Size": "51.23 MB",
+  "More": "使用spark-wine7-devel打包\n用于检测显卡稳定性，显卡散热以及驱动是否正常。\nPS：笔记本用户请注意机器通风，同时请在有电源连接的情况下使用，还建议大家拿另一个软件如深度应用商店里的CPU-X关注一下显卡温度",
+  "Tags": "ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/6934335d691944b0a36878fd47e0ddbe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/3038e8416a494f7e9521e343b544d88d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/b1b4dd4088b749dfab855499b9952da5.png"
 }
 
 ,
@@ -3360,6 +3360,24 @@
 
 ,
 {
+  "Name": "Ghost（Linux）",
+  "Version": "12.0.0.4112spark0",
+  "Filename": "ghost_12.0.0.4112spark0_i386.deb",
+  "Torrent_address": "ghost_12.0.0.4112spark0_i386.deb.torrent",
+  "Pkgname": "ghost",
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "未知",
+  "Update": "2024-06-15 21:47:49",
+  "Size": "2.81 MB",
+  "More": "ghost64官方版是一款大名鼎鼎的硬盘备份软件，Symantec Ghost可以把一个磁盘上的全部内容复制到另外一个磁盘上，也可以把磁盘内容复制为一个磁盘的镜像文件，以后你可以用镜像文件创建一个原始磁盘的拷贝。\n原生的，需要 root 权限",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/474bc96a36a84d78b7da99e6873c3c32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/e15bcd079731418db08eb8479bffb9e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/8bdd7e8234094691a184a188e4bd021b.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/27fe8063810a4973a20cfa72b1478cf8.png"
+}
+
+,
+{
   "Name": "Bashtop",
   "Version": "0.9.25-1~bpo10+1",
   "Filename": "com.github.aristocratos.bashtop_0.9.25-1~bpo10_plus1_amd64.deb",
@@ -3391,24 +3409,6 @@
     "Tags": "community;dtk5;deepin;debian",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/20/e485f900-e8fc-11eb-a319-15d332c042af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/20/e4a0fb10-e8fc-11eb-a319-15d332c042af.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/20/dad13b40-e8fc-11eb-a319-15d332c042af.svg"
-}
-
-,
-{
-  "Name": "Ghost（Linux）",
-  "Version": "12.0.0.4112spark0",
-  "Filename": "ghost_12.0.0.4112spark0_i386.deb",
-  "Torrent_address": "ghost_12.0.0.4112spark0_i386.deb.torrent",
-  "Pkgname": "ghost",
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "未知",
-  "Update": "2024-06-15 21:47:49",
-  "Size": "2.81 MB",
-  "More": "ghost64官方版是一款大名鼎鼎的硬盘备份软件，Symantec Ghost可以把一个磁盘上的全部内容复制到另外一个磁盘上，也可以把磁盘内容复制为一个磁盘的镜像文件，以后你可以用镜像文件创建一个原始磁盘的拷贝。\n原生的，需要 root 权限",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/474bc96a36a84d78b7da99e6873c3c32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/e15bcd079731418db08eb8479bffb9e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/8bdd7e8234094691a184a188e4bd021b.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/27fe8063810a4973a20cfa72b1478cf8.png"
 }
 
 ,
@@ -3627,23 +3627,6 @@
 
 ,
 {
-  "Name": "Feem",
-  "Version": "4.4.2",
-  "Filename": "feem.spark_4.4.2_amd64.deb",
-  "Pkgname": "feem.spark",
-  "Author": "Feem",
-  "Contributor": "Jerrywang",
-  "Website": "https://feem.io/",
-  "Update": "2021-04-15 17:06:46",
-  "Size": "101.55 MB",
-  "More": "局域网传输文件和发送消息神器",
-  "Tags": "community;ubuntu;uos;deepin;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/15/d4264fc0-9dc9-11eb-9f4c-e1ba386a0b46.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/15/d2c204d0-9dc9-11eb-9f4c-e1ba386a0b46.png"
-}
-
-,
-{
     "Name": "ACE Trixie  兼容环境",
     "Version": "13.8.4",
     "Filename": "amber-ce-trixie_13.8.4_amd64.deb",
@@ -3659,6 +3642,23 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/173ba8a22edf4060b7ff4fb1a3a2555a.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8214a82fbe05477d87485f7ebcb5688d.png"
 }
+,
+{
+  "Name": "Feem",
+  "Version": "4.4.2",
+  "Filename": "feem.spark_4.4.2_amd64.deb",
+  "Pkgname": "feem.spark",
+  "Author": "Feem",
+  "Contributor": "Jerrywang",
+  "Website": "https://feem.io/",
+  "Update": "2021-04-15 17:06:46",
+  "Size": "101.55 MB",
+  "More": "局域网传输文件和发送消息神器",
+  "Tags": "community;ubuntu;uos;deepin;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/15/d4264fc0-9dc9-11eb-9f4c-e1ba386a0b46.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/15/d2c204d0-9dc9-11eb-9f4c-e1ba386a0b46.png"
+}
+
 ,
 {
   "Name": "GXDE 一言屏保",
@@ -3822,6 +3822,24 @@
 
 ,
 {
+  "Name": "Sunshine",
+  "Version": "2025.122.141614",
+  "Filename": "sunshine_2025.122.141614_amd64.deb",
+  "Torrent_address": "sunshine_2025.122.141614_amd64.deb.torrent",
+  "Pkgname": "sunshine",
+  "Author": "https://app.lizardbyte.dev",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://app.lizardbyte.dev/Sunshine",
+  "Update": "2025-02-07 11:13:19",
+  "Size": "8.82 MB",
+  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.",
+  "Tags": "community;ubuntu;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/07/c6fdcfd9e7114024aa3c713a591db991.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/02/07/291783992b9e4b3786d4254e4579742e.png"
+}
+
+,
+{
     "Name": "LinkAndroid 全能手机连接助手",
     "Version": "0.0.12",
     "Filename": "linkandroid_0.0.12_amd64.deb",
@@ -3872,24 +3890,6 @@
   "Tags": "debian;ubuntu;deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/f3c6d0128bd04eb7a9b1fdb1ce1e0dce.png\",\"https://spk-json.spark-app.store/images/2025/05/29/cf12cba13fa0420b9515ecf0f5f8f84e.png\",\"https://spk-json.spark-app.store/images/2025/05/29/6b64e2e942d04a16a4cb2293a304f516.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/05/29/a729930092694cc99d9f7693ac84dab5.png"
-}
-
-,
-{
-  "Name": "Sunshine",
-  "Version": "2025.122.141614",
-  "Filename": "sunshine_2025.122.141614_amd64.deb",
-  "Torrent_address": "sunshine_2025.122.141614_amd64.deb.torrent",
-  "Pkgname": "sunshine",
-  "Author": "https://app.lizardbyte.dev",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://app.lizardbyte.dev/Sunshine",
-  "Update": "2025-02-07 11:13:19",
-  "Size": "8.82 MB",
-  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.",
-  "Tags": "community;ubuntu;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/07/c6fdcfd9e7114024aa3c713a591db991.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/02/07/291783992b9e4b3786d4254e4579742e.png"
 }
 
 ,
@@ -4001,24 +4001,6 @@
 
 ,
 {
-  "Name": "Aechoterm闪令",
-  "Version": "3.0.3",
-  "Filename": "aechoterm_3.0.3_amd64.deb",
-  "Torrent_address": "aechoterm_3.0.3_amd64.deb.torrent",
-  "Pkgname": "aechoterm",
-  "Author": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
-  "Contributor": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
-  "Website": "https://ec.nantianzzx.com/",
-  "Update": "2022-12-09 17:29:19",
-  "Size": "60.37 MB",
-  "More": "Aechoterm（中文名：闪令）是一款免费的、跨平台的，以SSH、SFTP协议访问远程服务器的终端、文件管理工具。可以将本地与远程主机文件进行互传，并可在多个远程服务器上同时执行命令",
-  "Tags": "community;deepin;uos;dtk5;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285875876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285942776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290006876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290081076958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290146676958200.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
-}
-
-,
-{
   "Name": "ToDesk企业版主控端",
   "Version": "2.0.3.2",
   "Filename": "todeskclient_2.0.3.2_amd64.deb",
@@ -4033,6 +4015,24 @@
   "Tags": "debian;ubuntu;deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/989ce17848e14826b08150f5f02597bc.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8827b4f6c15345269374a692e2b30eb3.png"
+}
+
+,
+{
+  "Name": "Aechoterm闪令",
+  "Version": "3.0.3",
+  "Filename": "aechoterm_3.0.3_amd64.deb",
+  "Torrent_address": "aechoterm_3.0.3_amd64.deb.torrent",
+  "Pkgname": "aechoterm",
+  "Author": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
+  "Contributor": "广州南天电脑系统有限公司 <exotic_support@nantian.com.cn>",
+  "Website": "https://ec.nantianzzx.com/",
+  "Update": "2022-12-09 17:29:19",
+  "Size": "60.37 MB",
+  "More": "Aechoterm（中文名：闪令）是一款免费的、跨平台的，以SSH、SFTP协议访问远程服务器的终端、文件管理工具。可以将本地与远程主机文件进行互传，并可在多个远程服务器上同时执行命令",
+  "Tags": "community;deepin;uos;dtk5;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285875876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285942776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290006876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290081076958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290146676958200.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
 }
 
 ,
@@ -4217,6 +4217,24 @@
 
 ,
 {
+  "Name": "Flix 快传",
+  "Version": "1.4.0+48",
+  "Filename": "flix_1.4.0_plus48_amd64.deb",
+  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
+  "Pkgname": "flix",
+  "Author": "zhangjian <2242634757@qq.com>",
+  "Contributor": "洺渊",
+  "Website": "https://flix.center/",
+  "Update": "2025-04-01 20:19:21",
+  "Size": "16.27 MB",
+  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
+}
+
+,
+{
     "Name": "小Q工具箱",
     "Version": "2.02",
     "Filename": "xiaoq-tools_2.02_all.deb",
@@ -4288,6 +4306,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
+  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
+  "Name": "GXDE 2025 升级工具",
+  "Pkgname": "gxde-25-upgrader",
+  "Size": "1217 Kb",
+  "Tags": "community;debian;native",
+  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
+  "Update": "2025-05-11 23:20:45",
+  "Version": "1.1.5",
+  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
+  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+}
+
+,
+{
   "Name": "无线鼠标",
   "Version": "1.1.0",
   "Filename": "mousemove_1.1.0_amd64.deb",
@@ -4319,24 +4355,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/06ffa0cb05ba472a8de69b4f0c768f7b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/18ba54eba17b44159e1e8aaff6c371e3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/9134fb891fac4c64af9802a8e355162f.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/05f8247043f24be88006c24d87b56625.png"
-}
-
-,
-{
-  "Name": "Flix 快传",
-  "Version": "1.4.0+48",
-  "Filename": "flix_1.4.0_plus48_amd64.deb",
-  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
-  "Pkgname": "flix",
-  "Author": "zhangjian <2242634757@qq.com>",
-  "Contributor": "洺渊",
-  "Website": "https://flix.center/",
-  "Update": "2025-04-01 20:19:21",
-  "Size": "16.27 MB",
-  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
 }
 
 ,
@@ -4395,20 +4413,20 @@
 
 ,
 {
-  "Author": "shenmo <shenmo@spark-app.store>",
+  "Author": "shenmo <shenmo@spark-app.stpre>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
-  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
-  "Name": "GXDE 2025 升级工具",
-  "Pkgname": "gxde-25-upgrader",
-  "Size": "1217 Kb",
-  "Tags": "community;debian;native",
-  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
-  "Update": "2025-05-11 23:20:45",
-  "Version": "1.1.5",
-  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+  "Filename": "autotrash-bash_1.2.0_all.deb",
+  "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
+  "Name": "autotrash(自动删除回收站文件)",
+  "Pkgname": "autotrash-bash",
+  "Size": "3 Kb",
+  "Tags": "community;deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "autotrash-bash_1.2.0_all.deb.torrent",
+  "Update": "2025-03-05 12:55:40",
+  "Version": "1.2.0",
+  "Website": "https://gitee.com/spark-community-works-collections/transhell",
+  "icons": "https://spk-json.spark-app.store/store/tools/autotrash-bash/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/autotrash-bash/screen_1.png\"]"
 }
 
 ,
@@ -4500,24 +4518,6 @@
 
 ,
 {
-  "Author": "shenmo <shenmo@spark-app.stpre>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "autotrash-bash_1.2.0_all.deb",
-  "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
-  "Name": "autotrash(自动删除回收站文件)",
-  "Pkgname": "autotrash-bash",
-  "Size": "3 Kb",
-  "Tags": "community;deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "autotrash-bash_1.2.0_all.deb.torrent",
-  "Update": "2025-03-05 12:55:40",
-  "Version": "1.2.0",
-  "Website": "https://gitee.com/spark-community-works-collections/transhell",
-  "icons": "https://spk-json.spark-app.store/store/tools/autotrash-bash/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/autotrash-bash/screen_1.png\"]"
-}
-
-,
-{
   "Name": "Alacritty",
   "Version": "0.5.0-1",
   "Filename": "alacritty_0.5.0-1_amd64.deb",
@@ -4549,6 +4549,23 @@
   "Tags": "debian;ubuntu;deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/6fbed5a0fc5d42438f2952c2b699cc19.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/14/873b19f3c8e84c048b123501e8f4a437.png"
+}
+
+,
+{
+  "Name": "光驱托盘控制",
+  "Version": "1.0.2",
+  "Filename": "spark-optical-drive-tray-control_1.0.2_all.deb",
+  "Pkgname": "spark-optical-drive-tray-control",
+  "Author": "gfdgd xi",
+  "Contributor": "gfdgd xi",
+  "Website": "https://gitee.com/gfdgd-xi/optical-drive-tray-control",
+  "Update": "2021-08-07 12:24:34",
+  "Size": "62.31 MB",
+  "More": "一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件。 如果出现类似 \nqt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"\" even though it was found. \n的错误，可以输入 sudo apt install -qq libglu1-mesa-dev libx11-xcb-dev '^libxcb*'",
+  "Tags": "community;deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9961f0-f737-11eb-8738-31b965866860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9e1ce0-f737-11eb-8738-31b965866860.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/07/4c475fa0-f737-11eb-8738-31b965866860.png"
 }
 
 ,
@@ -4643,23 +4660,6 @@
 
 ,
 {
-  "Name": "光驱托盘控制",
-  "Version": "1.0.2",
-  "Filename": "spark-optical-drive-tray-control_1.0.2_all.deb",
-  "Pkgname": "spark-optical-drive-tray-control",
-  "Author": "gfdgd xi",
-  "Contributor": "gfdgd xi",
-  "Website": "https://gitee.com/gfdgd-xi/optical-drive-tray-control",
-  "Update": "2021-08-07 12:24:34",
-  "Size": "62.31 MB",
-  "More": "一款基于 Python3 的 PyQt 制作成的光驱托盘控制软件。 如果出现类似 \nqt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"\" even though it was found. \n的错误，可以输入 sudo apt install -qq libglu1-mesa-dev libx11-xcb-dev '^libxcb*'",
-  "Tags": "community;deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9961f0-f737-11eb-8738-31b965866860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9e1ce0-f737-11eb-8738-31b965866860.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/07/4c475fa0-f737-11eb-8738-31b965866860.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-app-upgrader_1.5.2_all.deb",
@@ -4714,6 +4714,24 @@
 
 ,
 {
+  "Name": "TagSpaces",
+  "Version": "4.3.1",
+  "Filename": "tagspaces_4.3.1_amd64.deb",
+  "Torrent_address": "tagspaces_4.3.1_amd64.deb.torrent",
+  "Pkgname": "tagspaces",
+  "Author": "TagSpaces UG",
+  "Contributor": "sgb76",
+  "Website": "https://www.tagspaces.org/",
+  "Update": "2022-05-12 22:30:02",
+  "Size": "97.78 MB",
+  "More": "TagSpaces是一款开源、跨平台的文件浏览器，它可以通过标签和颜色来帮您有效的组织文件和文件夹。",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/12/c2ff4e20-d1ff-11ec-b6ab-9bb977435af6.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/12/bb108350-d1ff-11ec-b6ab-9bb977435af6.png"
+}
+
+,
+{
   "Name": "logger Wine应用日志收集工具",
   "Version": "0.0.10-1",
   "Filename": "logger_0.0.10-1_amd64.deb",
@@ -4764,24 +4782,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/59b905ca0e3b4fc68351728c53338d9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/ad47da43093a40de847b6497e4ab8660.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/3cde7addd6624a48a9262ea1949c74d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/e5d9163025df4dceaa3636be1564f513.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/f9f991d2e5754dc5b1757d1bd85d459b.png"
-}
-
-,
-{
-  "Name": "TagSpaces",
-  "Version": "4.3.1",
-  "Filename": "tagspaces_4.3.1_amd64.deb",
-  "Torrent_address": "tagspaces_4.3.1_amd64.deb.torrent",
-  "Pkgname": "tagspaces",
-  "Author": "TagSpaces UG",
-  "Contributor": "sgb76",
-  "Website": "https://www.tagspaces.org/",
-  "Update": "2022-05-12 22:30:02",
-  "Size": "97.78 MB",
-  "More": "TagSpaces是一款开源、跨平台的文件浏览器，它可以通过标签和颜色来帮您有效的组织文件和文件夹。",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/12/c2ff4e20-d1ff-11ec-b6ab-9bb977435af6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/12/bb108350-d1ff-11ec-b6ab-9bb977435af6.png"
 }
 
 ,
@@ -5481,6 +5481,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-autotrash_1.2.0_all.deb",
+  "More": "自动清理回收站的工具",
+  "Name": "GXDE 回收站清理工具",
+  "Pkgname": "gxde-autotrash",
+  "Size": "87 Kb",
+  "Tags": "community;deepin;ubuntu;debian;native",
+  "Torrent_address": "gxde-autotrash_1.2.0_all.deb.torrent",
+  "Update": "2025-02-25 18:54:23",
+  "Version": "1.2.0",
+  "Website": "https://gitee.com/GXDE-OS/gxde-autotrash",
+  "icons": "https://spk-json.spark-app.store/store/tools/gxde-autotrash/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-autotrash/screen_1.png\"]"
+}
+
+,
+{
   "Name": "运算题目生成器",
   "Version": "1.6",
   "Filename": "com.yunsuanti.deepin_1.6_all.deb",
@@ -5602,24 +5620,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/30/102a3790-b005-11ec-b830-9935b5bdabee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/30/12454f60-b005-11ec-b830-9935b5bdabee.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/30/13c89400-b005-11ec-b830-9935b5bdabee.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/30/0d177950-b005-11ec-b830-9935b5bdabee.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-autotrash_1.2.0_all.deb",
-  "More": "自动清理回收站的工具",
-  "Name": "GXDE 回收站清理工具",
-  "Pkgname": "gxde-autotrash",
-  "Size": "87 Kb",
-  "Tags": "community;deepin;ubuntu;debian;native",
-  "Torrent_address": "gxde-autotrash_1.2.0_all.deb.torrent",
-  "Update": "2025-02-25 18:54:23",
-  "Version": "1.2.0",
-  "Website": "https://gitee.com/GXDE-OS/gxde-autotrash",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-autotrash/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-autotrash/screen_1.png\"]"
 }
 
 ,

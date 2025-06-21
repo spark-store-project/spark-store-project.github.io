@@ -1415,6 +1415,43 @@ SHA512: 49c0133eeafd52b2821311de67bac5dddefb83f79e562129eabeb7b428ebe6fb1bcb15cd
 Homepage: https://www.taotics.com/
 Description: Package Dict for Sogou IME NG
 
+Package: sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen
+Architecture: all
+Version: 10.0.2-2
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Source: sogou-ime-ng-data
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 18485
+Depends: sogou-ime-ng-cpis-user-default-profile, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/sogou/sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen_10.0.2-2_all.deb
+Size: 9743830
+MD5sum: 714f260b921da9c50fb132d6729d0751
+SHA1: 0c4d37c93998de3b801910524a600a1ec643d165
+SHA256: f63f13c5d9117a8261575b634daf71686d3f9464a643f8378ab41190d043b41d
+SHA512: 888b7e262cd856ea6ebb595b44acf23b3204e894b130f855b5aded16bdddb2abc78c79de2df3152aaa2e653ba99144e2936ecdd75a6609abaae23f5b6f06101a
+Homepage: https://www.taotics.com/
+Description: Package Dict for Sogou IME NG
+
+Package: sogou-ime-ng
+Architecture: arm64
+Version: 10.0.9.0.8-1122
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
+Installed-Size: 64652
+Depends: cpis-base, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb
+Size: 12869426
+MD5sum: c80eb8ef5c9673d7d2fb0e7c1bef4008
+SHA1: 65ec97b9f752ae942363994e7d468715158fa3a2
+SHA256: c8e793606ba14c13f7e109180ec39ec2c13a3b9e53a279eedc396a4fef5a54a7
+SHA512: a980fdbbe56ebff20dc159290a47168b3fbff3cd5fcb63d4d67534d9f6b26502bb38e55769e0881d531fddbb30563a35194b9c79c42006ef3bb944ec159eb871
+Homepage: https://www.taotics.com/
+Description: package sogou-ime-ng.
+
 Package: aptss
 Architecture: all
 Version: 4.3.0-fix5
@@ -8973,43 +9010,6 @@ SHA512: 6ebb36a5db3dcda4925485ad935c8e6c38fed5a41a19548e8518c289d5508e5807ee54be
 Homepage: https://www.taotics.com/
 Description: package sogou-ime-ng-fcitx5-kylin-desktop.
 
-Package: sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen
-Architecture: all
-Version: 10.0.1-48.1
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Source: sogou-ime-ng-data
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 18484
-Depends: sogou-ime-ng-cpis-user-default-profile
-Filename: ./office/sogou-ime-ng-fcitx5-kylin-desktop/sogou-ime-ng-cpis-dict-keyboard-multilingual-pcen_10.0.1-48.1_all.deb
-Size: 9728712
-MD5sum: 3097a3e6e17548ff62924289a6c5068c
-SHA1: 025b017bcdeba318b75c8f1b4aecfd16d8db474b
-SHA256: cebb053ac612ce64e97b69557f1c9911207e198cc0d8c7e57d8e0a20b722d45c
-SHA512: 190c3491e3a047e613280e832f8ad3ca12a5c62448c1e6aea640e44dd6273d883e3c7a3bac3ab0f013a55c90784b73a642fa16f2b4b4e462d374735e703b1e36
-Homepage: https://www.taotics.com/
-Description: Package Dict for Sogou IME NG
-
-Package: sogou-ime-ng
-Architecture: arm64
-Version: 10.0.9.0.6-20231128000607
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 63042
-Depends: cpis-base
-Filename: ./office/sogou-ime-ng-fcitx5-kylin-desktop/sogou-ime-ng_10.0.9.0.6-20231128000607_arm64.deb
-Size: 12552782
-MD5sum: abc6b09d682398a5b7bd89ab070c15c2
-SHA1: 2db1986aabde33bc49fafd21f01d5ca8ffe12d81
-SHA256: 333852de84b81b117c407ab36101288a99d44c78fc60c2d6979d241ddd90adeb
-SHA512: 4411af22b153d3be66a3b45a983a85f19ffd27554570aac0d037bb6d81a68adec93ee1c1f3961c8f9abbba165108a3d00a989d83aab8c9eac8c2ec11841ab802
-Homepage: https://www.taotics.com/
-Description: package sogou-ime-ng.
-
 Package: com.yiyan.uos
 Architecture: arm64
 Version: 1.0
@@ -9367,26 +9367,6 @@ SHA256: 23468e967bbd39297c4b52a4855064aebf92215da2984162d42d32e1f2f72d65
 SHA512: c97cb98aab0bdbaa17188810fb770b4257fdf33a0b52c29617e1f3810a86c845eb00c4e78ae23957b21a535d3f1e359cfff7413d4884ff24aa8defa772daf121
 Homepage: http://pinyin.sogou.com/linux
 Description: 搜狗输入法Deepin版语音数据包
-
-Package: vic-diary
-Architecture: arm64
-Version: 1.0.0
-Priority: optional
-Section: default
-Maintainer: stevobm
-Installed-Size: 260938
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
-Recommends: libappindicator3-1
-Filename: ./office/vic-diary/vic-diary_1.0.0_arm64.deb
-Size: 68719074
-MD5sum: a6a34ef1eeeb9e8016a7557b94ab8f2a
-SHA1: d2110251c064090cc67fea2e75e3eb80de29611e
-SHA256: 7b4f694418b6256a47d0a2d405960ba49a0dc6d7dec16ff1a4b9356089cc17db
-SHA512: da7b85733bae08166f9b00faa0a85d0191f369063fd520ba5f32c720687797c6d606fc0260edb8a625fce6fadb3e3346e2722f9d8fa2fbcf6d178e84c2ac61c1
-Homepage: https://github.com/vo-soft/vic-diary
-Description: An elegant diary supported markdown
-License: unknown
-Vendor: stevobm
 
 Package: vic-diary
 Architecture: arm64
@@ -11640,6 +11620,30 @@ Description: SunloginClient-11.0.1.44968 for Linux
  anytime, anywhere. You can make things feasible, including remote high-risk
  operations, remote power on/off, download files, AFK, and so on. Download
  Sunlogin and explore more exciting features!
+
+Package: nomachine
+Architecture: arm64
+Version: 9.0.188-11
+Priority: optional
+Section: net
+Maintainer: NoMachine S.a.r.l. <info@nomachine.com>
+Installed-Size: 245912
+Conflicts:  nxmanager, nxwebplayer, nxserver, nxnode, nxclient, nomachine-enterprise-client, nomachine-enterprise-runner
+Replaces: nxmanager, nxwebplayer, nxserver, nxnode, nxclient, nomachine
+Filename: ./network/nomachine/nomachine_9.0.188-11_arm64.deb
+Size: 68278274
+MD5sum: a895cee274347e8df83de1d66fdd2007
+SHA1: 51942d55d5db2bd86d0e657fe48529e820474871
+SHA256: 9f3ad92d4f5ad15f7ba5af58d5bc4a7c7fb5050ba759f96c2aaaa64e0b3979e4
+SHA512: d047bbb7c7af53e5c221e246703444b6305434fceb604730c0678e98acb1e4532ac70e22e4a39220e8cc97db1b9d79c187618f1979d02264e327d7571c68305a
+Description: Fast and secure remote access system
+ NoMachine is a fast and secure remote access system and terminal server
+ service. It provides a full set of administration tools that make it a complete
+ desktop virtualization solution for you or for your organization.
+ .
+ This package includes all programs and libraries necessary to
+ transform your machine into a server in the cloud or a remote
+ desktop client according to your needs.
 
 Package: midori
 Architecture: arm64
