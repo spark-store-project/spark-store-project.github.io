@@ -273,22 +273,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
     },
     {
-      "Author": "gfdgd xi <3025613752@qq.com>",
-      "Contributor": "gfdgd-xi <3025613752@qq.com>",
-      "Filename": "spark-ultraliso_9.7.6.3860spark0_all.deb",
-      "More": "一个 ISO 镜像工具（deepin-wine6）——ultraiso",
-      "Name": "UltraISO",
-      "Pkgname": "spark-ultraliso",
-      "Size": "23 Mb",
-      "Tags": "debian;deepin;dwine5;ubuntu;uos;native",
-      "Torrent_address": "spark-ultraliso_9.7.6.3860spark0_all.deb.torrent",
-      "Update": "2024-05-02 07:42:51",
-      "Version": "9.7.6.3860spark0",
-      "Website": "https://cn.ultraiso.net/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_4.png\"]"
-    },
-    {
       "Author": "gfdgd_xi <3025613752@qq.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "gxde-deb-installer_1.5.3_loong64.deb",
@@ -303,6 +287,22 @@
       "Website": "https://www.deepin.com/",
       "icons": "https://spk-json.spark-app.store/loong64-store/tools/gxde-deb-installer/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/gxde-deb-installer/screen_1.png\"]"
+    },
+    {
+      "Author": "gfdgd xi <3025613752@qq.com>",
+      "Contributor": "gfdgd-xi <3025613752@qq.com>",
+      "Filename": "spark-ultraliso_9.7.6.3860spark0_all.deb",
+      "More": "一个 ISO 镜像工具（deepin-wine6）——ultraiso",
+      "Name": "UltraISO",
+      "Pkgname": "spark-ultraliso",
+      "Size": "23 Mb",
+      "Tags": "debian;deepin;dwine5;ubuntu;uos;native",
+      "Torrent_address": "spark-ultraliso_9.7.6.3860spark0_all.deb.torrent",
+      "Update": "2024-05-02 07:42:51",
+      "Version": "9.7.6.3860spark0",
+      "Website": "https://cn.ultraiso.net/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/spark-ultraliso/screen_4.png\"]"
     },
     {
       "Author": "zinface <zinface@163.com>",
@@ -590,6 +590,38 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_5.png\"]"
     },
     {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <shenmo@spark-app.store>",
+      "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
+      "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
+      "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
+      "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
+      "Size": "3 Kb",
+      "Tags": "deepin;native",
+      "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
+      "Update": "2025-05-29 21:12:04",
+      "Version": "1.0.1-alpha-lnd25.5",
+      "Website": "https://www.loongson.cn/",
+      "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
+      "More": "HardInfo 硬件信息查看器 从系统源获取",
+      "Name": "HardInfo 硬件信息查看器",
+      "Pkgname": "store.spark-app.appwrapper.hardinfo",
+      "Size": "3 Kb",
+      "Tags": "deepin;uos;ubuntu;debian;native",
+      "Torrent_address": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb.torrent",
+      "Update": "2024-11-05 22:24:26",
+      "Version": "0.5.1+git20180227-2.1+b1",
+      "Website": "",
+      "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+    },
+    {
       "Name": "设备网络搜索（密码重置）",
       "Version": "1.0",
       "Filename": "com.sadptool.spark_1.0_all.deb",
@@ -636,38 +668,6 @@
       "Website": "https://www.yzzi.icu",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/top.yzzi.youjian/screen_4.png\"]"
-    },
-    {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <shenmo@spark-app.store>",
-      "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
-      "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
-      "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
-      "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
-      "Size": "3 Kb",
-      "Tags": "deepin;native",
-      "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
-      "Update": "2025-05-29 21:12:04",
-      "Version": "1.0.1-alpha-lnd25.5",
-      "Website": "https://www.loongson.cn/",
-      "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
-    },
-    {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
-      "More": "HardInfo 硬件信息查看器 从系统源获取",
-      "Name": "HardInfo 硬件信息查看器",
-      "Pkgname": "store.spark-app.appwrapper.hardinfo",
-      "Size": "3 Kb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb.torrent",
-      "Update": "2024-11-05 22:24:26",
-      "Version": "0.5.1+git20180227-2.1+b1",
-      "Website": "",
-      "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
     },
     {
       "Author": "gfdgd xi <3025613752@qq.com>",
@@ -2839,6 +2839,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace.blender/screen_1.png\"]"
     },
     {
+      "Author": "jiar <jiar@kuaicad.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.kuaicad.cadreader_1.0.1.1-1_loong64.deb",
+      "More": "CAD快速看图是一款轻量级的浏览CAD图纸软件，兼容AutoCAD各个版本和天正系列软件的DWG图纸。图纸打开速度快，浏览流畅，无需安装任何字体，有效解决中文乱码问题。精确显示钢筋符号和图案填充。同时具有测量功能，可以准确捕捉，距离尺寸随需量取。软件操作简单方便，易于使用",
+      "Name": "CAD快速看图",
+      "Pkgname": "com.kuaicad.cadreader",
+      "Size": "9597 Kb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.kuaicad.cadreader_1.0.1.1-1_loong64.deb.torrent",
+      "Update": "2024-12-29 09:01:45",
+      "Version": "1.0.1.1-1",
+      "Website": "http://cad.glodon.com",
+      "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/com.kuaicad.cadreader/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/com.kuaicad.cadreader/screen_1.png\"]"
+    },
+    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <shenmo@spark-app.store>",
       "Filename": "store.spark-app.appwrapper.inkscape_1.2.2-6_all.deb",
@@ -2871,20 +2887,20 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/image_graphics/com.zwsoft.zwcad2025/screen_1.png\"]"
     },
     {
-      "Author": "jiar <jiar@kuaicad.com>",
+      "Author": "info@ovital.com",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.kuaicad.cadreader_1.0.1.1-1_loong64.deb",
-      "More": "CAD快速看图是一款轻量级的浏览CAD图纸软件，兼容AutoCAD各个版本和天正系列软件的DWG图纸。图纸打开速度快，浏览流畅，无需安装任何字体，有效解决中文乱码问题。精确显示钢筋符号和图案填充。同时具有测量功能，可以准确捕捉，距离尺寸随需量取。软件操作简单方便，易于使用",
-      "Name": "CAD快速看图",
-      "Pkgname": "com.kuaicad.cadreader",
-      "Size": "9597 Kb",
+      "Filename": "ovital-map_10.2.7_loong64.deb",
+      "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
+      "Name": "奥维互动地图",
+      "Pkgname": "ovital-map",
+      "Size": "186 Mb",
       "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.kuaicad.cadreader_1.0.1.1-1_loong64.deb.torrent",
-      "Update": "2024-12-29 09:01:45",
-      "Version": "1.0.1.1-1",
-      "Website": "http://cad.glodon.com",
-      "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/com.kuaicad.cadreader/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/com.kuaicad.cadreader/screen_1.png\"]"
+      "Torrent_address": "ovital-map_10.2.7_loong64.deb.torrent",
+      "Update": "2025-06-15 06:31:25",
+      "Version": "10.2.7",
+      "Website": "https://www.ovital.com",
+      "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/ovital-map/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/ovital-map/screen_1.png\"]"
     },
     {
       "Author": "support <support@gstarcad.com>",
@@ -2917,22 +2933,6 @@
       "Tags": "ubuntu;deepin;uos;dwine5;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/aa93dce644cb47e4bc89f06ef25e4f9b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/dfba8f3d0e69442bb4935e23ded35b34.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/24/e73424e8cfba400cb46a8e1e81736664.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/24/1c0bff9004144804a8b705b6056d05ed.png"
-    },
-    {
-      "Author": "info@ovital.com",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "ovital-map_10.2.7_loong64.deb",
-      "More": "奥维互动地图简称奥维地图，是由北京元生华网软件有限公司开发的跨平台地图浏览软件\n全面支持微软、安卓等主流平台，而且适配统信UOS、深度科技Deepin、银河麒麟等国产主流操作系统",
-      "Name": "奥维互动地图",
-      "Pkgname": "ovital-map",
-      "Size": "186 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "ovital-map_10.2.7_loong64.deb.torrent",
-      "Update": "2025-06-15 06:31:25",
-      "Version": "10.2.7",
-      "Website": "https://www.ovital.com",
-      "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/ovital-map/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/ovital-map/screen_1.png\"]"
     },
     {
       "Name": "中望3D 2023 For Linux",
@@ -5328,6 +5328,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/05/d2b0f640-636a-11ee-b2e5-dfc8faebc0c5.png"
     },
     {
+      "Author": "<zhuyanlong@uniontech.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.yiyan.uos_1.0_loong64.deb",
+      "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
+      "Name": "文心一言（web）",
+      "Pkgname": "com.yiyan.uos",
+      "Size": "93 Mb",
+      "Tags": "deepin;uos;ubuntu;debian;native",
+      "Torrent_address": "com.yiyan.uos_1.0_loong64.deb.torrent",
+      "Update": "2024-06-22 20:36:28",
+      "Version": "1.0",
+      "Website": "https://yiyan.baidu.com/?utm_source=uos",
+      "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yiyan.uos/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yiyan.uos/screen_1.png\"]"
+    },
+    {
       "Name": "FlowUs",
       "Version": "1.1.7spark3",
       "Filename": "cn.flowus.spark_1.1.7spark3_all.deb",
@@ -5358,22 +5374,6 @@
       "Website": "https://www.edrawsoft.cn/",
       "icons": "https://spk-json.spark-app.store/loong64-store/office/edrawmax/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/office/edrawmax/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/office/edrawmax/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/office/edrawmax/screen_3.png\"]"
-    },
-    {
-      "Author": "<zhuyanlong@uniontech.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.yiyan.uos_1.0_loong64.deb",
-      "More": "1、文心一言由文心大模型驱动，具备理解、生成、逻辑、记忆四大基础能力。当前文心大模型已升级至4.0版本，能够帮助你轻松搞定各类复杂任务。\n理解能力：听得懂潜台词、复杂句式、专业术语，今天，人类说的每一句话，它大概率都能听懂！\n生成能力：快速生成文本、代码、图片、图表、视频，今天，人类目光所致的所有内容，它几乎都能生成！\n逻辑能力： 复杂的逻辑难题、困难的数学计算、重要的职业/生活决策统统能帮你解决，情商智商双商在线！\n记忆能力：不仅有高性能，更有好记性。N轮对话过后，你话里的重点，它总会记得，帮你步步精进，解决复杂任务！\n2、文心一言是你工作、学习、生活中省时提效的好帮手；是你闲暇时刻娱乐打趣的好伙伴；也是你需要倾诉陪伴时的好朋友。在你人生旅途经历的每个阶段、面对的各种场景中，文心一言7*24小时在线，伴你左右。",
-      "Name": "文心一言（web）",
-      "Pkgname": "com.yiyan.uos",
-      "Size": "93 Mb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "com.yiyan.uos_1.0_loong64.deb.torrent",
-      "Update": "2024-06-22 20:36:28",
-      "Version": "1.0",
-      "Website": "https://yiyan.baidu.com/?utm_source=uos",
-      "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yiyan.uos/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/office/com.yiyan.uos/screen_1.png\"]"
     },
     {
       "Author": "<zyl@uniontech.com>",

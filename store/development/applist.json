@@ -286,10 +286,10 @@
     "More": "免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要使用数据库的人。支持所有流行的数据库：MySQL、PostgreSQL、SQLite、Oracle、DB2、SQL Server、Sybase、MS Access、Teradata、Firebird、Apache Hive、Phoenix、Presto等。",
     "Tags": "community;debian;deepin;ubuntu;uos",
     "Pkgname": "dbeaver-ce",
-    "Version": "25.1.0",
-    "Filename": "dbeaver-ce_25.1.0_amd64.deb",
-    "Update": "2025-06-02 01:43:11",
-    "Size": "131.39MB",
+    "Version": "25.1.1",
+    "Filename": "dbeaver-ce_25.1.1_amd64.deb",
+    "Update": "2025-06-23 01:45:09",
+    "Size": "132.53MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -590,24 +590,6 @@
 
 ,
 {
-  "Author": "wntr <Unknown>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "finalshell_4.5.12_amd64.deb",
-  "More": "FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,还是功能强大的开发,运维工具,充分满足开发,运维需求.特色功能: 云端同步,免费海外服务器远程桌面加速,ssh加速,本地化命令输入框,支持自动补全,命令历史,自定义命令参数",
-  "Name": "finalshell-2024年更新版",
-  "Pkgname": "finalshell",
-  "Size": "91 Mb",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "Torrent_address": "finalshell_4.5.12_amd64.deb.torrent",
-  "Update": "2024-11-08 15:24:55",
-  "Version": "4.5.12",
-  "Website": "kentrl",
-  "icons": "https://spk-json.spark-app.store/store/development/finalshell/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/development/finalshell/screen_1.png\"]"
-}
-
-,
-{
   "Name": "XTerminal",
   "Version": "2.9.3-84",
   "Filename": "xterminal_2.9.3-84_amd64.deb",
@@ -622,6 +604,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
+}
+
+,
+{
+  "Author": "wntr <Unknown>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "finalshell_4.5.12_amd64.deb",
+  "More": "FinalShell是一体化的的服务器,网络管理软件,不仅是ssh客户端,还是功能强大的开发,运维工具,充分满足开发,运维需求.特色功能: 云端同步,免费海外服务器远程桌面加速,ssh加速,本地化命令输入框,支持自动补全,命令历史,自定义命令参数",
+  "Name": "finalshell-2024年更新版",
+  "Pkgname": "finalshell",
+  "Size": "91 Mb",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "Torrent_address": "finalshell_4.5.12_amd64.deb.torrent",
+  "Update": "2024-11-08 15:24:55",
+  "Version": "4.5.12",
+  "Website": "kentrl",
+  "icons": "https://spk-json.spark-app.store/store/development/finalshell/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/development/finalshell/screen_1.png\"]"
 }
 
 ,
@@ -1201,6 +1201,23 @@
 
 ,
 {
+    "Name": "navicat",
+    "Version": "17.1.8",
+    "Filename": "navicat_17.1.8_amd64.deb",
+    "Torrent_address": "navicat_17.1.8_amd64.deb.torrent",
+    "Pkgname": "navicat",
+    "Author": "navicat",
+    "Contributor": "momen <vmomenv@gmail.com>",
+    "Website": "https://www.navicat.com.cn/",
+    "Update": "2025-03-11 17:00:08",
+    "Size": "194.33 MB",
+    "More": "Navicat 是一款功能强大的数据库管理工具，支持 MySQL、MariaDB、PostgreSQL、Oracle、SQLite、SQL Server 等多种数据库。它主要用于数据库的管理、开发和维护，适合开发人员、数据库管理员以及数据分析师使用。",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/11/9310863c9aaa4d26803c9ded5792f67e.png\",\"https://spk-json.spark-app.store/images/2025/03/11/87da15ae56b147768df85148d4346b46.png\",\"https://spk-json.spark-app.store/images/2025/03/11/187200aea4cd4e44829ba9eccd4266f7.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/11/f45399980b2d4c66979c50458263fefe.png"
+}
+,
+{
   "Name": "微信开发者工具 Wine版",
   "Version": "1.06.2306020-1",
   "Filename": "io.github.msojocs.wechat-devtools-wine_1.06.2306020-1_amd64.deb",
@@ -1217,23 +1234,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/25/4b66d48238ab476fb074808dbcc3a08c.png"
 }
 
-,
-{
-    "Name": "navicat",
-    "Version": "17.1.8",
-    "Filename": "navicat_17.1.8_amd64.deb",
-    "Torrent_address": "navicat_17.1.8_amd64.deb.torrent",
-    "Pkgname": "navicat",
-    "Author": "navicat",
-    "Contributor": "momen <vmomenv@gmail.com>",
-    "Website": "https://www.navicat.com.cn/",
-    "Update": "2025-03-11 17:00:08",
-    "Size": "194.33 MB",
-    "More": "Navicat 是一款功能强大的数据库管理工具，支持 MySQL、MariaDB、PostgreSQL、Oracle、SQLite、SQL Server 等多种数据库。它主要用于数据库的管理、开发和维护，适合开发人员、数据库管理员以及数据分析师使用。",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/11/9310863c9aaa4d26803c9ded5792f67e.png\",\"https://spk-json.spark-app.store/images/2025/03/11/87da15ae56b147768df85148d4346b46.png\",\"https://spk-json.spark-app.store/images/2025/03/11/187200aea4cd4e44829ba9eccd4266f7.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/11/f45399980b2d4c66979c50458263fefe.png"
-}
 ,
 {
     "Name": "Neovim",

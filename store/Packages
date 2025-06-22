@@ -4268,20 +4268,20 @@ Homepage: https://www.antutu.com/
 Description: 安兔兔评测 for linux 安兔兔评测（AnTuTu）是一款跨平台，支持手机、电脑设备的专业性能评定软件。Linux版本的安兔兔支持一键跑分，可评估CPU/GPU/MEM/UX性能。
 
 Package: easy-send
-Architecture: amd64
-Version: 2.2.0
+Architecture: arm64
+Version: 2.2.3
 Priority: optional
 Section: default
 Maintainer: BitPoro <bitporo@qq.com>
-Installed-Size: 250559
+Installed-Size: 256776
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./tools/easy-send/easy-send_2.2.0_amd64.deb
-Size: 69938946
-MD5sum: 6a313da9a34481ec49f14c05018d36ce
-SHA1: d81ccd2d496447532f2d6e5df30674bbaf96e3f2
-SHA256: c7d3d32107ec1e954987abfe65ecdb69ecfa24ba6ed6291c246e38b46903e4f7
-SHA512: 089744c9db7c5f427720f497b8b00803104c34ecee8473799c093ef2bc8758cf90e2e9472372c7a923622a3d0046547c0030d859839e99fb73c692eb4db2ad69
+Filename: ./tools/easy-send/easy-send_2.2.3_arm64.deb
+Size: 75089800
+MD5sum: dbb7921c5ca89e71ebf282e2925a249e
+SHA1: 1c9468b19e8d611679f7b520a8398a8c3bf5798d
+SHA256: 43bd92d7397af095b911b46f7c2c3b6023ec65b2ef0765518e7864dc4a701712
+SHA512: 382350fb71dd7d25e7a78567e81976d6392e7da9083263c039d6b8eab5d4520541ba12ddf67e71cb2ef1a46e3770e5dfe3c5b407abc2627a9224d3c372a80f03
 Homepage: https://easysend.channer.cn
 Description: 
   便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
@@ -4852,17 +4852,18 @@ Description: A structured editor for science and technology
 
 Package: xiaoq-tools
 Architecture: all
-Version: 2.02
+Version: 2.04
 Priority: optional
 Section: utils
 Maintainer: fb93<fb93@fb93.com>
+Installed-Size: 1472
 Depends: bash, libnotify-bin
-Filename: ./tools/xiaoq-tools/xiaoq-tools_2.02_all.deb
-Size: 1402504
-MD5sum: 317a2d6a509245ee3f74c406fd58da68
-SHA1: 8c0c7c49457e1220f1da89d84346f02e9addfec5
-SHA256: d13e267a4f1e1636f26bcf564bafdfcb892d26d04794719272e5e1d0555e5d1d
-SHA512: 7352fd70b310a0780d0d84a8ffff7f9b4355aa4746060844a30b803bb3abfee97a810384074c0ce31ca146cfc3301269c839d63c0caacec6019642922ffb5e52
+Filename: ./tools/xiaoq-tools/xiaoq-tools_2.04_all.deb
+Size: 1402692
+MD5sum: 1564c4e74020e1243675fbc42a4e0b6f
+SHA1: 34a3681e173b4d0d0f450eb3f5744431bf3e195e
+SHA256: 0738261ba5b082fb876e8886ce7c92fb053f84d5239179d80b0d304d9f0de612
+SHA512: 3ab693c535e4f85d7de990c197ea323b99d54ecdf756a384174d8d0fbb179e11cbaea6ca29d98ebf52b91a251c3fb1b9505b4cc616b69cef6e0c2bb7c7d7ffb0
 Description: 强大的文件目录清理工具
  本工具提供全面的文件管理功能：
   * 多种路径输入方式（命令行/交互式/拖放）
@@ -11418,16 +11419,16 @@ Description: 云书|云教材由中国出版协会主管，线装书局主办，
 
 Package: web-yfhxya
 Architecture: all
-Version: 1.0.1
+Version: 1.0.2
 Maintainer: 菰城鸥鹭
 Depends: spark-webapp-runtime(>=1.5)
-Filename: ./reading/web-yfhxya/web-yfhxya_1.0.1_all.deb
-Size: 57896
-MD5sum: 8aa326ad06e80e018d03ecfcd2a0f292
-SHA1: 925e65af66c3ba2f7bbcedf80f6e3046b196564b
-SHA256: 8b5d73ee97fb8d6fa54c49da9a9b4d52178e8021e43e8fa6b6934b999c75fe60
-SHA512: 57a875a18bd5b345a307b28d525fd069257c354eecbe2eb7b9116e6596f15e81c2b7ed88d986969f457e57b77a00eb094980af6413b11fb3b518f24282ce0d1c
-Description: A webapp of https://www.yfhxya.cn packed by 菰城鸥鹭 using spark webapp runtime
+Filename: ./reading/web-yfhxya/web-yfhxya_1.0.2_all.deb
+Size: 57944
+MD5sum: 528711283197afc1af92c0e9cd1cd423
+SHA1: c14f3f94e6b4412c0a404f1698a7187325ca56e8
+SHA256: e23d2f51a7fe1035a83dc0b1bd1a78169fb8a0d37539447261512299f124257c
+SHA512: 278e776a72f55fb3590f6638c6355353fba4dd7cea2420dd6f38d3a839a135023eb3cad68042eddc1c918e0281d8e6e9edf7921f74997bdd9e98d8b7e999a9cf
+Description: A webapp of https://www.gcoulu.cn/yfhxya/web/index.html packed by 菰城鸥鹭 using spark webapp runtime
 
 Package: scholaread
 Architecture: amd64
@@ -17081,6 +17082,23 @@ SHA256: 9c0aafc1159217e92068e4d232b930cb975997873aab11ce8e4cd2fa119f489a
 SHA512: 9d5e9a694f459643a7ad2d20cbafbb5847a39e88ab7fef4c7d6c5cbcc61628dda7138b537c3a9b5aec36b430289dd0814395e0e89cc1aacaef75bb5029c5d10d
 Homepage: https://www.zwcad.com
 Description: ZWCAD2022 Linux是ZWSOFT研发的计算机辅助软件。
+
+Package: com.qnwwatermark.spark
+Architecture: all
+Version: 2.0.0.2
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 320582
+Depends: spark-wine8 | spark-wine8-bcm | spark-wine8-dcm | com.spark-wine8.deepin, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: ./image_graphics/com.qnwwatermark.spark/com.qnwwatermark.spark_2.0.0.2_all.deb
+Size: 320615216
+MD5sum: 54329fc96cca4d05a5f0499697490010
+SHA1: d21e8d7d67f2c717e5211f552877d835fca94865
+SHA256: cbd7a3690da2a76b4abb6d30f7e0465fc31a58daedc07803229a5e467c16d134
+SHA512: 4c1e7e3c0929e652b93a682c105e40eda8e6ca209a6cbbd6ee75212edf0128c2bf267958c61c7c5ffc21e9a1478e6d72207610eb52601a66a174c80a31f38f93
+Description: .全能王去水印软件，是一款去除水印的软件，支持去除图片、视频上的水印，也是一款功能强大的去除水印工具。功能有视频水印去除、图片水印去除、图片水印添加、视频水印添加等功能。
 
 Package: com.snipaste.spark
 Architecture: amd64
@@ -30483,6 +30501,23 @@ SHA256: 57ba673bc2c737a6ac36d91a15fa4015d505232367db22edfb4e6a3bb52c840b
 SHA512: 50a202e30b8b58bbde9989d7e591645fcdbd03e1723d752291801deac6cc25eb3a76a0005cdad791c998523fd908393a11fa3c29a061c56a0fdd74ab022dc1bd
 Description: Microsoft Office SharePoint Designer For Deepin Wine 6
 
+Package: com.qnwfilecompress.spark
+Architecture: all
+Version: 2.0.0.4
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 332095
+Depends: spark-wine8 | spark-wine8-bcm | spark-wine8-dcm | com.spark-wine8.deepin, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: ./office/com.qnwfilecompress.spark/com.qnwfilecompress.spark_2.0.0.4_all.deb
+Size: 332129200
+MD5sum: 5c7123629d25f759185dd4d49911a57a
+SHA1: 196160280fcc153ea37e897897649cc975b01b24
+SHA256: d45b04cedde4c5e3b3064842172d2652d762e679d1a11b7d24951ca257ad0656
+SHA512: c3271d9d5d9d767dcdb1b97d876c6b8107318ba54634df579977197205c75d5b8be2a370bc99c401fca79d1ed4576db1e04c32b101b22d3949b944b6d01c2984
+Description: 全能王压缩软件是一款视频压缩、图片压缩、PDF压缩的专业压缩软件。支持批量压缩、无损压缩，操作简单，高效率转换，有效解决文件过大的难题。
+
 Package: com.mubu.spark
 Architecture: all
 Version: 4.0.3spark4
@@ -35197,6 +35232,30 @@ Description: SunloginClient-11.0.1.44968 for Linux
  operations, remote power on/off, download files, AFK, and so on. Download
  Sunlogin and explore more exciting features!
 
+Package: nomachine
+Architecture: amd64
+Version: 9.0.188-11
+Priority: optional
+Section: net
+Maintainer: NoMachine S.a.r.l. <info@nomachine.com>
+Installed-Size: 266768
+Conflicts:  nxmanager, nxwebplayer, nxserver, nxnode, nxclient, nomachine-enterprise-client, nomachine-enterprise-runner
+Replaces: nxmanager, nxwebplayer, nxserver, nxnode, nxclient, nomachine
+Filename: ./network/nomachine/nomachine_9.0.188-11_amd64.deb
+Size: 73902790
+MD5sum: 3be0ab4243c1000a8cca5f653f8ea7fc
+SHA1: 4f99a917b630431e65872f178e61e798756e931c
+SHA256: a6b5b56092b05538f66911a44f4661153ad2137c2ce4830cf794ff0f8cfd019e
+SHA512: c24dd8f3546c46d2ad0acbb296eea30dfa081cdb590d0a908e8a36db48ca40a58d62f5eb6e242ad553e9b7640cec96fceb71d0b0d478c964b19823e43b429014
+Description: Fast and secure remote access system
+ NoMachine is a fast and secure remote access system and terminal server
+ service. It provides a full set of administration tools that make it a complete
+ desktop virtualization solution for you or for your organization.
+ .
+ This package includes all programs and libraries necessary to
+ transform your machine into a server in the cloud or a remote
+ desktop client according to your needs.
+
 Package: midori
 Architecture: amd64
 Version: 11.5.2-1
@@ -38405,18 +38464,18 @@ Description: Unleash your repo
 
 Package: dbeaver-ce
 Architecture: amd64
-Version: 25.1.0
+Version: 25.1.1
 Priority: extra
 Section: devel
 Maintainer: DBeaver Corp <support@dbeaver.com>
-Installed-Size: 166841
+Installed-Size: 167858
 Replaces: dbeaver-ce
-Filename: ./development/dbeaver-ce/dbeaver-ce_25.1.0_amd64.deb
-Size: 131392068
-MD5sum: bb3700b69c0ec8cd6bd73af8c0c43daa
-SHA1: 2a54f9a428e87a3d1728312026c94bf3094a8270
-SHA256: 2a234edff84cb3aee94ff99371aacebf62629403c199ec8fb2af3d85c43411bb
-SHA512: 6795e439adaeee45c78938ff0fdb649e1adb55ba96e3819d982a2d9bd14aba09a82847534eb16580eef51c55e6fe540b295da5f31f753d83b3ca1dc2f97c7de0
+Filename: ./development/dbeaver-ce/dbeaver-ce_25.1.1_amd64.deb
+Size: 132532808
+MD5sum: d94cde204e05c76cb717af892ffbf01e
+SHA1: 080a49d50c551fa2ca99d7e9d9d97064040a238f
+SHA256: e11ac9ddf3dff10c3f4d5bc9c7a95078aaa1a630b75e44a4ed7fc43e5b63cfdb
+SHA512: 9add2d99a7a76840c1f6a954002a2017f3eb0d687a7d2bad7b41414c64995fa6891739dad94608a0f600b4e99ebfaaefd0a34c535f92ab90840baed1566d9517
 Homepage: https://dbeaver.io/
 Description: DBeaver Community
  Universal Database Manager and SQL Client
@@ -40485,19 +40544,19 @@ Description: WeiXin Client on Deepin Wine8
 
 Package: com.foxmail.deepin
 Architecture: amd64
-Version: 7.2.25.375deepin0
+Version: 7.2.25.375deepin5
 Multi-Arch: foreign
 Priority: optional
 Section: non-free/otherosfs
 Maintainer: Deepin WINE Team
-Installed-Size: 159840
-Depends: deepin-wine8-stable (>= 8.16-deepin25), deepin-wine-helper (>= 5.3.16-1), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
-Filename: ./chat/com.foxmail.deepin/com.foxmail.deepin_7.2.25.375deepin0_amd64.deb
-Size: 149484654
-MD5sum: 31f423f25c6d6c84ab9e778fee631a22
-SHA1: b48d66ce362f04ad670eddbd4816396ea5abbf05
-SHA256: a7bef28e5e8c88a08b023edf39e9c0e0674ed675218cc96839449502100c5f3b
-SHA512: 054543e148340cfcc4f32cbc27df327861680fd977171da137bf4f016010c97ad67cfabb711b86b764197bd93bbca574e600086391d24fff65867cdc280095f6
+Installed-Size: 177676
+Depends: deepin-wine8-stable (>= 8.16deepin30), deepin-wine-helper (>= 5.4.1-1), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./chat/com.foxmail.deepin/com.foxmail.deepin_7.2.25.375deepin5_amd64.deb
+Size: 152093566
+MD5sum: aea3269f8bfe0d0d0700749eb7e8a110
+SHA1: 3b72763dfafb673a6167310a0c824ffca3085bcb
+SHA256: 29a86001e0c1d500bb0d2f480c2d721b3edd52b208baaea7cfd7c4e709c72544
+SHA512: 428892b194b8de67c4b63ed4d7928d2c4c536e820a274761972777589250f5046e51d0312c237d2a0ec40aaea2e01dd322a22328c62e38625e989c4f677f6a6c
 Description: Foxmail Client on Deepin Wine8
 
 Package: web-jgchat

@@ -1332,23 +1332,6 @@
 
 ,
 {
-  "Name": "Billfish",
-  "Version": "2.4.0.4spark2",
-  "Filename": "cn.billfish.spark_2.4.0.4spark2_i386.deb",
-  "Pkgname": "cn.billfish.spark",
-  "Author": "苏州长嘴鱼软件有限公司",
-  "Contributor": "sgb76",
-  "Website": "https://www.billfish.cn/",
-  "Update": "2022-02-07 19:23:37",
-  "Size": "100.65 MB",
-  "More": "Billfish是一款免费的素材管理工具，可以快速、轻松管理您的设计素材，让您拥有更多的时间专注于设计本身\n\n更新说明：\n1.优化了打包方式，体积更小，窗口调整、托盘图标均正常\n2.如安装过旧版，更新升级前请先手动删除原安装容器\n3.基于deepin-wine6打包，不保证所有功能都正常，仅供尝鲜使用",
-  "Tags": "deepin;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/07/3b628130-8808-11ec-8cd2-1f4040cfd3af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/07/4040b0a0-8808-11ec-8cd2-1f4040cfd3af.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/07/36713ef0-8808-11ec-8cd2-1f4040cfd3af.png"
-}
-
-,
-{
   "Name": "Excalidraw（web）",
   "Version": "1.0spark0",
   "Filename": "web-excalidraw_1.0spark0_amd64.deb",
@@ -1363,6 +1346,23 @@
   "Tags": "debian;deepin;ubuntu",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/08/c26c6520-b6f1-11ec-94f9-317dcc0ee6b5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/08/c61744b0-b6f1-11ec-94f9-317dcc0ee6b5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/08/bc71f040-b6f1-11ec-94f9-317dcc0ee6b5.png"
+}
+
+,
+{
+  "Name": "Billfish",
+  "Version": "2.4.0.4spark2",
+  "Filename": "cn.billfish.spark_2.4.0.4spark2_i386.deb",
+  "Pkgname": "cn.billfish.spark",
+  "Author": "苏州长嘴鱼软件有限公司",
+  "Contributor": "sgb76",
+  "Website": "https://www.billfish.cn/",
+  "Update": "2022-02-07 19:23:37",
+  "Size": "100.65 MB",
+  "More": "Billfish是一款免费的素材管理工具，可以快速、轻松管理您的设计素材，让您拥有更多的时间专注于设计本身\n\n更新说明：\n1.优化了打包方式，体积更小，窗口调整、托盘图标均正常\n2.如安装过旧版，更新升级前请先手动删除原安装容器\n3.基于deepin-wine6打包，不保证所有功能都正常，仅供尝鲜使用",
+  "Tags": "deepin;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/07/3b628130-8808-11ec-8cd2-1f4040cfd3af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/02/07/4040b0a0-8808-11ec-8cd2-1f4040cfd3af.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/07/36713ef0-8808-11ec-8cd2-1f4040cfd3af.png"
 }
 
 ,
@@ -1983,6 +1983,24 @@
 
 ,
 {
+  "Name": "图片浏览器 - 你的浏览大法器",
+  "Version": "0.4-20240531",
+  "Filename": "z-tools-imagesbrowser_0.4-20240531_amd64.deb",
+  "Torrent_address": "z-tools-imagesbrowser_0.4-20240531_amd64.deb.torrent",
+  "Pkgname": "z-tools-imagesbrowser",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/z-tools/tree/imagebrowser-dev",
+  "Update": "2024-05-31 15:59:40",
+  "Size": "65.71 KB",
+  "More": "图片浏览器可以用来浏览指定目录下及子目录下所有 jpg, png, svg 图片。\n\n如何使用它：\n1. 图片数数量太多在你找不到某张图片时，你可以提供大概所在目录，然后慢慢浏览可能存在的图片。\n2. 如果目录太多，不知道哪里有图片时，它可以为你遍历目录文件来列出所有图片文件。\n3. 找到图片时，如果图片很大，你可以使用鼠标放大+拖动来查看你想预览的部分，并且还可以复制图片数据，或直接打开所在目录。\n\n嗯？电脑上没几张图片，可以尝试使用图片吸收器哦(一分吸百图)~\n           spk://store/image_graphics/image-absorber\n .\n Build for Uos20 through spark-deb-build.",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/1b39d2456bab49cebb748925b77a64c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/c8b5ba7d579949c6adaa151574b39f0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/b72c02f3939a4e42822eededfa55d4d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/72224845fa46450488d1fc1fb691e135.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/c5ceb84925a84d4ab3e9c0aab88a89a5.png"
+}
+
+,
+{
   "Name": "中望CAD建筑版 2023 For Linux",
   "Version": "23.2.3.4",
   "Filename": "com.zwsoft.zwcadm2023_23.2.3.4_amd64.deb",
@@ -2105,24 +2123,6 @@
   "Tags": "deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/29/30049f14409841fd90cf54bf39d71f24.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/29/d2f55666fe2f46b9b68bee33bc5c585a.png"
-}
-
-,
-{
-  "Name": "图片浏览器 - 你的浏览大法器",
-  "Version": "0.4-20240531",
-  "Filename": "z-tools-imagesbrowser_0.4-20240531_amd64.deb",
-  "Torrent_address": "z-tools-imagesbrowser_0.4-20240531_amd64.deb.torrent",
-  "Pkgname": "z-tools-imagesbrowser",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/z-tools/tree/imagebrowser-dev",
-  "Update": "2024-05-31 15:59:40",
-  "Size": "65.71 KB",
-  "More": "图片浏览器可以用来浏览指定目录下及子目录下所有 jpg, png, svg 图片。\n\n如何使用它：\n1. 图片数数量太多在你找不到某张图片时，你可以提供大概所在目录，然后慢慢浏览可能存在的图片。\n2. 如果目录太多，不知道哪里有图片时，它可以为你遍历目录文件来列出所有图片文件。\n3. 找到图片时，如果图片很大，你可以使用鼠标放大+拖动来查看你想预览的部分，并且还可以复制图片数据，或直接打开所在目录。\n\n嗯？电脑上没几张图片，可以尝试使用图片吸收器哦(一分吸百图)~\n           spk://store/image_graphics/image-absorber\n .\n Build for Uos20 through spark-deb-build.",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/1b39d2456bab49cebb748925b77a64c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/c8b5ba7d579949c6adaa151574b39f0a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/b72c02f3939a4e42822eededfa55d4d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/31/72224845fa46450488d1fc1fb691e135.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/31/c5ceb84925a84d4ab3e9c0aab88a89a5.png"
 }
 
 ,
@@ -2852,6 +2852,24 @@
 
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "store.spark-app.appwrapper.eom_1.26.0-2_all.deb",
+    "More": "从系统源获取的 MATE之眼 图片查看器，版本号以对应系统为准",
+    "Name": "MATE之眼图片查看器（系统源）",
+    "Pkgname": "store.spark-app.appwrapper.eom",
+    "Size": "3 Kb",
+    "Tags": "community;deepin;uos;ubuntu",
+    "Torrent_address": "store.spark-app.appwrapper.eom_1.26.0-2_all.deb.torrent",
+    "Update": "2025-03-06 19:29:05",
+    "Version": "1.26.0-2",
+    "Website": "",
+    "icons": "https://spk-json.spark-app.store/store/image_graphics/store.spark-app.appwrapper.eom/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/image_graphics/store.spark-app.appwrapper.eom/screen_1.png\"]"
+}
+
+,
+{
   "Name": "Tropy",
   "Version": "1.12.0spark2",
   "Filename": "org.tropy.spark_1.12.0spark2_amd64.deb",
@@ -2920,24 +2938,6 @@
   "Tags": "ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/e51f7c3aee6e4f04adb4d6d43d903be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/27/2ac37f60706443ca837d206f877f042a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/27/6260f12ce4ab4845a5034dccf0f60d87.png"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "store.spark-app.appwrapper.eom_1.26.0-2_all.deb",
-    "More": "从系统源获取的 MATE之眼 图片查看器，版本号以对应系统为准",
-    "Name": "MATE之眼图片查看器（系统源）",
-    "Pkgname": "store.spark-app.appwrapper.eom",
-    "Size": "3 Kb",
-    "Tags": "community;deepin;uos;ubuntu",
-    "Torrent_address": "store.spark-app.appwrapper.eom_1.26.0-2_all.deb.torrent",
-    "Update": "2025-03-06 19:29:05",
-    "Version": "1.26.0-2",
-    "Website": "",
-    "icons": "https://spk-json.spark-app.store/store/image_graphics/store.spark-app.appwrapper.eom/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/image_graphics/store.spark-app.appwrapper.eom/screen_1.png\"]"
 }
 
 ,
@@ -3098,6 +3098,23 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/28/e4f7d74868364d45b3313f0deb1f87a8.png"
 }
 
+,
+{
+    "Name": "全能王去水印",
+    "Version": "2.0.0.2",
+    "Filename": "com.qnwwatermark.spark_2.0.0.2_all.deb",
+    "Torrent_address": "com.qnwwatermark.spark_2.0.0.2_all.deb.torrent",
+    "Pkgname": "com.qnwwatermark.spark",
+    "Author": "深圳市超时代软件有限公司",
+    "Contributor": "wang",
+    "Website": "https://www.hoposoft.com/",
+    "Update": "2025-06-21 11:49:57",
+    "Size": "305.76 MB",
+    "More": "全能王去水印软件，是一款去除水印的软件，支持去除图片、视频上的水印，也是一款功能强大的去除水印工具。功能有视频水印去除、图片水印去除、图片水印添加、视频水印添加等功能。",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/21/277b9cea0bfd45b2859b22b6a13dbfa2.png\",\"https://spk-json.spark-app.store/images/2025/06/21/cd6634c1be0f42fcb81fb0ba8ea76c03.png\",\"https://spk-json.spark-app.store/images/2025/06/21/b8e6b14794654c3f9ac3e3c93801b77d.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/21/3c91cfebf31b417e9282e0dc620fe62b.png"
+}
 ,
 {
   "Name": "IM Compressor",
