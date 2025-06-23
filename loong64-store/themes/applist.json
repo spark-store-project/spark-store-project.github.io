@@ -261,6 +261,23 @@
 
 ,
 {
+  "Name": "深度图标开机动画（深色）",
+  "Version": "0.0.1",
+  "Filename": "plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb",
+  "Pkgname": "plymouth-theme-deepin-ssd-tubiao-dark",
+  "Author": "Tippy",
+  "Contributor": "Tippy",
+  "Website": "https://space.bilibili.com/524703552",
+  "Update": "2021-02-16 20:23:39",
+  "Size": "24.92 KB",
+  "More": "黑底的深度图标开机呼吸渐变动画\n商店中之前的是白底动画，对引导界面是黑色的机型不友好，故制作此包\n使用方法：sudo plymouth-set-default-theme deepin-ssd-tubiao-dark -R\n还原方法：sudo plymouth-set-default-theme deepin-ssd-logo -R\n本版以deepin-ssd-logo为底包制作，以商店中原有的\"深度图标开机动画\"为动画素材",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/aaaba690-7051-11eb-b860-e5041dbd9929.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/a2113270-7051-11eb-b860-e5041dbd9929.png"
+}
+
+,
+{
   "Name": "deepin icons 2022",
   "Version": "2.2.4",
   "Filename": "deepin-icons-2022_2.2.4_all.deb",
@@ -329,23 +346,6 @@
   "Website": "https://space.bilibili.com/436623402",
   "icons": "https://spk-json.spark-app.store/loong64-store/themes/silverwolf.cursors/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/themes/silverwolf.cursors/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/themes/silverwolf.cursors/screen_2.png\"]"
-}
-
-,
-{
-  "Name": "深度图标开机动画（深色）",
-  "Version": "0.0.1",
-  "Filename": "plymouth-theme-deepin-ssd-tubiao-dark_0.0.1_all.deb",
-  "Pkgname": "plymouth-theme-deepin-ssd-tubiao-dark",
-  "Author": "Tippy",
-  "Contributor": "Tippy",
-  "Website": "https://space.bilibili.com/524703552",
-  "Update": "2021-02-16 20:23:39",
-  "Size": "24.92 KB",
-  "More": "黑底的深度图标开机呼吸渐变动画\n商店中之前的是白底动画，对引导界面是黑色的机型不友好，故制作此包\n使用方法：sudo plymouth-set-default-theme deepin-ssd-tubiao-dark -R\n还原方法：sudo plymouth-set-default-theme deepin-ssd-logo -R\n本版以deepin-ssd-logo为底包制作，以商店中原有的\"深度图标开机动画\"为动画素材",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/16/aaaba690-7051-11eb-b860-e5041dbd9929.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/16/a2113270-7051-11eb-b860-e5041dbd9929.png"
 }
 
 ,
@@ -487,6 +487,24 @@
   "Website": "http://www.deepin.org/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/themes/com.uniontech.theme2.zhonguofeng/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/com.uniontech.theme2.zhonguofeng/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "meimengzhen <meimengzhen@uniontech.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "uos-wallpapers-green_1.0.0_all.deb",
+  "More": "由官方推出的一组清新绿色系列壁纸合集，包含13张高清壁纸。【注意】：安装完成后需要在桌面打开【壁纸与屏保】进行设置生效喔！\n绿色，代表着自然与生机，它是大自然赋予我们的最美丽的庇护。这一系列的壁纸以绿色为主题，为你的屏幕带来一片清新和放松的感觉。\n\n支持 GXDE",
+  "Name": "绿色护眼系列壁纸",
+  "Pkgname": "uos-wallpapers-green",
+  "Size": "48 Mb",
+  "Tags": "deepin;uos;native",
+  "Torrent_address": "uos-wallpapers-green_1.0.0_all.deb.torrent",
+  "Update": "2025-01-14 18:21:57",
+  "Version": "1.0.0",
+  "Website": "https://www.deepin.org/",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/themes/uos-wallpapers-green/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/uos-wallpapers-green/screen_1.png\"]"
 }
 
 ,
@@ -645,24 +663,6 @@
   "Website": "sgb76@163.com",
   "icons": "https://spk-json.spark-app.store/store/themes/volantes-cursors/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/themes/volantes-cursors/screen_1.png\"]"
-}
-
-,
-{
-  "Author": "meimengzhen <meimengzhen@uniontech.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "uos-wallpapers-green_1.0.0_all.deb",
-  "More": "由官方推出的一组清新绿色系列壁纸合集，包含13张高清壁纸。【注意】：安装完成后需要在桌面打开【壁纸与屏保】进行设置生效喔！\n绿色，代表着自然与生机，它是大自然赋予我们的最美丽的庇护。这一系列的壁纸以绿色为主题，为你的屏幕带来一片清新和放松的感觉。\n\n支持 GXDE",
-  "Name": "绿色护眼系列壁纸",
-  "Pkgname": "uos-wallpapers-green",
-  "Size": "48 Mb",
-  "Tags": "deepin;uos;native",
-  "Torrent_address": "uos-wallpapers-green_1.0.0_all.deb.torrent",
-  "Update": "2025-01-14 18:21:57",
-  "Version": "1.0.0",
-  "Website": "https://www.deepin.org/",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/themes/uos-wallpapers-green/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/uos-wallpapers-green/screen_1.png\"]"
 }
 
 ,

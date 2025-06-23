@@ -248,24 +248,6 @@
 }
 ,
 {
-  "Author": "wumeijie <wumeijie@myhexin.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb",
-  "More": "同花顺股票行情快、数据全、性能优，是一款受股民欢迎的免费炒股软件：具有沪深两市股票、基金行情；在线股票买卖委托交易功能等强大功能。\n deepin 23 无法启动请执行\n sudo aptss install libssl1.1 -y\n\n Ubuntu 2204下运行方式请看  https://www.deepinos.org/d/766-lubuntu2204-inux/13",
-  "Name": "同花顺",
-  "Pkgname": "cn.com.10jqka",
-  "Size": "112 Mb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb.torrent",
-  "Update": "2024-12-16 11:40:54",
-  "Version": "2.8.1.0-spark1",
-  "Website": "http://www.10jqka.com.cn",
-  "icons": "https://spk-json.spark-app.store/store/office/cn.com.10jqka/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_1.png\",\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_2.png\"]"
-}
-
-,
-{
   "Name": "腾讯文档",
   "Version": "3.9.20",
   "Filename": "tdappdesktop_3.9.20_amd64.deb",
@@ -280,6 +262,24 @@
   "Tags": "ubuntu;deepin;uos;debian;community;native",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_5.png\"]",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png"
+}
+
+,
+{
+  "Author": "wumeijie <wumeijie@myhexin.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb",
+  "More": "同花顺股票行情快、数据全、性能优，是一款受股民欢迎的免费炒股软件：具有沪深两市股票、基金行情；在线股票买卖委托交易功能等强大功能。\n deepin 23 无法启动请执行\n sudo aptss install libssl1.1 -y\n\n Ubuntu 2204下运行方式请看  https://www.deepinos.org/d/766-lubuntu2204-inux/13",
+  "Name": "同花顺",
+  "Pkgname": "cn.com.10jqka",
+  "Size": "112 Mb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb.torrent",
+  "Update": "2024-12-16 11:40:54",
+  "Version": "2.8.1.0-spark1",
+  "Website": "http://www.10jqka.com.cn",
+  "icons": "https://spk-json.spark-app.store/store/office/cn.com.10jqka/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_1.png\",\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_2.png\"]"
 }
 
 ,
@@ -1392,6 +1392,23 @@
 
 ,
 {
+  "Name": "语雀（web）",
+  "Version": "1.0spark0",
+  "Filename": "web-yuque_1.0spark0_amd64.deb",
+  "Pkgname": "web-yuque",
+  "Author": "阿里支付宝",
+  "Contributor": "sgb76",
+  "Website": "https://www.yuque.com/",
+  "Update": "2020-11-25 15:20:51",
+  "Size": "16.29 KB",
+  "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
+}
+
+,
+{
   "Name": "Chatbox 多模型AI客户端",
   "Version": "1.10.4",
   "Filename": "chatbox_1.10.4_amd64.deb",
@@ -1406,23 +1423,6 @@
   "Tags": "community;debian;ubuntu;deepin;uos;a2d;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/02/f2d3b45261394775aa80e71dbcf4f73d.png\",\"https://spk-json.spark-app.store/images/2025/03/02/36c55306554e48a4ba984bfc10e19ccb.png\",\"https://spk-json.spark-app.store/images/2025/03/02/7dc1867433054779994fac0322a1438b.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/02/e378518020064f41b0d8d7a421ed2102.png"
-}
-
-,
-{
-  "Name": "语雀（web）",
-  "Version": "1.0spark0",
-  "Filename": "web-yuque_1.0spark0_amd64.deb",
-  "Pkgname": "web-yuque",
-  "Author": "阿里支付宝",
-  "Contributor": "sgb76",
-  "Website": "https://www.yuque.com/",
-  "Update": "2020-11-25 15:20:51",
-  "Size": "16.29 KB",
-  "More": "专业的云端知识库，面向个人和团队，提供与众不同的知识管理，打造轻松流畅的工作协同。已知问题：打开应用后无法输入中文。临时解决办法：应用内出现输入框界面后，可以先随意打开一个别的应用（比如文件管理器）窗口再关闭，然后就可以正常输入中文了。",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/93e4cb00-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/988973e0-2f31-11eb-afff-ebd060f2ab0f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/25/9c54d3c0-2f31-11eb-afff-ebd060f2ab0f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/25/86050130-2f31-11eb-afff-ebd060f2ab0f.png"
 }
 
 ,
@@ -1606,6 +1606,23 @@
 
 ,
 {
+  "Name": "GoldenDict",
+  "Version": "1.5.0~rc2+git20201010+ds-1",
+  "Filename": "goldendict_1.5.0~rc2_plus_git20201010_plus_ds-1_amd64.deb",
+  "Pkgname": "goldendict",
+  "Author": "GoldenDict",
+  "Contributor": "咸粽子",
+  "Website": "http://goldendict.org/",
+  "Update": "2020-10-09 19:07:17",
+  "Size": "3.2 MB",
+  "More": "GoldenDict 是功能丰富的字典查找程序，支持多种字典格式（StarDict/Babylon/Lingvo/Dictd/AARD/MDict/SDict）和在线字典，具有完善的文章呈现功能，并带有完整的标记，插图和其他内容。",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/41cf9cd0-0a62-11eb-ba90-7365d217280d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/41de42d0-0a62-11eb-ba90-7365d217280d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/42046870-0a62-11eb-ba90-7365d217280d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/41392930-0a62-11eb-ba90-7365d217280d.png"
+}
+
+,
+{
   "Name": "office2010 deepinV23版",
   "Version": "14.0.0",
   "Filename": "spark.office2010-runner.com_14.0.0_all.deb",
@@ -1620,23 +1637,6 @@
   "Tags": "deepin;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceaa6660-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/ceddd270-25ef-11ef-a857-8d6ee211e447.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/09/cecfc8b0-25ef-11ef-a857-8d6ee211e447.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/09/c8f47490-25ef-11ef-a857-8d6ee211e447.png"
-}
-
-,
-{
-  "Name": "GoldenDict",
-  "Version": "1.5.0~rc2+git20201010+ds-1",
-  "Filename": "goldendict_1.5.0~rc2_plus_git20201010_plus_ds-1_amd64.deb",
-  "Pkgname": "goldendict",
-  "Author": "GoldenDict",
-  "Contributor": "咸粽子",
-  "Website": "http://goldendict.org/",
-  "Update": "2020-10-09 19:07:17",
-  "Size": "3.2 MB",
-  "More": "GoldenDict 是功能丰富的字典查找程序，支持多种字典格式（StarDict/Babylon/Lingvo/Dictd/AARD/MDict/SDict）和在线字典，具有完善的文章呈现功能，并带有完整的标记，插图和其他内容。",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/41cf9cd0-0a62-11eb-ba90-7365d217280d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/41de42d0-0a62-11eb-ba90-7365d217280d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/09/42046870-0a62-11eb-ba90-7365d217280d.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/41392930-0a62-11eb-ba90-7365d217280d.png"
 }
 
 ,
@@ -2882,6 +2882,24 @@
 
 ,
 {
+  "Name": "华为云会议",
+  "Version": "9.12.5",
+  "Filename": "huaweicloudmeeting_9.12.5_amd64.deb",
+  "Torrent_address": "huaweicloudmeeting_9.12.5_amd64.deb.torrent",
+  "Pkgname": "huaweicloudmeeting",
+  "Author": "huawei <huaweicloudmeeting@huawei.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.meeting.huaweicloud.com",
+  "Update": "2023-12-30 13:10:12",
+  "Size": "67.68 MB",
+  "More": "“云端”协同的会议解决方案，全平台接入，全球覆盖，提供高清、稳定、安全、高效的极简会议体验",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/2304c6d7c85249c6a9458f50b92ceec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/68976f02a1a14be98718ca8b42fd09d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/db6cc48a84f14fa694ba6bbd0a3fb9f7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/6e5a429de6a642eb8b9e33ebf8947d5d.png"
+}
+
+,
+{
   "Name": "智速ocr文字识别",
   "Version": "1.1.10",
   "Filename": "com.zhisuocr.spark_1.1.10_amd64.deb",
@@ -2913,24 +2931,6 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/96d42e95370f474fbd1ea35a2760a565.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/695781b1030448779e3a3ce1e1e51929.png"
-}
-
-,
-{
-  "Name": "华为云会议",
-  "Version": "9.12.5",
-  "Filename": "huaweicloudmeeting_9.12.5_amd64.deb",
-  "Torrent_address": "huaweicloudmeeting_9.12.5_amd64.deb.torrent",
-  "Pkgname": "huaweicloudmeeting",
-  "Author": "huawei <huaweicloudmeeting@huawei.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.meeting.huaweicloud.com",
-  "Update": "2023-12-30 13:10:12",
-  "Size": "67.68 MB",
-  "More": "“云端”协同的会议解决方案，全平台接入，全球覆盖，提供高清、稳定、安全、高效的极简会议体验",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/2304c6d7c85249c6a9458f50b92ceec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/68976f02a1a14be98718ca8b42fd09d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/db6cc48a84f14fa694ba6bbd0a3fb9f7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/6e5a429de6a642eb8b9e33ebf8947d5d.png"
 }
 
 ,
@@ -4229,21 +4229,20 @@
 
 ,
 {
-  "Name": "hugo-extended 博客程序",
-  "Author": "Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
-  "Website": "https://github.com/gohugoio/hugo",
-  "More": "The world’s fastest framework for building websites",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/office/hugo/screen_1.png\"]",
-  "icons": "https://spk-json.spark-app.store/store/office/hugo/icon.png",
-  "Pkgname": "hugo",
-  "Version": "0.147.8",
-  "Filename": "hugo_0.147.8_amd64.deb",
-  "Update": "2025-06-08 01:44:41",
-  "Size": "19.53MB",
-  "Contributor": "https://gitee.com/spark-building-service/github"
+    "Name": "hugo-extended 博客程序",
+    "Author": "Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
+    "Website": "https://github.com/gohugoio/hugo",
+    "More": "The world’s fastest framework for building websites",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/office/hugo/screen_1.png\"]",
+    "icons": "https://spk-json.spark-app.store/store/office/hugo/icon.png",
+    "Pkgname": "hugo",
+    "Version": "0.147.9",
+    "Filename": "hugo_0.147.9_amd64.deb",
+    "Update": "2025-06-24 01:37:32",
+    "Size": "19.56MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
 }
-
 ,
 {
   "Name": "haroopad",
@@ -4352,6 +4351,24 @@
 
 ,
 {
+  "Name": "中信证券至信",
+  "Version": "8.98",
+  "Filename": "com.tdx.zxzq_8.98_amd64.deb",
+  "Torrent_address": "com.tdx.zxzq_8.98_amd64.deb.torrent",
+  "Pkgname": "com.tdx.zxzq",
+  "Author": "tdx <nie@tdx.com.cn>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "http://www.tdx.com.cn",
+  "Update": "2025-01-27 22:47:15",
+  "Size": "91.15 MB",
+  "More": "中信证券网上交易是专为投资者打造的全新适用于国产操作系统的专用网上行情交易软件。其操作便捷、性能稳定、风格统一。支持多市场行情；支持股票买卖、新股申购、网络投票、港股通、融资融券交易等。建议使用统信UOS2.0（x86）以上版本操作系统的投资者下载使用。",
+  "Tags": "ubuntu;uos;debian;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/27/9438ab9c322043818518831a50c8ed49.png\",\"https://spk-json.spark-app.store/images/2025/01/27/d76ef9d4c0c54f24be5962f173ff298e.png\",\"https://spk-json.spark-app.store/images/2025/01/27/a93969e43f064f0d858ffa0c7a0c5e73.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/27/3840a3b57ade47bdbab049b3c59185e9.png"
+}
+
+,
+{
   "Name": "EssentialPIM Pro（wine）",
   "Version": "9.7.5spark0",
   "Filename": "com.essentialpim.spark_9.7.5spark0_amd64.deb",
@@ -4382,24 +4399,6 @@
   "Tags": "deepin;a2d;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/e27e1b10-20ca-11eb-8b68-e56d9275241d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/07/ea2dba00-20ca-11eb-8b68-e56d9275241d.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/07/d44beb80-20ca-11eb-8b68-e56d9275241d.png"
-}
-
-,
-{
-  "Name": "中信证券至信",
-  "Version": "8.98",
-  "Filename": "com.tdx.zxzq_8.98_amd64.deb",
-  "Torrent_address": "com.tdx.zxzq_8.98_amd64.deb.torrent",
-  "Pkgname": "com.tdx.zxzq",
-  "Author": "tdx <nie@tdx.com.cn>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "http://www.tdx.com.cn",
-  "Update": "2025-01-27 22:47:15",
-  "Size": "91.15 MB",
-  "More": "中信证券网上交易是专为投资者打造的全新适用于国产操作系统的专用网上行情交易软件。其操作便捷、性能稳定、风格统一。支持多市场行情；支持股票买卖、新股申购、网络投票、港股通、融资融券交易等。建议使用统信UOS2.0（x86）以上版本操作系统的投资者下载使用。",
-  "Tags": "ubuntu;uos;debian;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/27/9438ab9c322043818518831a50c8ed49.png\",\"https://spk-json.spark-app.store/images/2025/01/27/d76ef9d4c0c54f24be5962f173ff298e.png\",\"https://spk-json.spark-app.store/images/2025/01/27/a93969e43f064f0d858ffa0c7a0c5e73.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/27/3840a3b57ade47bdbab049b3c59185e9.png"
 }
 
 ,

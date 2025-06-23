@@ -2457,6 +2457,27 @@ Description: FileGee Client on Deepin Wine6
 
 Package: spark-dwine-helper
 Architecture: all
+Version: 5.10.8-5.3.14
+Multi-Arch: foreign
+Priority: extra
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1024
+Provides: store.spark-app.spark-dwine-helper(=5.10.8-5.3.14)
+Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
+Recommends: python3-pyqt5
+Replaces: store.spark-app.spark-dwine-helper(<=5.10.8-5.3.14)
+Filename: ./tools/spark-dwine-helper/spark-dwine-helper_5.10.8-5.3.14_all.deb
+Size: 450688
+MD5sum: ed46bd4c830b814f5dc8c7b4176bdefa
+SHA1: 39b23f041889870d9ec44311fd6c23291b80dee6
+SHA256: 8001fbaf1b0376ad63e67c8b775162269ed103c88c70c44c236bd7e99da4615d
+SHA512: 7572bc752732dc4460a2f7945eded654d941e56f43a56094bcacf583a80de5c1fd4a58301b290eab2a8b83efe34f640d5d9ad56501e1bb8fc2c4ccd4597b0acf
+Homepage: https://gitee.com/deepin-community-store/spark-wine
+Description: Spark Deepin Wine Helper
+
+Package: spark-dwine-helper
+Architecture: all
 Version: 5.10.7-5.3.14
 Multi-Arch: foreign
 Priority: extra
@@ -10148,16 +10169,16 @@ Vendor: TencentDocs
 
 Package: hugo
 Architecture: arm64
-Version: 0.147.8
+Version: 0.147.9
 Priority: optional
 Maintainer: Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>
-Installed-Size: 49788
-Filename: ./office/hugo/hugo_0.147.8_arm64.deb
-Size: 18024548
-MD5sum: 8adfdc887547801402aa8d4bd4704283
-SHA1: c7be8f8a1aabe5fcbecac7767773abf4a5d86c50
-SHA256: c3a4c842a23ff43a463e15411ec9d9250dd5150be3ff85088b0904d25529ed5e
-SHA512: 6f204eca9901e3de525f368933639e6041d575c9b1c15122796e69e6926576e3255fd0f4b8076905a511cc153a4462737644ffd58c867de5ed1ab025d0fcbbe5
+Installed-Size: 49841
+Filename: ./office/hugo/hugo_0.147.9_arm64.deb
+Size: 18011684
+MD5sum: f5fa8ffe396ccaf2779c01528b8c5517
+SHA1: d124ecb1ca62c144d973f334b1cab972faa6881b
+SHA256: baa7cd7bf6d0af5a69b74a34cb3c54070293934ba6eba287c7ab66985784ca45
+SHA512: c60cfabe1694b4e681240ba0c22e17600faa06116fefcb48dae2f734fb76361d6cf4b798bfef1acf1ece94c4613890827586e0c8595bebcc7c87a544d92003bd
 Homepage: https://github.com/gohugoio/hugo
 Description: A fast and flexible Static Site Generator written in Go.
 

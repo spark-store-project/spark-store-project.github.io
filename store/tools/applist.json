@@ -1,21 +1,20 @@
 [
 {
-  "Name": "星火应用管理器",
-  "Version": "0.0.12",
-  "Filename": "com.github.ccc-app-manager_0.0.12_amd64.deb",
-  "Torrent_address": "com.github.ccc-app-manager_0.0.12_amd64.deb.torrent",
-  "Pkgname": "com.github.ccc-app-manager",
-  "Author": "keke <243768648@qq.com>",
-  "Contributor": "keke <243768648@qq.com>",
-  "Website": "https://gitee.com/ct243768648/ccc-app-manager",
-  "Update": "2024-07-15 21:04:48",
-  "Size": "186.39 KB",
-  "More": "应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包\n-------------------------------------\n新增：\n1、打开下载目录定位到已经下载的文件；\n修复：\n1、使用【离线获取安装包（带依赖）】生成的deb安装后快捷方式没有图标。",
-  "Tags": "ubuntu;deepin;uos;dtk5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/ba65b5927361498d939db7faff377e42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/ff5e704458ec410987ab0b8ee6fe289d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/546ce1bf64834c3c9978acebf942f494.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/c552baf88dd04ff8b896a07cf8692057.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/15/8ceca1de06cf43a8a2437c4dc03848a6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/15/edf963c16b1c483fa6ba895078b33a9a.png"
+    "Name": "星火应用管理器",
+    "Version": "0.0.12-1",
+    "Filename": "com.github.ccc-app-manager_0.0.12-1_amd64.deb",
+    "Torrent_address": "com.github.ccc-app-manager_0.0.12-1_amd64.deb.torrent",
+    "Pkgname": "com.github.ccc-app-manager",
+    "Author": "keke <243768648@qq.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/spark-store-project/ccc-app-manager",
+    "Update": "2025-06-23 23:34:12",
+    "Size": "192.57 KB",
+    "More": "应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包\n-------------------------------------\n新增：\n1、打开下载目录定位到已经下载的文件；\n修复：\n1、使用【离线获取安装包（带依赖）】生成的deb安装后快捷方式没有图标。",
+    "Tags": "debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/23/7c131431cf1a407c9333907d7bc39ebe.png\",\"https://spk-json.spark-app.store/images/2025/06/23/fcf9b315655a4cb4821bcaa4154be7c6.png\",\"https://spk-json.spark-app.store/images/2025/06/23/7db55314daae44f4a419bb5698f2d58e.png\",\"https://spk-json.spark-app.store/images/2025/06/23/5e880802cacd46479607d16a272d3eb4.png\",\"https://spk-json.spark-app.store/images/2025/06/23/6a8598bd5bb745488f41485de705a8d2.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/23/552c8c5bed0d4d81ad17df998a52e281.png"
 }
-
 ,
 {
   "Name": "UEngine运行器 2.2.1",
@@ -719,6 +718,23 @@
 
 ,
 {
+  "Name": "RustDesk",
+  "Author": "rustdesk <info@rustdesk.com>",
+  "Website": "https://rustdesk.com",
+  "More": "RustDesk是开源远程桌面软件,开箱即用,无需任何配置,而且有实验性Wayland支持(但是高度依赖XWayland)。",
+  "Tags": "debian;community;ubuntu;deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/rustdesk/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/rustdesk/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/rustdesk/screen_3.png\"]",
+  "icons": "https://spk-json.spark-app.store/store/tools/rustdesk/icon.png",
+  "Pkgname": "rustdesk",
+  "Version": "1.4.0",
+  "Filename": "rustdesk_1.4.0_amd64.deb",
+  "Update": "2025-05-13 01:38:08",
+  "Size": "20.54MB",
+  "Contributor": "https://gitee.com/spark-building-service/github"
+}
+
+,
+{
   "Name": "deepin-prime",
   "Version": "1.0.3",
   "Filename": "deepin-prime_1.0.3_amd64.deb",
@@ -733,23 +749,6 @@
   "Tags": "deepin;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/5689c4c0d5d44cb6a2bcc975890ca0e9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/f81216d19d674f18a06b862b02bee1a5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/f2688a4a8a3a4b4d8f1194965331fe93.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/09/68c6fbb3f1d341d98fcdcdfc696e7bcb.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/09/7a8c37b0d55e47dcb368f6242f8c471d.png"
-}
-
-,
-{
-  "Name": "RustDesk",
-  "Author": "rustdesk <info@rustdesk.com>",
-  "Website": "https://rustdesk.com",
-  "More": "RustDesk是开源远程桌面软件,开箱即用,无需任何配置,而且有实验性Wayland支持(但是高度依赖XWayland)。",
-  "Tags": "debian;community;ubuntu;deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/rustdesk/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/rustdesk/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/rustdesk/screen_3.png\"]",
-  "icons": "https://spk-json.spark-app.store/store/tools/rustdesk/icon.png",
-  "Pkgname": "rustdesk",
-  "Version": "1.4.0",
-  "Filename": "rustdesk_1.4.0_amd64.deb",
-  "Update": "2025-05-13 01:38:08",
-  "Size": "20.54MB",
-  "Contributor": "https://gitee.com/spark-building-service/github"
 }
 
 ,
@@ -969,15 +968,15 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.10.7-5.3.14_all.deb",
+    "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
     "More": "支持启动Wine\n修复 Scale 问题",
     "Name": "星火Wine应用启动器",
     "Pkgname": "spark-dwine-helper",
-    "Size": "281 Kb",
+    "Size": "450 Kb",
     "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "spark-dwine-helper_5.10.7-5.3.14_all.deb.torrent",
-    "Update": "2025-06-14 17:17:15",
-    "Version": "5.10.7-5.3.14",
+    "Torrent_address": "spark-dwine-helper_5.10.8-5.3.14_all.deb.torrent",
+    "Update": "2025-06-24 00:04:07",
+    "Version": "5.10.8-5.3.14",
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
@@ -1640,23 +1639,6 @@
 
 ,
 {
-  "Name": "TLP 设置",
-  "Version": "1.3.1-1",
-  "Filename": "python3-tlpui_1.3.1-1_all.deb",
-  "Pkgname": "python3-tlpui",
-  "Author": "Daniel Christophis",
-  "Contributor": "lidanger",
-  "Website": "https://github.com/d4nj1/TLPUI",
-  "Update": "2020-10-24 01:58:02",
-  "Size": "56.46 KB",
-  "More": "GTK UI for tlp (Python 3)",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1671,6 +1653,23 @@
   "Website": "ttps://gitee.com/deepin-community-store/web-packer",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "TLP 设置",
+  "Version": "1.3.1-1",
+  "Filename": "python3-tlpui_1.3.1-1_all.deb",
+  "Pkgname": "python3-tlpui",
+  "Author": "Daniel Christophis",
+  "Contributor": "lidanger",
+  "Website": "https://github.com/d4nj1/TLPUI",
+  "Update": "2020-10-24 01:58:02",
+  "Size": "56.46 KB",
+  "More": "GTK UI for tlp (Python 3)",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
 }
 
 ,
@@ -1852,6 +1851,24 @@
 
 ,
 {
+  "Name": "端口扫描(tcp)",
+  "Version": "0.1.3-20230910",
+  "Filename": "z-tools-scanport_0.1.3-20230910_amd64.deb",
+  "Torrent_address": "z-tools-scanport_0.1.3-20230910_amd64.deb.torrent",
+  "Pkgname": "z-tools-scanport",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/z-tools",
+  "Update": "2023-09-10 19:56:11",
+  "Size": "42.03 KB",
+  "More": "1. Tcp 端口扫描器\n\nv0.1.2: 新增无脑扫描本地端口\nv0.1.3: 新增扫描结果右键菜单",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/f09c514832014eedb03375e676a6ae5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/cd876cb9c61c4248a265d1d149fd3162.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/a9d4d996a778463d99399b398b3e6f5a.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/10/d551320198e3404da74572f059aa72a5.png"
+}
+
+,
+{
   "Name": "He3 开发者万能工具箱",
   "Version": "2.0.0",
   "Filename": "he3_2.0.0_amd64.deb",
@@ -1900,24 +1917,6 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/05/39b601f3e6564762bb2621175685ae7f.png\",\"https://spk-json.spark-app.store/images/2025/01/05/b745347c37fa447cb889788040f42703.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/05/0bde6b9bf8e94bec9faeb82f4f37973f.png"
-}
-
-,
-{
-  "Name": "端口扫描(tcp)",
-  "Version": "0.1.3-20230910",
-  "Filename": "z-tools-scanport_0.1.3-20230910_amd64.deb",
-  "Torrent_address": "z-tools-scanport_0.1.3-20230910_amd64.deb.torrent",
-  "Pkgname": "z-tools-scanport",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/z-tools",
-  "Update": "2023-09-10 19:56:11",
-  "Size": "42.03 KB",
-  "More": "1. Tcp 端口扫描器\n\nv0.1.2: 新增无脑扫描本地端口\nv0.1.3: 新增扫描结果右键菜单",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/f09c514832014eedb03375e676a6ae5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/cd876cb9c61c4248a265d1d149fd3162.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/a9d4d996a778463d99399b398b3e6f5a.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/10/d551320198e3404da74572f059aa72a5.png"
 }
 
 ,
@@ -2206,23 +2205,6 @@
 
 ,
 {
-  "Name": "radeontop",
-  "Version": "1.3-1",
-  "Filename": "radeontop_1.3-1_amd64.deb",
-  "Pkgname": "radeontop",
-  "Author": "clbr",
-  "Contributor": "RubbishZhYic",
-  "Website": "https://github.com/clbr/radeontop",
-  "Update": "2020-12-19 03:48:51",
-  "Size": "19.63 KB",
-  "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
-}
-
-,
-{
   "Name": "Debian 软件仓库分析工具",
   "Version": "0.0.18-20240818",
   "Filename": "com.gitee.zinface-debian-apt-analyzer_0.0.18-20240818_amd64.deb",
@@ -2237,6 +2219,23 @@
   "Tags": "community;ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/18/a31b2b7785d84284a576307aed6fb623.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/18/ca1336e54b1e444cbfac5aa639b8456f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/18/c8bea5d6fa0048c7928f0f9addd10f99.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/18/008e38bd97dd446a911894d04931eab0.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/18/d5f5f241f88745d68ed184dddfe96d04.png"
+}
+
+,
+{
+  "Name": "radeontop",
+  "Version": "1.3-1",
+  "Filename": "radeontop_1.3-1_amd64.deb",
+  "Pkgname": "radeontop",
+  "Author": "clbr",
+  "Contributor": "RubbishZhYic",
+  "Website": "https://github.com/clbr/radeontop",
+  "Update": "2020-12-19 03:48:51",
+  "Size": "19.63 KB",
+  "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
 }
 
 ,
@@ -2473,23 +2472,6 @@
 
 ,
 {
-  "Name": "DTK桌面便签",
-  "Version": "0.0.4_plus_spark3",
-  "Filename": "dtkstickynotes.spark_0.0.4_plus_spark3_amd64.deb",
-  "Pkgname": "dtkstickynotes.spark",
-  "Author": "RubbishZhYic",
-  "Contributor": "Spark",
-  "Website": "http://zhyic.tk",
-  "Update": "2021-02-19 11:01:05",
-  "Size": "274.4 KB",
-  "More": "一款用DTK5开发的桌面便签",
-  "Tags": "deepin;community;dtk5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9a259a60-725e-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9ec27b10-725e-11eb-b279-bf053debaf81.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/972dde30-725e-11eb-b279-bf053debaf81.png"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
@@ -2504,6 +2486,23 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
+}
+
+,
+{
+  "Name": "DTK桌面便签",
+  "Version": "0.0.4_plus_spark3",
+  "Filename": "dtkstickynotes.spark_0.0.4_plus_spark3_amd64.deb",
+  "Pkgname": "dtkstickynotes.spark",
+  "Author": "RubbishZhYic",
+  "Contributor": "Spark",
+  "Website": "http://zhyic.tk",
+  "Update": "2021-02-19 11:01:05",
+  "Size": "274.4 KB",
+  "More": "一款用DTK5开发的桌面便签",
+  "Tags": "deepin;community;dtk5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9a259a60-725e-11eb-b279-bf053debaf81.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/19/9ec27b10-725e-11eb-b279-bf053debaf81.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/19/972dde30-725e-11eb-b279-bf053debaf81.png"
 }
 
 ,
@@ -2778,24 +2777,6 @@
 
 ,
 {
-  "Name": "Podman Desktop",
-  "Version": "1.2.0",
-  "Filename": "podman-desktop_1.2.0_amd64.deb",
-  "Torrent_address": "podman-desktop_1.2.0_amd64.deb.torrent",
-  "Pkgname": "podman-desktop",
-  "Author": "懵仙兔兔 <acgm@qq.com>",
-  "Contributor": "rainoffallingstar <15860147513@163.com>",
-  "Website": "https://github.com/containers/podman-desktop",
-  "Update": "2023-07-15 16:21:04",
-  "Size": "80.93 MB",
-  "More": "Podman Desktop 是一个图形界面工具，使应用程序开发人员能够无缝地使用容器和 Kubernetes。\n\nPodman Desktop 在您的本地环境中安装、配置 Podman 并使 Podman 保持最新。它提供了一个系统托盘，用于检查状态并与您的容器引擎交互，而不会失去对其他任务的关注。桌面应用程序提供了一个仪表板来与容器、图像、pod 和卷进行交互，还可以使用 OCI 注册表和网络设置来配置您的环境。Podman Desktop 还提供将 pod 连接和部署到 Kubernetes 环境的功能。\n\nPodman Desktop 还支持多种容器引擎，选择你最喜欢的并使用该工具！",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
-}
-
-,
-{
   "Name": "GeoGebra Classic 5 经典",
   "Version": "5.0.668.0-3930",
   "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
@@ -2810,6 +2791,24 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
+}
+
+,
+{
+  "Name": "Podman Desktop",
+  "Version": "1.2.0",
+  "Filename": "podman-desktop_1.2.0_amd64.deb",
+  "Torrent_address": "podman-desktop_1.2.0_amd64.deb.torrent",
+  "Pkgname": "podman-desktop",
+  "Author": "懵仙兔兔 <acgm@qq.com>",
+  "Contributor": "rainoffallingstar <15860147513@163.com>",
+  "Website": "https://github.com/containers/podman-desktop",
+  "Update": "2023-07-15 16:21:04",
+  "Size": "80.93 MB",
+  "More": "Podman Desktop 是一个图形界面工具，使应用程序开发人员能够无缝地使用容器和 Kubernetes。\n\nPodman Desktop 在您的本地环境中安装、配置 Podman 并使 Podman 保持最新。它提供了一个系统托盘，用于检查状态并与您的容器引擎交互，而不会失去对其他任务的关注。桌面应用程序提供了一个仪表板来与容器、图像、pod 和卷进行交互，还可以使用 OCI 注册表和网络设置来配置您的环境。Podman Desktop 还提供将 pod 连接和部署到 Kubernetes 环境的功能。\n\nPodman Desktop 还支持多种容器引擎，选择你最喜欢的并使用该工具！",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
 }
 
 ,
@@ -2864,24 +2863,6 @@
 
 ,
 {
-  "Name": "安卓信息查看器(adb)",
-  "Version": "0.1.1-20230817",
-  "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
-  "Torrent_address": "z-tools-adbmanager_0.1.1-20230817_amd64.deb.torrent",
-  "Pkgname": "z-tools-adbmanager",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/z-tools",
-  "Update": "2023-08-17 14:42:59",
-  "Size": "38.67 KB",
-  "More": "Linux toolbox under development",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
-}
-
-,
-{
   "Name": "TTime",
   "Version": "0.9.2",
   "Filename": "time-translate_0.9.2_amd64.deb",
@@ -2896,6 +2877,24 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/e2a6463e67684e2cb0057f9036cdce05.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/afccedfc52d24b7d8334615d38718062.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/69a1f508988c499ea38bde8992a9501a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/a55f26a5adbe437b9eb2364058a9114b.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/58d929564fe54b7b9abaa43011e07e5b.png"
+}
+
+,
+{
+  "Name": "安卓信息查看器(adb)",
+  "Version": "0.1.1-20230817",
+  "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
+  "Torrent_address": "z-tools-adbmanager_0.1.1-20230817_amd64.deb.torrent",
+  "Pkgname": "z-tools-adbmanager",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/z-tools",
+  "Update": "2023-08-17 14:42:59",
+  "Size": "38.67 KB",
+  "More": "Linux toolbox under development",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
 }
 
 ,
@@ -2935,24 +2934,6 @@
 
 ,
 {
-  "Name": "deepin 计算器",
-  "Version": "6.0.1",
-  "Filename": "deepin-calculator_6.0.1_amd64.deb",
-  "Torrent_address": "deepin-calculator_6.0.1_amd64.deb.torrent",
-  "Pkgname": "deepin-calculator",
-  "Author": "Deepin Packages Builder <packages@deepin.org>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "http://www.deepin.org",
-  "Update": "2024-07-27 17:53:37",
-  "Size": "965.73 KB",
-  "More": "deepin 计算器 for dtk5.4 移植",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c03acc06a6d74fe59be63144592bcae8.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/db44377bb2614f2b973e19201b4dd8f8.png"
-}
-
-,
-{
   "Name": "中州韵98五笔套件",
   "Version": "1.0.5",
   "Filename": "rime98wb_1.0.5_amd64.deb",
@@ -2967,6 +2948,24 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/52346f20-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5236e020-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5237f190-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5235a7a0-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5238b4e0-ca70-11ee-b382-01f3b3a087f2.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/13/3f5a3b50-ca70-11ee-b382-01f3b3a087f2.png"
+}
+
+,
+{
+  "Name": "deepin 计算器",
+  "Version": "6.0.1",
+  "Filename": "deepin-calculator_6.0.1_amd64.deb",
+  "Torrent_address": "deepin-calculator_6.0.1_amd64.deb.torrent",
+  "Pkgname": "deepin-calculator",
+  "Author": "Deepin Packages Builder <packages@deepin.org>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "http://www.deepin.org",
+  "Update": "2024-07-27 17:53:37",
+  "Size": "965.73 KB",
+  "More": "deepin 计算器 for dtk5.4 移植",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c03acc06a6d74fe59be63144592bcae8.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/db44377bb2614f2b973e19201b4dd8f8.png"
 }
 
 ,
@@ -3803,24 +3802,6 @@
 
 ,
 {
-  "Name": "Mathpix",
-  "Version": "3.00.0093",
-  "Filename": "mathpix-spark_3.00.0093_amd64.deb",
-  "Torrent_address": "mathpix-spark_3.00.0093_amd64.deb.torrent",
-  "Pkgname": "mathpix-spark",
-  "Author": "spark-store",
-  "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-  "Website": "https://mathpix.com/",
-  "Update": "2023-02-28 18:30:59",
-  "Size": "127.37 MB",
-  "More": "Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.",
-  "Tags": "a2d;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0ecab54b5f5a4443a171cdc862470dd6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/29a5882b5a394a7d90d508455c0789c4.png"
-}
-
-,
-{
   "Name": "Sunshine",
   "Version": "2025.122.141614",
   "Filename": "sunshine_2025.122.141614_amd64.deb",
@@ -3835,6 +3816,24 @@
   "Tags": "community;ubuntu;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/07/c6fdcfd9e7114024aa3c713a591db991.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/02/07/291783992b9e4b3786d4254e4579742e.png"
+}
+
+,
+{
+  "Name": "Mathpix",
+  "Version": "3.00.0093",
+  "Filename": "mathpix-spark_3.00.0093_amd64.deb",
+  "Torrent_address": "mathpix-spark_3.00.0093_amd64.deb.torrent",
+  "Pkgname": "mathpix-spark",
+  "Author": "spark-store",
+  "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+  "Website": "https://mathpix.com/",
+  "Update": "2023-02-28 18:30:59",
+  "Size": "127.37 MB",
+  "More": "Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more, with our AI powered document conversion technology.",
+  "Tags": "a2d;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/0ecab54b5f5a4443a171cdc862470dd6.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/29a5882b5a394a7d90d508455c0789c4.png"
 }
 
 ,
@@ -4198,6 +4197,23 @@
 
 ,
 {
+    "Name": "小Q工具箱",
+    "Version": "2.04",
+    "Filename": "xiaoq-tools_2.04_all.deb",
+    "Torrent_address": "xiaoq-tools_2.04_all.deb.torrent",
+    "Pkgname": "xiaoq-tools",
+    "Author": "fb93<fb93@fb93.com>",
+    "Contributor": "fb93<fb93@fb93.com>",
+    "Website": "https://gitee.com/seeker_ok",
+    "Update": "2025-06-19 19:58:10",
+    "Size": "1.34 MB",
+    "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统(支持amd64与arm64系统).\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n1、修复权限的问题。 \n2、增加删除了文件列表显示 \n3、增加检测版本功能 \n4、增加防止删除系统备份目录/backup提示 \n5、增加检测版本功能 ，检测是否为最新的版本 \n6、本次优化检测版本功能，解决部分国产电脑无法使用的问题。\n7、优化MimeType，减少重复。",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/19/6b0a1b595805489eb2c301a76861de8c.png\",\"https://spk-json.spark-app.store/images/2025/06/19/07f7722581d347ac8b9f973ce81f3270.png\",\"https://spk-json.spark-app.store/images/2025/06/19/f7b987171d3a46edb2d2589af0798fec.png\",\"https://spk-json.spark-app.store/images/2025/06/19/3ebcc87295dc476b9842c4c9c37bd5e5.png\",\"https://spk-json.spark-app.store/images/2025/06/19/d1ef73a9052c406b860501023260448a.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/19/ee8e085da7f54ce9b75fb6a6e9317609.png"
+}
+,
+{
   "Name": "文件加密",
   "Version": "1.1",
   "Filename": "mycrypto_1.1_amd64.deb",
@@ -4250,23 +4266,6 @@
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/30/67a3bf5bfdfc4ce28600bc3afe36e7d9.png"
 }
 
-,
-{
-    "Name": "小Q工具箱",
-    "Version": "2.04",
-    "Filename": "xiaoq-tools_2.04_all.deb",
-    "Torrent_address": "xiaoq-tools_2.04_all.deb.torrent",
-    "Pkgname": "xiaoq-tools",
-    "Author": "fb93<fb93@fb93.com>",
-    "Contributor": "fb93<fb93@fb93.com>",
-    "Website": "https://gitee.com/seeker_ok",
-    "Update": "2025-06-19 19:58:10",
-    "Size": "1.34 MB",
-    "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统(支持amd64与arm64系统).\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n1、修复权限的问题。 \n2、增加删除了文件列表显示 \n3、增加检测版本功能 \n4、增加防止删除系统备份目录/backup提示 \n5、增加检测版本功能 ，检测是否为最新的版本 \n6、本次优化检测版本功能，解决部分国产电脑无法使用的问题。\n7、优化MimeType，减少重复。",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/19/6b0a1b595805489eb2c301a76861de8c.png\",\"https://spk-json.spark-app.store/images/2025/06/19/07f7722581d347ac8b9f973ce81f3270.png\",\"https://spk-json.spark-app.store/images/2025/06/19/f7b987171d3a46edb2d2589af0798fec.png\",\"https://spk-json.spark-app.store/images/2025/06/19/3ebcc87295dc476b9842c4c9c37bd5e5.png\",\"https://spk-json.spark-app.store/images/2025/06/19/d1ef73a9052c406b860501023260448a.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/19/ee8e085da7f54ce9b75fb6a6e9317609.png"
-}
 ,
 {
   "Name": "magnetw",
@@ -4979,6 +4978,24 @@
 
 ,
 {
+  "Name": "局域网IP扫描器",
+  "Version": "1.0",
+  "Filename": "ip-scanner_1.0_amd64.deb",
+  "Torrent_address": "ip-scanner_1.0_amd64.deb.torrent",
+  "Pkgname": "ip-scanner",
+  "Author": "liuminghang <liuminghang0821@gmail.com>",
+  "Contributor": "depend <523633637@qq.com>",
+  "Website": "https://github.com/dependon/ip_scanner",
+  "Update": "2025-04-17 17:30:39",
+  "Size": "18.41 MB",
+  "More": "扫描网段上存在的，能够ping通的IP地址",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/17/207e908eb8aa4be1b64e79b10656a779.png\",\"https://spk-json.spark-app.store/images/2025/04/17/a2d11facbaf24b07b175480108880ede.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/17/bc87e9181d3c478ea7f7a2a3496adda3.png"
+}
+
+,
+{
   "Name": "催化剂加",
   "Version": "2.2.0",
   "Filename": "catalystplus-desktop_2.2.0_amd64.deb",
@@ -5047,24 +5064,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/07/50e0f22e5ce54bbd8d013f221e35256f.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/07/ccecd492599f4b96a1390c54fdafb719.png"
-}
-
-,
-{
-  "Name": "局域网IP扫描器",
-  "Version": "1.0",
-  "Filename": "ip-scanner_1.0_amd64.deb",
-  "Torrent_address": "ip-scanner_1.0_amd64.deb.torrent",
-  "Pkgname": "ip-scanner",
-  "Author": "liuminghang <liuminghang0821@gmail.com>",
-  "Contributor": "depend <523633637@qq.com>",
-  "Website": "https://github.com/dependon/ip_scanner",
-  "Update": "2025-04-17 17:30:39",
-  "Size": "18.41 MB",
-  "More": "扫描网段上存在的，能够ping通的IP地址",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/17/207e908eb8aa4be1b64e79b10656a779.png\",\"https://spk-json.spark-app.store/images/2025/04/17/a2d11facbaf24b07b175480108880ede.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/17/bc87e9181d3c478ea7f7a2a3496adda3.png"
 }
 
 ,

@@ -251,15 +251,15 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.10.7-5.3.14_all.deb",
+    "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
     "More": "支持启动Wine\n修复 Scale 问题",
     "Name": "星火Wine应用启动器",
     "Pkgname": "spark-dwine-helper",
-    "Size": "281 Kb",
+    "Size": "450 Kb",
     "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "spark-dwine-helper_5.10.7-5.3.14_all.deb.torrent",
-    "Update": "2025-06-14 17:17:15",
-    "Version": "5.10.7-5.3.14",
+    "Torrent_address": "spark-dwine-helper_5.10.8-5.3.14_all.deb.torrent",
+    "Update": "2025-06-24 00:04:07",
+    "Version": "5.10.8-5.3.14",
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
@@ -999,6 +999,24 @@
 
 ,
 {
+  "Author": "gfdgd_xi <3025613752@qq.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
+  "More": "GXDE 软件包安装器",
+  "Name": "GXDE 软件包安装器",
+  "Pkgname": "gxde-deb-installer",
+  "Size": "183 Kb",
+  "Tags": "community;deepin;ubuntu;debian;native",
+  "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
+  "Update": "2025-03-04 22:34:10",
+  "Version": "1.5.3",
+  "Website": "https://www.deepin.com/",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
+}
+
+,
+{
   "Author": "Deepin Packages Builder <packages@deepin.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "deepin-terminal-gtk_5.0.4.3gxde2_arm64.deb",
@@ -1067,24 +1085,6 @@
   "Website": "https://www.phytium.com.cn/developer/39/",
   "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
-}
-
-,
-{
-  "Author": "gfdgd_xi <3025613752@qq.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
-  "More": "GXDE 软件包安装器",
-  "Name": "GXDE 软件包安装器",
-  "Pkgname": "gxde-deb-installer",
-  "Size": "183 Kb",
-  "Tags": "community;deepin;ubuntu;debian;native",
-  "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
-  "Update": "2025-03-04 22:34:10",
-  "Version": "1.5.3",
-  "Website": "https://www.deepin.com/",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
 }
 
 ,
@@ -1683,24 +1683,6 @@
 
 ,
 {
-  "Author": "https://app.lizardbyte.dev",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "sunshine_2025.122.141614_arm64.deb",
-  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
-  "Name": "Sunshine",
-  "Pkgname": "sunshine",
-  "Size": "7432 Kb",
-  "Tags": "community;ubuntu;native",
-  "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
-  "Update": "2025-02-07 11:12:49",
-  "Version": "2025.122.141614",
-  "Website": "https://app.lizardbyte.dev/Sunshine",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
-}
-
-,
-{
   "Author": "gfdgd_xi <3025613752@qq.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-terminal_5.0.5_arm64.deb",
@@ -1715,6 +1697,24 @@
   "Website": "https://github.com/linuxdeepin/gxde-terminal",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-terminal/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-terminal/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "https://app.lizardbyte.dev",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "sunshine_2025.122.141614_arm64.deb",
+  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
+  "Name": "Sunshine",
+  "Pkgname": "sunshine",
+  "Size": "7432 Kb",
+  "Tags": "community;ubuntu;native",
+  "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
+  "Update": "2025-02-07 11:12:49",
+  "Version": "2025.122.141614",
+  "Website": "https://app.lizardbyte.dev/Sunshine",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
 }
 
 ,
@@ -1987,24 +1987,6 @@
 }
 ,
 {
-    "Author": "shenmo <ouyangyunrui@uniontech.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb",
-    "More": "种子编辑器是一款好用的BT种子编辑器\n选择一个种子文件或包含种子文件的文件夹。\n同时添加一个或多个追踪器。\n同时移除一个或多个追踪器。\n移除所有追踪器以创建无追踪器的种子。DHT种子\n改变公共/私有标记。注意：这将改变种子信息的哈希值。\n当与可执行文件位于同一文件夹中时，通过add_trackers.txt和remove_trackers.txt文件预设添加/移除追踪器。（对于Linux snap版本，请使用：home/snap/bittorrent-tracker-editor/common/）\n可选以控制台程序形式启动。（请参阅下载文件中的readme.txt）\n显示种子文件内容。\n从newTrackon或ngosang下载稳定的追踪器。",
-    "Name": "种子编辑器 BT Tracker Editor",
-    "Pkgname": "com.github.gerryfredinandus.bittorrent-tracker-editor",
-    "Size": "869 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb.torrent",
-    "Update": "2025-01-14 01:33:54",
-    "Version": "1.33.0.beta.6",
-    "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
-}
-
-,
-{
     "Author": "skyyx2002 <mzldkj@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "skydisktest_1.01-1fix_arm64.deb",
@@ -2019,6 +2001,24 @@
     "Website": "none",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <ouyangyunrui@uniontech.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb",
+    "More": "种子编辑器是一款好用的BT种子编辑器\n选择一个种子文件或包含种子文件的文件夹。\n同时添加一个或多个追踪器。\n同时移除一个或多个追踪器。\n移除所有追踪器以创建无追踪器的种子。DHT种子\n改变公共/私有标记。注意：这将改变种子信息的哈希值。\n当与可执行文件位于同一文件夹中时，通过add_trackers.txt和remove_trackers.txt文件预设添加/移除追踪器。（对于Linux snap版本，请使用：home/snap/bittorrent-tracker-editor/common/）\n可选以控制台程序形式启动。（请参阅下载文件中的readme.txt）\n显示种子文件内容。\n从newTrackon或ngosang下载稳定的追踪器。",
+    "Name": "种子编辑器 BT Tracker Editor",
+    "Pkgname": "com.github.gerryfredinandus.bittorrent-tracker-editor",
+    "Size": "869 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb.torrent",
+    "Update": "2025-01-14 01:33:54",
+    "Version": "1.33.0.beta.6",
+    "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
 }
 
 ,

@@ -971,24 +971,6 @@
 
 ,
 {
-  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
-  "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-  "Name": "搜狗输入法UOS版小语种",
-  "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
-  "Size": "171 Mb",
-  "Tags": "uos;native",
-  "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
-  "Update": "2023-06-11 12:16:47",
-  "Version": "1.0.0",
-  "Website": "http://pinyin.sogou.com/linux",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_4.png\"]"
-}
-
-,
-{
   "Author": "shenmo<shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "ofdview_1.0_all.deb",
@@ -1003,6 +985,24 @@
   "Website": "http://www.cnofd.cn/home.html",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/office/ofdview/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
+  "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+  "Name": "搜狗输入法UOS版小语种",
+  "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
+  "Size": "171 Mb",
+  "Tags": "uos;native",
+  "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
+  "Update": "2023-06-11 12:16:47",
+  "Version": "1.0.0",
+  "Website": "http://pinyin.sogou.com/linux",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_4.png\"]"
 }
 
 ,
@@ -1384,21 +1384,20 @@
 
 ,
 {
-  "Name": "hugo-extended 博客程序",
-  "Author": "Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
-  "Website": "https://github.com/gohugoio/hugo",
-  "More": "The world’s fastest framework for building websites",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/office/hugo/screen_1.png\"]",
-  "icons": "https://spk-json.spark-app.store/store/office/hugo/icon.png",
-  "Pkgname": "hugo",
-  "Version": "0.147.8",
-  "Filename": "hugo_0.147.8_arm64.deb",
-  "Update": "2025-06-08 01:45:01",
-  "Size": "18.02MB",
-  "Contributor": "https://gitee.com/spark-building-service/github"
+    "Name": "hugo-extended 博客程序",
+    "Author": "Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
+    "Website": "https://github.com/gohugoio/hugo",
+    "More": "The world’s fastest framework for building websites",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/office/hugo/screen_1.png\"]",
+    "icons": "https://spk-json.spark-app.store/store/office/hugo/icon.png",
+    "Pkgname": "hugo",
+    "Version": "0.147.9",
+    "Filename": "hugo_0.147.9_arm64.deb",
+    "Update": "2025-06-24 01:37:39",
+    "Size": "18.01MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
 }
-
 ,
 {
     "Author": "shenmo <shenmo@spark-app.store>",

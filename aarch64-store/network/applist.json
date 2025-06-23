@@ -860,21 +860,6 @@
 
 ,
 {
-    "Name": "哔哩下载姬(跨平台版)",
-    "Author": "28655758+yaobiao131@users.noreply.github.com",
-    "Website": "https://github.com/yaobiao131/downkyicore",
-    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
-    "Pkgname": "downkyi",
-    "Version": "1.0.20",
-    "Filename": "downkyi_1.0.20_arm64.deb",
-    "Update": "2025-05-11 01:43:14",
-    "Size": "39.00MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
-,
-{
   "Author": "linglongsha <499918911@qq.com>",
   "Contributor": "linglongsha <499918911@qq.com>",
   "Filename": "com.github.floorp_11.22.0_arm64.deb",
@@ -891,6 +876,21 @@
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.github.floorp/screen_1.png\"]"
 }
 
+,
+{
+    "Name": "哔哩下载姬(跨平台版)",
+    "Author": "28655758+yaobiao131@users.noreply.github.com",
+    "Website": "https://github.com/yaobiao131/downkyicore",
+    "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
+    "Pkgname": "downkyi",
+    "Version": "1.0.20",
+    "Filename": "downkyi_1.0.20_arm64.deb",
+    "Update": "2025-05-11 01:43:14",
+    "Size": "39.00MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
 ,
 {
   "Author": "Oray <dev@oray.com>",
@@ -1001,24 +1001,6 @@
 
 ,
 {
-    "Name": "frpc（frp 客户端）",
-    "Version": "0.62.1-1",
-    "Filename": "frpc_0.62.1-1_arm64.deb",
-    "Torrent_address": "frpc_0.62.1-1_arm64.deb.torrent",
-    "Pkgname": "frpc",
-    "Author": "wcbing <i@wcbing.top>",
-    "Contributor": "wcbing <i@wcbing.top>",
-    "Website": "https://github.com/wcbing/frp-debs",
-    "Update": "2025-04-30 17:47:05",
-    "Size": "3.7M",
-    "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
-    "Tags": "ubuntu;deepin;uos;debian;community",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frpc/icon.png"
-}
-
-,
-{
   "Author": "sgb76 <sgb76@163.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
@@ -1033,6 +1015,24 @@
   "Website": "https://github.com/chenhb23/lanzouyun-disk",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_3.png\"]"
+}
+
+,
+{
+    "Name": "frpc（frp 客户端）",
+    "Version": "0.62.1-1",
+    "Filename": "frpc_0.62.1-1_arm64.deb",
+    "Torrent_address": "frpc_0.62.1-1_arm64.deb.torrent",
+    "Pkgname": "frpc",
+    "Author": "wcbing <i@wcbing.top>",
+    "Contributor": "wcbing <i@wcbing.top>",
+    "Website": "https://github.com/wcbing/frp-debs",
+    "Update": "2025-04-30 17:47:05",
+    "Size": "3.7M",
+    "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frpc/icon.png"
 }
 
 ,
@@ -1163,24 +1163,6 @@
 
 ,
 {
-  "Author": "良师多媒体工作室",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.gzdltgyx.earth.deepin_1.0.0_all.deb",
-  "More": ".高中地理通关游戏――宇宙中的地球将宇宙中的地球这一章的主干知识、重难点知识等内容以通关游戏的形式制作成了交互动画。本游戏总共包含10个小游戏，游戏的操作可分为拼图、判断和填空等方式。",
-  "Name": "高中地理通关游戏 宇宙中的地球",
-  "Pkgname": "com.gzdltgyx.earth.deepin",
-  "Size": "81 Mb",
-  "Tags": "deepin;uos;dwine5;debian",
-  "Torrent_address": "com.gzdltgyx.earth.deepin_1.0.0_all.deb.torrent",
-  "Update": "2024-07-02 15:08:57",
-  "Version": "1.0.0",
-  "Website": "https://baoku.360.cn/soft/show/appid/102201010?channel=9510133",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_4.png\"]"
-}
-
-,
-{
   "Author": "wang",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "net.51.aorland.deepin_1.98deepin1_all.deb",
@@ -1195,6 +1177,24 @@
   "Website": "aorland.51.net",
   "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "良师多媒体工作室",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.gzdltgyx.earth.deepin_1.0.0_all.deb",
+  "More": ".高中地理通关游戏――宇宙中的地球将宇宙中的地球这一章的主干知识、重难点知识等内容以通关游戏的形式制作成了交互动画。本游戏总共包含10个小游戏，游戏的操作可分为拼图、判断和填空等方式。",
+  "Name": "高中地理通关游戏 宇宙中的地球",
+  "Pkgname": "com.gzdltgyx.earth.deepin",
+  "Size": "81 Mb",
+  "Tags": "deepin;uos;dwine5;debian",
+  "Torrent_address": "com.gzdltgyx.earth.deepin_1.0.0_all.deb.torrent",
+  "Update": "2024-07-02 15:08:57",
+  "Version": "1.0.0",
+  "Website": "https://baoku.360.cn/soft/show/appid/102201010?channel=9510133",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_4.png\"]"
 }
 
 ,
@@ -1217,24 +1217,6 @@
 
 ,
 {
-  "Author": "lon <lon83129@126.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
-  "More": "一个远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端。\n\n测试通过的平台：\n\nUOS 家庭版\nDeepin \nUbuntu 22.04.3 LTS",
-  "Name": "gwakeonlan",
-  "Pkgname": "gwakeonlan",
-  "Size": "134 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "Torrent_address": "gwakeonlan_0.8.5-3lon_all.deb.torrent",
-  "Update": "2023-12-02 11:34:12",
-  "Version": "0.8.5-3lon",
-  "Website": "https://www.muflone.com/gwakeonlan/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/gwakeonlan/icon.png",
-  "img_urls": "[]"
-}
-
-,
-{
   "Author": "zinface <zinface@163.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
@@ -1249,6 +1231,24 @@
   "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
   "icons": "https://spk-json.spark-app.store/store/network/torrent-file-editor/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/network/torrent-file-editor/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "lon <lon83129@126.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
+  "More": "一个远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端。\n\n测试通过的平台：\n\nUOS 家庭版\nDeepin \nUbuntu 22.04.3 LTS",
+  "Name": "gwakeonlan",
+  "Pkgname": "gwakeonlan",
+  "Size": "134 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "Torrent_address": "gwakeonlan_0.8.5-3lon_all.deb.torrent",
+  "Update": "2023-12-02 11:34:12",
+  "Version": "0.8.5-3lon",
+  "Website": "https://www.muflone.com/gwakeonlan/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/gwakeonlan/icon.png",
+  "img_urls": "[]"
 }
 
 ,

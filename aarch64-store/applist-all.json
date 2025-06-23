@@ -224,15 +224,15 @@
     {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "spark-dwine-helper_5.10.7-5.3.14_all.deb",
+      "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
       "More": "支持启动Wine\n修复 Scale 问题",
       "Name": "星火Wine应用启动器",
       "Pkgname": "spark-dwine-helper",
-      "Size": "281 Kb",
+      "Size": "450 Kb",
       "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "spark-dwine-helper_5.10.7-5.3.14_all.deb.torrent",
-      "Update": "2025-06-14 17:17:15",
-      "Version": "5.10.7-5.3.14",
+      "Torrent_address": "spark-dwine-helper_5.10.8-5.3.14_all.deb.torrent",
+      "Update": "2025-06-24 00:04:07",
+      "Version": "5.10.8-5.3.14",
       "Website": "https://gitee.com/deepin-community-store/spark-wine",
       "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
@@ -888,6 +888,22 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
     },
     {
+      "Author": "gfdgd_xi <3025613752@qq.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
+      "More": "GXDE 软件包安装器",
+      "Name": "GXDE 软件包安装器",
+      "Pkgname": "gxde-deb-installer",
+      "Size": "183 Kb",
+      "Tags": "community;deepin;ubuntu;debian;native",
+      "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
+      "Update": "2025-03-04 22:34:10",
+      "Version": "1.5.3",
+      "Website": "https://www.deepin.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
+    },
+    {
       "Author": "Deepin Packages Builder <packages@deepin.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "deepin-terminal-gtk_5.0.4.3gxde2_arm64.deb",
@@ -950,22 +966,6 @@
       "Website": "https://www.phytium.com.cn/developer/39/",
       "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
-    },
-    {
-      "Author": "gfdgd_xi <3025613752@qq.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
-      "More": "GXDE 软件包安装器",
-      "Name": "GXDE 软件包安装器",
-      "Pkgname": "gxde-deb-installer",
-      "Size": "183 Kb",
-      "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
-      "Update": "2025-03-04 22:34:10",
-      "Version": "1.5.3",
-      "Website": "https://www.deepin.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
     },
     {
       "Author": "海天鹰 <3025613752@qq.com>",
@@ -1496,22 +1496,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_2.png\"]"
     },
     {
-      "Author": "https://app.lizardbyte.dev",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "sunshine_2025.122.141614_arm64.deb",
-      "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
-      "Name": "Sunshine",
-      "Pkgname": "sunshine",
-      "Size": "7432 Kb",
-      "Tags": "community;ubuntu;native",
-      "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
-      "Update": "2025-02-07 11:12:49",
-      "Version": "2025.122.141614",
-      "Website": "https://app.lizardbyte.dev/Sunshine",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
-    },
-    {
       "Author": "gfdgd_xi <3025613752@qq.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "gxde-terminal_5.0.5_arm64.deb",
@@ -1526,6 +1510,22 @@
       "Website": "https://github.com/linuxdeepin/gxde-terminal",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-terminal/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-terminal/screen_1.png\"]"
+    },
+    {
+      "Author": "https://app.lizardbyte.dev",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "sunshine_2025.122.141614_arm64.deb",
+      "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
+      "Name": "Sunshine",
+      "Pkgname": "sunshine",
+      "Size": "7432 Kb",
+      "Tags": "community;ubuntu;native",
+      "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
+      "Update": "2025-02-07 11:12:49",
+      "Version": "2025.122.141614",
+      "Website": "https://app.lizardbyte.dev/Sunshine",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -1767,22 +1767,6 @@
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
-      "Author": "shenmo <ouyangyunrui@uniontech.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb",
-      "More": "种子编辑器是一款好用的BT种子编辑器\n选择一个种子文件或包含种子文件的文件夹。\n同时添加一个或多个追踪器。\n同时移除一个或多个追踪器。\n移除所有追踪器以创建无追踪器的种子。DHT种子\n改变公共/私有标记。注意：这将改变种子信息的哈希值。\n当与可执行文件位于同一文件夹中时，通过add_trackers.txt和remove_trackers.txt文件预设添加/移除追踪器。（对于Linux snap版本，请使用：home/snap/bittorrent-tracker-editor/common/）\n可选以控制台程序形式启动。（请参阅下载文件中的readme.txt）\n显示种子文件内容。\n从newTrackon或ngosang下载稳定的追踪器。",
-      "Name": "种子编辑器 BT Tracker Editor",
-      "Pkgname": "com.github.gerryfredinandus.bittorrent-tracker-editor",
-      "Size": "869 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb.torrent",
-      "Update": "2025-01-14 01:33:54",
-      "Version": "1.33.0.beta.6",
-      "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
-    },
-    {
       "Author": "skyyx2002 <mzldkj@qq.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "skydisktest_1.01-1fix_arm64.deb",
@@ -1797,6 +1781,22 @@
       "Website": "none",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_2.png\"]"
+    },
+    {
+      "Author": "shenmo <ouyangyunrui@uniontech.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb",
+      "More": "种子编辑器是一款好用的BT种子编辑器\n选择一个种子文件或包含种子文件的文件夹。\n同时添加一个或多个追踪器。\n同时移除一个或多个追踪器。\n移除所有追踪器以创建无追踪器的种子。DHT种子\n改变公共/私有标记。注意：这将改变种子信息的哈希值。\n当与可执行文件位于同一文件夹中时，通过add_trackers.txt和remove_trackers.txt文件预设添加/移除追踪器。（对于Linux snap版本，请使用：home/snap/bittorrent-tracker-editor/common/）\n可选以控制台程序形式启动。（请参阅下载文件中的readme.txt）\n显示种子文件内容。\n从newTrackon或ngosang下载稳定的追踪器。",
+      "Name": "种子编辑器 BT Tracker Editor",
+      "Pkgname": "com.github.gerryfredinandus.bittorrent-tracker-editor",
+      "Size": "869 Kb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb.torrent",
+      "Update": "2025-01-14 01:33:54",
+      "Version": "1.33.0.beta.6",
+      "Website": "https://github.com/GerryFerdinandus/bittorrent-tracker-editor",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.github.gerryfredinandus.bittorrent-tracker-editor/screen_3.png\"]"
     },
     {
       "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
@@ -5136,22 +5136,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/com.dream2024.linux/screen_1.png\"]"
     },
     {
-      "Author": "gfdgd xi <3025613752@qq.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb",
-      "More": "打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。\n\n如果游戏已经有存档，请点击游戏首页左上角木牌子新建用户，以进入一周目关卡1-1。\n游戏中可以按alt+enter全屏。\n\n欢迎用本修改器录视频/直播，但是请说明出处。\n祝玩得愉快！\nBilibili 北窗遥望",
-      "Name": "胆小菇之梦 第一大关（关卡1-1到关卡1-10）",
-      "Pkgname": "com.popcap.plants-vs-zombies.danxiaogudream",
-      "Size": "318 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb.torrent",
-      "Update": "2024-06-29 22:31:58",
-      "Version": "0.1spark0",
-      "Website": "https://space.bilibili.com/484494032",
-      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/games/com.popcap.plants-vs-zombies.danxiaogudream/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/games/com.popcap.plants-vs-zombies.danxiaogudream/screen_1.png\"]"
-    },
-    {
       "Author": "Deepin WINE Team",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.cchess2010.deepin_1.31.2010gxde12_all.deb",
@@ -5166,6 +5150,22 @@
       "Website": "https://www.wmzhe.com/soft-29403.html",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/com.cchess2010.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/com.cchess2010.deepin/screen_1.png\"]"
+    },
+    {
+      "Author": "gfdgd xi <3025613752@qq.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb",
+      "More": "打开游戏（首页，不进入关卡）和修改器，修改器出现“修改成功！”字样后，进入冒险模式即可。\n\n如果游戏已经有存档，请点击游戏首页左上角木牌子新建用户，以进入一周目关卡1-1。\n游戏中可以按alt+enter全屏。\n\n欢迎用本修改器录视频/直播，但是请说明出处。\n祝玩得愉快！\nBilibili 北窗遥望",
+      "Name": "胆小菇之梦 第一大关（关卡1-1到关卡1-10）",
+      "Pkgname": "com.popcap.plants-vs-zombies.danxiaogudream",
+      "Size": "318 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "com.popcap.plants-vs-zombies.danxiaogudream_0.1spark0_all.deb.torrent",
+      "Update": "2024-06-29 22:31:58",
+      "Version": "0.1spark0",
+      "Website": "https://space.bilibili.com/484494032",
+      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/games/com.popcap.plants-vs-zombies.danxiaogudream/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/games/com.popcap.plants-vs-zombies.danxiaogudream/screen_1.png\"]"
     },
     {
       "Author": "”daya” <”admin@yzzi.icu”>",
@@ -6305,22 +6305,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/mindmaster/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/mindmaster/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/mindmaster/screen_3.png\"]"
     },
     {
-      "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
-      "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-      "Name": "搜狗输入法UOS版小语种",
-      "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
-      "Size": "171 Mb",
-      "Tags": "uos;native",
-      "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
-      "Update": "2023-06-11 12:16:47",
-      "Version": "1.0.0",
-      "Website": "http://pinyin.sogou.com/linux",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_4.png\"]"
-    },
-    {
       "Author": "shenmo<shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "ofdview_1.0_all.deb",
@@ -6335,6 +6319,22 @@
       "Website": "http://www.cnofd.cn/home.html",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/office/ofdview/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/ofdview/screen_2.png\"]"
+    },
+    {
+      "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
+      "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+      "Name": "搜狗输入法UOS版小语种",
+      "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
+      "Size": "171 Mb",
+      "Tags": "uos;native",
+      "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
+      "Update": "2023-06-11 12:16:47",
+      "Version": "1.0.0",
+      "Website": "http://pinyin.sogou.com/linux",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-uos-tadict/screen_4.png\"]"
     },
     {
       "Author": "<zhuyanlong@uniontech.com>",
@@ -6676,14 +6676,14 @@
       "Author": "Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
       "Website": "https://github.com/gohugoio/hugo",
       "More": "The world’s fastest framework for building websites",
-      "Tags": "debian;ubuntu;deepin;native",
+      "Tags": "debian;ubuntu;deepin",
       "img_urls": "[\"https://spk-json.spark-app.store/store/office/hugo/screen_1.png\"]",
       "icons": "https://spk-json.spark-app.store/store/office/hugo/icon.png",
       "Pkgname": "hugo",
-      "Version": "0.147.8",
-      "Filename": "hugo_0.147.8_arm64.deb",
-      "Update": "2025-06-08 01:45:01",
-      "Size": "18.02MB",
+      "Version": "0.147.9",
+      "Filename": "hugo_0.147.9_arm64.deb",
+      "Update": "2025-06-24 01:37:39",
+      "Size": "18.01MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -7502,20 +7502,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/ctyunclouddeskuniversal/screen_1.png\"]"
     },
     {
-      "Name": "哔哩下载姬(跨平台版)",
-      "Author": "28655758+yaobiao131@users.noreply.github.com",
-      "Website": "https://github.com/yaobiao131/downkyicore",
-      "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
-      "Tags": "debian;ubuntu;deepin;uos",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
-      "Pkgname": "downkyi",
-      "Version": "1.0.20",
-      "Filename": "downkyi_1.0.20_arm64.deb",
-      "Update": "2025-05-11 01:43:14",
-      "Size": "39.00MB",
-      "Contributor": "https://gitee.com/spark-building-service/github"
-    },
-    {
       "Author": "linglongsha <499918911@qq.com>",
       "Contributor": "linglongsha <499918911@qq.com>",
       "Filename": "com.github.floorp_11.22.0_arm64.deb",
@@ -7530,6 +7516,20 @@
       "Website": "https://github.com/Floorp-Projects/Floorp",
       "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.github.floorp/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.github.floorp/screen_1.png\"]"
+    },
+    {
+      "Name": "哔哩下载姬(跨平台版)",
+      "Author": "28655758+yaobiao131@users.noreply.github.com",
+      "Website": "https://github.com/yaobiao131/downkyicore",
+      "More": "基于哔哩下载姬Windows版和AvaloniaUI制作的跨平台版本",
+      "Tags": "debian;ubuntu;deepin;uos",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/7359ae967f0c4545a838d373e310588c.png\",\"https://spk-json.spark-app.store/images/2025/01/01/e682ac754e6d47a893d7b00ef48e20b1.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f184269c37e548cbb101b3e1a811bcf9.png\"]",
+      "Pkgname": "downkyi",
+      "Version": "1.0.20",
+      "Filename": "downkyi_1.0.20_arm64.deb",
+      "Update": "2025-05-11 01:43:14",
+      "Size": "39.00MB",
+      "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
       "Author": "Oray <dev@oray.com>",
@@ -7628,22 +7628,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/sunloginremote/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/sunloginremote/screen_2.png\"]"
     },
     {
-      "Name": "frpc（frp 客户端）",
-      "Version": "0.62.1-1",
-      "Filename": "frpc_0.62.1-1_arm64.deb",
-      "Torrent_address": "frpc_0.62.1-1_arm64.deb.torrent",
-      "Pkgname": "frpc",
-      "Author": "wcbing <i@wcbing.top>",
-      "Contributor": "wcbing <i@wcbing.top>",
-      "Website": "https://github.com/wcbing/frp-debs",
-      "Update": "2025-04-30 17:47:05",
-      "Size": "3.7M",
-      "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
-      "Tags": "ubuntu;deepin;uos;debian;community",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_5.png\"]",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frpc/icon.png"
-    },
-    {
       "Author": "sgb76 <sgb76@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.lanzou.spark_3.4.8spark2_all.deb",
@@ -7658,6 +7642,22 @@
       "Website": "https://github.com/chenhb23/lanzouyun-disk",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_3.png\"]"
+    },
+    {
+      "Name": "frpc（frp 客户端）",
+      "Version": "0.62.1-1",
+      "Filename": "frpc_0.62.1-1_arm64.deb",
+      "Torrent_address": "frpc_0.62.1-1_arm64.deb.torrent",
+      "Pkgname": "frpc",
+      "Author": "wcbing <i@wcbing.top>",
+      "Contributor": "wcbing <i@wcbing.top>",
+      "Website": "https://github.com/wcbing/frp-debs",
+      "Update": "2025-04-30 17:47:05",
+      "Size": "3.7M",
+      "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
+      "Tags": "ubuntu;deepin;uos;debian;community",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_5.png\"]",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frpc/icon.png"
     },
     {
       "Name": "frps（frp 服务端）",
@@ -7772,22 +7772,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
     },
     {
-      "Author": "良师多媒体工作室",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.gzdltgyx.earth.deepin_1.0.0_all.deb",
-      "More": ".高中地理通关游戏――宇宙中的地球将宇宙中的地球这一章的主干知识、重难点知识等内容以通关游戏的形式制作成了交互动画。本游戏总共包含10个小游戏，游戏的操作可分为拼图、判断和填空等方式。",
-      "Name": "高中地理通关游戏 宇宙中的地球",
-      "Pkgname": "com.gzdltgyx.earth.deepin",
-      "Size": "81 Mb",
-      "Tags": "deepin;uos;dwine5;debian",
-      "Torrent_address": "com.gzdltgyx.earth.deepin_1.0.0_all.deb.torrent",
-      "Update": "2024-07-02 15:08:57",
-      "Version": "1.0.0",
-      "Website": "https://baoku.360.cn/soft/show/appid/102201010?channel=9510133",
-      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_4.png\"]"
-    },
-    {
       "Author": "wang",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "net.51.aorland.deepin_1.98deepin1_all.deb",
@@ -7802,6 +7786,22 @@
       "Website": "aorland.51.net",
       "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_2.png\"]"
+    },
+    {
+      "Author": "良师多媒体工作室",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.gzdltgyx.earth.deepin_1.0.0_all.deb",
+      "More": ".高中地理通关游戏――宇宙中的地球将宇宙中的地球这一章的主干知识、重难点知识等内容以通关游戏的形式制作成了交互动画。本游戏总共包含10个小游戏，游戏的操作可分为拼图、判断和填空等方式。",
+      "Name": "高中地理通关游戏 宇宙中的地球",
+      "Pkgname": "com.gzdltgyx.earth.deepin",
+      "Size": "81 Mb",
+      "Tags": "deepin;uos;dwine5;debian",
+      "Torrent_address": "com.gzdltgyx.earth.deepin_1.0.0_all.deb.torrent",
+      "Update": "2024-07-02 15:08:57",
+      "Version": "1.0.0",
+      "Website": "https://baoku.360.cn/soft/show/appid/102201010?channel=9510133",
+      "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.gzdltgyx.earth.deepin/screen_4.png\"]"
     },
     {
       "Author": "UnionTech <zhangzhonghui@uniontech.com>",
@@ -7820,22 +7820,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_5.png\"]"
     },
     {
-      "Author": "lon <lon83129@126.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
-      "More": "一个远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端。\n\n测试通过的平台：\n\nUOS 家庭版\nDeepin \nUbuntu 22.04.3 LTS",
-      "Name": "gwakeonlan",
-      "Pkgname": "gwakeonlan",
-      "Size": "134 Kb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Torrent_address": "gwakeonlan_0.8.5-3lon_all.deb.torrent",
-      "Update": "2023-12-02 11:34:12",
-      "Version": "0.8.5-3lon",
-      "Website": "https://www.muflone.com/gwakeonlan/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/gwakeonlan/icon.png",
-      "img_urls": "[]"
-    },
-    {
       "Author": "zinface <zinface@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
@@ -7850,6 +7834,22 @@
       "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
       "icons": "https://spk-json.spark-app.store/store/network/torrent-file-editor/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/network/torrent-file-editor/screen_1.png\"]"
+    },
+    {
+      "Author": "lon <lon83129@126.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
+      "More": "一个远程计算机唤醒小工具，基于  WakeOnLan 的 GTK+ 前端。\n\n测试通过的平台：\n\nUOS 家庭版\nDeepin \nUbuntu 22.04.3 LTS",
+      "Name": "gwakeonlan",
+      "Pkgname": "gwakeonlan",
+      "Size": "134 Kb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Torrent_address": "gwakeonlan_0.8.5-3lon_all.deb.torrent",
+      "Update": "2023-12-02 11:34:12",
+      "Version": "0.8.5-3lon",
+      "Website": "https://www.muflone.com/gwakeonlan/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/gwakeonlan/icon.png",
+      "img_urls": "[]"
     },
     {
       "Author": "shenmo<shenmo@spark-app.store>",
@@ -8640,22 +8640,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/sublime-merge/screen_1.png\"]"
     },
     {
-      "Author": "zinface <zinface@163.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "vscode-history-analyzer_0.0.2-20230308_arm64.deb",
-      "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
-      "Name": "VSCode 历史项目信息分析器",
-      "Pkgname": "vscode-history-analyzer",
-      "Size": "128 Kb",
-      "Tags": "community;debian;deepin;ubuntu",
-      "Torrent_address": "vscode-history-analyzer_0.0.2-20230308_arm64.deb.torrent",
-      "Update": "2023-03-08 22:32:05",
-      "Version": "0.0.2-20230308",
-      "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/vscode-history-analyzer/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/vscode-history-analyzer/screen_1.png\"]"
-    },
-    {
       "Author": "sgb76 <sgb76@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.github.skylark.spark_4.0.4spark1_all.deb",
@@ -8670,6 +8654,22 @@
       "Website": "https://github.com/adonais/skylark",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/com.github.skylark.spark/screen_3.png\"]"
+    },
+    {
+      "Author": "zinface <zinface@163.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "vscode-history-analyzer_0.0.2-20230308_arm64.deb",
+      "More": "一个可以帮助您了解 VSCode 历史项目信息的分析器",
+      "Name": "VSCode 历史项目信息分析器",
+      "Pkgname": "vscode-history-analyzer",
+      "Size": "128 Kb",
+      "Tags": "community;debian;deepin;ubuntu",
+      "Torrent_address": "vscode-history-analyzer_0.0.2-20230308_arm64.deb.torrent",
+      "Update": "2023-03-08 22:32:05",
+      "Version": "0.0.2-20230308",
+      "Website": "https://gitee.com/zinface/qt.vscode-history-analyzer",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/development/vscode-history-analyzer/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/development/vscode-history-analyzer/screen_1.png\"]"
     },
     {
       "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
