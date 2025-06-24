@@ -4784,27 +4784,6 @@ SHA512: 7572bc752732dc4460a2f7945eded654d941e56f43a56094bcacf583a80de5c1fd4a5830
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
-Package: spark-dwine-helper
-Architecture: all
-Version: 5.10.7-5.3.14
-Multi-Arch: foreign
-Priority: extra
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 668
-Provides: store.spark-app.spark-dwine-helper(=5.10.7-5.3.14)
-Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
-Recommends: python3-pyqt5
-Replaces: store.spark-app.spark-dwine-helper(<=5.10.7-5.3.14)
-Filename: ./tools/spark-dwine-helper/spark-dwine-helper_5.10.7-5.3.14_all.deb
-Size: 281044
-MD5sum: 803bb6777b21f687d11e7b3b0447c7bb
-SHA1: d0d83731f7c0b0f29bb25f9d03deef44ed63eaa8
-SHA256: ed468536ec07d108fdf91d0de0a451a0117327b024d846f0d2df5392a0263061
-SHA512: 9d8502d195bd671022703c55bbc3f7db069c8f1d650263758cc2f2c00d9f7010aa8e972d8bc612488a0cecf71540374799a78e824d68f2f19df35336785a8ffe
-Homepage: https://gitee.com/deepin-community-store/spark-wine
-Description: Spark Deepin Wine Helper
-
 Package: escrcpy
 Architecture: amd64
 Version: 1.29.6
@@ -35370,22 +35349,22 @@ Description: NFSBrowser - Web Browser
 
 Package: firefox-spark
 Architecture: amd64
-Version: 139.0.4
+Version: 140.0
 Priority: optional
 Section: web
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 214784
-Provides: x-www-browser,gnome-www-browser,firefox(=139.0.4)
+Provides: x-www-browser,gnome-www-browser,firefox(=140.0)
 Depends: libdbus-glib-1-2,zenity
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
-Filename: ./network/firefox-spark/firefox-spark_139.0.4_amd64.deb
-Size: 77472512
-MD5sum: 9358749f763abca25df59831d4aa04d4
-SHA1: 3552b7aec5300f7b107fa43894b512a045a6da0b
-SHA256: d5e64c249aa0a3b1fc21ce2e669489e7f0348dec20ce2d394e1010b5759ea1bb
-SHA512: d55b18f20d4f30b0d68a6c62346ffec4bbcaa22a5de2d0c1ed741ba809abe53793976eb9fa67e96eec53d07805dc3a4c840cfc2327403c51127013040a312c3d
+Filename: ./network/firefox-spark/firefox-spark_140.0_amd64.deb
+Size: 77757216
+MD5sum: c9f3720eca8655877295d968ba4fcd86
+SHA1: 26feffabc2e03a6a401f58ee506ff0d565b75e43
+SHA256: 7dbd0566ee1fec625e9b593ee08798ae1c2f17b444ab16bf073d0626cb6075de
+SHA512: 8d99aab65638e4d1439e2d8a9fe7ff5928685042f53f964533d644f19da08cbad8e251ec1e8da99bbce3ddb6b3aabc5e052c8033e8c6c0661390c6ecc2b9a9a3
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -41024,19 +41003,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: amd64
-Version: 3.2.18-36497
+Version: 3.2.18-36580
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 506151
+Installed-Size: 506153
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-36497_amd64.deb
-Size: 150691888
-MD5sum: 81e26a2705a0cce3016b59bc2e28aa38
-SHA1: 844f799a679ce9d14f860b0373a86a3cc29880d0
-SHA256: 77a2d51d94e58147c6016c648b16ebe7e949359a95b84cd79bae9e3e3e4832b4
-SHA512: 917b08c5898709577359cff47309d913455f6cd94d9a2ae6a53ce1454163885fc8ba6c5af5e16c78e58c5b638f678018bd8fa3ac5f536fe5132181e403ff13c6
+Filename: ./chat/linuxqq/linuxqq_3.2.18-36580_amd64.deb
+Size: 150677032
+MD5sum: a5fab4ff60b44ca570c64cb876b152f0
+SHA1: a99b9b19e464cba87c9503de3b85db2d55e69e24
+SHA256: c44c3ab44faa5fdd17412dded8c4ee75e50935fc76e61c20ab560544e1ea7e78
+SHA512: bc9e3265ad046ea9a8779d957728e893e124dbffcb40646aaa3e0273dc3d68fb92528374e96c32967bd767d02ab8563ec699839e9d7c4a73fabe82f886041f0d
 Homepage: https://im.qq.com
 Description: 
   QQ

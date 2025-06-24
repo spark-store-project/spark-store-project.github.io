@@ -756,6 +756,24 @@
 {
     "Author": "Careone <emacslocale@126.com>",
     "Contributor": "Careone <emacslocale@126.com>",
+    "Filename": "fonts-cjk-zh-mengshen_1.02-1_all.deb",
+    "More": "萌神拼音体 (Mengshen-Regular) 是用于学习中国汉字的一款字体，是使用思源宋体 和 M+ 字体进行改造而成的一款免费商用字体。这是一种用来帮助学生更快地学习 和阅读汉语的字体。\n在某些设计场景其实也挺实用的，特别是对教育类的设计比较有用。\n* 字体授权协议: SIL 1.1 开源字体许可证（注：可以免费商用）\n* 对简体/繁体中文支持良好。收录字形共 60151 个 (版本 1.02, 2020-12-19)。\n* 字体风格：中文汉字上面带拼音（注：如果是多音字，标注的拼音可能不准确）\n* ----\n* 字体版本 1.02 的新增功能：在部分文字编辑程序中，可以根据上下文， 智能判断多音字的读音;\n* ----\n字体版本 1.02 的注意事项、已知问题：\n* 在某些文字处理软件中 (如 gedit, leafpad, mousepad)，多音字能根据上下文， 自动标注正确的读音。如：学(校 xiao), (校 jiao)对；银(行 hang), (行 xing)为;\n* 而在另一些文字处理软件中 (如 WPS Office 11.1.0.9719, amd64)， 多音字可能无法显示正确的读音。如：学(校), (校)对————都标注为 xiao； 银(行), (行)为————都标注为 xing;\n* 如果多音字词组的中间，被空格或者其它字符隔断，则多音字的拼音标注可能不准确。\nMengshen Chinese Pinyin font, support Simplified/Traditional Chinese\nfont license: SIL 1.1 Open Font License, used for commercial purposes allowed.\n* font TTF family name: Mengshen-Regular (version 1.02, 2020-12-19)\n* 字体 TTF family 日文名: \"萌神 明朝体 CN\"\n* font PostScript name: Mengshen-HanSerif-CN (version 1.02, 2020-12-19)\nfont download: https://www.maoken.com/freefonts/4213.html",
+    "Name": "萌神拼音体：带拼音的中文宋体",
+    "Pkgname": "fonts-cjk-zh-mengshen",
+    "Size": "10 Mb",
+    "Tags": "community;debian;deepin;ubuntu;uos;native",
+    "Torrent_address": "fonts-cjk-zh-mengshen_1.02-1_all.deb.torrent",
+    "Update": "2024-12-20 11:55:24",
+    "Version": "1.02-1",
+    "Website": "https://github.com/MaruTama/Mengshen-pinyin-font",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/others/fonts-cjk-zh-mengshen/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/others/fonts-cjk-zh-mengshen/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "Careone <emacslocale@126.com>",
     "Filename": "fonts-cjk-cn-youshehaoshenti_2.0-1_plus_20200924_all.deb",
     "More": "优设好身体：\n    「优设好身体」是一款亲和力、现代感极强的专业美术标题字体。它以圆体字型为基础，通过瘦高的字面、偏向几何的曲线，让整宽字体富有亲和力和时尚感。在同样的面积里，更窄的字面就意味着能容纳更多的信息，所以这款字体非常适用在需要体现亲和力与时尚感的各类品牌宣传广告和产品包装设计的标题上。\n    优设（浪漫的）初衷是希望设计师们用了这款字体，能减少改稿的次数，少点熬夜有个好身体。现在遇上疫情，更是成为我们对每个人的祝福，希望大家都像这款字体名字一样，平平安安有个好身体！",
     "Name": "优设好身体：瘦高的简体中文美术标题圆体",
@@ -826,6 +844,24 @@
 
 ,
 {
+    "Author": "wumeijie <wumeijie@myhexin.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cn.com.yinhe_2.8.6.16_arm64.deb",
+    "More": "双子星统信版客户端是为适应统信桌面操作系统而特别开发的客户端版本。‌它是中国银河证券官方网站提供的一个服务，‌版本号为v2.8.6.5，‌并且是在2024年6月20日更新的。‌这个客户端的推出，‌旨在为使用统信桌面操作系统的用户提供更加便捷和高效的证券交易服务",
+    "Name": "银河证券双子星统信版客户端",
+    "Pkgname": "cn.com.yinhe",
+    "Size": "113 Mb",
+    "Tags": "deepin;uos;ubuntu;debian;native",
+    "Torrent_address": "cn.com.yinhe_2.8.6.16_arm64.deb.torrent",
+    "Update": "2024-12-21 17:48:04",
+    "Version": "2.8.6.16",
+    "Website": "http://www.10jqka.com.cn",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/others/cn.com.yinhe/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/others/cn.com.yinhe/screen_1.png\"]"
+}
+
+,
+{
     "Author": "Careone <emacslocale@126.com>",
     "Contributor": "Careone <emacslocale@126.com>",
     "Filename": "adobe-fonts-ja_2.002_all.deb",
@@ -846,24 +882,6 @@
 {
     "Author": "Careone <emacslocale@126.com>",
     "Contributor": "Careone <emacslocale@126.com>",
-    "Filename": "fonts-cjk-zh-mengshen_1.02-1_all.deb",
-    "More": "萌神拼音体 (Mengshen-Regular) 是用于学习中国汉字的一款字体，是使用思源宋体 和 M+ 字体进行改造而成的一款免费商用字体。这是一种用来帮助学生更快地学习 和阅读汉语的字体。\n在某些设计场景其实也挺实用的，特别是对教育类的设计比较有用。\n* 字体授权协议: SIL 1.1 开源字体许可证（注：可以免费商用）\n* 对简体/繁体中文支持良好。收录字形共 60151 个 (版本 1.02, 2020-12-19)。\n* 字体风格：中文汉字上面带拼音（注：如果是多音字，标注的拼音可能不准确）\n* ----\n* 字体版本 1.02 的新增功能：在部分文字编辑程序中，可以根据上下文， 智能判断多音字的读音;\n* ----\n字体版本 1.02 的注意事项、已知问题：\n* 在某些文字处理软件中 (如 gedit, leafpad, mousepad)，多音字能根据上下文， 自动标注正确的读音。如：学(校 xiao), (校 jiao)对；银(行 hang), (行 xing)为;\n* 而在另一些文字处理软件中 (如 WPS Office 11.1.0.9719, amd64)， 多音字可能无法显示正确的读音。如：学(校), (校)对————都标注为 xiao； 银(行), (行)为————都标注为 xing;\n* 如果多音字词组的中间，被空格或者其它字符隔断，则多音字的拼音标注可能不准确。\nMengshen Chinese Pinyin font, support Simplified/Traditional Chinese\nfont license: SIL 1.1 Open Font License, used for commercial purposes allowed.\n* font TTF family name: Mengshen-Regular (version 1.02, 2020-12-19)\n* 字体 TTF family 日文名: \"萌神 明朝体 CN\"\n* font PostScript name: Mengshen-HanSerif-CN (version 1.02, 2020-12-19)\nfont download: https://www.maoken.com/freefonts/4213.html",
-    "Name": "萌神拼音体：带拼音的中文宋体",
-    "Pkgname": "fonts-cjk-zh-mengshen",
-    "Size": "10 Mb",
-    "Tags": "community;debian;deepin;ubuntu;uos;native",
-    "Torrent_address": "fonts-cjk-zh-mengshen_1.02-1_all.deb.torrent",
-    "Update": "2024-12-20 11:55:24",
-    "Version": "1.02-1",
-    "Website": "https://github.com/MaruTama/Mengshen-pinyin-font",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/others/fonts-cjk-zh-mengshen/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/others/fonts-cjk-zh-mengshen/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "Careone <emacslocale@126.com>",
     "Filename": "fonts-cjk-zh-cef_2.12-1_all.deb",
     "More": "一款完全用鼠标构建字形的“仿”手写体: 快去写作业CJK (CEF Fonts CJK)\n .\n font license: SIL 1.1 Open Font License, used for commercial purposes allowed.\n  * 字体风格：少儿手写体\n  * GitHub: https://github.com/Partyb0ssishere/cef-fonts-cjk\n  * 字体作者：派对大魔王 (PartyBoss) \n  * 字体授权协议: SIL 1.1 开源字体许可证（注：允许免费商用）\n .\n 共包含2个字体文件：\n  * CEFFontsCJK-Regular.ttf (常规版)\n  * CEFFontsCJKMono-Regular.ttf (等宽版)\n .\n 介绍\n .\n 这款字体项目在2020年4月25日开始制作，旨在为现在的文字正文显示（书籍、\n 插画、视频等）提供一个新方案。前前后后2年多的时间，我们（其实就我一个人）\n 用鼠标点点画画，一个包含完整中日韩越统一汉字基本区(20992字)以及扩展A区\n (6592字)的字库完成了，且现在依旧在更新中。\n .\n 特色\n .\n 完全鼠标绘制\n .\n 正如上面所说，这款字体最大的特色就是字形完全使用鼠标绘制，没有使用一次\n 数位板。您可以通过字形的轮廓明显地看出来。\n .\n 此字体支持 CJK统一汉字基本区（20992）字以及其他少量扩展区汉字，能够为简繁\n 中文、日语、韩语提供基本显示支持。",
     "Name": "中文少儿手写体: 快去写作业CJK (CEF Fonts CJK)",
@@ -876,24 +894,6 @@
     "Website": "https://github.com/Partyb0ssishere/cef-fonts-cjk",
     "icons": "https://spk-json.spark-app.store/aarch64-store/themes/fonts-cjk-zh-cef/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/fonts-cjk-zh-cef/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "wumeijie <wumeijie@myhexin.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cn.com.yinhe_2.8.6.16_arm64.deb",
-    "More": "双子星统信版客户端是为适应统信桌面操作系统而特别开发的客户端版本。‌它是中国银河证券官方网站提供的一个服务，‌版本号为v2.8.6.5，‌并且是在2024年6月20日更新的。‌这个客户端的推出，‌旨在为使用统信桌面操作系统的用户提供更加便捷和高效的证券交易服务",
-    "Name": "银河证券双子星统信版客户端",
-    "Pkgname": "cn.com.yinhe",
-    "Size": "113 Mb",
-    "Tags": "deepin;uos;ubuntu;debian;native",
-    "Torrent_address": "cn.com.yinhe_2.8.6.16_arm64.deb.torrent",
-    "Update": "2024-12-21 17:48:04",
-    "Version": "2.8.6.16",
-    "Website": "http://www.10jqka.com.cn",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/others/cn.com.yinhe/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/others/cn.com.yinhe/screen_1.png\"]"
 }
 
 ,

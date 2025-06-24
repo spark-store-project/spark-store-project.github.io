@@ -19,15 +19,15 @@
 ,
 {
     "Name": "Firefox火狐浏览器",
-    "Version": "136.0.4+build1-0ubuntu0.22.04.1~mt1",
-    "Filename": "firefox-spark_136.0.4+build1-0ubuntu0.22.04.1~mt1_arm64.deb",
-    "Torrent_address": "firefox-spark_136.0.4+build1-0ubuntu0.22.04.1~mt1_arm64.deb.torrent",
+    "Version": "140.0+build1-0ubuntu0.22.04.1~mt1",
+    "Filename": "firefox-spark_140.0+build1-0ubuntu0.22.04.1~mt1_arm64.deb",
+    "Torrent_address": "firefox-spark_140.0+build1-0ubuntu0.22.04.1~mt1_arm64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/firefox-spark-arm",
-    "Update": "2025-03-29 17:34:35",
-    "Size": "60M",
+    "Update": "2025-06-24 17:39:57",
+    "Size": "61M",
     "More": "Firefox最新版。适用于Ubuntu 2204/Debian 12/deepin23. 其他用户请使用firefox-spark-ace.",
     "Tags": "ubuntu;deepin;debian;community",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark/screen_5.png\"]",
@@ -628,24 +628,6 @@
 
 ,
 {
-  "Author": "xretia <webmaster@xretia.labs>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
-  "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
-  "Name": "网速管家",
-  "Pkgname": "cn.speedtest.master",
-  "Size": "66 Mb",
-  "Tags": "deepin;uos;ubuntu;debian",
-  "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
-  "Update": "2023-03-05 19:23:50",
-  "Version": "1.6.1",
-  "Website": "https://gitlab.com/dfc643/speedtest-cn/",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
-}
-
-,
-{
   "Author": "wang",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.pdftodocx.deepin_1.1-2_all.deb",
@@ -660,6 +642,24 @@
   "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
   "icons": "https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_1.png\",\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "xretia <webmaster@xretia.labs>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
+  "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+  "Name": "网速管家",
+  "Pkgname": "cn.speedtest.master",
+  "Size": "66 Mb",
+  "Tags": "deepin;uos;ubuntu;debian",
+  "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
+  "Update": "2023-03-05 19:23:50",
+  "Version": "1.6.1",
+  "Website": "https://gitlab.com/dfc643/speedtest-cn/",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
 }
 
 ,
@@ -682,24 +682,6 @@
 
 ,
 {
-  "Author": "sgb76 <sgb76@163.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
-  "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
-  "Name": "bilidown",
-  "Pkgname": "vip.zhouql.bilidown.spark",
-  "Size": "102 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb.torrent",
-  "Update": "2023-10-15 02:36:06",
-  "Version": "1.0.5spark0",
-  "Website": "http://zhouql.vip/bilibili/pc/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
-}
-
-,
-{
   "Author": "shenmo<shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.bitcomet.spark_2.03.1_all.deb",
@@ -714,6 +696,24 @@
   "Website": "https://www.bitcomet.com/en/downloads",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.bitcomet.spark/screen_3.png\"]"
+}
+
+,
+{
+  "Author": "sgb76 <sgb76@163.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
+  "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
+  "Name": "bilidown",
+  "Pkgname": "vip.zhouql.bilidown.spark",
+  "Size": "102 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb.torrent",
+  "Update": "2023-10-15 02:36:06",
+  "Version": "1.0.5spark0",
+  "Website": "http://zhouql.vip/bilibili/pc/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
 }
 
 ,
@@ -808,22 +808,6 @@
 
 ,
 {
-    "Name": "Motrix",
-    "Author": "Dr_rOot <agalwood.net@gmail.com>",
-    "Website": "https://motrix.app",
-    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
-    "Tags": "debian;community;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/network/motrix/screen_1.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_2.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_3.png\"]",
-    "icons": "https://spk-json.spark-app.store/store/network/motrix/icon.png",
-    "Pkgname": "motrix",
-    "Version": "1.8.19",
-    "Filename": "motrix_1.8.19_arm64.deb",
-    "Update": "2025-03-07 21:11:00",
-    "Size": "66.84MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
-,
-{
   "Author": "haitai",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "htbrowser_5.0.0.20_arm64.deb",
@@ -840,6 +824,22 @@
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/htbrowser/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "Motrix",
+    "Author": "Dr_rOot <agalwood.net@gmail.com>",
+    "Website": "https://motrix.app",
+    "More": "Motrix 是一款全能的下载工具，支持下载 HTTP、FTP、BT、磁力链等资源。",
+    "Tags": "debian;community;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/network/motrix/screen_1.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_2.png\",\"https://spk-json.spark-app.store/store/network/motrix/screen_3.png\"]",
+    "icons": "https://spk-json.spark-app.store/store/network/motrix/icon.png",
+    "Pkgname": "motrix",
+    "Version": "1.8.19",
+    "Filename": "motrix_1.8.19_arm64.deb",
+    "Update": "2025-03-07 21:11:00",
+    "Size": "66.84MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
 ,
 {
   "Author": "天翼云科技有限公司",
@@ -911,6 +911,24 @@
 
 ,
 {
+  "Author": "shenmo",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
+  "More": "绿联私有云",
+  "Name": "绿联私有云",
+  "Pkgname": "com.ugreen.client",
+  "Size": "306 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.ugreen.client_4.9.0.9559_all.deb.torrent",
+  "Update": "2024-01-09 11:00:42",
+  "Version": "4.9.0.9559",
+  "Website": "",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
+}
+
+,
+{
   "Author": "wxhere <wxhere@hotmail.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.bitcomet.linux_2.9.0_arm64.deb",
@@ -943,24 +961,6 @@
   "Website": "https://www.deepin.org",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/uos-remote-assistance/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "shenmo",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
-  "More": "绿联私有云",
-  "Name": "绿联私有云",
-  "Pkgname": "com.ugreen.client",
-  "Size": "306 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.ugreen.client_4.9.0.9559_all.deb.torrent",
-  "Update": "2024-01-09 11:00:42",
-  "Version": "4.9.0.9559",
-  "Website": "",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
 }
 
 ,
@@ -1109,24 +1109,6 @@
 
 ,
 {
-  "Author": "Kingsoft",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.kingsoft.huawang.deepin_1.0_all.deb",
-  "More": "为儿童设计，所以绘画的时候有声音、简单易操作的人性化界面，还有卡通人物的实时提示，但其功能又不简单了，绘画工具的功能应有尽有，几十种画笔、印记、线条、形状和奇特效果足跟其他绘画工具相比。",
-  "Name": "金山画王2006",
-  "Pkgname": "com.kingsoft.huawang.deepin",
-  "Size": "171 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.kingsoft.huawang.deepin_1.0_all.deb.torrent",
-  "Update": "2024-06-29 19:52:46",
-  "Version": "1.0",
-  "Website": "http://www.paintroom.cn/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_3.png\"]"
-}
-
-,
-{
   "Name": "ODE 多功能助手",
   "Version": "0.8.4",
   "Filename": "com.ode.deepin_0.8.4_all.deb",
@@ -1141,6 +1123,24 @@
   "Tags": "deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/7d012eaeba6247af9d9e0999a0369d37.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/4b214f0678d544899809a9717a63a6c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/836ab7bb99e1414ca922d36f1824da3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/02/133f0f1694564e44882b6cce183d3c14.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/02/10abec1efc3945a1b635671fdeb6bd8b.png"
+}
+
+,
+{
+  "Author": "Kingsoft",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.kingsoft.huawang.deepin_1.0_all.deb",
+  "More": "为儿童设计，所以绘画的时候有声音、简单易操作的人性化界面，还有卡通人物的实时提示，但其功能又不简单了，绘画工具的功能应有尽有，几十种画笔、印记、线条、形状和奇特效果足跟其他绘画工具相比。",
+  "Name": "金山画王2006",
+  "Pkgname": "com.kingsoft.huawang.deepin",
+  "Size": "171 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.kingsoft.huawang.deepin_1.0_all.deb.torrent",
+  "Update": "2024-06-29 19:52:46",
+  "Version": "1.0",
+  "Website": "http://www.paintroom.cn/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_3.png\"]"
 }
 
 ,
@@ -1253,24 +1253,6 @@
 
 ,
 {
-  "Author": "shenmo<shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.jd.jm_12.4.6.0_all.deb",
-  "More": "京麦工作台",
-  "Name": "京麦工作台",
-  "Pkgname": "com.jd.jm",
-  "Size": "540 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.jd.jm_12.4.6.0_all.deb.torrent",
-  "Update": "2024-12-18 02:18:36",
-  "Version": "12.4.6.0",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/network/com.jd.jm/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/network/com.jd.jm/screen_1.png\"]"
-}
-
-,
-{
   "Author": "中国经济信息社有限公司 <xinhuacaijing@xinhua.org>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.ceis.app_2.3.58_amd64.deb",
@@ -1285,6 +1267,24 @@
   "Website": "x.cnfic.com.cn",
   "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "shenmo<shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.jd.jm_12.4.6.0_all.deb",
+  "More": "京麦工作台",
+  "Name": "京麦工作台",
+  "Pkgname": "com.jd.jm",
+  "Size": "540 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.jd.jm_12.4.6.0_all.deb.torrent",
+  "Update": "2024-12-18 02:18:36",
+  "Version": "12.4.6.0",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/network/com.jd.jm/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/network/com.jd.jm/screen_1.png\"]"
 }
 
 ,

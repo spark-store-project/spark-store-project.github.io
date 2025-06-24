@@ -248,24 +248,6 @@
 }
 ,
 {
-  "Name": "腾讯文档",
-  "Version": "3.9.20",
-  "Filename": "tdappdesktop_3.9.20_amd64.deb",
-  "Torrent_address": "tdappdesktop_3.9.20_amd64.deb.torrent",
-  "Pkgname": "tdappdesktop",
-  "Author": "TencentDocs",
-  "Contributor": "TencentDocs",
-  "Website": "https://docs.qq.com/home",
-  "Update": "2025-06-04 17:46:16",
-  "Size": "171M",
-  "More": "腾讯文档\n让协作更高效，创作更轻松。\n\n支持多人在线编辑Word、Excel和PPT文档",
-  "Tags": "ubuntu;deepin;uos;debian;community;native",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_5.png\"]",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png"
-}
-
-,
-{
   "Author": "wumeijie <wumeijie@myhexin.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb",
@@ -280,6 +262,24 @@
   "Website": "http://www.10jqka.com.cn",
   "icons": "https://spk-json.spark-app.store/store/office/cn.com.10jqka/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_1.png\",\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_2.png\"]"
+}
+
+,
+{
+  "Name": "腾讯文档",
+  "Version": "3.9.20",
+  "Filename": "tdappdesktop_3.9.20_amd64.deb",
+  "Torrent_address": "tdappdesktop_3.9.20_amd64.deb.torrent",
+  "Pkgname": "tdappdesktop",
+  "Author": "TencentDocs",
+  "Contributor": "TencentDocs",
+  "Website": "https://docs.qq.com/home",
+  "Update": "2025-06-04 17:46:16",
+  "Size": "171M",
+  "More": "腾讯文档\n让协作更高效，创作更轻松。\n\n支持多人在线编辑Word、Excel和PPT文档",
+  "Tags": "ubuntu;deepin;uos;debian;community;native",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_5.png\"]",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png"
 }
 
 ,
@@ -1445,6 +1445,24 @@
 
 ,
 {
+    "Name": "Zotero",
+    "Version": "7.0.16",
+    "Filename": "zotero_7.0.16_amd64.deb",
+    "Torrent_address": "zotero_7.0.16_amd64.deb.torrent",
+    "Pkgname": "zotero",
+    "Author": "Emiliano Heyns <emiliano.heyns@iris-advies.com>",
+    "Contributor": "Emiliano Heyns <emiliano.heyns@iris-advies.com>",
+    "Website": "https://www.zotero.org/",
+    "Update": "2025-06-21 17:41:49",
+    "Size": "113M",
+    "More": "Wikipedia：Zotero是一款自由及开放源代码的文献管理软件，管理书目信息（如作者、标题、出版社、摘要、阅读笔记等）及相关材料（如PDF文件等)。其最著名的特性是作为浏览器插件、在线同步、与文档编辑软件如Microsoft Word、LibreOffice、OpenOffice.org Writer、NeoOffice等集成，可生成文内引用。\n\n更新至7.0.15版本，与官网同步。",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/zotero/icon.png"
+}
+
+,
+{
   "Name": "我的词典",
   "Version": "0.6.14",
   "Filename": "mydict_0.6.14_amd64.deb",
@@ -1477,24 +1495,6 @@
   "Website": "https://stellarium.org/",
   "icons": "https://spk-json.spark-app.store/store/office/stellarium/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/office/stellarium/screen_1.png\",\"https://spk-json.spark-app.store/store/office/stellarium/screen_2.png\",\"https://spk-json.spark-app.store/store/office/stellarium/screen_3.png\"]"
-}
-
-,
-{
-    "Name": "Zotero",
-    "Version": "7.0.16",
-    "Filename": "zotero_7.0.16_amd64.deb",
-    "Torrent_address": "zotero_7.0.16_amd64.deb.torrent",
-    "Pkgname": "zotero",
-    "Author": "Emiliano Heyns <emiliano.heyns@iris-advies.com>",
-    "Contributor": "Emiliano Heyns <emiliano.heyns@iris-advies.com>",
-    "Website": "https://www.zotero.org/",
-    "Update": "2025-06-21 17:41:49",
-    "Size": "113M",
-    "More": "Wikipedia：Zotero是一款自由及开放源代码的文献管理软件，管理书目信息（如作者、标题、出版社、摘要、阅读笔记等）及相关材料（如PDF文件等)。其最著名的特性是作为浏览器插件、在线同步、与文档编辑软件如Microsoft Word、LibreOffice、OpenOffice.org Writer、NeoOffice等集成，可生成文内引用。\n\n更新至7.0.15版本，与官网同步。",
-    "Tags": "ubuntu;deepin;uos;debian;community",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/zotero/icon.png"
 }
 
 ,
@@ -2846,6 +2846,24 @@
 
 ,
 {
+  "Name": "华为云会议",
+  "Version": "9.12.5",
+  "Filename": "huaweicloudmeeting_9.12.5_amd64.deb",
+  "Torrent_address": "huaweicloudmeeting_9.12.5_amd64.deb.torrent",
+  "Pkgname": "huaweicloudmeeting",
+  "Author": "huawei <huaweicloudmeeting@huawei.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.meeting.huaweicloud.com",
+  "Update": "2023-12-30 13:10:12",
+  "Size": "67.68 MB",
+  "More": "“云端”协同的会议解决方案，全平台接入，全球覆盖，提供高清、稳定、安全、高效的极简会议体验",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/2304c6d7c85249c6a9458f50b92ceec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/68976f02a1a14be98718ca8b42fd09d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/db6cc48a84f14fa694ba6bbd0a3fb9f7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/6e5a429de6a642eb8b9e33ebf8947d5d.png"
+}
+
+,
+{
   "Name": "文心一言（web）",
   "Version": "1.0",
   "Filename": "com.yiyan.uos_1.0_amd64.deb",
@@ -2878,24 +2896,6 @@
   "Tags": "community;deepin;ubuntu;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/4b68d992c1bc4e75b7103d0e436a034b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/de6445082ad44fa78a860a4cb6ee8ad2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/28/fd5c38a5fe864f149d7df9ba1fc9f2b0.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/28/73413a60224a4f028a56be572c8e64e3.png"
-}
-
-,
-{
-  "Name": "华为云会议",
-  "Version": "9.12.5",
-  "Filename": "huaweicloudmeeting_9.12.5_amd64.deb",
-  "Torrent_address": "huaweicloudmeeting_9.12.5_amd64.deb.torrent",
-  "Pkgname": "huaweicloudmeeting",
-  "Author": "huawei <huaweicloudmeeting@huawei.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.meeting.huaweicloud.com",
-  "Update": "2023-12-30 13:10:12",
-  "Size": "67.68 MB",
-  "More": "“云端”协同的会议解决方案，全平台接入，全球覆盖，提供高清、稳定、安全、高效的极简会议体验",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/2304c6d7c85249c6a9458f50b92ceec7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/68976f02a1a14be98718ca8b42fd09d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/db6cc48a84f14fa694ba6bbd0a3fb9f7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/6e5a429de6a642eb8b9e33ebf8947d5d.png"
 }
 
 ,
@@ -4162,23 +4162,6 @@
 
 ,
 {
-  "Name": "Zim 桌面维基",
-  "Version": "0.74.3",
-  "Filename": "zim_0.74.3_all.deb",
-  "Pkgname": "zim",
-  "Author": "zim-wiki 团队",
-  "Contributor": "sgb76",
-  "Website": "https://zim-wiki.org/",
-  "Update": "2022-01-14 15:37:50",
-  "Size": "1.14 MB",
-  "More": "Zim是一款用于维护Wiki页面集合的图形文本编辑器。",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/cb409f30-750c-11ec-a057-132876d57f17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/cd735db0-750c-11ec-a057-132876d57f17.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/14/bcc75480-750c-11ec-a057-132876d57f17.png"
-}
-
-,
-{
   "Name": "影刀",
   "Version": "1.2.1",
   "Filename": "shadowbot_1.2.1_amd64.deb",
@@ -4193,6 +4176,23 @@
   "Tags": "[\"deepin\",\"ubuntu\"];native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/06/a42d0090644a4a17b9d9f404bbf4e5ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/06/575ccbf0f513491b97954b1f70843874.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/06/2a333ede3a4b4e9d83d10d3e1f7cefa3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/06/9c0914ae4f27413e9b9df0721027ad15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/06/c53e82dd556041cfab2378d575307ff2.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/06/30f26423aae94718adfa1f08bcbf51f0.png"
+}
+
+,
+{
+  "Name": "Zim 桌面维基",
+  "Version": "0.74.3",
+  "Filename": "zim_0.74.3_all.deb",
+  "Pkgname": "zim",
+  "Author": "zim-wiki 团队",
+  "Contributor": "sgb76",
+  "Website": "https://zim-wiki.org/",
+  "Update": "2022-01-14 15:37:50",
+  "Size": "1.14 MB",
+  "More": "Zim是一款用于维护Wiki页面集合的图形文本编辑器。",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/cb409f30-750c-11ec-a057-132876d57f17.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/14/cd735db0-750c-11ec-a057-132876d57f17.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/14/bcc75480-750c-11ec-a057-132876d57f17.png"
 }
 
 ,
@@ -4665,6 +4665,24 @@
 
 ,
 {
+  "Author": "zty199 <zty2864@gmail.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "ink.bishen.dcs_3.1.12+4_all.deb",
+  "More": "笔神是一款电脑端写作工具，笔神不仅支持markdown，还提供了树形目录管理可以让你更好的管理自己已完成的章节。笔神电脑版的界面非常简单，还提供了自动存储功能，登录账号即可获取已保存的内容，不用担心写到一半因为特殊原因导致的文档丢失。\nP.S.由于现有服务器没有统计下载量的方式，只能在安装deb包的时候用我们的反馈邮箱发一封邮件，以此来统计下载数量。如果给您造成不便，请您谅解。",
+  "Name": "笔神（wine）",
+  "Pkgname": "ink.bishen.dcs",
+  "Size": "73 Mb",
+  "Tags": "debian;deepin;dwine5;ubuntu;native",
+  "Torrent_address": "ink.bishen.dcs_3.1.12+4_all.deb.torrent",
+  "Update": "2025-02-18 01:10:50",
+  "Version": "3.1.12+4",
+  "Website": "https://bishen.ink/",
+  "icons": "https://spk-json.spark-app.store/store/office/ink.bishen.dcs/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/office/ink.bishen.dcs/screen_1.png\",\"https://spk-json.spark-app.store/store/office/ink.bishen.dcs/screen_2.png\"]"
+}
+
+,
+{
   "Name": "TreeSheets",
   "Version": "4456947105spark0",
   "Filename": "com.strlen.treesheets.spark_4456947105spark0_amd64.deb",
@@ -4769,24 +4787,6 @@
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/4aae5bd0-0070-11eb-9e78-b1093d349938.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/27/510ebe70-0070-11eb-9e78-b1093d349938.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/27/410a8e00-0070-11eb-9e78-b1093d349938.png",
   "Tags": "debian;native"
-}
-
-,
-{
-  "Author": "zty199 <zty2864@gmail.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "ink.bishen.dcs_3.1.12+4_all.deb",
-  "More": "笔神是一款电脑端写作工具，笔神不仅支持markdown，还提供了树形目录管理可以让你更好的管理自己已完成的章节。笔神电脑版的界面非常简单，还提供了自动存储功能，登录账号即可获取已保存的内容，不用担心写到一半因为特殊原因导致的文档丢失。\nP.S.由于现有服务器没有统计下载量的方式，只能在安装deb包的时候用我们的反馈邮箱发一封邮件，以此来统计下载数量。如果给您造成不便，请您谅解。",
-  "Name": "笔神（wine）",
-  "Pkgname": "ink.bishen.dcs",
-  "Size": "73 Mb",
-  "Tags": "debian;deepin;dwine5;ubuntu;native",
-  "Torrent_address": "ink.bishen.dcs_3.1.12+4_all.deb.torrent",
-  "Update": "2025-02-18 01:10:50",
-  "Version": "3.1.12+4",
-  "Website": "https://bishen.ink/",
-  "icons": "https://spk-json.spark-app.store/store/office/ink.bishen.dcs/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/office/ink.bishen.dcs/screen_1.png\",\"https://spk-json.spark-app.store/store/office/ink.bishen.dcs/screen_2.png\"]"
 }
 
 ,

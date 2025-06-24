@@ -1100,24 +1100,6 @@
 
 ,
 {
-  "Name": "quardCRT",
-  "Version": "0.51",
-  "Filename": "quardcrt_0.51_amd64.deb",
-  "Torrent_address": "quardcrt_0.51_amd64.deb.torrent",
-  "Pkgname": "quardcrt",
-  "Author": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
-  "Contributor": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
-  "Website": "https://github.com/QQxiaoming/quardCRT",
-  "Update": "2024-09-29 09:53:24",
-  "Size": "134.97 MB",
-  "More": "quardCRT一款多功能终端仿真/图形桌面软件，支持多种后端协议，无依赖跨平台使用，windows/linux/mac使用体验完全一致，支持多标签页和历史记录管理等传统终端软件功能，同时支持一些独具特色的细节功能。\n\n目前支持的终端协议\n\n- ssh\n- telnet (支持带websocket封装)\n- serial\n- loaclshell\n- rawsocket\n- windows:NamedPipe（linux/macos:unix domain socket）\n\n目前支持的图形桌面协议\n\n- vnc\n\n基本功能\n\n- 会话记录管理\n- 多标签页管理，标签页克隆，标签页拖拽排序\n- 双列分屏显示，标签页自由拖拽至分列\n- 终端样式配置（配色方案，字体）\n- HEX显示\n- 终端背景图片配置\n- 终端滚动行数设置\n- XYZmodem支持\n- 支持深色/浅色主题\n- UI支持多语言（简体中文/繁体中文/英语/日语/韩语/西班牙语/法语/俄语）\n\n特色功能 \n\n- 浮动窗口支持，可将标签页拖拽至浮动窗口\n- SSH2会话一键打开SFTP文件传输窗口\n- 本地终端工作目录书签\n- 自动化发送\n- 终端背景图片支持gif动画和视频\n- 终端关键词高亮匹配\n- 选中文本翻译功能\n- 路径匹配与一键直达\n- 工作路径直达\n\nV0.5.1版本说明：\n此次更新使插件更易于使用，并添加了录制脚本和显示最近脚本等新功能。它还修复了一些错误并改善了外观\n完整详细信息可在线获取。",
-  "Tags": "community;debian;deepin;ubuntu",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/29/f71bb3d185d64addb2ab36f12f0cdaa3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/29/8a0d71961bd646c2b0d95eda027ee17f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/29/aca254ab507b4bf49acaff08b7b069e5.png"
-}
-
-,
-{
     "Author": "LuijpCN <luijunpeng@gmail.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "aliyun-oss-browser_1.18.0-1_amd64.deb",
@@ -1132,6 +1114,24 @@
     "Website": "https://github.com/aliyun/oss-browser",
     "icons": "https://spk-json.spark-app.store/store/development/aliyun-oss-browser/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/development/aliyun-oss-browser/screen_1.png\",\"https://spk-json.spark-app.store/store/development/aliyun-oss-browser/screen_2.png\",\"https://spk-json.spark-app.store/store/development/aliyun-oss-browser/screen_3.png\",\"https://spk-json.spark-app.store/store/development/aliyun-oss-browser/screen_4.png\",\"https://spk-json.spark-app.store/store/development/aliyun-oss-browser/screen_5.png\"]"
+}
+
+,
+{
+  "Name": "quardCRT",
+  "Version": "0.51",
+  "Filename": "quardcrt_0.51_amd64.deb",
+  "Torrent_address": "quardcrt_0.51_amd64.deb.torrent",
+  "Pkgname": "quardcrt",
+  "Author": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
+  "Contributor": "QQxiaoming <2014500726@smail.xtu.edu.cn>",
+  "Website": "https://github.com/QQxiaoming/quardCRT",
+  "Update": "2024-09-29 09:53:24",
+  "Size": "134.97 MB",
+  "More": "quardCRT一款多功能终端仿真/图形桌面软件，支持多种后端协议，无依赖跨平台使用，windows/linux/mac使用体验完全一致，支持多标签页和历史记录管理等传统终端软件功能，同时支持一些独具特色的细节功能。\n\n目前支持的终端协议\n\n- ssh\n- telnet (支持带websocket封装)\n- serial\n- loaclshell\n- rawsocket\n- windows:NamedPipe（linux/macos:unix domain socket）\n\n目前支持的图形桌面协议\n\n- vnc\n\n基本功能\n\n- 会话记录管理\n- 多标签页管理，标签页克隆，标签页拖拽排序\n- 双列分屏显示，标签页自由拖拽至分列\n- 终端样式配置（配色方案，字体）\n- HEX显示\n- 终端背景图片配置\n- 终端滚动行数设置\n- XYZmodem支持\n- 支持深色/浅色主题\n- UI支持多语言（简体中文/繁体中文/英语/日语/韩语/西班牙语/法语/俄语）\n\n特色功能 \n\n- 浮动窗口支持，可将标签页拖拽至浮动窗口\n- SSH2会话一键打开SFTP文件传输窗口\n- 本地终端工作目录书签\n- 自动化发送\n- 终端背景图片支持gif动画和视频\n- 终端关键词高亮匹配\n- 选中文本翻译功能\n- 路径匹配与一键直达\n- 工作路径直达\n\nV0.5.1版本说明：\n此次更新使插件更易于使用，并添加了录制脚本和显示最近脚本等新功能。它还修复了一些错误并改善了外观\n完整详细信息可在线获取。",
+  "Tags": "community;debian;deepin;ubuntu",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/29/f71bb3d185d64addb2ab36f12f0cdaa3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/29/8a0d71961bd646c2b0d95eda027ee17f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/29/aca254ab507b4bf49acaff08b7b069e5.png"
 }
 
 ,
@@ -1478,24 +1478,6 @@
 
 ,
 {
-  "Name": "simulide",
-  "Version": "1.0.0-RC2",
-  "Filename": "simulide_1.0.0-RC2_amd64.deb",
-  "Torrent_address": "simulide_1.0.0-RC2_amd64.deb.torrent",
-  "Pkgname": "simulide",
-  "Author": "arcachofo",
-  "Contributor": "lidanger",
-  "Website": "https://www.simulide.com/",
-  "Update": "2022-04-18 20:59:45",
-  "Size": "33.14 MB",
-  "More": "SimulIDE 是一款电路仿真软件。这款电路仿真软件不仅可以模拟电路等，还可以模拟AVR单片机。可以仿真各种电路，AVR，PIC单片机都可以，而且开源的。基于QT开发。",
-  "Tags": "deepin;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/58a95c50-bf17-11ec-9422-1d914b554347.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/58c45e60-bf17-11ec-9422-1d914b554347.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/590278d0-bf17-11ec-9422-1d914b554347.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/58e7ebf0-bf17-11ec-9422-1d914b554347.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/18/8f0b2220-bf16-11ec-9422-1d914b554347.png"
-}
-
-,
-{
   "Name": "CCompare",
   "Version": "1.16.1.0",
   "Filename": "cn.itdp.ccompare_1.16.1.0_amd64.deb",
@@ -1510,6 +1492,24 @@
   "Tags": "community;ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/825831840baa429698c182b53c9937af.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/2288b23228ad461c928ab3e3f119c7b7.png"
+}
+
+,
+{
+  "Name": "simulide",
+  "Version": "1.0.0-RC2",
+  "Filename": "simulide_1.0.0-RC2_amd64.deb",
+  "Torrent_address": "simulide_1.0.0-RC2_amd64.deb.torrent",
+  "Pkgname": "simulide",
+  "Author": "arcachofo",
+  "Contributor": "lidanger",
+  "Website": "https://www.simulide.com/",
+  "Update": "2022-04-18 20:59:45",
+  "Size": "33.14 MB",
+  "More": "SimulIDE 是一款电路仿真软件。这款电路仿真软件不仅可以模拟电路等，还可以模拟AVR单片机。可以仿真各种电路，AVR，PIC单片机都可以，而且开源的。基于QT开发。",
+  "Tags": "deepin;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/58a95c50-bf17-11ec-9422-1d914b554347.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/58c45e60-bf17-11ec-9422-1d914b554347.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/590278d0-bf17-11ec-9422-1d914b554347.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/18/58e7ebf0-bf17-11ec-9422-1d914b554347.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/18/8f0b2220-bf16-11ec-9422-1d914b554347.png"
 }
 
 ,

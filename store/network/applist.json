@@ -125,15 +125,15 @@
 ,
 {
     "Name": "火狐浏览器国际版 Firefox",
-    "Version": "139.0.4",
-    "Filename": "firefox-spark_139.0.4_amd64.deb",
-    "Torrent_address": "firefox-spark_139.0.4_amd64.deb.torrent",
+    "Version": "140.0",
+    "Filename": "firefox-spark_140.0_amd64.deb",
+    "Torrent_address": "firefox-spark_140.0_amd64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2025-06-11 01:40:13",
-    "Size": "75660",
+    "Update": "2025-06-25 01:44:45",
+    "Size": "75936",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/87ad15a3d25b442aa5e78358ca31a8e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/4c7826cf206d4c8bbab36e8e8fc79568.png\"]",
@@ -425,24 +425,6 @@
 
 ,
 {
-    "Name": "Microsoft Edge Dev开发者通道",
-    "Version": "139.0.3380.1-1",
-    "Filename": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb.torrent",
-    "Pkgname": "microsoft-edge-dev",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-06-18 17:39:08",
-    "Size": "179M",
-    "More": "Access the Internet/连接网络\nMicrosoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier./Microsoft Edge 是一款将极简设计与先进技术相结合的浏览器，使网络变得更快、更安全、更轻松。\n每周更新\n比金丝雀更稳定。过去一周改进的最佳代表。\n我们的三个预览频道（Canary、Dev 和 Beta）可在所有受支持的 Windows、Windows Server 以及 macOS、Mobile 和 Linux 版本上使用。安装预览频道不会卸载已发布的 Microsoft Edge 版本，你可以同时安装多个预览频道。\n\n\n                    以下是 Microsoft Edge 新增功能介绍\n                从移动设备上传文件或照片\n通过扫描二维码，快速连接与 PC 处于同一网络的任何移动设备。这样，您便可以在 PC 上访问移动设备上的文件。\n阅读任何语言的 PDF\n只需右键单击 PDF，即可在 Microsoft Edge 边栏中将文本翻译为您的首选语言。",
-    "Tags": "ubuntu;deepin;uos;debian",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/icon.png"
-}
-
-,
-{
   "Name": "谷歌地球",
   "Version": "7.3.6.9345-r0",
   "Filename": "google-earth-pro-stable_7.3.6.9345-r0_amd64.deb",
@@ -457,6 +439,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/21/c83bcee940864966b357e3e2d905560f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/21/2155bdc119404fdc92dbe1da2fd15434.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/21/2632f866c0a8482aa9e18c8254b523af.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/21/dda7e84ff5f8437ca6f9463760eb2e10.png"
+}
+
+,
+{
+    "Name": "Microsoft Edge Dev开发者通道",
+    "Version": "139.0.3380.1-1",
+    "Filename": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb.torrent",
+    "Pkgname": "microsoft-edge-dev",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://www.microsoft.com/zh-cn/edge",
+    "Update": "2025-06-18 17:39:08",
+    "Size": "179M",
+    "More": "Access the Internet/连接网络\nMicrosoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier./Microsoft Edge 是一款将极简设计与先进技术相结合的浏览器，使网络变得更快、更安全、更轻松。\n每周更新\n比金丝雀更稳定。过去一周改进的最佳代表。\n我们的三个预览频道（Canary、Dev 和 Beta）可在所有受支持的 Windows、Windows Server 以及 macOS、Mobile 和 Linux 版本上使用。安装预览频道不会卸载已发布的 Microsoft Edge 版本，你可以同时安装多个预览频道。\n\n\n                    以下是 Microsoft Edge 新增功能介绍\n                从移动设备上传文件或照片\n通过扫描二维码，快速连接与 PC 处于同一网络的任何移动设备。这样，您便可以在 PC 上访问移动设备上的文件。\n阅读任何语言的 PDF\n只需右键单击 PDF，即可在 Microsoft Edge 边栏中将文本翻译为您的首选语言。",
+    "Tags": "ubuntu;deepin;uos;debian",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/icon.png"
 }
 
 ,
@@ -623,24 +623,6 @@
 
 ,
 {
-  "Name": "NeatDownloadManager",
-  "Version": "1.4.10spark2",
-  "Filename": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb",
-  "Torrent_address": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb.torrent",
-  "Pkgname": "com.neatdownloadmanager.spark",
-  "Author": "NeatDownloadManager",
-  "Contributor": "sgb76",
-  "Website": "https://www.neatdownloadmanager.com/",
-  "Update": "2024-01-28 19:57:48",
-  "Size": "13.91 MB",
-  "More": "NeatDownloadManager是一款免费轻量小巧的多线程下载工具，可以支持多线程下载和在线视频嗅探下载，功能和特性上和 IDM、FDM 或 Mac 上的 Folx 等下载软件非常相似。界面也简单易上手，可以轻松帮你提升网络下载速度。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/ce00ea7dee514da9b2ff471513b7b7cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/b2766b8d9e9f458295a5249d4c496889.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/63eff2f6427140fbab92a339e7149f2c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/c65e0c8b61174d1486676f3ee2a2849a.png"
-}
-
-,
-{
   "Name": "Chromium",
   "Version": "111.0.5503.0",
   "Filename": "chromium-linux_111.0.5503.0_amd64.deb",
@@ -655,6 +637,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/88722011696846fea8665b0c43a2dfb5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/335383763a5a434c9b63a980bd9db90a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/475a088280dd4b32a5f4b65c46f134ea.png"
+}
+
+,
+{
+  "Name": "NeatDownloadManager",
+  "Version": "1.4.10spark2",
+  "Filename": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb",
+  "Torrent_address": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb.torrent",
+  "Pkgname": "com.neatdownloadmanager.spark",
+  "Author": "NeatDownloadManager",
+  "Contributor": "sgb76",
+  "Website": "https://www.neatdownloadmanager.com/",
+  "Update": "2024-01-28 19:57:48",
+  "Size": "13.91 MB",
+  "More": "NeatDownloadManager是一款免费轻量小巧的多线程下载工具，可以支持多线程下载和在线视频嗅探下载，功能和特性上和 IDM、FDM 或 Mac 上的 Folx 等下载软件非常相似。界面也简单易上手，可以轻松帮你提升网络下载速度。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/ce00ea7dee514da9b2ff471513b7b7cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/b2766b8d9e9f458295a5249d4c496889.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/63eff2f6427140fbab92a339e7149f2c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/c65e0c8b61174d1486676f3ee2a2849a.png"
 }
 
 ,
@@ -1120,6 +1120,23 @@
 
 ,
 {
+    "Name": "夸克浏览器",
+    "Version": "2.0.5.220spark1",
+    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
+    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
+    "Pkgname": "cn.quark.quarkpc.spark",
+    "Author": "广州市动悦信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.quark.cn/",
+    "Update": "2025-02-27 22:56:53",
+    "Size": "251.42 MB",
+    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
+    "Tags": "debian;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
+}
+,
+{
     "Name": "Microsoft Edge(Beta)",
     "Version": "138.0.3351.42-1",
     "Filename": "microsoft-edge-beta_138.0.3351.42-1_amd64.deb",
@@ -1136,23 +1153,6 @@
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/icon.png"
 }
 
-,
-{
-    "Name": "夸克浏览器",
-    "Version": "2.0.5.220spark1",
-    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
-    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
-    "Pkgname": "cn.quark.quarkpc.spark",
-    "Author": "广州市动悦信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.quark.cn/",
-    "Update": "2025-02-27 22:56:53",
-    "Size": "251.42 MB",
-    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
-    "Tags": "debian;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
-}
 ,
 {
   "Name": "闪电下载（wine）",
@@ -1208,24 +1208,6 @@
 
 ,
 {
-    "Name": "Google Chrome 测试版",
-    "Version": "138.0.7204.35-1",
-    "Filename": "google-chrome-beta_138.0.7204.35-1_amd64.deb",
-    "Torrent_address": "google-chrome-beta_138.0.7204.35-1_amd64.deb.torrent",
-    "Pkgname": "google-chrome-beta",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-06-18 17:43:56",
-    "Size": "113M",
-    "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
-    "Tags": "ubuntu;deepin;uos;debian",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/icon.png"
-}
-
-,
-{
     "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "quark-cloud-drive_2.2.3_all.deb",
@@ -1240,6 +1222,24 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Google Chrome 测试版",
+    "Version": "138.0.7204.35-1",
+    "Filename": "google-chrome-beta_138.0.7204.35-1_amd64.deb",
+    "Torrent_address": "google-chrome-beta_138.0.7204.35-1_amd64.deb.torrent",
+    "Pkgname": "google-chrome-beta",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
+    "Update": "2025-06-18 17:43:56",
+    "Size": "113M",
+    "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
+    "Tags": "ubuntu;deepin;uos;debian",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/icon.png"
 }
 
 ,
@@ -1279,24 +1279,6 @@
 
 ,
 {
-  "Name": "闪电藤文件传输",
-  "Version": "2.6.5",
-  "Filename": "life.zishu.sdt_2.6.5_amd64.deb",
-  "Torrent_address": "life.zishu.sdt_2.6.5_amd64.deb.torrent",
-  "Pkgname": "life.zishu.sdt",
-  "Author": "cmlanche <1204833748@qq.com>",
-  "Contributor": "cmlanche <1204833748@qq.com>",
-  "Website": "https://sdt.zishu.life/",
-  "Update": "2024-11-13 14:01:51",
-  "Size": "9.85 MB",
-  "More": "闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，完全兼容LocalSend，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。 有了LocalSend，还要开发闪电藤，在于LocalSend的更新迭代速度较慢，并且它的使用体验更多的是按国外的来设计的，国内很多需求反馈无法实现，所以我重新设计LocalSend，并且向所有人无广告免费开放使用，并征集大家的需求，共同建设一个更完美的LocalSend。 您可以关注我们的微信公众号，向我们反馈需求 or BUG",
-  "Tags": "ubuntu;deepin;uos;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/18a2a76581b34706aeb2de8e17f705b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/1e0a925b09bc46819275d5fe386d1c92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/b05fa9377a2c44c4ab158d0c8b8bbccc.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/13/a417817192a8408d9dc8beda20dcd638.png"
-}
-
-,
-{
     "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "browser360-cn-beta_13.126.1020.16-1_amd64.deb",
@@ -1311,6 +1293,24 @@
     "Website": "https://browser.360.net/gc/index.html",
     "icons": "https://spk-json.spark-app.store/store/network/browser360-cn-beta/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_1.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_2.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_3.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_4.png\"]"
+}
+
+,
+{
+  "Name": "闪电藤文件传输",
+  "Version": "2.6.5",
+  "Filename": "life.zishu.sdt_2.6.5_amd64.deb",
+  "Torrent_address": "life.zishu.sdt_2.6.5_amd64.deb.torrent",
+  "Pkgname": "life.zishu.sdt",
+  "Author": "cmlanche <1204833748@qq.com>",
+  "Contributor": "cmlanche <1204833748@qq.com>",
+  "Website": "https://sdt.zishu.life/",
+  "Update": "2024-11-13 14:01:51",
+  "Size": "9.85 MB",
+  "More": "闪电藤是基于LocalSend二次开发的一款局域网文件传输工具，完全兼容LocalSend，在它的基础上进行UI交互的重新设计，以及功能上的增强和删减，使其更加符合中国用户的使用体验。 有了LocalSend，还要开发闪电藤，在于LocalSend的更新迭代速度较慢，并且它的使用体验更多的是按国外的来设计的，国内很多需求反馈无法实现，所以我重新设计LocalSend，并且向所有人无广告免费开放使用，并征集大家的需求，共同建设一个更完美的LocalSend。 您可以关注我们的微信公众号，向我们反馈需求 or BUG",
+  "Tags": "ubuntu;deepin;uos;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/18a2a76581b34706aeb2de8e17f705b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/1e0a925b09bc46819275d5fe386d1c92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/b05fa9377a2c44c4ab158d0c8b8bbccc.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/13/a417817192a8408d9dc8beda20dcd638.png"
 }
 
 ,
@@ -1762,23 +1762,6 @@
 }
 ,
 {
-  "Name": "megasync",
-  "Version": "4.3.8-1.1",
-  "Filename": "MEGASync.deb",
-  "Pkgname": "megasync",
-  "Author": "MEGA Linux Team <linux@mega.co.nz>",
-  "Contributor": "neko",
-  "Website": "https://mega.nz",
-  "Update": "2021-01-02 16:03:12",
-  "Size": "12.29 MB",
-  "More": "linux下最好用的网盘",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
-}
-
-,
-{
   "Author": "shenmo",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1793,6 +1776,23 @@
   "Website": "",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "megasync",
+  "Version": "4.3.8-1.1",
+  "Filename": "MEGASync.deb",
+  "Pkgname": "megasync",
+  "Author": "MEGA Linux Team <linux@mega.co.nz>",
+  "Contributor": "neko",
+  "Website": "https://mega.nz",
+  "Update": "2021-01-02 16:03:12",
+  "Size": "12.29 MB",
+  "More": "linux下最好用的网盘",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
 }
 
 ,
@@ -1989,23 +1989,6 @@
 }
 ,
 {
-  "Name": "摸鱼股票球",
-  "Version": "0.3.0",
-  "Filename": "findfish-stockball_0.3.0_amd64.deb",
-  "Pkgname": "findfish-stockball",
-  "Author": "depend",
-  "Contributor": "depend",
-  "Website": "https://github.com/dependon/Stock-Ball",
-  "Update": "2022-03-16 10:04:52",
-  "Size": "120.11 KB",
-  "More": "上班摸鱼用，实时查看股票情况",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70beb4c0-a4cd-11ec-b6f1-21d05ca1ff21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70bf7810-a4cd-11ec-b6f1-21d05ca1ff21.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/16/6d97d240-a4cd-11ec-b6f1-21d05ca1ff21.png"
-}
-
-,
-{
   "Author": "wang",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.pdftodocx.deepin_1.1-2_all.deb",
@@ -2020,6 +2003,23 @@
   "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
   "icons": "https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_1.png\",\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_2.png\"]"
+}
+
+,
+{
+  "Name": "摸鱼股票球",
+  "Version": "0.3.0",
+  "Filename": "findfish-stockball_0.3.0_amd64.deb",
+  "Pkgname": "findfish-stockball",
+  "Author": "depend",
+  "Contributor": "depend",
+  "Website": "https://github.com/dependon/Stock-Ball",
+  "Update": "2022-03-16 10:04:52",
+  "Size": "120.11 KB",
+  "More": "上班摸鱼用，实时查看股票情况",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70beb4c0-a4cd-11ec-b6f1-21d05ca1ff21.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/16/70bf7810-a4cd-11ec-b6f1-21d05ca1ff21.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/16/6d97d240-a4cd-11ec-b6f1-21d05ca1ff21.png"
 }
 
 ,
@@ -2306,6 +2306,23 @@
 
 ,
 {
+    "Name": "豆包(wine)",
+    "Version": "1.56.6wine3",
+    "Filename": "doubao-wine_1.56.6wine3_all.deb",
+    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
+    "Pkgname": "doubao-wine",
+    "Author": "豆包",
+    "Contributor": "CR.Zhu",
+    "Website": "https://www.doubao.com/download/",
+    "Update": "2025-05-26 16:27:34",
+    "Size": "519.32 MB",
+    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+}
+,
+{
   "Name": "网易灵犀办公",
   "Version": "1.38.3",
   "Filename": "sirius-desktop_1.38.3_amd64.deb",
@@ -2322,23 +2339,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/f51f8faa6b7b408fb660872d3d3e779d.png"
 }
 
-,
-{
-    "Name": "豆包(wine)",
-    "Version": "1.56.6wine3",
-    "Filename": "doubao-wine_1.56.6wine3_all.deb",
-    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
-    "Pkgname": "doubao-wine",
-    "Author": "豆包",
-    "Contributor": "CR.Zhu",
-    "Website": "https://www.doubao.com/download/",
-    "Update": "2025-05-26 16:27:34",
-    "Size": "519.32 MB",
-    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
-}
 ,
 {
   "Name": "Floorp 浏览器",
@@ -2692,6 +2692,24 @@
 }
 ,
 {
+  "Name": "图标提取工具",
+  "Version": "1.0",
+  "Filename": "com.tubiaotiqu.deepin_1.0_all.deb",
+  "Torrent_address": "com.tubiaotiqu.deepin_1.0_all.deb.torrent",
+  "Pkgname": "com.tubiaotiqu.deepin",
+  "Author": "窗外的云",
+  "Contributor": "wang",
+  "Website": "https://www.52pojie.cn",
+  "Update": "2024-09-04 21:04:59",
+  "Size": "2.66 MB",
+  "More": "一款图标工具，图片提取之后，只需要简简单单一拖就可以了。",
+  "Tags": "deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/04/7472306383bb49c790080a8112205a4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/04/00e1dbf418b14586807790de773c583a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/04/43ef3aa7c07c43588de33866ee603bd4.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/04/994547bdc944465293b95c37c6ac86ec.png"
+}
+
+,
+{
   "Author": "shenmo<shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.jd.jm_12.4.6.0_all.deb",
@@ -2742,24 +2760,6 @@
   "Tags": "community;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/fb66076140ac4610a63659bbf17097a8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/31/8cdd784d6c1049eea8cf938c533793d4.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/c94959917d2c4e9e9c23db294dd86970.png"
-}
-
-,
-{
-  "Name": "图标提取工具",
-  "Version": "1.0",
-  "Filename": "com.tubiaotiqu.deepin_1.0_all.deb",
-  "Torrent_address": "com.tubiaotiqu.deepin_1.0_all.deb.torrent",
-  "Pkgname": "com.tubiaotiqu.deepin",
-  "Author": "窗外的云",
-  "Contributor": "wang",
-  "Website": "https://www.52pojie.cn",
-  "Update": "2024-09-04 21:04:59",
-  "Size": "2.66 MB",
-  "More": "一款图标工具，图片提取之后，只需要简简单单一拖就可以了。",
-  "Tags": "deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/04/7472306383bb49c790080a8112205a4a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/04/00e1dbf418b14586807790de773c583a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/04/43ef3aa7c07c43588de33866ee603bd4.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/04/994547bdc944465293b95c37c6ac86ec.png"
 }
 
 ,
@@ -2905,24 +2905,6 @@
 
 ,
 {
-  "Name": "天翼企业云盘",
-  "Version": "1.0.0.0",
-  "Filename": "com.dlife.corpcloud_1.0.0.0_amd64.deb",
-  "Torrent_address": "com.dlife.corpcloud_1.0.0.0_amd64.deb.torrent",
-  "Pkgname": "com.dlife.corpcloud",
-  "Author": "enterprisecloud@corp.21cn.com",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://b.cloud.189.cn/",
-  "Update": "2024-08-24 17:49:53",
-  "Size": "114.15 MB",
-  "More": "天翼企业云盘是由中国电信天翼云盘推出的企业级云存储服务，为企业或者团队提供文件存储，共享等服务。",
-  "Tags": "ubuntu;deepin;uos;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/24/fa725dca38b841798084b52272033715.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/24/b753a3190a19473386678b9274696c3e.png"
-}
-
-,
-{
   "Name": "新华财经",
   "Version": "2.3.58",
   "Filename": "com.ceis.app_2.3.58_amd64.deb",
@@ -2941,6 +2923,24 @@
 
 ,
 {
+  "Name": "天翼企业云盘",
+  "Version": "1.0.0.0",
+  "Filename": "com.dlife.corpcloud_1.0.0.0_amd64.deb",
+  "Torrent_address": "com.dlife.corpcloud_1.0.0.0_amd64.deb.torrent",
+  "Pkgname": "com.dlife.corpcloud",
+  "Author": "enterprisecloud@corp.21cn.com",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://b.cloud.189.cn/",
+  "Update": "2024-08-24 17:49:53",
+  "Size": "114.15 MB",
+  "More": "天翼企业云盘是由中国电信天翼云盘推出的企业级云存储服务，为企业或者团队提供文件存储，共享等服务。",
+  "Tags": "ubuntu;deepin;uos;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/24/fa725dca38b841798084b52272033715.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/24/b753a3190a19473386678b9274696c3e.png"
+}
+
+,
+{
   "Name": "gwakeonlan",
   "Version": "0.8.5-3lon",
   "Filename": "gwakeonlan_0.8.5-3lon_all.deb",
@@ -2955,6 +2955,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/30/71979b70c128440a8173ebc6af0b59b5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/30/00d1427ac6474eed98ab019f30f36bca.png"
+}
+
+,
+{
+    "Name": "frps（frp 服务端）",
+    "Version": "0.62.1-1",
+    "Filename": "frps_0.62.1-1_amd64.deb",
+    "Torrent_address": "frps_0.62.1-1_amd64.deb.torrent",
+    "Pkgname": "frps",
+    "Author": "wcbing <i@wcbing.top>",
+    "Contributor": "wcbing <i@wcbing.top>",
+    "Website": "https://github.com/wcbing/frp-debs",
+    "Update": "2025-04-30 17:46:31",
+    "Size": "5.3M",
+    "More": "官方 frps（frp 服务端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frps/icon.png"
 }
 
 ,
@@ -2990,24 +3008,6 @@
   "Tags": "ubuntu",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/20/72d48bc0-3166-11ec-92fc-719c0f52e4c0.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/20/63d4abf0-3166-11ec-92fc-719c0f52e4c0.png"
-}
-
-,
-{
-    "Name": "frps（frp 服务端）",
-    "Version": "0.62.1-1",
-    "Filename": "frps_0.62.1-1_amd64.deb",
-    "Torrent_address": "frps_0.62.1-1_amd64.deb.torrent",
-    "Pkgname": "frps",
-    "Author": "wcbing <i@wcbing.top>",
-    "Contributor": "wcbing <i@wcbing.top>",
-    "Website": "https://github.com/wcbing/frp-debs",
-    "Update": "2025-04-30 17:46:31",
-    "Size": "5.3M",
-    "More": "官方 frps（frp 服务端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
-    "Tags": "ubuntu;deepin;uos;debian;community",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frps/icon.png"
 }
 
 ,

@@ -267,24 +267,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "gxde-app-uninstaller_1.5.1_all.deb",
-    "More": "https://bbs.deepin.org.cn/post/277907\n\n可通过desktop文件卸载deb，ACE，snap，flatpak等其他支持packagekit的应用\n\ngxde-app-uninstaller desktop-name desktop文件名或直接把桌面上的快捷方式拖进来\n\n即可直接卸载应用",
-    "Name": "GXDE应用卸载器",
-    "Pkgname": "gxde-app-uninstaller",
-    "Size": "7 Kb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "gxde-app-uninstaller_1.5.1_all.deb.torrent",
-    "Update": "2025-06-11 21:04:47",
-    "Version": "1.5.1",
-    "Website": "https://gitee.com/GXDE-OS/gxde-app-uninstaller",
-    "icons": "https://spk-json.spark-app.store/store/tools/gxde-app-uninstaller/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-app-uninstaller/screen_1.png\"]"
-}
-
-,
-{
   "Author": "Luoyaoming <luoyaoming@kylinos.cn>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "kmre_3.0.0.0gxde1_arm64.deb",
@@ -299,6 +281,24 @@
   "Website": "https://gitee.com/GXDE-OS/kmre",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/kmre/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/kmre/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "gxde-app-uninstaller_1.5.1_all.deb",
+    "More": "https://bbs.deepin.org.cn/post/277907\n\n可通过desktop文件卸载deb，ACE，snap，flatpak等其他支持packagekit的应用\n\ngxde-app-uninstaller desktop-name desktop文件名或直接把桌面上的快捷方式拖进来\n\n即可直接卸载应用",
+    "Name": "GXDE应用卸载器",
+    "Pkgname": "gxde-app-uninstaller",
+    "Size": "7 Kb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "gxde-app-uninstaller_1.5.1_all.deb.torrent",
+    "Update": "2025-06-11 21:04:47",
+    "Version": "1.5.1",
+    "Website": "https://gitee.com/GXDE-OS/gxde-app-uninstaller",
+    "icons": "https://spk-json.spark-app.store/store/tools/gxde-app-uninstaller/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-app-uninstaller/screen_1.png\"]"
 }
 
 ,
@@ -747,24 +747,6 @@
 
 ,
 {
-  "Author": "qihu360 company <support@360.cn>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "360sd_1.0.0.1012_arm64.deb",
-  "More": "360杀毒",
-  "Name": "360杀毒",
-  "Pkgname": "360sd",
-  "Size": "33 Mb",
-  "Tags": "deepin;uos;native",
-  "Torrent_address": "360sd_1.0.0.1012_arm64.deb.torrent",
-  "Update": "2023-03-05 18:28:39",
-  "Version": "1.0.0.1012",
-  "Website": "http://www.360.cn/",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_3.png\"]"
-}
-
-,
-{
   "Author": "mujianwu <lrh15563910083@163.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "uotantoolbox_3.3.5_arm64.deb",
@@ -779,6 +761,24 @@
   "Website": "https://toolbox.uotan.cn/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/uotantoolbox/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/uotantoolbox/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "qihu360 company <support@360.cn>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "360sd_1.0.0.1012_arm64.deb",
+  "More": "360杀毒",
+  "Name": "360杀毒",
+  "Pkgname": "360sd",
+  "Size": "33 Mb",
+  "Tags": "deepin;uos;native",
+  "Torrent_address": "360sd_1.0.0.1012_arm64.deb.torrent",
+  "Update": "2023-03-05 18:28:39",
+  "Version": "1.0.0.1012",
+  "Website": "http://www.360.cn/",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/360sd/screen_3.png\"]"
 }
 
 ,
@@ -1431,24 +1431,6 @@
 
 ,
 {
-  "Author": "zty199 <zty2864@gmail.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
-  "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
-  "Name": "任务栏显卡切换插件",
-  "Pkgname": "dde-dock-graphics-plugin",
-  "Size": "39 Kb",
-  "Tags": "community;deepin;uos;dtk5;native",
-  "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
-  "Update": "2023-03-06 20:53:35",
-  "Version": "1.8.4-3",
-  "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.grub-customizer_5.2.2-2_all.deb",
@@ -1463,6 +1445,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "zty199 <zty2864@gmail.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
+  "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
+  "Name": "任务栏显卡切换插件",
+  "Pkgname": "dde-dock-graphics-plugin",
+  "Size": "39 Kb",
+  "Tags": "community;deepin;uos;dtk5;native",
+  "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
+  "Update": "2023-03-06 20:53:35",
+  "Version": "1.8.4-3",
+  "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
 }
 
 ,
@@ -1647,6 +1647,24 @@
 
 ,
 {
+  "Author": "https://app.lizardbyte.dev",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "sunshine_2025.122.141614_arm64.deb",
+  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
+  "Name": "Sunshine",
+  "Pkgname": "sunshine",
+  "Size": "7432 Kb",
+  "Tags": "community;ubuntu;native",
+  "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
+  "Update": "2025-02-07 11:12:49",
+  "Version": "2025.122.141614",
+  "Website": "https://app.lizardbyte.dev/Sunshine",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
+}
+
+,
+{
   "Author": "Martijn van Brummelen <mvb@debian.org>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "grsync_1.3.0-1_arm64.deb",
@@ -1683,6 +1701,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
+  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
+  "Name": "Barrier 键鼠共享软件",
+  "Pkgname": "store.spark-app.appwrapper.barrier",
+  "Size": "3 Kb",
+  "Tags": "community;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
+  "Update": "2025-02-14 21:54:41",
+  "Version": "2.4.0+dfsg-3",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
+}
+
+,
+{
   "Author": "gfdgd_xi <3025613752@qq.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-terminal_5.0.5_arm64.deb",
@@ -1701,24 +1737,6 @@
 
 ,
 {
-  "Author": "https://app.lizardbyte.dev",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "sunshine_2025.122.141614_arm64.deb",
-  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
-  "Name": "Sunshine",
-  "Pkgname": "sunshine",
-  "Size": "7432 Kb",
-  "Tags": "community;ubuntu;native",
-  "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
-  "Update": "2025-02-07 11:12:49",
-  "Version": "2025.122.141614",
-  "Website": "https://app.lizardbyte.dev/Sunshine",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb",
@@ -1733,24 +1751,6 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
-  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
-  "Name": "Barrier 键鼠共享软件",
-  "Pkgname": "store.spark-app.appwrapper.barrier",
-  "Size": "3 Kb",
-  "Tags": "community;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
-  "Update": "2025-02-14 21:54:41",
-  "Version": "2.4.0+dfsg-3",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
 }
 
 ,
@@ -1935,6 +1935,24 @@
 
 ,
 {
+    "Author": "skyyx2002 <mzldkj@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "skydisktest_1.01-1fix_arm64.deb",
+    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
+    "Name": "Sky磁盘测试工具",
+    "Pkgname": "skydisktest",
+    "Size": "102 Kb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "skydisktest_1.01-1fix_arm64.deb.torrent",
+    "Update": "2025-06-15 07:17:33",
+    "Version": "1.01-1fix",
+    "Website": "none",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_2.png\"]"
+}
+
+,
+{
   "Author": "Nick Craig-Wood <nick@craig-wood.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "rclone_1.68.0_arm64.deb",
@@ -1985,24 +2003,6 @@
     "Size": "18.88MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
-,
-{
-    "Author": "skyyx2002 <mzldkj@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "skydisktest_1.01-1fix_arm64.deb",
-    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
-    "Name": "Sky磁盘测试工具",
-    "Pkgname": "skydisktest",
-    "Size": "102 Kb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "skydisktest_1.01-1fix_arm64.deb.torrent",
-    "Update": "2025-06-15 07:17:33",
-    "Version": "1.01-1fix",
-    "Website": "none",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/skydisktest/screen_2.png\"]"
-}
-
 ,
 {
     "Author": "shenmo <ouyangyunrui@uniontech.com>",

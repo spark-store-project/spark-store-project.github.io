@@ -2476,27 +2476,6 @@ SHA512: 7572bc752732dc4460a2f7945eded654d941e56f43a56094bcacf583a80de5c1fd4a5830
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
-Package: spark-dwine-helper
-Architecture: all
-Version: 5.10.7-5.3.14
-Multi-Arch: foreign
-Priority: extra
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 668
-Provides: store.spark-app.spark-dwine-helper(=5.10.7-5.3.14)
-Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
-Recommends: python3-pyqt5
-Replaces: store.spark-app.spark-dwine-helper(<=5.10.7-5.3.14)
-Filename: ./tools/spark-dwine-helper/spark-dwine-helper_5.10.7-5.3.14_all.deb
-Size: 281044
-MD5sum: 803bb6777b21f687d11e7b3b0447c7bb
-SHA1: d0d83731f7c0b0f29bb25f9d03deef44ed63eaa8
-SHA256: ed468536ec07d108fdf91d0de0a451a0117327b024d846f0d2df5392a0263061
-SHA512: 9d8502d195bd671022703c55bbc3f7db069c8f1d650263758cc2f2c00d9f7010aa8e972d8bc612488a0cecf71540374799a78e824d68f2f19df35336785a8ffe
-Homepage: https://gitee.com/deepin-community-store/spark-wine
-Description: Spark Deepin Wine Helper
-
 Package: xiaoq-tools
 Architecture: all
 Version: 1.04
@@ -11706,22 +11685,22 @@ Description: .高中地理通关游戏――宇宙中的地球将宇宙中的地
 
 Package: firefox-spark
 Architecture: arm64
-Version: 136.0.4+build1-0ubuntu0.22.04.1~mt1
+Version: 140.0+build1-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo<shenmo@spark-app.store>
 Installed-Size: 52K
-Provides: x-www-browser,gnome-www-browser,firefox(=136.0.4+build1-0ubuntu0.22.04.1~mt1)
+Provides: x-www-browser,gnome-www-browser,firefox(=140.0+build1-0ubuntu0.22.04.1~mt1)
 Depends: libdbus-glib-1-2,libgtk-3-0
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox
-Filename: ./network/firefox-spark/firefox-spark_136.0.4+build1-0ubuntu0.22.04.1~mt1_arm64.deb
-Size: 62393520
-MD5sum: d188bcefd77c324bbd8383e0ff54f946
-SHA1: 0d86fe971b0703a640a705b15e6d762df6b1a4db
-SHA256: b9ddbb763307fada7e39dc1d76da98fca2012ad8620af4c7137655ca7884eba9
-SHA512: f01c4e25e874b5a30e00a77a1d64366ab7494c38c85a5db14922a25f23507be46e73202a07f45cf275dae68a3b1ecaad0ecd588e1f32b821e64f7ca31fa8eb0e
+Filename: ./network/firefox-spark/firefox-spark_140.0+build1-0ubuntu0.22.04.1~mt1_arm64.deb
+Size: 63563844
+MD5sum: 625a832d1e3d0a34d8ed343770801694
+SHA1: 88d03d30a72800c1a2cfacfe5c2fefe8b12d3f46
+SHA256: b18f89f84ca6fac7597130a8f5967778fd3a8f3bc0a019a472b6224a55480d65
+SHA512: 86b4f270feb89c4ac4495e54d227026be7f599546cb7c85dca00ea14e79c8a8b4d47b5ae587aa193c8f3c8d9cf1ca884f7613490dd72d8efb03fb1461a5dd786
 Homepage: https://gitee.com/spark-building-service/firefox-spark-arm
 Description: 一款开源自由的浏览器
  长介绍
@@ -13062,19 +13041,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: arm64
-Version: 3.2.18-36497
+Version: 3.2.18-36580
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 538253
+Installed-Size: 538255
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-36497_arm64.deb
-Size: 166126328
-MD5sum: bd5d8536d7f5ee858253456b559714f0
-SHA1: cec2518a27eb7d1cd3758c38c7d14947d049564f
-SHA256: 92ffed358b0afa903c40c36e6a72138738feeb58800f99126872ed2d4726f108
-SHA512: 3f9927f0542078c368e7501288dce62196d7376053f77d5477a873dc786d6a9cfd7e4876bd5a1d812914964354822ab4730d7ba530b3952ace144341113e9c8f
+Filename: ./chat/linuxqq/linuxqq_3.2.18-36580_arm64.deb
+Size: 166112936
+MD5sum: 96dbe7be39964bb417f3f873ffe7c42f
+SHA1: 28b522140a61d6cc6a1d721b7195b4811b2ea2ec
+SHA256: eed789591befcf96da26c68798ec2790b801701c56394086a55dbe3071fb4e27
+SHA512: d8a00a723b2c9fda1549315d7c3d1a89235a6d7f8607ba9a009cc85d11ba9335e197d3c9c3db2fbcd99cbe40dd0e160c4b1d731c3f594a6e7da744a94938c6d1
 Homepage: https://im.qq.com
 Description: 
   QQ

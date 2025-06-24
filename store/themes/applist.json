@@ -462,6 +462,23 @@
 
 ,
 {
+  "Name": "fcitx5皮肤深度终端",
+  "Version": "0.1-2",
+  "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
+  "Pkgname": "fcitx5-ui-deepin-terminal",
+  "Author": "lvzhu",
+  "Contributor": "shenmo",
+  "Website": "https://pinyin.sogou.com/skins/detail/view/info/587008?rf=search&tf=p",
+  "Update": "2021-12-06 10:26:50",
+  "Size": "103.17 KB",
+  "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f5013900-563b-11ec-9100-ad9f44a3c9f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f4f8ad80-563b-11ec-9100-ad9f44a3c9f7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/e966a440-563b-11ec-9100-ad9f44a3c9f7.png"
+}
+
+,
+{
   "Name": "melange主题",
   "Version": "1.0",
   "Filename": "custom-theme-melange_1.0_all.deb",
@@ -476,23 +493,6 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/add581e0-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/addb9c60-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adcf4050-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adca1030-83c9-11ee-8d0f-0f9fb3e2b016.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/bc808af0-83c9-11ee-8d0f-0f9fb3e2b016.png"
-}
-
-,
-{
-  "Name": "fcitx5皮肤深度终端",
-  "Version": "0.1-2",
-  "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
-  "Pkgname": "fcitx5-ui-deepin-terminal",
-  "Author": "lvzhu",
-  "Contributor": "shenmo",
-  "Website": "https://pinyin.sogou.com/skins/detail/view/info/587008?rf=search&tf=p",
-  "Update": "2021-12-06 10:26:50",
-  "Size": "103.17 KB",
-  "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f5013900-563b-11ec-9100-ad9f44a3c9f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f4f8ad80-563b-11ec-9100-ad9f44a3c9f7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/e966a440-563b-11ec-9100-ad9f44a3c9f7.png"
 }
 
 ,
@@ -935,23 +935,6 @@
 
 ,
 {
-  "Name": "unsplash-wallpapers",
-  "Version": "1.1.0",
-  "Filename": "unsplash-wallpapers_1.1.0_amd64.deb",
-  "Pkgname": "unsplash-wallpapers",
-  "Author": "soroushchehresa",
-  "Contributor": "jerrywang",
-  "Website": "https://github.com/soroushchehresa/unsplash-wallpapers/",
-  "Update": "2020-11-09 10:58:43",
-  "Size": "45.52 MB",
-  "More": "基于Electron, React and Redux 构建的 unsplash 切换壁纸软件. 经测试, 在Gnome上可用, DDE上尚不可用",
-  "Tags": "ubuntu;community;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/09/64d3f8e0-227a-11eb-bab2-9bf015eda5a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/09/7aecb5e0-227a-11eb-bab2-9bf015eda5a6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/09/3508dd60-227a-11eb-bab2-9bf015eda5a6.png"
-}
-
-,
-{
   "Name": "自定义主题打包工具",
   "Version": "1.0.5+v23",
   "Filename": "com.uniontech.themetool_1.0.5_plusv23_amd64.deb",
@@ -966,6 +949,23 @@
   "Tags": "deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/07/c23f0476242b48318c2a3dc71587b712.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/07/99f0cd386e7d42e3b20c97e3fb594553.png"
+}
+
+,
+{
+  "Name": "unsplash-wallpapers",
+  "Version": "1.1.0",
+  "Filename": "unsplash-wallpapers_1.1.0_amd64.deb",
+  "Pkgname": "unsplash-wallpapers",
+  "Author": "soroushchehresa",
+  "Contributor": "jerrywang",
+  "Website": "https://github.com/soroushchehresa/unsplash-wallpapers/",
+  "Update": "2020-11-09 10:58:43",
+  "Size": "45.52 MB",
+  "More": "基于Electron, React and Redux 构建的 unsplash 切换壁纸软件. 经测试, 在Gnome上可用, DDE上尚不可用",
+  "Tags": "ubuntu;community;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/09/64d3f8e0-227a-11eb-bab2-9bf015eda5a6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/09/7aecb5e0-227a-11eb-bab2-9bf015eda5a6.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/09/3508dd60-227a-11eb-bab2-9bf015eda5a6.png"
 }
 
 ,

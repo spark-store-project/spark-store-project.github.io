@@ -2620,27 +2620,6 @@ SHA512: 7572bc752732dc4460a2f7945eded654d941e56f43a56094bcacf583a80de5c1fd4a5830
 Homepage: https://gitee.com/deepin-community-store/spark-wine
 Description: Spark Deepin Wine Helper
 
-Package: spark-dwine-helper
-Architecture: all
-Version: 5.10.7-5.3.14
-Multi-Arch: foreign
-Priority: extra
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 668
-Provides: store.spark-app.spark-dwine-helper(=5.10.7-5.3.14)
-Depends: zenity, p7zip-legacy (>= 16.02+dfsg-8+Mejituu-2024022216) | p7zip-full (<< 16.02+transitional.1), fonts-noto-cjk, transhell, python3, wmctrl
-Recommends: python3-pyqt5
-Replaces: store.spark-app.spark-dwine-helper(<=5.10.7-5.3.14)
-Filename: ./tools/spark-dwine-helper/spark-dwine-helper_5.10.7-5.3.14_all.deb
-Size: 281044
-MD5sum: 803bb6777b21f687d11e7b3b0447c7bb
-SHA1: d0d83731f7c0b0f29bb25f9d03deef44ed63eaa8
-SHA256: ed468536ec07d108fdf91d0de0a451a0117327b024d846f0d2df5392a0263061
-SHA512: 9d8502d195bd671022703c55bbc3f7db069c8f1d650263758cc2f2c00d9f7010aa8e972d8bc612488a0cecf71540374799a78e824d68f2f19df35336785a8ffe
-Homepage: https://gitee.com/deepin-community-store/spark-wine
-Description: Spark Deepin Wine Helper
-
 Package: com.jzdy.deepin
 Architecture: all
 Version: 8.0.4
@@ -12154,19 +12133,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: loong64
-Version: 3.2.18-36497
+Version: 3.2.18-36580
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 567750
+Installed-Size: 567751
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, liblol,liblol-dkms
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-36497_loong64.deb
-Size: 142779038
-MD5sum: 1109d74c8201a860fcf422562ec39753
-SHA1: f839be88b76ffbddb4de4038b046143f4e06b2ba
-SHA256: 5583f0736bbd7b56d26a5ee324be6cce2e2bac18b8efcfb74641a332172e7d39
-SHA512: 2127ef52e04c81b8b72da7f95dbcd7dc1477bd1cfde0f1795257f271206867073e210b8422f59180f42f1bdbe690b38d3fba3b7fe399d85c7cd91b583eff7cd1
+Filename: ./chat/linuxqq/linuxqq_3.2.18-36580_loong64.deb
+Size: 142772380
+MD5sum: 9a3448fe077ade4742bb50b5185dc7b7
+SHA1: 8dc773082975e469d6dbe3a0294a65f976677be4
+SHA256: d48524a7bd1852d076c1e3123f4a6d29f2c56afd7d918ef496bdc2915d9589e2
+SHA512: 458ea822a26f38f34c026e241745cd826f67ec97e3cd939755449038d4593de4a257b7b82600328d5220fafe4997a45a14cefa7a7ffa1f98d030e1c872ef5684
 Homepage: https://im.qq.com
 Description: 
   QQ
