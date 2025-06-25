@@ -1434,24 +1434,6 @@ SHA512: 888b7e262cd856ea6ebb595b44acf23b3204e894b130f855b5aded16bdddb2abc78c79de
 Homepage: https://www.taotics.com/
 Description: Package Dict for Sogou IME NG
 
-Package: sogou-ime-ng
-Architecture: arm64
-Version: 10.0.9.0.8-1122
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 64652
-Depends: cpis-base, deepin-elf-verify (>= 1.1.10-1)
-Filename: ./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_arm64.deb
-Size: 12869426
-MD5sum: c80eb8ef5c9673d7d2fb0e7c1bef4008
-SHA1: 65ec97b9f752ae942363994e7d468715158fa3a2
-SHA256: c8e793606ba14c13f7e109180ec39ec2c13a3b9e53a279eedc396a4fef5a54a7
-SHA512: a980fdbbe56ebff20dc159290a47168b3fbff3cd5fcb63d4d67534d9f6b26502bb38e55769e0881d531fddbb30563a35194b9c79c42006ef3bb944ec159eb871
-Homepage: https://www.taotics.com/
-Description: package sogou-ime-ng.
-
 Package: aptss
 Architecture: all
 Version: 4.3.0-fix5
@@ -12682,7 +12664,7 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.101.1-1750254710
+Version: 1.101.2-1750797955
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -12692,12 +12674,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: ./development/code/code_1.101.1-1750254710_arm64.deb
-Size: 100432842
-MD5sum: fdcf8065f8f3f8fcdf47e67944b3bb59
-SHA1: d55e233b8065c37dd74f1f5b2e727551f0ac9431
-SHA256: ef60deb1d270ef588eaf718df134162c51687b2b468e273dba9ed052961040b7
-SHA512: 3dea3c0ee8692659912761a458845989e1e27cebd64d2cd8f03e5d317b7b5068b03b6212da947d693b0ce373b25e88348b29ba4b0a7009cbdb2c145cd1ea13c3
+Filename: ./development/code/code_1.101.2-1750797955_arm64.deb
+Size: 100446558
+MD5sum: 61f77de4a46c7a6543e51e4e928b2783
+SHA1: ce603f2b93b831ee3c35edab7b470f9f303ebf34
+SHA256: b3518d070bb87867f14ee72c12803b7b03fbd3bd051314338e53d472160ec204
+SHA512: 5dcae3f4a0c2827341ad28cd46be22ce2ff0882a7aee848b10d047538a902e1285d969f99054f40f1ef51cdfe39ef24f656c8b8fbb1c8599774755f984dd877f
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of

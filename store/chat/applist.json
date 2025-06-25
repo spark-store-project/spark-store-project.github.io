@@ -284,14 +284,14 @@
 ,
 {
     "Name": "Discord",
-    "Version": "0.0.98",
-    "Filename": "discord_0.0.98_amd64.deb",
-    "Torrent_address": "discord_0.0.98_amd64.deb.torrent",
+    "Version": "0.0.99",
+    "Filename": "discord_0.0.99_amd64.deb",
+    "Torrent_address": "discord_0.0.99_amd64.deb.torrent",
     "Pkgname": "discord",
     "Author": "Discord Maintainer Team <native-team@discord.com>",
     "Contributor": "Discord Maintainer Team <native-team@discord.com>",
     "Website": "https://github.com/Javinator9889/Discord-PPA",
-    "Update": "2025-06-18 17:48:58",
+    "Update": "2025-06-25 08:49:36",
     "Size": "101M",
     "More": "Discord，聊天软件，是一家游戏聊天应用与社区，Discord从游戏语音、IM工具服务起家，随后转向直播平台，进而开设游戏商店的社区平台，成为游戏玩家在游戏中沟通协作的首选工具",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -709,6 +709,23 @@
 
 ,
 {
+    "Name": "Foxmail（Wine）",
+    "Version": "7.2.25.375deepin5",
+    "Filename": "com.foxmail.deepin_7.2.25.375deepin5_amd64.deb",
+    "Torrent_address": "com.foxmail.deepin_7.2.25.375deepin5_amd64.deb.torrent",
+    "Pkgname": "com.foxmail.deepin",
+    "Author": "Deepin WINE Team",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.foxmail.com/",
+    "Update": "2025-06-21 12:18:33",
+    "Size": "145.05 MB",
+    "More": "Foxmail是一款电子邮件客户端软件，提供基于Internet标准的电子邮件收发、数字签名和加密、本地邮箱邮件搜索及强大的反垃圾邮件等多项功能。Foxmail致力于为您提供更便捷、更舒适的使用体验。",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/21/70c17690f5614292802fe9d0cf275416.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/21/f3abcf1881f44fea95c9372e90cf1d61.png"
+}
+,
+{
   "Author": "shenmo",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "discord-web_1.0.1_all.deb",
@@ -725,23 +742,6 @@
   "img_urls": "[\"https://spk-json.spark-app.store/store/chat/discord-web/screen_1.png\"]"
 }
 
-,
-{
-    "Name": "Foxmail（Wine）",
-    "Version": "7.2.25.375deepin5",
-    "Filename": "com.foxmail.deepin_7.2.25.375deepin5_amd64.deb",
-    "Torrent_address": "com.foxmail.deepin_7.2.25.375deepin5_amd64.deb.torrent",
-    "Pkgname": "com.foxmail.deepin",
-    "Author": "Deepin WINE Team",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.foxmail.com/",
-    "Update": "2025-06-21 12:18:33",
-    "Size": "145.05 MB",
-    "More": "Foxmail是一款电子邮件客户端软件，提供基于Internet标准的电子邮件收发、数字签名和加密、本地邮箱邮件搜索及强大的反垃圾邮件等多项功能。Foxmail致力于为您提供更便捷、更舒适的使用体验。",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/21/70c17690f5614292802fe9d0cf275416.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/21/f3abcf1881f44fea95c9372e90cf1d61.png"
-}
 ,
 {
   "Name": "Rocket.Chat.Electron",

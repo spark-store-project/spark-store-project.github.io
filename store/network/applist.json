@@ -19,14 +19,14 @@
 ,
 {
     "Name": "Google Chrome",
-    "Version": "137.0.7151.119-1",
-    "Filename": "google-chrome-stable_137.0.7151.119-1_amd64.deb",
-    "Torrent_address": "google-chrome-stable_137.0.7151.119-1_amd64.deb.torrent",
+    "Version": "138.0.7204.49-1",
+    "Filename": "google-chrome-stable_138.0.7204.49-1_amd64.deb",
+    "Torrent_address": "google-chrome-stable_138.0.7204.49-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-stable",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-06-18 17:42:40",
+    "Update": "2025-06-25 08:43:48",
     "Size": "113M",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -132,7 +132,7 @@
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2025-06-25 01:44:45",
+    "Update": "2025-06-26 01:41:02",
     "Size": "75936",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos;debian",
@@ -444,15 +444,15 @@
 ,
 {
     "Name": "Microsoft Edge Dev开发者通道",
-    "Version": "139.0.3380.1-1",
-    "Filename": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-dev_139.0.3380.1-1_amd64.deb.torrent",
+    "Version": "139.0.3394.0-1",
+    "Filename": "microsoft-edge-dev_139.0.3394.0-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-dev_139.0.3394.0-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-dev",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-06-18 17:39:08",
-    "Size": "179M",
+    "Update": "2025-06-25 08:42:40",
+    "Size": "180M",
     "More": "Access the Internet/连接网络\nMicrosoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier./Microsoft Edge 是一款将极简设计与先进技术相结合的浏览器，使网络变得更快、更安全、更轻松。\n每周更新\n比金丝雀更稳定。过去一周改进的最佳代表。\n我们的三个预览频道（Canary、Dev 和 Beta）可在所有受支持的 Windows、Windows Server 以及 macOS、Mobile 和 Linux 版本上使用。安装预览频道不会卸载已发布的 Microsoft Edge 版本，你可以同时安装多个预览频道。\n\n\n                    以下是 Microsoft Edge 新增功能介绍\n                从移动设备上传文件或照片\n通过扫描二维码，快速连接与 PC 处于同一网络的任何移动设备。这样，您便可以在 PC 上访问移动设备上的文件。\n阅读任何语言的 PDF\n只需右键单击 PDF，即可在 Microsoft Edge 边栏中将文本翻译为您的首选语言。",
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-dev/screen_5.png\"]",
@@ -623,24 +623,6 @@
 
 ,
 {
-  "Name": "Chromium",
-  "Version": "111.0.5503.0",
-  "Filename": "chromium-linux_111.0.5503.0_amd64.deb",
-  "Torrent_address": "chromium-linux_111.0.5503.0_amd64.deb.torrent",
-  "Pkgname": "chromium-linux",
-  "Author": "Chrome",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "http://www.chromium.org/Home",
-  "Update": "2022-12-27 21:18:41",
-  "Size": "101.45 MB",
-  "More": "Web browser that aims to build a safer, faster, and more stable internet\n browsing experience.\n .\n This package contains the web browser component.",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/88722011696846fea8665b0c43a2dfb5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/335383763a5a434c9b63a980bd9db90a.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/475a088280dd4b32a5f4b65c46f134ea.png"
-}
-
-,
-{
   "Name": "NeatDownloadManager",
   "Version": "1.4.10spark2",
   "Filename": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb",
@@ -655,6 +637,24 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/ce00ea7dee514da9b2ff471513b7b7cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/b2766b8d9e9f458295a5249d4c496889.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/63eff2f6427140fbab92a339e7149f2c.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/c65e0c8b61174d1486676f3ee2a2849a.png"
+}
+
+,
+{
+  "Name": "Chromium",
+  "Version": "111.0.5503.0",
+  "Filename": "chromium-linux_111.0.5503.0_amd64.deb",
+  "Torrent_address": "chromium-linux_111.0.5503.0_amd64.deb.torrent",
+  "Pkgname": "chromium-linux",
+  "Author": "Chrome",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "http://www.chromium.org/Home",
+  "Update": "2022-12-27 21:18:41",
+  "Size": "101.45 MB",
+  "More": "Web browser that aims to build a safer, faster, and more stable internet\n browsing experience.\n .\n This package contains the web browser component.",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/88722011696846fea8665b0c43a2dfb5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/335383763a5a434c9b63a980bd9db90a.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/475a088280dd4b32a5f4b65c46f134ea.png"
 }
 
 ,
@@ -1279,24 +1279,6 @@
 
 ,
 {
-    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "browser360-cn-beta_13.126.1020.16-1_amd64.deb",
-    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
-    "Name": "360安全浏览器Beta版",
-    "Pkgname": "browser360-cn-beta",
-    "Size": "136 Mb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "browser360-cn-beta_13.126.1020.16-1_amd64.deb.torrent",
-    "Update": "2025-06-15 06:57:49",
-    "Version": "13.126.1020.16-1",
-    "Website": "https://browser.360.net/gc/index.html",
-    "icons": "https://spk-json.spark-app.store/store/network/browser360-cn-beta/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_1.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_2.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_3.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_4.png\"]"
-}
-
-,
-{
   "Name": "闪电藤文件传输",
   "Version": "2.6.5",
   "Filename": "life.zishu.sdt_2.6.5_amd64.deb",
@@ -1311,6 +1293,24 @@
   "Tags": "ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/18a2a76581b34706aeb2de8e17f705b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/1e0a925b09bc46819275d5fe386d1c92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/13/b05fa9377a2c44c4ab158d0c8b8bbccc.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/13/a417817192a8408d9dc8beda20dcd638.png"
+}
+
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "browser360-cn-beta_13.126.1020.16-1_amd64.deb",
+    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Name": "360安全浏览器Beta版",
+    "Pkgname": "browser360-cn-beta",
+    "Size": "136 Mb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "browser360-cn-beta_13.126.1020.16-1_amd64.deb.torrent",
+    "Update": "2025-06-15 06:57:49",
+    "Version": "13.126.1020.16-1",
+    "Website": "https://browser.360.net/gc/index.html",
+    "icons": "https://spk-json.spark-app.store/store/network/browser360-cn-beta/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_1.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_2.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_3.png\",\"https://spk-json.spark-app.store/store/network/browser360-cn-beta/screen_4.png\"]"
 }
 
 ,
@@ -1368,6 +1368,23 @@
 
 ,
 {
+  "Name": "Yandex浏览器",
+  "Version": "21.3.3.1195-1",
+  "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
+  "Pkgname": "yandex-browser-beta",
+  "Author": "Yandex",
+  "Contributor": "Yandex",
+  "Website": "www.yandex.com",
+  "Update": "2021-05-22 20:52:10",
+  "Size": "93.01 MB",
+  "More": "一个非常漂亮的浏览器～",
+  "Tags": "uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
+}
+
+,
+{
   "Name": "UOS 远程协助",
   "Version": "1.1.36-1",
   "Filename": "uos-remote-assistance_1.1.36-1_amd64.deb",
@@ -1382,23 +1399,6 @@
   "Tags": "deepin;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/b2dbc2a990824a77a99c44e576e7d5bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/cd7481683937450eba00a38e20a2b7e5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/04/080a51f46732469bad3bea23ac9698df.png"
-}
-
-,
-{
-  "Name": "Yandex浏览器",
-  "Version": "21.3.3.1195-1",
-  "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
-  "Pkgname": "yandex-browser-beta",
-  "Author": "Yandex",
-  "Contributor": "Yandex",
-  "Website": "www.yandex.com",
-  "Update": "2021-05-22 20:52:10",
-  "Size": "93.01 MB",
-  "More": "一个非常漂亮的浏览器～",
-  "Tags": "uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
 }
 
 ,
@@ -1510,6 +1510,23 @@
 
 ,
 {
+    "Name": "qBittorrent",
+    "Version": "5.0.4.10",
+    "Filename": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb",
+    "Torrent_address": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb.torrent",
+    "Pkgname": "org.qbittorrent.qbittorrent",
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://www.qbittorrent.org/",
+    "Update": "2025-04-07 16:35:28",
+    "Size": "33.61 MB",
+    "More": "一款使用 Qt 做界面的 BT 传输软件。",
+    "Tags": "community;debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/07/bcb2f2ddb5554d6e8c295fc52859e0a4.png\",\"https://spk-json.spark-app.store/images/2025/04/07/443772c9989d49df9f10e5cebd9e1d8e.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/07/d3a334cf057c48f6ac60f93f9c527f1b.png"
+}
+,
+{
   "Name": "云日历",
   "Version": "1.0.2",
   "Filename": "mytime_linux_1.02_amd64.deb",
@@ -1541,23 +1558,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/22/29875260-110f-11ee-8cbf-e769c1600687.png"
 }
 
-,
-{
-    "Name": "qBittorrent",
-    "Version": "5.0.4.10",
-    "Filename": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb",
-    "Torrent_address": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb.torrent",
-    "Pkgname": "org.qbittorrent.qbittorrent",
-    "Author": "spark-store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://www.qbittorrent.org/",
-    "Update": "2025-04-07 16:35:28",
-    "Size": "33.61 MB",
-    "More": "一款使用 Qt 做界面的 BT 传输软件。",
-    "Tags": "community;debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/07/bcb2f2ddb5554d6e8c295fc52859e0a4.png\",\"https://spk-json.spark-app.store/images/2025/04/07/443772c9989d49df9f10e5cebd9e1d8e.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/07/d3a334cf057c48f6ac60f93f9c527f1b.png"
-}
 ,
 {
   "Name": "IT之家（web）",
@@ -1920,6 +1920,23 @@
 
 ,
 {
+    "Name": "浙政钉",
+    "Version": "2.23.0.1-spark1",
+    "Filename": "com.zjd.gov_2.23.0.1-spark1_amd64.deb",
+    "Torrent_address": "com.zjd.gov_2.23.0.1-spark1_amd64.deb.torrent",
+    "Pkgname": "com.zjd.gov",
+    "Author": "com.zjd.gov",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://com.zjd.gov.com",
+    "Update": "2025-06-14 16:45:39",
+    "Size": "318.69 MB",
+    "More": "“浙政钉”APP是浙江省大数据发展管理局建设打造的浙江省政务协同平台，采用技术融合、业务融合、数据融合，实现政务运行跨层级、跨地域、跨系统、跨部门、跨业务高效协同，全面支撑“掌上办公之省”“掌上治理之省”建设。\n“浙政钉”APP以满足政务办公场景需求为目标，通过建立覆盖浙江省的统一政务通讯录，落实高效闭环的消息送达机制，搭建内外闭环的协同流程体系，打造集成开放的移动应用门户，实现组织在线、沟通在线、协同在线、业务在线。\n\n“浙政钉”APP特色：\n1.账号权限统一账户：构建统一的账号管理、身份认证与权限管控，支持应用账号的统一管理，账号权限按照分级授权，赋能业务应用的单点登录。\n2.条块结合的通讯录：支持搭建区划组织、条线组织和专属组织的多类型通讯录，可见性与免打扰灵活配置，实现快速找组织、找人。\n3.通讯多元消息必达：通过单聊、群聊、DING、云会议、工作通知等多元通讯能力扩展触达渠道，提供多场景找人路径，实现即时通讯、DING消息必达。\n4.特色定制工作门户：根据工作场景灵活定制PC和移动工作门户，支持千组织千面、千人千面，日程、待办、审批任务提供强提醒通知。",
+    "Tags": "debian;ubuntu;deepin;amber-ce-deepin23",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/cc2c15d1327840038cf6bd2c41cf799f.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/f26e6d47a41c4413aacff5d4f5dee44e.png"
+}
+,
+{
   "Name": "猎鹰下载（wine）",
   "Version": "2.1.6.70spark0",
   "Filename": "com.eagleget.spark_2.1.6.70spark0_i386.deb",
@@ -1970,23 +1987,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/20/c80e82b032254dc589fbd9887dc9c37a.png"
 }
 
-,
-{
-    "Name": "浙政钉",
-    "Version": "2.23.0.1-spark1",
-    "Filename": "com.zjd.gov_2.23.0.1-spark1_amd64.deb",
-    "Torrent_address": "com.zjd.gov_2.23.0.1-spark1_amd64.deb.torrent",
-    "Pkgname": "com.zjd.gov",
-    "Author": "com.zjd.gov",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://com.zjd.gov.com",
-    "Update": "2025-06-14 16:45:39",
-    "Size": "318.69 MB",
-    "More": "“浙政钉”APP是浙江省大数据发展管理局建设打造的浙江省政务协同平台，采用技术融合、业务融合、数据融合，实现政务运行跨层级、跨地域、跨系统、跨部门、跨业务高效协同，全面支撑“掌上办公之省”“掌上治理之省”建设。\n“浙政钉”APP以满足政务办公场景需求为目标，通过建立覆盖浙江省的统一政务通讯录，落实高效闭环的消息送达机制，搭建内外闭环的协同流程体系，打造集成开放的移动应用门户，实现组织在线、沟通在线、协同在线、业务在线。\n\n“浙政钉”APP特色：\n1.账号权限统一账户：构建统一的账号管理、身份认证与权限管控，支持应用账号的统一管理，账号权限按照分级授权，赋能业务应用的单点登录。\n2.条块结合的通讯录：支持搭建区划组织、条线组织和专属组织的多类型通讯录，可见性与免打扰灵活配置，实现快速找组织、找人。\n3.通讯多元消息必达：通过单聊、群聊、DING、云会议、工作通知等多元通讯能力扩展触达渠道，提供多场景找人路径，实现即时通讯、DING消息必达。\n4.特色定制工作门户：根据工作场景灵活定制PC和移动工作门户，支持千组织千面、千人千面，日程、待办、审批任务提供强提醒通知。",
-    "Tags": "debian;ubuntu;deepin;amber-ce-deepin23",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/cc2c15d1327840038cf6bd2c41cf799f.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/f26e6d47a41c4413aacff5d4f5dee44e.png"
-}
 ,
 {
   "Author": "wang",
@@ -2288,6 +2288,23 @@
 
 ,
 {
+    "Name": "豆包(wine)",
+    "Version": "1.56.6wine3",
+    "Filename": "doubao-wine_1.56.6wine3_all.deb",
+    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
+    "Pkgname": "doubao-wine",
+    "Author": "豆包",
+    "Contributor": "CR.Zhu",
+    "Website": "https://www.doubao.com/download/",
+    "Update": "2025-05-26 16:27:34",
+    "Size": "519.32 MB",
+    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+}
+,
+{
   "Name": "Tixati",
   "Version": "3.28-1",
   "Filename": "tixati_3.28-1_amd64.deb",
@@ -2304,23 +2321,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/4eac64ac722045dba1d9be1f22f219dd.png"
 }
 
-,
-{
-    "Name": "豆包(wine)",
-    "Version": "1.56.6wine3",
-    "Filename": "doubao-wine_1.56.6wine3_all.deb",
-    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
-    "Pkgname": "doubao-wine",
-    "Author": "豆包",
-    "Contributor": "CR.Zhu",
-    "Website": "https://www.doubao.com/download/",
-    "Update": "2025-05-26 16:27:34",
-    "Size": "519.32 MB",
-    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
-}
 ,
 {
   "Name": "网易灵犀办公",
@@ -2341,6 +2341,23 @@
 
 ,
 {
+    "Name": "OneDriveGUI",
+    "Version": "1.1.1",
+    "Filename": "onedrive-gui_1.1.1_amd64.deb",
+    "Torrent_address": "onedrive-gui_1.1.1_amd64.deb.torrent",
+    "Pkgname": "onedrive-gui",
+    "Author": "spark-store",
+    "Contributor": "Love-in-idleness <3499847908@qq.com>",
+    "Website": "https://github.com/bpozdena/OneDriveGUI",
+    "Update": "2025-03-02 12:12:19",
+    "Size": "49.11 MB",
+    "More": "OneDrive Client for Linux的GUI管理工具，要求先安装onedrive并版本为2.5.x。",
+    "Tags": "community;debian;ubuntu;deepin;a2d",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/02/7e99bdd52c7f40adb1c3a92a57feb913.png\",\"https://spk-json.spark-app.store/images/2025/03/02/095f662a06b34fec8ea1c63582ae1ddd.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/02/4ebcb73b51c145c183774073648a8177.png"
+}
+,
+{
   "Name": "Floorp 浏览器",
   "Version": "11.22.0",
   "Filename": "com.github.floorp_11.22.0_amd64.deb",
@@ -2357,23 +2374,6 @@
   "icons": "https://spk-json.spark-app.store/icons/2025/01/15/40ba4d32dbfd4c579f28fb979c822c54.png"
 }
 
-,
-{
-    "Name": "OneDriveGUI",
-    "Version": "1.1.1",
-    "Filename": "onedrive-gui_1.1.1_amd64.deb",
-    "Torrent_address": "onedrive-gui_1.1.1_amd64.deb.torrent",
-    "Pkgname": "onedrive-gui",
-    "Author": "spark-store",
-    "Contributor": "Love-in-idleness <3499847908@qq.com>",
-    "Website": "https://github.com/bpozdena/OneDriveGUI",
-    "Update": "2025-03-02 12:12:19",
-    "Size": "49.11 MB",
-    "More": "OneDrive Client for Linux的GUI管理工具，要求先安装onedrive并版本为2.5.x。",
-    "Tags": "community;debian;ubuntu;deepin;a2d",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/02/7e99bdd52c7f40adb1c3a92a57feb913.png\",\"https://spk-json.spark-app.store/images/2025/03/02/095f662a06b34fec8ea1c63582ae1ddd.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/02/4ebcb73b51c145c183774073648a8177.png"
-}
 ,
 {
   "Name": "Cisco Packet Tracer",
@@ -2483,24 +2483,6 @@
 
 ,
 {
-  "Name": "FlareGet",
-  "Version": "5.0-1",
-  "Filename": "flareget_5.0-1_amd64.deb",
-  "Torrent_address": "flareget_5.0-1_amd64.deb.torrent",
-  "Pkgname": "flareget",
-  "Author": "Syed Adnan Kamili <support@flareget.com>",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "http://flareget.com/",
-  "Update": "2022-10-23 08:59:42",
-  "Size": "1.15 MB",
-  "More": "FlareGet 是一个付费的 GUI 多线程下载工具",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/a20a5834-a1da-4482-96ec-3cfb828977c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/4e633776-0566-444a-a594-533fe7752a8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/df59cf50-515c-4aaf-8f99-8b01ec5999af.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/23/60a47063-0b85-45af-ae0a-76990a88047e.png"
-}
-
-,
-{
   "Name": "4K Video Downloader Plus",
   "Version": "1.10-4",
   "Filename": "4kvideodownloaderplus_1.10-4_amd64.deb",
@@ -2515,6 +2497,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/03/982f0040e1bb486c86b46d35a8c64473.png\",\"https://spk-json.spark-app.store/images/2025/01/03/4b138b7cc13d402f92f297f9f9a9c406.png\",\"https://spk-json.spark-app.store/images/2025/01/03/d628da89f43c400fa947a22e04e77672.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/03/74546ccc4b424c01ba0c67b8126fe37a.png"
+}
+
+,
+{
+  "Name": "FlareGet",
+  "Version": "5.0-1",
+  "Filename": "flareget_5.0-1_amd64.deb",
+  "Torrent_address": "flareget_5.0-1_amd64.deb.torrent",
+  "Pkgname": "flareget",
+  "Author": "Syed Adnan Kamili <support@flareget.com>",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "http://flareget.com/",
+  "Update": "2022-10-23 08:59:42",
+  "Size": "1.15 MB",
+  "More": "FlareGet 是一个付费的 GUI 多线程下载工具",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/a20a5834-a1da-4482-96ec-3cfb828977c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/4e633776-0566-444a-a594-533fe7752a8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/23/df59cf50-515c-4aaf-8f99-8b01ec5999af.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/23/60a47063-0b85-45af-ae0a-76990a88047e.png"
 }
 
 ,
@@ -2728,6 +2728,23 @@
 
 ,
 {
+    "Name": "Bili23-Downloader",
+    "Version": "1.56.1spark0",
+    "Filename": "com.github.bili23-downloader.spark_1.56.1spark0_all.deb",
+    "Torrent_address": "com.github.bili23-downloader.spark_1.56.1spark0_all.deb.torrent",
+    "Pkgname": "com.github.bili23-downloader.spark",
+    "Author": "Bili23 Downloader",
+    "Contributor": "sgb76",
+    "Website": "https://bili23.scott-sloan.cn/",
+    "Update": "2025-02-28 01:26:44",
+    "Size": "61.27 MB",
+    "More": "跨平台的 B 站视频下载工具",
+    "Tags": "debian;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/28/d42ae56681704d29bb2bb0f44e5e63cf.png\",\"https://spk-json.spark-app.store/images/2025/02/28/bddf1d78b11b48f1b195bc1759885cc3.png\",\"https://spk-json.spark-app.store/images/2025/02/28/8841a188f0e84234afa6994e13783305.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/02/28/777b453dd7a14dfbafa7ffddd5bb0ed9.png"
+}
+,
+{
   "Name": "Noi",
   "Version": "0.4.0",
   "Filename": "noi_0.4.0_amd64.deb",
@@ -2762,23 +2779,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/31/c94959917d2c4e9e9c23db294dd86970.png"
 }
 
-,
-{
-    "Name": "Bili23-Downloader",
-    "Version": "1.56.1spark0",
-    "Filename": "com.github.bili23-downloader.spark_1.56.1spark0_all.deb",
-    "Torrent_address": "com.github.bili23-downloader.spark_1.56.1spark0_all.deb.torrent",
-    "Pkgname": "com.github.bili23-downloader.spark",
-    "Author": "Bili23 Downloader",
-    "Contributor": "sgb76",
-    "Website": "https://bili23.scott-sloan.cn/",
-    "Update": "2025-02-28 01:26:44",
-    "Size": "61.27 MB",
-    "More": "跨平台的 B 站视频下载工具",
-    "Tags": "debian;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/28/d42ae56681704d29bb2bb0f44e5e63cf.png\",\"https://spk-json.spark-app.store/images/2025/02/28/bddf1d78b11b48f1b195bc1759885cc3.png\",\"https://spk-json.spark-app.store/images/2025/02/28/8841a188f0e84234afa6994e13783305.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/02/28/777b453dd7a14dfbafa7ffddd5bb0ed9.png"
-}
 ,
 {
   "Name": "Pixso",

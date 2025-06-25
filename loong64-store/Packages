@@ -1446,35 +1446,6 @@ Homepage: https://github.com/linuxdeepin/deepin-icon-theme
 Description: Deepin Icons
  This package is DeepinIconTheme
 
-Package: blender-data
-Architecture: all
-Version: 4.2.3+dfsg-3
-Priority: optional
-Section: graphics
-Source: blender
-Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
-Installed-Size: 109157
-Depends: python3
-Replaces: blender (<< 2.67b-1~)
-Filename: ./depends/blender-data_4.2.3+dfsg-3_all.deb
-Size: 32679824
-MD5sum: a30363397ae49fa59a6b43080183626e
-SHA1: 4b4c254da26d4372331652df3333ba10f2c14aac
-SHA256: b381e43a03510b304f305737e3e5624e6f8de53a24c31663c7d071d07d4a369c
-SHA512: b824ef520618ffb906403d1d13b67fb7fd0d9314fecd594714cc28082f2bfa5f988b440842e61b4e85d827c3175676ceb694612406cebf65466a4e01a67d5c07
-Homepage: https://www.blender.org/
-Description: Very fast and versatile 3D modeller/renderer - data package
- Blender is an integrated 3d suite for modelling, animation, rendering,
- post-production, interactive creation and playback (games). Blender has its
- own particular user interface, which is implemented entirely in OpenGL and
- designed with speed in mind. Python bindings are available for scripting;
- import/export features for popular file formats like 3D Studio and Wavefront
- Obj are implemented as scripts by the community. Stills, animations, models
- for games or other third party engines and interactive content in the form of
- a standalone binary are common products of Blender use.
- .
- This package contains documentation, libraries and images for blender.
-
 Package: spark-store-install-source
 Architecture: all
 Version: 1.0.1

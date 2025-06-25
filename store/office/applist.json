@@ -196,24 +196,6 @@
 
 ,
 {
-  "Name": "永中 Office(Linux)",
-  "Version": "9.0.3988.101ZH.S1",
-  "Filename": "com.yozosoft.yozo-office_9.0.3988.101ZH.S1_amd64.deb",
-  "Torrent_address": "com.yozosoft.yozo-office_9.0.3988.101ZH.S1_amd64.deb.torrent",
-  "Pkgname": "com.yozosoft.yozo-office",
-  "Author": "User Support Services <support@yozosoft.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "http://www.yozosoft.com",
-  "Update": "2024-05-18 21:16:16",
-  "Size": "412.06 MB",
-  "More": "一个 Linux 上的办公软件",
-  "Tags": "ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/78a81666cdfc46de816e35bb277fa24d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/f38207b994f3491e947d1659d7d9fc60.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/714efc1858924a1bbce7925c8e67ee94.png"
-}
-
-,
-{
   "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "sogou-ime-ng-fcitx5-kylin-desktop_10.0.9.0.6-20231128000607_amd64.deb",
@@ -228,6 +210,24 @@
   "Website": "https://www.taotics.com/",
   "icons": "https://spk-json.spark-app.store/store/office/sogou-ime-ng-fcitx5-kylin-desktop/icon.png",
   "img_urls": "[]"
+}
+
+,
+{
+  "Name": "永中 Office(Linux)",
+  "Version": "9.0.3988.101ZH.S1",
+  "Filename": "com.yozosoft.yozo-office_9.0.3988.101ZH.S1_amd64.deb",
+  "Torrent_address": "com.yozosoft.yozo-office_9.0.3988.101ZH.S1_amd64.deb.torrent",
+  "Pkgname": "com.yozosoft.yozo-office",
+  "Author": "User Support Services <support@yozosoft.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "http://www.yozosoft.com",
+  "Update": "2024-05-18 21:16:16",
+  "Size": "412.06 MB",
+  "More": "一个 Linux 上的办公软件",
+  "Tags": "ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/78a81666cdfc46de816e35bb277fa24d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/18/f38207b994f3491e947d1659d7d9fc60.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/18/714efc1858924a1bbce7925c8e67ee94.png"
 }
 
 ,
@@ -714,21 +714,6 @@
 
 ,
 {
-  "Name": "FoxitReader",
-  "Version": "2.4.4.0911",
-  "Filename": "foxitreader_2.4.4.0911_amd64.deb",
-  "Pkgname": "foxitreader",
-  "Author": " ",
-  "Contributor": "sgb76",
-  "Website": "https://www.foxitsoftware.cn/",
-  "Update": "2020-08-10 04:23",
-  "Size": "73.59MB",
-  "More": "PDF阅读和打印可以如此简单",
-  "Tags": "debian;native"
-}
-
-,
-{
   "Name": "master PDF Editor 5.9.20",
   "Version": "5.9.82",
   "Filename": "master-pdf-editor-5_5.9.82_amd64.deb",
@@ -743,6 +728,21 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b39f0dc714e847ebbe8a07c10184cbe8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/5ef55a2d8d474c138e4a47da466e1188.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/affa0c95afd0410486c600da752c6b91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/c0079c946fac4bf2a9ee124798326cb1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/18/b49a0d8160ee4c1cadbac220e10fd5d6.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/18/a77b00faa80d4ba988e731764d7dc937.png"
+}
+
+,
+{
+  "Name": "FoxitReader",
+  "Version": "2.4.4.0911",
+  "Filename": "foxitreader_2.4.4.0911_amd64.deb",
+  "Pkgname": "foxitreader",
+  "Author": " ",
+  "Contributor": "sgb76",
+  "Website": "https://www.foxitsoftware.cn/",
+  "Update": "2020-08-10 04:23",
+  "Size": "73.59MB",
+  "More": "PDF阅读和打印可以如此简单",
+  "Tags": "debian;native"
 }
 
 ,
@@ -2668,23 +2668,6 @@
 
 ,
 {
-  "Name": "Mendeley Desktop",
-  "Version": "1.19.8",
-  "Filename": "mendeleydesktop_1.19.8_amd64.deb",
-  "Pkgname": "mendeleydesktop",
-  "Author": "Mendeley Ltd.",
-  "Contributor": "sgb76",
-  "Website": "http://www.mendeley.com",
-  "Update": "2021-02-18 14:22:28",
-  "Size": "118.64 MB",
-  "More": "一款用于管理和共享研究的免费学术软件。",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
-}
-
-,
-{
   "Author": "support@cbewin.com",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.cbewin.anytxt_1.3.1482_amd64.deb",
@@ -2699,6 +2682,23 @@
   "Website": "https://anytxt.net.cn/",
   "icons": "https://spk-json.spark-app.store/store/office/com.cbewin.anytxt/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/office/com.cbewin.anytxt/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "Mendeley Desktop",
+  "Version": "1.19.8",
+  "Filename": "mendeleydesktop_1.19.8_amd64.deb",
+  "Pkgname": "mendeleydesktop",
+  "Author": "Mendeley Ltd.",
+  "Contributor": "sgb76",
+  "Website": "http://www.mendeley.com",
+  "Update": "2021-02-18 14:22:28",
+  "Size": "118.64 MB",
+  "More": "一款用于管理和共享研究的免费学术软件。",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/638039f0-71b1-11eb-a0c6-abf730c6cbfd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/02/18/6968ad70-71b1-11eb-a0c6-abf730c6cbfd.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/18/5d04d540-71b1-11eb-a0c6-abf730c6cbfd.png"
 }
 
 ,
@@ -3130,6 +3130,24 @@
 
 ,
 {
+  "Name": "中国移动云电脑（wine）",
+  "Version": "1.0.0",
+  "Filename": "chinamobyunos_1.0.0_all.deb",
+  "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
+  "Pkgname": "chinamobyunos",
+  "Author": "huawei0086@126.com",
+  "Contributor": "rc3583z",
+  "Website": "1212123",
+  "Update": "2024-03-15 15:33:11",
+  "Size": "264.34 MB",
+  "More": "中国移动云电脑",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
+}
+
+,
+{
   "Name": "专注笔记",
   "Version": "2.16.2-682spark3",
   "Filename": "ink.focusapp.focusnote.spark_2.16.2-682spark3_amd64.deb",
@@ -3166,24 +3184,6 @@
 
 ,
 {
-  "Name": "中国移动云电脑（wine）",
-  "Version": "1.0.0",
-  "Filename": "chinamobyunos_1.0.0_all.deb",
-  "Torrent_address": "chinamobyunos_1.0.0_all.deb.torrent",
-  "Pkgname": "chinamobyunos",
-  "Author": "huawei0086@126.com",
-  "Contributor": "rc3583z",
-  "Website": "1212123",
-  "Update": "2024-03-15 15:33:11",
-  "Size": "264.34 MB",
-  "More": "中国移动云电脑",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/add19340-e29d-11ee-893c-3b7985d6d301.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/15/ee872080-e29d-11ee-893c-3b7985d6d301.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/15/a5e33da0-e29d-11ee-893c-3b7985d6d301.png"
-}
-
-,
-{
   "Name": "洋葱学院",
   "Version": "4.0.0-11",
   "Filename": "com.yangcong.yzf.spark_4.0.0-11_amd64.deb",
@@ -3215,6 +3215,24 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/eebdbd367c30475fbc47109183ea26ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/139fa261e1b0407ea5218c050bdd425f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/1e33688262f34fa08665f2e4a36c01eb.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/9a32454b288a4b2b9d41a563e3820869.png"
+}
+
+,
+{
+  "Name": "Bambu Studio",
+  "Version": "1.10.0~beta2",
+  "Filename": "com.bambulab.bambu-studio_1.10.0~beta2_amd64.deb",
+  "Torrent_address": "com.bambulab.bambu-studio_1.10.0~beta2_amd64.deb.torrent",
+  "Pkgname": "com.bambulab.bambu-studio",
+  "Author": "spark-store",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "https://bambulab.cn/zh-cn/download/studio",
+  "Update": "2024-11-04 18:17:27",
+  "Size": "86.86 MB",
+  "More": "Bambu Studio 是一款开源的、尖端的、功能丰富的切片软件。它包含了基于项目的工作流，系统化的切片算法，以及易于使用的图形界面，为用户带来令人难以置信的流畅打印体验。\n\n（如打开摄像头时闪退，请尝试使用apt手动安装gstreamer* libgstreamer*，此为原版AppImage存在问题，尚未修复）",
+  "Tags": "ubuntu;deepin;uos;a2d;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/106f83411ca54a4881c000cd6608fa12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/3f5bc283da384d88b615bc2b3d89add7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/b1483f7d19574db694232aabc55e285e.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/04/00c1ff8305ca41c2ab2b9b5755e70ef5.png"
 }
 
 ,
@@ -3272,24 +3290,6 @@
 
 ,
 {
-  "Name": "Bambu Studio",
-  "Version": "1.10.0~beta2",
-  "Filename": "com.bambulab.bambu-studio_1.10.0~beta2_amd64.deb",
-  "Torrent_address": "com.bambulab.bambu-studio_1.10.0~beta2_amd64.deb.torrent",
-  "Pkgname": "com.bambulab.bambu-studio",
-  "Author": "spark-store",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "https://bambulab.cn/zh-cn/download/studio",
-  "Update": "2024-11-04 18:17:27",
-  "Size": "86.86 MB",
-  "More": "Bambu Studio 是一款开源的、尖端的、功能丰富的切片软件。它包含了基于项目的工作流，系统化的切片算法，以及易于使用的图形界面，为用户带来令人难以置信的流畅打印体验。\n\n（如打开摄像头时闪退，请尝试使用apt手动安装gstreamer* libgstreamer*，此为原版AppImage存在问题，尚未修复）",
-  "Tags": "ubuntu;deepin;uos;a2d;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/106f83411ca54a4881c000cd6608fa12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/3f5bc283da384d88b615bc2b3d89add7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/b1483f7d19574db694232aabc55e285e.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/04/00c1ff8305ca41c2ab2b9b5755e70ef5.png"
-}
-
-,
-{
   "Name": "讯飞星火（web）",
   "Version": "1.0-1",
   "Filename": "com.xinghuo.uos_1.0-1_amd64.deb",
@@ -3343,6 +3343,24 @@
 
 ,
 {
+  "Name": "FreeOffice 2024",
+  "Version": "3666",
+  "Filename": "softmaker-freeoffice-2024_3666_amd64.deb",
+  "Torrent_address": "softmaker-freeoffice-2024_3666_amd64.deb.torrent",
+  "Pkgname": "softmaker-freeoffice-2024",
+  "Author": "SoftMaker GmbH <support@softmaker.com>",
+  "Contributor": "Love-in-idleness <3499847908@qq.com>",
+  "Website": "http://www.softmaker.com",
+  "Update": "2025-01-04 18:47:13",
+  "Size": "160.03 MB",
+  "More": "SoftMaker FreeOffice is powerful and fast, and reads and writes Microsoft Office documents flawlessly.\n It comes with the TextMaker word processor, the spreadsheet program PlanMaker and\n the presentations software Presentations.",
+  "Tags": "community;debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/0b5cdd9e63424e2dbb160765a683b05e.png\",\"https://spk-json.spark-app.store/images/2025/01/04/d224f28085654dfd858935d0f6a5e3c4.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/8f5ae305864d44d5ade731e8ac47d6da.png"
+}
+
+,
+{
   "Name": "Catia",
   "Version": "2011V5R21",
   "Filename": "com.3ds.catia_2011V5R21_i386.deb",
@@ -3375,24 +3393,6 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/12/f2407c6c51fb41b8b2873173cf5d06ec.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/12/b2c05b07054c4025918c5abccab51311.png"
-}
-
-,
-{
-  "Name": "FreeOffice 2024",
-  "Version": "3666",
-  "Filename": "softmaker-freeoffice-2024_3666_amd64.deb",
-  "Torrent_address": "softmaker-freeoffice-2024_3666_amd64.deb.torrent",
-  "Pkgname": "softmaker-freeoffice-2024",
-  "Author": "SoftMaker GmbH <support@softmaker.com>",
-  "Contributor": "Love-in-idleness <3499847908@qq.com>",
-  "Website": "http://www.softmaker.com",
-  "Update": "2025-01-04 18:47:13",
-  "Size": "160.03 MB",
-  "More": "SoftMaker FreeOffice is powerful and fast, and reads and writes Microsoft Office documents flawlessly.\n It comes with the TextMaker word processor, the spreadsheet program PlanMaker and\n the presentations software Presentations.",
-  "Tags": "community;debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/0b5cdd9e63424e2dbb160765a683b05e.png\",\"https://spk-json.spark-app.store/images/2025/01/04/d224f28085654dfd858935d0f6a5e3c4.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/8f5ae305864d44d5ade731e8ac47d6da.png"
 }
 
 ,
@@ -4773,6 +4773,21 @@
 
 ,
 {
+  "Name": "Joplin",
+  "Author": "Joplin Team <no-reply@joplinapp.org>",
+  "Website": "https://joplinapp.org/",
+  "More": "Joplin是一个开源的笔记应用程序，帮助你记录您的想法，并从任何设备安全地访问它们。",
+  "Tags": "community;debian;ubuntu;deepin;native",
+  "Pkgname": "joplin",
+  "Version": "3.3.13",
+  "Filename": "joplin_3.3.13_amd64.deb",
+  "Update": "2025-06-11 01:41:04",
+  "Size": "130.47MB",
+  "Contributor": "https://gitee.com/spark-building-service/github"
+}
+
+,
+{
   "Name": "JabRef",
   "Version": "5.1.60000-1",
   "Filename": "jabref_5.1-1_amd64.deb",
@@ -4924,21 +4939,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/fcaab320-2738-11ec-b756-f5d7d4db7de6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/00732cd0-2739-11ec-b756-f5d7d4db7de6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/07/0347a990-2739-11ec-b756-f5d7d4db7de6.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/07/e3115ae0-2738-11ec-b756-f5d7d4db7de6.png"
-}
-
-,
-{
-  "Name": "Joplin",
-  "Author": "Joplin Team <no-reply@joplinapp.org>",
-  "Website": "https://joplinapp.org/",
-  "More": "Joplin是一个开源的笔记应用程序，帮助你记录您的想法，并从任何设备安全地访问它们。",
-  "Tags": "community;debian;ubuntu;deepin;native",
-  "Pkgname": "joplin",
-  "Version": "3.3.13",
-  "Filename": "joplin_3.3.13_amd64.deb",
-  "Update": "2025-06-11 01:41:04",
-  "Size": "130.47MB",
-  "Contributor": "https://gitee.com/spark-building-service/github"
 }
 
 ,

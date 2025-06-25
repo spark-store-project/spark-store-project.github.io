@@ -2766,24 +2766,6 @@ SHA512: 888b7e262cd856ea6ebb595b44acf23b3204e894b130f855b5aded16bdddb2abc78c79de
 Homepage: https://www.taotics.com/
 Description: Package Dict for Sogou IME NG
 
-Package: sogou-ime-ng
-Architecture: amd64
-Version: 10.0.9.0.8-1122
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: jiangjiang <jiangjiang@taotics-inc.com>
-Installed-Size: 69943
-Depends: cpis-base, deepin-elf-verify (>= 1.1.10-1)
-Filename: ./depends/sogou/sogou-ime-ng_10.0.9.0.8-1122_amd64.deb
-Size: 14990014
-MD5sum: 63d50f5c9dc540e880770e5b23ece568
-SHA1: 27fd52fd2647990e94534e7e4a9ca6cd719fa646
-SHA256: 876aec64abcbece1b9a733ee368ba9bd8ea25accecf08702ab4906db7911896b
-SHA512: 07d79e387c4a419545685ec14b8edcff3e7e01ccf9571061941618b4513e9e7065dd661d98b82d1e8f7bc6563dd903aed04fae68805980e885b80726caa4f6c5
-Homepage: https://www.taotics.com/
-Description: package sogou-ime-ng.
-
 Package: aptss
 Architecture: all
 Version: 4.3.0-fix5
@@ -13943,18 +13925,18 @@ Description: VirtualDJ on Deepin Wine6
 
 Package: go-musicfox
 Architecture: amd64
-Version: 4.6.0-2
+Version: 4.6.2-7
 Priority: optional
 Section: sound
 Maintainer: anhoder <anhoder@88.com>
 Depends: flac, libasound2-dev
 Conflicts: go-musicfox-git
-Filename: ./music/go-musicfox/go-musicfox_4.6.0-2_amd64.deb
-Size: 10614840
-MD5sum: c5aa5f14a21aa9d4ced3e83cbaea08e8
-SHA1: 60ae638fcb6b26c81185703822f9aac6e8413d5d
-SHA256: e8e19aec85e2464691c8e218b7593b4859305794e9c78709a19c7d14591f3f3b
-SHA512: d06d89c60d29670b1d6b7b5580e8ba3134432615692f102dcd0a54088c0d21bc453cf49482473be0afb91b2cbef29eea3db1650ce3ed13afdf76bbe37092997b
+Filename: ./music/go-musicfox/go-musicfox_4.6.2-7_amd64.deb
+Size: 5540152
+MD5sum: e4ef25456138b7f383362b090881bfda
+SHA1: 0c76a90c3388b4cb21e36011f2e7e4b3a3dc96a7
+SHA256: 8b8899b30a9ba17dcae00428999917c111fa510a55ef1c8f41974740430f71f9
+SHA512: 9f809db85fa4ebac2d6ef320c2de700031ec4d45b10789cba3362ef2599cc4a2d11d96f866ba9a648d68059bef4ebbd9408f6847a395204dea1cf976e1ada9b5
 Homepage: https://github.com/go-musicfox/go-musicfox
 Description: A NetEase music player in terminal.
 
@@ -18829,18 +18811,18 @@ Description: org.jhelioviewer.jhelioviewer
 
 Package: fonts-harmonyos-sans
 Architecture: all
-Version: 2021
+Version: 2025
 Priority: optional
 Section: default
 Maintainer: Huawei
 Recommends: deepin-font-manager
-Filename: ./others/fonts-harmonyos-sans/fonts-harmonyos-sans_2021_all.deb
-Size: 43685788
-MD5sum: aa163e3c56ceadbb69fb8bcec287b42b
-SHA1: 91bc27a9de69a9f5fb78c6cc1836b880458fcb7f
-SHA256: 7620681c58d51be79b04fcff0d7c68590863597571dc8b4815f9026023848e7f
-SHA512: e3e4c158fd0e5a2d48abd4bc4b45f3cd41773a6286c830ac3c3ee6fbd76ac9103c2e0a67887e7b4f92d9b18b0b45ccf72f794091826fcafffd6de625990ab75e
-Homepage: https://developer.harmonyos.com/
+Filename: ./others/fonts-harmonyos-sans/fonts-harmonyos-sans_2025_all.deb
+Size: 51877148
+MD5sum: 869b63d0a46f3b5d6f07ce468b41ede9
+SHA1: 3fc608a2c46c05b25b038e4b0261224c0ec7a858
+SHA256: 42f76157c3f2dbd3e1c0b212ee04876adcc8d1d174ba62f44dec29b0d6a21f4c
+SHA512: 4cf8847113d2a2551b86aaecd59b7a27f6d26a90ec434f4a4f5b175ffeb7c7d4cdb04c65ae0b8667f0d08543ba5447711deb27d61c289e845d674188c3bf2313
+Homepage: https://developer.huawei.com/consumer/cn/design/resource/
 Description: 
   HarmonyOS Sans Fonts Software
 License: unknown
@@ -21979,6 +21961,22 @@ SHA1: cae1633647db5f9c1b814cff814f08b7965eaa40
 SHA256: aba26fd59dbbc1f61fec0524d2d652bdc49e01f2bc1e973f76a0e33f011b3ed3
 SHA512: 7e1158baa09fbe09434b75f5460b5368cfeb86b0a3e67429efc71e57dbd32fc5a6d0403c6cde927b1f72cd23ac5fba86b8e2c562382a9aec4224b0f60ad0ac18
 Description: A webapp of https://start.qq.com/?ADTAG=0 packed by 杀毒软件吧 using spark webapp runtime
+
+Package: com.plantsvszombies.dotnet
+Architecture: amd64
+Version: 1.0.1.1
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Installed-Size: 222680
+Depends: libfuse3-4,fuse3,libfuse2 | libfuse2t64, python3
+Filename: ./games/com.plantsvszombies.dotnet/com.plantsvszombies.dotnet_1.0.1.1_amd64.deb
+Size: 113922812
+MD5sum: 01439f9469be942350af8b8ef79578e3
+SHA1: c476db8453b58b32b6ed40baaf268da0725ae8ea
+SHA256: c4a06a7b8ecadf087cb38163a98bc9c9aca43e20407addec5cbd6ed1cbdfd8eb
+SHA512: d4d3f385392aeb98f7eba5a7022638a45566c632460ea24c2efa0c2e9f073fcad532a24415bf0e13cf101c414cb69da74440276eb2db4321c0a34d583c367e76
+Description: 植物大战僵尸.NET原生移植版
 
 Package: com.atari.ballance.dcs
 Architecture: all
@@ -32933,20 +32931,20 @@ Description: JD.JM
 
 Package: microsoft-edge-dev
 Architecture: amd64
-Version: 139.0.3380.1-1
+Version: 139.0.3394.0-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 612914
+Installed-Size: 614190
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-dev/microsoft-edge-dev_139.0.3380.1-1_amd64.deb
-Size: 187473728
-MD5sum: 0032b4c7ce8ca9e3e9a0ab3ccb4fbee3
-SHA1: d630521668d4ab35f4d8d18a07572140c5095e3b
-SHA256: e7d86e84479c0186de02792faa2d1b22e7c733c8fb5ba6810e2415fa6b80eb95
-SHA512: 56404ad3e4b91f0c63ebc11b1af14e6a5ff789ab53ad57757496c3981747b9cc198a674e30c9802fe1da36d39a0694adb8dd2c5c9062098a8a4029c8460a9ac1
+Filename: ./network/microsoft-edge-dev/microsoft-edge-dev_139.0.3394.0-1_amd64.deb
+Size: 187785704
+MD5sum: 8b85e65532c418f9ab9f24c61afac623
+SHA1: 8450f78d3a25297ce6d640131f4ec3c568138e1d
+SHA256: 5ecad811e8dff0c8f023bc1f5fa70cc522e7ec8704e78d47a954e14414c0ce95
+SHA512: 3ad4c5da8927fbf704ef9f167f276dd8e3101443db99eff4f879fe3c83059407060e64feba3fb70119b1fa1bd326985dac15f572cd0a9150e2ddfe57e1d002a2
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34626,20 +34624,20 @@ Description: Popcorn-Time
 
 Package: google-chrome-stable
 Architecture: amd64
-Version: 137.0.7151.119-1
+Version: 138.0.7204.49-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 378316
+Installed-Size: 376562
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/google-chrome-stable/google-chrome-stable_137.0.7151.119-1_amd64.deb
-Size: 117745852
-MD5sum: 37f6c46d912cc0e3b6ac207b73acd8bb
-SHA1: 66097ec0fc9cfc0d8dcdefac01dc01f544c76c33
-SHA256: 11c537a6e94fd48fbc90abed1c94af35ab68dbf6f317e5da64802f266e8a187a
-SHA512: cead1dbc614379ad95e55d902dd3163274706293bcc405c4dcf5ec119750d834e724c9b2fc3e06476bfd472c66954f9599df0da0195fda320eb59e60bf94093d
+Filename: ./network/google-chrome-stable/google-chrome-stable_138.0.7204.49-1_amd64.deb
+Size: 118033016
+MD5sum: e0afab1b5fe31c9176c2e998f2201393
+SHA1: f6954ed65b2cfaf31c25cfe7acbacded16d07240
+SHA256: 147623a3cacf9abb89584a479e4247b391edd0d3f61b019228d61b0c2b509926
+SHA512: 3f1b5c724acbc4368022c0c6056c7bdada43f48b7885508d733945158702aa048833df3230a1ecb5e525568ada84d1e47984d102055d037d22bd954b0b59dec5
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -35360,11 +35358,11 @@ Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
 Filename: ./network/firefox-spark/firefox-spark_140.0_amd64.deb
-Size: 77757216
-MD5sum: c9f3720eca8655877295d968ba4fcd86
-SHA1: 26feffabc2e03a6a401f58ee506ff0d565b75e43
-SHA256: 7dbd0566ee1fec625e9b593ee08798ae1c2f17b444ab16bf073d0626cb6075de
-SHA512: 8d99aab65638e4d1439e2d8a9fe7ff5928685042f53f964533d644f19da08cbad8e251ec1e8da99bbce3ddb6b3aabc5e052c8033e8c6c0661390c6ecc2b9a9a3
+Size: 77754844
+MD5sum: ad414f99bda2d31c996d7fa427d8ce5c
+SHA1: ce3f8e3c54e5bcbf1e3e13087cea58480c79e0c8
+SHA256: ee233a49b4badd165ef8df9c352a1d49a88463a46162ca4e0cfb7c8e5d3315c5
+SHA512: 42bd1cf23e7d0b7580947d634ab4c3123112c8977ac40cb5cb8ce712ad4f6b61eaace104d9e14bf5d0b597d82b42e939e3a289acc6c5e818edcf577b0e0a41d5
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -39936,7 +39934,7 @@ Description: Vim-fork focused on extensibility and usability.
 
 Package: code
 Architecture: amd64
-Version: 1.101.1-1750254731
+Version: 1.101.2-1750797935
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -39946,12 +39944,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: ./development/code/code_1.101.1-1750254731_amd64.deb
-Size: 108605322
-MD5sum: 114977cf969f3117e8e3393669dcefe6
-SHA1: 8725927e51cf8d811dedaab0fa0c5b8547e67f61
-SHA256: e1f65b55302c3e81af5102ec291cd8f71ea25fbc4259f24772fd57ccc7810871
-SHA512: 01af096cbcb889b93769ab05ff078058a355218955447d49638fc159ae3612dc80f8af12ed62eeaf4a8d67131576742cffa56af54c8ded586eb86fdfb9f4b2eb
+Filename: ./development/code/code_1.101.2-1750797935_amd64.deb
+Size: 108597498
+MD5sum: eedaaf95251b00d50484247f4619e3c2
+SHA1: 9d3dde042cd4c488a3634e14422f1eb059ee9041
+SHA256: b8a90a787778ce79ff616fcac689339479e7eab1dc541ece208a97caa51a153b
+SHA512: b7817016614a210ffe1d0aa95dc6a565c1f2ddd1ca2ccb4a071836da236f6742405d96db9c869d5a68fb727c26f93a8d2c3010d5ed25df5e0f83f46186369aa4
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
@@ -41101,19 +41099,19 @@ Vendor: Ferdium Contributors <hello@ferdium.org>
 
 Package: discord
 Architecture: amd64
-Version: 0.0.98
+Version: 0.0.99
 Priority: optional
 Section: net
 Maintainer: Discord Maintainer Team <native-team@discord.com>
 Installed-Size: 263156
 Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
 Recommends: libappindicator1 | libayatana-appindicator1
-Filename: ./chat/discord/discord_0.0.98_amd64.deb
-Size: 104908628
-MD5sum: c166c27e72b1ca85b2b1246ca0435a0a
-SHA1: 9bfa19340424b8aa417b654d0fe5a1c064437c86
-SHA256: f2a45d67b9c3d9a417a32dba251b56b507550e4a1a751182f885082f2a9ec772
-SHA512: f5e163cf544ca28565368ff5479fe12e2a53adf2b06855794b6a2d43b2e3311e5bb4381ecbba64734ebf8e48956f6aaba7dabe89bc15380be8a6e6d0766fd7c1
+Filename: ./chat/discord/discord_0.0.99_amd64.deb
+Size: 104908592
+MD5sum: cffae5a6222a96a6bd646e08eae1b920
+SHA1: cd2ceddca448e111b36e0722af7681827859de9f
+SHA256: feb9090b433ab75a29e441b29bdba7967458774b86a7aea86669ba0609ad85d6
+SHA512: 2abce5aae859def41c9a5dffa7e3ac36526659b5a52972e624a0ceac633799ebc04c548332faca571aace3fda95a4caab1f5dd400f8b1803888f31a194b91cf7
 Homepage: https://discord.com
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,

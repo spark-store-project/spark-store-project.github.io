@@ -421,6 +421,23 @@
 
 ,
 {
+    "Name": "musicfox （网易云音乐命令行版）",
+    "Version": "4.6.2-7",
+    "Filename": "go-musicfox_4.6.2-7_amd64.deb",
+    "Torrent_address": "go-musicfox_4.6.2-7_amd64.deb.torrent",
+    "Pkgname": "go-musicfox",
+    "Author": "anhoder <anhoder@88.com>",
+    "Contributor": "anhoder <anhoder@88.com>",
+    "Website": "https://github.com/go-musicfox/go-musicfox",
+    "Update": "2025-06-25 19:43:59",
+    "Size": "5.74 MB",
+    "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。\n\n新毛维护的星火商店版本：\n2024/09/26：修复了Ubuntu 24.04缺失依赖库的问题\n\n2024/10/28：跟进上游版本\n\n2024/11/15：跟进上游版本\n\n2025/06/25：跟进上游版本，上游版本已经打包deb版本，但是并没有对于Ubuntu 2204支持，此版本重打包重新修复了libFLAC8的问题",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/25/0e00e97495de4be4b6e450bcf9d6c61f.png\",\"https://spk-json.spark-app.store/images/2025/06/25/db6b6c789a784338acc963f44f8d1d50.png\",\"https://spk-json.spark-app.store/images/2025/06/25/45e76f26d5e44aa29a5ece9a77b77e75.png\",\"https://spk-json.spark-app.store/images/2025/06/25/2f306d14d43f4a2eab9a29b6438801ea.png\",\"https://spk-json.spark-app.store/images/2025/06/25/4408dd417d02458a84725bf8e0b65950.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/25/81dfc1c2a48a4f56abcfdc96f341d7d8.png"
+}
+,
+{
   "Name": "DeaDBeeF",
   "Version": "1.9.5-1",
   "Filename": "deadbeef-static_1.9.5-1_amd64.deb",
@@ -435,24 +452,6 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/a12adeaefc8742409c7a01cd3155c053.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/b6bf24e460ad4aa38b9deaf075215ede.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/28/6abbb32addb14e81bdc3b1db746ff208.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/28/abab3d58548c4af69b12f1896bcf227c.png"
-}
-
-,
-{
-  "Name": "musicfox （网易云音乐命令行版）",
-  "Version": "4.6.0-2",
-  "Filename": "go-musicfox_4.6.0-2_amd64.deb",
-  "Torrent_address": "go-musicfox_4.6.0-2_amd64.deb.torrent",
-  "Pkgname": "go-musicfox",
-  "Author": "anhoder <anhoder@88.com>",
-  "Contributor": "Retromilia Hatoboku <530060699@qq.com>",
-  "Website": "https://github.com/go-musicfox/go-musicfox",
-  "Update": "2024-12-11 09:30:09",
-  "Size": "10.61 MB",
-  "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。\n\n新毛维护的星火商店版本：\n2024/09/26：修复了Ubuntu 24.04缺失依赖库的问题\n\n2024/10/28：跟进上游版本\n\n2024/11/15：跟进上游版本",
-  "Tags": "community;debian;deepin;ubuntu",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/11/a2d5e2f852c84f0680b69e0543c28bdf.png\",\"https://spk-json.spark-app.store/images/2024/12/11/faab060178f34ff59b4094771893bd89.png\",\"https://spk-json.spark-app.store/images/2024/12/11/69acdc09f1414328884e6e5aaf2e7ef2.png\",\"https://spk-json.spark-app.store/images/2024/12/11/ba2a2a0e4e7d4559a551f59bd96e499d.png\",\"https://spk-json.spark-app.store/images/2024/12/11/ae082e88f09f4482a24d12b29a95e2f2.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2024/12/11/57274eb57dfb4a479509bc6d550c7a0e.png"
 }
 
 ,

@@ -1,14 +1,14 @@
 [
 {
     "Name": "Visual Studio Code(vscode)",
-    "Version": "1.101.1-1750254731",
-    "Filename": "code_1.101.1-1750254731_amd64.deb",
-    "Torrent_address": "code_1.101.1-1750254731_amd64.deb.torrent",
+    "Version": "1.101.2-1750797935",
+    "Filename": "code_1.101.2-1750797935_amd64.deb",
+    "Torrent_address": "code_1.101.2-1750797935_amd64.deb.torrent",
     "Pkgname": "code",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://code.visualstudio.com/",
-    "Update": "2025-06-19 17:33:29",
+    "Update": "2025-06-25 17:34:45",
     "Size": "104M",
     "More": "VSCode是一款非常牛逼的编辑器",
     "Tags": "community;ubuntu;deepin;uos;debian",
@@ -2008,6 +2008,20 @@
 
 ,
 {
+    "Name": "Lazydocker",
+    "Author": "wcbing <i@wcbing.top>",
+    "Website": "https://github.com/jesseduffield/lazydocker",
+    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
+    "Tags": "debian;community;ubuntu;deepin",
+    "Pkgname": "lazydocker",
+    "Version": "0.24.1",
+    "Filename": "lazydocker_0.24.1-1_amd64.deb",
+    "Update": "2025-03-07 20:54:23",
+    "Size": "3.87MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "R编辑器",
   "Version": "5.2.191161",
   "Filename": "rstudio_5.2.191161_amd64.deb",
@@ -2024,20 +2038,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/13/eac9e657419d45dcac4b842ee40d054f.png"
 }
 
-,
-{
-    "Name": "Lazydocker",
-    "Author": "wcbing <i@wcbing.top>",
-    "Website": "https://github.com/jesseduffield/lazydocker",
-    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
-    "Tags": "debian;community;ubuntu;deepin",
-    "Pkgname": "lazydocker",
-    "Version": "0.24.1",
-    "Filename": "lazydocker_0.24.1-1_amd64.deb",
-    "Update": "2025-03-07 20:54:23",
-    "Size": "3.87MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "Adobe Flash Builder 4.2",
