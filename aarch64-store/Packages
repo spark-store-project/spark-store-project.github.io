@@ -3772,6 +3772,27 @@ SHA256: c83b1fd52e59b02c232c94f95bb0b5b6856c1ea2524dcda0ffbcc371acf02580
 SHA512: 1fdb9061f6ed29f6476914bdb2ac74b7cbe0b62425c3e0b3624fc868e18a33c54505f298896534e2df526ee464fe6e0cb98de68c3f6fe6a322a961b37bf65a28
 Description: Run application for deepin-wine. Yet another a frontend to create and run wine application packages.
 
+Package: xyz.chatboxapp.app
+Architecture: arm64
+Version: 1.14.1
+Priority: optional
+Section: default
+Maintainer: Mediocre Company <hi@chatboxai.com>
+Installed-Size: 271885
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./tools/xyz.chatboxapp.app/xyz.chatboxapp.app_1.14.1_arm64.deb
+Size: 72916214
+MD5sum: d6141765fb3551b595973b3aad82a1f1
+SHA1: 7523b1b0571f41a0eec5de69edf0731e0164b6de
+SHA256: 6b0e8652d83f85cfde4b15db3d53be403e9276aa5492bdb8914de5226dec3001
+SHA512: 49de873731071e088652df3d0d487184aab3de36ce26556a1e5f7fb4e58ed062ff014f9cbb38391d3cac52d2cf0b3e08620f743fc56dd04b8841e522cd51dbf7
+Homepage: https://github.com/chatboxai/chatbox#readme
+Description: 
+  A desktop client for multiple cutting-edge AI models
+License: unknown
+Vendor: Mediocre Company <hi@chatboxai.com>
+
 Package: com.github.xfangfang.macast
 Architecture: arm64
 Version: 0.7
@@ -10899,16 +10920,16 @@ Description: HopToDesk Remote Desktop
 
 Package: frps
 Architecture: arm64
-Version: 0.62.1-1
+Version: 0.63.0-1
 Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
-Filename: ./network/frps/frps_0.62.1-1_arm64.deb
-Size: 4667036
-MD5sum: 0d40cbb4ca0e962eb9975b91e21c7100
-SHA1: fbbf1751aaaa85b4c16678e2448793f77a454a85
-SHA256: f219bf881cc44a46e917c846c1dabaa5ac53359a2ea5597e15dcb028c2038d83
-SHA512: af51802a4a163ff499b346139de3e6af7ceabd3627e9db630f9d8ce1451f1758f351d201d9d68e52f4dc5ad00d400b422a54451934f0d3cc11ba03f4e6262458
+Filename: ./network/frps/frps_0.63.0-1_arm64.deb
+Size: 4705432
+MD5sum: ea7db7e09f66b4d49ddff884aea87aaa
+SHA1: 9af4ea9a09f8b2455f4d6814af7349b4a5402dff
+SHA256: ae3dd524bb8479da2fad2cfefccf3930255f77a8799747a92dd7d3ac7b2a80a8
+SHA512: edfbd6c2691a2bb9d3c4518e91e297a0cbc9bab4190e8881c087118e34bb6cd8bd30a58e4e81e3fd8e32a9e7f59f0e88272bac7427717429f8df1d50de79e122
 Homepage: https://gofrp.org/
 Description:  A fast reverse proxy to help you expose
  a local server behind a NAT or firewall to the internet.
@@ -11286,16 +11307,16 @@ Description: 一个基于 dtk 制作的一个简易远程桌面连接软件
 
 Package: frpc
 Architecture: arm64
-Version: 0.62.1-1
+Version: 0.63.0-1
 Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
-Filename: ./network/frpc/frpc_0.62.1-1_arm64.deb
-Size: 3798788
-MD5sum: 8762f31e421aaba4ddc312683440c87d
-SHA1: 9515badc4a5b23ef7759d9484d748cb198ecc077
-SHA256: 19c4a0a826920a7b487877c745d60421d69858e0b8d22410d8b910af5e3c7815
-SHA512: d0298db2bdb1f093f20c80f91eb81b29b6caed31092fd41ca30360523354f81d8580dbb42b7923534d95bd2333b76174bd72d0e41a3619b973abdfbb7109c206
+Filename: ./network/frpc/frpc_0.63.0-1_arm64.deb
+Size: 3796140
+MD5sum: c322e6e5975a0bba18557c65161f511f
+SHA1: 734336a36d19bfb51c80f3827c7c4be04e171c8d
+SHA256: 352d981e3d3460dc632704f0449aab9b5706ac4628cdc382b46bace71fbcb277
+SHA512: af0c36593118d7b0eac2337e791b4e89beab81d66359db8799a3640b56123c71d6dd4e13bfaaaa17fc96552e453e3a6ad2562922ba493c4ac1082bb6b89c9aaf
 Homepage: https://gofrp.org/
 Description:  A fast reverse proxy to help you expose
  a local server behind a NAT or firewall to the internet.
@@ -12587,7 +12608,7 @@ Description: VSCode 历史项目信息分析器
 
 Package: codium
 Architecture: arm64
-Version: 1.101.14098
+Version: 1.101.24242
 Priority: optional
 Section: devel
 Maintainer: VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors
@@ -12597,12 +12618,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-codium
 Replaces: visual-studio-codium
-Filename: ./development/codium/codium_1.101.14098_arm64.deb
-Size: 98427212
-MD5sum: 08042c255ca648f02011245dcc33ade0
-SHA1: c75891df1e0e3083c43a31ad1adb52e8bdcd9904
-SHA256: 5febf83e1a005a1ec0220bca2b61f2e1b27f4ce8c6e2638bfbb3fbe5e1b6265c
-SHA512: 2d38452a2ff0c61fe5c953e30e3eedba976042f968bee649ce43e8c84051d1a96bffac569970eed5b8b910e9b13675f65a5f52567320d7e318b2a99e8cdae94c
+Filename: ./development/codium/codium_1.101.24242_arm64.deb
+Size: 98417332
+MD5sum: 22b88777774277fed7588c461c87a808
+SHA1: 2af0e6658c699f7f8cec6f8af07a288464ee963c
+SHA256: 7a003c5f9f55877920ca3eb67cc43fe347db67e7c981efa2e8dc5763f8c0790a
+SHA512: a0de0813b378cb9a4e5a7ac0d708378c4d3fbff775c2ba4800c6ce126c685685811f8b1106ccaaf9ab938a815bdefd72aff1d706b4db34aab420ccd360e58444
 Homepage: https://vscodium.com/
 Description: Code editing. Redefined.
  VSCodium is a new choice of tool that combines the simplicity of
@@ -12988,18 +13009,17 @@ Description: Provide professional video conference service.
 
 Package: com.alibabainc.dingtalk
 Architecture: arm64
-Version: 7.6.45.5041701-spark1
+Version: 7.6.45.5062501
 Priority: optional
 Section: devel
 Maintainer: dingtalk alibaba-inc
 Installed-Size: 1169028
-Depends: additional-base-lib,libpulse-mainloop-glib0
-Filename: ./chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.6.45.5041701-spark1_arm64.deb
-Size: 330845520
-MD5sum: baeb8d0426141a350bb9e2a410153519
-SHA1: b94b24cbeb9f85632fbef516d7064d6036f75ddd
-SHA256: 3fa56562e3c0b995aa3afbcf3fa925f9b6e1a41a94efe5391585e02e3e887251
-SHA512: 66cf6a47d2e0a0aed1267d99b460cdeb1ccb2eedf73c1993c12c116229cdddfba867eb77475d7dc7e99deb5d1b8399ffda6f72ad8a4399ecb8c32656bd3caa1c
+Filename: ./chat/com.alibabainc.dingtalk/com.alibabainc.dingtalk_7.6.45.5062501_arm64.deb
+Size: 330843176
+MD5sum: 24ebc8152bcda37d22515968c56bc540
+SHA1: 771ae9a8529a749809fddf49e301f19e8e54c197
+SHA256: 79b20a15f27cb37c34c865daa53598b4f4b3f1080bb0deae8e3da4f664054769
+SHA512: 46cc726dcb075102bbeab3cccd4ab442a98c067f394ce5d8ec4ace6dc7a89e7412aa382a3131b778b2230d8b122376977a598535f4834231cdc838422eb99c8e
 Homepage: https://gov.dingtalk.com
 Description: 钉钉
 

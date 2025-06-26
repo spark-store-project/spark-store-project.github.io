@@ -125,15 +125,15 @@
 ,
 {
     "Name": "火狐浏览器国际版 Firefox",
-    "Version": "140.0",
-    "Filename": "firefox-spark_140.0_amd64.deb",
-    "Torrent_address": "firefox-spark_140.0_amd64.deb.torrent",
+    "Version": "140.0.1",
+    "Filename": "firefox-spark_140.0.1_amd64.deb",
+    "Torrent_address": "firefox-spark_140.0.1_amd64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2025-06-26 01:41:02",
-    "Size": "75936",
+    "Update": "2025-06-27 01:43:00",
+    "Size": "75924",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/87ad15a3d25b442aa5e78358ca31a8e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/4c7826cf206d4c8bbab36e8e8fc79568.png\"]",
@@ -1102,6 +1102,23 @@
 
 ,
 {
+    "Name": "夸克浏览器",
+    "Version": "2.0.5.220spark1",
+    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
+    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
+    "Pkgname": "cn.quark.quarkpc.spark",
+    "Author": "广州市动悦信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.quark.cn/",
+    "Update": "2025-02-27 22:56:53",
+    "Size": "251.42 MB",
+    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
+    "Tags": "debian;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
+}
+,
+{
   "Name": "B23Downloader",
   "Version": "0.9.5.4spark1",
   "Filename": "com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb",
@@ -1120,32 +1137,15 @@
 
 ,
 {
-    "Name": "夸克浏览器",
-    "Version": "2.0.5.220spark1",
-    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
-    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
-    "Pkgname": "cn.quark.quarkpc.spark",
-    "Author": "广州市动悦信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.quark.cn/",
-    "Update": "2025-02-27 22:56:53",
-    "Size": "251.42 MB",
-    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
-    "Tags": "debian;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
-}
-,
-{
     "Name": "Microsoft Edge(Beta)",
-    "Version": "138.0.3351.42-1",
-    "Filename": "microsoft-edge-beta_138.0.3351.42-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-beta_138.0.3351.42-1_amd64.deb.torrent",
+    "Version": "138.0.3351.52-1",
+    "Filename": "microsoft-edge-beta_138.0.3351.52-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-beta_138.0.3351.52-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-beta",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-06-21 17:36:48",
+    "Update": "2025-06-26 17:36:42",
     "Size": "179M",
     "More": "Microsoft Edge Beta 渠道Beta 版频道可以提供最稳定的 Microsoft Edge 预览版体验。 通过每 4 个星期一次重大更新，每个版本都融入了从开发和 Canary 版本获得的经验教训和改进。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -1227,15 +1227,15 @@
 ,
 {
     "Name": "Google Chrome 测试版",
-    "Version": "138.0.7204.35-1",
-    "Filename": "google-chrome-beta_138.0.7204.35-1_amd64.deb",
-    "Torrent_address": "google-chrome-beta_138.0.7204.35-1_amd64.deb.torrent",
+    "Version": "139.0.7258.5-1",
+    "Filename": "google-chrome-beta_139.0.7258.5-1_amd64.deb",
+    "Torrent_address": "google-chrome-beta_139.0.7258.5-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-beta",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-06-18 17:43:56",
-    "Size": "113M",
+    "Update": "2025-06-26 17:37:56",
+    "Size": "114M",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/google-chrome-beta/screen_5.png\"]",
@@ -1492,6 +1492,23 @@
 
 ,
 {
+    "Name": "qBittorrent",
+    "Version": "5.0.4.10",
+    "Filename": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb",
+    "Torrent_address": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb.torrent",
+    "Pkgname": "org.qbittorrent.qbittorrent",
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "http://www.qbittorrent.org/",
+    "Update": "2025-04-07 16:35:28",
+    "Size": "33.61 MB",
+    "More": "一款使用 Qt 做界面的 BT 传输软件。",
+    "Tags": "community;debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/07/bcb2f2ddb5554d6e8c295fc52859e0a4.png\",\"https://spk-json.spark-app.store/images/2025/04/07/443772c9989d49df9f10e5cebd9e1d8e.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/07/d3a334cf057c48f6ac60f93f9c527f1b.png"
+}
+,
+{
   "Author": "shenmo<shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.bitcomet.spark_2.03.1_all.deb",
@@ -1510,38 +1527,6 @@
 
 ,
 {
-    "Name": "qBittorrent",
-    "Version": "5.0.4.10",
-    "Filename": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb",
-    "Torrent_address": "org.qbittorrent.qbittorrent_5.0.4.10_amd64.deb.torrent",
-    "Pkgname": "org.qbittorrent.qbittorrent",
-    "Author": "spark-store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "http://www.qbittorrent.org/",
-    "Update": "2025-04-07 16:35:28",
-    "Size": "33.61 MB",
-    "More": "一款使用 Qt 做界面的 BT 传输软件。",
-    "Tags": "community;debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/07/bcb2f2ddb5554d6e8c295fc52859e0a4.png\",\"https://spk-json.spark-app.store/images/2025/04/07/443772c9989d49df9f10e5cebd9e1d8e.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/07/d3a334cf057c48f6ac60f93f9c527f1b.png"
-}
-,
-{
-  "Name": "云日历",
-  "Version": "1.0.2",
-  "Filename": "mytime_linux_1.02_amd64.deb",
-  "Pkgname": "mytime",
-  "Author": " ",
-  "Contributor": "anima",
-  "Website": "https://mytime.ruanmei.com/",
-  "Update": "2020-06-25 18:06",
-  "Size": "52.42MB",
-  "More": "使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。",
-  "Tags": "debian"
-}
-
-,
-{
   "Name": "网络投递",
   "Version": "0.4.0",
   "Filename": "landrop_0.4.0_amd64.deb",
@@ -1556,6 +1541,21 @@
   "Tags": "a2d;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/22/46cd5ef0-110f-11ee-8cbf-e769c1600687.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/22/29875260-110f-11ee-8cbf-e769c1600687.png"
+}
+
+,
+{
+  "Name": "云日历",
+  "Version": "1.0.2",
+  "Filename": "mytime_linux_1.02_amd64.deb",
+  "Pkgname": "mytime",
+  "Author": " ",
+  "Contributor": "anima",
+  "Website": "https://mytime.ruanmei.com/",
+  "Update": "2020-06-25 18:06",
+  "Size": "52.42MB",
+  "More": "使用云日历管理日程、记录生活、订阅精彩，还有各种小工具使您的生活更便捷。",
+  "Tags": "debian"
 }
 
 ,
@@ -2236,6 +2236,23 @@
 
 ,
 {
+    "Name": "豆包(wine)",
+    "Version": "1.56.6wine3",
+    "Filename": "doubao-wine_1.56.6wine3_all.deb",
+    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
+    "Pkgname": "doubao-wine",
+    "Author": "豆包",
+    "Contributor": "CR.Zhu",
+    "Website": "https://www.doubao.com/download/",
+    "Update": "2025-05-26 16:27:34",
+    "Size": "519.32 MB",
+    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+}
+,
+{
   "Name": "iTubeGo 视频下载",
   "Version": "7.8.2",
   "Filename": "com.itubego.deepin_7.8.2_all.deb",
@@ -2286,23 +2303,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/02/01/d4728c70-8372-11ec-a511-0f88ef1eb8c8.png"
 }
 
-,
-{
-    "Name": "豆包(wine)",
-    "Version": "1.56.6wine3",
-    "Filename": "doubao-wine_1.56.6wine3_all.deb",
-    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
-    "Pkgname": "doubao-wine",
-    "Author": "豆包",
-    "Contributor": "CR.Zhu",
-    "Website": "https://www.doubao.com/download/",
-    "Update": "2025-05-26 16:27:34",
-    "Size": "519.32 MB",
-    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
-}
 ,
 {
   "Name": "Tixati",
@@ -2395,15 +2395,15 @@
 ,
 {
     "Name": "frpc（frp 客户端）",
-    "Version": "0.62.1-1",
-    "Filename": "frpc_0.62.1-1_amd64.deb",
-    "Torrent_address": "frpc_0.62.1-1_amd64.deb.torrent",
+    "Version": "0.63.0-1",
+    "Filename": "frpc_0.63.0-1_amd64.deb",
+    "Torrent_address": "frpc_0.63.0-1_amd64.deb.torrent",
     "Pkgname": "frpc",
     "Author": "wcbing <i@wcbing.top>",
     "Contributor": "wcbing <i@wcbing.top>",
     "Website": "https://github.com/wcbing/frp-debs",
-    "Update": "2025-04-30 17:46:15",
-    "Size": "4.3M",
+    "Update": "2025-06-26 17:46:12",
+    "Size": "",
     "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
     "Tags": "ubuntu;deepin;uos;debian;community",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_5.png\"]",
@@ -2960,14 +2960,14 @@
 ,
 {
     "Name": "frps（frp 服务端）",
-    "Version": "0.62.1-1",
-    "Filename": "frps_0.62.1-1_amd64.deb",
-    "Torrent_address": "frps_0.62.1-1_amd64.deb.torrent",
+    "Version": "0.63.0-1",
+    "Filename": "frps_0.63.0-1_amd64.deb",
+    "Torrent_address": "frps_0.63.0-1_amd64.deb.torrent",
     "Pkgname": "frps",
     "Author": "wcbing <i@wcbing.top>",
     "Contributor": "wcbing <i@wcbing.top>",
     "Website": "https://github.com/wcbing/frp-debs",
-    "Update": "2025-04-30 17:46:31",
+    "Update": "2025-06-26 17:46:31",
     "Size": "5.3M",
     "More": "官方 frps（frp 服务端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
     "Tags": "ubuntu;deepin;uos;debian;community",

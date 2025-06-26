@@ -1356,24 +1356,6 @@
 
 ,
 {
-  "Name": "DDE Top Panel 顶栏程序",
-  "Version": "0.6.8",
-  "Filename": "dde-top-panel_0.6.8_amd64.deb",
-  "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
-  "Pkgname": "dde-top-panel",
-  "Author": "SeptemberHX",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "https://github.com/SeptemberHX/dde-top-panel",
-  "Update": "2023-02-12 12:59:59",
-  "Size": "7.84 MB",
-  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
-  "Tags": "community;deepin;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
-}
-
-,
-{
   "Name": "UOS AI",
   "Version": "1.2.13-1",
   "Filename": "uos-ai_1.2.13-1_amd64.deb",
@@ -1388,6 +1370,24 @@
   "Tags": "deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/10/6ae026a047b949eaa54ef28bde8258d2.png\",\"https://spk-json.spark-app.store/images/2025/04/10/cd39e74888d5499c9e66971a67f6a60d.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/04/10/c4f0935c3c7c4c67a1557bf2dd212d2b.png"
+}
+
+,
+{
+  "Name": "DDE Top Panel 顶栏程序",
+  "Version": "0.6.8",
+  "Filename": "dde-top-panel_0.6.8_amd64.deb",
+  "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
+  "Pkgname": "dde-top-panel",
+  "Author": "SeptemberHX",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "https://github.com/SeptemberHX/dde-top-panel",
+  "Update": "2023-02-12 12:59:59",
+  "Size": "7.84 MB",
+  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+  "Tags": "community;deepin;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
 }
 
 ,
@@ -1496,24 +1496,6 @@
 
 ,
 {
-  "Name": "desktop 图标生成器",
-  "Version": "1.2.3-20250521",
-  "Filename": "z-tools-desktop-generater_1.2.3-20250521_amd64.deb",
-  "Torrent_address": "z-tools-desktop-generater_1.2.3-20250521_amd64.deb.torrent",
-  "Pkgname": "z-tools-desktop-generater",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/z-tools",
-  "Update": "2025-05-21 17:47:55",
-  "Size": "86.39 KB",
-  "More": "Linux toolbox under development\n .\n Build for GXDE15.15 through spark-deb-build.\n\nv1.2.1: 支持 desktop 文件拖入解析(仅获取基本的键值)\nv1.2.2: 集成打开用户目录与系统应用目录快捷方式\nv1.2.3: 支持使用 org.ayatana.bafm 接口获取可用窗口程序信息\n\n参考：(01:09)为Linux应用快速构建快捷方式\nhttps://www.bilibili.com/video/BV1oQJYzsEaB",
-  "Tags": "community;debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/21/f0496d54da8e4e99a28124f06a971645.png\",\"https://spk-json.spark-app.store/images/2025/05/21/ce07f7dfcaf6425bb129e1698157b1f0.png\",\"https://spk-json.spark-app.store/images/2025/05/21/e3aeaf52db2f4dd78ca181a68865c47e.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/05/21/91910ed28b7644ac920f6d70c6f28804.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.grub-customizer_5.2.2-2_all.deb",
@@ -1528,6 +1510,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "desktop 图标生成器",
+  "Version": "1.2.3-20250521",
+  "Filename": "z-tools-desktop-generater_1.2.3-20250521_amd64.deb",
+  "Torrent_address": "z-tools-desktop-generater_1.2.3-20250521_amd64.deb.torrent",
+  "Pkgname": "z-tools-desktop-generater",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/z-tools",
+  "Update": "2025-05-21 17:47:55",
+  "Size": "86.39 KB",
+  "More": "Linux toolbox under development\n .\n Build for GXDE15.15 through spark-deb-build.\n\nv1.2.1: 支持 desktop 文件拖入解析(仅获取基本的键值)\nv1.2.2: 集成打开用户目录与系统应用目录快捷方式\nv1.2.3: 支持使用 org.ayatana.bafm 接口获取可用窗口程序信息\n\n参考：(01:09)为Linux应用快速构建快捷方式\nhttps://www.bilibili.com/video/BV1oQJYzsEaB",
+  "Tags": "community;debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/21/f0496d54da8e4e99a28124f06a971645.png\",\"https://spk-json.spark-app.store/images/2025/05/21/ce07f7dfcaf6425bb129e1698157b1f0.png\",\"https://spk-json.spark-app.store/images/2025/05/21/e3aeaf52db2f4dd78ca181a68865c47e.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/05/21/91910ed28b7644ac920f6d70c6f28804.png"
 }
 
 ,
@@ -1710,24 +1710,6 @@
 
 ,
 {
-    "Name": "CopyQ",
-    "Version": "9.0.0-1",
-    "Filename": "copyq_9.0.0-1_amd64.deb",
-    "Torrent_address": "copyq_9.0.0-1_amd64.deb.torrent",
-    "Pkgname": "copyq",
-    "Author": "Lukas Holecek",
-    "Contributor": "sgb76",
-    "Website": "https://hluk.github.io/CopyQ/",
-    "Update": "2024-06-23 14:49:11",
-    "Size": "1.86 MB",
-    "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
-    "Tags": "debian;deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/e42f4138860d4cd28ca5ca7b450170be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/15be502006994a539a93e6288fb0b803.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/ab414cc6119846928ae9c9dfa2dcd6fb.png"
-}
-
-,
-{
     "Name": "深度求索（DeepSeek）",
     "Version": "1.0.0",
     "Filename": "chat.deepseek.com_1.0.0_all.deb",
@@ -1742,6 +1724,24 @@
     "Tags": "community;debian;ubuntu;deepin",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/5c842ca5f9674baa8197ddbc1c88f864.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/03/21/53ed473e05cd4570803de026e1895fc8.png"
+}
+
+,
+{
+    "Name": "CopyQ",
+    "Version": "9.0.0-1",
+    "Filename": "copyq_9.0.0-1_amd64.deb",
+    "Torrent_address": "copyq_9.0.0-1_amd64.deb.torrent",
+    "Pkgname": "copyq",
+    "Author": "Lukas Holecek",
+    "Contributor": "sgb76",
+    "Website": "https://hluk.github.io/CopyQ/",
+    "Update": "2024-06-23 14:49:11",
+    "Size": "1.86 MB",
+    "More": "CopyQ 是具有编辑和脚本功能的高级剪贴板管理器。",
+    "Tags": "debian;deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/e42f4138860d4cd28ca5ca7b450170be.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/23/15be502006994a539a93e6288fb0b803.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/23/ab414cc6119846928ae9c9dfa2dcd6fb.png"
 }
 
 ,
@@ -1887,6 +1887,22 @@
 
 ,
 {
+    "Name": "PeaZip",
+    "Author": "Giorgio Tani <giorgio.tani.software@gmail.com>",
+    "Website": "https://peazip.github.io",
+    "More": "PeaZip是一个开源（LGPLv3）跨平台归档管理工具，支持200多种归档和压缩格式，如7Z，BZip2，Brotli，GZip，PEA，RAR，ZIP，ZPAQ，Zstandard等。\n\n--说明--\n软件默认为英文，可以在设置里设置为中文",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/peazip/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/peazip/screen_2.png\"]",
+    "icons": "https://spk-json.spark-app.store/store/tools/peazip/icon.png",
+    "Pkgname": "peazip",
+    "Version": "10.5.0",
+    "Filename": "peazip_10.5.0_amd64.deb",
+    "Update": "2025-06-16 01:37:39",
+    "Size": "11.83MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "He3 开发者万能工具箱",
   "Version": "2.0.0",
   "Filename": "he3_2.0.0_amd64.deb",
@@ -1903,22 +1919,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/175eee01a8a8425d9220320007aade41.png"
 }
 
-,
-{
-    "Name": "PeaZip",
-    "Author": "Giorgio Tani <giorgio.tani.software@gmail.com>",
-    "Website": "https://peazip.github.io",
-    "More": "PeaZip是一个开源（LGPLv3）跨平台归档管理工具，支持200多种归档和压缩格式，如7Z，BZip2，Brotli，GZip，PEA，RAR，ZIP，ZPAQ，Zstandard等。\n\n--说明--\n软件默认为英文，可以在设置里设置为中文",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/peazip/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/peazip/screen_2.png\"]",
-    "icons": "https://spk-json.spark-app.store/store/tools/peazip/icon.png",
-    "Pkgname": "peazip",
-    "Version": "10.5.0",
-    "Filename": "peazip_10.5.0_amd64.deb",
-    "Update": "2025-06-16 01:37:39",
-    "Size": "11.83MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
     "Name": "Cherry Studio",
@@ -2126,10 +2126,10 @@
     "icons": "https://spk-json.spark-app.store/store/tools/ollama/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/ollama/screen_1.png\"]",
     "Pkgname": "ollama",
-    "Version": "0.9.2",
-    "Filename": "ollama_0.9.2_amd64.deb",
-    "Update": "2025-06-19 01:47:29",
-    "Size": "9.38MB",
+    "Version": "0.9.3",
+    "Filename": "ollama_0.9.3_amd64.deb",
+    "Update": "2025-06-27 01:45:24",
+    "Size": "9.44MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -2147,6 +2147,21 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b44337e0-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b73ca1c0-98ec-11eb-83e4-07d70af35066.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/923c20d0-98ec-11eb-83e4-07d70af35066.png"
+}
+
+,
+{
+  "Name": "Chatbox 多模型AI客户端",
+  "Version": "1.14.1",
+  "Filename": "xyz.chatboxapp.app_1.14.1_amd64.deb",
+  "Pkgname": "xyz.chatboxapp.app",
+  "Author": "Mediocre Company <hi@chatboxai.com>",
+  "Contributor": "wcbing <i@wcbing.top>",
+  "Website": "https://chatboxai.app/",
+  "Update": "2025-06-26 18:57:25",
+  "Size": "76.93 MB",
+  "More": "一个多模型的AI客户端，支持提示词模板、支持chatgpt、支持跨平台。",
+  "Tags": "debian;ubuntu;deepin;uos;native"
 }
 
 ,
@@ -2329,6 +2344,24 @@
 
 ,
 {
+    "Name": "MPaste：剪贴板管理工具",
+    "Version": "0.2.0",
+    "Filename": "mpaste_0.2.0_amd64.deb",
+    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
+    "Pkgname": "mpaste",
+    "Author": "SeptemberHX",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://github.com/SeptemberHX/MPaste/",
+    "Update": "2023-02-12 13:17:37",
+    "Size": "2.81 MB",
+    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
+    "Tags": "community;debian;deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
+}
+
+,
+{
   "Name": "手机管理大师",
   "Version": "1.0.0-1",
   "Filename": "com.apowersoft.apowermanager_1.0.0-1_amd64.deb",
@@ -2360,24 +2393,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/8a871ca1edcb43eb89d6e43ef508ac3e.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/9c4debbe7d7a4668b181f2c397b50623.png"
-}
-
-,
-{
-    "Name": "MPaste：剪贴板管理工具",
-    "Version": "0.2.0",
-    "Filename": "mpaste_0.2.0_amd64.deb",
-    "Torrent_address": "mpaste_0.2.0_amd64.deb.torrent",
-    "Pkgname": "mpaste",
-    "Author": "SeptemberHX",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://github.com/SeptemberHX/MPaste/",
-    "Update": "2023-02-12 13:17:37",
-    "Size": "2.81 MB",
-    "More": "该应用为对 Paste，mac上的剪贴板工具 的复刻。原工具只支持 mac，现用 Qt 实现支持 Linux。\n \n不要用本工具存储重要内容！导致的信息丢失概不负责\n \n-----------------2021-08-03   v0.2.0----------------\n1. 托盘支持\n2. deb 包支持，安装后启动器可见及设置自启动\n3. 支持选中历史剪贴板数据后，自动粘贴到当前窗口\n4.增加配置文件，允许修改 最大历史数量（数据文件夹修改目前不可用）\n---------------------------------\n\n使用方法：\n1. 下载 deb 安装包，安装。\n3. 系统设置 -> 快捷键设置 -> 添加新快捷键，命令填写 /usr/bin/MPaste，快捷键自定义即可\n \n之后使用快捷键即可唤出。\n* 唤出后，任意字符键进行搜索\n* 按下 Alt 键不放，显示快捷键提示，Alt + 数字键快速选择\n \n默认设置：\n1. 数据存储文件夹：~/.MPaste/Clipboard\n2. 最大历史记录数量：500\n \n------\n \n特点：\n1. 剪贴板记录，支持对 图片、图片文件、链接、文本、颜色 的预览（见下图）\n2. 搜索功能",
-    "Tags": "community;debian;deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/cad34bf37b2b470ba9c59a560b8c1607.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3653b6677aba447bb3c69d57fd2c6527.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d1b3c04ab9b54f4aa03dd0b4220455df.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/eb8ae307e3bf4ecab2354f152448d71f.png"
 }
 
 ,
@@ -2454,24 +2469,6 @@
 
 ,
 {
-  "Name": "腾讯御点",
-  "Version": "2.1.0.348-1.uos20",
-  "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
-  "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
-  "Pkgname": "com.tencent.yudian",
-  "Author": "tav",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "http://tav.qq.com",
-  "Update": "2022-10-22 18:05:19",
-  "Size": "56.41 MB",
-  "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
-  "Tags": "deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
@@ -2486,6 +2483,24 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
+}
+
+,
+{
+  "Name": "腾讯御点",
+  "Version": "2.1.0.348-1.uos20",
+  "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
+  "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
+  "Pkgname": "com.tencent.yudian",
+  "Author": "tav",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "http://tav.qq.com",
+  "Update": "2022-10-22 18:05:19",
+  "Size": "56.41 MB",
+  "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
+  "Tags": "deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
 }
 
 ,
@@ -2561,24 +2576,6 @@
 
 ,
 {
-  "Name": "Apk 文件查看器",
-  "Version": "1.1-20241010",
-  "Filename": "z-tools-base-apk-view_1.1-20241010_amd64.deb",
-  "Torrent_address": "z-tools-base-apk-view_1.1-20241010_amd64.deb.torrent",
-  "Pkgname": "z-tools-base-apk-view",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/z-tools",
-  "Update": "2024-10-10 21:03:41",
-  "Size": "1.59 MB",
-  "More": "如图：但依赖于 aapt 工具\n\nfeat: 拥有了双击 apk 即可预览的能力\nplugin: 添加用于 zToolsBox 的扩展构建\n\n2024/09/10: 移除 aapt 依赖，针对 v23 系统依赖",
-  "Tags": "community;debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/10/8419426ea7fc47a783f2191303f9d492.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/10/191a559f1c9e465ea372754e29a393a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/10/9edee1e54df64419a05ef1fba234ee6c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/10/8019681bd8474e03a28117105048c2c4.png"
-}
-
-,
-{
   "Name": "AIDA64（Wine）",
   "Version": "6.90.6500",
   "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
@@ -2597,20 +2594,20 @@
 
 ,
 {
-  "Name": "Bitwarden密码管理",
-  "Version": "2022.9.1",
-  "Filename": "bitwarden-spark_2022.9.1_amd64.deb",
-  "Torrent_address": "bitwarden-spark_2022.9.1_amd64.deb.torrent",
-  "Pkgname": "bitwarden-spark",
-  "Author": "spark-store",
-  "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-  "Website": "https://bitwarden.com/",
-  "Update": "2022-10-11 13:14:50",
-  "Size": "86.93 MB",
-  "More": "Bitwarden密码管理。",
-  "Tags": "a2d;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/11/60f5c865-61cf-4375-94a3-e9da3d24b0de.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/11/e4e8a83f-5036-4821-988c-697bfc04cea3.png"
+  "Name": "Apk 文件查看器",
+  "Version": "1.1-20241010",
+  "Filename": "z-tools-base-apk-view_1.1-20241010_amd64.deb",
+  "Torrent_address": "z-tools-base-apk-view_1.1-20241010_amd64.deb.torrent",
+  "Pkgname": "z-tools-base-apk-view",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/z-tools",
+  "Update": "2024-10-10 21:03:41",
+  "Size": "1.59 MB",
+  "More": "如图：但依赖于 aapt 工具\n\nfeat: 拥有了双击 apk 即可预览的能力\nplugin: 添加用于 zToolsBox 的扩展构建\n\n2024/09/10: 移除 aapt 依赖，针对 v23 系统依赖",
+  "Tags": "community;debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/10/8419426ea7fc47a783f2191303f9d492.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/10/191a559f1c9e465ea372754e29a393a0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/10/9edee1e54df64419a05ef1fba234ee6c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/10/8019681bd8474e03a28117105048c2c4.png"
 }
 
 ,
@@ -2633,20 +2630,20 @@
 
 ,
 {
-  "Author": "shenmo<shenmo@spark-app.store>",
-  "Contributor": "shenmo<shenmo@spark-app.store>",
-  "Filename": "open-in-terminal-tool_1.0.1_all.deb",
-  "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
-  "Name": "在终端中打开工具",
-  "Pkgname": "open-in-terminal-tool",
-  "Size": "80 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
-  "Update": "2024-03-14 18:11:00",
-  "Version": "1.0.1",
-  "Website": "https://gitee.com/deepin-community-store/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
+  "Name": "Bitwarden密码管理",
+  "Version": "2022.9.1",
+  "Filename": "bitwarden-spark_2022.9.1_amd64.deb",
+  "Torrent_address": "bitwarden-spark_2022.9.1_amd64.deb.torrent",
+  "Pkgname": "bitwarden-spark",
+  "Author": "spark-store",
+  "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
+  "Website": "https://bitwarden.com/",
+  "Update": "2022-10-11 13:14:50",
+  "Size": "86.93 MB",
+  "More": "Bitwarden密码管理。",
+  "Tags": "a2d;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/11/60f5c865-61cf-4375-94a3-e9da3d24b0de.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/11/e4e8a83f-5036-4821-988c-697bfc04cea3.png"
 }
 
 ,
@@ -2665,6 +2662,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "shenmo<shenmo@spark-app.store>",
+  "Contributor": "shenmo<shenmo@spark-app.store>",
+  "Filename": "open-in-terminal-tool_1.0.1_all.deb",
+  "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
+  "Name": "在终端中打开工具",
+  "Pkgname": "open-in-terminal-tool",
+  "Size": "80 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
+  "Update": "2024-03-14 18:11:00",
+  "Version": "1.0.1",
+  "Website": "https://gitee.com/deepin-community-store/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
 ,
@@ -2952,24 +2967,6 @@
 
 ,
 {
-  "Name": "deepin 计算器",
-  "Version": "6.0.1",
-  "Filename": "deepin-calculator_6.0.1_amd64.deb",
-  "Torrent_address": "deepin-calculator_6.0.1_amd64.deb.torrent",
-  "Pkgname": "deepin-calculator",
-  "Author": "Deepin Packages Builder <packages@deepin.org>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "http://www.deepin.org",
-  "Update": "2024-07-27 17:53:37",
-  "Size": "965.73 KB",
-  "More": "deepin 计算器 for dtk5.4 移植",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c03acc06a6d74fe59be63144592bcae8.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/db44377bb2614f2b973e19201b4dd8f8.png"
-}
-
-,
-{
   "Name": "MissionCenter 任务中心",
   "Version": "0.6.2",
   "Filename": "io.missioncenter.missioncenter_0.6.2_amd64.deb",
@@ -2984,6 +2981,24 @@
   "Tags": "community;ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/676c44fb614a40dcb619d66bac51f81c.png\",\"https://spk-json.spark-app.store/images/2024/12/09/a667609503f84fc1972dc48bfea5f325.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2024/12/09/c243f507b29d483fa984c41f38437e2e.png"
+}
+
+,
+{
+  "Name": "deepin 计算器",
+  "Version": "6.0.1",
+  "Filename": "deepin-calculator_6.0.1_amd64.deb",
+  "Torrent_address": "deepin-calculator_6.0.1_amd64.deb.torrent",
+  "Pkgname": "deepin-calculator",
+  "Author": "Deepin Packages Builder <packages@deepin.org>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "http://www.deepin.org",
+  "Update": "2024-07-27 17:53:37",
+  "Size": "965.73 KB",
+  "More": "deepin 计算器 for dtk5.4 移植",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c03acc06a6d74fe59be63144592bcae8.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/db44377bb2614f2b973e19201b4dd8f8.png"
 }
 
 ,

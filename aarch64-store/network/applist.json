@@ -250,24 +250,6 @@
 
 ,
 {
-  "Name": "阿里云盘（小白羊修复版）",
-  "Version": "3.13.5",
-  "Filename": "xbyyunpan_3.13.5_arm64.deb",
-  "Torrent_address": "xbyyunpan_3.13.5_arm64.deb.torrent",
-  "Pkgname": "xbyyunpan",
-  "Author": "shenmo<shenmo@spark-app.store>",
-  "Contributor": "shenmo<shenmo@spark-app.store>",
-  "Website": "https://github.com/gaozhangmin/aliyunpan",
-  "Update": "2024-05-29 22:02:10",
-  "Size": "75M",
-  "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
-}
-
-,
-{
   "Author": "Ticozhang",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.flashcenter.deepin_3.4.5.35_arm64.deb",
@@ -282,6 +264,24 @@
   "Website": "https://game.flash.cn/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.flashcenter.deepin/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.flashcenter.deepin/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "阿里云盘（小白羊修复版）",
+  "Version": "3.13.5",
+  "Filename": "xbyyunpan_3.13.5_arm64.deb",
+  "Torrent_address": "xbyyunpan_3.13.5_arm64.deb.torrent",
+  "Pkgname": "xbyyunpan",
+  "Author": "shenmo<shenmo@spark-app.store>",
+  "Contributor": "shenmo<shenmo@spark-app.store>",
+  "Website": "https://github.com/gaozhangmin/aliyunpan",
+  "Update": "2024-05-29 22:02:10",
+  "Size": "75M",
+  "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/screen_5.png\"]",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/xbyyunpan/icon.png"
 }
 
 ,
@@ -646,24 +646,6 @@
 
 ,
 {
-  "Author": "xretia <webmaster@xretia.labs>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
-  "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
-  "Name": "网速管家",
-  "Pkgname": "cn.speedtest.master",
-  "Size": "66 Mb",
-  "Tags": "deepin;uos;ubuntu;debian",
-  "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
-  "Update": "2023-03-05 19:23:50",
-  "Version": "1.6.1",
-  "Website": "https://gitlab.com/dfc643/speedtest-cn/",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
-}
-
-,
-{
     "Author": "CMSS",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.cmss.saas.ecloudcomputer_3.6.4.0_arm64.deb",
@@ -678,6 +660,24 @@
     "Website": "https://ecloud.10086.cn",
     "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.cmss.saas.ecloudcomputer/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.cmss.saas.ecloudcomputer/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "xretia <webmaster@xretia.labs>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "cn.speedtest.master_1.6.1_arm64.deb",
+  "More": "SpeedTest.cn 官方客户端移植版\n\nv1.6.1 - 2020/12/25\n从官方 1.6.1 Windows 版本移植\n修复标题栏缺失导致 Linux 无法关闭程序\n修复 Linux 图标缺失\n修复 Linux 下布局轻微错乱\n去除升级提示\n\n也有 ARM 平台，看这里：https://bbs.deepin.org/post/208628",
+  "Name": "网速管家",
+  "Pkgname": "cn.speedtest.master",
+  "Size": "66 Mb",
+  "Tags": "deepin;uos;ubuntu;debian",
+  "Torrent_address": "cn.speedtest.master_1.6.1_arm64.deb.torrent",
+  "Update": "2023-03-05 19:23:50",
+  "Version": "1.6.1",
+  "Website": "https://gitlab.com/dfc643/speedtest-cn/",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/cn.speedtest.master/screen_3.png\"]"
 }
 
 ,
@@ -1020,14 +1020,14 @@
 ,
 {
     "Name": "frpc（frp 客户端）",
-    "Version": "0.62.1-1",
-    "Filename": "frpc_0.62.1-1_arm64.deb",
-    "Torrent_address": "frpc_0.62.1-1_arm64.deb.torrent",
+    "Version": "0.63.0-1",
+    "Filename": "frpc_0.63.0-1_arm64.deb",
+    "Torrent_address": "frpc_0.63.0-1_arm64.deb.torrent",
     "Pkgname": "frpc",
     "Author": "wcbing <i@wcbing.top>",
     "Contributor": "wcbing <i@wcbing.top>",
     "Website": "https://github.com/wcbing/frp-debs",
-    "Update": "2025-04-30 17:47:05",
+    "Update": "2025-06-26 17:47:53",
     "Size": "3.7M",
     "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
     "Tags": "ubuntu;deepin;uos;debian;community",
@@ -1038,14 +1038,14 @@
 ,
 {
     "Name": "frps（frp 服务端）",
-    "Version": "0.62.1-1",
-    "Filename": "frps_0.62.1-1_arm64.deb",
-    "Torrent_address": "frps_0.62.1-1_arm64.deb.torrent",
+    "Version": "0.63.0-1",
+    "Filename": "frps_0.63.0-1_arm64.deb",
+    "Torrent_address": "frps_0.63.0-1_arm64.deb.torrent",
     "Pkgname": "frps",
     "Author": "wcbing <i@wcbing.top>",
     "Contributor": "wcbing <i@wcbing.top>",
     "Website": "https://github.com/wcbing/frp-debs",
-    "Update": "2025-04-30 17:47:28",
+    "Update": "2025-06-26 17:48:14",
     "Size": "4.5M",
     "More": "官方 frps（frp 服务端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
     "Tags": "ubuntu;deepin;uos;debian;community",
