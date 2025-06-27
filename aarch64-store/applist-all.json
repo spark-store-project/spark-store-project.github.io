@@ -1048,6 +1048,22 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_3.png\"]"
     },
     {
+      "Author": "spark-store",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "cherry-studio_1.4.2_arm64.deb",
+      "More": "支持多模型服务的 Windows/macOS/Linux GPT 客户端\n\n2025.2.2\n修复了之前Appimage转deb的桌面图标bug\n重新整理了软件目录，没有那啥squashfs了",
+      "Name": "Cherry Studio",
+      "Pkgname": "cherry-studio",
+      "Size": "89 Mb",
+      "Tags": "community;deepin;ubuntu;debian",
+      "Torrent_address": "cherry-studio_1.4.2_arm64.deb.torrent",
+      "Update": "2025-06-14 22:38:19",
+      "Version": "1.4.2",
+      "Website": "https://cherry-ai.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_3.png\"]"
+    },
+    {
       "Author": "Rekols <rekols@foxmail.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "gxde-system-assistant_0.9.4_arm64.deb",
@@ -1078,22 +1094,6 @@
       "Website": "https://gitee.com/xfangfang/Macast",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
-    },
-    {
-      "Author": "spark-store",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "cherry-studio_1.4.2_arm64.deb",
-      "More": "支持多模型服务的 Windows/macOS/Linux GPT 客户端\n\n2025.2.2\n修复了之前Appimage转deb的桌面图标bug\n重新整理了软件目录，没有那啥squashfs了",
-      "Name": "Cherry Studio",
-      "Pkgname": "cherry-studio",
-      "Size": "89 Mb",
-      "Tags": "community;deepin;ubuntu;debian",
-      "Torrent_address": "cherry-studio_1.4.2_arm64.deb.torrent",
-      "Update": "2025-06-14 22:38:19",
-      "Version": "1.4.2",
-      "Website": "https://cherry-ai.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_3.png\"]"
     },
     {
       "Author": "zinface <zinface@163.com>",
@@ -1144,22 +1144,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-sendbylan/screen_1.png\"]"
     },
     {
-      "Name": "附加基础库 Additional Base Lib",
-      "Version": "2.41-9-9",
-      "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
-      "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
-      "Pkgname": "additional-base-lib",
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <shenmo@spark-app.store>",
-      "Website": "https://gitee.com/spark-store-project/additional-base-lib",
-      "Update": "2025-06-19 17:42:07",
-      "Size": "2.8M",
-      "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-      "Tags": "ubuntu;deepin;uos;debian;community",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
-    },
-    {
       "Author": "Deepin Packages Builder <packages@deepin.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "deepin-mirror-selector_1.0.1_arm64.deb",
@@ -1174,6 +1158,22 @@
       "Website": "https://www.deepin.org/",
       "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/screen_1.png\"]"
+    },
+    {
+      "Name": "附加基础库 Additional Base Lib",
+      "Version": "2.41-9-9",
+      "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
+      "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
+      "Pkgname": "additional-base-lib",
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <shenmo@spark-app.store>",
+      "Website": "https://gitee.com/spark-store-project/additional-base-lib",
+      "Update": "2025-06-19 17:42:07",
+      "Size": "2.8M",
+      "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+      "Tags": "ubuntu;deepin;uos;debian;community",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
     },
     {
       "Name": "Chatbox 多模型AI客户端",
@@ -1221,6 +1221,22 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-webapp-runtime-runner/screen_1.png\"]"
     },
     {
+      "Author": "zinface <zinface@163.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "z-tools-adbmanager_0.1-20230129_arm64.deb",
+      "More": "Linux toolbox under development",
+      "Name": "安卓信息查看器(adb)",
+      "Pkgname": "z-tools-adbmanager",
+      "Size": "34 Kb",
+      "Tags": "debian;deepin;ubuntu;native",
+      "Torrent_address": "z-tools-adbmanager_0.1-20230129_arm64.deb.torrent",
+      "Update": "2023-03-06 20:56:48",
+      "Version": "0.1-20230129",
+      "Website": "https://gitee.com/zinface/z-tools",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/screen_1.png\"]"
+    },
+    {
       "Author": "gfdgd xi<3025613752@qq.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "spark.gitee.timer_1.0.0_arm64.deb",
@@ -1251,22 +1267,6 @@
       "Website": "https://easysend.channer.cn",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/easy-send/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/easy-send/screen_1.png\"]"
-    },
-    {
-      "Author": "zinface <zinface@163.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "z-tools-adbmanager_0.1-20230129_arm64.deb",
-      "More": "Linux toolbox under development",
-      "Name": "安卓信息查看器(adb)",
-      "Pkgname": "z-tools-adbmanager",
-      "Size": "34 Kb",
-      "Tags": "debian;deepin;ubuntu;native",
-      "Torrent_address": "z-tools-adbmanager_0.1-20230129_arm64.deb.torrent",
-      "Update": "2023-03-06 20:56:48",
-      "Version": "0.1-20230129",
-      "Website": "https://gitee.com/zinface/z-tools",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/screen_1.png\"]"
     },
     {
       "Author": "Vlary",
@@ -1301,22 +1301,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/screen_1.png\"]"
     },
     {
-      "Author": "zty199 <zty2864@gmail.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
-      "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
-      "Name": "任务栏显卡切换插件",
-      "Pkgname": "dde-dock-graphics-plugin",
-      "Size": "39 Kb",
-      "Tags": "community;deepin;uos;dtk5;native",
-      "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
-      "Update": "2023-03-06 20:53:35",
-      "Version": "1.8.4-3",
-      "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
-    },
-    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "gxde-25-upgrader_1.1.5_all.deb",
@@ -1331,6 +1315,22 @@
       "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
       "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+    },
+    {
+      "Author": "zty199 <zty2864@gmail.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
+      "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
+      "Name": "任务栏显卡切换插件",
+      "Pkgname": "dde-dock-graphics-plugin",
+      "Size": "39 Kb",
+      "Tags": "community;deepin;uos;dtk5;native",
+      "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
+      "Update": "2023-03-06 20:53:35",
+      "Version": "1.8.4-3",
+      "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
     },
     {
       "Author": "Beijing Rising Inc.",
@@ -2348,22 +2348,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_4.png\"]"
     },
     {
-      "Author": "Deepin Packages Builder <packages@deepin.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
-      "More": "一款海洋风格的图表主题，为你平淡的生活增添一丝大海的气息～～～",
-      "Name": "海洋风格图标主题",
-      "Pkgname": "sea-icon-theme",
-      "Size": "2013 Kb",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "sea-icon-theme_2020.04.13-1_all.deb.torrent",
-      "Update": "2023-03-07 22:06:53",
-      "Version": "2020.04.13-1",
-      "Website": " ",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
-    },
-    {
       "Author": "gfdgd_xi <3025613752@qq.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "windows7-wallpapers_1.0.0-1_all.deb",
@@ -2378,6 +2362,22 @@
       "Website": "https://gitee.com/gfdgd-xi/windows7-wallpapers",
       "icons": "https://spk-json.spark-app.store/aarch64-store/themes/windows7-wallpapers/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/windows7-wallpapers/screen_1.png\"]"
+    },
+    {
+      "Author": "Deepin Packages Builder <packages@deepin.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
+      "More": "一款海洋风格的图表主题，为你平淡的生活增添一丝大海的气息～～～",
+      "Name": "海洋风格图标主题",
+      "Pkgname": "sea-icon-theme",
+      "Size": "2013 Kb",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "sea-icon-theme_2020.04.13-1_all.deb.torrent",
+      "Update": "2023-03-07 22:06:53",
+      "Version": "2020.04.13-1",
+      "Website": " ",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
     },
     {
       "Author": "username <username@uniontech.com>",
@@ -4621,22 +4621,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/com.popcap.plants-vs-zombies/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/com.popcap.plants-vs-zombies/screen_2.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.qq.qqgames_1.0.3.2_all.deb",
-      "More": "QQ游戏大厅,可以运行一些游戏",
-      "Name": "QQ游戏大厅",
-      "Pkgname": "com.qq.qqgames",
-      "Size": "61 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "com.qq.qqgames_1.0.3.2_all.deb.torrent",
-      "Update": "2023-09-24 21:40:46",
-      "Version": "1.0.3.2",
-      "Website": "https://qqgame.qq.com/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/screen_2.png\"]"
-    },
-    {
       "Author": "shenmo<shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "team.s.steam_1.0.1_all.deb",
@@ -4651,6 +4635,22 @@
       "Website": "https://store.steampowered.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/team.s.steam/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/team.s.steam/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.qq.qqgames_1.0.3.2_all.deb",
+      "More": "QQ游戏大厅,可以运行一些游戏",
+      "Name": "QQ游戏大厅",
+      "Pkgname": "com.qq.qqgames",
+      "Size": "61 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "com.qq.qqgames_1.0.3.2_all.deb.torrent",
+      "Update": "2023-09-24 21:40:46",
+      "Version": "1.0.3.2",
+      "Website": "https://qqgame.qq.com/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.qq.qqgames/screen_2.png\"]"
     },
     {
       "Author": "shiroko <hanhaoxuan@uniontech.com>",
@@ -5727,22 +5727,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/md.obsidian.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/md.obsidian.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/md.obsidian.spark/screen_3.png\"]"
     },
     {
-      "Author": "Brocadesoft",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.brocadesoft.ruiyin_1.2.0.1_arm64.deb",
-      "More": "瑞印万能打印驱动是国产操作系统下的通用打印驱动程序。兼容99%主流网络打印机，即便没有针对国产适配的打印机也支持打印。解决存量打印机的利旧使\n用问题，解决信创和非信创打印机混合使用问题。支持主流品牌复印机的装订打孔和小册子装订。",
-      "Name": "瑞印万能打印驱动（个人版\n）",
-      "Pkgname": "com.brocadesoft.ruiyin",
-      "Size": "5927 Kb",
-      "Tags": "deepin;uos;debian;native",
-      "Torrent_address": "com.brocadesoft.ruiyin_1.2.0.1_arm64.deb.torrent",
-      "Update": "2023-06-11 12:29:17",
-      "Version": "1.2.0.1",
-      "Website": "https://www.brocadesoft.com",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_3.png\"]"
-    },
-    {
       "Author": "Beijing Suwell .LTD",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "cn.suwell.reader.appstore_3.0.22.0916-1_arm64.deb",
@@ -5757,6 +5741,22 @@
       "Website": "http://www.suwell.com/",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.suwell.reader.appstore/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.suwell.reader.appstore/screen_1.png\"]"
+    },
+    {
+      "Author": "Brocadesoft",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.brocadesoft.ruiyin_1.2.0.1_arm64.deb",
+      "More": "瑞印万能打印驱动是国产操作系统下的通用打印驱动程序。兼容99%主流网络打印机，即便没有针对国产适配的打印机也支持打印。解决存量打印机的利旧使\n用问题，解决信创和非信创打印机混合使用问题。支持主流品牌复印机的装订打孔和小册子装订。",
+      "Name": "瑞印万能打印驱动（个人版\n）",
+      "Pkgname": "com.brocadesoft.ruiyin",
+      "Size": "5927 Kb",
+      "Tags": "deepin;uos;debian;native",
+      "Torrent_address": "com.brocadesoft.ruiyin_1.2.0.1_arm64.deb.torrent",
+      "Update": "2023-06-11 12:29:17",
+      "Version": "1.2.0.1",
+      "Website": "https://www.brocadesoft.com",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.brocadesoft.ruiyin/screen_3.png\"]"
     },
     {
       "Author": "wumeijie <wumeijie@myhexin.com>",
@@ -6653,6 +6653,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_3.png\"]"
     },
     {
+      "Author": "netease <account@note.youdao.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.netease.youdaonote_8.1.30_arm64.deb",
+      "More": "有道云笔记官方Linux版本",
+      "Name": "有道云笔记",
+      "Pkgname": "com.netease.youdaonote",
+      "Size": "129 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.netease.youdaonote_8.1.30_arm64.deb.torrent",
+      "Update": "2025-06-15 06:52:27",
+      "Version": "8.1.30",
+      "Website": "https://note.youdao.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/screen_2.png\"]"
+    },
+    {
       "Author": "zty199 <zty2864@gmail.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "ink.bishen.dcs_3.1.12+4_all.deb",
@@ -6682,22 +6698,6 @@
       "Update": "2025-06-24 01:37:39",
       "Size": "18.01MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
-    },
-    {
-      "Author": "netease <account@note.youdao.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.netease.youdaonote_8.1.30_arm64.deb",
-      "More": "有道云笔记官方Linux版本",
-      "Name": "有道云笔记",
-      "Pkgname": "com.netease.youdaonote",
-      "Size": "129 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.netease.youdaonote_8.1.30_arm64.deb.torrent",
-      "Update": "2025-06-15 06:52:27",
-      "Version": "8.1.30",
-      "Website": "https://note.youdao.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/screen_2.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -8733,22 +8733,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/kylin-ide/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/development/kylin-ide/screen_2.png\"]"
     },
     {
-      "Author": "Mike Kasberg <kasberg.mike@gmail.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "ghostty_1.1.2-0~ppa1_arm64.deb",
-      "More": "Ghostty is a terminal emulator that differentiates itself by being fast,\n feature-rich, and native. While there are many excellent terminal emulators\n available, they all force you to choose between speed, features, or native\n UIs. Ghostty provides all three.",
-      "Name": "Ghostty 终端模拟器",
-      "Pkgname": "ghostty",
-      "Size": "14 Mb",
-      "Tags": "community;ubuntu;debian",
-      "Torrent_address": "ghostty_1.1.2-0~ppa1_arm64.deb.torrent",
-      "Update": "2025-03-21 03:00:33",
-      "Version": "1.1.2-0~ppa1",
-      "Website": "https://ghostty.org/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/development/ghostty/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/ghostty/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/development/ghostty/screen_2.png\"]"
-    },
-    {
       "Author": "Greper <xiaojunnuo@qq.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "dev-sidecar_2.0.0_arm64.deb",
@@ -8763,6 +8747,22 @@
       "Website": "https://github.com/docmirror/dev-sidecar",
       "icons": "https://spk-json.spark-app.store/aarch64-store/development/dev-sidecar/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/dev-sidecar/screen_1.png\"]"
+    },
+    {
+      "Author": "Mike Kasberg <kasberg.mike@gmail.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "ghostty_1.1.2-0~ppa1_arm64.deb",
+      "More": "Ghostty is a terminal emulator that differentiates itself by being fast,\n feature-rich, and native. While there are many excellent terminal emulators\n available, they all force you to choose between speed, features, or native\n UIs. Ghostty provides all three.",
+      "Name": "Ghostty 终端模拟器",
+      "Pkgname": "ghostty",
+      "Size": "14 Mb",
+      "Tags": "community;ubuntu;debian",
+      "Torrent_address": "ghostty_1.1.2-0~ppa1_arm64.deb.torrent",
+      "Update": "2025-03-21 03:00:33",
+      "Version": "1.1.2-0~ppa1",
+      "Website": "https://ghostty.org/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/development/ghostty/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/ghostty/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/development/ghostty/screen_2.png\"]"
     },
     {
       "Author": "ArteryTeck",
@@ -9100,19 +9100,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/com.tencent.rtx.spark/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/chat/com.tencent.rtx.spark/screen_2.png\"]"
     },
     {
-      "Author": "mygzb.com <pc@mygzb.com>",
-      "Contributor": "shenmo <shenmo@spark-app.store>",
-      "Filename": "gzb_8.1.21_arm64.deb",
-      "More": "工作宝",
-      "Name": "工作宝",
-      "Pkgname": "gzb",
-      "Size": "102Mb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Update": "2023-04-20 18:41:53",
-      "Version": "8.1.21",
-      "Website": "https://www.mygzb.com/download.html"
-    },
-    {
       "Author": "Deepin WINE Team",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.foxmail.deepin_7.2.25.228deepin18_arm64.deb",
@@ -9127,6 +9114,19 @@
       "Website": "https://www.foxmail.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/chat/com.foxmail.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/com.foxmail.deepin/screen_1.png\"]"
+    },
+    {
+      "Author": "mygzb.com <pc@mygzb.com>",
+      "Contributor": "shenmo <shenmo@spark-app.store>",
+      "Filename": "gzb_8.1.21_arm64.deb",
+      "More": "工作宝",
+      "Name": "工作宝",
+      "Pkgname": "gzb",
+      "Size": "102Mb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Update": "2023-04-20 18:41:53",
+      "Version": "8.1.21",
+      "Website": "https://www.mygzb.com/download.html"
     },
     {
       "Author": "Deepin WINE Team",

@@ -1015,6 +1015,20 @@
 
 ,
 {
+    "Name": "VSCodium",
+    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
+    "Website": "https://vscodium.com/",
+    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
+    "Tags": "community;debian;deepin;ubuntu;uos",
+    "Pkgname": "codium",
+    "Version": "1.101.24242",
+    "Filename": "codium_1.101.24242_amd64.deb",
+    "Update": "2025-06-27 01:43:39",
+    "Size": "105.86MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "PDMan",
   "Version": "4.4.0",
   "Filename": "pdman_4.4.0_amd64.deb",
@@ -1031,20 +1045,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/a81492b85699408ebc714c7e4dcd962c.png"
 }
 
-,
-{
-    "Name": "VSCodium",
-    "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
-    "Website": "https://vscodium.com/",
-    "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
-    "Tags": "community;debian;deepin;ubuntu;uos",
-    "Pkgname": "codium",
-    "Version": "1.101.24242",
-    "Filename": "codium_1.101.24242_amd64.deb",
-    "Update": "2025-06-27 01:43:39",
-    "Size": "105.86MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "RedisViewer",
@@ -1990,6 +1990,20 @@
 
 ,
 {
+    "Name": "Lazydocker",
+    "Author": "wcbing <i@wcbing.top>",
+    "Website": "https://github.com/jesseduffield/lazydocker",
+    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
+    "Tags": "debian;community;ubuntu;deepin",
+    "Pkgname": "lazydocker",
+    "Version": "0.24.1",
+    "Filename": "lazydocker_0.24.1-1_amd64.deb",
+    "Update": "2025-03-07 20:54:23",
+    "Size": "3.87MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "Cutter",
   "Version": "2.3.4spark1",
   "Filename": "re.cutter.spark_2.3.4spark1_amd64.deb",
@@ -2006,20 +2020,6 @@
   "icons": "https://spk-json.spark-app.store/icons/2025/01/04/12b6871d5637479583b41fbce46e9765.png"
 }
 
-,
-{
-    "Name": "Lazydocker",
-    "Author": "wcbing <i@wcbing.top>",
-    "Website": "https://github.com/jesseduffield/lazydocker",
-    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
-    "Tags": "debian;community;ubuntu;deepin",
-    "Pkgname": "lazydocker",
-    "Version": "0.24.1",
-    "Filename": "lazydocker_0.24.1-1_amd64.deb",
-    "Update": "2025-03-07 20:54:23",
-    "Size": "3.87MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "R编辑器",

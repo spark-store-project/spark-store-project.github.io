@@ -1179,6 +1179,24 @@
 
 ,
 {
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cherry-studio_1.4.2_arm64.deb",
+    "More": "支持多模型服务的 Windows/macOS/Linux GPT 客户端\n\n2025.2.2\n修复了之前Appimage转deb的桌面图标bug\n重新整理了软件目录，没有那啥squashfs了",
+    "Name": "Cherry Studio",
+    "Pkgname": "cherry-studio",
+    "Size": "89 Mb",
+    "Tags": "community;deepin;ubuntu;debian",
+    "Torrent_address": "cherry-studio_1.4.2_arm64.deb.torrent",
+    "Update": "2025-06-14 22:38:19",
+    "Version": "1.4.2",
+    "Website": "https://cherry-ai.com/",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_3.png\"]"
+}
+
+,
+{
   "Author": "Rekols <rekols@foxmail.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-system-assistant_0.9.4_arm64.deb",
@@ -1211,24 +1229,6 @@
     "Website": "https://gitee.com/xfangfang/Macast",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "spark-store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "cherry-studio_1.4.2_arm64.deb",
-    "More": "支持多模型服务的 Windows/macOS/Linux GPT 客户端\n\n2025.2.2\n修复了之前Appimage转deb的桌面图标bug\n重新整理了软件目录，没有那啥squashfs了",
-    "Name": "Cherry Studio",
-    "Pkgname": "cherry-studio",
-    "Size": "89 Mb",
-    "Tags": "community;deepin;ubuntu;debian",
-    "Torrent_address": "cherry-studio_1.4.2_arm64.deb.torrent",
-    "Update": "2025-06-14 22:38:19",
-    "Version": "1.4.2",
-    "Website": "https://cherry-ai.com/",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_3.png\"]"
 }
 
 ,
@@ -1287,24 +1287,6 @@
 
 ,
 {
-    "Name": "附加基础库 Additional Base Lib",
-    "Version": "2.41-9-9",
-    "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
-    "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
-    "Pkgname": "additional-base-lib",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <shenmo@spark-app.store>",
-    "Website": "https://gitee.com/spark-store-project/additional-base-lib",
-    "Update": "2025-06-19 17:42:07",
-    "Size": "2.8M",
-    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-    "Tags": "ubuntu;deepin;uos;debian;community",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
-}
-
-,
-{
   "Author": "Deepin Packages Builder <packages@deepin.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "deepin-mirror-selector_1.0.1_arm64.deb",
@@ -1319,6 +1301,24 @@
   "Website": "https://www.deepin.org/",
   "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "附加基础库 Additional Base Lib",
+    "Version": "2.41-9-9",
+    "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
+    "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
+    "Pkgname": "additional-base-lib",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Website": "https://gitee.com/spark-store-project/additional-base-lib",
+    "Update": "2025-06-19 17:42:07",
+    "Size": "2.8M",
+    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
 }
 
 ,
@@ -1374,6 +1374,24 @@
 
 ,
 {
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "z-tools-adbmanager_0.1-20230129_arm64.deb",
+  "More": "Linux toolbox under development",
+  "Name": "安卓信息查看器(adb)",
+  "Pkgname": "z-tools-adbmanager",
+  "Size": "34 Kb",
+  "Tags": "debian;deepin;ubuntu;native",
+  "Torrent_address": "z-tools-adbmanager_0.1-20230129_arm64.deb.torrent",
+  "Update": "2023-03-06 20:56:48",
+  "Version": "0.1-20230129",
+  "Website": "https://gitee.com/zinface/z-tools",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/screen_1.png\"]"
+}
+
+,
+{
     "Author": "gfdgd xi<3025613752@qq.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "spark.gitee.timer_1.0.0_arm64.deb",
@@ -1406,24 +1424,6 @@
     "Website": "https://easysend.channer.cn",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/easy-send/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/easy-send/screen_1.png\"]"
-}
-
-,
-{
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "z-tools-adbmanager_0.1-20230129_arm64.deb",
-  "More": "Linux toolbox under development",
-  "Name": "安卓信息查看器(adb)",
-  "Pkgname": "z-tools-adbmanager",
-  "Size": "34 Kb",
-  "Tags": "debian;deepin;ubuntu;native",
-  "Torrent_address": "z-tools-adbmanager_0.1-20230129_arm64.deb.torrent",
-  "Update": "2023-03-06 20:56:48",
-  "Version": "0.1-20230129",
-  "Website": "https://gitee.com/zinface/z-tools",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/screen_1.png\"]"
 }
 
 ,
@@ -1464,24 +1464,6 @@
 
 ,
 {
-  "Author": "zty199 <zty2864@gmail.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
-  "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
-  "Name": "任务栏显卡切换插件",
-  "Pkgname": "dde-dock-graphics-plugin",
-  "Size": "39 Kb",
-  "Tags": "community;deepin;uos;dtk5;native",
-  "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
-  "Update": "2023-03-06 20:53:35",
-  "Version": "1.8.4-3",
-  "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-25-upgrader_1.1.5_all.deb",
@@ -1496,6 +1478,24 @@
   "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
   "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "zty199 <zty2864@gmail.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
+  "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
+  "Name": "任务栏显卡切换插件",
+  "Pkgname": "dde-dock-graphics-plugin",
+  "Size": "39 Kb",
+  "Tags": "community;deepin;uos;dtk5;native",
+  "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
+  "Update": "2023-03-06 20:53:35",
+  "Version": "1.8.4-3",
+  "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
 }
 
 ,

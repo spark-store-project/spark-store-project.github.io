@@ -125,14 +125,14 @@
 ,
 {
     "Name": "火狐浏览器国际版 Firefox",
-    "Version": "140.0.1",
-    "Filename": "firefox-spark_140.0.1_amd64.deb",
-    "Torrent_address": "firefox-spark_140.0.1_amd64.deb.torrent",
+    "Version": "140.0.2",
+    "Filename": "firefox-spark_140.0.2_amd64.deb",
+    "Torrent_address": "firefox-spark_140.0.2_amd64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2025-06-27 13:07:51",
+    "Update": "2025-06-28 01:38:38",
     "Size": "75928",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos;debian",
@@ -1033,24 +1033,6 @@
 
 ,
 {
-  "Name": "VNC Server",
-  "Version": "7.13.1.57",
-  "Filename": "realvnc-vnc-server_7.13.1.57_amd64.deb",
-  "Torrent_address": "realvnc-vnc-server_7.13.1.57_amd64.deb.torrent",
-  "Pkgname": "realvnc-vnc-server",
-  "Author": "RealVNC <noreply@realvnc.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.realvnc.com/",
-  "Update": "2024-12-14 13:55:00",
-  "Size": "8.18 MB",
-  "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/3d65c1809900403281a2b3706076cdf1.png\",\"https://spk-json.spark-app.store/images/2024/12/14/fdfb6f0097b84d46b1a7d10d1fbd02c6.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2024/12/14/92c584fb9ed646e787aa9d298287ab1a.png"
-}
-
-,
-{
   "Name": "夸克网盘精简版（Linux）",
   "Version": "1.0.3",
   "Filename": "cn.quark.quark-cloud-drive_1.0.3_amd64.deb",
@@ -1065,6 +1047,24 @@
   "Tags": "community;ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/0307c6e72261441a85f0e16a6916b055.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/04/e2b1f4627eb74b8480414e0a7b9a5833.png"
+}
+
+,
+{
+  "Name": "VNC Server",
+  "Version": "7.13.1.57",
+  "Filename": "realvnc-vnc-server_7.13.1.57_amd64.deb",
+  "Torrent_address": "realvnc-vnc-server_7.13.1.57_amd64.deb.torrent",
+  "Pkgname": "realvnc-vnc-server",
+  "Author": "RealVNC <noreply@realvnc.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.realvnc.com/",
+  "Update": "2024-12-14 13:55:00",
+  "Size": "8.18 MB",
+  "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/3d65c1809900403281a2b3706076cdf1.png\",\"https://spk-json.spark-app.store/images/2024/12/14/fdfb6f0097b84d46b1a7d10d1fbd02c6.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/14/92c584fb9ed646e787aa9d298287ab1a.png"
 }
 
 ,
@@ -1439,23 +1439,6 @@
 
 ,
 {
-    "Name": "向日葵企业版客户端",
-    "Version": "5.4.0.18280",
-    "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
-    "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
-    "Pkgname": "sunloginenterprise",
-    "Author": "Oray <dev@oray.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://sunlogin.oray.com",
-    "Update": "2025-03-14 22:31:04",
-    "Size": "75.03 MB",
-    "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
-}
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-downloader_1.1.3_all.deb",
@@ -1472,6 +1455,23 @@
   "img_urls": "[\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_1.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_2.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_3.png\"]"
 }
 
+,
+{
+    "Name": "向日葵企业版客户端",
+    "Version": "5.4.0.18280",
+    "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
+    "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
+    "Pkgname": "sunloginenterprise",
+    "Author": "Oray <dev@oray.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://sunlogin.oray.com",
+    "Update": "2025-03-14 22:31:04",
+    "Size": "75.03 MB",
+    "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
+}
 ,
 {
   "Name": "局域网文件分享服务器",
@@ -1762,6 +1762,23 @@
 }
 ,
 {
+  "Name": "megasync",
+  "Version": "4.3.8-1.1",
+  "Filename": "MEGASync.deb",
+  "Pkgname": "megasync",
+  "Author": "MEGA Linux Team <linux@mega.co.nz>",
+  "Contributor": "neko",
+  "Website": "https://mega.nz",
+  "Update": "2021-01-02 16:03:12",
+  "Size": "12.29 MB",
+  "More": "linux下最好用的网盘",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
+}
+
+,
+{
   "Author": "shenmo",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1776,23 +1793,6 @@
   "Website": "",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
-}
-
-,
-{
-  "Name": "megasync",
-  "Version": "4.3.8-1.1",
-  "Filename": "MEGASync.deb",
-  "Pkgname": "megasync",
-  "Author": "MEGA Linux Team <linux@mega.co.nz>",
-  "Contributor": "neko",
-  "Website": "https://mega.nz",
-  "Update": "2021-01-02 16:03:12",
-  "Size": "12.29 MB",
-  "More": "linux下最好用的网盘",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
 }
 
 ,
@@ -2094,23 +2094,6 @@
 
 ,
 {
-    "Name": "移动云电脑",
-    "Version": "3.5.8.0",
-    "Filename": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb",
-    "Torrent_address": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb.torrent",
-    "Pkgname": "com.cmss.saas.ecloudcomputer",
-    "Author": "CMSS",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://ecloud.10086.cn",
-    "Update": "2025-04-03 18:33:01",
-    "Size": "331.18 MB",
-    "More": "移动云电脑包含“一键登录”、“安全中心”及各类功能的定制开发与适配，深度优化30+项功能，获得中国移动各省公司的广泛认可，可在飞腾、海光、兆芯、海思等多个国产CPU架构上流畅运行。",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/03/a25f15c521b24552ae0f3e504d237a50.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/03/9403e1c7d4bf4c5daa8b8280b2098b37.png"
-}
-,
-{
   "Name": "Flash 中心",
   "Version": "3.4.5.35",
   "Filename": "com.flashcenter.deepin_3.4.5.35_i386.deb",
@@ -2127,6 +2110,23 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/23/2d781997aad64048ab582a88b07acdeb.png"
 }
 
+,
+{
+    "Name": "移动云电脑",
+    "Version": "3.5.8.0",
+    "Filename": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb",
+    "Torrent_address": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb.torrent",
+    "Pkgname": "com.cmss.saas.ecloudcomputer",
+    "Author": "CMSS",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://ecloud.10086.cn",
+    "Update": "2025-04-03 18:33:01",
+    "Size": "331.18 MB",
+    "More": "移动云电脑包含“一键登录”、“安全中心”及各类功能的定制开发与适配，深度优化30+项功能，获得中国移动各省公司的广泛认可，可在飞腾、海光、兆芯、海思等多个国产CPU架构上流畅运行。",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/03/a25f15c521b24552ae0f3e504d237a50.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/03/9403e1c7d4bf4c5daa8b8280b2098b37.png"
+}
 ,
 {
   "Author": "spark-store",
@@ -2218,6 +2218,23 @@
 
 ,
 {
+    "Name": "豆包(wine)",
+    "Version": "1.56.6wine3",
+    "Filename": "doubao-wine_1.56.6wine3_all.deb",
+    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
+    "Pkgname": "doubao-wine",
+    "Author": "豆包",
+    "Contributor": "CR.Zhu",
+    "Website": "https://www.doubao.com/download/",
+    "Update": "2025-05-26 16:27:34",
+    "Size": "519.32 MB",
+    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+}
+,
+{
   "Name": "Seetong",
   "Version": "1.0.4.4",
   "Filename": "spark-deepin-wine-seetong_1.0.4.4_all.deb",
@@ -2234,23 +2251,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/31/00e445bc8c7842ecab5976762280bcbb.png"
 }
 
-,
-{
-    "Name": "豆包(wine)",
-    "Version": "1.56.6wine3",
-    "Filename": "doubao-wine_1.56.6wine3_all.deb",
-    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
-    "Pkgname": "doubao-wine",
-    "Author": "豆包",
-    "Contributor": "CR.Zhu",
-    "Website": "https://www.doubao.com/download/",
-    "Update": "2025-05-26 16:27:34",
-    "Size": "519.32 MB",
-    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
-}
 ,
 {
   "Name": "iTubeGo 视频下载",
@@ -2555,23 +2555,6 @@
 
 ,
 {
-  "Name": "Persepolis Download Manager",
-  "Version": "3.0.1-1.1",
-  "Filename": "persepolis_3.0.1-1.1_all.deb",
-  "Pkgname": "persepolis",
-  "Author": "Persepolis Team",
-  "Contributor": "sgb76",
-  "Website": "https://persepolisdm.github.io/",
-  "Update": "2022-03-09 11:23:50",
-  "Size": "131.75 KB",
-  "More": "Persepolis是一款免费开源的基于aria2的下载管理器。",
-  "Tags": "debian;deepin;ubuntu",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/3fa2b910-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/41e492c0-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/45ee0d10-9f58-11ec-9382-494a05cbaed9.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/09/34c64430-9f58-11ec-9382-494a05cbaed9.png"
-}
-
-,
-{
   "Name": "Krfb - 共享桌面",
   "Version": "25.03.70",
   "Filename": "org.kde.www.krfb_25.03.70_amd64.deb",
@@ -2586,6 +2569,23 @@
   "Tags": "deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/19/b8a56f2185ad4d4ba0e0c06e557a8c92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/19/facc3be8db2a44d785c1d8b9719c1304.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/19/8bf5f62f10ab43c8b50213ead76a38a7.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/19/fe2381426f90444aa2e5947cd6d89196.png"
+}
+
+,
+{
+  "Name": "Persepolis Download Manager",
+  "Version": "3.0.1-1.1",
+  "Filename": "persepolis_3.0.1-1.1_all.deb",
+  "Pkgname": "persepolis",
+  "Author": "Persepolis Team",
+  "Contributor": "sgb76",
+  "Website": "https://persepolisdm.github.io/",
+  "Update": "2022-03-09 11:23:50",
+  "Size": "131.75 KB",
+  "More": "Persepolis是一款免费开源的基于aria2的下载管理器。",
+  "Tags": "debian;deepin;ubuntu",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/3fa2b910-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/41e492c0-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/45ee0d10-9f58-11ec-9382-494a05cbaed9.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/09/34c64430-9f58-11ec-9382-494a05cbaed9.png"
 }
 
 ,

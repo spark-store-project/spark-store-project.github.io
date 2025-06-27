@@ -414,24 +414,6 @@
 
 ,
 {
-  "Author": "antutu <support@antutu.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.antutu.benchmark_1.0.0.610_loong64.deb",
-  "More": "安兔兔评测 For Linux",
-  "Name": "安兔兔评测",
-  "Pkgname": "com.antutu.benchmark",
-  "Size": "158 Mb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "com.antutu.benchmark_1.0.0.610_loong64.deb.torrent",
-  "Update": "2024-05-18 21:52:48",
-  "Version": "1.0.0.610",
-  "Website": "https://www.antutu.com/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_4.png\"]"
-}
-
-,
-{
   "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-boot-maker_2.0.5.2_loong64.deb",
@@ -446,6 +428,24 @@
   "Website": "http://gitee.com/GXDE-OS/gxde-boot-maker",
   "icons": "https://spk-json.spark-app.store/loong64-store/tools/gxde-boot-maker/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/gxde-boot-maker/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "antutu <support@antutu.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.antutu.benchmark_1.0.0.610_loong64.deb",
+  "More": "安兔兔评测 For Linux",
+  "Name": "安兔兔评测",
+  "Pkgname": "com.antutu.benchmark",
+  "Size": "158 Mb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "com.antutu.benchmark_1.0.0.610_loong64.deb.torrent",
+  "Update": "2024-05-18 21:52:48",
+  "Version": "1.0.0.610",
+  "Website": "https://www.antutu.com/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/tools/com.antutu.benchmark/screen_4.png\"]"
 }
 
 ,
@@ -591,6 +591,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb",
+  "More": "从系统源获取的Remmina，版本号无意义\n\nhttps://gitee.com/shenmo7192/taowa-tools/",
+  "Name": "Remmina(系统源版)",
+  "Pkgname": "store.spark-app.appwrapper.remmina",
+  "Size": "3 Kb",
+  "Tags": "community;deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb.torrent",
+  "Update": "2024-12-31 19:00:51",
+  "Version": "1.4.34+dfsg-1",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_2.png\"]"
+}
+
+,
+{
   "Author": "udom<uostools.com>",
   "Contributor": "udom<uostools.com>",
   "Filename": "com.uostools.udom_1.2.11_all.deb",
@@ -610,19 +628,19 @@
 ,
 {
   "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb",
-  "More": "从系统源获取的Remmina，版本号无意义\n\nhttps://gitee.com/shenmo7192/taowa-tools/",
-  "Name": "Remmina(系统源版)",
-  "Pkgname": "store.spark-app.appwrapper.remmina",
+  "Contributor": "shenmo <shenmo@spark-app.store>",
+  "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
+  "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
+  "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
+  "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
   "Size": "3 Kb",
-  "Tags": "community;deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb.torrent",
-  "Update": "2024-12-31 19:00:51",
-  "Version": "1.4.34+dfsg-1",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_2.png\"]"
+  "Tags": "deepin;native",
+  "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
+  "Update": "2025-05-29 21:12:04",
+  "Version": "1.0.1-alpha-lnd25.5",
+  "Website": "https://www.loongson.cn/",
+  "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
 }
 
 ,
@@ -659,24 +677,6 @@
   "Website": "http://www.360.cn/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.360.epp/screen_5.png\"]"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <shenmo@spark-app.store>",
-  "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
-  "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
-  "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
-  "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
-  "Size": "3 Kb",
-  "Tags": "deepin;native",
-  "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
-  "Update": "2025-05-29 21:12:04",
-  "Version": "1.0.1-alpha-lnd25.5",
-  "Website": "https://www.loongson.cn/",
-  "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
 }
 
 ,

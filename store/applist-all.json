@@ -222,22 +222,6 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/04/29/e435fa523a014bc0a4763fe9174c2fab.png"
     },
     {
-      "Name": "右键刷新插件",
-      "Version": "1.1",
-      "Filename": "sm-refresh_1.1_all.deb",
-      "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
-      "Pkgname": "sm-refresh",
-      "Author": "shenmo <jifengshenmo@outlook.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Website": "http://blog.shenmo.tech",
-      "Update": "2023-04-27 21:26:53",
-      "Size": "12.14 KB",
-      "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
-      "Tags": "community;deepin;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
-    },
-    {
       "Name": "麟卓卓懿XDroid移动应用兼容运行环境",
       "Version": "9.0.15",
       "Filename": "xdroid-installer_9.0.15_amd64.deb",
@@ -252,6 +236,22 @@
       "Tags": "ubuntu;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/cceec172-ea2a-4654-b43e-9d1c13b87a7c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/14925e3a-8a41-4740-aa33-adb158238495.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/666878da-47f0-4cdf-abc2-14268222e3f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/30/244fc260-f198-41ab-b9e4-e871d834753a.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/30/c0ada81d-2225-485c-910d-56c501546f2f.png"
+    },
+    {
+      "Name": "右键刷新插件",
+      "Version": "1.1",
+      "Filename": "sm-refresh_1.1_all.deb",
+      "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+      "Pkgname": "sm-refresh",
+      "Author": "shenmo <jifengshenmo@outlook.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Website": "http://blog.shenmo.tech",
+      "Update": "2023-04-27 21:26:53",
+      "Size": "12.14 KB",
+      "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+      "Tags": "community;deepin;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/775d81a1fd4a43d49ce520dc67f65358.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/27/ca7f8baea5d046d7acbf004b6492de39.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
     },
     {
       "Name": "VirtualBox (vbox) 虚拟机",
@@ -781,6 +781,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
     },
     {
+      "Name": "使用N卡运行 NVIDIA for deepin-prime",
+      "Version": "1.0.4",
+      "Filename": "deepin-prime-run_1.0.4_amd64.deb",
+      "Torrent_address": "deepin-prime-run_1.0.4_amd64.deb.torrent",
+      "Pkgname": "deepin-prime-run",
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Website": "https://blog.shenmo.tech",
+      "Update": "2024-09-21 19:24:23",
+      "Size": "1.91 KB",
+      "More": "prime-run for deepin-prime,可以简单的使用N卡启动应用\n\n支持GXDE",
+      "Tags": "community;debian;deepin;ubuntu;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/21/6af42d7ecd5849eaa3fa8451020134f7.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/21/18156dd05442479ab5826d7cdbe6abe1.png"
+    },
+    {
       "Name": "bingGPT",
       "Version": "0.3.7",
       "Filename": "binggpt_0.3.7_amd64.deb",
@@ -811,22 +827,6 @@
       "Tags": "community;deepin;uos;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462636376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462707876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462784376958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462858276958200.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/14/5f68407bc4f4433b9d2a65dfd56f11432023051415462021276958200.png"
-    },
-    {
-      "Name": "使用N卡运行 NVIDIA for deepin-prime",
-      "Version": "1.0.4",
-      "Filename": "deepin-prime-run_1.0.4_amd64.deb",
-      "Torrent_address": "deepin-prime-run_1.0.4_amd64.deb.torrent",
-      "Pkgname": "deepin-prime-run",
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Website": "https://blog.shenmo.tech",
-      "Update": "2024-09-21 19:24:23",
-      "Size": "1.91 KB",
-      "More": "prime-run for deepin-prime,可以简单的使用N卡启动应用\n\n支持GXDE",
-      "Tags": "community;debian;deepin;ubuntu;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/21/6af42d7ecd5849eaa3fa8451020134f7.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/21/18156dd05442479ab5826d7cdbe6abe1.png"
     },
     {
       "Name": "Bandizip",
@@ -1318,19 +1318,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/119941e0017a415096f6230681a97dce.png"
     },
     {
-      "Name": "海天鹰文件管理器",
-      "Version": "2.9",
-      "Filename": "htyfm-spark_2.9_amd64.deb",
-      "Pkgname": "htyfm-spark",
-      "Author": "黄颖",
-      "Contributor": "shenmo",
-      "Website": "github.com/sonichy",
-      "Update": "2020-09-05 19:17",
-      "Size": "83.60KB",
-      "More": "一款好用的文件管理器",
-      "Tags": "debian;native"
-    },
-    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "store.spark-app.appwrapper.grub-customizer_5.2.2-2_all.deb",
@@ -1345,6 +1332,19 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/screen_1.png\"]"
+    },
+    {
+      "Name": "海天鹰文件管理器",
+      "Version": "2.9",
+      "Filename": "htyfm-spark_2.9_amd64.deb",
+      "Pkgname": "htyfm-spark",
+      "Author": "黄颖",
+      "Contributor": "shenmo",
+      "Website": "github.com/sonichy",
+      "Update": "2020-09-05 19:17",
+      "Size": "83.60KB",
+      "More": "一款好用的文件管理器",
+      "Tags": "debian;native"
     },
     {
       "Name": "desktop 图标生成器",
@@ -1677,22 +1677,6 @@
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
-      "Name": "端口扫描(tcp)",
-      "Version": "0.1.3-20230910",
-      "Filename": "z-tools-scanport_0.1.3-20230910_amd64.deb",
-      "Torrent_address": "z-tools-scanport_0.1.3-20230910_amd64.deb.torrent",
-      "Pkgname": "z-tools-scanport",
-      "Author": "zinface <zinface@163.com>",
-      "Contributor": "zinface <zinface@163.com>",
-      "Website": "https://gitee.com/zinface/z-tools",
-      "Update": "2023-09-10 19:56:11",
-      "Size": "42.03 KB",
-      "More": "1. Tcp 端口扫描器\n\nv0.1.2: 新增无脑扫描本地端口\nv0.1.3: 新增扫描结果右键菜单",
-      "Tags": "debian;deepin;ubuntu;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/f09c514832014eedb03375e676a6ae5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/cd876cb9c61c4248a265d1d149fd3162.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/a9d4d996a778463d99399b398b3e6f5a.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/10/d551320198e3404da74572f059aa72a5.png"
-    },
-    {
       "Name": "He3 开发者万能工具箱",
       "Version": "2.0.0",
       "Filename": "he3_2.0.0_amd64.deb",
@@ -1707,6 +1691,22 @@
       "Tags": "community;debian;deepin;ubuntu;uos;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/7ee2a653f8db414680a21f3aa252a1cc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/ca35c9013f414b3e9e90abb03e09594e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/8d70f0dbb02a44dbbbf714a4239b6d67.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/278e5a401a734bc0ba79d5cdef6ce665.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/02/3d8ca0cbffd74ff490f70a5aa58fedf0.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/02/175eee01a8a8425d9220320007aade41.png"
+    },
+    {
+      "Name": "端口扫描(tcp)",
+      "Version": "0.1.3-20230910",
+      "Filename": "z-tools-scanport_0.1.3-20230910_amd64.deb",
+      "Torrent_address": "z-tools-scanport_0.1.3-20230910_amd64.deb.torrent",
+      "Pkgname": "z-tools-scanport",
+      "Author": "zinface <zinface@163.com>",
+      "Contributor": "zinface <zinface@163.com>",
+      "Website": "https://gitee.com/zinface/z-tools",
+      "Update": "2023-09-10 19:56:11",
+      "Size": "42.03 KB",
+      "More": "1. Tcp 端口扫描器\n\nv0.1.2: 新增无脑扫描本地端口\nv0.1.3: 新增扫描结果右键菜单",
+      "Tags": "debian;deepin;ubuntu;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/f09c514832014eedb03375e676a6ae5b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/cd876cb9c61c4248a265d1d149fd3162.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/10/a9d4d996a778463d99399b398b3e6f5a.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/10/d551320198e3404da74572f059aa72a5.png"
     },
     {
       "Name": "Cherry Studio",
@@ -2560,22 +2560,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/com.rising.antivirus/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/com.rising.antivirus/screen_2.png\"]"
     },
     {
-      "Name": "TTime",
-      "Version": "0.9.2",
-      "Filename": "time-translate_0.9.2_amd64.deb",
-      "Torrent_address": "time-translate_0.9.2_amd64.deb.torrent",
-      "Pkgname": "time-translate",
-      "Author": "LiangCheng",
-      "Contributor": "lizipeng0013",
-      "Website": "https://ttime.timerecord.cn/",
-      "Update": "2024-03-08 16:14:06",
-      "Size": "100.48 MB",
-      "More": "一款简洁、高效、高颜值的输入、截图、划词翻译软件",
-      "Tags": "debian;deepin;ubuntu;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/e2a6463e67684e2cb0057f9036cdce05.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/afccedfc52d24b7d8334615d38718062.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/69a1f508988c499ea38bde8992a9501a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/a55f26a5adbe437b9eb2364058a9114b.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/58d929564fe54b7b9abaa43011e07e5b.png"
-    },
-    {
       "Name": "安卓信息查看器(adb)",
       "Version": "0.1.1-20230817",
       "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
@@ -2590,6 +2574,22 @@
       "Tags": "debian;deepin;ubuntu;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
+    },
+    {
+      "Name": "TTime",
+      "Version": "0.9.2",
+      "Filename": "time-translate_0.9.2_amd64.deb",
+      "Torrent_address": "time-translate_0.9.2_amd64.deb.torrent",
+      "Pkgname": "time-translate",
+      "Author": "LiangCheng",
+      "Contributor": "lizipeng0013",
+      "Website": "https://ttime.timerecord.cn/",
+      "Update": "2024-03-08 16:14:06",
+      "Size": "100.48 MB",
+      "More": "一款简洁、高效、高颜值的输入、截图、划词翻译软件",
+      "Tags": "debian;deepin;ubuntu;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/e2a6463e67684e2cb0057f9036cdce05.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/afccedfc52d24b7d8334615d38718062.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/69a1f508988c499ea38bde8992a9501a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/08/a55f26a5adbe437b9eb2364058a9114b.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/08/58d929564fe54b7b9abaa43011e07e5b.png"
     },
     {
       "Name": "钉钉视频会议日志清理",
@@ -3127,6 +3127,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2654b8e153f947a7845fc36dce46655f.png"
     },
     {
+      "Name": "Rubick",
+      "Version": "2.0.4-beta.3",
+      "Filename": "rubick_2.0.4-beta.3_amd64.deb",
+      "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
+      "Pkgname": "rubick",
+      "Author": "muwoo <2424880409@qq.com>",
+      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+      "Website": "https://github.com/rubickCenter/rubick",
+      "Update": "2023-02-12 13:54:32",
+      "Size": "57.13 MB",
+      "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
+    },
+    {
       "Name": "e-search",
       "Version": "1.4.3",
       "Filename": "e-search_1.4.3_amd64.deb",
@@ -3174,22 +3190,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
     },
     {
-      "Name": "Rubick",
-      "Version": "2.0.4-beta.3",
-      "Filename": "rubick_2.0.4-beta.3_amd64.deb",
-      "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
-      "Pkgname": "rubick",
-      "Author": "muwoo <2424880409@qq.com>",
-      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-      "Website": "https://github.com/rubickCenter/rubick",
-      "Update": "2023-02-12 13:54:32",
-      "Size": "57.13 MB",
-      "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
-    },
-    {
       "Name": "简传",
       "Version": "2.2.3",
       "Filename": "easy-send_2.2.3_arm64.deb",
@@ -3198,12 +3198,28 @@
       "Author": "BitPoro <bitporo@qq.com>",
       "Contributor": "BitPoro <bitporo@qq.com>",
       "Website": "https://easysend.channer.cn",
-      "Update": "2025-06-22 15:09:25",
+      "Update": "2025-06-26 21:01:46",
       "Size": "71.61 MB",
       "More": "便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用",
       "Tags": "community;debian;ubuntu;deepin",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/22/d729c8ff16f24474afae1aefbc83ca0d.png\",\"https://spk-json.spark-app.store/images/2025/06/22/d4b2bc1561cd41b69df3c066883b43c0.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/06/22/9b9f29f558ab4b68812425a033fa1cef.png"
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/26/f1a650d1d1a14fa9b86f1af6bfbd8206.png\",\"https://spk-json.spark-app.store/images/2025/06/26/af690311cf0a4ee29f3fbe863f568d56.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/06/26/a36d484e276944ffa5a8a98446aef72b.png"
+    },
+    {
+      "Name": "ACE Trixie  兼容环境",
+      "Version": "13.8.4",
+      "Filename": "amber-ce-trixie_13.8.4_amd64.deb",
+      "Torrent_address": "amber-ce-trixie_13.8.4_amd64.deb.torrent",
+      "Pkgname": "amber-ce-trixie",
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+      "Update": "2025-06-14 12:56:49",
+      "Size": "142.62 MB",
+      "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
+      "Tags": "community;debian;ubuntu;deepin;native",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/173ba8a22edf4060b7ff4fb1a3a2555a.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8214a82fbe05477d87485f7ebcb5688d.png"
     },
     {
       "Name": "podman desktop",
@@ -3236,22 +3252,6 @@
       "Tags": "ubuntu;deepin;uos;a2d;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/bfa46a61-610d-4e9d-b0b6-0ef0aaabf5fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/15/2d8533c7-5af6-464d-a00c-186290900a8a.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/15/41e83698-b321-44a0-ba07-e26efa706966.png"
-    },
-    {
-      "Name": "ACE Trixie  兼容环境",
-      "Version": "13.8.4",
-      "Filename": "amber-ce-trixie_13.8.4_amd64.deb",
-      "Torrent_address": "amber-ce-trixie_13.8.4_amd64.deb.torrent",
-      "Pkgname": "amber-ce-trixie",
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-      "Update": "2025-06-14 12:56:49",
-      "Size": "142.62 MB",
-      "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
-      "Tags": "community;debian;ubuntu;deepin;native",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/173ba8a22edf4060b7ff4fb1a3a2555a.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8214a82fbe05477d87485f7ebcb5688d.png"
     },
     {
       "Name": "Feem",
@@ -3619,6 +3619,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
     },
     {
+      "Name": "Flix 快传",
+      "Version": "1.4.0+48",
+      "Filename": "flix_1.4.0_plus48_amd64.deb",
+      "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
+      "Pkgname": "flix",
+      "Author": "zhangjian <2242634757@qq.com>",
+      "Contributor": "洺渊",
+      "Website": "https://flix.center/",
+      "Update": "2025-04-01 20:19:21",
+      "Size": "16.27 MB",
+      "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
+      "Tags": "debian;ubuntu;deepin;native",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
+    },
+    {
       "Name": "ksnip",
       "Version": "1.10.1spark0",
       "Filename": "com.github.ksnip.spark_1.10.1spark0_amd64.deb",
@@ -3697,22 +3713,6 @@
       "Tags": "community;debian;deepin;ubuntu;uos;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/16/a19dcac4d26846a590a985030dd5e226.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/16/acb56bd27d5b4e4d829f2ed2e1f9838a.png"
-    },
-    {
-      "Name": "Flix 快传",
-      "Version": "1.4.0+48",
-      "Filename": "flix_1.4.0_plus48_amd64.deb",
-      "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
-      "Pkgname": "flix",
-      "Author": "zhangjian <2242634757@qq.com>",
-      "Contributor": "洺渊",
-      "Website": "https://flix.center/",
-      "Update": "2025-04-01 20:19:21",
-      "Size": "16.27 MB",
-      "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
-      "Tags": "debian;ubuntu;deepin;native",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
     },
     {
       "Name": "NTPWEdit（Wine）",
@@ -4173,6 +4173,22 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.kaspersky.www.kvrt/screen_2.png\"]"
     },
     {
+      "Name": "WPS优化工具",
+      "Version": "3.3",
+      "Filename": "wps-optimizer_3.3_all.deb",
+      "Torrent_address": "wps-optimizer_3.3_all.deb.torrent",
+      "Pkgname": "wps-optimizer",
+      "Author": "fb93<fb93@fb93.com>",
+      "Contributor": "fb93<fb93@fb93.com>",
+      "Website": "https://gitee.com/seeker_ok/wps-optimizer",
+      "Update": "2025-06-15 20:30:52",
+      "Size": "640.95 KB",
+      "More": "重置WPS配置并清理临时文件，解决卡顿问题。兼容统信UOS、deepin系统和麒麟系统。\n以下是上述Bash脚本实现的功能列表：\n1‌、获取真实用户目录‌：\n脚本通过eval echo ~${SUDO_USER:-$USER}获取当前用户的家目录，无论是以普通用户还是通过sudo执行的用户。\n2、‌颜色定义‌：\n定义了几种颜色变量（RED, GREEN, YELLOW, BLUE, NC），用于在终端输出彩色文本，提高可读性和用户友好性。\n3‌、检测并删除旧备份‌：\nclean_old_backup函数接收一个备份目录作为参数，如果该目录存在，则提示用户是否删除。如果用户确认，则删除该目录及其内容，并输出相应的成功或失败信息。\n4、‌备份配置文件‌：\nbackup_config函数接收一个配置目录作为参数，创建一个以_bak为后缀的备份目录，将原配置目录移动到备份目录，并在移动前调用clean_old_backup函数删除可能存在的旧备份。\n5‌、清理临时文件‌：\nclean_temps函数用于清理临时文件。它删除/tmp目录下所有以wps开头的文件，并删除用户家目录下名为.wps的目录（如果存在）。这些操作都静默进行（错误输出被重定向到/dev/null）。\n6‌、主流程‌：\n脚本的主流程首先输出正在优化WPS性能的信息，然后依次备份WPS的配置文件（位于用户家目录下的.config/Kingsoft、.config/kingsoft和.local/share/Kingsoft目录），清理临时文件，最后输出优化完成的信息，并提供一个软件更新网址。 脚本结束时，提示用户按任意键关闭窗口。 这些功能共同构成了一个用于优化WPS性能的Bash脚本，通过备份配置文件、清理临时文件等方式，帮助用户提升WPS的使用体验。",
+      "Tags": "community;debian;ubuntu;deepin;native",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/15/ba9d2081dac749289798ace09a4d91e3.png\",\"https://spk-json.spark-app.store/images/2025/06/15/a989e55c8fa3492f97a4cbe3db9f6b9a.png\",\"https://spk-json.spark-app.store/images/2025/06/15/453f36feff1743f4b61c2f637ddcccdc.png\",\"https://spk-json.spark-app.store/images/2025/06/15/bb25711e9e1e41c4a17f054a7e7a6ebf.png\",\"https://spk-json.spark-app.store/images/2025/06/15/ccea29d481af49f884baf502da451493.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/06/15/f148f25c7b094a29ba29da4fe0729aa2.png"
+    },
+    {
       "Name": "DOSBox",
       "Version": "0.74-3",
       "Filename": "dosbox_0.74-3_amd64.deb",
@@ -4203,22 +4219,6 @@
       "Tags": "community;debian;deepin;ubuntu;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/49223dc653f447e6986a57e4658d43cd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/eb7daff2333c4bda8a171843c90aaa82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/361c8fdbb4cd4837999b900dd7716f8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/cac8b8c7c70c49c493d1096756ed21e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/7a5ea846fd834dfab5e2c9e99b69c51d.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/c797bc9b29c64ba89780c54f9d5d7c82.png"
-    },
-    {
-      "Name": "WPS优化工具",
-      "Version": "3.3",
-      "Filename": "wps-optimizer_3.3_all.deb",
-      "Torrent_address": "wps-optimizer_3.3_all.deb.torrent",
-      "Pkgname": "wps-optimizer",
-      "Author": "fb93<fb93@fb93.com>",
-      "Contributor": "fb93<fb93@fb93.com>",
-      "Website": "https://gitee.com/seeker_ok/wps-optimizer",
-      "Update": "2025-06-15 20:30:52",
-      "Size": "640.95 KB",
-      "More": "重置WPS配置并清理临时文件，解决卡顿问题。兼容统信UOS、deepin系统和麒麟系统。\n以下是上述Bash脚本实现的功能列表：\n1‌、获取真实用户目录‌：\n脚本通过eval echo ~${SUDO_USER:-$USER}获取当前用户的家目录，无论是以普通用户还是通过sudo执行的用户。\n2、‌颜色定义‌：\n定义了几种颜色变量（RED, GREEN, YELLOW, BLUE, NC），用于在终端输出彩色文本，提高可读性和用户友好性。\n3‌、检测并删除旧备份‌：\nclean_old_backup函数接收一个备份目录作为参数，如果该目录存在，则提示用户是否删除。如果用户确认，则删除该目录及其内容，并输出相应的成功或失败信息。\n4、‌备份配置文件‌：\nbackup_config函数接收一个配置目录作为参数，创建一个以_bak为后缀的备份目录，将原配置目录移动到备份目录，并在移动前调用clean_old_backup函数删除可能存在的旧备份。\n5‌、清理临时文件‌：\nclean_temps函数用于清理临时文件。它删除/tmp目录下所有以wps开头的文件，并删除用户家目录下名为.wps的目录（如果存在）。这些操作都静默进行（错误输出被重定向到/dev/null）。\n6‌、主流程‌：\n脚本的主流程首先输出正在优化WPS性能的信息，然后依次备份WPS的配置文件（位于用户家目录下的.config/Kingsoft、.config/kingsoft和.local/share/Kingsoft目录），清理临时文件，最后输出优化完成的信息，并提供一个软件更新网址。 脚本结束时，提示用户按任意键关闭窗口。 这些功能共同构成了一个用于优化WPS性能的Bash脚本，通过备份配置文件、清理临时文件等方式，帮助用户提升WPS的使用体验。",
-      "Tags": "community;debian;ubuntu;deepin;native",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/15/ba9d2081dac749289798ace09a4d91e3.png\",\"https://spk-json.spark-app.store/images/2025/06/15/a989e55c8fa3492f97a4cbe3db9f6b9a.png\",\"https://spk-json.spark-app.store/images/2025/06/15/453f36feff1743f4b61c2f637ddcccdc.png\",\"https://spk-json.spark-app.store/images/2025/06/15/bb25711e9e1e41c4a17f054a7e7a6ebf.png\",\"https://spk-json.spark-app.store/images/2025/06/15/ccea29d481af49f884baf502da451493.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/06/15/f148f25c7b094a29ba29da4fe0729aa2.png"
     },
     {
       "Name": "TagSpaces",
@@ -5189,6 +5189,22 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/01/12/3b0ea67d53a145df8662c5624d1a5edc.png"
     },
     {
+      "Author": "skyyx2002 <mzldkj@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "skydisktest_1.01-1fix_amd64.deb",
+      "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
+      "Name": "Sky磁盘测试工具",
+      "Pkgname": "skydisktest",
+      "Size": "109 Kb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "skydisktest_1.01-1fix_amd64.deb.torrent",
+      "Update": "2025-06-15 07:16:07",
+      "Version": "1.01-1fix",
+      "Website": "none",
+      "icons": "https://spk-json.spark-app.store/store/tools/skydisktest/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_2.png\"]"
+    },
+    {
       "Name": "quicktile",
       "Version": "0.4.1-3lon",
       "Filename": "quicktile_0.4.1-3lon_all.deb",
@@ -5299,22 +5315,6 @@
       "Tags": "ubuntu;a2d;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/7883f547bf204084b0e4ff1e2e8ffe33.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/b0048b8ee54a4c2ab046bce26ef24be1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/08/f541ab1caf754b1c86782f99312cdc2e.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/08/5a167e64be0f4fe0aeaef2ef3790531f.png"
-    },
-    {
-      "Author": "skyyx2002 <mzldkj@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "skydisktest_1.01-1fix_amd64.deb",
-      "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
-      "Name": "Sky磁盘测试工具",
-      "Pkgname": "skydisktest",
-      "Size": "109 Kb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "skydisktest_1.01-1fix_amd64.deb.torrent",
-      "Update": "2025-06-15 07:16:07",
-      "Version": "1.01-1fix",
-      "Website": "none",
-      "icons": "https://spk-json.spark-app.store/store/tools/skydisktest/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_2.png\"]"
     },
     {
       "Name": "文本字符串与16进制相互转换",
@@ -5685,19 +5685,19 @@
     },
     {
       "Name": "採图标",
-      "Version": "2.3.5",
-      "Filename": "otohime.cai.ico_2.3.5_amd64.deb",
-      "Torrent_address": "otohime.cai.ico_2.3.5_amd64.deb.torrent",
+      "Version": "8.13.21",
+      "Filename": "otohime.cai.ico_8.13.21_amd64.deb",
+      "Torrent_address": "otohime.cai.ico_8.13.21_amd64.deb.torrent",
       "Pkgname": "otohime.cai.ico",
       "Author": "校医软件室",
       "Contributor": "校医软件室",
       "Website": "t.me/otohime_soft_room/42",
-      "Update": "2025-06-13 13:25:33",
-      "Size": "49.19 MB",
-      "More": "从exe提取图标并保存为png、jpg和ico文件，支持多尺寸。\n\nv2.3.5更新:\n新增导出为jpg和ico图标\n可以去深度应用商店和星火应用商店更新啦\n修正UI和文本\n仅支持glibc2.38及以上系统运行",
+      "Update": "2025-06-25 22:44:56",
+      "Size": "49.31 MB",
+      "More": "从exe和dll文件提取图标，并保存为png、jpg和ico文件，支持多尺寸。\n\nv8.13.21更新:\n1、可以从dll文件提取图标了\n2、由于jpg不支持透明图标，导出jpg图标会提示\n3、部分UI和文本修正\n4、仅支持glibc2.38及以上系统运行（也就是说，不支持deepin20.9和UOS1070）",
       "Tags": "debian;ubuntu;deepin",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/13/da1d29f3d6bd474087762eb8020fca16.png\",\"https://spk-json.spark-app.store/images/2025/06/13/fa8862f789424d129cdaa0a0925bf365.png\",\"https://spk-json.spark-app.store/images/2025/06/13/c29d85b5b4d4404995902cf7813d91ae.png\",\"https://spk-json.spark-app.store/images/2025/06/13/ffd0a9ba85b0496e90b43ffe5ef0b858.png\",\"https://spk-json.spark-app.store/images/2025/06/13/5f3507243b60481c944eb91102780424.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/06/13/0a25b4da05974e0497be62457bc8b5a2.png"
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/25/2d62a236ff7b4475801458e29e4d8fa0.png\",\"https://spk-json.spark-app.store/images/2025/06/25/d48fd88442274a60a0eda074e37040b2.png\",\"https://spk-json.spark-app.store/images/2025/06/25/70f1617f98234321a50a906e9656a7f9.png\",\"https://spk-json.spark-app.store/images/2025/06/25/a8f78baf19f64c05bc6841c7edb05e5b.png\",\"https://spk-json.spark-app.store/images/2025/06/25/39723ec07a8046a2895a574d3666978d.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/06/25/2bf77a71b2114ba1a7698a01a0d7c2ce.png"
     },
     {
       "Name": "OpenTabletDriver(数位板驱动)",
@@ -6812,22 +6812,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/10/1b9a3175b22843d0b1e355dcc5d28557.png"
     },
     {
-      "Name": "友虹版式阅读器",
-      "Version": "2.3.4",
-      "Filename": "sc-reader_2.3.4_amd64.deb",
-      "Torrent_address": "sc-reader_2.3.4_amd64.deb.torrent",
-      "Pkgname": "sc-reader",
-      "Author": "友虹（北京）科技有限公司 <service@scofd.com>",
-      "Contributor": "lizipeng0013",
-      "Website": "https://www.scofd.com",
-      "Update": "2024-04-05 01:20:27",
-      "Size": "62.57 MB",
-      "More": "友虹版式阅读软件（简称 SC-Reader）是一款跨平台的版式文档阅读和处理的专业软件，其核心功能是对符合国家版式标准的 OFD\n               格式的版式文档进行阅读和编辑处理；产品提供了对版式文件快速打开阅读、保存、打印、检索、导航、电子签章、各类注释处理、安全处理等功能。产品具有跨平台、高效率、定制性强、稳定性高、安全等优势；另外，友虹版式阅读软件提供了多种产品应用形态，包括桌面版、移动版以及一行代码嵌入等多种版本。产品通过提供丰富的接口快速实现与其他系统进行集成，同时，通过一行代码嵌入版本实现嵌入其他应用系统中，用于阅读\n               OFD/PDF 文件。",
-      "Tags": "deepin",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/9bd9d338e6634da9af08f52cd7631d5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/5e9b6efe79de44f49fdfa324ba87d9c9.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/2b83a893647c497dbf855988d95dd5c0.png"
-    },
-    {
       "Author": "上海亦答网络科技有限公司 <support@scholaread.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "scholaread_1.1.26-56_amd64.deb",
@@ -6842,6 +6826,22 @@
       "Website": "https://www.scholaread.com",
       "icons": "https://spk-json.spark-app.store/store/reading/scholaread/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/reading/scholaread/screen_1.png\"]"
+    },
+    {
+      "Name": "友虹版式阅读器",
+      "Version": "2.3.4",
+      "Filename": "sc-reader_2.3.4_amd64.deb",
+      "Torrent_address": "sc-reader_2.3.4_amd64.deb.torrent",
+      "Pkgname": "sc-reader",
+      "Author": "友虹（北京）科技有限公司 <service@scofd.com>",
+      "Contributor": "lizipeng0013",
+      "Website": "https://www.scofd.com",
+      "Update": "2024-04-05 01:20:27",
+      "Size": "62.57 MB",
+      "More": "友虹版式阅读软件（简称 SC-Reader）是一款跨平台的版式文档阅读和处理的专业软件，其核心功能是对符合国家版式标准的 OFD\n               格式的版式文档进行阅读和编辑处理；产品提供了对版式文件快速打开阅读、保存、打印、检索、导航、电子签章、各类注释处理、安全处理等功能。产品具有跨平台、高效率、定制性强、稳定性高、安全等优势；另外，友虹版式阅读软件提供了多种产品应用形态，包括桌面版、移动版以及一行代码嵌入等多种版本。产品通过提供丰富的接口快速实现与其他系统进行集成，同时，通过一行代码嵌入版本实现嵌入其他应用系统中，用于阅读\n               OFD/PDF 文件。",
+      "Tags": "deepin",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/9bd9d338e6634da9af08f52cd7631d5f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/5e9b6efe79de44f49fdfa324ba87d9c9.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/2b83a893647c497dbf855988d95dd5c0.png"
     },
     {
       "Name": "Homura",
@@ -7425,6 +7425,21 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/24/3532abd0-5e2b-11eb-a7bb-67f4743fa843.jpg"
     },
     {
+      "Name": "深度简约fcitx5皮肤",
+      "Version": "0.1-2",
+      "Filename": "fcitx5-ui-deepin-simple_0.1-2_all.deb",
+      "Pkgname": "fcitx5-ui-deepin-simple",
+      "Author": "lvzhu",
+      "Contributor": "shenmo",
+      "Website": "https://pinyin.sogou.com/skins/detail/view/info/587186?rf=search&tf=p",
+      "Update": "2021-12-06 09:55:44",
+      "Size": "52.52 KB",
+      "More": "一个经典的fcitx5皮肤，安装后更改皮肤的教程在下面的截图\n安装fcitx5的教程：",
+      "Tags": "community;debian;deepin;ubuntu;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/90b4a2b0-5637-11ec-94f4-713419e44b03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/92120fd0-5637-11ec-94f4-713419e44b03.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/8fdc9230-5637-11ec-94f4-713419e44b03.png"
+    },
+    {
       "Name": "官方壁纸分享",
       "Version": "1.0.0",
       "Filename": "deepin-wallpapers-bbs-spark_1.0.0_all.deb",
@@ -7439,21 +7454,6 @@
       "Tags": "deepin;uos;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/11/8beb7160-316e-11ed-86df-d7300db07e9f.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/11/6b00ede0-316e-11ed-86df-d7300db07e9f.jpg"
-    },
-    {
-      "Name": "深度简约fcitx5皮肤",
-      "Version": "0.1-2",
-      "Filename": "fcitx5-ui-deepin-simple_0.1-2_all.deb",
-      "Pkgname": "fcitx5-ui-deepin-simple",
-      "Author": "lvzhu",
-      "Contributor": "shenmo",
-      "Website": "https://pinyin.sogou.com/skins/detail/view/info/587186?rf=search&tf=p",
-      "Update": "2021-12-06 09:55:44",
-      "Size": "52.52 KB",
-      "More": "一个经典的fcitx5皮肤，安装后更改皮肤的教程在下面的截图\n安装fcitx5的教程：",
-      "Tags": "community;debian;deepin;ubuntu;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/90b4a2b0-5637-11ec-94f4-713419e44b03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/92120fd0-5637-11ec-94f4-713419e44b03.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/8fdc9230-5637-11ec-94f4-713419e44b03.png"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -7515,22 +7515,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_2.png\"]"
     },
     {
-      "Name": "CuteFish壁纸",
-      "Version": "0.8~dde",
-      "Filename": "cutefish-wallpapers_0.8~dde_amd64.deb",
-      "Torrent_address": "cutefish-wallpapers_0.8~dde_amd64.deb.torrent",
-      "Pkgname": "cutefish-wallpapers",
-      "Author": "CutefishOS <support@cutefishos.com>",
-      "Contributor": "CutefishOS <support@cutefishos.com>",
-      "Website": "https://cutefishos.com",
-      "Update": "2023-06-23 13:03:18",
-      "Size": "11.19 MB",
-      "More": "CuteFish壁纸\n新增Cutefish默认桌布",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/057a6177ca7243d489cda39173cfa5b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/2a53ce3e7d084cb68af74c8b493f268e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/8093dbe921544a44a0f7af80d1b0156a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/35f3744c4fc34401ae8faf65515b6cbb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/5d337cec16ec4c23b145e0d145bdfb64.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/e3fcddb91cbc4231bfe42b4a48e262db.png"
-    },
-    {
       "Name": "纳西妲主题光标",
       "Version": "1.0.0",
       "Filename": "nahida.cursors_1.0.0_all.deb",
@@ -7545,6 +7529,22 @@
       "Tags": "ubuntu;deepin;uos;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/59283c32027f4649a5fb685ebf083251.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/cb60f663a27a462e8cd3925ae84b2acc.png"
+    },
+    {
+      "Name": "CuteFish壁纸",
+      "Version": "0.8~dde",
+      "Filename": "cutefish-wallpapers_0.8~dde_amd64.deb",
+      "Torrent_address": "cutefish-wallpapers_0.8~dde_amd64.deb.torrent",
+      "Pkgname": "cutefish-wallpapers",
+      "Author": "CutefishOS <support@cutefishos.com>",
+      "Contributor": "CutefishOS <support@cutefishos.com>",
+      "Website": "https://cutefishos.com",
+      "Update": "2023-06-23 13:03:18",
+      "Size": "11.19 MB",
+      "More": "CuteFish壁纸\n新增Cutefish默认桌布",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/057a6177ca7243d489cda39173cfa5b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/2a53ce3e7d084cb68af74c8b493f268e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/8093dbe921544a44a0f7af80d1b0156a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/35f3744c4fc34401ae8faf65515b6cbb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/23/5d337cec16ec4c23b145e0d145bdfb64.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/e3fcddb91cbc4231bfe42b4a48e262db.png"
     },
     {
       "Name": "深度图标开机动画",
@@ -7609,22 +7609,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/27/2d95826cec0c4afca86b9dfb997fae8e.png"
     },
     {
-      "Name": "JingOS壁纸",
-      "Version": "1.0.0",
-      "Filename": "jingos-wallpapers_1.0.0_all.deb",
-      "Torrent_address": "jingos-wallpapers_1.0.0_all.deb.torrent",
-      "Pkgname": "jingos-wallpapers",
-      "Author": "JingOS-team",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Website": "https://github.com/JingOS-team/",
-      "Update": "2023-06-15 22:01:51",
-      "Size": "65.95 MB",
-      "More": "JingOS壁纸（提取自 JingOS 镜像）\n安装后在桌面右键壁纸与屏保即可更改",
-      "Tags": "deepin;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/fd8587bd562c41b089a83c6b53ac0f12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/ea826f0f41c8415589cbdd867f0537aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d67d5b53903a47088b707840d433e015.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/826f396e6aa9419cb5a841600ec9b576.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d59fcd7dc68b40618ea961a276c7e397.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/15/d9ec31a56516496ba829cb66a21e6ca2.png"
-    },
-    {
       "Name": "仿Vista桌面时钟",
       "Version": "3.1spark0",
       "Filename": "com.myclock.spark_3.1spark0_i386.deb",
@@ -7639,6 +7623,22 @@
       "Tags": "deepin;dwine5;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/10/f58dfb70-1895-11ed-aa0e-8beb41cc1d58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/10/f76ec960-1895-11ed-aa0e-8beb41cc1d58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/08/10/f8ef00c0-1895-11ed-aa0e-8beb41cc1d58.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/10/f31ef740-1895-11ed-aa0e-8beb41cc1d58.png"
+    },
+    {
+      "Name": "JingOS壁纸",
+      "Version": "1.0.0",
+      "Filename": "jingos-wallpapers_1.0.0_all.deb",
+      "Torrent_address": "jingos-wallpapers_1.0.0_all.deb.torrent",
+      "Pkgname": "jingos-wallpapers",
+      "Author": "JingOS-team",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Website": "https://github.com/JingOS-team/",
+      "Update": "2023-06-15 22:01:51",
+      "Size": "65.95 MB",
+      "More": "JingOS壁纸（提取自 JingOS 镜像）\n安装后在桌面右键壁纸与屏保即可更改",
+      "Tags": "deepin;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/fd8587bd562c41b089a83c6b53ac0f12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/ea826f0f41c8415589cbdd867f0537aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d67d5b53903a47088b707840d433e015.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/826f396e6aa9419cb5a841600ec9b576.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/15/d59fcd7dc68b40618ea961a276c7e397.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/15/d9ec31a56516496ba829cb66a21e6ca2.png"
     },
     {
       "Name": "拟态时钟屏保程序(升级多屏适配)",
@@ -7925,6 +7925,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/14/4b9fe19ea15b40d6ab40624a7f8eac9e.png"
     },
     {
+      "Name": "激活水印",
+      "Version": "1.0.0-1.2004.5",
+      "Filename": "activate-linux_1.0.0-1.2004.5_amd64.deb",
+      "Torrent_address": "activate-linux_1.0.0-1.2004.5_amd64.deb.torrent",
+      "Pkgname": "activate-linux",
+      "Author": "Dirk Eddelbuettel <edd@debian.org>",
+      "Contributor": "xmb505 <530060699@qq.com>",
+      "Website": "https://github.com/MrGlockenspiel/activate-linux",
+      "Update": "2025-02-03 09:57:27",
+      "Size": "15.87 KB",
+      "More": "模仿一个“激活Windows ”的水印\n命令参数\n./activate-linux -t \"Main Message\"\n./activate-linux --text-title \"Main Message\"",
+      "Tags": "community;ubuntu;debian;deepin;native",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/03/4b98fc3661b94601a2cfbee9a55d6743.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/02/03/e3429b89c49746428d8a3c60469301c1.png"
+    },
+    {
       "Name": "小时钟（wine）",
       "Version": "1.0.0",
       "Filename": "spark-wine-clock_1.0.0_amd64.deb",
@@ -7954,22 +7970,6 @@
       "Tags": "ubuntu;deepin;uos;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/3bcbff40-90fb-11ee-8234-33c37cef702b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/797c3bc0-90fb-11ee-8234-33c37cef702b.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/37804bd0-90fb-11ee-8234-33c37cef702b.png"
-    },
-    {
-      "Name": "激活水印",
-      "Version": "1.0.0-1.2004.5",
-      "Filename": "activate-linux_1.0.0-1.2004.5_amd64.deb",
-      "Torrent_address": "activate-linux_1.0.0-1.2004.5_amd64.deb.torrent",
-      "Pkgname": "activate-linux",
-      "Author": "Dirk Eddelbuettel <edd@debian.org>",
-      "Contributor": "xmb505 <530060699@qq.com>",
-      "Website": "https://github.com/MrGlockenspiel/activate-linux",
-      "Update": "2025-02-03 09:57:27",
-      "Size": "15.87 KB",
-      "More": "模仿一个“激活Windows ”的水印\n命令参数\n./activate-linux -t \"Main Message\"\n./activate-linux --text-title \"Main Message\"",
-      "Tags": "community;ubuntu;debian;deepin;native",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/03/4b98fc3661b94601a2cfbee9a55d6743.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/02/03/e3429b89c49746428d8a3c60469301c1.png"
     },
     {
       "Name": "雨水节气壁纸",
@@ -9238,22 +9238,6 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/02/22/b280f8a5368b48b0b5ad59b647bb1d40.png"
     },
     {
-      "Name": "Tenacity",
-      "Version": "1.3.4spark0",
-      "Filename": "org.tenacityaudio.tenacity.spark_1.3.4spark0_amd64.deb",
-      "Torrent_address": "org.tenacityaudio.tenacity.spark_1.3.4spark0_amd64.deb.torrent",
-      "Pkgname": "org.tenacityaudio.tenacity.spark",
-      "Author": "Tenacity community, MIT et al",
-      "Contributor": "sgb76",
-      "Website": "https://tenacityaudio.org/",
-      "Update": "2025-01-02 23:59:51",
-      "Size": "45.31 MB",
-      "More": "一个免费的开源数字音频工作站，它提供了多种音频编辑和录制功能。作为 Audacity 的分支项目，Tenacity在继承其稳定性和易用性的同时，还新增了一些功能和改进。",
-      "Tags": "community;ubuntu;deepin;uos;a2d;debian",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/02/3dbf0fa055a247e6949827aca2890798.png\",\"https://spk-json.spark-app.store/images/2025/01/02/84317dcaecd3464ea1ca857cf1b346f0.png\",\"https://spk-json.spark-app.store/images/2025/01/02/a15a53e660f84c68986ab833711c4b3a.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/01/02/d72a85f6786b418a94a201bdd31e655e.png"
-    },
-    {
       "Name": "Muse-Hub",
       "Version": "1.0.1.451",
       "Filename": "muse-hub_1.0.1.451_amd64.deb",
@@ -9268,6 +9252,22 @@
       "Tags": "debian;deepin;ubuntu",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/1ab8564b94f642ef9e5de6942e98e82c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/13/7a901cd010324786965988d09c6a67c9.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/13/c599e42584c54bdf8ff241a4d6c1bed3.png"
+    },
+    {
+      "Name": "Tenacity",
+      "Version": "1.3.4spark0",
+      "Filename": "org.tenacityaudio.tenacity.spark_1.3.4spark0_amd64.deb",
+      "Torrent_address": "org.tenacityaudio.tenacity.spark_1.3.4spark0_amd64.deb.torrent",
+      "Pkgname": "org.tenacityaudio.tenacity.spark",
+      "Author": "Tenacity community, MIT et al",
+      "Contributor": "sgb76",
+      "Website": "https://tenacityaudio.org/",
+      "Update": "2025-01-02 23:59:51",
+      "Size": "45.31 MB",
+      "More": "一个免费的开源数字音频工作站，它提供了多种音频编辑和录制功能。作为 Audacity 的分支项目，Tenacity在继承其稳定性和易用性的同时，还新增了一些功能和改进。",
+      "Tags": "community;ubuntu;deepin;uos;a2d;debian",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/02/3dbf0fa055a247e6949827aca2890798.png\",\"https://spk-json.spark-app.store/images/2025/01/02/84317dcaecd3464ea1ca857cf1b346f0.png\",\"https://spk-json.spark-app.store/images/2025/01/02/a15a53e660f84c68986ab833711c4b3a.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/01/02/d72a85f6786b418a94a201bdd31e655e.png"
     },
     {
       "Name": "Mélodie",
@@ -12014,6 +12014,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/02/26/04b87660-781b-11eb-bed2-3d00878ac8f4.png"
     },
     {
+      "Name": "全能王去水印",
+      "Version": "2.0.0.2",
+      "Filename": "com.qnwwatermark.spark_2.0.0.2_all.deb",
+      "Torrent_address": "com.qnwwatermark.spark_2.0.0.2_all.deb.torrent",
+      "Pkgname": "com.qnwwatermark.spark",
+      "Author": "深圳市超时代软件有限公司",
+      "Contributor": "wang",
+      "Website": "https://www.hoposoft.com/",
+      "Update": "2025-06-21 11:49:57",
+      "Size": "305.76 MB",
+      "More": "全能王去水印软件，是一款去除水印的软件，支持去除图片、视频上的水印，也是一款功能强大的去除水印工具。功能有视频水印去除、图片水印去除、图片水印添加、视频水印添加等功能。",
+      "Tags": "debian;ubuntu;deepin;dwine5",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/21/277b9cea0bfd45b2859b22b6a13dbfa2.png\",\"https://spk-json.spark-app.store/images/2025/06/21/cd6634c1be0f42fcb81fb0ba8ea76c03.png\",\"https://spk-json.spark-app.store/images/2025/06/21/b8e6b14794654c3f9ac3e3c93801b77d.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/06/21/3c91cfebf31b417e9282e0dc620fe62b.png"
+    },
+    {
       "Name": "七彩色淘宝主图视频制作工具",
       "Version": "11.1",
       "Filename": "com.qicaise.v.deepin_11.1_all.deb",
@@ -12091,22 +12107,6 @@
       "Tags": "a2d;debian;deepin;ubuntu;uos",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/28/fe9c9df771524955a3e770076ad102a0.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/28/e4f7d74868364d45b3313f0deb1f87a8.png"
-    },
-    {
-      "Name": "全能王去水印",
-      "Version": "2.0.0.2",
-      "Filename": "com.qnwwatermark.spark_2.0.0.2_all.deb",
-      "Torrent_address": "com.qnwwatermark.spark_2.0.0.2_all.deb.torrent",
-      "Pkgname": "com.qnwwatermark.spark",
-      "Author": "深圳市超时代软件有限公司",
-      "Contributor": "wang",
-      "Website": "https://www.hoposoft.com/",
-      "Update": "2025-06-21 11:49:57",
-      "Size": "305.76 MB",
-      "More": "全能王去水印软件，是一款去除水印的软件，支持去除图片、视频上的水印，也是一款功能强大的去除水印工具。功能有视频水印去除、图片水印去除、图片水印添加、视频水印添加等功能。",
-      "Tags": "debian;ubuntu;deepin;dwine5",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/21/277b9cea0bfd45b2859b22b6a13dbfa2.png\",\"https://spk-json.spark-app.store/images/2025/06/21/cd6634c1be0f42fcb81fb0ba8ea76c03.png\",\"https://spk-json.spark-app.store/images/2025/06/21/b8e6b14794654c3f9ac3e3c93801b77d.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/06/21/3c91cfebf31b417e9282e0dc620fe62b.png"
     },
     {
       "Name": "IM Compressor",
@@ -12556,22 +12556,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/others/com.tdx.tdxcfv/screen_1.png\"]"
     },
     {
-      "Name": "简体中文艺术字体“得意黑”",
-      "Version": "2.1.0-1",
-      "Filename": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb",
-      "Torrent_address": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb.torrent",
-      "Pkgname": "fonts-cjk-cn-smiley-sans",
-      "Author": "oooooohmygosh",
-      "Contributor": "阿尼樱奈奈",
-      "Website": "https://atelier-anchor.com/typefaces/smiley-sans/",
-      "Update": "2024-03-05 17:17:08",
-      "Size": "1.27 MB",
-      "More": "2024/3/5：原作者把字体文件更新到了2.1.0版本，这里也一并更新了；\noooooohmygosh 发布的第一款免费商用的简体中文字体，基于 SIL-1.1 开源字体协议发布。可以免费商用，也可以修改创作。字体的三个主要特征：大弧线、窄、斜。",
-      "Tags": "community;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/2d1610e9c6ee47f3a60e02e3b8382933.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/d62717e9debd4f38825cbef0b3178291.png"
-    },
-    {
       "Name": "含12个免费的WPS中文简历模板",
       "Version": "2.12-1",
       "Filename": "wps-office-templates-01-jianli_2.12-1_all.deb",
@@ -12586,6 +12570,22 @@
       "Tags": "debian;deepin;ubuntu;uos;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/16/17b81e9f076749e0b6ce0fef4283c20e.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/16/3aaae5ba6387428aae2f8420c785d8ce.png"
+    },
+    {
+      "Name": "简体中文艺术字体“得意黑”",
+      "Version": "2.1.0-1",
+      "Filename": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb",
+      "Torrent_address": "fonts-cjk-cn-smiley-sans_2.1.0-1_all.deb.torrent",
+      "Pkgname": "fonts-cjk-cn-smiley-sans",
+      "Author": "oooooohmygosh",
+      "Contributor": "阿尼樱奈奈",
+      "Website": "https://atelier-anchor.com/typefaces/smiley-sans/",
+      "Update": "2024-03-05 17:17:08",
+      "Size": "1.27 MB",
+      "More": "2024/3/5：原作者把字体文件更新到了2.1.0版本，这里也一并更新了；\noooooohmygosh 发布的第一款免费商用的简体中文字体，基于 SIL-1.1 开源字体协议发布。可以免费商用，也可以修改创作。字体的三个主要特征：大弧线、窄、斜。",
+      "Tags": "community;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/05/2d1610e9c6ee47f3a60e02e3b8382933.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/d62717e9debd4f38825cbef0b3178291.png"
     },
     {
       "Name": "fastfetch--更快的neofetch",
@@ -14551,22 +14551,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/12/1ba6bf241b3c4e1e8956eac19c50a9d9.png"
     },
     {
-      "Name": "Windows 蜘蛛纸牌（Wine）",
-      "Version": "5.1.2600.5512",
-      "Filename": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb",
-      "Torrent_address": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb.torrent",
-      "Pkgname": "com.zhizhuzhipai.spark",
-      "Author": "Microsoft",
-      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-      "Website": "https://www.microsoft.com",
-      "Update": "2022-12-04 15:38:43",
-      "Size": "8.22 MB",
-      "More": "Windows 蜘蛛纸牌 For Deepin Wine 6",
-      "Tags": "ubuntu;deepin;uos;dwine5;debian",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/6cf6b07f7eb3443aa8977c1ac320911a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/bd57efdeccb84b30988cad2b415761c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/dcefef340ff04ae496d56ada0253595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/107ae721d7f4461dad58dbfbc25f3210.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/04/aff46d510b2a48ab8fbc8670046fd832.png"
-    },
-    {
       "Name": "纪念碑谷2",
       "Version": "1.0spark1",
       "Filename": "com.monumentvalley2.spark_1.0spark1_all.deb",
@@ -14581,6 +14565,22 @@
       "Tags": "debian;deepin;uos;dwine5",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/05/40d59406d6d94040ac6472dd73fde91f.png\",\"https://spk-json.spark-app.store/images/2025/04/05/328e33ed8d4347d5b4e5915ba47128ce.png\",\"https://spk-json.spark-app.store/images/2025/04/05/d9077f74a6c846e28da960835b2d5a8f.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/04/05/ed397e148e804619a091b13098567bf4.png"
+    },
+    {
+      "Name": "Windows 蜘蛛纸牌（Wine）",
+      "Version": "5.1.2600.5512",
+      "Filename": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb",
+      "Torrent_address": "com.zhizhuzhipai.spark_5.1.2600.5512_i386.deb.torrent",
+      "Pkgname": "com.zhizhuzhipai.spark",
+      "Author": "Microsoft",
+      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+      "Website": "https://www.microsoft.com",
+      "Update": "2022-12-04 15:38:43",
+      "Size": "8.22 MB",
+      "More": "Windows 蜘蛛纸牌 For Deepin Wine 6",
+      "Tags": "ubuntu;deepin;uos;dwine5;debian",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/6cf6b07f7eb3443aa8977c1ac320911a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/bd57efdeccb84b30988cad2b415761c0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/dcefef340ff04ae496d56ada0253595a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/04/107ae721d7f4461dad58dbfbc25f3210.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/04/aff46d510b2a48ab8fbc8670046fd832.png"
     },
     {
       "Name": "火炬之光2",
@@ -14599,21 +14599,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/28/f4aa26a2ba0946fa99b579b46ab1ad26.png"
     },
     {
-      "Name": "QQ欢乐斗地主",
-      "Version": "1.1",
-      "Filename": "qq-hlddz_1.1_amd64.deb",
-      "Pkgname": "qq-hlddz",
-      "Author": "Tencent",
-      "Contributor": "shenmo",
-      "Website": "https://hlddz.huanle.qq.com/",
-      "Update": "2020-11-23 04:31:00",
-      "Size": "11.07 KB",
-      "More": "网页版QQ斗地主",
-      "Tags": "community;deepin;dtk5",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
-    },
-    {
       "Name": "VEK游戏配置平台",
       "Version": "1.0.2.5",
       "Filename": "org.sea-group.raa_1.0.2.5_amd64.deb",
@@ -14628,6 +14613,21 @@
       "Tags": "deepin;uos;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/6d9a4a80-caf1-11ec-ad8d-3530d8c8f402.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/701ab3d0-caf1-11ec-ad8d-3530d8c8f402.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/03/685a9a20-caf1-11ec-ad8d-3530d8c8f402.png"
+    },
+    {
+      "Name": "QQ欢乐斗地主",
+      "Version": "1.1",
+      "Filename": "qq-hlddz_1.1_amd64.deb",
+      "Pkgname": "qq-hlddz",
+      "Author": "Tencent",
+      "Contributor": "shenmo",
+      "Website": "https://hlddz.huanle.qq.com/",
+      "Update": "2020-11-23 04:31:00",
+      "Size": "11.07 KB",
+      "More": "网页版QQ斗地主",
+      "Tags": "community;deepin;dtk5",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
     },
     {
       "Name": "半条命",
@@ -14772,22 +14772,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/d24ab626f6474acea2f3e575c32ab54b.png"
     },
     {
-      "Name": "大富翁10",
-      "Version": "1.0",
-      "Filename": "com.richman10.spark_1.0_all.deb",
-      "Torrent_address": "com.richman10.spark_1.0_all.deb.torrent",
-      "Pkgname": "com.richman10.spark",
-      "Author": "John12138",
-      "Contributor": "John12138",
-      "Website": "https://www.softstar.net/",
-      "Update": "2023-07-02 08:17:10",
-      "Size": "1.19 GB",
-      "More": "本次修复包校验失败问题\n大富翁10，支持在线模式，部分地区请选择阿土伯服务器，部分地区两个服务器皆支持",
-      "Tags": "ubuntu;deepin;dwine5;debian",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/41b985a24a4f420fa21626e0142d127b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/a4826d5ec6cf4ab4b67cb8f2bf1a21c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/9c894eaa7eca4366b9efadaaaef656fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/2c0ac9b12b234909becddf061938a65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/96e290a759974aa48f8997ff9ff25de8.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/02/21d443630a4144a3bdf135f1a4c196b2.png"
-    },
-    {
       "Name": "三国志10威力加强版（wine）",
       "Version": "1.0",
       "Filename": "deepin-wine-san10pk_1.0_i386.deb",
@@ -14802,6 +14786,22 @@
       "Tags": "deepin",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/66657eb0-dec3-11ed-80ae-f153b91b4a52.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/692c66e0-dec3-11ed-80ae-f153b91b4a52.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/7639c580-dec3-11ed-80ae-f153b91b4a52.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/19/78cd1a90-dec3-11ed-80ae-f153b91b4a52.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/19/56de9490-dec3-11ed-80ae-f153b91b4a52.png"
+    },
+    {
+      "Name": "大富翁10",
+      "Version": "1.0",
+      "Filename": "com.richman10.spark_1.0_all.deb",
+      "Torrent_address": "com.richman10.spark_1.0_all.deb.torrent",
+      "Pkgname": "com.richman10.spark",
+      "Author": "John12138",
+      "Contributor": "John12138",
+      "Website": "https://www.softstar.net/",
+      "Update": "2023-07-02 08:17:10",
+      "Size": "1.19 GB",
+      "More": "本次修复包校验失败问题\n大富翁10，支持在线模式，部分地区请选择阿土伯服务器，部分地区两个服务器皆支持",
+      "Tags": "ubuntu;deepin;dwine5;debian",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/41b985a24a4f420fa21626e0142d127b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/a4826d5ec6cf4ab4b67cb8f2bf1a21c3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/9c894eaa7eca4366b9efadaaaef656fc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/2c0ac9b12b234909becddf061938a65c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/02/96e290a759974aa48f8997ff9ff25de8.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/02/21d443630a4144a3bdf135f1a4c196b2.png"
     },
     {
       "Name": "传送门马里奥 mari0",
@@ -15939,21 +15939,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/23/50d89d20-6b37-11ed-8c55-33d7e78fc69b.png"
     },
     {
-      "Name": "multimc",
-      "Version": "1.5-1",
-      "Filename": "multimc_1.5-1_all.deb",
-      "Pkgname": "multimc",
-      "Author": "multimc",
-      "Contributor": "kite",
-      "Website": "https://multimc.org/",
-      "Update": "2021-08-30 11:25:40",
-      "Size": "7.51 KB",
-      "More": "MultiMC是一个免费的，开源的我的世界启动器。它允许您拥有多个完全分离的 Minecraft 实例（每个实例都有自己的模组、资源包、保存等），并帮助您使用简单而强大的界面管理它们及其相关选项。\n\n！MultiMC要求 Qt5 安装在 Linux 上。如果没有它，您可能需要安装以下包：‎！\nUbuntu/Debian: 【qt5-default】",
-      "Tags": "debian;deepin;ubuntu",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/80fa8a30-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/94e6f150-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/954fc540-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/9d6ccc00-0941-11ec-ac2e-67a4ff5f8f64.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/30/ff61f710-0940-11ec-ac2e-67a4ff5f8f64.png"
-    },
-    {
       "Name": "呆波宠物",
       "Version": "0.3.1",
       "Filename": "dyberpet_0.3.1_amd64.deb",
@@ -15970,20 +15955,19 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/01/7d4dcd80-ef7f-11ee-9671-81712e149e2a.png"
     },
     {
-      "Name": "终端贪吃蛇游戏 (csnaketerm)",
-      "Version": "0.2.0~spark4",
-      "Filename": "csnaketerm_0.2.0~spark4_all.deb",
-      "Torrent_address": "csnaketerm_0.2.0~spark4_all.deb.torrent",
-      "Pkgname": "csnaketerm",
-      "Author": "Donald Sebastian Leung",
-      "Contributor": "Donald Sebastian Leung",
-      "Website": "https://github.com/DonaldKellett/csnaketerm",
-      "Update": "2023-01-14 12:59:24",
-      "Size": "12.81 KB",
-      "More": "经典终端贪食蛇游戏 csnaketerm 是一个以 Node.js 实现的贪食蛇游戏：\n\n- 可选择三个版图：旷野、围墙、迷宫\n- 可选择四种难度：初级、中级、高级、疯狂\n- 能记录您每个 版图+难度 组合所得的最高分数\n\n详情请参考原 GitHub 仓库：https://github.com/DonaldKellett/csnaketerm\n\n如有问题，请发邮件给 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/csnaketerm-spark-store 建工单。",
-      "Tags": "community;deepin",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/329bd890-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32c00260-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32d278f0-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32aca170-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32e4a160-93c8-11ed-8dce-1fec4c93e3a4.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/306dd500-93c8-11ed-8dce-1fec4c93e3a4.png"
+      "Name": "multimc",
+      "Version": "1.5-1",
+      "Filename": "multimc_1.5-1_all.deb",
+      "Pkgname": "multimc",
+      "Author": "multimc",
+      "Contributor": "kite",
+      "Website": "https://multimc.org/",
+      "Update": "2021-08-30 11:25:40",
+      "Size": "7.51 KB",
+      "More": "MultiMC是一个免费的，开源的我的世界启动器。它允许您拥有多个完全分离的 Minecraft 实例（每个实例都有自己的模组、资源包、保存等），并帮助您使用简单而强大的界面管理它们及其相关选项。\n\n！MultiMC要求 Qt5 安装在 Linux 上。如果没有它，您可能需要安装以下包：‎！\nUbuntu/Debian: 【qt5-default】",
+      "Tags": "debian;deepin;ubuntu",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/80fa8a30-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/94e6f150-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/954fc540-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/9d6ccc00-0941-11ec-ac2e-67a4ff5f8f64.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/30/ff61f710-0940-11ec-ac2e-67a4ff5f8f64.png"
     },
     {
       "Name": "pcsx2-qt",
@@ -16000,6 +15984,22 @@
       "Tags": "a2d;debian;deepin;ubuntu;uos",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/95f7e3fc72704b469c280e2b22363f29.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/2b36a2612b454d14af00ef9a268e0493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/01aa276470b14c9496e1f4dc48bd9d5c.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/02/2e09f6f5b760441199a1fe471be7efe6.png"
+    },
+    {
+      "Name": "终端贪吃蛇游戏 (csnaketerm)",
+      "Version": "0.2.0~spark4",
+      "Filename": "csnaketerm_0.2.0~spark4_all.deb",
+      "Torrent_address": "csnaketerm_0.2.0~spark4_all.deb.torrent",
+      "Pkgname": "csnaketerm",
+      "Author": "Donald Sebastian Leung",
+      "Contributor": "Donald Sebastian Leung",
+      "Website": "https://github.com/DonaldKellett/csnaketerm",
+      "Update": "2023-01-14 12:59:24",
+      "Size": "12.81 KB",
+      "More": "经典终端贪食蛇游戏 csnaketerm 是一个以 Node.js 实现的贪食蛇游戏：\n\n- 可选择三个版图：旷野、围墙、迷宫\n- 可选择四种难度：初级、中级、高级、疯狂\n- 能记录您每个 版图+难度 组合所得的最高分数\n\n详情请参考原 GitHub 仓库：https://github.com/DonaldKellett/csnaketerm\n\n如有问题，请发邮件给 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/csnaketerm-spark-store 建工单。",
+      "Tags": "community;deepin",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/329bd890-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32c00260-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32d278f0-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32aca170-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32e4a160-93c8-11ed-8dce-1fec4c93e3a4.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/306dd500-93c8-11ed-8dce-1fec4c93e3a4.png"
     },
     {
       "Name": "Windows 空当接龙（Wine）",
@@ -16319,21 +16319,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/16/71d03dd5b80549c7b5fe02ceb5d65c54.png"
     },
     {
-      "Name": "安黛因模拟战",
-      "Version": "1.5",
-      "Filename": "fairdyne_1.5_amd64.deb",
-      "Pkgname": "fairdyne",
-      "Author": "joezeng",
-      "Contributor": "shenmo",
-      "Website": "https://github.com/joezeng/fairdyne",
-      "Update": "2020-11-24 01:57:00",
-      "Size": "26.06 MB",
-      "More": "安黛因模拟战，UT厨狂喜\\n端口38324将在游戏运行期间被占用\\n端口38324将在游戏运行期间被占用\\n端口38324将在游戏运行期间被占用 更新说明：跟进1.5swrt",
-      "Tags": "community;deepin;dtk5",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/5241dec0-2df8-11eb-9072-d5c754e64b42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/523b7620-2df8-11eb-9072-d5c754e64b42.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/24/52117ff0-2df8-11eb-9072-d5c754e64b42.png"
-    },
-    {
       "Name": "yuzu",
       "Version": "1.5",
       "Filename": "yuzu-emu_1.5_amd64.deb",
@@ -16348,6 +16333,21 @@
       "Tags": "ubuntu;a2d",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a2f74c30-f8e1-11ee-94b3-3598cf0b4d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/12/a4b63a40-f8e1-11ee-94b3-3598cf0b4d68.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/12/9924a630-f8e1-11ee-94b3-3598cf0b4d68.png"
+    },
+    {
+      "Name": "安黛因模拟战",
+      "Version": "1.5",
+      "Filename": "fairdyne_1.5_amd64.deb",
+      "Pkgname": "fairdyne",
+      "Author": "joezeng",
+      "Contributor": "shenmo",
+      "Website": "https://github.com/joezeng/fairdyne",
+      "Update": "2020-11-24 01:57:00",
+      "Size": "26.06 MB",
+      "More": "安黛因模拟战，UT厨狂喜\\n端口38324将在游戏运行期间被占用\\n端口38324将在游戏运行期间被占用\\n端口38324将在游戏运行期间被占用 更新说明：跟进1.5swrt",
+      "Tags": "community;deepin;dtk5",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/5241dec0-2df8-11eb-9072-d5c754e64b42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/24/523b7620-2df8-11eb-9072-d5c754e64b42.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/24/52117ff0-2df8-11eb-9072-d5c754e64b42.png"
     },
     {
       "Name": "红怪",
@@ -17088,6 +17088,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/08/3654724163e64011b4121d340a0c15ed.png"
     },
     {
+      "Name": "24点",
+      "Version": "0.1.0",
+      "Filename": "icu.yzzi.24points_0.1.0_amd64.deb",
+      "Torrent_address": "icu.yzzi.24points_0.1.0_amd64.deb.torrent",
+      "Pkgname": "icu.yzzi.24points",
+      "Author": "柚子",
+      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+      "Website": "https://gitee.com/Limexb/a-24-points",
+      "Update": "2023-02-12 21:46:57",
+      "Size": "32.99 KB",
+      "More": "棋牌类益智游戏，要求四个数字运算结果等于二十四，一起来玩玩吧！这个游戏用扑克牌更容易来开展。拿一副牌，抽去大小王后(初练也可以把J/Q/K/大小王也拿去)，剩下1～10这40张牌(以下用1代替A)。任意抽取4张牌(称为牌组)，用加、减、乘、除(可加括号，高级玩家也可用乘方开方与阶乘运算)把牌面上的数算成24。每张牌必须用且只能用一次。如抽出的牌是3、8、8、9，那么算式为(9-8)×8×3=24。",
+      "Tags": "community;deepin;uos;dtk5;debian",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d810b04c2d954874ae77b5490b44da32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/9ee92eb8c73b4f039903f96f18e0a339.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/4dceea73cad04a218315689b4ceebdd1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/a67e152d11674b528f9171cec4765400.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/0f524e1ec53e44998ccb7beca855edef.png"
+    },
+    {
       "Name": "怒之铁拳2",
       "Version": "1.0spark1",
       "Filename": "com.sor2x.spark_1.0spark1_all.deb",
@@ -17118,22 +17134,6 @@
       "Website": "http://priv-update.lenovo.com.cn/lenovosmart/04/lenovosmart/cooperation.html",
       "icons": "https://spk-json.spark-app.store/loong64-store/games/com.legend.chinese-chess-wine/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/com.legend.chinese-chess-wine/screen_1.png\"]"
-    },
-    {
-      "Name": "24点",
-      "Version": "0.1.0",
-      "Filename": "icu.yzzi.24points_0.1.0_amd64.deb",
-      "Torrent_address": "icu.yzzi.24points_0.1.0_amd64.deb.torrent",
-      "Pkgname": "icu.yzzi.24points",
-      "Author": "柚子",
-      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-      "Website": "https://gitee.com/Limexb/a-24-points",
-      "Update": "2023-02-12 21:46:57",
-      "Size": "32.99 KB",
-      "More": "棋牌类益智游戏，要求四个数字运算结果等于二十四，一起来玩玩吧！这个游戏用扑克牌更容易来开展。拿一副牌，抽去大小王后(初练也可以把J/Q/K/大小王也拿去)，剩下1～10这40张牌(以下用1代替A)。任意抽取4张牌(称为牌组)，用加、减、乘、除(可加括号，高级玩家也可用乘方开方与阶乘运算)把牌面上的数算成24。每张牌必须用且只能用一次。如抽出的牌是3、8、8、9，那么算式为(9-8)×8×3=24。",
-      "Tags": "community;deepin;uos;dtk5;debian",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d810b04c2d954874ae77b5490b44da32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/9ee92eb8c73b4f039903f96f18e0a339.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/4dceea73cad04a218315689b4ceebdd1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/a67e152d11674b528f9171cec4765400.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/0f524e1ec53e44998ccb7beca855edef.png"
     },
     {
       "Name": "传说法师",
@@ -17295,20 +17295,17 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/900f8ef918a14e04adc9e770d5bed714.png"
     },
     {
-      "Name": "无尽梦魇",
-      "Version": "1.0spark1",
-      "Filename": "com.nightmare.spark_1.0spark1_all.deb",
-      "Torrent_address": "com.nightmare.spark_1.0spark1_all.deb.torrent",
-      "Pkgname": "com.nightmare.spark",
-      "Author": "Infinitap Games",
-      "Contributor": "sgb76",
-      "Website": "no",
-      "Update": "2025-05-02 18:31:05",
-      "Size": "379.52 MB",
-      "More": "一款恐怖冒险解谜类游戏",
-      "Tags": "debian;deepin;uos;dwine5",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/02/1bd7282b0fa94b21900b214f3919d65b.png\",\"https://spk-json.spark-app.store/images/2025/05/02/eb697f66d08b42f48f437209817b629c.png\",\"https://spk-json.spark-app.store/images/2025/05/02/f2d6920a4592471a9ac334e04c0cc9d1.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/05/02/0a7e1626fac34a6bbd76424e1e8256ee.png"
+      "Name": "ons模拟器onscripter-jh",
+      "Version": "0.7.4-1",
+      "Filename": "onscripter-jh_0.7.4-1_amd64.deb",
+      "Pkgname": "onscripter-jh",
+      "Author": "jh10001",
+      "Contributor": "Baiyanglizhiyuan",
+      "Website": "https://bitbucket.org/jh10001/onscripter-jh",
+      "Update": "2020-07-24 12:51",
+      "Size": "200.81KB",
+      "More": "一个用于运行ons游戏的工具。在ons游戏目录右键打开终端，执行onscripter-jh即可打开游戏",
+      "Tags": "debian"
     },
     {
       "Name": "Ryujinx",
@@ -17327,17 +17324,20 @@
       "icons": "https://spk-json.spark-app.store/icons/2024/12/20/5beefb6935cc4c5c8882e7f51bea02d6.png"
     },
     {
-      "Name": "ons模拟器onscripter-jh",
-      "Version": "0.7.4-1",
-      "Filename": "onscripter-jh_0.7.4-1_amd64.deb",
-      "Pkgname": "onscripter-jh",
-      "Author": "jh10001",
-      "Contributor": "Baiyanglizhiyuan",
-      "Website": "https://bitbucket.org/jh10001/onscripter-jh",
-      "Update": "2020-07-24 12:51",
-      "Size": "200.81KB",
-      "More": "一个用于运行ons游戏的工具。在ons游戏目录右键打开终端，执行onscripter-jh即可打开游戏",
-      "Tags": "debian"
+      "Name": "无尽梦魇",
+      "Version": "1.0spark1",
+      "Filename": "com.nightmare.spark_1.0spark1_all.deb",
+      "Torrent_address": "com.nightmare.spark_1.0spark1_all.deb.torrent",
+      "Pkgname": "com.nightmare.spark",
+      "Author": "Infinitap Games",
+      "Contributor": "sgb76",
+      "Website": "no",
+      "Update": "2025-05-02 18:31:05",
+      "Size": "379.52 MB",
+      "More": "一款恐怖冒险解谜类游戏",
+      "Tags": "debian;deepin;uos;dwine5",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/02/1bd7282b0fa94b21900b214f3919d65b.png\",\"https://spk-json.spark-app.store/images/2025/05/02/eb697f66d08b42f48f437209817b629c.png\",\"https://spk-json.spark-app.store/images/2025/05/02/f2d6920a4592471a9ac334e04c0cc9d1.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/05/02/0a7e1626fac34a6bbd76424e1e8256ee.png"
     },
     {
       "Name": "杀出重围3：人类革命之消失的线索",
@@ -17484,6 +17484,22 @@
       "icons": "https://spk-json.spark-app.store/icons/2024/12/14/d16cb595380a42a1910a90bd8b0acf85.png"
     },
     {
+      "Author": "Joydin<support@joydin.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.joydin.braingame_2.6.0_amd64.deb",
+      "More": "旨在为有志提高自己的逻辑推理能力、分析能力、思维能力、数学运算能力等智力水平的同志提供一系列有效的电脑游戏，并不断提供更新服务，不断推出新的游戏产品。支持人机对战、本机对战和网络对战。游戏采用过关形式，难度对应小学到博士的智力水平，对提高玩家智力水平起很好的作用。",
+      "Name": "智力游戏",
+      "Pkgname": "com.joydin.braingame",
+      "Size": "101 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.joydin.braingame_2.6.0_amd64.deb.torrent",
+      "Update": "2025-05-15 22:14:17",
+      "Version": "2.6.0",
+      "Website": "http://www.joydin.com",
+      "icons": "https://spk-json.spark-app.store/store/games/com.joydin.braingame/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_1.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_2.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_3.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_4.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_5.png\"]"
+    },
+    {
       "Name": "丛林之狐2",
       "Version": "1.0spark1",
       "Filename": "com.vietcong2.spark_1.0spark1_all.deb",
@@ -17513,22 +17529,6 @@
       "Tags": "deepin;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/14/a938e220-0df8-11eb-b09e-0fd5d6dd8f0b.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/14/b15b8e30-0df8-11eb-b09e-0fd5d6dd8f0b.jpg\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/14/b366ee90-0df8-11eb-b09e-0fd5d6dd8f0b.jpg\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/14/308f99e0-0df8-11eb-b09e-0fd5d6dd8f0b.ico"
-    },
-    {
-      "Author": "Joydin<support@joydin.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.joydin.braingame_2.6.0_amd64.deb",
-      "More": "旨在为有志提高自己的逻辑推理能力、分析能力、思维能力、数学运算能力等智力水平的同志提供一系列有效的电脑游戏，并不断提供更新服务，不断推出新的游戏产品。支持人机对战、本机对战和网络对战。游戏采用过关形式，难度对应小学到博士的智力水平，对提高玩家智力水平起很好的作用。",
-      "Name": "智力游戏",
-      "Pkgname": "com.joydin.braingame",
-      "Size": "101 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.joydin.braingame_2.6.0_amd64.deb.torrent",
-      "Update": "2025-05-15 22:14:17",
-      "Version": "2.6.0",
-      "Website": "http://www.joydin.com",
-      "icons": "https://spk-json.spark-app.store/store/games/com.joydin.braingame/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_1.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_2.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_3.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_4.png\",\"https://spk-json.spark-app.store/store/games/com.joydin.braingame/screen_5.png\"]"
     },
     {
       "Name": "RPCS3",
@@ -17659,6 +17659,22 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/05/04/9d50503884fa4f15b35a1eaf60f94d5a.png"
     },
     {
+      "Name": "citron",
+      "Version": "20250502-0.6.1",
+      "Filename": "citron_20250502-0.6.1_amd64.deb",
+      "Torrent_address": "citron_20250502-0.6.1_amd64.deb.torrent",
+      "Pkgname": "citron",
+      "Author": "citron",
+      "Contributor": "海阔山遥",
+      "Website": "https://citron-emu.pro/",
+      "Update": "2025-05-02 11:19:29",
+      "Size": "111.8 MB",
+      "More": "继yuzu，suyu之后，修复大量游戏渲染错误，推荐更新mesa25.1（驱动还未正式）\n2025.02.22更新提升vulkan稳定性。\n2025.02.25更新实现 TLB 缓存系统。\n2025.03.02更新qt打包环境6.8.2&修复一些已知问题。\n2025.04.03修复部分游戏中的显示错误\n2025.04.14修复部分问题\n2025.04.19更新vulkan头及依赖\n2025.05.02修复大量问题同步官方版本",
+      "Tags": "community;debian;ubuntu;deepin;uos;a2d",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/02/014b24c00a1e406aa72c5563edad72b7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/fdd534840d544ce98f32da429f1f8bd7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/ec2f4b8dc91443eeb29a1e058664ebc4.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/05/02/748e80947a914cdc9967bc0b812ed539.png"
+    },
+    {
       "Name": "suyu",
       "Version": "0.0.3-1",
       "Filename": "suyu_0.0.3-1_amd64.deb",
@@ -17688,22 +17704,6 @@
       "Tags": "ubuntu;deepin;uos;dwine2;dwine5;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/12/ac4dbc40-e2ac-11eb-b260-f9f0b056153d.gif\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/12/aaecccb0-e2ac-11eb-b260-f9f0b056153d.png"
-    },
-    {
-      "Name": "citron",
-      "Version": "20250502-0.6.1",
-      "Filename": "citron_20250502-0.6.1_amd64.deb",
-      "Torrent_address": "citron_20250502-0.6.1_amd64.deb.torrent",
-      "Pkgname": "citron",
-      "Author": "citron",
-      "Contributor": "海阔山遥",
-      "Website": "https://citron-emu.pro/",
-      "Update": "2025-05-02 11:19:29",
-      "Size": "111.8 MB",
-      "More": "继yuzu，suyu之后，修复大量游戏渲染错误，推荐更新mesa25.1（驱动还未正式）\n2025.02.22更新提升vulkan稳定性。\n2025.02.25更新实现 TLB 缓存系统。\n2025.03.02更新qt打包环境6.8.2&修复一些已知问题。\n2025.04.03修复部分游戏中的显示错误\n2025.04.14修复部分问题\n2025.04.19更新vulkan头及依赖\n2025.05.02修复大量问题同步官方版本",
-      "Tags": "community;debian;ubuntu;deepin;uos;a2d",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/02/014b24c00a1e406aa72c5563edad72b7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/fdd534840d544ce98f32da429f1f8bd7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/ec2f4b8dc91443eeb29a1e058664ebc4.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/05/02/748e80947a914cdc9967bc0b812ed539.png"
     },
     {
       "Name": "XBoard中国象棋棋子主题-猫啃什锦黑",
@@ -17878,6 +17878,22 @@
       "img_urls": "[]"
     },
     {
+      "Name": "Onscripter-Yuri",
+      "Version": "0.7.4",
+      "Filename": "onscripter-yuri_0.7.4_amd64.deb",
+      "Torrent_address": "onscripter-yuri_0.7.4_amd64.deb.torrent",
+      "Pkgname": "onscripter-yuri",
+      "Author": "YuriSizuku",
+      "Contributor": "rina",
+      "Website": "https://github.com/YuriSizuku/OnscripterYuri",
+      "Update": "2024-01-04 17:19:44",
+      "Size": "1.39 MB",
+      "More": "Onscripter的Yuri修改版，可运行ons游戏。相比原版，新增了许多功能。\n运行：在游戏根目录下打开终端，先给予权限 chmod 777 /usr/bin/onsyuri，再输入 onsyuri 即可运行。\n游戏后，删除stdout.txt和stderr.txt",
+      "Tags": "debian;deepin;ubuntu;uos",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c4aa34bcbd004de8841e9a6cfdc6ba61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/250166db4b84486bbde1eb0e134663a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c9d3684dd4fc4add916bd196ad64a6f0.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/04/90fbf62a71eb45dc82938f58c38beba3.png"
+    },
+    {
       "Name": "HMCL通用版JE",
       "Version": "3.6.11.267-dev20250212114101~universal",
       "Filename": "hmcl_3.6.11.267-dev20250212114101~universal_amd64.deb",
@@ -17955,22 +17971,6 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/screen_1.png\"]"
-    },
-    {
-      "Name": "Onscripter-Yuri",
-      "Version": "0.7.4",
-      "Filename": "onscripter-yuri_0.7.4_amd64.deb",
-      "Torrent_address": "onscripter-yuri_0.7.4_amd64.deb.torrent",
-      "Pkgname": "onscripter-yuri",
-      "Author": "YuriSizuku",
-      "Contributor": "rina",
-      "Website": "https://github.com/YuriSizuku/OnscripterYuri",
-      "Update": "2024-01-04 17:19:44",
-      "Size": "1.39 MB",
-      "More": "Onscripter的Yuri修改版，可运行ons游戏。相比原版，新增了许多功能。\n运行：在游戏根目录下打开终端，先给予权限 chmod 777 /usr/bin/onsyuri，再输入 onsyuri 即可运行。\n游戏后，删除stdout.txt和stderr.txt",
-      "Tags": "debian;deepin;ubuntu;uos",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c4aa34bcbd004de8841e9a6cfdc6ba61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/250166db4b84486bbde1eb0e134663a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c9d3684dd4fc4add916bd196ad64a6f0.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/04/90fbf62a71eb45dc82938f58c38beba3.png"
     },
     {
       "Name": "漫漫旅途",
@@ -23790,6 +23790,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/07/8142f410-276d-11ec-a908-d7b2efc621ed.png"
     },
     {
+      "Name": "EMobile7",
+      "Version": "7.2.9",
+      "Filename": "e-mobile_7.2.9_amd64.deb",
+      "Torrent_address": "e-mobile_7.2.9_amd64.deb.torrent",
+      "Pkgname": "e-mobile",
+      "Author": "Oliver <2212lx@163.com>",
+      "Contributor": "momen <vmomenv@gmail.com>",
+      "Website": "https://www.weaver.com.cn/",
+      "Update": "2025-06-27 12:59:23",
+      "Size": "54.3 MB",
+      "More": "EMobile7\n泛微OA系统用户端",
+      "Tags": "debian;ubuntu;deepin",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/27/e873ed76836a4abcb059c92a634f73d8.png\",\"https://spk-json.spark-app.store/images/2025/06/27/c933fa8dbc6a49499209219e1bda757d.png\",\"https://spk-json.spark-app.store/images/2025/06/27/c697cd4479484436ac01b447ebb70900.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/06/27/ed255ba682c54486b81ef8e2a0b2a02a.png"
+    },
+    {
       "Name": "小熊汉字笔顺学习软件",
       "Version": "2.0",
       "Filename": "com.xxhanzibishun.deepin_2.0_all.deb",
@@ -23984,14 +24000,14 @@
     },
     {
       "Name": "火狐浏览器国际版 Firefox",
-      "Version": "140.0.1",
-      "Filename": "firefox-spark_140.0.1_amd64.deb",
-      "Torrent_address": "firefox-spark_140.0.1_amd64.deb.torrent",
+      "Version": "140.0.2",
+      "Filename": "firefox-spark_140.0.2_amd64.deb",
+      "Torrent_address": "firefox-spark_140.0.2_amd64.deb.torrent",
       "Pkgname": "firefox-spark",
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <shenmo@spark-app.store>",
       "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-      "Update": "2025-06-27 13:07:51",
+      "Update": "2025-06-28 01:38:38",
       "Size": "75928",
       "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
       "Tags": "community;ubuntu;deepin;uos;debian",
@@ -24792,22 +24808,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/09/3cc61f30-0a84-11eb-9bb4-c1e398b34f2d.png"
     },
     {
-      "Name": "VNC Server",
-      "Version": "7.13.1.57",
-      "Filename": "realvnc-vnc-server_7.13.1.57_amd64.deb",
-      "Torrent_address": "realvnc-vnc-server_7.13.1.57_amd64.deb.torrent",
-      "Pkgname": "realvnc-vnc-server",
-      "Author": "RealVNC <noreply@realvnc.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Website": "https://www.realvnc.com/",
-      "Update": "2024-12-14 13:55:00",
-      "Size": "8.18 MB",
-      "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
-      "Tags": "debian;deepin;ubuntu;uos",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/3d65c1809900403281a2b3706076cdf1.png\",\"https://spk-json.spark-app.store/images/2024/12/14/fdfb6f0097b84d46b1a7d10d1fbd02c6.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2024/12/14/92c584fb9ed646e787aa9d298287ab1a.png"
-    },
-    {
       "Name": "夸克网盘精简版（Linux）",
       "Version": "1.0.3",
       "Filename": "cn.quark.quark-cloud-drive_1.0.3_amd64.deb",
@@ -24822,6 +24822,22 @@
       "Tags": "community;ubuntu;deepin;uos;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/0307c6e72261441a85f0e16a6916b055.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/04/e2b1f4627eb74b8480414e0a7b9a5833.png"
+    },
+    {
+      "Name": "VNC Server",
+      "Version": "7.13.1.57",
+      "Filename": "realvnc-vnc-server_7.13.1.57_amd64.deb",
+      "Torrent_address": "realvnc-vnc-server_7.13.1.57_amd64.deb.torrent",
+      "Pkgname": "realvnc-vnc-server",
+      "Author": "RealVNC <noreply@realvnc.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Website": "https://www.realvnc.com/",
+      "Update": "2024-12-14 13:55:00",
+      "Size": "8.18 MB",
+      "More": "VNC Server, from RealVNC, the original inventor of VNC technology, is remote access\n software that enables you to securely share one or more desktops on this\n computer with any number of other computers or devices.\n RealVNC recommends the realvnc-vnc-viewer package (VNC Viewer) for these other\n computers and devices, for seamless, secure and reliable connections.",
+      "Tags": "debian;deepin;ubuntu;uos",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/3d65c1809900403281a2b3706076cdf1.png\",\"https://spk-json.spark-app.store/images/2024/12/14/fdfb6f0097b84d46b1a7d10d1fbd02c6.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2024/12/14/92c584fb9ed646e787aa9d298287ab1a.png"
     },
     {
       "Name": "SwitchHosts",
@@ -25154,22 +25170,6 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/01/11/5d83b25e255d4f0cae3b45a7ea422e25.png"
     },
     {
-      "Name": "向日葵企业版客户端",
-      "Version": "5.4.0.18280",
-      "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
-      "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
-      "Pkgname": "sunloginenterprise",
-      "Author": "Oray <dev@oray.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Website": "https://sunlogin.oray.com",
-      "Update": "2025-03-14 22:31:04",
-      "Size": "75.03 MB",
-      "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
-      "Tags": "debian;ubuntu;deepin;uos",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
-    },
-    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "gxde-downloader_1.1.3_all.deb",
@@ -25184,6 +25184,22 @@
       "Website": "https://gitee.com/GXDE-OS/gxde-downloader-neo",
       "icons": "https://spk-json.spark-app.store/store/network/gxde-downloader/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_1.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_2.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_3.png\"]"
+    },
+    {
+      "Name": "向日葵企业版客户端",
+      "Version": "5.4.0.18280",
+      "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
+      "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
+      "Pkgname": "sunloginenterprise",
+      "Author": "Oray <dev@oray.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Website": "https://sunlogin.oray.com",
+      "Update": "2025-03-14 22:31:04",
+      "Size": "75.03 MB",
+      "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
+      "Tags": "debian;ubuntu;deepin;uos",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
     },
     {
       "Name": "局域网文件分享服务器",
@@ -25445,6 +25461,21 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/04/23/7d857f650bb049dbabd439cf9374f9bb.png"
     },
     {
+      "Name": "megasync",
+      "Version": "4.3.8-1.1",
+      "Filename": "MEGASync.deb",
+      "Pkgname": "megasync",
+      "Author": "MEGA Linux Team <linux@mega.co.nz>",
+      "Contributor": "neko",
+      "Website": "https://mega.nz",
+      "Update": "2021-01-02 16:03:12",
+      "Size": "12.29 MB",
+      "More": "linux下最好用的网盘",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
+    },
+    {
       "Author": "shenmo",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -25459,21 +25490,6 @@
       "Website": "",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
-    },
-    {
-      "Name": "megasync",
-      "Version": "4.3.8-1.1",
-      "Filename": "MEGASync.deb",
-      "Pkgname": "megasync",
-      "Author": "MEGA Linux Team <linux@mega.co.nz>",
-      "Contributor": "neko",
-      "Website": "https://mega.nz",
-      "Update": "2021-01-02 16:03:12",
-      "Size": "12.29 MB",
-      "More": "linux下最好用的网盘",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
     },
     {
       "Name": "蓝奏云盘",
@@ -25743,22 +25759,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/20/ee4ee750-2b18-11eb-9f5b-4141f998f9df.png"
     },
     {
-      "Name": "移动云电脑",
-      "Version": "3.5.8.0",
-      "Filename": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb",
-      "Torrent_address": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb.torrent",
-      "Pkgname": "com.cmss.saas.ecloudcomputer",
-      "Author": "CMSS",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Website": "https://ecloud.10086.cn",
-      "Update": "2025-04-03 18:33:01",
-      "Size": "331.18 MB",
-      "More": "移动云电脑包含“一键登录”、“安全中心”及各类功能的定制开发与适配，深度优化30+项功能，获得中国移动各省公司的广泛认可，可在飞腾、海光、兆芯、海思等多个国产CPU架构上流畅运行。",
-      "Tags": "debian;ubuntu;deepin;uos",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/03/a25f15c521b24552ae0f3e504d237a50.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/04/03/9403e1c7d4bf4c5daa8b8280b2098b37.png"
-    },
-    {
       "Name": "Flash 中心",
       "Version": "3.4.5.35",
       "Filename": "com.flashcenter.deepin_3.4.5.35_i386.deb",
@@ -25773,6 +25773,22 @@
       "Tags": "ubuntu;deepin;uos;dwine5;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/23/3ef50fc1c2424c2ab480b0b71a96de62.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/23/2d781997aad64048ab582a88b07acdeb.png"
+    },
+    {
+      "Name": "移动云电脑",
+      "Version": "3.5.8.0",
+      "Filename": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb",
+      "Torrent_address": "com.cmss.saas.ecloudcomputer_3.5.8.0_amd64.deb.torrent",
+      "Pkgname": "com.cmss.saas.ecloudcomputer",
+      "Author": "CMSS",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Website": "https://ecloud.10086.cn",
+      "Update": "2025-04-03 18:33:01",
+      "Size": "331.18 MB",
+      "More": "移动云电脑包含“一键登录”、“安全中心”及各类功能的定制开发与适配，深度优化30+项功能，获得中国移动各省公司的广泛认可，可在飞腾、海光、兆芯、海思等多个国产CPU架构上流畅运行。",
+      "Tags": "debian;ubuntu;deepin;uos",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/03/a25f15c521b24552ae0f3e504d237a50.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/04/03/9403e1c7d4bf4c5daa8b8280b2098b37.png"
     },
     {
       "Author": "spark-store",
@@ -25854,22 +25870,6 @@
       "icons": "https://spk-json.spark-app.store/icons/2024/12/14/0cff87616c864579bfe8f126b1b222ca.png"
     },
     {
-      "Name": "Seetong",
-      "Version": "1.0.4.4",
-      "Filename": "spark-deepin-wine-seetong_1.0.4.4_all.deb",
-      "Torrent_address": "spark-deepin-wine-seetong_1.0.4.4_all.deb.torrent",
-      "Pkgname": "spark-deepin-wine-seetong",
-      "Author": "Mango",
-      "Contributor": "Mango. <2934301923@qq.com>",
-      "Website": "http://www.tpsee.com/index.php?md=article&ct=lists&catid=25",
-      "Update": "2023-05-31 10:20:21",
-      "Size": "67.68 MB",
-      "More": "基于deepin-win6打包制作（已集成deepin-wine6-stable依赖）\nSeetong是所有Seetong云设备的远程监控客户端。该APP主要功能包括：用户注册，快捷添加云设备，设备列表智能排序，实时图像预览、对讲、录像、截屏，画面分割，轮巡，横屏或竖屏显示，不同网络环境播放模式选择，告警推送，远程录像回放，本地相册和录像回放管理等。",
-      "Tags": "deepin;uos;dwine5",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/6d9f04aa8f1c4c08bc7baa98101005d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/4b4488263c6744138e0bdd5e9d889927.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/fededc2cf41d4badb96169c1ce6125ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/b07428f5ebdd49d09619ff3cb4d04e15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/d83b0d0bd6a84875b508f364be486fc5.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/31/00e445bc8c7842ecab5976762280bcbb.png"
-    },
-    {
       "Name": "豆包(wine)",
       "Version": "1.56.6wine3",
       "Filename": "doubao-wine_1.56.6wine3_all.deb",
@@ -25884,6 +25884,22 @@
       "Tags": "debian;ubuntu;deepin;dwine5",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+    },
+    {
+      "Name": "Seetong",
+      "Version": "1.0.4.4",
+      "Filename": "spark-deepin-wine-seetong_1.0.4.4_all.deb",
+      "Torrent_address": "spark-deepin-wine-seetong_1.0.4.4_all.deb.torrent",
+      "Pkgname": "spark-deepin-wine-seetong",
+      "Author": "Mango",
+      "Contributor": "Mango. <2934301923@qq.com>",
+      "Website": "http://www.tpsee.com/index.php?md=article&ct=lists&catid=25",
+      "Update": "2023-05-31 10:20:21",
+      "Size": "67.68 MB",
+      "More": "基于deepin-win6打包制作（已集成deepin-wine6-stable依赖）\nSeetong是所有Seetong云设备的远程监控客户端。该APP主要功能包括：用户注册，快捷添加云设备，设备列表智能排序，实时图像预览、对讲、录像、截屏，画面分割，轮巡，横屏或竖屏显示，不同网络环境播放模式选择，告警推送，远程录像回放，本地相册和录像回放管理等。",
+      "Tags": "deepin;uos;dwine5",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/6d9f04aa8f1c4c08bc7baa98101005d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/4b4488263c6744138e0bdd5e9d889927.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/fededc2cf41d4badb96169c1ce6125ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/b07428f5ebdd49d09619ff3cb4d04e15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/31/d83b0d0bd6a84875b508f364be486fc5.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/31/00e445bc8c7842ecab5976762280bcbb.png"
     },
     {
       "Name": "iTubeGo 视频下载",
@@ -26155,21 +26171,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/07/8b51b5bebe9b4d8cbce82e8478582148.png"
     },
     {
-      "Name": "Persepolis Download Manager",
-      "Version": "3.0.1-1.1",
-      "Filename": "persepolis_3.0.1-1.1_all.deb",
-      "Pkgname": "persepolis",
-      "Author": "Persepolis Team",
-      "Contributor": "sgb76",
-      "Website": "https://persepolisdm.github.io/",
-      "Update": "2022-03-09 11:23:50",
-      "Size": "131.75 KB",
-      "More": "Persepolis是一款免费开源的基于aria2的下载管理器。",
-      "Tags": "debian;deepin;ubuntu",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/3fa2b910-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/41e492c0-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/45ee0d10-9f58-11ec-9382-494a05cbaed9.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/09/34c64430-9f58-11ec-9382-494a05cbaed9.png"
-    },
-    {
       "Name": "Krfb - 共享桌面",
       "Version": "25.03.70",
       "Filename": "org.kde.www.krfb_25.03.70_amd64.deb",
@@ -26184,6 +26185,21 @@
       "Tags": "deepin;uos;debian",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/19/b8a56f2185ad4d4ba0e0c06e557a8c92.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/19/facc3be8db2a44d785c1d8b9719c1304.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/19/8bf5f62f10ab43c8b50213ead76a38a7.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/19/fe2381426f90444aa2e5947cd6d89196.png"
+    },
+    {
+      "Name": "Persepolis Download Manager",
+      "Version": "3.0.1-1.1",
+      "Filename": "persepolis_3.0.1-1.1_all.deb",
+      "Pkgname": "persepolis",
+      "Author": "Persepolis Team",
+      "Contributor": "sgb76",
+      "Website": "https://persepolisdm.github.io/",
+      "Update": "2022-03-09 11:23:50",
+      "Size": "131.75 KB",
+      "More": "Persepolis是一款免费开源的基于aria2的下载管理器。",
+      "Tags": "debian;deepin;ubuntu",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/3fa2b910-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/41e492c0-9f58-11ec-9382-494a05cbaed9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/03/09/45ee0d10-9f58-11ec-9382-494a05cbaed9.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/03/09/34c64430-9f58-11ec-9382-494a05cbaed9.png"
     },
     {
       "Name": "金山画王2006",
@@ -27954,6 +27970,22 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/03/27/f1217d0f5a0f4c4c9c2d7fed342e2fa2.png"
     },
     {
+      "Name": "Open格式转换",
+      "Version": "1.2",
+      "Filename": "com.mrarub.open_1.2_amd64.deb",
+      "Torrent_address": "com.mrarub.open_1.2_amd64.deb.torrent",
+      "Pkgname": "com.mrarub.open",
+      "Author": "mrarub",
+      "Contributor": "mrarub",
+      "Website": "https://mrarub.eu.org",
+      "Update": "2025-06-14 22:00:34",
+      "Size": "112.7 MB",
+      "More": "Open Format Conversion 是一款专为 Linux 系统开发 的 图形化格式转换工具，旨在为用户提供原生、高效且开源的Linux格式转换解决方案。项目灵感源自 Deepin 论坛网友需求——打造一个 Linux 原生 GUI 交互 的开源程序。",
+      "Tags": "community;debian;deepin",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/020fc45fe4be4a88823ddf3a99afbc62.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4254f809edec471a810db6514166e36d.png"
+    },
+    {
       "Name": "mediaChips",
       "Version": "0.11.2spark0",
       "Filename": "app.mediachips.spark_0.11.2spark0_amd64.deb",
@@ -28001,22 +28033,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/10/c8d13f785ac84e1380ddb7aff4189a3b.png"
     },
     {
-      "Name": "Open格式转换",
-      "Version": "1.2",
-      "Filename": "com.mrarub.open_1.2_amd64.deb",
-      "Torrent_address": "com.mrarub.open_1.2_amd64.deb.torrent",
-      "Pkgname": "com.mrarub.open",
-      "Author": "mrarub",
-      "Contributor": "mrarub",
-      "Website": "https://mrarub.eu.org",
-      "Update": "2025-06-14 22:00:34",
-      "Size": "112.7 MB",
-      "More": "Open Format Conversion 是一款专为 Linux 系统开发 的 图形化格式转换工具，旨在为用户提供原生、高效且开源的Linux格式转换解决方案。项目灵感源自 Deepin 论坛网友需求——打造一个 Linux 原生 GUI 交互 的开源程序。",
-      "Tags": "community;debian;deepin",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/020fc45fe4be4a88823ddf3a99afbc62.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4254f809edec471a810db6514166e36d.png"
-    },
-    {
       "Name": "Moo0视频裁剪器",
       "Version": "1.17",
       "Filename": "com.moo0videocut.deepin_1.17_all.deb",
@@ -28049,22 +28065,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/video/com.aiseesoft.4k-converter.deepin/screen_3.png\"]"
     },
     {
-      "Name": "Aiseesoft 3D Converter",
-      "Version": "6.5.20",
-      "Filename": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb",
-      "Torrent_address": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb.torrent",
-      "Pkgname": "com.aiseesoft.3d-converter.deepin",
-      "Author": "Aiseesoft工作室",
-      "Contributor": "Aiseesoft工作室",
-      "Website": "https://zh-cn.aiseesoft.com/",
-      "Update": "2024-06-16 23:11:09",
-      "Size": "22.15 MB",
-      "More": "Aiseesoft 3D 视频转换 - 最专业且易于使用的3D对象转换软件，允许用户将2D视频转换为3D，将3D转换为2D以及在3D文件之间更改3D模式。",
-      "Tags": "deepin;uos;dwine5;debian",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4b4d2250f29f4bcdad3cbedbaa2db974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/62092f314d9b4980b3ee7d17aa2283a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/bf664b6f142f4b27bbca21e4c55105f7.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/ff3aa714ace34f31a2aa8aa8324e6f1f.png"
-    },
-    {
       "Author": "zhangmingming9 <zhangmingming9@hikvision.com>",
       "Contributor": "zhangmingming9 <zhangmingming9@hikvision.com>",
       "Filename": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb",
@@ -28079,6 +28079,22 @@
       "Website": "https://www.hikvision.com",
       "icons": "https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/screen_1.png\"]"
+    },
+    {
+      "Name": "Aiseesoft 3D Converter",
+      "Version": "6.5.20",
+      "Filename": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb",
+      "Torrent_address": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb.torrent",
+      "Pkgname": "com.aiseesoft.3d-converter.deepin",
+      "Author": "Aiseesoft工作室",
+      "Contributor": "Aiseesoft工作室",
+      "Website": "https://zh-cn.aiseesoft.com/",
+      "Update": "2024-06-16 23:11:09",
+      "Size": "22.15 MB",
+      "More": "Aiseesoft 3D 视频转换 - 最专业且易于使用的3D对象转换软件，允许用户将2D视频转换为3D，将3D转换为2D以及在3D文件之间更改3D模式。",
+      "Tags": "deepin;uos;dwine5;debian",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4b4d2250f29f4bcdad3cbedbaa2db974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/62092f314d9b4980b3ee7d17aa2283a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/bf664b6f142f4b27bbca21e4c55105f7.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/ff3aa714ace34f31a2aa8aa8324e6f1f.png"
     },
     {
       "Name": "FastFlix",
@@ -29009,6 +29025,19 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/24/87c4eb9649274a228bd1908474073ca8.png"
     },
     {
+      "Name": "VSCodium",
+      "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
+      "Website": "https://vscodium.com/",
+      "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Pkgname": "codium",
+      "Version": "1.101.24242",
+      "Filename": "codium_1.101.24242_amd64.deb",
+      "Update": "2025-06-27 01:43:39",
+      "Size": "105.86MB",
+      "Contributor": "https://gitee.com/spark-building-service/github"
+    },
+    {
       "Name": "PDMan",
       "Version": "4.4.0",
       "Filename": "pdman_4.4.0_amd64.deb",
@@ -29023,19 +29052,6 @@
       "Tags": "a2d;debian;deepin;ubuntu;uos",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/29ca5873a38b499792192e9355c46fa8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/16/c28174dacf494a96b43790df550f735e.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/16/a81492b85699408ebc714c7e4dcd962c.png"
-    },
-    {
-      "Name": "VSCodium",
-      "Author": "VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors",
-      "Website": "https://vscodium.com/",
-      "More": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Pkgname": "codium",
-      "Version": "1.101.24242",
-      "Filename": "codium_1.101.24242_amd64.deb",
-      "Update": "2025-06-27 01:43:39",
-      "Size": "105.86MB",
-      "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
       "Name": "RedisViewer",
@@ -29878,6 +29894,19 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
     },
     {
+      "Name": "Lazydocker",
+      "Author": "wcbing <i@wcbing.top>",
+      "Website": "https://github.com/jesseduffield/lazydocker",
+      "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
+      "Tags": "debian;community;ubuntu;deepin",
+      "Pkgname": "lazydocker",
+      "Version": "0.24.1",
+      "Filename": "lazydocker_0.24.1-1_amd64.deb",
+      "Update": "2025-03-07 20:54:23",
+      "Size": "3.87MB",
+      "Contributor": "https://gitee.com/spark-building-service/github"
+    },
+    {
       "Name": "Cutter",
       "Version": "2.3.4spark1",
       "Filename": "re.cutter.spark_2.3.4spark1_amd64.deb",
@@ -29892,19 +29921,6 @@
       "Tags": "ubuntu;deepin;uos;a2d;debian",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/f16ff8fb51b0437ca6c50313c13c0953.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0aad0b8c841a44818d522e837183464b.png\",\"https://spk-json.spark-app.store/images/2025/01/04/41be790d5f414125b2c622c976021072.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/01/04/12b6871d5637479583b41fbce46e9765.png"
-    },
-    {
-      "Name": "Lazydocker",
-      "Author": "wcbing <i@wcbing.top>",
-      "Website": "https://github.com/jesseduffield/lazydocker",
-      "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
-      "Tags": "debian;community;ubuntu;deepin",
-      "Pkgname": "lazydocker",
-      "Version": "0.24.1",
-      "Filename": "lazydocker_0.24.1-1_amd64.deb",
-      "Update": "2025-03-07 20:54:23",
-      "Size": "3.87MB",
-      "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
       "Name": "R编辑器",
@@ -31467,19 +31483,6 @@
       "Tags": "debian"
     },
     {
-      "Name": "jitsi-meet",
-      "Version": "2.3.1",
-      "Filename": "jitsi-meet_2.3.1_a2d_amd64.deb",
-      "Pkgname": "jitsi-meet",
-      "Author": "jitsi-meet",
-      "Contributor": "jerrywang",
-      "Website": "https://jitsi.org/meet",
-      "Update": "2020-08-08 16:42",
-      "Size": "81.22MB",
-      "More": "开源视频会议 jitsi-meet 的官方electron客户端",
-      "Tags": "debian"
-    },
-    {
       "Name": "Lark",
       "Version": "7.36.11-0",
       "Filename": "bytedance-lark-stable_7.36.11-0_amd64.deb",
@@ -31494,6 +31497,19 @@
       "Tags": "debian;ubuntu;deepin;uos",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/13/6bcdd2e2a8ad4ed2b6a3e1c3f68da071.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/03/13/d43a9b320a83410fb10ef8aa5faeb760.png"
+    },
+    {
+      "Name": "jitsi-meet",
+      "Version": "2.3.1",
+      "Filename": "jitsi-meet_2.3.1_a2d_amd64.deb",
+      "Pkgname": "jitsi-meet",
+      "Author": "jitsi-meet",
+      "Contributor": "jerrywang",
+      "Website": "https://jitsi.org/meet",
+      "Update": "2020-08-08 16:42",
+      "Size": "81.22MB",
+      "More": "开源视频会议 jitsi-meet 的官方electron客户端",
+      "Tags": "debian"
     },
     {
       "Name": "云湖",

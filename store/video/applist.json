@@ -1292,6 +1292,23 @@
 }
 ,
 {
+    "Name": "Open格式转换",
+    "Version": "1.2",
+    "Filename": "com.mrarub.open_1.2_amd64.deb",
+    "Torrent_address": "com.mrarub.open_1.2_amd64.deb.torrent",
+    "Pkgname": "com.mrarub.open",
+    "Author": "mrarub",
+    "Contributor": "mrarub",
+    "Website": "https://mrarub.eu.org",
+    "Update": "2025-06-14 22:00:34",
+    "Size": "112.7 MB",
+    "More": "Open Format Conversion 是一款专为 Linux 系统开发 的 图形化格式转换工具，旨在为用户提供原生、高效且开源的Linux格式转换解决方案。项目灵感源自 Deepin 论坛网友需求——打造一个 Linux 原生 GUI 交互 的开源程序。",
+    "Tags": "community;debian;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/020fc45fe4be4a88823ddf3a99afbc62.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4254f809edec471a810db6514166e36d.png"
+}
+,
+{
   "Name": "mediaChips",
   "Version": "0.11.2spark0",
   "Filename": "app.mediachips.spark_0.11.2spark0_amd64.deb",
@@ -1345,23 +1362,6 @@
 
 ,
 {
-    "Name": "Open格式转换",
-    "Version": "1.2",
-    "Filename": "com.mrarub.open_1.2_amd64.deb",
-    "Torrent_address": "com.mrarub.open_1.2_amd64.deb.torrent",
-    "Pkgname": "com.mrarub.open",
-    "Author": "mrarub",
-    "Contributor": "mrarub",
-    "Website": "https://mrarub.eu.org",
-    "Update": "2025-06-14 22:00:34",
-    "Size": "112.7 MB",
-    "More": "Open Format Conversion 是一款专为 Linux 系统开发 的 图形化格式转换工具，旨在为用户提供原生、高效且开源的Linux格式转换解决方案。项目灵感源自 Deepin 论坛网友需求——打造一个 Linux 原生 GUI 交互 的开源程序。",
-    "Tags": "community;debian;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/020fc45fe4be4a88823ddf3a99afbc62.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4254f809edec471a810db6514166e36d.png"
-}
-,
-{
   "Name": "Moo0视频裁剪器",
   "Version": "1.17",
   "Filename": "com.moo0videocut.deepin_1.17_all.deb",
@@ -1398,24 +1398,6 @@
 
 ,
 {
-  "Name": "Aiseesoft 3D Converter",
-  "Version": "6.5.20",
-  "Filename": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb",
-  "Torrent_address": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb.torrent",
-  "Pkgname": "com.aiseesoft.3d-converter.deepin",
-  "Author": "Aiseesoft工作室",
-  "Contributor": "Aiseesoft工作室",
-  "Website": "https://zh-cn.aiseesoft.com/",
-  "Update": "2024-06-16 23:11:09",
-  "Size": "22.15 MB",
-  "More": "Aiseesoft 3D 视频转换 - 最专业且易于使用的3D对象转换软件，允许用户将2D视频转换为3D，将3D转换为2D以及在3D文件之间更改3D模式。",
-  "Tags": "deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4b4d2250f29f4bcdad3cbedbaa2db974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/62092f314d9b4980b3ee7d17aa2283a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/bf664b6f142f4b27bbca21e4c55105f7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/ff3aa714ace34f31a2aa8aa8324e6f1f.png"
-}
-
-,
-{
     "Author": "zhangmingming9 <zhangmingming9@hikvision.com>",
     "Contributor": "zhangmingming9 <zhangmingming9@hikvision.com>",
     "Filename": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb",
@@ -1430,6 +1412,24 @@
     "Website": "https://www.hikvision.com",
     "icons": "https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "Aiseesoft 3D Converter",
+  "Version": "6.5.20",
+  "Filename": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb",
+  "Torrent_address": "com.aiseesoft.3d-converter.deepin_6.5.20_all.deb.torrent",
+  "Pkgname": "com.aiseesoft.3d-converter.deepin",
+  "Author": "Aiseesoft工作室",
+  "Contributor": "Aiseesoft工作室",
+  "Website": "https://zh-cn.aiseesoft.com/",
+  "Update": "2024-06-16 23:11:09",
+  "Size": "22.15 MB",
+  "More": "Aiseesoft 3D 视频转换 - 最专业且易于使用的3D对象转换软件，允许用户将2D视频转换为3D，将3D转换为2D以及在3D文件之间更改3D模式。",
+  "Tags": "deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/4b4d2250f29f4bcdad3cbedbaa2db974.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/62092f314d9b4980b3ee7d17aa2283a9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/16/bf664b6f142f4b27bbca21e4c55105f7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/ff3aa714ace34f31a2aa8aa8324e6f1f.png"
 }
 
 ,

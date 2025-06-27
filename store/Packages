@@ -4255,15 +4255,15 @@ Version: 2.2.3
 Priority: optional
 Section: default
 Maintainer: BitPoro <bitporo@qq.com>
-Installed-Size: 256776
+Installed-Size: 256777
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
 Filename: ./tools/easy-send/easy-send_2.2.3_arm64.deb
-Size: 75089800
-MD5sum: dbb7921c5ca89e71ebf282e2925a249e
-SHA1: 1c9468b19e8d611679f7b520a8398a8c3bf5798d
-SHA256: 43bd92d7397af095b911b46f7c2c3b6023ec65b2ef0765518e7864dc4a701712
-SHA512: 382350fb71dd7d25e7a78567e81976d6392e7da9083263c039d6b8eab5d4520541ba12ddf67e71cb2ef1a46e3770e5dfe3c5b407abc2627a9224d3c372a80f03
+Size: 75090212
+MD5sum: d1775fade9f549ad02f0a01bf8c2d16f
+SHA1: febbd4541e32a06ad02f07172b9b509a31f76552
+SHA256: 29396d0f61f81bff7bacece985b2355ff61b65657f2aed3e93daea04e0eb8034
+SHA512: 338756ea9c0e514b3bae1390810e9cf030cee2d3ed12a4e1b8184758e25b8ef2d43f4817b6db1541460665b3a245ec1a385fc37d49c948807b7a6ef78d6fe298
 Homepage: https://easysend.channer.cn
 Description: 
   便捷的局域网共享文本文件小工具，简捷使用，传送方便，仅需一台设备启动，其余设备使用浏览器访问即可使用
@@ -8708,15 +8708,15 @@ Description: .为中学物理电路仿真模拟（虚拟）软件，能象真实
 
 Package: otohime.cai.ico
 Architecture: amd64
-Version: 2.3.5
+Version: 8.13.21
 Priority: optional
 Maintainer: otohime_soft_room
-Filename: ./tools/otohime.cai.ico/otohime.cai.ico_2.3.5_amd64.deb
-Size: 51582564
-MD5sum: 6d3fdc94936529dce0bffce8041e65b3
-SHA1: 879574a041bba57998a1aad1bc28850ac697df8e
-SHA256: 477bed8c080639873f3fd1cc4fedd0dde982b13bb894f2755797b8e2b3190e5e
-SHA512: cb4c9e6c1295000b2b817a12046265cc468740c69c69d7983e3aef38b1b00a03d1ff834e5a7aa46182ea1f452e7f631afba7fee0e7ce66aafac70d037ec5dd77
+Filename: ./tools/otohime.cai.ico/otohime.cai.ico_8.13.21_amd64.deb
+Size: 51709700
+MD5sum: b10e69f3f4fb5967422be8f0f97e1a87
+SHA1: 01f22a5b498fc04aa5786d55c8ce615a133823d8
+SHA256: 45e65194e66ae27eb91aa827c2a63c6b1cdf3925e2da569c6c55ecab33832cb2
+SHA512: af361b2ab87deca69fdd6b8a255b4d823f93fdb32331b3467baba3305289fb3cdf57b12607c3b80a220fc1374d485ee370b55ddf5228091003a58a67ae97960e
 Description: 採图标
 
 Package: gbk2utf8
@@ -30881,6 +30881,25 @@ Description: WPS Office, is an office productivity suite.
 Name: wps-office
 Relocations: /opt/kingsoft
 
+Package: e-mobile
+Architecture: amd64
+Version: 7.2.9
+Priority: optional
+Section: utils
+Maintainer: Oliver <2212lx@163.com>
+Installed-Size: 220994
+Depends: deepin-elf-verify (>= 0.0.16.7-1), libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libuuid1, libxss1, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: ./office/e-mobile/e-mobile_7.2.9_amd64.deb
+Size: 56937040
+MD5sum: e2f33a7b6355f54c0206376fd7149da4
+SHA1: ed63cd15c39efde9b97754d5c38a8c9dc3c3f21a
+SHA256: 6183b13c23f87b6afb48c0e43654ab4e479a743ee50d49d5480fc895bec0450f
+SHA512: 812faef104579ede4e839c10b1b568251f5b7485594a9b5b9cf688b4965bb377d71c1285cb90e390ceae3fe8c945b624a5bd6043a099616015cd1a0f9f6cf536
+Description: e-mobile
+ e-mobile
+
 Package: minder
 Architecture: amd64
 Version: 1.9.2-1
@@ -35385,22 +35404,22 @@ Description: NFSBrowser - Web Browser
 
 Package: firefox-spark
 Architecture: amd64
-Version: 140.0.1
+Version: 140.0.2
 Priority: optional
 Section: web
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 214784
-Provides: x-www-browser,gnome-www-browser,firefox(=140.0.1)
+Provides: x-www-browser,gnome-www-browser,firefox(=140.0.2)
 Depends: libdbus-glib-1-2,zenity
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
-Filename: ./network/firefox-spark/firefox-spark_140.0.1_amd64.deb
-Size: 77746504
-MD5sum: 8af5dd2b9cb044736f3fb1aa6dffdb09
-SHA1: 3a071545cfa42fae4e8858e2ccb3d4aa083ec943
-SHA256: e74cc8ad351c08e8813a07994fee90dace58e24785e330197cd5257099eec72f
-SHA512: a139e28a6046ecf14d9d4599f1b8de0e75b1082806bbbf4f797e3d9a6520faa6ff8ae95dd15069a61136219bf5c368ff84b3b2ef05af902cabbdc9a076089c88
+Filename: ./network/firefox-spark/firefox-spark_140.0.2_amd64.deb
+Size: 77749136
+MD5sum: 2f1136f42231c531f08bb51ffaa9eeba
+SHA1: 3433cdd5085aab5eb8d851655f1a32f532635ae4
+SHA256: 70386af65b99f4a8a159a70b3929467769de17243a607c9d7ce73d7d37209730
+SHA512: d773d681b02085a7530ab387a9d4687ae1a06a2b041426338d2f228d8264f14467965ba5640ad391b0b7223fec758aebdd6e79e2bf7b68ce68b030132af63bcf
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
