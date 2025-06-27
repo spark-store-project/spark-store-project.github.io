@@ -8843,6 +8843,20 @@ Description: Geographic Information System (GIS)
  Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII
  DEM.
 
+Package: chatbox
+Architecture: amd64
+Version: 1.14.1-transitional
+Maintainer: wcbing <i@wcbing.top>
+Depends: xyz.chatboxapp.app
+Filename: ./tools/xyz.chatboxapp.app/chatbox_1.14.1-transitional_amd64.deb
+Size: 736
+MD5sum: 086ecd3068904601056522731921702f
+SHA1: 07c284f0fe0d3d92182ed55fb1785fe481edcd36
+SHA256: fdf3f4ec83f97bd63098810a667d4318ccb407e22200e75cd0942e89eab44d45
+SHA512: d73ea581fc58c3ad65d93ade814dee1bce7e21805b273b237cb1e0abdbd68386b17625db9d01d3ccaf0959567655d8411c41d37e0d0fc99e59d92f011f619734
+Homepage: https://github.com/Bin-Huang/chatbox#readme
+Description: 这是一个迁移包
+
 Package: xyz.chatboxapp.app
 Architecture: amd64
 Version: 1.14.1
@@ -8863,6 +8877,21 @@ Description:
   A desktop client for multiple cutting-edge AI models
 License: unknown
 Vendor: Mediocre Company <hi@chatboxai.com>
+
+Package: chatbox-deepin
+Architecture: all
+Version: 1.9.8-1
+Priority: optional
+Section: misc
+Maintainer: shenmo <shenmo@spark-app.store>
+Depends: chatbox
+Filename: ./tools/xyz.chatboxapp.app/chatbox-deepin_1.9.8-1_all.deb
+Size: 712
+MD5sum: e7069db3c3f858cf9f7f028fd2bb1bae
+SHA1: 6947e972c850cb26390f2428221ac22731541750
+SHA256: 86f62c8a732d38574dd85ce9dee76bfa5f107207150d060f447b9396b76f13c8
+SHA512: e29d5ceacf984d30d8e3b253de7f6305338929cd542c987f055b357cc9cddea582eecf7e48a4a8fae45290d1aab723b9f63df333d2649243493028b7e4e8fe51
+Description: Transaction package to chatbox
 
 Package: piclist
 Architecture: amd64
@@ -20341,6 +20370,24 @@ Homepage: http://www.deepin.org/
 Description: deepin desktop-environment - dock module
  Dock module of deepin desktop-environment
 
+Package: winfonts
+Architecture: all
+Version: 1.3
+Priority: extra
+Section: non-free
+Maintainer: Nobody
+Depends: fontconfig
+Recommends:
+Filename: ./others/winfonts/winfonts_1.3_all.deb
+Size: 391042046
+MD5sum: a5bce445ab363f739affdcd5c894177f
+SHA1: 669830eeba0491b7aa8709cd36b27066360561c8
+SHA256: f8d4ddffb0ccf68613745b16bd81b3462058ed8be036c95ba5f6fc0fef1bc24a
+SHA512: 85e04fd763821e781e50de9fe511515c4e0fc44b9767134f6c34fe73a2ea309583ef797f1f7af8a1e40bba769d1eeeca7b42492a8dcb9ec7dec54bc309d6b267
+Description: Windows和MS Office中的字体
+ 本deb安装包可以安装上简体中文版Windows上的字体和简体中文版 Microsoft Office 中的字体。       
+ 注意：本安装包中许多字体为版权字体，使用这些字体请自行确定拥有这些字体的使用授权。
+
 Package: com.mythware.cms-student
 Architecture: amd64
 Version: 2.7.3715-1.0.112+48g110cf77+10751uos
@@ -27874,36 +27921,6 @@ Description:
 License: MIT
 Vendor: EryouHao <eryouhao@gmail.com>
 
-Package: chatbox-deepin
-Architecture: all
-Version: 1.9.8-1
-Priority: optional
-Section: misc
-Maintainer: shenmo <shenmo@spark-app.store>
-Depends: chatbox
-Filename: ./office/chatbox/chatbox-deepin_1.9.8-1_all.deb
-Size: 712
-MD5sum: e7069db3c3f858cf9f7f028fd2bb1bae
-SHA1: 6947e972c850cb26390f2428221ac22731541750
-SHA256: 86f62c8a732d38574dd85ce9dee76bfa5f107207150d060f447b9396b76f13c8
-SHA512: e29d5ceacf984d30d8e3b253de7f6305338929cd542c987f055b357cc9cddea582eecf7e48a4a8fae45290d1aab723b9f63df333d2649243493028b7e4e8fe51
-Description: Transaction package to chatbox
-
-Package: chatbox
-Architecture: amd64
-Version: 1.10.4
-Priority: optional
-Section: utils
-Maintainer: spark-store
-Depends: libfuse2
-Filename: ./office/chatbox/chatbox_1.10.4_amd64.deb
-Size: 77302936
-MD5sum: ccabb9ddf4254972020d04fea1448748
-SHA1: d88569206bbc7ac2752930e20b268295b7ed0609
-SHA256: 422c8f50af350e20b2fec2651c3f71487d5aec28019adac3bbec3c751223adfc
-SHA512: f44fe3fcf3e42b8f8aa13dd745a9469103c70ffc844e13d07571ca55cc56ba4d2a2b4e55b4be6391fa40a4d945dd9e3a9e6e14dc39f256226790982d5210e630
-Description: chatbox Software Package created by Appimage2Deb
-
 Package: com.3ds.catia
 Architecture: i386
 Version: 2011V5R21
@@ -32495,20 +32512,20 @@ Description: IDM For dwine6
 
 Package: microsoft-edge-stable
 Architecture: amd64
-Version: 137.0.3296.93-1
+Version: 138.0.3351.55-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 608428
+Installed-Size: 610232
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-stable/microsoft-edge-stable_137.0.3296.93-1_amd64.deb
-Size: 185770100
-MD5sum: 1352a1babc611d251346b0f68ef95457
-SHA1: d7ccf26f00db59ba49efde52a3558a3b417e286a
-SHA256: df5457d935d1115a7c804151ad19ffcd4394db4e4fb0956fcfbc91702291ced0
-SHA512: a508eafdd7668df8d01e82f703888e0aa07b5443ccd3f31a48ddef7533ddf36911303f4fc53f068d9a93e3e38cae6b1a747b676c22af66bdd1165a2c2b2e1919
+Filename: ./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb
+Size: 186744728
+MD5sum: 59bd524287b711215f4dd66c255d69d8
+SHA1: 610a978a379a15ce4e7c89ce4be3d66d1f40999a
+SHA256: 75e3cf0123044fd89c6e23922c26e72f438bdd72a4807effe160535e9874a4c1
+SHA512: 580910ffc79bfdf1d7a23aba7b677d80d8761ee6a081b9d7de196a5896f818f757968531ecbd747dc2d88fef61686b6a899b06d4c26bd7dfa36f53ea55c7600d
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -33363,20 +33380,20 @@ Description: 天翼云盘
 
 Package: google-chrome-unstable
 Architecture: amd64
-Version: 139.0.7246.0-1
+Version: 140.0.7259.2-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 379513
+Installed-Size: 378826
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/google-chrome-unstable/google-chrome-unstable_139.0.7246.0-1_amd64.deb
-Size: 119027372
-MD5sum: e5c7a8f36c27f57e8c0f96814ea589ed
-SHA1: cbdb2b620ec2e84887e5c32a1ed0075f4141e03a
-SHA256: 8bd43e4f3508db726cd4bb234e46f2ff87b4a95f6354e90348382dea292f854a
-SHA512: 4c9b639963332ecd1f85ae960bd610e04675dd1cb894c9a0caa5527b9a5e6576f0a6ffd2bd519acdad2b837aac77e9ef84b97b7876f6da813c6c2c33beecfd65
+Filename: ./network/google-chrome-unstable/google-chrome-unstable_140.0.7259.2-1_amd64.deb
+Size: 118841232
+MD5sum: c957973cce6db6d3751ef4587fc1dae2
+SHA1: 7d721fc2ef2700d8bf73c49ea641f3860d593288
+SHA256: f8d137ab9f61efb27cc59930c675a39bd497ae7780c26f8910245e48ae2c3e2a
+SHA512: 46115b3b564c3e66ddb764d94e2d730b468b44b82bf0f859bcab70cb1bcb42361c22a688b4fa4c95889beba491ae868174240d9b7648ad3ed54ca06f468190d1
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34190,20 +34207,20 @@ Description: SunloginRemote-6.5.5.20079 for Linux
 
 Package: microsoft-edge-beta
 Architecture: amd64
-Version: 138.0.3351.52-1
+Version: 138.0.3351.55-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 610223
+Installed-Size: 610228
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_138.0.3351.52-1_amd64.deb
-Size: 186721428
-MD5sum: cf6fdbe9e20d2f1a1392e45ceaa8b4e8
-SHA1: 8d0a4565a0fe3cc3d293702c727ff2ab5fbdf732
-SHA256: fe5a1093c3f974728faaa850a44007ce19a82809d558761116b94df165d844ec
-SHA512: 333aa5ecc492336a57f4e3ae0478add4ca20d9a8b7dde995dac329fde43affdcbf907e2082b5d34be9de80ca85133f93d6c988956cd72d418ca265b1ecb3fb83
+Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_138.0.3351.55-1_amd64.deb
+Size: 186726500
+MD5sum: b11264dadce9523fb29520fa0c78016e
+SHA1: 207614c1b81b8cc95ba59a3cb41d1dc36d8bdc73
+SHA256: d8e4cd38858422f70b7d35ce492151deb301f9b1f4a761852b31351780da4506
+SHA512: c0342dc24a677a1a30fcf209ff5224424c061fc9d8b3a227fd3b39f17bd0ed7135287d7aae5d8091cc3b9d1e984ea5a2834538ac9bd847f4e63e23112fdbe39d
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34285,16 +34302,16 @@ Description: The web browser from Alex313031
 
 Package: frpc
 Architecture: amd64
-Version: 0.62.1-1
+Version: 0.63.0-1
 Priority: optional
 Section: web
 Maintainer: wcbing <i@wcbing.top>
-Filename: ./network/frpc/frpc_0.62.1-1_amd64.deb
-Size: 4460272
-MD5sum: 11d42e43f35a2d4ca77bcb35a31cd965
-SHA1: 3ecae1de7e407aa9a6fd3f5d7cd838eff283dd06
-SHA256: d7180c87cc8908c721282d7f2ad2ae6d0c32ebcd090b22045847cd5c2c6d4611
-SHA512: 860debe956629779ee28321ecb2049dd25bb29519bcddbd7e4c52dda2700e4711de3d05d626fce169958c2f32ba11a84f545a9b19d75202b613fdab0d5f31bc3
+Filename: ./network/frpc/frpc_0.63.0-1_amd64.deb
+Size: 4460524
+MD5sum: 28806ea3ea2d21faf0d416b74dbd03b1
+SHA1: 0e7ef8a77f8b9b38f1367308fcd9909bab22631d
+SHA256: d8e96a6abdb00f02c1d0526255cdeb0e20018ad79c4c8d834e26bc6ab522b895
+SHA512: 4f8be233394022361ad88137eda394d2d7dfe25e82d0aac94d3634ab258199606a72ea725b5043006c907887e2649f26ff17e4a05a7990f91fdfaf79555a5e86
 Homepage: https://gofrp.org/
 Description:  A fast reverse proxy to help you expose
  a local server behind a NAT or firewall to the internet.
@@ -35379,11 +35396,11 @@ Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
 Filename: ./network/firefox-spark/firefox-spark_140.0.1_amd64.deb
-Size: 77745592
-MD5sum: afff4fe320240cd6d4bcf9a178494939
-SHA1: 4d9233ccf5eabc5cd559d80391a8d1e557d997a2
-SHA256: 40ea1dbdbe8514f9b88626821b666ffa3474ea3506641f8ca2230deacd96acfa
-SHA512: c366f990cad6551642ce1edd553355ca37f2da0d33717875ea83172c89a75c7932c6819cbdde355305d295f59e372936fc96e9ffa587ee646de42080c58f4e13
+Size: 77746504
+MD5sum: 8af5dd2b9cb044736f3fb1aa6dffdb09
+SHA1: 3a071545cfa42fae4e8858e2ccb3d4aa083ec943
+SHA256: e74cc8ad351c08e8813a07994fee90dace58e24785e330197cd5257099eec72f
+SHA512: a139e28a6046ecf14d9d4599f1b8de0e75b1082806bbbf4f797e3d9a6520faa6ff8ae95dd15069a61136219bf5c368ff84b3b2ef05af902cabbdc9a076089c88
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 

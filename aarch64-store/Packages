@@ -3772,6 +3772,20 @@ SHA256: c83b1fd52e59b02c232c94f95bb0b5b6856c1ea2524dcda0ffbcc371acf02580
 SHA512: 1fdb9061f6ed29f6476914bdb2ac74b7cbe0b62425c3e0b3624fc868e18a33c54505f298896534e2df526ee464fe6e0cb98de68c3f6fe6a322a961b37bf65a28
 Description: Run application for deepin-wine. Yet another a frontend to create and run wine application packages.
 
+Package: chatbox
+Architecture: arm64
+Version: 1.14.1-transitional
+Maintainer: wcbing <i@wcbing.top>
+Depends: xyz.chatboxapp.app
+Filename: ./tools/xyz.chatboxapp.app/chatbox_1.14.1-transitional_arm64.deb
+Size: 736
+MD5sum: 67d28ef392cbbfbef3a3e274d98751f3
+SHA1: 4344beb1eea65d0e800d3239b0cd684232e1abc8
+SHA256: 3c70f08474dd545634cf83f256e22cbf9845799cf346a1e4b70629a145ceda73
+SHA512: d682852756b2cbf83209d42f696f9924d715ea6d81dd22a74b88422a3625a5bfce591bcec28e94c1c920136c8cd125ab2358581a307481191de4bb805cec1d48
+Homepage: https://github.com/Bin-Huang/chatbox#readme
+Description: 这是一个迁移包
+
 Package: xyz.chatboxapp.app
 Architecture: arm64
 Version: 1.14.1
@@ -9243,21 +9257,6 @@ SHA256: c68c3f43d5ec3af58d1b4fdeb27a6e7ce68717e7c0fc42e04526581435212c92
 SHA512: 29760e7dfde02e779f6b34fec25dd1be098c3fa2b1117b0ec7d5d39d7c8674658b3d2f6c89a99483dbf5d1b51ad8d95c0384a0f69a0341d0de2e532e4361b154
 Homepage: https://uclient.yonyoucloud.com
 Description: YONYOU UBrowser
-
-Package: chatbox
-Architecture: arm64
-Version: 1.10.4
-Priority: optional
-Section: utils
-Maintainer: spark-store
-Depends: libfuse2
-Filename: ./office/chatbox/chatbox_1.10.4_arm64.deb
-Size: 73844050
-MD5sum: 66b95493f9ffbf8cf5e277faa685587f
-SHA1: d91b01b6e744eec4606f9ed92e955d0284af0d21
-SHA256: 8e7793d8db42ed14dcc4f95e95c7218a0c721b9f7ed82e49d2cbd50ab4c68669
-SHA512: 554da3da5586d0d4380d7b26c0be7fa262de427dc5c6554a931b8736dc6c186b5cffbd0bb9d9b7b771c45752327a6b00a8eec2dc84ef154fdfc86c63cdc0fec4
-Description: chatbox Software Package created by Appimage2Deb
 
 Package: wonderpen
 Architecture: arm64

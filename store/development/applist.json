@@ -590,24 +590,6 @@
 
 ,
 {
-  "Name": "XTerminal",
-  "Version": "2.9.3-84",
-  "Filename": "xterminal_2.9.3-84_amd64.deb",
-  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
-  "Pkgname": "xterminal",
-  "Author": "Xterminal",
-  "Contributor": "sgb76",
-  "Website": "https://xterminal.cn",
-  "Update": "2025-01-04 11:32:44",
-  "Size": "117.89 MB",
-  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
-}
-
-,
-{
   "Author": "wntr <Unknown>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "finalshell_4.5.12_amd64.deb",
@@ -622,6 +604,24 @@
   "Website": "kentrl",
   "icons": "https://spk-json.spark-app.store/store/development/finalshell/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/development/finalshell/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "XTerminal",
+  "Version": "2.9.3-84",
+  "Filename": "xterminal_2.9.3-84_amd64.deb",
+  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
+  "Pkgname": "xterminal",
+  "Author": "Xterminal",
+  "Contributor": "sgb76",
+  "Website": "https://xterminal.cn",
+  "Update": "2025-01-04 11:32:44",
+  "Size": "117.89 MB",
+  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
 }
 
 ,
@@ -1167,6 +1167,21 @@
 }
 ,
 {
+  "Name": "StarUML",
+  "Version": "3.0.1",
+  "Filename": "staruml_3.0.1_amd64.deb",
+  "Pkgname": "staruml",
+  "Author": " ",
+  "Contributor": "anima",
+  "Website": "http://staruml.io/",
+  "Update": "2020-07-01 16:54",
+  "Size": "104.45MB",
+  "More": "StarUML是一款制作程序结构图和程序流程图的软件。",
+  "Tags": "debian"
+}
+
+,
+{
   "Name": "Scratch 3（Wine）",
   "Version": "3.29.1",
   "Filename": "com.scratch3.spark_3.29.1_all.deb",
@@ -1181,21 +1196,6 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/57b4a16937f942449bf9a877ffcad7a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/1e26957687544b52a99af0460e799493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/131fcab7df494c08aaee9ba43290a78e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/00f83375a2624bf59bad0b2b92a91aa1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/142dbbb2ee3f46c18f1c9bed7f65b923.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/1aa87b74c1444e05977727db1257fd0a.png"
-}
-
-,
-{
-  "Name": "StarUML",
-  "Version": "3.0.1",
-  "Filename": "staruml_3.0.1_amd64.deb",
-  "Pkgname": "staruml",
-  "Author": " ",
-  "Contributor": "anima",
-  "Website": "http://staruml.io/",
-  "Update": "2020-07-01 16:54",
-  "Size": "104.45MB",
-  "More": "StarUML是一款制作程序结构图和程序流程图的软件。",
-  "Tags": "debian"
 }
 
 ,

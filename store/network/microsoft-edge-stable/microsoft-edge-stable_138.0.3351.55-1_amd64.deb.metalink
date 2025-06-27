@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="microsoft-edge-stable_138.0.3351.55-1_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">59bd524287b711215f4dd66c255d69d8</hash>
+				  
+				<hash type="sha1">610a978a379a15ce4e7c89ce4be3d66d1f40999a</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.55-1_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>
