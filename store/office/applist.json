@@ -178,24 +178,6 @@
 
 ,
 {
-    "Author": "网易公司 <account@note.youdao.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "ynote-desktop_8.1.30-8935_amd64.deb",
-    "More": "有道云笔记官方Linux版本",
-    "Name": "有道云笔记",
-    "Pkgname": "ynote-desktop",
-    "Size": "121 Mb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "ynote-desktop_8.1.30-8935_amd64.deb.torrent",
-    "Update": "2025-06-15 06:49:20",
-    "Version": "8.1.30-8935",
-    "Website": "https://note.youdao.com/",
-    "icons": "https://spk-json.spark-app.store/store/office/ynote-desktop/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/office/ynote-desktop/screen_1.png\",\"https://spk-json.spark-app.store/store/office/ynote-desktop/screen_2.png\"]"
-}
-
-,
-{
   "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "sogou-ime-ng-fcitx5-kylin-desktop_10.0.9.0.6-20231128000607_amd64.deb",
@@ -210,6 +192,24 @@
   "Website": "https://www.taotics.com/",
   "icons": "https://spk-json.spark-app.store/store/office/sogou-ime-ng-fcitx5-kylin-desktop/icon.png",
   "img_urls": "[]"
+}
+
+,
+{
+    "Author": "网易公司 <account@note.youdao.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "ynote-desktop_8.1.30-8935_amd64.deb",
+    "More": "有道云笔记官方Linux版本",
+    "Name": "有道云笔记",
+    "Pkgname": "ynote-desktop",
+    "Size": "121 Mb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "ynote-desktop_8.1.30-8935_amd64.deb.torrent",
+    "Update": "2025-06-15 06:49:20",
+    "Version": "8.1.30-8935",
+    "Website": "https://note.youdao.com/",
+    "icons": "https://spk-json.spark-app.store/store/office/ynote-desktop/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/office/ynote-desktop/screen_1.png\",\"https://spk-json.spark-app.store/store/office/ynote-desktop/screen_2.png\"]"
 }
 
 ,
@@ -624,22 +624,21 @@
 
 ,
 {
-  "Name": "希沃白板5",
-  "Version": "5.1.17.2126",
-  "Filename": "com.seewo.easinote5_5.1.17.2126_amd64.deb",
-  "Torrent_address": "com.seewo.easinote5_5.1.17.2126_amd64.deb.torrent",
-  "Pkgname": "com.seewo.easinote5",
-  "Author": "liushaojie <liushaojie@cvte.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "https://gitlab.gz.cvte.cn/front-end/enow-cloud",
-  "Update": "2022-10-05 23:23:01",
-  "Size": "151.1 MB",
-  "More": "希沃白板5是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。",
-  "Tags": "ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/05/3c74df25-d48e-4f62-8761-6315dfc64315.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/05/e48ebd6b-8bae-44fd-92ec-9765807b88c4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/05/8d399e3b-24ab-4d30-845b-b45ae129be5e.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/05/0bb39fe3-bfbe-475a-865c-3f95ca4c960e.png"
+    "Name": "希沃白板5",
+    "Version": "5.2.2.4.12816",
+    "Filename": "com.seewo.easinote5_5.2.2.4.12816_arm64.deb",
+    "Torrent_address": "com.seewo.easinote5_5.2.2.4.12816_arm64.deb.torrent",
+    "Pkgname": "com.seewo.easinote5",
+    "Author": "liushaojie <liushaojie@cvte.com>",
+    "Contributor": "liushaojie <liushaojie@cvte.com>",
+    "Website": "https://gitlab.gz.cvte.cn/front-end/enow-cloud",
+    "Update": "2025-06-28 08:36:33",
+    "Size": "183.69 MB",
+    "More": "希沃白板5是一款由希沃（seewo）自主研发，专为老师打造的互动教学平台。针对信息化教学场景，提供课件制作、互动授课、在线课堂、微课录制、课件资源库等多项功能，满足线上、线下教学的多个场景，让老师能一站式完成教学环节的主要流程。",
+    "Tags": "debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/28/093541b714614c3286f56cd2b0693657.png\",\"https://spk-json.spark-app.store/images/2025/06/28/499c4077a51143f8b99dd9cdc95c48bb.png\",\"https://spk-json.spark-app.store/images/2025/06/28/17f533c4018f456e939091a1d447d31e.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/28/4d716fe6bcb44f7ebdc9b706f6dceee7.png"
 }
-
 ,
 {
   "Name": "同花顺免费版（wine7）",
@@ -2934,23 +2933,6 @@
 
 ,
 {
-  "Name": "BookxNote Pro（wine）",
-  "Version": "2.0.0.1023spark0",
-  "Filename": "com.bookxnote.spark_2.0.0.1023spark0_i386.deb",
-  "Pkgname": "com.bookxnote.spark",
-  "Author": "BookxNote",
-  "Contributor": "anima",
-  "Website": "http://www.bookxnote.com/",
-  "Update": "2020-10-31 02:14:14",
-  "Size": "50.63 MB",
-  "More": "BookxNote支持打开PDF和EPUB两种格式的电子书，自动导入书籍目录，还能自定义阅读书签;阅读时可对文档进行重点笔记标注，一边标注，一边对重点进行批注。标注的重点自动形成笔记大纲;标注重点的时候，笔记脑图可以窗口并列显示，方便整理自己对书籍的知识记忆。",
-  "Tags": "deepin;uos;dwine5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85975b70-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85f5f630-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/862ac1d0-1b1e-11eb-ba7c-d9ba7435645b.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/80bbeb20-1b1e-11eb-ba7c-d9ba7435645b.png"
-}
-
-,
-{
   "Name": "Freeplane",
   "Version": "1.11.11~upstream-1",
   "Filename": "freeplane_1.11.11~upstream-1_all.deb",
@@ -2965,6 +2947,23 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1674e70-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e1711270-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e16dde20-de83-11ee-9ef9-db09acd1df95.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/10/e172e730-de83-11ee-9ef9-db09acd1df95.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/10/de160090-de83-11ee-9ef9-db09acd1df95.png"
+}
+
+,
+{
+  "Name": "BookxNote Pro（wine）",
+  "Version": "2.0.0.1023spark0",
+  "Filename": "com.bookxnote.spark_2.0.0.1023spark0_i386.deb",
+  "Pkgname": "com.bookxnote.spark",
+  "Author": "BookxNote",
+  "Contributor": "anima",
+  "Website": "http://www.bookxnote.com/",
+  "Update": "2020-10-31 02:14:14",
+  "Size": "50.63 MB",
+  "More": "BookxNote支持打开PDF和EPUB两种格式的电子书，自动导入书籍目录，还能自定义阅读书签;阅读时可对文档进行重点笔记标注，一边标注，一边对重点进行批注。标注的重点自动形成笔记大纲;标注重点的时候，笔记脑图可以窗口并列显示，方便整理自己对书籍的知识记忆。",
+  "Tags": "deepin;uos;dwine5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85975b70-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/85f5f630-1b1e-11eb-ba7c-d9ba7435645b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/31/862ac1d0-1b1e-11eb-ba7c-d9ba7435645b.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/31/80bbeb20-1b1e-11eb-ba7c-d9ba7435645b.png"
 }
 
 ,
@@ -4523,6 +4522,21 @@
 
 ,
 {
+  "Name": "Joplin",
+  "Author": "Joplin Team <no-reply@joplinapp.org>",
+  "Website": "https://joplinapp.org/",
+  "More": "Joplin是一个开源的笔记应用程序，帮助你记录您的想法，并从任何设备安全地访问它们。",
+  "Tags": "community;debian;ubuntu;deepin;native",
+  "Pkgname": "joplin",
+  "Version": "3.3.13",
+  "Filename": "joplin_3.3.13_amd64.deb",
+  "Update": "2025-06-11 01:41:04",
+  "Size": "130.47MB",
+  "Contributor": "https://gitee.com/spark-building-service/github"
+}
+
+,
+{
   "Name": "极音创作",
   "Version": "1.0",
   "Filename": "con.zenwriter.spark_1.0_amd64.deb",
@@ -4643,21 +4657,6 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/2931af98e77141d48487bdc9726b9cba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/10/fb09644c27e14eb6bc14dfce2eef814f.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/10/14b997ceeae9440fb1dbabe206189ac2.png"
-}
-
-,
-{
-  "Name": "Joplin",
-  "Author": "Joplin Team <no-reply@joplinapp.org>",
-  "Website": "https://joplinapp.org/",
-  "More": "Joplin是一个开源的笔记应用程序，帮助你记录您的想法，并从任何设备安全地访问它们。",
-  "Tags": "community;debian;ubuntu;deepin;native",
-  "Pkgname": "joplin",
-  "Version": "3.3.13",
-  "Filename": "joplin_3.3.13_amd64.deb",
-  "Update": "2025-06-11 01:41:04",
-  "Size": "130.47MB",
-  "Contributor": "https://gitee.com/spark-building-service/github"
 }
 
 ,

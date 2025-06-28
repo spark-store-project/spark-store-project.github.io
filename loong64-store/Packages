@@ -3758,6 +3758,24 @@ SHA512: 9f227a21fad1c58b89dee9e340059dcda415e8bf312464ea0a5a27203392bd7e41287de1
 Homepage: https://huorong.cn
 Description: 火绒终端安全管理系统
 
+Package: cn.huorong.esm
+Architecture: loong64
+Version: 2.0.10.3
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 79775
+Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: ./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_loong64.deb
+Size: 32669046
+MD5sum: e3bf3a294907e7802bee013c9baf14bf
+SHA1: d4f10f939392b651b33822691acf597b6ed3cec1
+SHA256: 0cd5220ea91211c739c960256867225f032a5c0fdc0f73715960bbe3ff0cbbe5
+SHA512: 01f9273b1ff2682c3bf33891f355d97a2fc85d066508acffd75220c26d1953ece94ca2f0cbc23e9d43d5954509bf15be5e3539df59fb73187eafd1db344ee3a7
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+
 Package: store.spark-app.appwrapper.loonggpu-driver
 Architecture: all
 Version: 1.0.1-alpha-lnd25.5
@@ -7683,6 +7701,22 @@ Description: include an open-source Chinese GB2312 font "Smiley Sans" (得意黑
   * 根据 SIL Open Font License 1.1 的规定， 禁止单独出售字体文件(OTF/TTF文件)
  的行为。
   * 该字体不可在 SIL Open Font License 1.1 以外的授权许可下发行。
+
+Package: com.wind.wft
+Architecture: loong64
+Version: 25.1.3.06171
+Priority: optional
+Section: utils
+Maintainer: service@wind.com.cn
+Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: ./others/com.wind.wft/com.wind.wft_25.1.3.06171_loong64.deb
+Size: 326947818
+MD5sum: 110e852270d0d4c21555b7953a793ab4
+SHA1: 0a12bb697383083a966ade14e5e43af9f569c34f
+SHA256: 89c81c5405fd2f6d5ef59da9f5d5cb64ecad18f239e601feac604196e720c24d
+SHA512: 5f228d113f628360da7217b5be01b898f2b109f56075ef992f399c368fc4510b2e8edb9eb8121be0995efe17b39abffe4edfa84abcc4deeef755d11d3e48b22d
+Homepage: http://www.wind.com.cn
+Description: Wind-领先的金融数据和分析工具服务商
 
 Package: com.wind.wft
 Architecture: loong64

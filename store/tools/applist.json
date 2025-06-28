@@ -1568,23 +1568,6 @@
 
 ,
 {
-  "Name": "linux窗口透明工具",
-  "Version": "1.0.0-4",
-  "Filename": "x11opacity-tool_1.0.0-4_amd64.deb",
-  "Pkgname": "x11opacity-tool",
-  "Author": "depend",
-  "Contributor": "depend",
-  "Website": "https://github.com/dependon/x11opacitytool",
-  "Update": "2021-04-10 15:46:57",
-  "Size": "27.57 KB",
-  "More": "用于x11窗口透明的工具，可设置0-100,默认desktop和dock不会隐藏，其他窗口全局透明",
-  "Tags": "deepin;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1ecc550-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1d63010-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e2033380-99d0-11eb-a1c7-3d36672ee7aa.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/10/a9dde130-99d0-11eb-a1c7-3d36672ee7aa.svg"
-}
-
-,
-{
   "Name": "Macast",
   "Version": "0.7",
   "Filename": "macast_0.7_amd64.deb",
@@ -1599,6 +1582,23 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/03/a78748c0-b31c-11ec-9c94-e5b618764332.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/03/a2bcef70-b31c-11ec-9c94-e5b618764332.png"
+}
+
+,
+{
+  "Name": "linux窗口透明工具",
+  "Version": "1.0.0-4",
+  "Filename": "x11opacity-tool_1.0.0-4_amd64.deb",
+  "Pkgname": "x11opacity-tool",
+  "Author": "depend",
+  "Contributor": "depend",
+  "Website": "https://github.com/dependon/x11opacitytool",
+  "Update": "2021-04-10 15:46:57",
+  "Size": "27.57 KB",
+  "More": "用于x11窗口透明的工具，可设置0-100,默认desktop和dock不会隐藏，其他窗口全局透明",
+  "Tags": "deepin;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1ecc550-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1d63010-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e2033380-99d0-11eb-a1c7-3d36672ee7aa.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/10/a9dde130-99d0-11eb-a1c7-3d36672ee7aa.svg"
 }
 
 ,
@@ -1639,6 +1639,24 @@
 
 ,
 {
+  "Name": "WinSCP",
+  "Version": "6.1.2Spark0",
+  "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
+  "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
+  "Pkgname": "com.winscp.spark",
+  "Author": "错失一亿",
+  "Contributor": "错失一亿",
+  "Website": "no",
+  "Update": "2023-10-15 13:24:13",
+  "Size": "17.66 MB",
+  "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
+  "Tags": "ubuntu;deepin;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
+}
+
+,
+{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1674,20 +1692,20 @@
 
 ,
 {
-  "Name": "WinSCP",
-  "Version": "6.1.2Spark0",
-  "Filename": "com.winscp.spark_6.1.2Spark0_i386.deb",
-  "Torrent_address": "com.winscp.spark_6.1.2Spark0_i386.deb.torrent",
-  "Pkgname": "com.winscp.spark",
-  "Author": "错失一亿",
-  "Contributor": "错失一亿",
-  "Website": "no",
-  "Update": "2023-10-15 13:24:13",
-  "Size": "17.66 MB",
-  "More": "很喜欢这款软件的同步功能和生成url时带密码功能，这么好用的app不知道为啥没人打包，研究了下打包分享出来",
-  "Tags": "ubuntu;deepin;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/15/06a48b80-6b1b-11ee-b518-4d7290b69353.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/15/fb212840-6b1a-11ee-b518-4d7290b69353.png"
+    "Name": "深度求索（DeepSeek）",
+    "Version": "1.0.0",
+    "Filename": "chat.deepseek.com_1.0.0_all.deb",
+    "Torrent_address": "chat.deepseek.com_1.0.0_all.deb.torrent",
+    "Pkgname": "chat.deepseek.com",
+    "Author": "onehub",
+    "Contributor": "onehub",
+    "Website": "https://bbs.spark-app.store/u/onehub",
+    "Update": "2025-03-21 10:51:13",
+    "Size": "5.68 KB",
+    "More": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/5c842ca5f9674baa8197ddbc1c88f864.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/21/53ed473e05cd4570803de026e1895fc8.png"
 }
 
 ,
@@ -1706,24 +1724,6 @@
   "Tags": "ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
-}
-
-,
-{
-    "Name": "深度求索（DeepSeek）",
-    "Version": "1.0.0",
-    "Filename": "chat.deepseek.com_1.0.0_all.deb",
-    "Torrent_address": "chat.deepseek.com_1.0.0_all.deb.torrent",
-    "Pkgname": "chat.deepseek.com",
-    "Author": "onehub",
-    "Contributor": "onehub",
-    "Website": "https://bbs.spark-app.store/u/onehub",
-    "Update": "2025-03-21 10:51:13",
-    "Size": "5.68 KB",
-    "More": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/5c842ca5f9674baa8197ddbc1c88f864.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/21/53ed473e05cd4570803de026e1895fc8.png"
 }
 
 ,
@@ -2134,6 +2134,21 @@
 }
 ,
 {
+  "Name": "Chatbox 多模型AI客户端",
+  "Version": "1.14.1",
+  "Filename": "xyz.chatboxapp.app_1.14.1_amd64.deb",
+  "Pkgname": "xyz.chatboxapp.app",
+  "Author": "Mediocre Company <hi@chatboxai.com>",
+  "Contributor": "wcbing <i@wcbing.top>",
+  "Website": "https://chatboxai.app/",
+  "Update": "2025-06-21 18:57:25",
+  "Size": "76.93 MB",
+  "More": "一个多模型的AI客户端，支持提示词模板、支持chatgpt、支持跨平台。\n\n来源于官网\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-amd64.deb\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-arm64.deb",
+  "Tags": "debian;ubuntu;deepin;uos;native"
+}
+
+,
+{
   "Name": "深度云扫描",
   "Version": "1.2-spark0",
   "Filename": "spark-deepin-cloud-scanner_1.2-spark0_amd64.deb",
@@ -2147,21 +2162,6 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b44337e0-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b73ca1c0-98ec-11eb-83e4-07d70af35066.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/923c20d0-98ec-11eb-83e4-07d70af35066.png"
-}
-
-,
-{
-  "Name": "Chatbox 多模型AI客户端",
-  "Version": "1.14.1",
-  "Filename": "xyz.chatboxapp.app_1.14.1_amd64.deb",
-  "Pkgname": "xyz.chatboxapp.app",
-  "Author": "Mediocre Company <hi@chatboxai.com>",
-  "Contributor": "wcbing <i@wcbing.top>",
-  "Website": "https://chatboxai.app/",
-  "Update": "2025-06-21 18:57:25",
-  "Size": "76.93 MB",
-  "More": "一个多模型的AI客户端，支持提示词模板、支持chatgpt、支持跨平台。\n\n来源于官网\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-amd64.deb\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-arm64.deb",
-  "Tags": "debian;ubuntu;deepin;uos;native"
 }
 
 ,
@@ -2612,24 +2612,6 @@
 
 ,
 {
-  "Name": "柚坛工具箱",
-  "Version": "3.3.5",
-  "Filename": "uotantoolbox_3.3.5_amd64.deb",
-  "Torrent_address": "uotantoolbox_3.3.5_amd64.deb.torrent",
-  "Pkgname": "uotantoolbox",
-  "Author": "mujianwu <lrh15563910083@163.com>",
-  "Contributor": "https://gitee.com/spark-building-service/github",
-  "Website": "https://toolbox.uotan.cn/",
-  "Update": "2025-03-10 11:12:48",
-  "Size": "112.9 MB",
-  "More": "柚坛工具箱全新版本正式发布，专为玩机发烧友而生！\n采用全新现代化UI设计 支持跨平台，可轻松在Windows、Linux、macOS上使用\n同时也是全球首款原生适配龙芯架构的Android工具箱\n集成全网最丝滑的Scrcpy图形端，为开发如虎添翼\n更有新增 应用管理、无级调节 等众多实用功能\n\n系统支持： Linux：Ubuntu 16.04+、Debian 9+\n注： 龙芯版本推荐使用新世界，不确定旧世界是否能够正常使用。",
-  "Tags": "community;debian;ubuntu;deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/10/9d8fa01463ba4bd4aca58695e3bd1af0.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/03/10/fe905c9c1939447c98ea66269226cad8.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
@@ -2644,6 +2626,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "柚坛工具箱",
+  "Version": "3.3.5",
+  "Filename": "uotantoolbox_3.3.5_amd64.deb",
+  "Torrent_address": "uotantoolbox_3.3.5_amd64.deb.torrent",
+  "Pkgname": "uotantoolbox",
+  "Author": "mujianwu <lrh15563910083@163.com>",
+  "Contributor": "https://gitee.com/spark-building-service/github",
+  "Website": "https://toolbox.uotan.cn/",
+  "Update": "2025-03-10 11:12:48",
+  "Size": "112.9 MB",
+  "More": "柚坛工具箱全新版本正式发布，专为玩机发烧友而生！\n采用全新现代化UI设计 支持跨平台，可轻松在Windows、Linux、macOS上使用\n同时也是全球首款原生适配龙芯架构的Android工具箱\n集成全网最丝滑的Scrcpy图形端，为开发如虎添翼\n更有新增 应用管理、无级调节 等众多实用功能\n\n系统支持： Linux：Ubuntu 16.04+、Debian 9+\n注： 龙芯版本推荐使用新世界，不确定旧世界是否能够正常使用。",
+  "Tags": "community;debian;ubuntu;deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/10/9d8fa01463ba4bd4aca58695e3bd1af0.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/03/10/fe905c9c1939447c98ea66269226cad8.png"
 }
 
 ,
@@ -3161,24 +3161,6 @@
 
 ,
 {
-  "Name": "dock栏居中配置(dde)",
-  "Version": "0.0.3",
-  "Filename": "dde-dock-display-center_0.0.3_all.deb",
-  "Torrent_address": "dde-dock-display-center_0.0.3_all.deb.torrent",
-  "Pkgname": "dde-dock-display-center",
-  "Author": "Individual developer <packages@email.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/dde-dock-display-center",
-  "Update": "2025-01-22 09:40:41",
-  "Size": "1.23 KB",
-  "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。\n适用于 GXOS dde15系列。",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/22/54e0a42b377148759b61fe0c248ce36a.png\",\"https://spk-json.spark-app.store/images/2025/01/22/1c8fc1f0cc914371971fd3a4d1583967.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/22/854c7e80bd7a4338927b6df0e2922c11.png"
-}
-
-,
-{
   "Name": "deepin23 镜像源选择器",
   "Version": "1.0.1",
   "Filename": "deepin-mirror-selector_1.0.1_amd64.deb",
@@ -3193,6 +3175,24 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/19/a204ac734d794c0b90f36da3cb871f88.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/19/43ab021f296648cf8df9d922a5e8a5ea.png"
+}
+
+,
+{
+  "Name": "dock栏居中配置(dde)",
+  "Version": "0.0.3",
+  "Filename": "dde-dock-display-center_0.0.3_all.deb",
+  "Torrent_address": "dde-dock-display-center_0.0.3_all.deb.torrent",
+  "Pkgname": "dde-dock-display-center",
+  "Author": "Individual developer <packages@email.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/dde-dock-display-center",
+  "Update": "2025-01-22 09:40:41",
+  "Size": "1.23 KB",
+  "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。\n适用于 GXOS dde15系列。",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/22/54e0a42b377148759b61fe0c248ce36a.png\",\"https://spk-json.spark-app.store/images/2025/01/22/1c8fc1f0cc914371971fd3a4d1583967.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/22/854c7e80bd7a4338927b6df0e2922c11.png"
 }
 
 ,
@@ -3320,24 +3320,6 @@
 
 ,
 {
-  "Name": "Ghost（Linux）",
-  "Version": "12.0.0.4112spark0",
-  "Filename": "ghost_12.0.0.4112spark0_i386.deb",
-  "Torrent_address": "ghost_12.0.0.4112spark0_i386.deb.torrent",
-  "Pkgname": "ghost",
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "未知",
-  "Update": "2024-06-15 21:47:49",
-  "Size": "2.81 MB",
-  "More": "ghost64官方版是一款大名鼎鼎的硬盘备份软件，Symantec Ghost可以把一个磁盘上的全部内容复制到另外一个磁盘上，也可以把磁盘内容复制为一个磁盘的镜像文件，以后你可以用镜像文件创建一个原始磁盘的拷贝。\n原生的，需要 root 权限",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/474bc96a36a84d78b7da99e6873c3c32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/e15bcd079731418db08eb8479bffb9e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/8bdd7e8234094691a184a188e4bd021b.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/27fe8063810a4973a20cfa72b1478cf8.png"
-}
-
-,
-{
   "Name": "AppImageHub 简易搜索工具",
   "Version": "0.0.1-20231206",
   "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
@@ -3352,6 +3334,24 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
+}
+
+,
+{
+  "Name": "Ghost（Linux）",
+  "Version": "12.0.0.4112spark0",
+  "Filename": "ghost_12.0.0.4112spark0_i386.deb",
+  "Torrent_address": "ghost_12.0.0.4112spark0_i386.deb.torrent",
+  "Pkgname": "ghost",
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "未知",
+  "Update": "2024-06-15 21:47:49",
+  "Size": "2.81 MB",
+  "More": "ghost64官方版是一款大名鼎鼎的硬盘备份软件，Symantec Ghost可以把一个磁盘上的全部内容复制到另外一个磁盘上，也可以把磁盘内容复制为一个磁盘的镜像文件，以后你可以用镜像文件创建一个原始磁盘的拷贝。\n原生的，需要 root 权限",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/474bc96a36a84d78b7da99e6873c3c32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/e15bcd079731418db08eb8479bffb9e6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/8bdd7e8234094691a184a188e4bd021b.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/27fe8063810a4973a20cfa72b1478cf8.png"
 }
 
 ,
@@ -3657,6 +3657,24 @@
 
 ,
 {
+  "Name": "Sunshine",
+  "Version": "2025.122.141614",
+  "Filename": "sunshine_2025.122.141614_amd64.deb",
+  "Torrent_address": "sunshine_2025.122.141614_amd64.deb.torrent",
+  "Pkgname": "sunshine",
+  "Author": "https://app.lizardbyte.dev",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://app.lizardbyte.dev/Sunshine",
+  "Update": "2025-02-07 11:13:19",
+  "Size": "8.82 MB",
+  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.",
+  "Tags": "community;ubuntu;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/07/c6fdcfd9e7114024aa3c713a591db991.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/02/07/291783992b9e4b3786d4254e4579742e.png"
+}
+
+,
+{
   "Name": "Feem",
   "Version": "4.4.2",
   "Filename": "feem.spark_4.4.2_amd64.deb",
@@ -3724,24 +3742,6 @@
   "Tags": "a2d;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/dc17ab428bc64622b8bf777b80b829e0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/656973a5b001460aa39f5ba23bc7f6ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/100ad1a16b6c4660a6cea5f5fa65c206.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/a506d273f9984e208e811ddd7c69ea2f.png"
-}
-
-,
-{
-  "Name": "Sunshine",
-  "Version": "2025.122.141614",
-  "Filename": "sunshine_2025.122.141614_amd64.deb",
-  "Torrent_address": "sunshine_2025.122.141614_amd64.deb.torrent",
-  "Pkgname": "sunshine",
-  "Author": "https://app.lizardbyte.dev",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://app.lizardbyte.dev/Sunshine",
-  "Update": "2025-02-07 11:13:19",
-  "Size": "8.82 MB",
-  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.",
-  "Tags": "community;ubuntu;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/07/c6fdcfd9e7114024aa3c713a591db991.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/02/07/291783992b9e4b3786d4254e4579742e.png"
 }
 
 ,
@@ -4212,6 +4212,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
+  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
+  "Name": "GXDE 2025 升级工具",
+  "Pkgname": "gxde-25-upgrader",
+  "Size": "1217 Kb",
+  "Tags": "community;debian;native",
+  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
+  "Update": "2025-05-11 23:20:45",
+  "Version": "1.1.5",
+  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
+  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+}
+
+,
+{
     "Name": "五笔打字通",
     "Version": "0.0.2",
     "Filename": "com.wubidzt.deepin_0.0.2_amd64.deb",
@@ -4279,24 +4297,6 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
-  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
-  "Name": "GXDE 2025 升级工具",
-  "Pkgname": "gxde-25-upgrader",
-  "Size": "1217 Kb",
-  "Tags": "community;debian;native",
-  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
-  "Update": "2025-05-11 23:20:45",
-  "Version": "1.1.5",
-  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
 }
 
 ,

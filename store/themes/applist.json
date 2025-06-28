@@ -462,23 +462,6 @@
 
 ,
 {
-  "Name": "fcitx5皮肤深度终端",
-  "Version": "0.1-2",
-  "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
-  "Pkgname": "fcitx5-ui-deepin-terminal",
-  "Author": "lvzhu",
-  "Contributor": "shenmo",
-  "Website": "https://pinyin.sogou.com/skins/detail/view/info/587008?rf=search&tf=p",
-  "Update": "2021-12-06 10:26:50",
-  "Size": "103.17 KB",
-  "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f5013900-563b-11ec-9100-ad9f44a3c9f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f4f8ad80-563b-11ec-9100-ad9f44a3c9f7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/e966a440-563b-11ec-9100-ad9f44a3c9f7.png"
-}
-
-,
-{
   "Name": "melange主题",
   "Version": "1.0",
   "Filename": "custom-theme-melange_1.0_all.deb",
@@ -493,6 +476,23 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/add581e0-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/addb9c60-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adcf4050-83c9-11ee-8d0f-0f9fb3e2b016.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/15/adca1030-83c9-11ee-8d0f-0f9fb3e2b016.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/15/bc808af0-83c9-11ee-8d0f-0f9fb3e2b016.png"
+}
+
+,
+{
+  "Name": "fcitx5皮肤深度终端",
+  "Version": "0.1-2",
+  "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
+  "Pkgname": "fcitx5-ui-deepin-terminal",
+  "Author": "lvzhu",
+  "Contributor": "shenmo",
+  "Website": "https://pinyin.sogou.com/skins/detail/view/info/587008?rf=search&tf=p",
+  "Update": "2021-12-06 10:26:50",
+  "Size": "103.17 KB",
+  "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f5013900-563b-11ec-9100-ad9f44a3c9f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/06/f4f8ad80-563b-11ec-9100-ad9f44a3c9f7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/06/e966a440-563b-11ec-9100-ad9f44a3c9f7.png"
 }
 
 ,
@@ -615,24 +615,6 @@
 
 ,
 {
-  "Author": "username <username@uniontech.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.uniontech.theme.hazy.color.blossom_1.0.2_all.deb",
-  "More": "修改过的hazy color主题\n1. base改为blossom-light\n2. 添加了firefox图标支持",
-  "Name": "Hazy Color主题",
-  "Pkgname": "com.uniontech.theme.hazy.color.blossom",
-  "Size": "95 Mb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "com.uniontech.theme.hazy.color.blossom_1.0.2_all.deb.torrent",
-  "Update": "2023-11-24 17:16:39",
-  "Version": "1.0.2",
-  "Website": "https://www.chinauos.com",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_2.png\"]"
-}
-
-,
-{
   "Name": "纳西妲主题光标",
   "Version": "1.0.0",
   "Filename": "nahida.cursors_1.0.0_all.deb",
@@ -647,6 +629,24 @@
   "Tags": "ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/24/59283c32027f4649a5fb685ebf083251.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/24/cb60f663a27a462e8cd3925ae84b2acc.png"
+}
+
+,
+{
+  "Author": "username <username@uniontech.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.uniontech.theme.hazy.color.blossom_1.0.2_all.deb",
+  "More": "修改过的hazy color主题\n1. base改为blossom-light\n2. 添加了firefox图标支持",
+  "Name": "Hazy Color主题",
+  "Pkgname": "com.uniontech.theme.hazy.color.blossom",
+  "Size": "95 Mb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "com.uniontech.theme.hazy.color.blossom_1.0.2_all.deb.torrent",
+  "Update": "2023-11-24 17:16:39",
+  "Version": "1.0.2",
+  "Website": "https://www.chinauos.com",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/themes/com.uniontech.theme.hazy.color.blossom/screen_2.png\"]"
 }
 
 ,

@@ -132,7 +132,7 @@
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2025-06-28 01:38:38",
+    "Update": "2025-06-29 01:39:36",
     "Size": "75928",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos;debian",
@@ -623,24 +623,6 @@
 
 ,
 {
-  "Name": "NeatDownloadManager",
-  "Version": "1.4.10spark2",
-  "Filename": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb",
-  "Torrent_address": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb.torrent",
-  "Pkgname": "com.neatdownloadmanager.spark",
-  "Author": "NeatDownloadManager",
-  "Contributor": "sgb76",
-  "Website": "https://www.neatdownloadmanager.com/",
-  "Update": "2024-01-28 19:57:48",
-  "Size": "13.91 MB",
-  "More": "NeatDownloadManager是一款免费轻量小巧的多线程下载工具，可以支持多线程下载和在线视频嗅探下载，功能和特性上和 IDM、FDM 或 Mac 上的 Folx 等下载软件非常相似。界面也简单易上手，可以轻松帮你提升网络下载速度。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/ce00ea7dee514da9b2ff471513b7b7cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/b2766b8d9e9f458295a5249d4c496889.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/63eff2f6427140fbab92a339e7149f2c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/c65e0c8b61174d1486676f3ee2a2849a.png"
-}
-
-,
-{
   "Name": "Chromium",
   "Version": "111.0.5503.0",
   "Filename": "chromium-linux_111.0.5503.0_amd64.deb",
@@ -655,6 +637,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/88722011696846fea8665b0c43a2dfb5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/27/335383763a5a434c9b63a980bd9db90a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/27/475a088280dd4b32a5f4b65c46f134ea.png"
+}
+
+,
+{
+  "Name": "NeatDownloadManager",
+  "Version": "1.4.10spark2",
+  "Filename": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb",
+  "Torrent_address": "com.neatdownloadmanager.spark_1.4.10spark2_all.deb.torrent",
+  "Pkgname": "com.neatdownloadmanager.spark",
+  "Author": "NeatDownloadManager",
+  "Contributor": "sgb76",
+  "Website": "https://www.neatdownloadmanager.com/",
+  "Update": "2024-01-28 19:57:48",
+  "Size": "13.91 MB",
+  "More": "NeatDownloadManager是一款免费轻量小巧的多线程下载工具，可以支持多线程下载和在线视频嗅探下载，功能和特性上和 IDM、FDM 或 Mac 上的 Folx 等下载软件非常相似。界面也简单易上手，可以轻松帮你提升网络下载速度。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/ce00ea7dee514da9b2ff471513b7b7cb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/b2766b8d9e9f458295a5249d4c496889.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/28/63eff2f6427140fbab92a339e7149f2c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/28/c65e0c8b61174d1486676f3ee2a2849a.png"
 }
 
 ,
@@ -1439,6 +1439,23 @@
 
 ,
 {
+    "Name": "向日葵企业版客户端",
+    "Version": "5.4.0.18280",
+    "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
+    "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
+    "Pkgname": "sunloginenterprise",
+    "Author": "Oray <dev@oray.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://sunlogin.oray.com",
+    "Update": "2025-03-14 22:31:04",
+    "Size": "75.03 MB",
+    "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
+}
+,
+{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-downloader_1.1.3_all.deb",
@@ -1455,23 +1472,6 @@
   "img_urls": "[\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_1.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_2.png\",\"https://spk-json.spark-app.store/store/network/gxde-downloader/screen_3.png\"]"
 }
 
-,
-{
-    "Name": "向日葵企业版客户端",
-    "Version": "5.4.0.18280",
-    "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
-    "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
-    "Pkgname": "sunloginenterprise",
-    "Author": "Oray <dev@oray.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://sunlogin.oray.com",
-    "Update": "2025-03-14 22:31:04",
-    "Size": "75.03 MB",
-    "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
-}
 ,
 {
   "Name": "局域网文件分享服务器",
@@ -2182,6 +2182,23 @@
 
 ,
 {
+    "Name": "豆包(wine)",
+    "Version": "1.56.6wine3",
+    "Filename": "doubao-wine_1.56.6wine3_all.deb",
+    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
+    "Pkgname": "doubao-wine",
+    "Author": "豆包",
+    "Contributor": "CR.Zhu",
+    "Website": "https://www.doubao.com/download/",
+    "Update": "2025-05-26 16:27:34",
+    "Size": "519.32 MB",
+    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+}
+,
+{
   "Name": "anto  翻译工具",
   "Version": "3.6.3",
   "Filename": "com.anto.deepin_3.6.3_all.deb",
@@ -2216,23 +2233,6 @@
   "icons": "https://spk-json.spark-app.store/icons/2024/12/14/0cff87616c864579bfe8f126b1b222ca.png"
 }
 
-,
-{
-    "Name": "豆包(wine)",
-    "Version": "1.56.6wine3",
-    "Filename": "doubao-wine_1.56.6wine3_all.deb",
-    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
-    "Pkgname": "doubao-wine",
-    "Author": "豆包",
-    "Contributor": "CR.Zhu",
-    "Website": "https://www.doubao.com/download/",
-    "Update": "2025-05-26 16:27:34",
-    "Size": "519.32 MB",
-    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
-}
 ,
 {
   "Name": "Seetong",
@@ -2323,6 +2323,23 @@
 
 ,
 {
+    "Name": "OneDriveGUI",
+    "Version": "1.1.1",
+    "Filename": "onedrive-gui_1.1.1_amd64.deb",
+    "Torrent_address": "onedrive-gui_1.1.1_amd64.deb.torrent",
+    "Pkgname": "onedrive-gui",
+    "Author": "spark-store",
+    "Contributor": "Love-in-idleness <3499847908@qq.com>",
+    "Website": "https://github.com/bpozdena/OneDriveGUI",
+    "Update": "2025-03-02 12:12:19",
+    "Size": "49.11 MB",
+    "More": "OneDrive Client for Linux的GUI管理工具，要求先安装onedrive并版本为2.5.x。",
+    "Tags": "community;debian;ubuntu;deepin;a2d",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/02/7e99bdd52c7f40adb1c3a92a57feb913.png\",\"https://spk-json.spark-app.store/images/2025/03/02/095f662a06b34fec8ea1c63582ae1ddd.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/02/4ebcb73b51c145c183774073648a8177.png"
+}
+,
+{
   "Name": "网易灵犀办公",
   "Version": "1.38.3",
   "Filename": "sirius-desktop_1.38.3_amd64.deb",
@@ -2339,23 +2356,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/f51f8faa6b7b408fb660872d3d3e779d.png"
 }
 
-,
-{
-    "Name": "OneDriveGUI",
-    "Version": "1.1.1",
-    "Filename": "onedrive-gui_1.1.1_amd64.deb",
-    "Torrent_address": "onedrive-gui_1.1.1_amd64.deb.torrent",
-    "Pkgname": "onedrive-gui",
-    "Author": "spark-store",
-    "Contributor": "Love-in-idleness <3499847908@qq.com>",
-    "Website": "https://github.com/bpozdena/OneDriveGUI",
-    "Update": "2025-03-02 12:12:19",
-    "Size": "49.11 MB",
-    "More": "OneDrive Client for Linux的GUI管理工具，要求先安装onedrive并版本为2.5.x。",
-    "Tags": "community;debian;ubuntu;deepin;a2d",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/02/7e99bdd52c7f40adb1c3a92a57feb913.png\",\"https://spk-json.spark-app.store/images/2025/03/02/095f662a06b34fec8ea1c63582ae1ddd.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/02/4ebcb73b51c145c183774073648a8177.png"
-}
 ,
 {
   "Name": "Floorp 浏览器",
@@ -2923,6 +2923,24 @@
 
 ,
 {
+  "Name": "Fifo",
+  "Version": "1.1.0spark0",
+  "Filename": "com.snaildos.fifo.spark_1.1.0spark0_amd64.deb",
+  "Torrent_address": "com.snaildos.fifo.spark_1.1.0spark0_amd64.deb.torrent",
+  "Pkgname": "com.snaildos.fifo.spark",
+  "Author": "SnailDOS",
+  "Contributor": "sgb76",
+  "Website": "https://fifo.snaildos.com/",
+  "Update": "2022-04-12 18:54:27",
+  "Size": "55.97 MB",
+  "More": "一款基于现代框架的隐私浏览器",
+  "Tags": "ubuntu;deepin;a2d;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/bd534850-ba4e-11ec-ac89-5155669a9ec9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/c54cc180-ba4e-11ec-ac89-5155669a9ec9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/ca0bd030-ba4e-11ec-ac89-5155669a9ec9.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/12/b7c6b070-ba4e-11ec-ac89-5155669a9ec9.png"
+}
+
+,
+{
   "Name": "天翼企业云盘",
   "Version": "1.0.0.0",
   "Filename": "com.dlife.corpcloud_1.0.0.0_amd64.deb",
@@ -2973,24 +2991,6 @@
     "Tags": "ubuntu;deepin;uos;debian;community",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frps/screen_5.png\"]",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frps/icon.png"
-}
-
-,
-{
-  "Name": "Fifo",
-  "Version": "1.1.0spark0",
-  "Filename": "com.snaildos.fifo.spark_1.1.0spark0_amd64.deb",
-  "Torrent_address": "com.snaildos.fifo.spark_1.1.0spark0_amd64.deb.torrent",
-  "Pkgname": "com.snaildos.fifo.spark",
-  "Author": "SnailDOS",
-  "Contributor": "sgb76",
-  "Website": "https://fifo.snaildos.com/",
-  "Update": "2022-04-12 18:54:27",
-  "Size": "55.97 MB",
-  "More": "一款基于现代框架的隐私浏览器",
-  "Tags": "ubuntu;deepin;a2d;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/bd534850-ba4e-11ec-ac89-5155669a9ec9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/c54cc180-ba4e-11ec-ac89-5155669a9ec9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/04/12/ca0bd030-ba4e-11ec-ac89-5155669a9ec9.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/04/12/b7c6b070-ba4e-11ec-ac89-5155669a9ec9.png"
 }
 
 ,
@@ -3048,6 +3048,24 @@
 
 ,
 {
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
+  "More": "好用的bt种子编辑器，可以编辑bt种子",
+  "Name": "BT种子编辑器",
+  "Pkgname": "torrent-file-editor",
+  "Size": "566 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "Torrent_address": "torrent-file-editor_0.3.18-master-20240415_amd64.deb.torrent",
+  "Update": "2025-01-14 01:26:31",
+  "Version": "0.3.18-master-20240415",
+  "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
+  "icons": "https://spk-json.spark-app.store/store/network/torrent-file-editor/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/network/torrent-file-editor/screen_1.png\"]"
+}
+
+,
+{
   "Name": "Firefox浏览器中国版(app内更新版)",
   "Version": "2307",
   "Filename": "firefox-cn_2307_amd64.deb.update",
@@ -3080,24 +3098,6 @@
   "Tags": "community;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/05/3f0dcd2b15144e9ca59af745ae1ac347.png\",\"https://spk-json.spark-app.store/images/2025/01/05/896be5fa963345a1967d661e62f7559f.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/05/4bda007fcd7a484dad0fd87158f78cc9.png"
-}
-
-,
-{
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
-  "More": "好用的bt种子编辑器，可以编辑bt种子",
-  "Name": "BT种子编辑器",
-  "Pkgname": "torrent-file-editor",
-  "Size": "566 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "Torrent_address": "torrent-file-editor_0.3.18-master-20240415_amd64.deb.torrent",
-  "Update": "2025-01-14 01:26:31",
-  "Version": "0.3.18-master-20240415",
-  "Website": "https://github.com/torrent-file-editor/torrent-file-editor",
-  "icons": "https://spk-json.spark-app.store/store/network/torrent-file-editor/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/network/torrent-file-editor/screen_1.png\"]"
 }
 
 ,

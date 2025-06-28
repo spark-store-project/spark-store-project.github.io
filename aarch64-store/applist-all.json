@@ -144,15 +144,15 @@
     {
       "Author": "Huorong Unix Team <unix-dev@huorong.cn>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "cn.huorong.esm_2.0.10.1_arm64.deb",
+      "Filename": "cn.huorong.esm_2.0.10.3_arm64.deb",
       "More": "涵盖桌面版与服务器版两大版本，均搭载火绒自主研发的反病毒引擎，不仅支持主要Linux系统发行版，且深度兼容主流国产操作系统和CPU。核心功能包含病毒查杀、风险隔离、添加信任、日志记录等。通过连接「火绒终端安全管理系统」的控制中心，满足企业级用户对终端的检测、查杀、管控等需求，如资产登记、多级管理、下发定制策略等。",
       "Name": "火绒安全",
       "Pkgname": "cn.huorong.esm",
       "Size": "34 Mb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "cn.huorong.esm_2.0.10.1_arm64.deb.torrent",
-      "Update": "2025-04-29 22:28:28",
-      "Version": "2.0.10.1",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "cn.huorong.esm_2.0.10.3_arm64.deb.torrent",
+      "Update": "2025-06-28 21:04:28",
+      "Version": "2.0.10.3",
       "Website": "https://huorong.cn",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cn.huorong.esm/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cn.huorong.esm/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cn.huorong.esm/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cn.huorong.esm/screen_3.png\"]"
@@ -490,6 +490,22 @@
       "Website": "https://shenmo7192.gitee.io/"
     },
     {
+      "Author": "onehub",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "chat.deepseek.com_1.0.0_all.deb",
+      "More": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+      "Name": "深度求索（DeepSeek）",
+      "Pkgname": "chat.deepseek.com",
+      "Size": "5 Kb",
+      "Tags": "community;deepin;ubuntu;debian",
+      "Torrent_address": "chat.deepseek.com_1.0.0_all.deb.torrent",
+      "Update": "2025-03-25 18:29:41",
+      "Version": "1.0.0",
+      "Website": "https://bbs.spark-app.store/u/onehub",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/screen_1.png\"]"
+    },
+    {
       "Name": "RustDesk",
       "Author": "rustdesk <info@rustdesk.com>",
       "Website": "https://rustdesk.com",
@@ -519,22 +535,6 @@
       "Website": "https://www.phytium.com.cn/developer/39/",
       "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt/screen_3.png\"]"
-    },
-    {
-      "Author": "onehub",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "chat.deepseek.com_1.0.0_all.deb",
-      "More": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-      "Name": "深度求索（DeepSeek）",
-      "Pkgname": "chat.deepseek.com",
-      "Size": "5 Kb",
-      "Tags": "community;deepin;ubuntu;debian",
-      "Torrent_address": "chat.deepseek.com_1.0.0_all.deb.torrent",
-      "Update": "2025-03-25 18:29:41",
-      "Version": "1.0.0",
-      "Website": "https://bbs.spark-app.store/u/onehub",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/screen_1.png\"]"
     },
     {
       "Author": "qihoo360 company <support@360.cn>",
@@ -586,22 +586,6 @@
     },
     {
       "Author": "zinface <zinface@163.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb",
-      "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
-      "Name": "Android - adb/fastboot 测试工具",
-      "Pkgname": "android-adb-fastboot-tools",
-      "Size": "138 Kb",
-      "Tags": "community;debian;deepin;ubuntu;native",
-      "Torrent_address": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb.torrent",
-      "Update": "2023-03-08 22:30:34",
-      "Version": "0.3.2-20230308",
-      "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
-    },
-    {
-      "Author": "zinface <zinface@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "spark-store-submitter_1.5.7.4-20250614_arm64.deb",
       "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n",
@@ -615,6 +599,22 @@
       "Website": "https://gitee.com/spark-store-project",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_5.png\"]"
+    },
+    {
+      "Author": "zinface <zinface@163.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb",
+      "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
+      "Name": "Android - adb/fastboot 测试工具",
+      "Pkgname": "android-adb-fastboot-tools",
+      "Size": "138 Kb",
+      "Tags": "community;debian;deepin;ubuntu;native",
+      "Torrent_address": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb.torrent",
+      "Update": "2023-03-08 22:30:34",
+      "Version": "0.3.2-20230308",
+      "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
     },
     {
       "Author": "DebuggerX <dx8913712@163.com>",
@@ -840,6 +840,22 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_4.png\"]"
     },
     {
+      "Author": "gfdgd_xi <3025613752@qq.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
+      "More": "GXDE 软件包安装器",
+      "Name": "GXDE 软件包安装器",
+      "Pkgname": "gxde-deb-installer",
+      "Size": "183 Kb",
+      "Tags": "community;deepin;ubuntu;debian;native",
+      "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
+      "Update": "2025-03-04 22:34:10",
+      "Version": "1.5.3",
+      "Website": "https://www.deepin.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
+    },
+    {
       "Author": "zinface <zinface@163.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "z-tools-scanport_0.1-20230129_arm64.deb",
@@ -870,22 +886,6 @@
       "Website": "https://www.yuque.com/mvip9k",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/top.yzzi.supertabbar/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/top.yzzi.supertabbar/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/top.yzzi.supertabbar/screen_2.png\"]"
-    },
-    {
-      "Author": "gfdgd_xi <3025613752@qq.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
-      "More": "GXDE 软件包安装器",
-      "Name": "GXDE 软件包安装器",
-      "Pkgname": "gxde-deb-installer",
-      "Size": "183 Kb",
-      "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
-      "Update": "2025-03-04 22:34:10",
-      "Version": "1.5.3",
-      "Website": "https://www.deepin.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
     },
     {
       "Author": "zty199 <zty2864@gmail.com>",
@@ -2332,22 +2332,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/panda-dock/screen_2.png\"]"
     },
     {
-      "Author": "3025613752 <3025613752@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb",
-      "More": "《 有兽焉 》（Fabulous Beasts）是一部由非人哉工作室出品的姊妹篇漫画，作者为靴下猫腰子。该漫画主要讲述天上神兽前往人间的生活，目前在其官方渠道连载。作品中登场的主人公们是一群“兽”，因为各种原因下凡。作品中的角色和《非人哉》《万圣街》也偶尔有互动。\n壁纸来源：bilibili.com/video/BV1BP41177ec\n字体来源：https://www.hanyi.com.cn/productdetail?id=13066&type=0",
-      "Name": "有兽焉主题（壁纸+字体）",
-      "Pkgname": "com.uniontech.theme.fabulous.beasts",
-      "Size": "14 Mb",
-      "Tags": "deepin;uos;debian;native",
-      "Torrent_address": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb.torrent",
-      "Update": "2023-06-24 12:30:25",
-      "Version": "1.0.0",
-      "Website": "https://www.bilibili.com/bangumi/media/md28235647",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_4.png\"]"
-    },
-    {
       "Author": "gfdgd_xi <3025613752@qq.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "windows7-wallpapers_1.0.0-1_all.deb",
@@ -2362,6 +2346,22 @@
       "Website": "https://gitee.com/gfdgd-xi/windows7-wallpapers",
       "icons": "https://spk-json.spark-app.store/aarch64-store/themes/windows7-wallpapers/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/windows7-wallpapers/screen_1.png\"]"
+    },
+    {
+      "Author": "3025613752 <3025613752@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb",
+      "More": "《 有兽焉 》（Fabulous Beasts）是一部由非人哉工作室出品的姊妹篇漫画，作者为靴下猫腰子。该漫画主要讲述天上神兽前往人间的生活，目前在其官方渠道连载。作品中登场的主人公们是一群“兽”，因为各种原因下凡。作品中的角色和《非人哉》《万圣街》也偶尔有互动。\n壁纸来源：bilibili.com/video/BV1BP41177ec\n字体来源：https://www.hanyi.com.cn/productdetail?id=13066&type=0",
+      "Name": "有兽焉主题（壁纸+字体）",
+      "Pkgname": "com.uniontech.theme.fabulous.beasts",
+      "Size": "14 Mb",
+      "Tags": "deepin;uos;debian;native",
+      "Torrent_address": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb.torrent",
+      "Update": "2023-06-24 12:30:25",
+      "Version": "1.0.0",
+      "Website": "https://www.bilibili.com/bangumi/media/md28235647",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_4.png\"]"
     },
     {
       "Author": "Deepin Packages Builder <packages@deepin.com>",
@@ -2700,22 +2700,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao/screen_1.png\"]"
     },
     {
-      "Author": "shenmo",
-      "Contributor": "shenmo",
-      "Filename": "oreo-teal-cursors_1.0_all.deb",
-      "More": "OREO 茶韵光标主题～",
-      "Name": "OREO 茶韵 光标主题",
-      "Pkgname": "oreo-teal-cursors",
-      "Size": "53 Kb",
-      "Tags": "native",
-      "Torrent_address": "oreo-teal-cursors_1.0_all.deb.torrent",
-      "Update": "2024-12-23 13:00:13",
-      "Version": "1.0",
-      "Website": "http://mc.shenmo.tech/",
-      "icons": "https://spk-json.spark-app.store/loong64-store/themes/oreo-teal-cursors/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/themes/oreo-teal-cursors/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/themes/oreo-teal-cursors/screen_2.png\"]"
-    },
-    {
       "Author": "sgb76",
       "Contributor": "sgb76",
       "Filename": "bibata-cursors_1.0_all.deb",
@@ -2730,6 +2714,22 @@
       "Website": "sgb76@163.com",
       "icons": "https://spk-json.spark-app.store/loong64-store/themes/bibata-cursors/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/themes/bibata-cursors/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/themes/bibata-cursors/screen_2.png\"]"
+    },
+    {
+      "Author": "shenmo",
+      "Contributor": "shenmo",
+      "Filename": "oreo-teal-cursors_1.0_all.deb",
+      "More": "OREO 茶韵光标主题～",
+      "Name": "OREO 茶韵 光标主题",
+      "Pkgname": "oreo-teal-cursors",
+      "Size": "53 Kb",
+      "Tags": "native",
+      "Torrent_address": "oreo-teal-cursors_1.0_all.deb.torrent",
+      "Update": "2024-12-23 13:00:13",
+      "Version": "1.0",
+      "Website": "http://mc.shenmo.tech/",
+      "icons": "https://spk-json.spark-app.store/loong64-store/themes/oreo-teal-cursors/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/themes/oreo-teal-cursors/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/themes/oreo-teal-cursors/screen_2.png\"]"
     },
     {
       "Author": "meimengzhen <meimengzhen@uniontech.com>",
@@ -4286,15 +4286,15 @@
     {
       "Author": "service@wind.com.cn",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.wind.wft_25.1.2.05281_arm64.deb",
+      "Filename": "com.wind.wft_25.1.3.06171_arm64.deb",
       "More": "Wind金融终端是一款面向金融专业人士提供金融数据、信息资讯、分析工具、组合管理和协作交流于一体的一站式工作平台，目前在全球拥有数十万实名认证的金融机构从业用户使用。Wind金融终端于本世纪初面市，经过长达二十年的持续选代及打磨，数十亿软件研发投入，以其丰富的内容、强大的功能和卓越的服务，已经成为投资研究中国和全球资本市场的必备选择，获得各类用户的广泛费誉。\nWind金融终端数据内容涵盖股票、债券、商品、外汇、基金、指数、衍生品等数百万金融产品，数据历史最早追溯至1896年，提供千万级指标科目及PB级数据存储量的海量信息，几乎涵盖所有金融数据。Wind金融终端服务于资产管理、投资银行、财富管理、产业投资、市场监管、学术研究等各类型业务；客户包括商业银行、证券公司、保险保险、资产管理公司、上市公司、金融监管机构、各类政府机构、财经媒体等几乎所有参与或关注资本市场的机构或企业。Wind\n金融终端支持全周期服务，用户可以7×24×365获取到及时、准确、完整的财经数据、信息和各种分析结果，以及VIP级别的客户服务。Wind金融终端支持全平台通道，用户可以随时随地通过Windows、Mac、Linux、银河麒麟、统信UOS、手机端或Pad端获取最新的信息。\n获取试用账号或咨询请联系我们400-820-9463或service@wind.com.cn。",
       "Name": "Wind万得金融终端",
       "Pkgname": "com.wind.wft",
-      "Size": "326 Mb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "com.wind.wft_25.1.2.05281_arm64.deb.torrent",
-      "Update": "2025-06-01 11:02:47",
-      "Version": "25.1.2.05281",
+      "Size": "327 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.wind.wft_25.1.3.06171_arm64.deb.torrent",
+      "Update": "2025-06-28 19:25:44",
+      "Version": "25.1.3.06171",
       "Website": "http://www.wind.com.cn",
       "icons": "https://spk-json.spark-app.store/aarch64-store/others/com.wind.wft/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/others/com.wind.wft/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/others/com.wind.wft/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/others/com.wind.wft/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/others/com.wind.wft/screen_4.png\"]"
@@ -5021,22 +5021,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_3.png\"]"
     },
     {
-      "Author": "shenmo<shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "fairdyne_1.5.1_all.deb",
-      "More": "安黛因模拟战，UT厨狂喜\n端口38324将在游戏运行期间被占用",
-      "Name": "安黛因模拟战",
-      "Pkgname": "fairdyne",
-      "Size": "27 Mb",
-      "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
-      "Torrent_address": "fairdyne_1.5.1_all.deb.torrent",
-      "Update": "2023-03-12 10:11:35",
-      "Version": "1.5.1",
-      "Website": "https://github.com/joezeng/fairdyne",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/screen_1.png\"]"
-    },
-    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb",
@@ -5051,6 +5035,22 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo<shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "fairdyne_1.5.1_all.deb",
+      "More": "安黛因模拟战，UT厨狂喜\n端口38324将在游戏运行期间被占用",
+      "Name": "安黛因模拟战",
+      "Pkgname": "fairdyne",
+      "Size": "27 Mb",
+      "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
+      "Torrent_address": "fairdyne_1.5.1_all.deb.torrent",
+      "Update": "2023-03-12 10:11:35",
+      "Version": "1.5.1",
+      "Website": "https://github.com/joezeng/fairdyne",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/screen_1.png\"]"
     },
     {
       "Author": "nillerusr",
@@ -5405,6 +5405,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_5.png\"]"
     },
     {
+      "Author": "苟利国家生死以",
+      "Contributor": "苟利国家生死以",
+      "Filename": "web-taikonfts.4everland.link-onscript.galgameonline_1.0_all.deb",
+      "More": "基于ONScript引擎，可以跨平台在线玩仓库内存放的galgame。",
+      "Name": "galgame在线玩",
+      "Pkgname": "web-taikonfts.4everland.link-onscript.galgameonline",
+      "Size": "65 Kb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "web-taikonfts.4everland.link-onscript.galgameonline_1.0_all.deb.torrent",
+      "Update": "2025-06-04 16:22:06",
+      "Version": "1.0",
+      "Website": "",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/screen_2.png\"]"
+    },
+    {
       "Author": "cht <111>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.scarletweatherrhapsody.deepin_1.1_all.deb",
@@ -5435,22 +5451,6 @@
       "Website": "https://www.falcom.co.jp/",
       "icons": "https://spk-json.spark-app.store/store/games/com.falcom.ys2.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/games/com.falcom.ys2.deepin/screen_1.png\",\"https://spk-json.spark-app.store/store/games/com.falcom.ys2.deepin/screen_2.png\",\"https://spk-json.spark-app.store/store/games/com.falcom.ys2.deepin/screen_3.png\"]"
-    },
-    {
-      "Author": "苟利国家生死以",
-      "Contributor": "苟利国家生死以",
-      "Filename": "web-taikonfts.4everland.link-onscript.galgameonline_1.0_all.deb",
-      "More": "基于ONScript引擎，可以跨平台在线玩仓库内存放的galgame。",
-      "Name": "galgame在线玩",
-      "Pkgname": "web-taikonfts.4everland.link-onscript.galgameonline",
-      "Size": "65 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "web-taikonfts.4everland.link-onscript.galgameonline_1.0_all.deb.torrent",
-      "Update": "2025-06-04 16:22:06",
-      "Version": "1.0",
-      "Website": "",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/screen_2.png\"]"
     }
   ],
   [
@@ -7292,22 +7292,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/qaxbrowser-safe-stable/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/qaxbrowser-safe-stable/screen_2.png\"]"
     },
     {
-      "Author": "wang",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.pdftodocx.deepin_1.1-2_all.deb",
-      "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
-      "Name": "PDF to DOCX 转换器",
-      "Pkgname": "com.pdftodocx.deepin",
-      "Size": "78 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "com.pdftodocx.deepin_1.1-2_all.deb.torrent",
-      "Update": "2025-02-09 01:12:33",
-      "Version": "1.1-2",
-      "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
-      "icons": "https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_1.png\",\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_2.png\"]"
-    },
-    {
       "Author": "CMSS",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.cmss.saas.ecloudcomputer_3.6.4.0_arm64.deb",
@@ -7322,6 +7306,22 @@
       "Website": "https://ecloud.10086.cn",
       "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.cmss.saas.ecloudcomputer/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.cmss.saas.ecloudcomputer/screen_1.png\"]"
+    },
+    {
+      "Author": "wang",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.pdftodocx.deepin_1.1-2_all.deb",
+      "More": "PDF to DOCX 转换器是个PDF转成Word的转换器，这是吾爱大佬开发的，有非常多的人使用，软件界面非常简单。软件转换过程没有进度显示，只有转换完了才会有提示，它不支持纯图片的PDF，对表格等格式的转换效果非常好。",
+      "Name": "PDF to DOCX 转换器",
+      "Pkgname": "com.pdftodocx.deepin",
+      "Size": "78 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "com.pdftodocx.deepin_1.1-2_all.deb.torrent",
+      "Update": "2025-02-09 01:12:33",
+      "Version": "1.1-2",
+      "Website": "https://www.52pojie.cn/thread-1799014-1-1.html",
+      "icons": "https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_1.png\",\"https://spk-json.spark-app.store/store/network/com.pdftodocx.deepin/screen_2.png\"]"
     },
     {
       "Author": "xretia <webmaster@xretia.labs>",
@@ -9102,15 +9102,15 @@
     {
       "Author": "Deepin WINE Team",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.foxmail.deepin_7.2.25.228deepin18_arm64.deb",
+      "Filename": "com.foxmail.deepin_7.2.25.375deepin6_arm64.deb",
       "More": "Foxmail是一款电子邮件客户端软件，提供基于Internet标准的电子邮件收发、数字签名和加密、本地邮箱邮件搜索及强大的反垃圾邮件等多项功能。Foxmail致力于为您提供更便捷、更舒适的使用体验。",
       "Name": "Foxmail（Wine）",
       "Pkgname": "com.foxmail.deepin",
-      "Size": "136 Mb",
+      "Size": "152 Mb",
       "Tags": "deepin;uos;ubuntu;debian;dwine5",
-      "Torrent_address": "com.foxmail.deepin_7.2.25.228deepin18_arm64.deb.torrent",
-      "Update": "2025-05-15 22:23:21",
-      "Version": "7.2.25.228deepin18",
+      "Torrent_address": "com.foxmail.deepin_7.2.25.375deepin6_arm64.deb.torrent",
+      "Update": "2025-06-28 19:24:49",
+      "Version": "7.2.25.375deepin6",
       "Website": "https://www.foxmail.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/chat/com.foxmail.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/com.foxmail.deepin/screen_1.png\"]"

@@ -4031,6 +4031,24 @@ SHA512: 91459d962ed15ef507d2086edc7b9a93947c1b2efc423a03eec4ec2da51a97c161078b65
 Homepage: https://huorong.cn
 Description: 火绒终端安全管理系统
 
+Package: cn.huorong.esm
+Architecture: arm64
+Version: 2.0.10.3
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
+Installed-Size: 85981
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_arm64.deb
+Size: 34478030
+MD5sum: bc5f29ac182119c655232de662efa50e
+SHA1: 0af8e3414a3c7ab5039d91a8027b5b705fcabaa9
+SHA256: 1d3daa99ccf82a42974f217e0f5b468c0c3977d1988b9d6295f2a48e38f15c45
+SHA512: 2ec42527d319702089380338905bba09a6d265d06a4fdd978ad6001d843b243d3acb195dfa1b81baaa18d93c44ec449d1125a1aeaaf6e2dfd85f26bcac542c9b
+Homepage: https://huorong.cn
+Description: 火绒终端安全管理系统
+
 Package: gxde-terminal
 Architecture: arm64
 Version: 5.0.5
@@ -7634,6 +7652,22 @@ MD5sum: 773f26e08d001f9ae23d36e52cf59671
 SHA1: e018c71c6225aca91fa4334dd0b55fd23a7eb59f
 SHA256: d629af959370a74f878dcee5838a317d698f1b910ade7fa063c318ec6a6f81ca
 SHA512: c650ba09e9c8aad886642e859d9c1bb5d1821406ff1da152ac2102225d5a4a7c056b5d5b50ad82fde5f0526a48bddfbbc12b209391cf94d22c616e913574bd0c
+Homepage: http://www.wind.com.cn
+Description: Wind-领先的金融数据和分析工具服务商
+
+Package: com.wind.wft
+Architecture: arm64
+Version: 25.1.3.06171
+Priority: optional
+Section: utils
+Maintainer: service@wind.com.cn
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./others/com.wind.wft/com.wind.wft_25.1.3.06171_arm64.deb
+Size: 327440606
+MD5sum: d65a4fb04af00099cb829f97e83dfbae
+SHA1: 74088fb2cda98e1a0a08819452fe7eb95586a618
+SHA256: 21a6163e05c2aabe660f83c136e7210dd78d011373f7b799785a02df6c6373a3
+SHA512: 197fb010005cf609a70bb54a5f61080cf94bb5fcd852c5337787f5c8a3eb417584719d1bbabde3c409ba18a14acd11cb221c951698c42548b6e2ef9fbaab2a9c
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
 
@@ -12839,6 +12873,23 @@ SHA256: 810779e2cb8bd8cf14f91b2404a0f5f50045aab3d6e65cebb26cac03d52244c2
 SHA512: bd34187e92d9cf1debd47473ab1b4b623527ef210c73a7b8120e5af906f36c0605966872b9a12eabaebbcd47051a995788063fa19eff8290b98048fe8fc78595
 Homepage: https//www.youdu.cn/
 Description: 有度即时通
+
+Package: com.foxmail.deepin
+Architecture: arm64
+Version: 7.2.25.375deepin6
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 177675
+Depends: deepin-wine8-stable (>= 8.16deepin40), com.wine-helper.deepin (>= 5.4.1-1), deepin-box64 (>= 0.3.2deepin5-1), exagear-utils (>= 3336.2), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./chat/com.foxmail.deepin/com.foxmail.deepin_7.2.25.375deepin6_arm64.deb
+Size: 152088506
+MD5sum: c441db239a73cf5aa2e6a1a55fd01d50
+SHA1: 595f3a53d3d92c0ef0d2b13276e38e7424364017
+SHA256: eba15030373421fedb9608ee85337fba5e78e895ff6fc1c8379ec9685c6cbeca
+SHA512: 245926519090e96742613af694d4eb360fdc33d9c53dd58c3000383af1ab72786cd792d94409e22523e0a0a337bb772848c3a8e484acd1737f2163b974d890e2
+Description: Foxmail Client on Deepin Wine8
 
 Package: com.foxmail.deepin
 Architecture: arm64

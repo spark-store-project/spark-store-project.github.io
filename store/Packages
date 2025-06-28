@@ -6076,26 +6076,6 @@ SHA512: 251f8238aeb4dde6dabe5a834b80c0effe236bf4aea73ae44a904c5a3378a9c289e85e8f
 Homepage: https://github.com/sonichy/HTYClock
 Description: 由gfdgd xi打包的一个海天鹰时钟
 
-Package: com.seewo.easinote5
-Architecture: amd64
-Version: 5.2.1.0.7942.2a6
-Priority: extra
-Section: default
-Maintainer: liushaojie <liushaojie@cvte.com>
-Installed-Size: 374833
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils,
-  libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
-Filename: ./tools/com.seewo.easinote5/com.seewo.easinote5_5.2.1.0.7942.2a6_amd64.deb
-Size: 153667692
-MD5sum: c1a678eab9088b2928c3bec03f2ec0ad
-SHA1: bda2f56bb3a09f50b5a22d20a08b17eb0ebb2c14
-SHA256: 73bd40c668a43b43f266f3af89fca20008dd15c5ce1cbff0a59d894f5f6bbab7
-SHA512: c6753a4f1334bc1776e056dd18e30413aed4ada5d544f77a37137cbcb6f124429334a6ebb02a700b9445e7d7df63ff441c032e461c8ef5b3957decc2ed943473
-Homepage: https://gitlab.gz.cvte.cn/front-end/enow-cloud
-Description: EasiNote5 for Linux
-License: MIT
-Vendor: liushaojie <liushaojie@cvte.com>
-
 Package: wps-optimizer
 Architecture: all
 Version: 3.3
@@ -8880,17 +8860,17 @@ Vendor: Mediocre Company <hi@chatboxai.com>
 
 Package: chatbox-deepin
 Architecture: all
-Version: 1.9.8-1
+Version: 1.9.8+1
 Priority: optional
 Section: misc
 Maintainer: shenmo <shenmo@spark-app.store>
-Depends: chatbox
-Filename: ./tools/xyz.chatboxapp.app/chatbox-deepin_1.9.8-1_all.deb
+Depends: xyz.chatboxapp.ce
+Filename: ./tools/xyz.chatboxapp.app/chatbox-deepin_1.9.8+1_all.deb
 Size: 712
-MD5sum: e7069db3c3f858cf9f7f028fd2bb1bae
-SHA1: 6947e972c850cb26390f2428221ac22731541750
-SHA256: 86f62c8a732d38574dd85ce9dee76bfa5f107207150d060f447b9396b76f13c8
-SHA512: e29d5ceacf984d30d8e3b253de7f6305338929cd542c987f055b357cc9cddea582eecf7e48a4a8fae45290d1aab723b9f63df333d2649243493028b7e4e8fe51
+MD5sum: 78f4b2bea5416be507430aeca2b1a71b
+SHA1: b63ecc2364805a1e2efbe6817eb52d2685ecb65e
+SHA256: 707151b4df2f5ec940d98123de935f98075bc0bedd5ec73d58a11e3a8097602a
+SHA512: e63878c49f83e70b58de6db8f9a564b331c53e60cd30b99f9ad84aae80867c3189859130c68c7e6d336037c8178a7c9f926c6f5ee123e61257ae9bbb7e2923e7
 Description: Transaction package to chatbox
 
 Package: piclist
@@ -21288,22 +21268,22 @@ Description: cloudar-electron
 
 Package: xmcl
 Architecture: amd64
-Version: 0.46.1-947
+Version: 0.51.1-1142
 Priority: optional
 Section: default
 Maintainer: ci010 <cijhn@hotmail.com>
-Installed-Size: 285280
+Installed-Size: 288883
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./games/xmcl/xmcl_0.46.1-947_amd64.deb
-Size: 79787244
-MD5sum: f18843294cd7b5a6ce8c430632877dd3
-SHA1: 15238a3ef51791e9291d5daae2590b1dd2e88fe7
-SHA256: 69e9fc03b3696b1d75e66534f71298f789c69ea14342e342911cba1844dddb10
-SHA512: 4a135d4dd5af3da0d50596b4d8371b4fcc63c179af64835843bc9c0e2ec48b98f29f61d2cbc1069c61ed8d65bd4757e72adf8e1658092f4ff2ec74b039be9fea
+Filename: ./games/xmcl/xmcl_0.51.1-1142_amd64.deb
+Size: 80410706
+MD5sum: 1bdbd405818603b0626b79a2c49b1f53
+SHA1: 6a6d9b49905633c83ff00f70cd6017583ea0256c
+SHA256: bd39e9560c08e2ede0f7578e060db315291cc4ae8f76bfc403d53a3c92292fde
+SHA512: 339d0bd93c198dec1254bde69cb784c101fbf24f9b6b0fc891924ef94a1aea6b159c26ae48adea55cc4a5156404628b441f07c97134f04aa57d5943b597acd38
 Homepage: https://github.com/voxelum/x-minecraft-launcher#readme
 Description: 
-  A great minecraft launcher in the future
+  X Minecraft Launcher - A modern Minecraft launcher
 License: MIT
 Vendor: ci010 <cijhn@hotmail.com>
 
@@ -22535,14 +22515,14 @@ Description: Fine Sweeper on Deepin Wine8
 
 Package: ryujinx
 Architecture: amd64
-Version: 1.1.1403
+Version: 1.3.2
 Maintainer: gdkchan
-Filename: ./games/ryujinx/ryujinx_1.1.1403_amd64.deb
-Size: 21436188
-MD5sum: e4fe4add0cef9cfa34a3cc59b6448ef0
-SHA1: d7a4411c532321350adb420679f44f446094c61a
-SHA256: ec7ffe2915120deea48bca4e26a5a3b23846e2edf78d71ec1976a72651d6aa5f
-SHA512: 4fc79fcc4c532899f22ddf422076be82eae96b3c8787fbbb2990116b41fbf5facb6deb9b92e651bb1e52caedb7cbbe3982577dd8d5e7f9bd22a74067d7829b01
+Filename: ./games/ryujinx/ryujinx_1.3.2_amd64.deb
+Size: 24791376
+MD5sum: 80616e61f67c50d2f5f097be500548a8
+SHA1: 9d2b0ac94e07370ef3f5016b9689f5aafd5c8164
+SHA256: e1a5952f9fc7c8c077e69bf4af296dc06538692ddf50533c54625e2583503936
+SHA512: eb953985dbf81c87c833c1c720ee2cc7c704f5dd18a94712ccd1320103c3b9d4f8b4deb0ce8f9561707ec5d17e3c798e8cbd7d63a1b48fd2f3d71604e6e36540
 Description: Ryujinx is an open-source Nintendo Switch Emulator created by gdkchan and written in C#.
 
 Package: com.goldminervegas.spark
@@ -27645,6 +27625,26 @@ Description: Elegant Microsoft To-Do desktop app (Ao fork)
   Kuro is an unofficial, featureful, open source, community-driven, free Microsoft To-Do app, used by people in more than 120 countries. (Ao fork)
 License: MIT
 Vendor: davidsmorais <david@dsmorais.com>
+
+Package: com.seewo.easinote5
+Architecture: arm64
+Version: 5.2.2.4.12816
+Priority: extra
+Section: editors
+Maintainer: liushaojie <liushaojie@cvte.com>
+Installed-Size: 374833
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils,
+  libatspi2.0-0, libuuid1, libappindicator3-1, libsecret-1-0
+Filename: ./office/com.seewo.easinote5/com.seewo.easinote5_5.2.2.4.12816_arm64.deb
+Size: 192617568
+MD5sum: 4e01ff468b8bea5e39bdbb6fc607c6b1
+SHA1: 88e033cf2e59f0a6ee2774cba88f68f2e527b8bd
+SHA256: 65b6d9912ae80b0c53980197a4bf48c24f1d274c14fe942e6fd105eb9e10a435
+SHA512: 9b2d4d572c4cc4f4e1ef691cc4f6ca7825860fb71c645fe0ce379b8b43e94d0ac55aec2da311dfee8f63c7960021437388744207e350e6ccb351964fedf1a792
+Homepage: https://gitlab.gz.cvte.cn/front-end/enow-cloud
+Description: EasiNote5 for Linux
+Vendor: liushaojie <liushaojie@cvte.com>
+X-Package-System: all
 
 Package: think
 Architecture: amd64
@@ -35415,11 +35415,11 @@ Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
 Filename: ./network/firefox-spark/firefox-spark_140.0.2_amd64.deb
-Size: 77749136
-MD5sum: 2f1136f42231c531f08bb51ffaa9eeba
-SHA1: 3433cdd5085aab5eb8d851655f1a32f532635ae4
-SHA256: 70386af65b99f4a8a159a70b3929467769de17243a607c9d7ce73d7d37209730
-SHA512: d773d681b02085a7530ab387a9d4687ae1a06a2b041426338d2f228d8264f14467965ba5640ad391b0b7223fec758aebdd6e79e2bf7b68ce68b030132af63bcf
+Size: 77746620
+MD5sum: a19e34be4b53c4e68705eb83a5ac5342
+SHA1: 1527bdeb8cbf718adce6656f56c9b18ef1ba3a71
+SHA256: 1f28e5a2b804468701471992f8d4ae8f29e7ab46154c43053d3beb1018b72639
+SHA512: fa315f732026f43988250d9f0baaead84a90ec9064c6fe52372b5c14f222fe62f91a02a0bdcb9e745a9f9c5a98582aa4b0982266b542aad541b383d1f5e16ab2
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
