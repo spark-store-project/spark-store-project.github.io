@@ -2988,19 +2988,19 @@ Description: 基于 Qt 的微型屏幕涂鸦程序
 
 Package: linglong-store
 Architecture: arm64
-Version: 1.3.6
+Version: 1.4.0
 Priority: optional
 Section: default
 Maintainer: Jokul <986432015@qq.com>
-Installed-Size: 323682
+Installed-Size: 323835
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: linglong-bin, linglong-box
-Filename: ./tools/linglong-store/linglong-store_1.3.6_arm64.deb
-Size: 72340798
-MD5sum: bb90b1fad2df7ed513fac00b2aa5cace
-SHA1: 3663299eefb28334233988a5e33d6767d18ebc7f
-SHA256: 06d2ca68d6a67a195604ae4118ab0167c7efd38975afa0310bf255734bc9de45
-SHA512: 32bb70c3e48aad3940095174bd2e2ee540621523e95860c65ea4c24649f98055395658f24178ad41b862c4b32dc73e7fb765c027fad11ba042f7ddcf6a0ec721
+Filename: ./tools/linglong-store/linglong-store_1.4.0_arm64.deb
+Size: 72837622
+MD5sum: 336341507dc4a6a9cb6324e86e102118
+SHA1: 91fc83753d42ebafc27796b3bdf37e1d11887382
+SHA256: f05aba85493e375ecc3df0db7ad4e9fcec572deb9f02853fa09424ac3bb8be56
+SHA512: 721f3be35952ce7f2d8ccbc1c45e4048cf9e88c8b960dd5d37bf1269d189fafbcdc78a8a1ef17534b3568049fc1d3607091e45013173407180126e79961587da
 Homepage: https://github.com/GershonWang/linglong-store
 Description: 
   简易式玲珑商店客户端
@@ -4012,24 +4012,6 @@ Homepage: http://tav.qq.com
 Description: Tencent QQPCMgr Installer
 License: commercial
 Vendor: tav@tencent.com
-
-Package: cn.huorong.esm
-Architecture: arm64
-Version: 2.0.10.1
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
-Installed-Size: 85957
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: ./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.1_arm64.deb
-Size: 34767226
-MD5sum: 302e9425074e91ae793eb74f98468399
-SHA1: b1c43585fdb53f8ae8bc72b61f817f1ce5a93338
-SHA256: 864d6d4de714ffdffbd476e084d935e2b05370649c8ac24d8bdf54411bcb0249
-SHA512: 91459d962ed15ef507d2086edc7b9a93947c1b2efc423a03eec4ec2da51a97c161078b656077ef97744e8832b8b58dabf01bf74e44af484b288af25bdeded573
-Homepage: https://huorong.cn
-Description: 火绒终端安全管理系统
 
 Package: cn.huorong.esm
 Architecture: arm64
@@ -7638,22 +7620,6 @@ Description: include an open-source Chinese GB2312 font "Smiley Sans" (得意黑
   * 根据 SIL Open Font License 1.1 的规定， 禁止单独出售字体文件(OTF/TTF文件)
  的行为。
   * 该字体不可在 SIL Open Font License 1.1 以外的授权许可下发行。
-
-Package: com.wind.wft
-Architecture: arm64
-Version: 25.1.2.05281
-Priority: optional
-Section: utils
-Maintainer: service@wind.com.cn
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: ./others/com.wind.wft/com.wind.wft_25.1.2.05281_arm64.deb
-Size: 326703282
-MD5sum: 773f26e08d001f9ae23d36e52cf59671
-SHA1: e018c71c6225aca91fa4334dd0b55fd23a7eb59f
-SHA256: d629af959370a74f878dcee5838a317d698f1b910ade7fa063c318ec6a6f81ca
-SHA512: c650ba09e9c8aad886642e859d9c1bb5d1821406ff1da152ac2102225d5a4a7c056b5d5b50ad82fde5f0526a48bddfbbc12b209391cf94d22c616e913574bd0c
-Homepage: http://www.wind.com.cn
-Description: Wind-领先的金融数据和分析工具服务商
 
 Package: com.wind.wft
 Architecture: arm64
@@ -12890,23 +12856,6 @@ SHA1: 595f3a53d3d92c0ef0d2b13276e38e7424364017
 SHA256: eba15030373421fedb9608ee85337fba5e78e895ff6fc1c8379ec9685c6cbeca
 SHA512: 245926519090e96742613af694d4eb360fdc33d9c53dd58c3000383af1ab72786cd792d94409e22523e0a0a337bb772848c3a8e484acd1737f2163b974d890e2
 Description: Foxmail Client on Deepin Wine8
-
-Package: com.foxmail.deepin
-Architecture: arm64
-Version: 7.2.25.228deepin18
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: Deepin WINE Team
-Installed-Size: 136263
-Depends: com.deepin-wine6-stable.deepin (>= 6.0.0.68),  com.wine-helper.deepin (>= 5.3.8-1),  fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
-Filename: ./chat/com.foxmail.deepin/com.foxmail.deepin_7.2.25.228deepin18_arm64.deb
-Size: 136259102
-MD5sum: de706e0881980f72ffe82333af55ae64
-SHA1: cc9ebbd8cf2f4a8512322b3235d5b904e8ab4a25
-SHA256: 0ed65855d4599fdcc64e8a0718e9681f2d9ae01839e8eefdec836af184dbec37
-SHA512: e3c3e17cf9aff6a50f0dbc1bc910f16a1a8f221353214eb04675f785a42e24f8a91023310db4865e33c6e011e2f09997c94abf6efd605aff30afcf598a317ec9
-Description: Foxmail Client on Deepin Wine6
 
 Package: gzb
 Architecture: arm64

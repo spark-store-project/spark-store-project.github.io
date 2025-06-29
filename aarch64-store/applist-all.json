@@ -101,12 +101,12 @@
       "Author": "Jokul <986432015@qq.com>",
       "Website": "https://github.com/GershonWang/linglong-store",
       "More": "Jokul自制简易式玲珑商店客户端，是玲珑官方SIG项目之一,使用过程中出现BUG，请在商店关于内问题反馈，或者在作者得github或者gitee上留issue，谢谢！",
-      "Tags": "debian;community;ubuntu;deepin;native",
+      "Tags": "debian;community;ubuntu;deepin",
       "Pkgname": "linglong-store",
-      "Version": "1.3.6",
-      "Filename": "linglong-store_1.3.6_arm64.deb",
-      "Update": "2025-05-27 01:38:07",
-      "Size": "72.34MB",
+      "Version": "1.4.0",
+      "Filename": "linglong-store_1.4.0_arm64.deb",
+      "Update": "2025-06-30 01:40:15",
+      "Size": "72.84MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -586,22 +586,6 @@
     },
     {
       "Author": "zinface <zinface@163.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "spark-store-submitter_1.5.7.4-20250614_arm64.deb",
-      "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n",
-      "Name": "星火商店投稿器",
-      "Pkgname": "spark-store-submitter",
-      "Size": "2859 Kb",
-      "Tags": "community;deepin;ubuntu;debian",
-      "Torrent_address": "spark-store-submitter_1.5.7.4-20250614_arm64.deb.torrent",
-      "Update": "2025-06-14 15:33:38",
-      "Version": "1.5.7.4-20250614",
-      "Website": "https://gitee.com/spark-store-project",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_5.png\"]"
-    },
-    {
-      "Author": "zinface <zinface@163.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "android-adb-fastboot-tools_0.3.2-20230308_arm64.deb",
       "More": "基于 adb/fastboot 命令的图形化工具，可用于简单的基于 AOSP 镜像刷机测试",
@@ -615,6 +599,22 @@
       "Website": "https://gitee.com/zinface/qt.android-adb-fastboot-tools",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/android-adb-fastboot-tools/screen_4.png\"]"
+    },
+    {
+      "Author": "zinface <zinface@163.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "spark-store-submitter_1.5.7.4-20250614_arm64.deb",
+      "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n",
+      "Name": "星火商店投稿器",
+      "Pkgname": "spark-store-submitter",
+      "Size": "2859 Kb",
+      "Tags": "community;deepin;ubuntu;debian",
+      "Torrent_address": "spark-store-submitter_1.5.7.4-20250614_arm64.deb.torrent",
+      "Update": "2025-06-14 15:33:38",
+      "Version": "1.5.7.4-20250614",
+      "Website": "https://gitee.com/spark-store-project",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_5.png\"]"
     },
     {
       "Author": "DebuggerX <dx8913712@163.com>",
@@ -1048,22 +1048,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_3.png\"]"
     },
     {
-      "Author": "spark-store",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "cherry-studio_1.4.2_arm64.deb",
-      "More": "支持多模型服务的 Windows/macOS/Linux GPT 客户端\n\n2025.2.2\n修复了之前Appimage转deb的桌面图标bug\n重新整理了软件目录，没有那啥squashfs了",
-      "Name": "Cherry Studio",
-      "Pkgname": "cherry-studio",
-      "Size": "89 Mb",
-      "Tags": "community;deepin;ubuntu;debian",
-      "Torrent_address": "cherry-studio_1.4.2_arm64.deb.torrent",
-      "Update": "2025-06-14 22:38:19",
-      "Version": "1.4.2",
-      "Website": "https://cherry-ai.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_3.png\"]"
-    },
-    {
       "Author": "Rekols <rekols@foxmail.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "gxde-system-assistant_0.9.4_arm64.deb",
@@ -1078,6 +1062,22 @@
       "Website": "https://gitee.com/GXDE-OS/gxde-system-assistant",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_4.png\"]"
+    },
+    {
+      "Author": "spark-store",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "cherry-studio_1.4.2_arm64.deb",
+      "More": "支持多模型服务的 Windows/macOS/Linux GPT 客户端\n\n2025.2.2\n修复了之前Appimage转deb的桌面图标bug\n重新整理了软件目录，没有那啥squashfs了",
+      "Name": "Cherry Studio",
+      "Pkgname": "cherry-studio",
+      "Size": "89 Mb",
+      "Tags": "community;deepin;ubuntu;debian",
+      "Torrent_address": "cherry-studio_1.4.2_arm64.deb.torrent",
+      "Update": "2025-06-14 22:38:19",
+      "Version": "1.4.2",
+      "Website": "https://cherry-ai.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_3.png\"]"
     },
     {
       "Author": "shenmo<shenmo@spark-app.store>",
@@ -1397,6 +1397,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-building-service/screen_1.png\"]"
     },
     {
+      "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-boot-maker_2.0.5.2_arm64.deb",
+      "More": "可快速制作 GXDE OS / deepin / Ubuntu 启动盘",
+      "Name": "GXDE 启动盘制作工具",
+      "Pkgname": "gxde-boot-maker",
+      "Size": "846 Kb",
+      "Tags": "community;deepin;ubuntu;debian;native",
+      "Torrent_address": "gxde-boot-maker_2.0.5.2_arm64.deb.torrent",
+      "Update": "2025-03-04 22:33:51",
+      "Version": "2.0.5.2",
+      "Website": "http://gitee.com/GXDE-OS/gxde-boot-maker",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-boot-maker/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-boot-maker/screen_1.png\"]"
+    },
+    {
       "Author": "shenmo <shenmo@spark-app.stpre>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "autotrash-bash_1.2.0_all.deb",
@@ -1445,22 +1461,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/todesksos/screen_1.png\"]"
     },
     {
-      "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-boot-maker_2.0.5.2_arm64.deb",
-      "More": "可快速制作 GXDE OS / deepin / Ubuntu 启动盘",
-      "Name": "GXDE 启动盘制作工具",
-      "Pkgname": "gxde-boot-maker",
-      "Size": "846 Kb",
-      "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "gxde-boot-maker_2.0.5.2_arm64.deb.torrent",
-      "Update": "2025-03-04 22:33:51",
-      "Version": "2.0.5.2",
-      "Website": "http://gitee.com/GXDE-OS/gxde-boot-maker",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-boot-maker/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-boot-maker/screen_1.png\"]"
-    },
-    {
       "Author": "Beijing Rising Inc.",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.rising.antivirus.single_3.0.5.12_arm64.deb",
@@ -1493,6 +1493,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
     },
     {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
+      "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
+      "Name": "Barrier 键鼠共享软件",
+      "Pkgname": "store.spark-app.appwrapper.barrier",
+      "Size": "3 Kb",
+      "Tags": "community;uos;ubuntu;debian;native",
+      "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
+      "Update": "2025-02-14 21:54:41",
+      "Version": "2.4.0+dfsg-3",
+      "Website": "",
+      "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
+    },
+    {
       "Author": "Martijn van Brummelen <mvb@debian.org>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "grsync_1.3.0-1_arm64.deb",
@@ -1523,22 +1539,6 @@
       "Website": "https://cn.filegee.com/",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_2.png\"]"
-    },
-    {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
-      "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
-      "Name": "Barrier 键鼠共享软件",
-      "Pkgname": "store.spark-app.appwrapper.barrier",
-      "Size": "3 Kb",
-      "Tags": "community;uos;ubuntu;debian;native",
-      "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
-      "Update": "2025-02-14 21:54:41",
-      "Version": "2.4.0+dfsg-3",
-      "Website": "",
-      "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
     },
     {
       "Author": "gfdgd_xi <3025613752@qq.com>",
@@ -2204,22 +2204,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/nahida.cursors/screen_1.png\"]"
     },
     {
-      "Author": "kamizotoayaka <kamizotoayaka@163.com>",
-      "Contributor": "kamizotoayaka <kamizotoayaka@163.com>",
-      "Filename": "lumine.cursors_1.0.1_all.deb",
-      "More": "《原神》荧主题光标，作者为B站用户@唯溯（https://space.bilibili.com/436623402），deepin论坛用户@阿尼樱奈奈 转换为LInux主题可用光标。\n指针为免费分享，禁止商用；原Windows版指针有几个替代，这里没有用上。\n原指针分享视频网址：https://www.bilibili.com/video/BV11R4y1e7EL/",
-      "Name": "荧主题光标",
-      "Pkgname": "lumine.cursors",
-      "Size": "17 Kb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "lumine.cursors_1.0.1_all.deb.torrent",
-      "Update": "2024-11-16 16:11:19",
-      "Version": "1.0.1",
-      "Website": "https://space.bilibili.com/436623402",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/themes/lumine.cursors/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/lumine.cursors/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/themes/lumine.cursors/screen_2.png\"]"
-    },
-    {
       "Author": "liuminghang <liuminghang0821@gmail.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "fantascene-dynamic-wallpaper_1.9.8-1_arm64.deb",
@@ -2234,6 +2218,22 @@
       "Website": "http://github.com/dependon/fantascene-dynamic-wallpaper",
       "icons": "https://spk-json.spark-app.store/aarch64-store/themes/fantascene-dynamic-wallpaper/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/fantascene-dynamic-wallpaper/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/themes/fantascene-dynamic-wallpaper/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/themes/fantascene-dynamic-wallpaper/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/themes/fantascene-dynamic-wallpaper/screen_4.png\"]"
+    },
+    {
+      "Author": "kamizotoayaka <kamizotoayaka@163.com>",
+      "Contributor": "kamizotoayaka <kamizotoayaka@163.com>",
+      "Filename": "lumine.cursors_1.0.1_all.deb",
+      "More": "《原神》荧主题光标，作者为B站用户@唯溯（https://space.bilibili.com/436623402），deepin论坛用户@阿尼樱奈奈 转换为LInux主题可用光标。\n指针为免费分享，禁止商用；原Windows版指针有几个替代，这里没有用上。\n原指针分享视频网址：https://www.bilibili.com/video/BV11R4y1e7EL/",
+      "Name": "荧主题光标",
+      "Pkgname": "lumine.cursors",
+      "Size": "17 Kb",
+      "Tags": "deepin;uos;ubuntu;debian;native",
+      "Torrent_address": "lumine.cursors_1.0.1_all.deb.torrent",
+      "Update": "2024-11-16 16:11:19",
+      "Version": "1.0.1",
+      "Website": "https://space.bilibili.com/436623402",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/themes/lumine.cursors/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/lumine.cursors/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/themes/lumine.cursors/screen_2.png\"]"
     },
     {
       "Author": "zty199 <zty2864@gmail.com>",
@@ -2684,22 +2684,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/com.uniontech.theme2.zhonguofeng/screen_1.png\"]"
     },
     {
-      "Author": "咸粽子 <xianzongzi@aliyun.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
-      "More": "一个深度图形图标呼吸渐变的开机动画。安装后在终端中使用 sudo plymouth-set-default-theme deepin-ssd-tubiao -R 更换开机动画。",
-      "Name": "深度图标开机动画",
-      "Pkgname": "plymouth-theme-deepin-ssd-tubiao",
-      "Size": "28 Kb",
-      "Tags": "community;deepin;native",
-      "Torrent_address": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb.torrent",
-      "Update": "2023-03-07 22:07:32",
-      "Version": "0.0.1-1",
-      "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao/screen_1.png\"]"
-    },
-    {
       "Author": "sgb76",
       "Contributor": "sgb76",
       "Filename": "bibata-cursors_1.0_all.deb",
@@ -2714,6 +2698,22 @@
       "Website": "sgb76@163.com",
       "icons": "https://spk-json.spark-app.store/loong64-store/themes/bibata-cursors/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/themes/bibata-cursors/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/themes/bibata-cursors/screen_2.png\"]"
+    },
+    {
+      "Author": "咸粽子 <xianzongzi@aliyun.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb",
+      "More": "一个深度图形图标呼吸渐变的开机动画。安装后在终端中使用 sudo plymouth-set-default-theme deepin-ssd-tubiao -R 更换开机动画。",
+      "Name": "深度图标开机动画",
+      "Pkgname": "plymouth-theme-deepin-ssd-tubiao",
+      "Size": "28 Kb",
+      "Tags": "community;deepin;native",
+      "Torrent_address": "plymouth-theme-deepin-ssd-tubiao_0.0.1-1_all.deb.torrent",
+      "Update": "2023-03-07 22:07:32",
+      "Version": "0.0.1-1",
+      "Website": "https://gitee.com/XianZongzi/plymouth-theme-deepin-ssd-tubiao",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/plymouth-theme-deepin-ssd-tubiao/screen_1.png\"]"
     },
     {
       "Author": "shenmo",
@@ -3424,22 +3424,6 @@
     {
       "Author": "support <support@gstarcad.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.gstarcad2022.cad_22sp2_arm64.deb",
-      "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
-      "Name": "浩辰CAD 2022 For Linux",
-      "Pkgname": "com.gstarcad2022.cad",
-      "Size": "138 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.gstarcad2022.cad_22sp2_arm64.deb.torrent",
-      "Update": "2023-06-11 12:29:34",
-      "Version": "22sp2",
-      "Website": "https://www.gstarcad.com",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/screen_2.png\"]"
-    },
-    {
-      "Author": "support <support@gstarcad.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.gstarsoft.gstarcad2025_25.1_arm64.deb",
       "More": "浩辰CAD Linux版是浩辰软件基于Linux系统开发的全国产CAD设计软件，完美兼容各个版本的图纸数据文件，提供全面丰富的CAD功能命令，延续Windows版的软件界面及操作习惯，实现了无差别化的CAD设计应用，为企业的发展提供了更安全可控的应用保障。",
       "Name": "浩辰CAD Linux版 2025",
@@ -3452,6 +3436,22 @@
       "Website": "https://www.gstarcad.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.gstarsoft.gstarcad2025/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.gstarsoft.gstarcad2025/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.gstarsoft.gstarcad2025/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.gstarsoft.gstarcad2025/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.gstarsoft.gstarcad2025/screen_4.png\"]"
+    },
+    {
+      "Author": "support <support@gstarcad.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.gstarcad2022.cad_22sp2_arm64.deb",
+      "More": "本产品是浩辰公司基于Linux系统开发的可视化计算机辅助绘图软件，可以完美兼容R14-2018各版本DWG/DXF图纸及字体、线型和填充等相关数据文件，可进行常规的图形绘制和编辑操作，支持文字和尺寸标注，可插入图块和外部参照，让用户可以脱离WINDOWS系统也能完成机械、建筑、规划、交通、勘察、石化等各种图纸的查看、绘制、归档和输出。当您安装使用本产品时必须遵循本产品的《最终用户许可协议》。",
+      "Name": "浩辰CAD 2022 For Linux",
+      "Pkgname": "com.gstarcad2022.cad",
+      "Size": "138 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.gstarcad2022.cad_22sp2_arm64.deb.torrent",
+      "Update": "2023-06-11 12:29:34",
+      "Version": "22sp2",
+      "Website": "https://www.gstarcad.com",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.gstarcad2022.cad/screen_2.png\"]"
     },
     {
       "Author": "yuntucad <yuntucad@163.com>",
@@ -3868,22 +3868,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/others/com.tdx.tdxcfv/screen_1.png\"]"
     },
     {
-      "Name": "字体阿里妈妈东方大楷",
-      "Version": "1.0-1",
-      "Filename": "fonts-alimama-dongfangdakai_1.0-1_all.deb",
-      "Torrent_address": "fonts-alimama-dongfangdakai_1.0-1_all.deb.torrent",
-      "Pkgname": "fonts-alimama-dongfangdakai",
-      "Author": "Careone <emacslocale@126.com>",
-      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-      "Website": "https://www.iconfont.cn/fonts/index",
-      "Update": "2023-01-21 22:31:45",
-      "Size": "3.04 MB",
-      "More": "deb 包来源：https://bbs.deepin.org/post/248908\n\n 阿里妈妈东方大楷 (Alimama DongFangDaKai)\n .\n 字体授权：阿里妈妈字体授权协议(企业、个人均可免费商用) \n .\n 字体来源 (官网): https://www.iconfont.cn/fonts/index\n .\n 阿里妈妈东方大楷是基于颜真卿的多宝塔碑算法生成并结合人力完成的一套字库，\n 机器学习到了颜体的丰腴厚重之感，在笔画的描摹上做到了传统书法的收放起伏，\n 规范了骨架、笔画，还原了书法中的落笔、转笔、藏锋、护尾等书写韵味，使整体\n 更饱满、圆融、浑厚。\n .\n 阿里妈妈东方大楷为中文简体字库，收纳的中文字符包括但不限于GB2312，共计\n 6763个汉字；英文大小写（含全角、半角、合体字等）共105个；常用标点符号共\n 175个，总计7043个字符。",
-      "Tags": "deepin;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/d3dcd1b8a184428088c0886f215d881a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/e1d4162b8629411a99e001611adfa63d.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/21/b957d3d6376245a29958e9393189e7c1.png"
-    },
-    {
       "Author": "gfdgd xi",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "spark-typeeasy_1.0_arm64.deb",
@@ -3898,6 +3882,22 @@
       "Website": "http://www.51dzt.com/",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/others/spark-typeeasy/screen_4.png\"]"
+    },
+    {
+      "Name": "字体阿里妈妈东方大楷",
+      "Version": "1.0-1",
+      "Filename": "fonts-alimama-dongfangdakai_1.0-1_all.deb",
+      "Torrent_address": "fonts-alimama-dongfangdakai_1.0-1_all.deb.torrent",
+      "Pkgname": "fonts-alimama-dongfangdakai",
+      "Author": "Careone <emacslocale@126.com>",
+      "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+      "Website": "https://www.iconfont.cn/fonts/index",
+      "Update": "2023-01-21 22:31:45",
+      "Size": "3.04 MB",
+      "More": "deb 包来源：https://bbs.deepin.org/post/248908\n\n 阿里妈妈东方大楷 (Alimama DongFangDaKai)\n .\n 字体授权：阿里妈妈字体授权协议(企业、个人均可免费商用) \n .\n 字体来源 (官网): https://www.iconfont.cn/fonts/index\n .\n 阿里妈妈东方大楷是基于颜真卿的多宝塔碑算法生成并结合人力完成的一套字库，\n 机器学习到了颜体的丰腴厚重之感，在笔画的描摹上做到了传统书法的收放起伏，\n 规范了骨架、笔画，还原了书法中的落笔、转笔、藏锋、护尾等书写韵味，使整体\n 更饱满、圆融、浑厚。\n .\n 阿里妈妈东方大楷为中文简体字库，收纳的中文字符包括但不限于GB2312，共计\n 6763个汉字；英文大小写（含全角、半角、合体字等）共105个；常用标点符号共\n 175个，总计7043个字符。",
+      "Tags": "deepin;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/d3dcd1b8a184428088c0886f215d881a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/21/e1d4162b8629411a99e001611adfa63d.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/21/b957d3d6376245a29958e9393189e7c1.png"
     },
     {
       "Name": "字体：标小智龙珠体(带圆点的卡通字体)",
@@ -4751,22 +4751,6 @@
     {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.rovio.badpiggies.dcs_1.1.1_all.deb",
-      "More": "《捣蛋猪》是由《愤怒的小鸟》（Angry Birds）的开发商Rovio公司制作的一款益智游戏，于2012年9月27日正式发行。《捣蛋猪》通过飞行、爬行、滚动、旋转、撞击让小猪找到地图碎片、鸟蛋、蛋糕、钥匙等。《捣蛋猪》中的主角是雀斑猪，形象延续了《愤怒的小鸟》中的造型。但不同的是，《捣蛋猪》并不是将小猪砸向对手或建筑，而是玩家要通过载具来收集星星，完成关卡、沙盒的任务。",
-      "Name": "捣蛋猪",
-      "Pkgname": "com.rovio.badpiggies.dcs",
-      "Size": "36 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "com.rovio.badpiggies.dcs_1.1.1_all.deb.torrent",
-      "Update": "2023-08-05 20:49:41",
-      "Version": "1.1.1",
-      "Website": "https://www.rovio.com/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.rovio.badpiggies.dcs/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.rovio.badpiggies.dcs/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.rovio.badpiggies.dcs/screen_2.png\"]"
-    },
-    {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "spark-pinball_1.2_all.deb",
       "More": "一个 Windows XP 自带的一款游戏，后面的 Windows 版本已经没有，是一代人的回忆",
       "Name": "Windows 三维弹球",
@@ -4779,6 +4763,22 @@
       "Website": "http://www.microsoft.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/spark-pinball/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/spark-pinball/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/spark-pinball/screen_2.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.rovio.badpiggies.dcs_1.1.1_all.deb",
+      "More": "《捣蛋猪》是由《愤怒的小鸟》（Angry Birds）的开发商Rovio公司制作的一款益智游戏，于2012年9月27日正式发行。《捣蛋猪》通过飞行、爬行、滚动、旋转、撞击让小猪找到地图碎片、鸟蛋、蛋糕、钥匙等。《捣蛋猪》中的主角是雀斑猪，形象延续了《愤怒的小鸟》中的造型。但不同的是，《捣蛋猪》并不是将小猪砸向对手或建筑，而是玩家要通过载具来收集星星，完成关卡、沙盒的任务。",
+      "Name": "捣蛋猪",
+      "Pkgname": "com.rovio.badpiggies.dcs",
+      "Size": "36 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "com.rovio.badpiggies.dcs_1.1.1_all.deb.torrent",
+      "Update": "2023-08-05 20:49:41",
+      "Version": "1.1.1",
+      "Website": "https://www.rovio.com/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.rovio.badpiggies.dcs/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.rovio.badpiggies.dcs/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.rovio.badpiggies.dcs/screen_2.png\"]"
     },
     {
       "Author": "nillerusr",
@@ -4957,22 +4957,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/games/com.rovio.angrybirds.dcs/screen_1.png\",\"https://spk-json.spark-app.store/store/games/com.rovio.angrybirds.dcs/screen_2.png\",\"https://spk-json.spark-app.store/store/games/com.rovio.angrybirds.dcs/screen_3.png\",\"https://spk-json.spark-app.store/store/games/com.rovio.angrybirds.dcs/screen_4.png\"]"
     },
     {
-      "Author": "poki免费在线游戏 <chenliya@uniontech.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "uos.web.poki_1.0.0_arm64.deb",
-      "More": "Poki是个性化的免费在线游戏探索平台。我们每天都会为您精心挑选最新颖的游戏，保证您玩得尽兴！在这里，您不会感到无聊，因为我们将根据您喜好的游戏为您推荐适合您的兴趣的游戏。如果您是运动爱好者，智能化的运算法则将确保您永远不会错过最新的运动系列游戏；如果您热爱赛车，您将第一时间看到最精彩的赛车游戏。我们的游戏在支持各种设备，这样您随时随地都可以玩！打造最好的网页游戏是我们的使命！\n在Poki游戏网站，您可以免费玩高达2万个游戏！我们为您提供在所有设备上都可以玩的最好的免费游戏。每一天您都可以在Poki找到在您的电脑，智能手机和平板电脑上可以玩的最新游戏。使用您的键盘，鼠标或者触屏来控制游戏中的角色，甚至惊险刺激的赛车！感受游戏过程中肾上腺素上升的快感。用您的大脑来解决谜题，用您的时尚直觉来打扮人偶和女孩！我们将精彩的游戏呈现给所有人。这其中有些游戏是由Poki自主开发。\nPoki游戏只为您提供所有的好玩免费游戏，最有人气的游戏系列，比如烹饪游戏，足球游戏和打扮游戏，以及根据您最喜爱的电影，电视节目改编的游戏，比如Adventure Time游戏，Inside Out游戏和Descendants游戏。在我们的广泛的游戏集锦中，你还可以找到一些经典的游戏，比如Mahjong, Bubble Shooter和Bejeweled，还有一些新游戏比如Agario,，Uphill Rush 7和 Grindcraft。您可以玩3D游戏，超级好玩的街机游戏以及所有的人气解谜游戏！不管您有什么样的游戏品味，我们都能满足您的胃口。Poki是适合全家人一起玩的游戏网站。",
-      "Name": "宝玩游戏网页版（Poki）",
-      "Pkgname": "uos.web.poki",
-      "Size": "60 Kb",
-      "Tags": "community;deepin;uos;ubuntu;dtk5;debian",
-      "Torrent_address": "uos.web.poki_1.0.0_arm64.deb.torrent",
-      "Update": "2024-12-14 17:03:39",
-      "Version": "1.0.0",
-      "Website": "https://poki.cn/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/games/uos.web.poki/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/uos.web.poki/screen_1.png\"]"
-    },
-    {
       "Author": "杀毒软件吧",
       "Contributor": "杀毒软件吧",
       "Filename": "web-start.qq.com_1.0_all.deb",
@@ -4987,6 +4971,22 @@
       "Website": "https://start.qq.com/webgame/home",
       "icons": "https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/screen_1.png\"]"
+    },
+    {
+      "Author": "poki免费在线游戏 <chenliya@uniontech.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "uos.web.poki_1.0.0_arm64.deb",
+      "More": "Poki是个性化的免费在线游戏探索平台。我们每天都会为您精心挑选最新颖的游戏，保证您玩得尽兴！在这里，您不会感到无聊，因为我们将根据您喜好的游戏为您推荐适合您的兴趣的游戏。如果您是运动爱好者，智能化的运算法则将确保您永远不会错过最新的运动系列游戏；如果您热爱赛车，您将第一时间看到最精彩的赛车游戏。我们的游戏在支持各种设备，这样您随时随地都可以玩！打造最好的网页游戏是我们的使命！\n在Poki游戏网站，您可以免费玩高达2万个游戏！我们为您提供在所有设备上都可以玩的最好的免费游戏。每一天您都可以在Poki找到在您的电脑，智能手机和平板电脑上可以玩的最新游戏。使用您的键盘，鼠标或者触屏来控制游戏中的角色，甚至惊险刺激的赛车！感受游戏过程中肾上腺素上升的快感。用您的大脑来解决谜题，用您的时尚直觉来打扮人偶和女孩！我们将精彩的游戏呈现给所有人。这其中有些游戏是由Poki自主开发。\nPoki游戏只为您提供所有的好玩免费游戏，最有人气的游戏系列，比如烹饪游戏，足球游戏和打扮游戏，以及根据您最喜爱的电影，电视节目改编的游戏，比如Adventure Time游戏，Inside Out游戏和Descendants游戏。在我们的广泛的游戏集锦中，你还可以找到一些经典的游戏，比如Mahjong, Bubble Shooter和Bejeweled，还有一些新游戏比如Agario,，Uphill Rush 7和 Grindcraft。您可以玩3D游戏，超级好玩的街机游戏以及所有的人气解谜游戏！不管您有什么样的游戏品味，我们都能满足您的胃口。Poki是适合全家人一起玩的游戏网站。",
+      "Name": "宝玩游戏网页版（Poki）",
+      "Pkgname": "uos.web.poki",
+      "Size": "60 Kb",
+      "Tags": "community;deepin;uos;ubuntu;dtk5;debian",
+      "Torrent_address": "uos.web.poki_1.0.0_arm64.deb.torrent",
+      "Update": "2024-12-14 17:03:39",
+      "Version": "1.0.0",
+      "Website": "https://poki.cn/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/games/uos.web.poki/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/uos.web.poki/screen_1.png\"]"
     },
     {
       "Author": "Deepin WINE Team",
@@ -6062,22 +6062,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_2.png\"]"
     },
     {
-      "Author": "Powerword Team <yukai@kingsoft.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.kingsoft.powerword_1.2_arm64.deb",
-      "More": "金山公司推出的一款适用于个人用户的免费翻译软件。提供真人语音、屏幕取词等功能。",
-      "Name": "金山词霸",
-      "Pkgname": "com.kingsoft.powerword",
-      "Size": "184 Mb",
-      "Tags": "deepin;uos;debian;native",
-      "Torrent_address": "com.kingsoft.powerword_1.2_arm64.deb.torrent",
-      "Update": "2023-03-06 20:48:14",
-      "Version": "1.2",
-      "Website": "http://www.iciba.com",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_4.png\"]"
-    },
-    {
       "Author": "gfdgd xi <3025613752@qq.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.docbox.spark_2.2.21spark0_all.deb",
@@ -6092,6 +6076,22 @@
       "Website": "http://www.daokeyuedu.com/",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.docbox.spark/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.docbox.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.docbox.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.docbox.spark/screen_3.png\"]"
+    },
+    {
+      "Author": "Powerword Team <yukai@kingsoft.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.kingsoft.powerword_1.2_arm64.deb",
+      "More": "金山公司推出的一款适用于个人用户的免费翻译软件。提供真人语音、屏幕取词等功能。",
+      "Name": "金山词霸",
+      "Pkgname": "com.kingsoft.powerword",
+      "Size": "184 Mb",
+      "Tags": "deepin;uos;debian;native",
+      "Torrent_address": "com.kingsoft.powerword_1.2_arm64.deb.torrent",
+      "Update": "2023-03-06 20:48:14",
+      "Version": "1.2",
+      "Website": "http://www.iciba.com",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.kingsoft.powerword/screen_4.png\"]"
     },
     {
       "Author": "shenmo",
@@ -6478,22 +6478,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/org.edit.kate/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/org.edit.kate/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/org.edit.kate/screen_3.png\"]"
     },
     {
-      "Author": "上海亦存网络科技有限公司 <support@nutstore.net>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "yiyang-suite_2.4.8-56_arm64.deb",
-      "More": "怡氧一站式办公工具集，包括office、思维导图、大纲笔记、流程图、Markdown。致力于为职场人提高办公效率以及应对职场各种需求，为其打造简洁便利的文件生产环境。\n怡氧特点：\n-所有功能免费使用，没有消费陷阱，不会诱导用户使用付费功能。\n-不搞账号强制绑定，不收集用户信息，无需账号也可以使用。\n-完全独立客户端；\n-离线可用，即使没有网络也可以使用怡氧编辑文件。\n-所有文件自动保存，无需担心电脑闪退丢失文件。\n怡氧功能：\n【office】\n支持新建、编辑和导出word、Excel、PPT文档；\n支持切换黑白主题；\n提供各种模板；\noffice基础功能：包括对文字、图片的设置；批注功能；插入各种图表；插入公式等。\n【思维导图】\n不限制节点数量；\n支持插入图片、图标；\n导出无水印；\n支持文本美化工具，可改变字体颜色、状态等；\n各种样式模板、思维导图类型，满足各种场景所需风格；\n【大纲笔记】\n一键生成放映级演示效果，无需手动排版，自带动画效果；\n演示模式支持双屏放映，可跳转任意节点；\n支持演示模式导出PPT；\n支持插入图片，并改变图片大小；\n支持文本美化工具，可改变字体颜色、状态等。\n【流程图】\n支持流程图、原型图、网络拓扑图等多种图形图表；\n无水印导出png、jpg、svg；\n支持插入图片；\n支持插入各种图标、表格、图形等；\n可改变图形、线条、箭头的颜色及形状样式。\n多种样式主题随意挑选，满足各种场景所需风格。\n【Markdown】\n支持插入图片、表格、超链接、代码等功能；\n支持黑白主题切换；\n支持Markdown语法。",
-      "Name": "怡氧",
-      "Pkgname": "yiyang-suite",
-      "Size": "237 Mb",
-      "Tags": "debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "yiyang-suite_2.4.8-56_arm64.deb.torrent",
-      "Update": "2024-11-05 22:23:34",
-      "Version": "2.4.8-56",
-      "Website": "https://www.jianguoyun.com",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_5.png\"]"
-    },
-    {
       "Author": "User Support Services <support@yozosoft.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.yozosoft.yozo-office.s1_9.0.6115.191ZH.S1_arm64.deb",
@@ -6508,6 +6492,22 @@
       "Website": "http://www.yozosoft.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.yozosoft.yozo-office.s1/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.yozosoft.yozo-office.s1/screen_1.png\"]"
+    },
+    {
+      "Author": "上海亦存网络科技有限公司 <support@nutstore.net>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "yiyang-suite_2.4.8-56_arm64.deb",
+      "More": "怡氧一站式办公工具集，包括office、思维导图、大纲笔记、流程图、Markdown。致力于为职场人提高办公效率以及应对职场各种需求，为其打造简洁便利的文件生产环境。\n怡氧特点：\n-所有功能免费使用，没有消费陷阱，不会诱导用户使用付费功能。\n-不搞账号强制绑定，不收集用户信息，无需账号也可以使用。\n-完全独立客户端；\n-离线可用，即使没有网络也可以使用怡氧编辑文件。\n-所有文件自动保存，无需担心电脑闪退丢失文件。\n怡氧功能：\n【office】\n支持新建、编辑和导出word、Excel、PPT文档；\n支持切换黑白主题；\n提供各种模板；\noffice基础功能：包括对文字、图片的设置；批注功能；插入各种图表；插入公式等。\n【思维导图】\n不限制节点数量；\n支持插入图片、图标；\n导出无水印；\n支持文本美化工具，可改变字体颜色、状态等；\n各种样式模板、思维导图类型，满足各种场景所需风格；\n【大纲笔记】\n一键生成放映级演示效果，无需手动排版，自带动画效果；\n演示模式支持双屏放映，可跳转任意节点；\n支持演示模式导出PPT；\n支持插入图片，并改变图片大小；\n支持文本美化工具，可改变字体颜色、状态等。\n【流程图】\n支持流程图、原型图、网络拓扑图等多种图形图表；\n无水印导出png、jpg、svg；\n支持插入图片；\n支持插入各种图标、表格、图形等；\n可改变图形、线条、箭头的颜色及形状样式。\n多种样式主题随意挑选，满足各种场景所需风格。\n【Markdown】\n支持插入图片、表格、超链接、代码等功能；\n支持黑白主题切换；\n支持Markdown语法。",
+      "Name": "怡氧",
+      "Pkgname": "yiyang-suite",
+      "Size": "237 Mb",
+      "Tags": "debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "yiyang-suite_2.4.8-56_arm64.deb.torrent",
+      "Update": "2024-11-05 22:23:34",
+      "Version": "2.4.8-56",
+      "Website": "https://www.jianguoyun.com",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/office/yiyang-suite/screen_5.png\"]"
     },
     {
       "Author": "NetChina <support@nd.com.cn>",
@@ -7689,22 +7689,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_2.png\"]"
     },
     {
-      "Author": "佚名RJ",
-      "Contributor": "佚名RJ",
-      "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
-      "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
-      "Name": "侠客短视频解析去水印工具",
-      "Pkgname": "com.xiakeduanshipin.deepin",
-      "Size": "22 Mb",
-      "Tags": "deepin;uos;dwine5;debian",
-      "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
-      "Update": "2024-06-16 10:38:15",
-      "Version": "4.8",
-      "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_3.png\"]"
-    },
-    {
       "Author": "help@todesk.com",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "todeskhost_2.0.3.2_arm64.deb",
@@ -7719,6 +7703,22 @@
       "Website": "https://www.todesk.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/network/todeskhost/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/todeskhost/screen_1.png\"]"
+    },
+    {
+      "Author": "佚名RJ",
+      "Contributor": "佚名RJ",
+      "Filename": "com.xiakeduanshipin.deepin_4.8_all.deb",
+      "More": ".本工具支持无水印解析下载抖音、抖音极速版、快手、快手极速版、剪映、火山、皮皮虾、皮皮搞笑、最右、微视、QQ看点、西瓜视频、小红书、淘宝、天猫、绿洲、美拍、今日头条、微博、各国外平台(随缘)、各平台图集、微信公众号...等等众多短视频平台。",
+      "Name": "侠客短视频解析去水印工具",
+      "Pkgname": "com.xiakeduanshipin.deepin",
+      "Size": "22 Mb",
+      "Tags": "deepin;uos;dwine5;debian",
+      "Torrent_address": "com.xiakeduanshipin.deepin_4.8_all.deb.torrent",
+      "Update": "2024-06-16 10:38:15",
+      "Version": "4.8",
+      "Website": "https://www.52pojie.cn/thread-1933305-1-1.html",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.xiakeduanshipin.deepin/screen_3.png\"]"
     },
     {
       "Name": "ODE 多功能助手",
@@ -7753,22 +7753,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/com.kingsoft.huawang.deepin/screen_3.png\"]"
     },
     {
-      "Name": "iTubeGo 视频下载",
-      "Version": "7.8.2",
-      "Filename": "com.itubego.deepin_7.8.2_all.deb",
-      "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
-      "Pkgname": "com.itubego.deepin",
-      "Author": "iTubeGodde-fileManager",
-      "Contributor": "iTubeGo",
-      "Website": "https://itubego.com/en63/",
-      "Update": "2024-06-19 21:03:58",
-      "Size": "144.39 MB",
-      "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
-      "Tags": "deepin;uos;dwine5;debian",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
-    },
-    {
       "Author": "wang",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "net.51.aorland.deepin_1.98deepin1_all.deb",
@@ -7783,6 +7767,22 @@
       "Website": "aorland.51.net",
       "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/network/net.51.aorland.deepin/screen_2.png\"]"
+    },
+    {
+      "Name": "iTubeGo 视频下载",
+      "Version": "7.8.2",
+      "Filename": "com.itubego.deepin_7.8.2_all.deb",
+      "Torrent_address": "com.itubego.deepin_7.8.2_all.deb.torrent",
+      "Pkgname": "com.itubego.deepin",
+      "Author": "iTubeGodde-fileManager",
+      "Contributor": "iTubeGo",
+      "Website": "https://itubego.com/en63/",
+      "Update": "2024-06-19 21:03:58",
+      "Size": "144.39 MB",
+      "More": "一款顶级的视频下载工具，能从YouTube及其他超过1000个视频分享平台快速下载视频和音频文件，并支持多种格式转换",
+      "Tags": "deepin;uos;dwine5;debian",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/5208fc68a15145a493e1c9d37510dc42.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/f61015f443344289903d574984793378.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/7fe1f9cb38cc4f218531582fe38c5fd0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/19/d7681c2a5ea440e8a39f99a4130d002d.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/19/2ac5f698c5e54f639f585cb7059e58ff.png"
     },
     {
       "Author": "良师多媒体工作室",
@@ -7817,6 +7817,22 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_5.png\"]"
     },
     {
+      "Author": "中国经济信息社有限公司 <xinhuacaijing@xinhua.org>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.ceis.app_2.3.58_amd64.deb",
+      "More": ".\n中国金融信息网由新华社主管,中国经济信息社主办,是配合新华财经金融信息平台项目打造的国家级专业财经网站,定位于建设中国财经金融信息领域的权威发布和服务平台",
+      "Name": "新华财经",
+      "Pkgname": "com.ceis.app",
+      "Size": "66 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.ceis.app_2.3.58_amd64.deb.torrent",
+      "Update": "2025-01-23 11:49:01",
+      "Version": "2.3.58",
+      "Website": "x.cnfic.com.cn",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/screen_1.png\"]"
+    },
+    {
       "Author": "zinface <zinface@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "torrent-file-editor_0.3.18-master-20240415_amd64.deb",
@@ -7847,22 +7863,6 @@
       "Website": "https://www.muflone.com/gwakeonlan/",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/network/gwakeonlan/icon.png",
       "img_urls": "[]"
-    },
-    {
-      "Author": "中国经济信息社有限公司 <xinhuacaijing@xinhua.org>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.ceis.app_2.3.58_amd64.deb",
-      "More": ".\n中国金融信息网由新华社主管,中国经济信息社主办,是配合新华财经金融信息平台项目打造的国家级专业财经网站,定位于建设中国财经金融信息领域的权威发布和服务平台",
-      "Name": "新华财经",
-      "Pkgname": "com.ceis.app",
-      "Size": "66 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.ceis.app_2.3.58_amd64.deb.torrent",
-      "Update": "2025-01-23 11:49:01",
-      "Version": "2.3.58",
-      "Website": "x.cnfic.com.cn",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/screen_1.png\"]"
     },
     {
       "Author": "shenmo<shenmo@spark-app.store>",
@@ -8956,22 +8956,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/chat/com.tencent.wechat/screen_1.png\",\"https://spk-json.spark-app.store/store/chat/com.tencent.wechat/screen_2.png\",\"https://spk-json.spark-app.store/store/chat/com.tencent.wechat/screen_3.png\"]"
     },
     {
-      "Author": "The Icalingua++ Authors <Icalinguaplusplus@protonmail.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "icalingua_2.12.26_arm64.deb",
-      "More": "Icalingua++ 是 Icalingua 的分支，為已經刪除的 Icalingua 提供有限的更新，同時歡迎社區提交PR。\nIcalingua 这个名字是日语中「光」和拉丁语中「语言」的组合。\n本项目希望为 Linux 打造一个会话前端框架，通过实现 Adapter 后端接口来适配各种聊天平台。目前已经拥有基于 oicq 以及 Icalingua 自有协议的后端。\n\n----------------------------------------\n此应用存在已知的不稳定问题， 如出现会自动崩溃现象，可使用 'Icalingua++ 用户服务'",
-      "Name": "Icalingua++（第三方QQ）",
-      "Pkgname": "icalingua",
-      "Size": "115 Mb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Torrent_address": "icalingua_2.12.26_arm64.deb.torrent",
-      "Update": "2024-12-31 17:37:39",
-      "Version": "2.12.26",
-      "Website": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/chat/icalingua/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/icalingua/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/chat/icalingua/screen_2.png\"]"
-    },
-    {
       "Author": "work_weixin <work_weixin@tencent.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "wwlocal_2.6.114000_arm64.deb",
@@ -8986,6 +8970,22 @@
       "Website": "http://git.code.oa.com/wwlocal/wechat_work.git",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/wwlocal/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/chat/wwlocal/screen_1.png\"]"
+    },
+    {
+      "Author": "The Icalingua++ Authors <Icalinguaplusplus@protonmail.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "icalingua_2.12.26_arm64.deb",
+      "More": "Icalingua++ 是 Icalingua 的分支，為已經刪除的 Icalingua 提供有限的更新，同時歡迎社區提交PR。\nIcalingua 这个名字是日语中「光」和拉丁语中「语言」的组合。\n本项目希望为 Linux 打造一个会话前端框架，通过实现 Adapter 后端接口来适配各种聊天平台。目前已经拥有基于 oicq 以及 Icalingua 自有协议的后端。\n\n----------------------------------------\n此应用存在已知的不稳定问题， 如出现会自动崩溃现象，可使用 'Icalingua++ 用户服务'",
+      "Name": "Icalingua++（第三方QQ）",
+      "Pkgname": "icalingua",
+      "Size": "115 Mb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Torrent_address": "icalingua_2.12.26_arm64.deb.torrent",
+      "Update": "2024-12-31 17:37:39",
+      "Version": "2.12.26",
+      "Website": "https://github.com/Icalingua-plus-plus/Icalingua-plus-plus",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/chat/icalingua/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/icalingua/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/chat/icalingua/screen_2.png\"]"
     },
     {
       "Author": "shenmo",

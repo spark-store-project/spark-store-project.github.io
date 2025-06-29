@@ -868,23 +868,6 @@
 
 ,
 {
-  "Name": "QQ欢乐斗地主",
-  "Version": "1.1",
-  "Filename": "qq-hlddz_1.1_amd64.deb",
-  "Pkgname": "qq-hlddz",
-  "Author": "Tencent",
-  "Contributor": "shenmo",
-  "Website": "https://hlddz.huanle.qq.com/",
-  "Update": "2020-11-23 04:31:00",
-  "Size": "11.07 KB",
-  "More": "网页版QQ斗地主",
-  "Tags": "community;deepin;dtk5",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
-}
-
-,
-{
   "Name": "VEK游戏配置平台",
   "Version": "1.0.2.5",
   "Filename": "org.sea-group.raa_1.0.2.5_amd64.deb",
@@ -899,6 +882,23 @@
   "Tags": "deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/6d9a4a80-caf1-11ec-ad8d-3530d8c8f402.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/05/03/701ab3d0-caf1-11ec-ad8d-3530d8c8f402.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/05/03/685a9a20-caf1-11ec-ad8d-3530d8c8f402.png"
+}
+
+,
+{
+  "Name": "QQ欢乐斗地主",
+  "Version": "1.1",
+  "Filename": "qq-hlddz_1.1_amd64.deb",
+  "Pkgname": "qq-hlddz",
+  "Author": "Tencent",
+  "Contributor": "shenmo",
+  "Website": "https://hlddz.huanle.qq.com/",
+  "Update": "2020-11-23 04:31:00",
+  "Size": "11.07 KB",
+  "More": "网页版QQ斗地主",
+  "Tags": "community;deepin;dtk5",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/acf1dcd0-2d44-11eb-9540-f1dc1a0889f4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/11/23/ad7b5820-2d44-11eb-9540-f1dc1a0889f4.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/23/721559c0-2d44-11eb-9540-f1dc1a0889f4.PNG"
 }
 
 ,
@@ -1395,23 +1395,6 @@
 
 ,
 {
-    "Name": "盟军敢死队3：目标柏林",
-    "Version": "1.0spark1",
-    "Filename": "com.commandos3.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.commandos3.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.commandos3.spark",
-    "Author": "Pyro Studios",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2025-04-15 22:41:28",
-    "Size": "1.16 GB",
-    "More": "一款基于二战背景开发的即时策略类游戏，玩家可控制拥有不同技能的队员，在复杂的关卡中完成各种难度的任务\n\n--说明--\n1.使用deepin-wine-staging重新打包\n2.游戏安装后首次运行，如出现游戏画面放大的问题，请使用星火商店wine应用设置将游戏的缩放调整为1.0，或者直接进入/home/用户名/.deepinwine/Spark-Commandos3目录下，新建一个scale.txt文件，文本内容写入“1.0”，以此设定游戏的缩放系数为1.0",
-    "Tags": "debian;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/15/1b5faefef64a447bba5174c51afd8c14.png\",\"https://spk-json.spark-app.store/images/2025/04/15/0683cd1cfc6a4846a2784a0aebcd82b2.png\",\"https://spk-json.spark-app.store/images/2025/04/15/4468a9d81aec4452b3252ab768996ee1.png\",\"https://spk-json.spark-app.store/images/2025/04/15/fedb88364c814ec0940d1ee89cf60188.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/15/279f46edca1f47d2ae50d5a024747a0a.png"
-}
-,
-{
     "Name": "X Minecraft Launcher(XMCL)",
     "Version": "0.51.1-1142",
     "Filename": "xmcl_0.51.1-1142_amd64.deb",
@@ -1426,6 +1409,23 @@
     "Tags": "community;debian;ubuntu;deepin",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/27/f28bfa1815714d608cc8e9b2c95175a6.png\",\"https://spk-json.spark-app.store/images/2025/06/27/abad44421f3644f482037cb322c67c18.png\",\"https://spk-json.spark-app.store/images/2025/06/27/c50b818eb5c547a2a937f4563d00aa49.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/06/27/d61e9041acd94c059f35b076a715627e.png"
+}
+,
+{
+    "Name": "盟军敢死队3：目标柏林",
+    "Version": "1.0spark1",
+    "Filename": "com.commandos3.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.commandos3.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.commandos3.spark",
+    "Author": "Pyro Studios",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2025-04-15 22:41:28",
+    "Size": "1.16 GB",
+    "More": "一款基于二战背景开发的即时策略类游戏，玩家可控制拥有不同技能的队员，在复杂的关卡中完成各种难度的任务\n\n--说明--\n1.使用deepin-wine-staging重新打包\n2.游戏安装后首次运行，如出现游戏画面放大的问题，请使用星火商店wine应用设置将游戏的缩放调整为1.0，或者直接进入/home/用户名/.deepinwine/Spark-Commandos3目录下，新建一个scale.txt文件，文本内容写入“1.0”，以此设定游戏的缩放系数为1.0",
+    "Tags": "debian;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/15/1b5faefef64a447bba5174c51afd8c14.png\",\"https://spk-json.spark-app.store/images/2025/04/15/0683cd1cfc6a4846a2784a0aebcd82b2.png\",\"https://spk-json.spark-app.store/images/2025/04/15/4468a9d81aec4452b3252ab768996ee1.png\",\"https://spk-json.spark-app.store/images/2025/04/15/fedb88364c814ec0940d1ee89cf60188.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/15/279f46edca1f47d2ae50d5a024747a0a.png"
 }
 ,
 {
@@ -1481,6 +1481,24 @@
 }
 ,
 {
+  "Name": "植物大战僵尸融合版 黑夜版本（Wine）",
+  "Version": "1.3spark0",
+  "Filename": "com.pvzrh.spark_1.3spark0_all.deb",
+  "Torrent_address": "com.pvzrh.spark_1.3spark0_all.deb.torrent",
+  "Pkgname": "com.pvzrh.spark",
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://space.bilibili.com/3546619314178489",
+  "Update": "2024-07-29 19:16:03",
+  "Size": "119.09 MB",
+  "More": "新增内容：\n1、新增黑夜冒险模式关卡6~12\n2、新增基础植物：小喷菇、大喷菇、魅惑菇、胆小菇、寒冰菇、毁灭菇\n3、新增僵尸：舞王撑杆僵尸、舞王僵尸、高坚果橄榄球僵尸、寒冰高坚果僵尸\n3、新增融合配方，详见图鉴\n4、新增图鉴系统，方便玩家查看新植物属性，暂时只开放了植物图鉴\n5、新增了解谜模式：我是僵尸1~12，第一关为斗蛐蛐专属关卡，点击左下角即可开启斗蛐蛐模式\n- 如果未开启斗蛐蛐模式且吃掉所有脑子则解锁影藏植物：大麦\n6、新增自制植物：火红莲，通关随机植物VS随机僵尸解锁\n7、新增肥料，用法自行探索\n8、新增肥料挑战：通关解锁肥料\n9、新增玩法：胆小菇之梦\n10、新增了速度调节器\n11、局内新增时停功能：点按或快捷键极大降低游戏速度\n\n优化内容：\n1、修复了左键点击卡槽无法放回植物的bug\n2、修复了小推车数量偶尔异常的bug\n3、优化了游戏卡顿\n4、修复了使用手套时暂停有概率会卡死手套的bug\n5、修复了铲子可以一次铲掉多个植物的bug\n6、难度调整：\n难度1：所有僵尸受到的任何伤害+10\n难度4：灰烬伤害不再无视防具\n难度5：所有僵尸受到伤害降低50%，被魅惑的概率减半\n7、手套冷却时间降低：\n常规模式10秒\n随机植物关卡3秒\n\n胆小菇之梦关卡特性：\n只有胆小菇会发射子弹，其他植物只有被子弹命中才会攻击，只有豌豆和孢子能命中植物\n双发射手被子弹命中时向前和向上发射\n机枪射手被子弹命中时向前和向上和向后发射\n\n斗蛐蛐模式关卡特性：\n关卡内植物为完全随机，开启出怪后每行不断刷新盲盒僵尸，坚持到最后一条路的队伍获胜\n一般玩家只需要点击全自动斗蛐蛐之后就不需要你进行任何操作了，看就好了！",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/d8ba7de9377744a696248d26c940f0dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/bece5a88712f4f2f8455c1140cdb5e5c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/29/ed6941a83df34b0ba8e57c434e2edc16.png"
+}
+
+,
+{
   "Author": "shenmo<shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.steampowered.steam_1.0_all.deb",
@@ -1514,24 +1532,6 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/30/aa6555dae2c24d6f8e5f04219f22f8ef.png\",\"https://spk-json.spark-app.store/images/2025/04/30/fb6bb7398e3b45dbbd161a4d0edd8601.png\",\"https://spk-json.spark-app.store/images/2025/04/30/6d94cfeb048846ffb1c9b229aedf4a38.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/04/30/c13a98b671654ece8bab0ae2e9fa1802.png"
 }
-,
-{
-  "Name": "植物大战僵尸融合版 黑夜版本（Wine）",
-  "Version": "1.3spark0",
-  "Filename": "com.pvzrh.spark_1.3spark0_all.deb",
-  "Torrent_address": "com.pvzrh.spark_1.3spark0_all.deb.torrent",
-  "Pkgname": "com.pvzrh.spark",
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://space.bilibili.com/3546619314178489",
-  "Update": "2024-07-29 19:16:03",
-  "Size": "119.09 MB",
-  "More": "新增内容：\n1、新增黑夜冒险模式关卡6~12\n2、新增基础植物：小喷菇、大喷菇、魅惑菇、胆小菇、寒冰菇、毁灭菇\n3、新增僵尸：舞王撑杆僵尸、舞王僵尸、高坚果橄榄球僵尸、寒冰高坚果僵尸\n3、新增融合配方，详见图鉴\n4、新增图鉴系统，方便玩家查看新植物属性，暂时只开放了植物图鉴\n5、新增了解谜模式：我是僵尸1~12，第一关为斗蛐蛐专属关卡，点击左下角即可开启斗蛐蛐模式\n- 如果未开启斗蛐蛐模式且吃掉所有脑子则解锁影藏植物：大麦\n6、新增自制植物：火红莲，通关随机植物VS随机僵尸解锁\n7、新增肥料，用法自行探索\n8、新增肥料挑战：通关解锁肥料\n9、新增玩法：胆小菇之梦\n10、新增了速度调节器\n11、局内新增时停功能：点按或快捷键极大降低游戏速度\n\n优化内容：\n1、修复了左键点击卡槽无法放回植物的bug\n2、修复了小推车数量偶尔异常的bug\n3、优化了游戏卡顿\n4、修复了使用手套时暂停有概率会卡死手套的bug\n5、修复了铲子可以一次铲掉多个植物的bug\n6、难度调整：\n难度1：所有僵尸受到的任何伤害+10\n难度4：灰烬伤害不再无视防具\n难度5：所有僵尸受到伤害降低50%，被魅惑的概率减半\n7、手套冷却时间降低：\n常规模式10秒\n随机植物关卡3秒\n\n胆小菇之梦关卡特性：\n只有胆小菇会发射子弹，其他植物只有被子弹命中才会攻击，只有豌豆和孢子能命中植物\n双发射手被子弹命中时向前和向上发射\n机枪射手被子弹命中时向前和向上和向后发射\n\n斗蛐蛐模式关卡特性：\n关卡内植物为完全随机，开启出怪后每行不断刷新盲盒僵尸，坚持到最后一条路的队伍获胜\n一般玩家只需要点击全自动斗蛐蛐之后就不需要你进行任何操作了，看就好了！",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/d8ba7de9377744a696248d26c940f0dc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/29/bece5a88712f4f2f8455c1140cdb5e5c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/29/ed6941a83df34b0ba8e57c434e2edc16.png"
-}
-
 ,
 {
   "Name": "蒙特祖玛的宝藏2（wine）",
@@ -1673,6 +1673,24 @@
 }
 ,
 {
+  "Name": "植物大战僵尸娘化版",
+  "Version": "1.0.2.56spark0",
+  "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
+  "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
+  "Pkgname": "com.pgvz.spark",
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://space.bilibili.com/20530305",
+  "Update": "2024-06-30 07:00:15",
+  "Size": "356.24 MB",
+  "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
+}
+
+,
+{
     "Name": "复刻魂斗罗",
     "Version": "1.0spark1",
     "Filename": "com.commando.spark_1.0spark1_all.deb",
@@ -1704,24 +1722,6 @@
   "Tags": "deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/25/ab384670-5b74-11ee-9a30-01ad2a195d56.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/25/ab3ba1d0-5b74-11ee-9a30-01ad2a195d56.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/25/9016eea0-5b74-11ee-9a30-01ad2a195d56.png"
-}
-
-,
-{
-  "Name": "植物大战僵尸娘化版",
-  "Version": "1.0.2.56spark0",
-  "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
-  "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
-  "Pkgname": "com.pgvz.spark",
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://space.bilibili.com/20530305",
-  "Update": "2024-06-30 07:00:15",
-  "Size": "356.24 MB",
-  "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
 }
 
 ,
@@ -2109,23 +2109,6 @@
 
 ,
 {
-    "Name": "要塞2",
-    "Version": "1.0spark1",
-    "Filename": "com.stronghold2.spark_1.0spark1_all.deb",
-    "Torrent_address": "com.stronghold2.spark_1.0spark1_all.deb.torrent",
-    "Pkgname": "com.stronghold2.spark",
-    "Author": "2K Games",
-    "Contributor": "sgb76",
-    "Website": "no",
-    "Update": "2025-04-13 22:50:30",
-    "Size": "761.81 MB",
-    "More": "要塞2是由 2K Games 公司发行的一款即时战略游戏",
-    "Tags": "debian;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/13/173e07fbdf4a4ac5a33992a4b4c8b60e.png\",\"https://spk-json.spark-app.store/images/2025/04/13/7ced37b68b924ce2bff45ce8976c0cae.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/13/07f812bf093a408f9f7a3e17dd51f32b.png"
-}
-,
-{
   "Name": "仙剑客栈2",
   "Version": "2.0",
   "Filename": "com.palinn2.spark_2.0_all.deb",
@@ -2142,6 +2125,23 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/23/c798c99bfaaf49fa9aca5084becd8246.png"
 }
 
+,
+{
+    "Name": "要塞2",
+    "Version": "1.0spark1",
+    "Filename": "com.stronghold2.spark_1.0spark1_all.deb",
+    "Torrent_address": "com.stronghold2.spark_1.0spark1_all.deb.torrent",
+    "Pkgname": "com.stronghold2.spark",
+    "Author": "2K Games",
+    "Contributor": "sgb76",
+    "Website": "no",
+    "Update": "2025-04-13 22:50:30",
+    "Size": "761.81 MB",
+    "More": "要塞2是由 2K Games 公司发行的一款即时战略游戏",
+    "Tags": "debian;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/13/173e07fbdf4a4ac5a33992a4b4c8b60e.png\",\"https://spk-json.spark-app.store/images/2025/04/13/7ced37b68b924ce2bff45ce8976c0cae.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/13/07f812bf093a408f9f7a3e17dd51f32b.png"
+}
 ,
 {
     "Author": "Ubisoft",
@@ -2179,6 +2179,24 @@
 }
 ,
 {
+  "Name": "Sans模拟器",
+  "Version": "1.5.1",
+  "Filename": "c2-sans-fight_1.5.1_all.deb",
+  "Torrent_address": "c2-sans-fight_1.5.1_all.deb.torrent",
+  "Pkgname": "c2-sans-fight",
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "https://github.com/Jcw87/c2-sans-fight",
+  "Update": "2023-03-12 09:57:23",
+  "Size": "4.43 MB",
+  "More": "Sans模拟器，本地网页版。\n运行时38326端口会被占用！",
+  "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/4ca7d3f55f904dcba79e201e00fde815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/b7bc84e93fe9475aa8edd52c8a67ca69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/acd9f1767f054f58b14af2afe70d3fca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/ff51faee93f14b2fb26b9134990836de.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/12/76217072160840d8b17a9c5e395e16b5.png"
+}
+
+,
+{
   "Name": "sudoku",
   "Version": "1.0.0",
   "Filename": "sudoku_1.0.0_amd64.deb",
@@ -2209,24 +2227,6 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/13/6dc5893594d941d683a047a37e8aec67.png\",\"https://spk-json.spark-app.store/images/2025/04/13/4c910455d86e4e02a29900cd4dc54002.png\",\"https://spk-json.spark-app.store/images/2025/04/13/b4f151f405974e06b0a5a55e00c9894c.png\",\"https://spk-json.spark-app.store/images/2025/04/13/a59fb22646d5465bbab117cf92b51b66.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/04/13/e0eb0228505648d0b1004582e6a61662.png"
 }
-,
-{
-  "Name": "Sans模拟器",
-  "Version": "1.5.1",
-  "Filename": "c2-sans-fight_1.5.1_all.deb",
-  "Torrent_address": "c2-sans-fight_1.5.1_all.deb.torrent",
-  "Pkgname": "c2-sans-fight",
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "https://github.com/Jcw87/c2-sans-fight",
-  "Update": "2023-03-12 09:57:23",
-  "Size": "4.43 MB",
-  "More": "Sans模拟器，本地网页版。\n运行时38326端口会被占用！",
-  "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/4ca7d3f55f904dcba79e201e00fde815.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/b7bc84e93fe9475aa8edd52c8a67ca69.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/acd9f1767f054f58b14af2afe70d3fca.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/12/ff51faee93f14b2fb26b9134990836de.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/12/76217072160840d8b17a9c5e395e16b5.png"
-}
-
 ,
 {
   "Name": "黄金矿工维加斯",
@@ -2335,6 +2335,23 @@
 
 ,
 {
+  "Name": "multimc",
+  "Version": "1.5-1",
+  "Filename": "multimc_1.5-1_all.deb",
+  "Pkgname": "multimc",
+  "Author": "multimc",
+  "Contributor": "kite",
+  "Website": "https://multimc.org/",
+  "Update": "2021-08-30 11:25:40",
+  "Size": "7.51 KB",
+  "More": "MultiMC是一个免费的，开源的我的世界启动器。它允许您拥有多个完全分离的 Minecraft 实例（每个实例都有自己的模组、资源包、保存等），并帮助您使用简单而强大的界面管理它们及其相关选项。\n\n！MultiMC要求 Qt5 安装在 Linux 上。如果没有它，您可能需要安装以下包：‎！\nUbuntu/Debian: 【qt5-default】",
+  "Tags": "debian;deepin;ubuntu",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/80fa8a30-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/94e6f150-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/954fc540-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/9d6ccc00-0941-11ec-ac2e-67a4ff5f8f64.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/30/ff61f710-0940-11ec-ac2e-67a4ff5f8f64.png"
+}
+
+,
+{
   "Name": "人力资源机器：编程一小时版本 (wine)",
   "Version": "1.0.34606~spark3",
   "Filename": "human-resource-machine-hoc_1.0.34606~spark3_amd64.deb",
@@ -2349,23 +2366,6 @@
   "Tags": "deepin;dwine5",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/56496fa0-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/56653500-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/5667f420-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/566d4b50-6b37-11ed-8c55-33d7e78fc69b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/23/566a6520-6b37-11ed-8c55-33d7e78fc69b.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/23/50d89d20-6b37-11ed-8c55-33d7e78fc69b.png"
-}
-
-,
-{
-  "Name": "multimc",
-  "Version": "1.5-1",
-  "Filename": "multimc_1.5-1_all.deb",
-  "Pkgname": "multimc",
-  "Author": "multimc",
-  "Contributor": "kite",
-  "Website": "https://multimc.org/",
-  "Update": "2021-08-30 11:25:40",
-  "Size": "7.51 KB",
-  "More": "MultiMC是一个免费的，开源的我的世界启动器。它允许您拥有多个完全分离的 Minecraft 实例（每个实例都有自己的模组、资源包、保存等），并帮助您使用简单而强大的界面管理它们及其相关选项。\n\n！MultiMC要求 Qt5 安装在 Linux 上。如果没有它，您可能需要安装以下包：‎！\nUbuntu/Debian: 【qt5-default】",
-  "Tags": "debian;deepin;ubuntu",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/80fa8a30-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/94e6f150-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/954fc540-0941-11ec-ac2e-67a4ff5f8f64.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/9d6ccc00-0941-11ec-ac2e-67a4ff5f8f64.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/30/ff61f710-0940-11ec-ac2e-67a4ff5f8f64.png"
 }
 
 ,
@@ -2388,24 +2388,6 @@
 
 ,
 {
-  "Name": "终端贪吃蛇游戏 (csnaketerm)",
-  "Version": "0.2.0~spark4",
-  "Filename": "csnaketerm_0.2.0~spark4_all.deb",
-  "Torrent_address": "csnaketerm_0.2.0~spark4_all.deb.torrent",
-  "Pkgname": "csnaketerm",
-  "Author": "Donald Sebastian Leung",
-  "Contributor": "Donald Sebastian Leung",
-  "Website": "https://github.com/DonaldKellett/csnaketerm",
-  "Update": "2023-01-14 12:59:24",
-  "Size": "12.81 KB",
-  "More": "经典终端贪食蛇游戏 csnaketerm 是一个以 Node.js 实现的贪食蛇游戏：\n\n- 可选择三个版图：旷野、围墙、迷宫\n- 可选择四种难度：初级、中级、高级、疯狂\n- 能记录您每个 版图+难度 组合所得的最高分数\n\n详情请参考原 GitHub 仓库：https://github.com/DonaldKellett/csnaketerm\n\n如有问题，请发邮件给 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/csnaketerm-spark-store 建工单。",
-  "Tags": "community;deepin",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/329bd890-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32c00260-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32d278f0-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32aca170-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32e4a160-93c8-11ed-8dce-1fec4c93e3a4.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/306dd500-93c8-11ed-8dce-1fec4c93e3a4.png"
-}
-
-,
-{
   "Name": "pcsx2-qt",
   "Version": "1.7.4965",
   "Filename": "pcsx2-qt-amd64_1.7.4965_amd64.deb",
@@ -2420,6 +2402,24 @@
   "Tags": "a2d;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/95f7e3fc72704b469c280e2b22363f29.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/2b36a2612b454d14af00ef9a268e0493.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/02/01aa276470b14c9496e1f4dc48bd9d5c.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/02/2e09f6f5b760441199a1fe471be7efe6.png"
+}
+
+,
+{
+  "Name": "终端贪吃蛇游戏 (csnaketerm)",
+  "Version": "0.2.0~spark4",
+  "Filename": "csnaketerm_0.2.0~spark4_all.deb",
+  "Torrent_address": "csnaketerm_0.2.0~spark4_all.deb.torrent",
+  "Pkgname": "csnaketerm",
+  "Author": "Donald Sebastian Leung",
+  "Contributor": "Donald Sebastian Leung",
+  "Website": "https://github.com/DonaldKellett/csnaketerm",
+  "Update": "2023-01-14 12:59:24",
+  "Size": "12.81 KB",
+  "More": "经典终端贪食蛇游戏 csnaketerm 是一个以 Node.js 实现的贪食蛇游戏：\n\n- 可选择三个版图：旷野、围墙、迷宫\n- 可选择四种难度：初级、中级、高级、疯狂\n- 能记录您每个 版图+难度 组合所得的最高分数\n\n详情请参考原 GitHub 仓库：https://github.com/DonaldKellett/csnaketerm\n\n如有问题，请发邮件给 donaldsebleung@qq.com 或于 https://gitee.com/donaldsebleung/csnaketerm-spark-store 建工单。",
+  "Tags": "community;deepin",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/329bd890-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32c00260-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32d278f0-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32aca170-93c8-11ed-8dce-1fec4c93e3a4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/14/32e4a160-93c8-11ed-8dce-1fec4c93e3a4.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/14/306dd500-93c8-11ed-8dce-1fec4c93e3a4.png"
 }
 
 ,
@@ -3240,24 +3240,6 @@
 
 ,
 {
-  "Name": "梦幻西游电脑版（Wine）",
-  "Version": "3.0.513deepin8",
-  "Filename": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb",
-  "Torrent_address": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb.torrent",
-  "Pkgname": "com.xyq.163.deepin",
-  "Author": "Deepin WINE Team",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://xyq.136.com",
-  "Update": "2024-06-08 09:47:56",
-  "Size": "503.77 MB",
-  "More": "注意事项：已知资源包加载页面会有显示异常的情况，但不影响进入游戏。另外可能存在部分性能较差的设备无法正常运行的情况，请谨慎下载。\n——\n梦幻西游以四大名著中的《西游记》为背景蓝本，进行改编，Q版的人物模型，看起来呆萌可爱;游戏中有多达18位角色供玩家选择，他们分属不同种族，不同角色还可以选择不同的武器，加入不同的门派;多样的职业组合，玩法多样;趣味性十足。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/e8c5a7031fb042eb924b162ecea14bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/314bdd277dce4cfa8f860cfc2efbc763.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/005368557e914df599dda1a4c47edbfb.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/ee4fada667ef4001aeab31c09ca11fef.png"
-}
-
-,
-{
   "Name": "越野坦克战场",
   "Version": "1.0spark0",
   "Filename": "com.battlebuggygroundz.spark_1.0spark0_amd64.deb",
@@ -3291,6 +3273,24 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/18/b69b2f0bd50542509899aba43f76c51f.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/04/18/c9d6ed415d974a3994ed123e99c9e02d.png"
 }
+,
+{
+  "Name": "梦幻西游电脑版（Wine）",
+  "Version": "3.0.513deepin8",
+  "Filename": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb",
+  "Torrent_address": "com.xyq.163.deepin_3.0.513deepin8_amd64.deb.torrent",
+  "Pkgname": "com.xyq.163.deepin",
+  "Author": "Deepin WINE Team",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://xyq.136.com",
+  "Update": "2024-06-08 09:47:56",
+  "Size": "503.77 MB",
+  "More": "注意事项：已知资源包加载页面会有显示异常的情况，但不影响进入游戏。另外可能存在部分性能较差的设备无法正常运行的情况，请谨慎下载。\n——\n梦幻西游以四大名著中的《西游记》为背景蓝本，进行改编，Q版的人物模型，看起来呆萌可爱;游戏中有多达18位角色供玩家选择，他们分属不同种族，不同角色还可以选择不同的武器，加入不同的门派;多样的职业组合，玩法多样;趣味性十足。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/e8c5a7031fb042eb924b162ecea14bdb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/314bdd277dce4cfa8f860cfc2efbc763.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/005368557e914df599dda1a4c47edbfb.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/ee4fada667ef4001aeab31c09ca11fef.png"
+}
+
 ,
 {
   "Name": "隐藏的人",
@@ -3609,24 +3609,6 @@
 }
 ,
 {
-  "Author": "联想(北京)有限公司软件事业部，杀毒软件吧",
-  "Contributor": "联想(北京)有限公司软件事业部，杀毒软件吧",
-  "Filename": "com.legend.chinese-chess-wine_1.1_all.deb",
-  "More": "",
-  "Name": "中国象棋（联想幸福1+1版）",
-  "Pkgname": "com.legend.chinese-chess-wine",
-  "Size": "53 Mb",
-  "Tags": "community;deepin;uos;ubuntu;dwine2;dwine5;debian",
-  "Torrent_address": "com.legend.chinese-chess-wine_1.1_all.deb.torrent",
-  "Update": "2024-08-31 20:22:56",
-  "Version": "1.1",
-  "Website": "http://priv-update.lenovo.com.cn/lenovosmart/04/lenovosmart/cooperation.html",
-  "icons": "https://spk-json.spark-app.store/loong64-store/games/com.legend.chinese-chess-wine/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/com.legend.chinese-chess-wine/screen_1.png\"]"
-}
-
-,
-{
   "Name": "Slay The Spire（杀戮尖塔）",
   "Version": "2.3.4",
   "Filename": "slaythespire_2.3.4_amd64.deb",
@@ -3659,6 +3641,24 @@
   "Tags": "community;deepin;uos;dtk5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/d810b04c2d954874ae77b5490b44da32.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/9ee92eb8c73b4f039903f96f18e0a339.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/4dceea73cad04a218315689b4ceebdd1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/a67e152d11674b528f9171cec4765400.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/0f524e1ec53e44998ccb7beca855edef.png"
+}
+
+,
+{
+  "Author": "联想(北京)有限公司软件事业部，杀毒软件吧",
+  "Contributor": "联想(北京)有限公司软件事业部，杀毒软件吧",
+  "Filename": "com.legend.chinese-chess-wine_1.1_all.deb",
+  "More": "",
+  "Name": "中国象棋（联想幸福1+1版）",
+  "Pkgname": "com.legend.chinese-chess-wine",
+  "Size": "53 Mb",
+  "Tags": "community;deepin;uos;ubuntu;dwine2;dwine5;debian",
+  "Torrent_address": "com.legend.chinese-chess-wine_1.1_all.deb.torrent",
+  "Update": "2024-08-31 20:22:56",
+  "Version": "1.1",
+  "Website": "http://priv-update.lenovo.com.cn/lenovosmart/04/lenovosmart/cooperation.html",
+  "icons": "https://spk-json.spark-app.store/loong64-store/games/com.legend.chinese-chess-wine/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/com.legend.chinese-chess-wine/screen_1.png\"]"
 }
 
 ,
@@ -3972,6 +3972,24 @@
 }
 ,
 {
+  "Name": "植物大战僵尸幼儿园版（Wine）",
+  "Version": "0.9deepin1",
+  "Filename": "com.juzhangdaren.deepin_0.9deepin1_amd64.deb",
+  "Torrent_address": "com.juzhangdaren.deepin_0.9deepin1_amd64.deb.torrent",
+  "Pkgname": "com.juzhangdaren.deepin",
+  "Author": "Deepin WINE Team",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://v.douyin.com/ihhw5QCb",
+  "Update": "2024-12-14 16:41:12",
+  "Size": "53.04 MB",
+  "More": "局长大人创作的植物大战僵尸改版。安装后请关闭3D加速。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/42f4f281b65d48cd9353d629af80202a.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/14/d16cb595380a42a1910a90bd8b0acf85.png"
+}
+
+,
+{
   "Name": "人体保卫战",
   "Version": "1.0.0",
   "Filename": "com.defendyourlife.spark_1.0.0_all.deb",
@@ -4039,24 +4057,6 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/04/d99ba75cfd824ad5b2500655020ac380.png\",\"https://spk-json.spark-app.store/images/2025/05/04/309f8d1ed84b4e208b29052f008c0744.png\",\"https://spk-json.spark-app.store/images/2025/05/04/2c667a8a17ae48f2b6604ededfebd065.png\",\"https://spk-json.spark-app.store/images/2025/05/04/78b90f3d558f47379bc0919f94676210.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/05/04/e76d40c1531e4257a1daf3a5359e3a27.png"
 }
-,
-{
-  "Name": "植物大战僵尸幼儿园版（Wine）",
-  "Version": "0.9deepin1",
-  "Filename": "com.juzhangdaren.deepin_0.9deepin1_amd64.deb",
-  "Torrent_address": "com.juzhangdaren.deepin_0.9deepin1_amd64.deb.torrent",
-  "Pkgname": "com.juzhangdaren.deepin",
-  "Author": "Deepin WINE Team",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://v.douyin.com/ihhw5QCb",
-  "Update": "2024-12-14 16:41:12",
-  "Size": "53.04 MB",
-  "More": "局长大人创作的植物大战僵尸改版。安装后请关闭3D加速。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/42f4f281b65d48cd9353d629af80202a.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2024/12/14/d16cb595380a42a1910a90bd8b0acf85.png"
-}
-
 ,
 {
     "Author": "Joydin<support@joydin.com>",
@@ -4216,6 +4216,23 @@
 }
 ,
 {
+    "Name": "citron",
+    "Version": "20250502-0.6.1",
+    "Filename": "citron_20250502-0.6.1_amd64.deb",
+    "Torrent_address": "citron_20250502-0.6.1_amd64.deb.torrent",
+    "Pkgname": "citron",
+    "Author": "citron",
+    "Contributor": "海阔山遥",
+    "Website": "https://citron-emu.pro/",
+    "Update": "2025-05-02 11:19:29",
+    "Size": "111.8 MB",
+    "More": "继yuzu，suyu之后，修复大量游戏渲染错误，推荐更新mesa25.1（驱动还未正式）\n2025.02.22更新提升vulkan稳定性。\n2025.02.25更新实现 TLB 缓存系统。\n2025.03.02更新qt打包环境6.8.2&修复一些已知问题。\n2025.04.03修复部分游戏中的显示错误\n2025.04.14修复部分问题\n2025.04.19更新vulkan头及依赖\n2025.05.02修复大量问题同步官方版本",
+    "Tags": "community;debian;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/02/014b24c00a1e406aa72c5563edad72b7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/fdd534840d544ce98f32da429f1f8bd7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/ec2f4b8dc91443eeb29a1e058664ebc4.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/02/748e80947a914cdc9967bc0b812ed539.png"
+}
+,
+{
     "Name": "洛基：北欧怪奇之旅",
     "Version": "1.0spark1",
     "Filename": "com.roki.spark_1.0spark1_all.deb",
@@ -4247,23 +4264,6 @@
     "Tags": "debian;deepin;uos;dwine5",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/04/aeb5a3bfd8d145be974be3a78c7e22d3.png\",\"https://spk-json.spark-app.store/images/2025/05/04/89b74b8411df41628c02a67c91c31fc1.png\",\"https://spk-json.spark-app.store/images/2025/05/04/a41901610ce34b77bba7f703972617b8.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/05/04/9d50503884fa4f15b35a1eaf60f94d5a.png"
-}
-,
-{
-    "Name": "citron",
-    "Version": "20250502-0.6.1",
-    "Filename": "citron_20250502-0.6.1_amd64.deb",
-    "Torrent_address": "citron_20250502-0.6.1_amd64.deb.torrent",
-    "Pkgname": "citron",
-    "Author": "citron",
-    "Contributor": "海阔山遥",
-    "Website": "https://citron-emu.pro/",
-    "Update": "2025-05-02 11:19:29",
-    "Size": "111.8 MB",
-    "More": "继yuzu，suyu之后，修复大量游戏渲染错误，推荐更新mesa25.1（驱动还未正式）\n2025.02.22更新提升vulkan稳定性。\n2025.02.25更新实现 TLB 缓存系统。\n2025.03.02更新qt打包环境6.8.2&修复一些已知问题。\n2025.04.03修复部分游戏中的显示错误\n2025.04.14修复部分问题\n2025.04.19更新vulkan头及依赖\n2025.05.02修复大量问题同步官方版本",
-    "Tags": "community;debian;ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/02/014b24c00a1e406aa72c5563edad72b7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/fdd534840d544ce98f32da429f1f8bd7.png\",\"https://spk-json.spark-app.store/images/2025/05/02/ec2f4b8dc91443eeb29a1e058664ebc4.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/02/748e80947a914cdc9967bc0b812ed539.png"
 }
 ,
 {
@@ -4389,6 +4389,24 @@
 
 ,
 {
+  "Name": "HMCL通用版JE",
+  "Version": "3.6.11.267-dev20250212114101~universal",
+  "Filename": "hmcl_3.6.11.267-dev20250212114101~universal_amd64.deb",
+  "Torrent_address": "hmcl_3.6.11.267-dev20250212114101~universal_amd64.deb.torrent",
+  "Pkgname": "hmcl",
+  "Author": "hyls <2318494274@qq.com>",
+  "Contributor": "hyls <2318494274@qq.com>",
+  "Website": "https://hmcl.huangyuhui.net/",
+  "Update": "2025-02-13 22:21:01",
+  "Size": "297.14 MB",
+  "More": "通用版HMCL。",
+  "Tags": "ubuntu",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/13/974260d74ed04bbdbfae26dfbde51ff4.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/02/13/32f45ca09bc24893a290bb52f37f7530.png"
+}
+
+,
+{
     "Name": "轮回",
     "Version": "1.0spark2",
     "Filename": "com.samsara.spark_1.0spark2_all.deb",
@@ -4506,24 +4524,6 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c4aa34bcbd004de8841e9a6cfdc6ba61.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/250166db4b84486bbde1eb0e134663a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/04/c9d3684dd4fc4add916bd196ad64a6f0.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/04/90fbf62a71eb45dc82938f58c38beba3.png"
-}
-
-,
-{
-  "Name": "HMCL通用版JE",
-  "Version": "3.6.11.267-dev20250212114101~universal",
-  "Filename": "hmcl_3.6.11.267-dev20250212114101~universal_amd64.deb",
-  "Torrent_address": "hmcl_3.6.11.267-dev20250212114101~universal_amd64.deb.torrent",
-  "Pkgname": "hmcl",
-  "Author": "hyls <2318494274@qq.com>",
-  "Contributor": "hyls <2318494274@qq.com>",
-  "Website": "https://hmcl.huangyuhui.net/",
-  "Update": "2025-02-13 22:21:01",
-  "Size": "297.14 MB",
-  "More": "通用版HMCL。",
-  "Tags": "ubuntu",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/13/974260d74ed04bbdbfae26dfbde51ff4.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/02/13/32f45ca09bc24893a290bb52f37f7530.png"
 }
 
 ,
@@ -5221,6 +5221,23 @@
 
 ,
 {
+    "Name": "植物大战僵尸.NET移植版",
+    "Version": "1.0.1.1",
+    "Filename": "com.plantsvszombies.dotnet_1.0.1.1_amd64.deb",
+    "Torrent_address": "com.plantsvszombies.dotnet_1.0.1.1_amd64.deb.torrent",
+    "Pkgname": "com.plantsvszombies.dotnet",
+    "Author": "spark-store",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "mozixun <ronforever@qq.com>",
+    "Update": "2025-06-25 21:47:36",
+    "Size": "108.65 MB",
+    "More": "Github开源大佬基于.NET框架移植的植物大战僵尸原生版本(不是Wine运行的版本)",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/25/7cb2c40ef8cb462999c21636cc6b16b6.png\",\"https://spk-json.spark-app.store/images/2025/06/25/ad9a3772bbac4ed594c8fdd54e1b3605.png\",\"https://spk-json.spark-app.store/images/2025/06/25/75341a59d01042d3b5a27f35ee0bc978.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/25/fd17c7f62cc3464c9463fad2c7df439b.png"
+}
+,
+{
   "Name": "Papa's Wingeria（老爹鸡翅店）",
   "Version": "2.0",
   "Filename": "com.papaswingeria.spark_2.0_amd64.deb",
@@ -5307,23 +5324,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/07/d041cdd0-e648-11ec-83dc-89b3c8c47cfd.svg"
 }
 
-,
-{
-    "Name": "植物大战僵尸.NET移植版",
-    "Version": "1.0.1.1",
-    "Filename": "com.plantsvszombies.dotnet_1.0.1.1_amd64.deb",
-    "Torrent_address": "com.plantsvszombies.dotnet_1.0.1.1_amd64.deb.torrent",
-    "Pkgname": "com.plantsvszombies.dotnet",
-    "Author": "spark-store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "mozixun <ronforever@qq.com>",
-    "Update": "2025-06-25 21:47:36",
-    "Size": "108.65 MB",
-    "More": "Github开源大佬基于.NET框架移植的植物大战僵尸原生版本(不是Wine运行的版本)",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/25/7cb2c40ef8cb462999c21636cc6b16b6.png\",\"https://spk-json.spark-app.store/images/2025/06/25/ad9a3772bbac4ed594c8fdd54e1b3605.png\",\"https://spk-json.spark-app.store/images/2025/06/25/75341a59d01042d3b5a27f35ee0bc978.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/25/fd17c7f62cc3464c9463fad2c7df439b.png"
-}
 ,
 {
     "Name": "FurMark",

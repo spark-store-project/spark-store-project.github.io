@@ -3742,24 +3742,6 @@ Description: WinRAR on deepin wine6
 
 Package: cn.huorong.esm
 Architecture: loong64
-Version: 2.0.10.1
-Multi-Arch: foreign
-Priority: optional
-Section: utils
-Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
-Installed-Size: 79718
-Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
-Filename: ./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.1_loong64.deb
-Size: 32972858
-MD5sum: 7763a8fc84ab0b7784f95c6301751d3b
-SHA1: 308f55a4db5cece5ef5327618f37f53d34ee72e5
-SHA256: 41599bce61c40d2e9da08fd5a53b72e4988bb2711b6acdd28913f45461343469
-SHA512: 9f227a21fad1c58b89dee9e340059dcda415e8bf312464ea0a5a27203392bd7e41287de110c5793a9229604f7109856721f2a5c00dc5673f76f82ca5393d8961
-Homepage: https://huorong.cn
-Description: 火绒终端安全管理系统
-
-Package: cn.huorong.esm
-Architecture: loong64
 Version: 2.0.10.3
 Multi-Arch: foreign
 Priority: optional
@@ -7715,22 +7697,6 @@ MD5sum: 110e852270d0d4c21555b7953a793ab4
 SHA1: 0a12bb697383083a966ade14e5e43af9f569c34f
 SHA256: 89c81c5405fd2f6d5ef59da9f5d5cb64ecad18f239e601feac604196e720c24d
 SHA512: 5f228d113f628360da7217b5be01b898f2b109f56075ef992f399c368fc4510b2e8edb9eb8121be0995efe17b39abffe4edfa84abcc4deeef755d11d3e48b22d
-Homepage: http://www.wind.com.cn
-Description: Wind-领先的金融数据和分析工具服务商
-
-Package: com.wind.wft
-Architecture: loong64
-Version: 25.1.2.05281
-Priority: optional
-Section: utils
-Maintainer: service@wind.com.cn
-Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
-Filename: ./others/com.wind.wft/com.wind.wft_25.1.2.05281_loong64.deb
-Size: 327078470
-MD5sum: 59250bb1ef093d6273f388c34fd96c1a
-SHA1: eb76ae40f14429a267162a88e9ee222cff7fe16f
-SHA256: a70f530f6af6bfec0cf3178a66207859cea281e97dca52d077b8ffbaa0e11330
-SHA512: c59e898c880b11bc210a3b26066cbc3950b4683e7f157187d3f46472ee139d293756c2f0f8fb0821786659ca45250a3e17981274509ba77e78502417dfdc1eea
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
 
