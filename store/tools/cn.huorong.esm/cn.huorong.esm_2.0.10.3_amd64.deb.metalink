@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<metalink xmlns="http://www.metalinker.org/" version="3.0">
+	  
+	<files>
+		  
+		<file name="cn.huorong.esm_2.0.10.3_amd64.deb">
+			  
+			<verification>
+				  
+				<hash type="md5">c0736812a2f86c359c3fdd7d4000af06</hash>
+				  
+				<hash type="sha1">cdca0bbd1e09880802b02561cf9927bbf78a2f2f</hash>
+				  
+				<signature type="pgp"/>
+				  
+			</verification>
+			  
+			<resources>
+				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cn.mirror.uniartisan.com:8443/store/./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">http://mirror.uniartisan.com/store/./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://mirror.sunnypai.top/spark-store/store/./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://edging.spark-app.store:2096/store/./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb</url>
+				  
+				<url type="http" location="cn" preference="100">https://cfzun.deepinos.org.cn/store/./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb</url>
+				   
+			</resources>
+			  
+		</file>
+		  
+	</files>
+	 
+</metalink>

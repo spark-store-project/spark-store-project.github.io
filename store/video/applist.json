@@ -686,24 +686,6 @@
 
 ,
 {
-  "Name": "人人视频",
-  "Version": "1.7.0.33",
-  "Filename": "com.renrenshipin.deepin_1.7.0.33_all.deb",
-  "Torrent_address": "com.renrenshipin.deepin_1.7.0.33_all.deb.torrent",
-  "Pkgname": "com.renrenshipin.deepin",
-  "Author": "人人视频",
-  "Contributor": "人人视频",
-  "Website": "https://lequkeji.com/#/home",
-  "Update": "2024-07-05 22:53:23",
-  "Size": "105.9 MB",
-  "More": "人人视频致力于成为一款受用户喜爱的影视剧应用,为pc用户提供优秀的看剧体验;更丰富的影视剧作品，包括韩剧、美剧、日剧、电影等等。",
-  "Tags": "deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/2163879577374a73bc61439a79d1a585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/ce704a4b307a404bbcac00b6924d56d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/21b080f646ab4ab8a2bfefc7a21107ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/b9b283fcaf214cdc8b131d865cca1b6f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/05/0100906f73e04007ab677d7d77c7823b.png"
-}
-
-,
-{
   "Name": "losslessCut无损剪辑",
   "Version": "3.64.0",
   "Filename": "losslesscut.spark_3.64.0_amd64.deb",
@@ -718,6 +700,24 @@
   "Tags": "ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/59bcc3f8a7444dca9784215ee8805e1f.png\",\"https://spk-json.spark-app.store/images/2024/12/14/c3d866a0e8784e2ab26e3033c3b41e78.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2024/12/14/a9fba287d76546968741cbc1824b37aa.png"
+}
+
+,
+{
+  "Name": "人人视频",
+  "Version": "1.7.0.33",
+  "Filename": "com.renrenshipin.deepin_1.7.0.33_all.deb",
+  "Torrent_address": "com.renrenshipin.deepin_1.7.0.33_all.deb.torrent",
+  "Pkgname": "com.renrenshipin.deepin",
+  "Author": "人人视频",
+  "Contributor": "人人视频",
+  "Website": "https://lequkeji.com/#/home",
+  "Update": "2024-07-05 22:53:23",
+  "Size": "105.9 MB",
+  "More": "人人视频致力于成为一款受用户喜爱的影视剧应用,为pc用户提供优秀的看剧体验;更丰富的影视剧作品，包括韩剧、美剧、日剧、电影等等。",
+  "Tags": "deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/2163879577374a73bc61439a79d1a585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/ce704a4b307a404bbcac00b6924d56d0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/21b080f646ab4ab8a2bfefc7a21107ec.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/05/b9b283fcaf214cdc8b131d865cca1b6f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/05/0100906f73e04007ab677d7d77c7823b.png"
 }
 
 ,
@@ -862,21 +862,6 @@
 
 ,
 {
-  "Name": "MystiQ影音转换器",
-  "Version": "20.03.23-1",
-  "Filename": "mystiq_20.03.23-1_amd64.deb",
-  "Pkgname": "mystiq",
-  "Author": "swl-x",
-  "Contributor": "anima",
-  "Website": "https://github.com/swl-x/MystiQ",
-  "Update": "2020-06-25 18:15",
-  "Size": "583.85KB",
-  "More": "MystiQ是一款基于 Qt5/C++ 的 FFmpeg 媒体格式转换器。",
-  "Tags": "debian"
-}
-
-,
-{
   "Name": "Simple Live",
   "Version": "1.7.3+10703.1",
   "Filename": "simple-live_1.7.3_plus10703.1_amd64.deb",
@@ -891,6 +876,21 @@
   "Tags": "community;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/13/81ccf63087c54fadb855a017fddcba20.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/13/28fed83d448148d68677cb6455ab61be.png"
+}
+
+,
+{
+  "Name": "MystiQ影音转换器",
+  "Version": "20.03.23-1",
+  "Filename": "mystiq_20.03.23-1_amd64.deb",
+  "Pkgname": "mystiq",
+  "Author": "swl-x",
+  "Contributor": "anima",
+  "Website": "https://github.com/swl-x/MystiQ",
+  "Update": "2020-06-25 18:15",
+  "Size": "583.85KB",
+  "More": "MystiQ是一款基于 Qt5/C++ 的 FFmpeg 媒体格式转换器。",
+  "Tags": "debian"
 }
 
 ,
@@ -1014,23 +1014,6 @@
 
 ,
 {
-  "Name": "万彩动画大师",
-  "Version": "2.9.201spark2",
-  "Filename": "com.animiz.spark_2.9.201spark2_i386.deb",
-  "Pkgname": "com.animiz.spark",
-  "Author": "广州万彩信息技术有限公司",
-  "Contributor": "sgb76",
-  "Website": "http://www.animiz.cn/",
-  "Update": "2021-11-13 12:01:13",
-  "Size": "189.25 MB",
-  "More": "人人都会用的动画视频制作软件 做动画视频比做PPT还简单\n\n注:如果安装过旧版，请先删除原wine容器（sudo rm -rf ~/.deepinwine/Deepin-animiz）后，再升级安装",
-  "Tags": "deepin;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/13/29f1d4c0-4436-11ec-bf58-cdd006724411.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/13/2c06ab00-4436-11ec-bf58-cdd006724411.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/13/2db0ffa0-4436-11ec-bf58-cdd006724411.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/13/259ea740-4436-11ec-bf58-cdd006724411.png"
-}
-
-,
-{
   "Name": "Movie To GIF",
   "Version": "3.3.0.0spark1",
   "Filename": "com.zxt2007.movietogif.spark_3.3.0.0spark1_all.deb",
@@ -1045,6 +1028,23 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/01/14/b8161d10c6d34cf7b74ad989d560ce5b.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/01/14/11ae55b045604676b2bce9619559a285.png"
+}
+
+,
+{
+  "Name": "万彩动画大师",
+  "Version": "2.9.201spark2",
+  "Filename": "com.animiz.spark_2.9.201spark2_i386.deb",
+  "Pkgname": "com.animiz.spark",
+  "Author": "广州万彩信息技术有限公司",
+  "Contributor": "sgb76",
+  "Website": "http://www.animiz.cn/",
+  "Update": "2021-11-13 12:01:13",
+  "Size": "189.25 MB",
+  "More": "人人都会用的动画视频制作软件 做动画视频比做PPT还简单\n\n注:如果安装过旧版，请先删除原wine容器（sudo rm -rf ~/.deepinwine/Deepin-animiz）后，再升级安装",
+  "Tags": "deepin;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/13/29f1d4c0-4436-11ec-bf58-cdd006724411.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/13/2c06ab00-4436-11ec-bf58-cdd006724411.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/13/2db0ffa0-4436-11ec-bf58-cdd006724411.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/13/259ea740-4436-11ec-bf58-cdd006724411.png"
 }
 
 ,

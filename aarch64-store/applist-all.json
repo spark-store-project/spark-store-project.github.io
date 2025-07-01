@@ -103,10 +103,10 @@
       "More": "Jokul自制简易式玲珑商店客户端，是玲珑官方SIG项目之一,使用过程中出现BUG，请在商店关于内问题反馈，或者在作者得github或者gitee上留issue，谢谢！",
       "Tags": "debian;community;ubuntu;deepin",
       "Pkgname": "linglong-store",
-      "Version": "1.4.0",
-      "Filename": "linglong-store_1.4.0_arm64.deb",
-      "Update": "2025-06-30 01:40:15",
-      "Size": "72.84MB",
+      "Version": "1.4.1",
+      "Filename": "linglong-store_1.4.1_arm64.deb",
+      "Update": "2025-07-02 01:39:31",
+      "Size": "72.39MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -270,22 +270,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-app-uninstaller/screen_1.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "uos-packaging-tools_1.7.5_all.deb",
-      "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
-      "Name": "维护打包工具箱",
-      "Pkgname": "uos-packaging-tools",
-      "Size": "78 Kb",
-      "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
-      "Update": "2025-06-16 23:07:11",
-      "Version": "1.7.5",
-      "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
-      "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
-    },
-    {
       "Author": "gfdgd_xi <3025613752@qq.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~buster_arm64.deb",
@@ -300,6 +284,22 @@
       "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
       "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "uos-packaging-tools_1.7.5_all.deb",
+      "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
+      "Name": "维护打包工具箱",
+      "Pkgname": "uos-packaging-tools",
+      "Size": "78 Kb",
+      "Tags": "community;deepin;ubuntu;debian;native",
+      "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
+      "Update": "2025-06-16 23:07:11",
+      "Version": "1.7.5",
+      "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
+      "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
     },
     {
       "Name": "引导修复 Boot-Repair",
@@ -462,15 +462,15 @@
     {
       "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "deepin-wine-builder_3.3.0.007-1_arm64.deb",
+      "Filename": "deepin-wine-builder_3.3.1.013-1_arm64.deb",
       "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
       "Name": "UOS应用迁移助手",
       "Pkgname": "deepin-wine-builder",
-      "Size": "14 Mb",
+      "Size": "16 Mb",
       "Tags": "deepin;uos;debian;dwine5",
-      "Torrent_address": "deepin-wine-builder_3.3.0.007-1_arm64.deb.torrent",
-      "Update": "2025-05-21 22:12:07",
-      "Version": "3.3.0.007-1",
+      "Torrent_address": "deepin-wine-builder_3.3.1.013-1_arm64.deb.torrent",
+      "Update": "2025-06-30 16:58:39",
+      "Version": "3.3.1.013-1",
       "Website": "https://www.deepin.org",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-builder/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-builder/screen_1.png\"]"
@@ -808,6 +808,22 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_4.png\"]"
     },
     {
+      "Author": "gfdgd_xi <3025613752@qq.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
+      "More": "GXDE 软件包安装器",
+      "Name": "GXDE 软件包安装器",
+      "Pkgname": "gxde-deb-installer",
+      "Size": "183 Kb",
+      "Tags": "community;deepin;ubuntu;debian;native",
+      "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
+      "Update": "2025-03-04 22:34:10",
+      "Version": "1.5.3",
+      "Website": "https://www.deepin.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
+    },
+    {
       "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "deepin-wine-diag_3.1.1.002-1_arm64.deb",
@@ -838,22 +854,6 @@
       "Website": "http://tav.qq.com",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_4.png\"]"
-    },
-    {
-      "Author": "gfdgd_xi <3025613752@qq.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
-      "More": "GXDE 软件包安装器",
-      "Name": "GXDE 软件包安装器",
-      "Pkgname": "gxde-deb-installer",
-      "Size": "183 Kb",
-      "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
-      "Update": "2025-03-04 22:34:10",
-      "Version": "1.5.3",
-      "Website": "https://www.deepin.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
     },
     {
       "Author": "zinface <zinface@163.com>",
@@ -888,22 +888,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/top.yzzi.supertabbar/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/top.yzzi.supertabbar/screen_2.png\"]"
     },
     {
-      "Author": "zty199 <zty2864@gmail.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb",
-      "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
-      "Name": "桌面快捷方式编辑器",
-      "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
-      "Size": "70 Kb",
-      "Tags": "community;deepin;uos;dtk5;debian",
-      "Torrent_address": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb.torrent",
-      "Update": "2023-03-06 21:01:25",
-      "Version": "1.4.5~uos",
-      "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
-    },
-    {
       "Author": "Deepin Packages Builder <packages@deepin.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "deepin-terminal-gtk_5.0.4.3gxde2_arm64.deb",
@@ -920,6 +904,22 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-terminal-gtk/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-terminal-gtk/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-terminal-gtk/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-terminal-gtk/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-terminal-gtk/screen_5.png\"]"
     },
     {
+      "Author": "zty199 <zty2864@gmail.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb",
+      "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+      "Name": "桌面快捷方式编辑器",
+      "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+      "Size": "70 Kb",
+      "Tags": "community;deepin;uos;dtk5;debian",
+      "Torrent_address": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5~uos_arm64.deb.torrent",
+      "Update": "2023-03-06 21:01:25",
+      "Version": "1.4.5~uos",
+      "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.gitee.deepin-opensource.desktop-entry-editor/screen_3.png\"]"
+    },
+    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
@@ -934,6 +934,22 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
+      "More": "会从系统的仓库获取Brasero,版本号无意义",
+      "Name": "Brasero 光盘刻录工具（系统源版）",
+      "Pkgname": "store.spark-app.appwrapper.brasero",
+      "Size": "3 Kb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb.torrent",
+      "Update": "2024-10-30 21:29:33",
+      "Version": "3.12.3-2",
+      "Website": "",
+      "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
     },
     {
       "Author": "LinkAndroid",
@@ -1000,22 +1016,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.htyclock.spark/screen_1.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
-      "More": "会从系统的仓库获取Brasero,版本号无意义",
-      "Name": "Brasero 光盘刻录工具（系统源版）",
-      "Pkgname": "store.spark-app.appwrapper.brasero",
-      "Size": "3 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb.torrent",
-      "Update": "2024-10-30 21:29:33",
-      "Version": "3.12.3-2",
-      "Website": "",
-      "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
-    },
-    {
       "Author": "SeptemberHX",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "mpaste_0.2.0_arm64.deb",
@@ -1048,22 +1048,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.aristocratos.bashtop/screen_3.png\"]"
     },
     {
-      "Author": "Rekols <rekols@foxmail.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-system-assistant_0.9.4_arm64.deb",
-      "More": "GXDE 系统助手是一款多功能的工具集\n\n",
-      "Name": "GXDE 系统助手",
-      "Pkgname": "gxde-system-assistant",
-      "Size": "156 Kb",
-      "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "gxde-system-assistant_0.9.4_arm64.deb.torrent",
-      "Update": "2025-03-04 22:37:23",
-      "Version": "0.9.4",
-      "Website": "https://gitee.com/GXDE-OS/gxde-system-assistant",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_4.png\"]"
-    },
-    {
       "Author": "spark-store",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "cherry-studio_1.4.2_arm64.deb",
@@ -1078,6 +1062,22 @@
       "Website": "https://cherry-ai.com/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherry-studio/screen_3.png\"]"
+    },
+    {
+      "Author": "Rekols <rekols@foxmail.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-system-assistant_0.9.4_arm64.deb",
+      "More": "GXDE 系统助手是一款多功能的工具集\n\n",
+      "Name": "GXDE 系统助手",
+      "Pkgname": "gxde-system-assistant",
+      "Size": "156 Kb",
+      "Tags": "community;deepin;ubuntu;debian;native",
+      "Torrent_address": "gxde-system-assistant_0.9.4_arm64.deb.torrent",
+      "Update": "2025-03-04 22:37:23",
+      "Version": "0.9.4",
+      "Website": "https://gitee.com/GXDE-OS/gxde-system-assistant",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-system-assistant/screen_4.png\"]"
     },
     {
       "Author": "shenmo<shenmo@spark-app.store>",
@@ -1110,6 +1110,22 @@
       "Website": "https://gitee.com/zinface/z-tools",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_2.png\"]"
+    },
+    {
+      "Name": "附加基础库 Additional Base Lib",
+      "Version": "2.41-9-9",
+      "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
+      "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
+      "Pkgname": "additional-base-lib",
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <shenmo@spark-app.store>",
+      "Website": "https://gitee.com/spark-store-project/additional-base-lib",
+      "Update": "2025-06-19 17:42:07",
+      "Size": "2.8M",
+      "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+      "Tags": "ubuntu;deepin;uos;debian;community",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
     },
     {
       "Author": "shenmo<shenmo@spark-app.store>",
@@ -1158,22 +1174,6 @@
       "Website": "https://www.deepin.org/",
       "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/screen_1.png\"]"
-    },
-    {
-      "Name": "附加基础库 Additional Base Lib",
-      "Version": "2.41-9-9",
-      "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
-      "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
-      "Pkgname": "additional-base-lib",
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <shenmo@spark-app.store>",
-      "Website": "https://gitee.com/spark-store-project/additional-base-lib",
-      "Update": "2025-06-19 17:42:07",
-      "Size": "2.8M",
-      "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-      "Tags": "ubuntu;deepin;uos;debian;community",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
     },
     {
       "Name": "Chatbox 多模型AI客户端",
@@ -1269,22 +1269,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/easy-send/screen_1.png\"]"
     },
     {
-      "Author": "Vlary",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "htyscreenpen_1.2_arm64.deb",
-      "More": "海天翼屏幕画笔，在屏幕上画图，配合腾讯会议上网课，岂不美哉～",
-      "Name": "海天鹰屏幕画笔",
-      "Pkgname": "htyscreenpen",
-      "Size": "43 Kb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Torrent_address": "htyscreenpen_1.2_arm64.deb.torrent",
-      "Update": "2023-03-05 18:53:15",
-      "Version": "1.2",
-      "Website": " https://github.com/sonichy/HTYScreenPen",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_4.png\"]"
-    },
-    {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "store.spark-app.appwrapper.grub-customizer_5.2.2-2_all.deb",
@@ -1299,6 +1283,22 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/screen_1.png\"]"
+    },
+    {
+      "Author": "Vlary",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "htyscreenpen_1.2_arm64.deb",
+      "More": "海天翼屏幕画笔，在屏幕上画图，配合腾讯会议上网课，岂不美哉～",
+      "Name": "海天鹰屏幕画笔",
+      "Pkgname": "htyscreenpen",
+      "Size": "43 Kb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Torrent_address": "htyscreenpen_1.2_arm64.deb.torrent",
+      "Update": "2023-03-05 18:53:15",
+      "Version": "1.2",
+      "Website": " https://github.com/sonichy/HTYScreenPen",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_4.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -1381,22 +1381,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-resourcehacker/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-resourcehacker/screen_2.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "spark-building-service_1.1.0_all.deb",
-      "More": "星火构建服务 SBS\n前往官网查看",
-      "Name": "星火构建服务 SBS",
-      "Pkgname": "spark-building-service",
-      "Size": "6 Kb",
-      "Tags": "community;debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "spark-building-service_1.1.0_all.deb.torrent",
-      "Update": "2025-02-14 20:17:45",
-      "Version": "1.1.0",
-      "Website": "https://gitee.com/spark-building-service/spark-building-service",
-      "icons": "https://spk-json.spark-app.store/store/tools/spark-building-service/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-building-service/screen_1.png\"]"
-    },
-    {
       "Author": "Deepin Sysdev <sysdev@linuxdeepin.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "gxde-boot-maker_2.0.5.2_arm64.deb",
@@ -1411,6 +1395,22 @@
       "Website": "http://gitee.com/GXDE-OS/gxde-boot-maker",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-boot-maker/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-boot-maker/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "spark-building-service_1.1.0_all.deb",
+      "More": "星火构建服务 SBS\n前往官网查看",
+      "Name": "星火构建服务 SBS",
+      "Pkgname": "spark-building-service",
+      "Size": "6 Kb",
+      "Tags": "community;debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "spark-building-service_1.1.0_all.deb.torrent",
+      "Update": "2025-02-14 20:17:45",
+      "Version": "1.1.0",
+      "Website": "https://gitee.com/spark-building-service/spark-building-service",
+      "icons": "https://spk-json.spark-app.store/store/tools/spark-building-service/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-building-service/screen_1.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.stpre>",
@@ -1559,6 +1559,22 @@
     {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-app-upgrader_1.5.2_all.deb",
+      "More": "使用 gxde-app-upgrader 以进行检查更新",
+      "Name": "GXDE 软件包更新器",
+      "Pkgname": "gxde-app-upgrader",
+      "Size": "20 Kb",
+      "Tags": "community;deepin;uos;ubuntu;native",
+      "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
+      "Update": "2025-03-04 22:33:19",
+      "Version": "1.5.2",
+      "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb",
       "More": "从系统源获取的Remmina，版本号无意义\n\nhttps://gitee.com/shenmo7192/taowa-tools/",
       "Name": "Remmina(系统源版)",
@@ -1573,20 +1589,20 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_2.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
+      "Author": "sgb76 <sgb76@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-app-upgrader_1.5.2_all.deb",
-      "More": "使用 gxde-app-upgrader 以进行检查更新",
-      "Name": "GXDE 软件包更新器",
-      "Pkgname": "gxde-app-upgrader",
-      "Size": "20 Kb",
-      "Tags": "community;deepin;uos;ubuntu;native",
-      "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
-      "Update": "2025-03-04 22:33:19",
-      "Version": "1.5.2",
-      "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/screen_1.png\"]"
+      "Filename": "doublecmd-spark_1.1.22spark3_arm64.deb",
+      "More": "Double Commander是一款具有两个并排面板的跨平台开源文件管理器",
+      "Name": "DoubleCommander",
+      "Pkgname": "doublecmd-spark",
+      "Size": "8697 Kb",
+      "Tags": "deepin;uos;ubuntu;debian;native",
+      "Torrent_address": "doublecmd-spark_1.1.22spark3_arm64.deb.torrent",
+      "Update": "2025-03-05 11:14:08",
+      "Version": "1.1.22spark3",
+      "Website": "http://doublecommander.com/",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_2.png\"]"
     },
     {
       "Author": "ieusr<ieusr@qq.com>",
@@ -1669,22 +1685,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-autotrash/screen_1.png\"]"
     },
     {
-      "Author": "sgb76 <sgb76@163.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "doublecmd-spark_1.1.22spark3_arm64.deb",
-      "More": "Double Commander是一款具有两个并排面板的跨平台开源文件管理器",
-      "Name": "DoubleCommander",
-      "Pkgname": "doublecmd-spark",
-      "Size": "8697 Kb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "doublecmd-spark_1.1.22spark3_arm64.deb.torrent",
-      "Update": "2025-03-05 11:14:08",
-      "Version": "1.1.22spark3",
-      "Website": "http://doublecommander.com/",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_2.png\"]"
-    },
-    {
       "Author": "BaoquTech",
       "Contributor": "BaoquTech",
       "Filename": "com.duba.antivirus_1.1.0.15_arm64.deb",
@@ -1715,6 +1715,22 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/store/tools/cn.flamescion.taowa-tools/icon.png",
       "img_urls": "[]"
+    },
+    {
+      "Author": "zinface <zinface@163.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "icalingua-autoservice_0.0.1_all.deb",
+      "More": "icalingua++ 的用户服务，在 icalingua++ 崩溃时会自动重启 icalingua++",
+      "Name": "icalingua++ 用户服务",
+      "Pkgname": "icalingua-autoservice",
+      "Size": "1 Kb",
+      "Tags": "community;debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "icalingua-autoservice_0.0.1_all.deb.torrent",
+      "Update": "2023-03-07 21:52:00",
+      "Version": "0.0.1",
+      "Website": "https://gitee.com/zinface/icalingua-autoservice",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/icalingua-autoservice/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/icalingua-autoservice/screen_1.png\"]"
     },
     {
       "Author": "shenmo<shenmo@spark-app.store>",
@@ -1763,22 +1779,6 @@
       "Website": "https://rclone.org",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/rclone/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/rclone/screen_1.png\"]"
-    },
-    {
-      "Author": "zinface <zinface@163.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "icalingua-autoservice_0.0.1_all.deb",
-      "More": "icalingua++ 的用户服务，在 icalingua++ 崩溃时会自动重启 icalingua++",
-      "Name": "icalingua++ 用户服务",
-      "Pkgname": "icalingua-autoservice",
-      "Size": "1 Kb",
-      "Tags": "community;debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "icalingua-autoservice_0.0.1_all.deb.torrent",
-      "Update": "2023-03-07 21:52:00",
-      "Version": "0.0.1",
-      "Website": "https://gitee.com/zinface/icalingua-autoservice",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/icalingua-autoservice/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/icalingua-autoservice/screen_1.png\"]"
     },
     {
       "Name": "Cloudflare Tunnel client",
@@ -2348,22 +2348,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/windows7-wallpapers/screen_1.png\"]"
     },
     {
-      "Author": "3025613752 <3025613752@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb",
-      "More": "《 有兽焉 》（Fabulous Beasts）是一部由非人哉工作室出品的姊妹篇漫画，作者为靴下猫腰子。该漫画主要讲述天上神兽前往人间的生活，目前在其官方渠道连载。作品中登场的主人公们是一群“兽”，因为各种原因下凡。作品中的角色和《非人哉》《万圣街》也偶尔有互动。\n壁纸来源：bilibili.com/video/BV1BP41177ec\n字体来源：https://www.hanyi.com.cn/productdetail?id=13066&type=0",
-      "Name": "有兽焉主题（壁纸+字体）",
-      "Pkgname": "com.uniontech.theme.fabulous.beasts",
-      "Size": "14 Mb",
-      "Tags": "deepin;uos;debian;native",
-      "Torrent_address": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb.torrent",
-      "Update": "2023-06-24 12:30:25",
-      "Version": "1.0.0",
-      "Website": "https://www.bilibili.com/bangumi/media/md28235647",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_4.png\"]"
-    },
-    {
       "Author": "Deepin Packages Builder <packages@deepin.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "sea-icon-theme_2020.04.13-1_all.deb",
@@ -2378,6 +2362,22 @@
       "Website": " ",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/sea-icon-theme/screen_1.png\"]"
+    },
+    {
+      "Author": "3025613752 <3025613752@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb",
+      "More": "《 有兽焉 》（Fabulous Beasts）是一部由非人哉工作室出品的姊妹篇漫画，作者为靴下猫腰子。该漫画主要讲述天上神兽前往人间的生活，目前在其官方渠道连载。作品中登场的主人公们是一群“兽”，因为各种原因下凡。作品中的角色和《非人哉》《万圣街》也偶尔有互动。\n壁纸来源：bilibili.com/video/BV1BP41177ec\n字体来源：https://www.hanyi.com.cn/productdetail?id=13066&type=0",
+      "Name": "有兽焉主题（壁纸+字体）",
+      "Pkgname": "com.uniontech.theme.fabulous.beasts",
+      "Size": "14 Mb",
+      "Tags": "deepin;uos;debian;native",
+      "Torrent_address": "com.uniontech.theme.fabulous.beasts_1.0.0_all.deb.torrent",
+      "Update": "2023-06-24 12:30:25",
+      "Version": "1.0.0",
+      "Website": "https://www.bilibili.com/bangumi/media/md28235647",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/com.uniontech.theme.fabulous.beasts/screen_4.png\"]"
     },
     {
       "Author": "username <username@uniontech.com>",
@@ -2540,22 +2540,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-children-icon/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/deepin-children-icon/screen_2.png\"]"
     },
     {
-      "Author": "sgb76 <sgb76@163.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "candy-icons.spark_1.0spark0_all.deb",
-      "More": "一套甜蜜的渐变图标主题",
-      "Name": "Candy图标主题",
-      "Pkgname": "candy-icons.spark",
-      "Size": "899 Kb",
-      "Tags": "deepin;debian;native",
-      "Torrent_address": "candy-icons.spark_1.0spark0_all.deb.torrent",
-      "Update": "2023-03-07 22:06:31",
-      "Version": "1.0spark0",
-      "Website": "https://github.com/EliverLara/candy-icons",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_2.png\"]"
-    },
-    {
       "Author": "sgb76",
       "Contributor": "sgb76",
       "Filename": "volantes-cursors_1.0_all.deb",
@@ -2570,6 +2554,22 @@
       "Website": "sgb76@163.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/themes/volantes-cursors/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/volantes-cursors/screen_1.png\"]"
+    },
+    {
+      "Author": "sgb76 <sgb76@163.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "candy-icons.spark_1.0spark0_all.deb",
+      "More": "一套甜蜜的渐变图标主题",
+      "Name": "Candy图标主题",
+      "Pkgname": "candy-icons.spark",
+      "Size": "899 Kb",
+      "Tags": "deepin;debian;native",
+      "Torrent_address": "candy-icons.spark_1.0spark0_all.deb.torrent",
+      "Update": "2023-03-07 22:06:31",
+      "Version": "1.0spark0",
+      "Website": "https://github.com/EliverLara/candy-icons",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/candy-icons.spark/screen_2.png\"]"
     },
     {
       "Author": "shenmo",
@@ -2636,22 +2636,6 @@
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx-ui-simple/screen_3.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
-      "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
-      "Name": "fcitx5皮肤深度终端",
-      "Pkgname": "fcitx5-ui-deepin-terminal",
-      "Size": "105 Kb",
-      "Tags": "community;debian;deepin;ubuntu;uos;native",
-      "Torrent_address": "fcitx5-ui-deepin-terminal_0.1-2_all.deb.torrent",
-      "Update": "2023-03-07 22:09:35",
-      "Version": "0.1-2",
-      "Website": "https://pinyin.sogou.com/skins/detail/view/info/587186?rf=search&tf=p",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_2.png\"]"
-    },
-    {
       "Author": "username <username@uniontech.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.uniontech.theme.yushuiwallpaper_1.0.0_all.deb",
@@ -2666,6 +2650,22 @@
       "Website": "https://www.deepin.org/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/themes/com.uniontech.theme.yushuiwallpaper/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/themes/com.uniontech.theme.yushuiwallpaper/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "fcitx5-ui-deepin-terminal_0.1-2_all.deb",
+      "More": "深度终端主题的fcitx5皮肤，安装后更改皮肤的教程在下面的截图",
+      "Name": "fcitx5皮肤深度终端",
+      "Pkgname": "fcitx5-ui-deepin-terminal",
+      "Size": "105 Kb",
+      "Tags": "community;debian;deepin;ubuntu;uos;native",
+      "Torrent_address": "fcitx5-ui-deepin-terminal_0.1-2_all.deb.torrent",
+      "Update": "2023-03-07 22:09:35",
+      "Version": "0.1-2",
+      "Website": "https://pinyin.sogou.com/skins/detail/view/info/587186?rf=search&tf=p",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/themes/fcitx5-ui-deepin-terminal/screen_2.png\"]"
     },
     {
       "Author": "Deepin Sysdev <sysdev@deepin.com>",
@@ -2941,22 +2941,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/music/netease-cloud-music-gtk/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/music/netease-cloud-music-gtk/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/music/netease-cloud-music-gtk/screen_3.png\"]"
     },
     {
-      "Author": "sgb76 <sgb76@163.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "ru.aimp.spark_5.30.2530spark4_all.deb",
-      "More": "一款来自俄罗斯的音乐播放软件，操作方式类似老牌MP3播放器 Winamp。但是它却有比 Winamp 更多以及更好用的功能，而且完全是免费软件\n\n说明：在deepin下窗口最大化后会出现闪屏现象，但不影响操作；Ubuntu下则正常",
-      "Name": "AIMP",
-      "Pkgname": "ru.aimp.spark",
-      "Size": "41 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian",
-      "Torrent_address": "ru.aimp.spark_5.30.2530spark4_all.deb.torrent",
-      "Update": "2024-03-23 19:58:38",
-      "Version": "5.30.2530spark4",
-      "Website": "http://www.aimp.ru/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_2.png\"]"
-    },
-    {
       "Author": "imsyy.top",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "splayer_3.0.0~beta.1_arm64.deb",
@@ -2971,6 +2955,22 @@
       "Website": "https://github.com/imsyy/SPlayer#readme",
       "icons": "https://spk-json.spark-app.store/aarch64-store/music/splayer/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/music/splayer/screen_1.png\"]"
+    },
+    {
+      "Author": "sgb76 <sgb76@163.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "ru.aimp.spark_5.30.2530spark4_all.deb",
+      "More": "一款来自俄罗斯的音乐播放软件，操作方式类似老牌MP3播放器 Winamp。但是它却有比 Winamp 更多以及更好用的功能，而且完全是免费软件\n\n说明：在deepin下窗口最大化后会出现闪屏现象，但不影响操作；Ubuntu下则正常",
+      "Name": "AIMP",
+      "Pkgname": "ru.aimp.spark",
+      "Size": "41 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian",
+      "Torrent_address": "ru.aimp.spark_5.30.2530spark4_all.deb.torrent",
+      "Update": "2024-03-23 19:58:38",
+      "Version": "5.30.2530spark4",
+      "Website": "http://www.aimp.ru/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/ru.aimp.spark/screen_2.png\"]"
     },
     {
       "Author": "spark-store",
@@ -5021,22 +5021,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/portal/screen_3.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb",
-      "More": "Super Tux Kart是一款开源赛车游戏",
-      "Name": "SuperTuxKart 卡丁车",
-      "Pkgname": "store.spark-app.appwrapper.supertuxkart",
-      "Size": "3 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb.torrent",
-      "Update": "2024-12-18 14:45:35",
-      "Version": "1.4+dfsg-2",
-      "Website": "",
-      "icons": "https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/screen_1.png\"]"
-    },
-    {
       "Author": "shenmo<shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "fairdyne_1.5.1_all.deb",
@@ -5051,6 +5035,22 @@
       "Website": "https://github.com/joezeng/fairdyne",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/games/fairdyne/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb",
+      "More": "Super Tux Kart是一款开源赛车游戏",
+      "Name": "SuperTuxKart 卡丁车",
+      "Pkgname": "store.spark-app.appwrapper.supertuxkart",
+      "Size": "3 Kb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb.torrent",
+      "Update": "2024-12-18 14:45:35",
+      "Version": "1.4+dfsg-2",
+      "Website": "",
+      "icons": "https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/screen_1.png\"]"
     },
     {
       "Author": "nillerusr",
@@ -5293,6 +5293,22 @@
       "img_urls": "[]"
     },
     {
+      "Author": "zty199 <zty2864@gmail.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.atari.ballance.dcs_1.13.1_all.deb",
+      "More": "经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。",
+      "Name": "3D平衡球",
+      "Pkgname": "com.atari.ballance.dcs",
+      "Size": "47 Mb",
+      "Tags": "debian;deepin;dwine5;ubuntu",
+      "Torrent_address": "com.atari.ballance.dcs_1.13.1_all.deb.torrent",
+      "Update": "2025-02-18 00:15:20",
+      "Version": "1.13.1",
+      "Website": "https://www.atari.com",
+      "icons": "https://spk-json.spark-app.store/store/games/com.atari.ballance.dcs/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/games/com.atari.ballance.dcs/screen_1.png\"]"
+    },
+    {
       "Author": "AQUAPLUS/Leaf",
       "Contributor": "白色相簿2吧",
       "Filename": "wa2mas-wine_1.0_all.deb",
@@ -5323,22 +5339,6 @@
       "Website": "http://www.joydin.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/com.joydin.braingame/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/com.joydin.braingame/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.joydin.braingame/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.joydin.braingame/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.joydin.braingame/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.joydin.braingame/screen_5.png\"]"
-    },
-    {
-      "Author": "zty199 <zty2864@gmail.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.atari.ballance.dcs_1.13.1_all.deb",
-      "More": "经典游戏《Ballance》（非官方译名“平衡球”“3D平衡球”等），由德国的Atari（雅达利）公司旗下的开发商Cyparade于2004年4月2日在PC平台发布的一款单机滚球游戏。在游戏中，玩家要操纵一个可以改变自身材料种类（即物理性质）的球在高空或太空中搭建的庞大而复杂的迷宫建筑中穿梭，避开陷阱机关并破解一个个谜题，最终到达终点飞船以完成一个关卡。游戏提供了13个难度大致递增的关卡供玩家探索。此外，搭载了非常还原、真实的物理引擎使得球的操纵手感非常接近对现实生活中的认知，玩家也能够充分体验重力对平衡性的影响。",
-      "Name": "3D平衡球",
-      "Pkgname": "com.atari.ballance.dcs",
-      "Size": "47 Mb",
-      "Tags": "debian;deepin;dwine5;ubuntu",
-      "Torrent_address": "com.atari.ballance.dcs_1.13.1_all.deb.torrent",
-      "Update": "2025-02-18 00:15:20",
-      "Version": "1.13.1",
-      "Website": "https://www.atari.com",
-      "icons": "https://spk-json.spark-app.store/store/games/com.atari.ballance.dcs/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/games/com.atari.ballance.dcs/screen_1.png\"]"
     },
     {
       "Author": "sgb76 <sgb76@163.com>",
@@ -5389,22 +5389,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/games/fallout.equestria.remains/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/games/fallout.equestria.remains/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/games/fallout.equestria.remains/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/games/fallout.equestria.remains/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/games/fallout.equestria.remains/screen_5.png\"]"
     },
     {
-      "Author": "小猫Giovanni, gfdgd_xi <3025613752@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "com.youshou.siyemuxu2_2.0.0gf1_arm64.deb",
-      "More": "《四叶苜蓿》是由小猫Giovanni制作的有兽焉同人悬疑解密游戏，以狐狸美美的视角讲述了四不像为躲避天庭，藏匿深山后的一系列事件。本游戏使用RPG制作大师制作，目前已推出第一章、第二章。\n游戏存档：~/.config/siyemuxu/save\n\nhttps://www.bilibili.com/video/BV1A4NWe3E8q\n作者主页：https://space.bilibili.com/341593687",
-      "Name": "四叶苜蓿（Linux）",
-      "Pkgname": "com.youshou.siyemuxu2",
-      "Size": "456 Mb",
-      "Tags": "community;deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.youshou.siyemuxu2_2.0.0gf1_arm64.deb.torrent",
-      "Update": "2025-03-09 12:57:47",
-      "Version": "2.0.0gf1",
-      "Website": "https://space.bilibili.com/341593687",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_5.png\"]"
-    },
-    {
       "Author": "苟利国家生死以",
       "Contributor": "苟利国家生死以",
       "Filename": "web-taikonfts.4everland.link-onscript.galgameonline_1.0_all.deb",
@@ -5419,6 +5403,22 @@
       "Website": "",
       "icons": "https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/web-taikonfts.4everland.link-onscript.galgameonline/screen_2.png\"]"
+    },
+    {
+      "Author": "小猫Giovanni, gfdgd_xi <3025613752@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "com.youshou.siyemuxu2_2.0.0gf1_arm64.deb",
+      "More": "《四叶苜蓿》是由小猫Giovanni制作的有兽焉同人悬疑解密游戏，以狐狸美美的视角讲述了四不像为躲避天庭，藏匿深山后的一系列事件。本游戏使用RPG制作大师制作，目前已推出第一章、第二章。\n游戏存档：~/.config/siyemuxu/save\n\nhttps://www.bilibili.com/video/BV1A4NWe3E8q\n作者主页：https://space.bilibili.com/341593687",
+      "Name": "四叶苜蓿（Linux）",
+      "Pkgname": "com.youshou.siyemuxu2",
+      "Size": "456 Mb",
+      "Tags": "community;deepin;uos;ubuntu;debian",
+      "Torrent_address": "com.youshou.siyemuxu2_2.0.0gf1_arm64.deb.torrent",
+      "Update": "2025-03-09 12:57:47",
+      "Version": "2.0.0gf1",
+      "Website": "https://space.bilibili.com/341593687",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/games/com.youshou.siyemuxu2/screen_5.png\"]"
     },
     {
       "Author": "cht <111>",
@@ -5521,15 +5521,15 @@
     {
       "Author": "WPS Office Community Team <wps_linux@kingsoft.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb",
+      "Filename": "wps-office-365_12.8.2.21176.AK.preload.sw_arm64.deb",
       "More": "WPS Office 365\n\n与现行的 WPS Office 2019 冲突",
       "Name": "WPS Office 365",
       "Pkgname": "wps-office-365",
-      "Size": "792 Mb",
-      "Tags": "deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb.torrent",
-      "Update": "2025-03-08 23:00:09",
-      "Version": "12.8.2.20327.AK.preload.sw",
+      "Size": "841 Mb",
+      "Tags": "deepin;uos;ubuntu;debian",
+      "Torrent_address": "wps-office-365_12.8.2.21176.AK.preload.sw_arm64.deb.torrent",
+      "Update": "2025-06-30 17:27:37",
+      "Version": "12.8.2.21176.AK.preload.sw",
       "Website": "http://wps-community.org",
       "icons": "https://spk-json.spark-app.store/aarch64-store/office/wps-office-365/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/wps-office-365/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/wps-office-365/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/wps-office-365/screen_3.png\"]"
@@ -8733,22 +8733,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/kylin-ide/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/development/kylin-ide/screen_2.png\"]"
     },
     {
-      "Author": "Greper <xiaojunnuo@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Filename": "dev-sidecar_2.0.0_arm64.deb",
-      "More": "开发者边车，github打不开，github 加速, git clone加速，google CDN加速，Stack Overflow加速",
-      "Name": "dev-sidecar开发者边车",
-      "Pkgname": "dev-sidecar",
-      "Size": "61 Mb",
-      "Tags": "community;deepin;uos;ubuntu",
-      "Torrent_address": "dev-sidecar_2.0.0_arm64.deb.torrent",
-      "Update": "2025-04-13 15:34:36",
-      "Version": "2.0.0",
-      "Website": "https://github.com/docmirror/dev-sidecar",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/development/dev-sidecar/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/dev-sidecar/screen_1.png\"]"
-    },
-    {
       "Author": "Mike Kasberg <kasberg.mike@gmail.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "ghostty_1.1.2-0~ppa1_arm64.deb",
@@ -8763,6 +8747,22 @@
       "Website": "https://ghostty.org/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/development/ghostty/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/ghostty/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/development/ghostty/screen_2.png\"]"
+    },
+    {
+      "Author": "Greper <xiaojunnuo@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Filename": "dev-sidecar_2.0.0_arm64.deb",
+      "More": "开发者边车，github打不开，github 加速, git clone加速，google CDN加速，Stack Overflow加速",
+      "Name": "dev-sidecar开发者边车",
+      "Pkgname": "dev-sidecar",
+      "Size": "61 Mb",
+      "Tags": "community;deepin;uos;ubuntu",
+      "Torrent_address": "dev-sidecar_2.0.0_arm64.deb.torrent",
+      "Update": "2025-04-13 15:34:36",
+      "Version": "2.0.0",
+      "Website": "https://github.com/docmirror/dev-sidecar",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/development/dev-sidecar/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/development/dev-sidecar/screen_1.png\"]"
     },
     {
       "Author": "ArteryTeck",

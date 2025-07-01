@@ -2670,6 +2670,25 @@ Description: purges files from your trash based on age and/or filename
  It can also be used to purge the files based on the filename
  using a regular expression.
 
+Package: deepin-proton9
+Architecture: amd64
+Version: 9.0.4e-deepin3
+Multi-Arch: foreign
+Priority: optional
+Section: games
+Source: deepin-proton9-stable
+Maintainer: Tingzhong Luo<luotingzhong@uniontech.com>
+Installed-Size: 1490392
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: ffmpeg, libasound2, libc6, libdrm-amdgpu1, libdrm2, libdw1, libegl1, libgbm10 | libgbm1, libgcc-s1 | libgcc1, libglib2.0-0, libglx0, libgphoto2-6, libgphoto2-port12, libgudev-1.0-0, libmpg123-0, libnettle8 | libnettle6, libogg0, libopus0, libpcap0.8, libpulse0, libsane1, libstdc++6, libtheora0, libudev1, libunwind8, libva-drm2, libva-x11-2, libva2, libvdpau1, libvorbis0a, libvorbisenc2, libvulkan1, libwayland-client0, libwayland-cursor0, libwayland-egl1, libx11-6, libx11-xcb1, libxcb1, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 | libopencl-1.2-1, zlib1g, libffi6 | libffi8, libvpx7 | libvpx5, python3, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./depends/deepin-proton9/deepin-proton9_9.0.4e-deepin3_amd64.deb
+Size: 307292742
+MD5sum: bdae015471e9aebdd1079938b732b041
+SHA1: a2f73a7c60771f2673ae2880acb6f8117ffb2ec9
+SHA256: b25994d434f4d298450a859d37beab0c949ceccfeb50f79b5a3511963050932c
+SHA512: cf17d4978e8c7c046cec1158dcad90813236e3db77e35f6220233c003f049a121e9d13e1a1b939ae830574654dcc0472fec1cc9c31b9d62feb7e31a1e090a6c6
+Description: Compatibility tool for Steam Play based on Wine and additional components. . Proton is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+
 Package: aptss
 Architecture: all
 Version: 4.8.0
@@ -2985,17 +3004,17 @@ Description: low level cryptographic library (public-key cryptos)
 
 Package: deepin-ge-proton9
 Architecture: amd64
-Version: 9.22deepin8
+Version: 9.22deepin9
 Priority: optional
 Section: otherosfs
 Maintainer: Xiang Wang <wangxiang1@uniontech.com>
 Depends: python3-distro, deepin-elf-verify (>= 1.1.10-1)
-Filename: ./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin8_amd64.deb
-Size: 592040134
-MD5sum: 2002c8a4ceba1738867a013853459edf
-SHA1: 86a9fb20f77ae236114be62a0cb1634d3afbdc9c
-SHA256: 133a497a2394a1ce0f8309f51e11dcee276351d4d9f5fb23d393f66d7e5d5086
-SHA512: 2cf8a192e4118ea233913df1e45edfe9947fa2b451cfe74948321449565340e1246f8ac2db008592ee0247da8e6cd911961f77f33138d37b720c6505746a5a65
+Filename: ./depends/deepin-ge-proton9/deepin-ge-proton9_9.22deepin9_amd64.deb
+Size: 592037242
+MD5sum: 73c800267968abedc8795a5fdf10eaf0
+SHA1: 6f637296434396f709e42e3d456bcf80c93aa18d
+SHA256: 8c37f1423b47566cf354d63d72e9b21100e063d656d99071f8f0f24e09ce712c
+SHA512: 985347cb82afcffb95fc430f7ca423f0caf3cabc870b9f9453ba3579b06fb9d2d1069b735ceb8bb2a0efe2e44acd15e8fb258a24b655ed3928b183a62dcf9183
 Description: Compatibility tool for Steam Play based on Wine and additional components.
 
 Package: deepin-icon-theme
@@ -6042,19 +6061,19 @@ Description: 基于 Qt 的微型屏幕涂鸦程序
 
 Package: linglong-store
 Architecture: amd64
-Version: 1.4.0
+Version: 1.4.1
 Priority: optional
 Section: default
 Maintainer: Jokul <986432015@qq.com>
-Installed-Size: 317812
+Installed-Size: 317816
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: linglong-bin, linglong-box
-Filename: ./tools/linglong-store/linglong-store_1.4.0_amd64.deb
-Size: 77847578
-MD5sum: 4ee285456e45c5a582d7814d659c9219
-SHA1: b92f15444a2af45a20b22c7185c788eeea20f045
-SHA256: 3aa65f7f564b5549be89da219066612d057683cafa494fb04b9a057e5c5ae2bb
-SHA512: 44e3ef0d4db9aa40e8285fa26178492fd25342ad7366e4f497f99c41e8acdccaf20209e8797cd1de279aa3a33d3b488933c7c8167300b4dc8c0fd5bd679ee022
+Filename: ./tools/linglong-store/linglong-store_1.4.1_amd64.deb
+Size: 77318480
+MD5sum: ac3c9096322dd631f1c6103d6ab0c1e4
+SHA1: 59f8f3c294e04009b1aecccdce337fa9fed25d71
+SHA256: 72fba51ef9e70385cd955fa1749c79f3196e971351526dd2e31fb0bc23d617ec
+SHA512: 8fc498ea55d02d5b81d142cda1292334c2bb043ea0ffd276a22a0dc90c0c11c79146e63e0ea2f8c4fd01ae5b610d2e1fafbf26961afb1ad7ed04bc9ceae720ae
 Homepage: https://github.com/GershonWang/linglong-store
 Description: 
   简易式玲珑商店客户端
@@ -7783,19 +7802,19 @@ Description: 简介部分
 
 Package: ollama
 Architecture: amd64
-Version: 0.9.3
+Version: 0.9.4
 Priority: optional
 Section: golang
 Maintainer: lingfish <lingfish@users.noreply.github.com>
-Installed-Size: 32243
+Installed-Size: 32239
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 10.2), sysuser-helper (>= 1.3.3)
 Recommends: libollama-nvidia | libollama-amd
-Filename: ./tools/ollama/ollama_0.9.3_amd64.deb
-Size: 8549088
-MD5sum: 9ffaaa4e1025cc1507917fca29f048fd
-SHA1: ba3acb7039e9dc65c0792153e6fbc628fa8c392a
-SHA256: 6c9b5b34f3a4b8c1dc9ffb2e9a83381e152adac2c0bb99a1f50fb65edfe81e48
-SHA512: d2e529fe8e08c28b148ce7640e1a0cddb065f9d2ea27c2548d1ec88972baeb61146cb179c106e31ec4d969cf70dc4d4efaa3c12ff43fe9f62e5b63d660727ae0
+Filename: ./tools/ollama/ollama_0.9.4_amd64.deb
+Size: 8553340
+MD5sum: 0fac1b7a909987926c9efb64a02ded14
+SHA1: 453e0606636c8a8eda668be816e6b0742b37024c
+SHA256: 55ca73a9ae2b09948657ea20bd3de4254b0be184d01f0518b3ff6b366b6fd5bd
+SHA512: 2cbe936576a27105230ee980c3cc24b4826d088a5fb5e21f6d049ace72b16c098880fe7ac6eee80cf56a965372aad8cace9153a0ade04487a5b8698ea27d824d
 Homepage: https://github.com/ollama/ollama
 Description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models. (program)
  Ollama
@@ -8777,6 +8796,26 @@ SHA1: 9b41570a1df7adceff1789fdb0164756602f6876
 SHA256: f95c1580acb2bdb7b5167756cc8c07fcb415befecf7b89735632d6907376826f
 SHA512: de066dfca03dd1b8cc66137b29c026445b3061e53e40ada5e6256e56d85fc24a63accb0380ceac5ea1d169a02137d68ca3f3acf729837046266a185a93b4f287
 Description: An ArchLinux's pacman-like wrapper for many package managers
+
+Package: deepin-wine-builder
+Architecture: amd64
+Version: 3.3.1.013-1
+Priority: optional
+Section: utils
+Maintainer: Tingzhong Luo <luotingzhong@uniontech.com>
+Installed-Size: 44342
+Provides: deepin-wine-runner
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.8.0), libqt5script5 (>= 5.6.0~beta), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libvulkan1, libx11-6, python3-yaml, python3-pycurl, python3-chardet, python3-requests, patool, python3-git, python3-urllib3, python3-certifi, python3-pefile, python3-xdg, python3-dbus, python3-watchdog, python3-markdown, python3-gi, gir1.2-glib-2.0, fakeroot, debhelper, icoutils, imagemagick, python3-typing-extensions, cabextract, fonts-wqy-microhei, deepin-wine10-stable (>= 10.7deepin3), deepin-elf-verify (>= 1.1.10-1)
+Recommends: deepin-wine8-stable (>= 8.16deepin25), deepin-wine-staging (>= 10.0deepin5), mesa-vulkan-drivers, dde-qt5integration, fcitx-frontend-qt5
+Conflicts: deepin-wine-runner
+Replaces: deepin-wine-runner
+Filename: ./tools/deepin-wine-builder/deepin-wine-builder_3.3.1.013-1_amd64.deb
+Size: 17109114
+MD5sum: a5dbfdba7ad86c69ca318b1d3ed0c45c
+SHA1: 795e6f856d6a187145d549c210ce811bc66cd017
+SHA256: c548c3de5a83405be34b1b366a0ed2a56c1de984426ee89285b4c894469aec1b
+SHA512: 9c1180093dd6f3fa71839cdc9d4ddfeb3000e368998d6e8805b1fc2632fbe7b38eb4b2c793fca77b74e185e5d80d615b45fc00f1a00d4f3552f5a7b2c4be0d71
+Description: Run application for deepin-wine. Yet another a frontend to create and run wine application packages.
 
 Package: deepin-wine-builder
 Architecture: amd64
@@ -9776,19 +9815,19 @@ Vendor: tav@tencent.com
 
 Package: cn.huorong.esm
 Architecture: amd64
-Version: 2.0.10.1
+Version: 2.0.10.3
 Multi-Arch: foreign
 Priority: optional
 Section: utils
 Maintainer: Huorong Unix Team <unix-dev@huorong.cn>
-Installed-Size: 87982
+Installed-Size: 88023
 Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: ./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.1_amd64.deb
-Size: 36738066
-MD5sum: 946382ca4a2c0946759995ac86a53eb1
-SHA1: 865c9e72b836f432602e7c4d6c7453d9fa06af9e
-SHA256: 11fbbbdd06e67c8a6599ec25b453f650b79ead22150ad3e30aaa930e9829d9d9
-SHA512: fb55c5bb96f48afbbf5bc4202cdc90e09fc8d5ccecaa5e1e2abfe34f288616741a2c65068259601b5d14421872cea2bc88f3f459ba1f491133df112890480006
+Filename: ./tools/cn.huorong.esm/cn.huorong.esm_2.0.10.3_amd64.deb
+Size: 36430254
+MD5sum: c0736812a2f86c359c3fdd7d4000af06
+SHA1: cdca0bbd1e09880802b02561cf9927bbf78a2f2f
+SHA256: 03440d6e478e6841767ebfdeedd0fbd09822e4596c1024d5cc93d726710f0739
+SHA512: 47a24ce1e64ffcaaefb9d234f794c8a1ef2110739d82f5bc69558339f3762f179be4d4d18dc8dc38cc5be96a9650b5be6c68e835640b56cca9a35a1894c271df
 Homepage: https://huorong.cn
 Description: 火绒终端安全管理系统
 
@@ -30852,23 +30891,23 @@ Description: oKDE中最好用的文本编辑器,在Deepin中不能切换输入�
 
 Package: wps-office-365
 Architecture: amd64
-Version: 12.8.2.20327.AK.preload.sw
+Version: 12.8.2.21176.AK.preload.sw
 Multi-Arch: foreign
 Priority: optional
 Section: editors
 Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
-Installed-Size: 3216036
+Installed-Size: 3403052
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, libc6 (>= 2.15) | libc6.1, libfreetype6 (>= 2.4),
          libcups2, libglib2.0-0, libglu1-mesa,
          libsm6, libxrender1, libfontconfig1,
          libxext6, libxcb1, libbz2-1.0
 Replaces: kingsoft-office, wps-office
-Filename: ./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_amd64.deb
-Size: 825932608
-MD5sum: c25e844e8d3ae1d77755a9508f1f4480
-SHA1: 8e578f330cfe062b08de9a4a37387a4d2d58ef4d
-SHA256: 1ae701fd6d9aa80ebec9399e1929923a5f1bcd082e5ce190eff52d727ad79eee
-SHA512: 68c98f745c2d8636f21f214d39261305dbe0cd4a658498af834362e95ad5b66ecacfa20380a6b9156507322735ee648b4f2eae3bea8b2458ad9ee0f9d068a003
+Filename: ./office/wps-office-365/wps-office-365_12.8.2.21176.AK.preload.sw_amd64.deb
+Size: 879656082
+MD5sum: ef71f35c24b254be0771edb23a3614b8
+SHA1: 69d7b4ae87701c8bd1edd087ba03f745ef742b5f
+SHA256: 79c3d4ebe9183454a78b0da0e74c8adb375ef325c35b765c70857ccb8f56d267
+SHA512: fb3f5f889a8fbe5d489c96fa43ddbef6b455843365de82ec9a56d6d907cddc118d87c8438eb5405bde84908d9d7de35999c06d4b229afa4f7cf15d1658ee70ed
 Homepage: http://wps-community.org
 Description: WPS Office, is an office productivity suite.
  WPS Office including Writer, Presentation
@@ -35415,11 +35454,11 @@ Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
 Filename: ./network/firefox-spark/firefox-spark_140.0.2_amd64.deb
-Size: 77747884
-MD5sum: 48dd0b51d3807ae71d9e9b31e461a038
-SHA1: 36bb7138133a667ad888bb86fea7b20d6a4064a7
-SHA256: 60fdc5ede1635fdedc05455bd4e8104389c4414327975a135428803627e7d009
-SHA512: 791f14d7fe91d3cc7ffabfc91f3e4bc9f10d5b80c1a30afdc207dd03b179de838903981f3c8e2c4f56827f1c0d08572ff4f81c1b2d668b4f38d7fc1600519b5f
+Size: 77746396
+MD5sum: f91f99bd5a3aa4c6c7ec0c0eedc6cc96
+SHA1: 715ef640405d9f23cb6be58e9bcd035e7d115891
+SHA256: 90aec3fc17e66fd8dbe25cea8f9d9cb80f77d999b385a2b13ba5dd889a96bb3c
+SHA512: 2089e2e61eefbe467d24015ca6e21285c7586d5aaaa163dec4e9c31a7ca236b0a3fc26120ff979625faf34f67b6a76fece98c5dab2a245f41e68dd51af020de4
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -37957,18 +37996,18 @@ Description: heidisql By Deepin Wine 6 Stable And Build By Wine Runner Easy Pack
 
 Package: com.hmja.notepad
 Architecture: amd64
-Version: 3.2.0.0
+Version: 3.4.0.0
 Priority: optional
 Section: editors
 Maintainer: ndd开源组织 <757210198@qq.com>
-Installed-Size: 17400
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: ./development/com.hmja.notepad/com.hmja.notepad_3.2.0.0_amd64.deb
-Size: 4240814
-MD5sum: f71dd4659f1fc9e85beb7fe65db93b83
-SHA1: ee4b34f104ccfcb3beb44b1e213de3b7557050f1
-SHA256: 2277eeab4a36549e43f509343af0cecf97c493e6ef0e1c17db31bd76818246f6
-SHA512: d507b0b9cfa23f1231e94286c352fc8a164a2ede5781136c27d041f9597ce36b47d02548b31619ffdf5e845145050fa5bac4870ccce4651b39e5d0483b93bdea
+Installed-Size: 22196
+Depends: libqt5concurrent5, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./development/com.hmja.notepad/com.hmja.notepad_3.4.0.0_amd64.deb
+Size: 5352750
+MD5sum: b1dc176567783a916649e3c30166a86b
+SHA1: 86113545c0cdc6d1507f745d0c85eda806492b8d
+SHA256: 0a8439cbb5d24046f3f0769c0a63a5a108c831f7574af7c5a275c005b32ad0b1
+SHA512: 4770db9393b70cd7f71174111de0347888ed01f44fcab4c4b4a007957cb083dc3e788253ebafa39c5dbeb10131245d0db1bcbb13f4edee75e54eec5243dad545
 Homepage: www.itdp.cn
 Description: notepad for uos ， 支持文本编辑和文件对比。
 
