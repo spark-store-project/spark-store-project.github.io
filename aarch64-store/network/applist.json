@@ -718,24 +718,6 @@
 
 ,
 {
-    "Name": "Tailscale",
-    "Version": "1.84.0",
-    "Filename": "tailscale_1.84.0_arm64.deb",
-    "Torrent_address": "tailscale_1.84.0_arm64.deb.torrent",
-    "Pkgname": "tailscale",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://tailscale.com/",
-    "Update": "2025-05-22 17:32:50",
-    "Size": "30M",
-    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
-    "Tags": "ubuntu;deepin;uos;debian",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
-}
-
-,
-{
     "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "quark-cloud-drive_2.2.3_all.deb",
@@ -750,6 +732,24 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "Tailscale",
+    "Version": "1.84.0",
+    "Filename": "tailscale_1.84.0_arm64.deb",
+    "Torrent_address": "tailscale_1.84.0_arm64.deb.torrent",
+    "Pkgname": "tailscale",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://tailscale.com/",
+    "Update": "2025-05-22 17:32:50",
+    "Size": "30M",
+    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
+    "Tags": "ubuntu;deepin;uos;debian",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
 }
 
 ,
@@ -1055,24 +1055,6 @@
 
 ,
 {
-  "Author": "Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "ice_6.0.8_all.deb",
-  "More": "Front end for building single site browsers using\n Chromium, Chrome, Vivaldi, or Firefox as a backend,\n allowing custom menu integration.",
-  "Name": "ICE---WebAPP创建器",
-  "Pkgname": "ice",
-  "Size": "34 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "Torrent_address": "ice_6.0.8_all.deb.torrent",
-  "Update": "2023-04-02 13:51:53",
-  "Version": "6.0.8",
-  "Website": "https://github.com/peppermintos/ice",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_2.png\"]"
-}
-
-,
-{
     "Author": "help@todesk.com",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "todeskhost_2.0.3.2_arm64.deb",
@@ -1087,6 +1069,24 @@
     "Website": "https://www.todesk.com",
     "icons": "https://spk-json.spark-app.store/aarch64-store/network/todeskhost/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/todeskhost/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "Mark Greaves (PCNeSpec) <mark@pcnetspec.co.uk>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "ice_6.0.8_all.deb",
+  "More": "Front end for building single site browsers using\n Chromium, Chrome, Vivaldi, or Firefox as a backend,\n allowing custom menu integration.",
+  "Name": "ICE---WebAPP创建器",
+  "Pkgname": "ice",
+  "Size": "34 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "Torrent_address": "ice_6.0.8_all.deb.torrent",
+  "Update": "2023-04-02 13:51:53",
+  "Version": "6.0.8",
+  "Website": "https://github.com/peppermintos/ice",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/network/ice/screen_2.png\"]"
 }
 
 ,

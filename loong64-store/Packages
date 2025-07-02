@@ -9861,37 +9861,6 @@ Description: WPS Office, is an office productivity suite.
 Name: wps-office
 Relocations: /opt/kingsoft
 
-Package: wps-office-365
-Architecture: loong64
-Version: 12.8.2.20327.AK.preload.sw
-Multi-Arch: foreign
-Priority: optional
-Section: editors
-Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
-Installed-Size: 3987036
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, libc6 (>= 2.15) | libc6.1, libfreetype6 (>= 2.4),liblol, liblol-dkms,
-         libcups2, libglib2.0-0, libglu1-mesa,
-         libsm6, libxrender1, libfontconfig1,
-         libxext6, libxcb1, libbz2-1.0
-Replaces: kingsoft-office, wps-office
-Filename: ./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_loong64.deb
-Size: 844566164
-MD5sum: 43dca3d119ba4c3cb4d9b31ea699f3c1
-SHA1: fe7185c52f81adc4c03f89a75f5d959a47116f93
-SHA256: 0f85878b54dbafb6267a794aa9a371e518422b04afbcb5eff16875d59fe27fb0
-SHA512: b16d84d5616e0f55011e704ee54582eb7382426afa78e949bc8a00e3bc468669c4db509ef68242f4443a815a410150b98a1fd4b7565ebad9a34ddaaf906b7fb2
-Homepage: http://wps-community.org
-Description: WPS Office, is an office productivity suite.
- WPS Office including Writer, Presentation
- and Spreadsheets, is a powerful office suite, which is able to process
- word file, produce wonderful slides, and analyze data as well. It is
- deeply compatible with all of the latest Microsoft Office file formats. 
- It can easily open and read the documents created with Microsoft Office.
- This is the Linux version, and it's now a TESTING package.
- Welcome to our website: http://wps-community.org
-Name: wps-office
-Relocations: /opt/kingsoft
-
 Package: lyx-examples-zh-cn-careone
 Architecture: all
 Version: 2.2.2-6

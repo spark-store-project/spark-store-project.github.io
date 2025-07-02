@@ -856,6 +856,23 @@
 
 ,
 {
+    "Name": "MobaXterm Pro（汉化版）",
+    "Version": "25.0spark0",
+    "Filename": "net.mobatek.mobaxterm-pro-chs_25.0spark0_all.deb",
+    "Torrent_address": "net.mobatek.mobaxterm-pro-chs_25.0spark0_all.deb.torrent",
+    "Pkgname": "net.mobatek.mobaxterm-pro-chs",
+    "Author": "duanluan<duanluan@outlook.com>",
+    "Contributor": "duanluan <duanluan@outlook.com>",
+    "Website": "https://mobaxterm.mobatek.net/",
+    "Update": "2025-03-14 14:20:16",
+    "Size": "222.83 MB",
+    "More": "MobaXterm 提供了所有重要的 远程网络工具（SSH、X11、RDP、VNC、FTP、MOSH 等）和 Unix 命令（bash、ls、cat、sed、grep、awk、rsync 等）。",
+    "Tags": "debian;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/eb1a09a99a45435e8e24f115ccc3ebd9.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8a909828b2fa491f807699b4514b5692.png"
+}
+,
+{
   "Name": "SQLiteStudio",
   "Version": "3.4.4spark0",
   "Filename": "com.github.sqlitestudio.spark_3.4.4spark0_amd64.deb",
@@ -872,23 +889,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/05/75ecfa627abc46d19a87e679301b7127.png"
 }
 
-,
-{
-    "Name": "MobaXterm Pro（汉化版）",
-    "Version": "25.0spark0",
-    "Filename": "net.mobatek.mobaxterm-pro-chs_25.0spark0_all.deb",
-    "Torrent_address": "net.mobatek.mobaxterm-pro-chs_25.0spark0_all.deb.torrent",
-    "Pkgname": "net.mobatek.mobaxterm-pro-chs",
-    "Author": "duanluan<duanluan@outlook.com>",
-    "Contributor": "duanluan <duanluan@outlook.com>",
-    "Website": "https://mobaxterm.mobatek.net/",
-    "Update": "2025-03-14 14:20:16",
-    "Size": "222.83 MB",
-    "More": "MobaXterm 提供了所有重要的 远程网络工具（SSH、X11、RDP、VNC、FTP、MOSH 等）和 Unix 命令（bash、ls、cat、sed、grep、awk、rsync 等）。",
-    "Tags": "debian;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/eb1a09a99a45435e8e24f115ccc3ebd9.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8a909828b2fa491f807699b4514b5692.png"
-}
 ,
 {
   "Name": "在 QtCreator 中应用 one dark pro 主题",
@@ -1652,24 +1652,6 @@
 }
 ,
 {
-  "Name": "Liberica JDK 17 Full",
-  "Version": "17.0.11+10",
-  "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
-  "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
-  "Pkgname": "bellsoft-java17-full",
-  "Author": "BellSoft <info@bell-sw.com>",
-  "Contributor": "ThinkYoung",
-  "Website": "https://bell-sw.com/pages/libericajdk/",
-  "Update": "2024-05-09 11:06:56",
-  "Size": "262.52 MB",
-  "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
-}
-
-,
-{
   "Name": "Scratch 1.4",
   "Version": "1.4.0.6~dfsg1-6",
   "Filename": "scratch_1.4.0.6~dfsg1-6_all.deb",
@@ -1684,6 +1666,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/b3bc243d63d44610baf2bfc5368cf58b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/29/d7385851ae624a64b172d29665f8890e.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/f12da169cb654dd78dad72fda224fc12.png"
+}
+
+,
+{
+  "Name": "Liberica JDK 17 Full",
+  "Version": "17.0.11+10",
+  "Filename": "bellsoft-java17-full_17.0.11_plus10_amd64.deb",
+  "Torrent_address": "bellsoft-java17-full_17.0.11_plus10_amd64.deb.torrent",
+  "Pkgname": "bellsoft-java17-full",
+  "Author": "BellSoft <info@bell-sw.com>",
+  "Contributor": "ThinkYoung",
+  "Website": "https://bell-sw.com/pages/libericajdk/",
+  "Update": "2024-05-09 11:06:56",
+  "Size": "262.52 MB",
+  "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/83cab02e184f4b94800db8391db77a50.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/950185125ef94f95922b3f39cf450443.png"
 }
 
 ,
@@ -1706,24 +1706,6 @@
 
 ,
 {
-  "Name": "Mind+",
-  "Version": "202307011900",
-  "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
-  "Torrent_address": "com.dfrobot.mindplus_202307011900_amd64.deb.torrent",
-  "Pkgname": "com.dfrobot.mindplus",
-  "Author": "DFRobot <mindplus@dfrobot.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://mindplus.cc/",
-  "Update": "2024-06-22 20:45:08",
-  "Size": "674.81 MB",
-  "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
-  "Tags": "ubuntu;deepin;uos;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
-}
-
-,
-{
   "Name": "Ghidra",
   "Version": "10.4.0",
   "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
@@ -1738,6 +1720,24 @@
   "Tags": "community;ubuntu;deepin;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
+}
+
+,
+{
+  "Name": "Mind+",
+  "Version": "202307011900",
+  "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
+  "Torrent_address": "com.dfrobot.mindplus_202307011900_amd64.deb.torrent",
+  "Pkgname": "com.dfrobot.mindplus",
+  "Author": "DFRobot <mindplus@dfrobot.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://mindplus.cc/",
+  "Update": "2024-06-22 20:45:08",
+  "Size": "674.81 MB",
+  "More": "Mind+是一款拥有自主知识产权的国产青少年编程软件，集成各种主流主控板及上百种开源硬件，支持人工智能（AI）与物联网（IoT）功能，既可以拖动图形化积木编程，还可以使用Python/C/C++等高级编程语言，让大家轻松体验创造的乐趣。",
+  "Tags": "ubuntu;deepin;uos;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
 }
 
 ,
@@ -2897,6 +2897,23 @@
     "Tags": "debian;ubuntu;a2d",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/02/4317f567643e41e2906c1629608aaa5c.png\",\"https://spk-json.spark-app.store/images/2025/06/02/2eed952385b34d269c66f099c7e1b113.png\",\"https://spk-json.spark-app.store/images/2025/06/02/0a808d763d8f406fb0e8a419b973fbb7.png\",\"https://spk-json.spark-app.store/images/2025/06/02/7f86bd3662744ae5b8d35ae6fecb467b.png\",\"https://spk-json.spark-app.store/images/2025/06/02/15e310038d4944c790943029dc75dbaf.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/06/02/cb71bdbcaea74022aeb02ed872731837.png"
+}
+,
+{
+    "Name": "儿童编程Scratch3",
+    "Version": "1.0.0",
+    "Filename": "scratch-webkit_1.0.0_amd64.deb",
+    "Torrent_address": "scratch-webkit_1.0.0_amd64.deb.torrent",
+    "Pkgname": "scratch-webkit",
+    "Author": "fu huizhong<fuhuizn@163.com>",
+    "Contributor": "fu huizhong<fuhuizn@163.com>",
+    "Website": "https://gitee.com/rocket049/",
+    "Update": "2025-06-28 19:47:09",
+    "Size": "98.2 MB",
+    "More": "用WebKitGtk-6.0打包的儿童编程软件scratch-gui v5.1.82",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/28/08726b846d014ab0a9c209bd53f04f0d.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/28/421d7c3b11b541a690936ebf898f1330.png"
 }
 ,
 {

@@ -3754,26 +3754,6 @@ Description: GXDE deb installer tool
 
 Package: deepin-wine-builder
 Architecture: arm64
-Version: 3.3.0.007-1
-Priority: optional
-Section: utils
-Maintainer: Tingzhong Luo <luotingzhong@uniontech.com>
-Installed-Size: 33680
-Provides: deepin-wine-runner
-Depends: libc6 (>= 2.17), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0), libqt5network5 (>= 5.8.0), libqt5script5 (>= 5.6.0~beta), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libvulkan1, libx11-6, python3-yaml, python3-pycurl, python3-chardet, python3-requests, patool, python3-git, python3-urllib3, python3-certifi, python3-pefile, python3-xdg, python3-dbus, python3-watchdog, python3-markdown, python3-gi, gir1.2-glib-2.0, fakeroot, debhelper, icoutils, imagemagick, python3-typing-extensions, cabextract, fonts-wqy-microhei, deepin-wine10-stable (>= 10.0-deepin2), deepin-elf-verify (>= 1.1.10-1)
-Recommends: deepin-wine8-stable (>= 8.16deepin25), deepin-wine-staging (>= 10.0deepin5), mesa-vulkan-drivers, dde-qt5integration, fcitx-frontend-qt5
-Conflicts: deepin-wine-runner
-Replaces: deepin-wine-runner
-Filename: ./tools/deepin-wine-builder/deepin-wine-builder_3.3.0.007-1_arm64.deb
-Size: 14671790
-MD5sum: 7fdbdfc38425c28132581a63fb000237
-SHA1: a65e17a08173ce2784ebb9238cf0d214975aef99
-SHA256: c83b1fd52e59b02c232c94f95bb0b5b6856c1ea2524dcda0ffbcc371acf02580
-SHA512: 1fdb9061f6ed29f6476914bdb2ac74b7cbe0b62425c3e0b3624fc868e18a33c54505f298896534e2df526ee464fe6e0cb98de68c3f6fe6a322a961b37bf65a28
-Description: Run application for deepin-wine. Yet another a frontend to create and run wine application packages.
-
-Package: deepin-wine-builder
-Architecture: arm64
 Version: 3.3.1.013-1
 Priority: optional
 Section: utils
@@ -10020,37 +10000,6 @@ Description: powerful text editor
   * Configurable templates and text snippets
   * Symbol viewers for C, C++, and Python
   * XML completion and validation
-
-Package: wps-office-365
-Architecture: arm64
-Version: 12.8.2.20327.AK.preload.sw
-Multi-Arch: foreign
-Priority: optional
-Section: editors
-Maintainer: WPS Office Community Team <wps_linux@kingsoft.com>
-Installed-Size: 3252324
-Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, libc6 (>= 2.15) | libc6.1, libfreetype6 (>= 2.4),
-         libcups2, libglib2.0-0, libglu1-mesa,
-         libsm6, libxrender1, libfontconfig1,
-         libxext6, libxcb1, libbz2-1.0
-Replaces: kingsoft-office, wps-office
-Filename: ./office/wps-office-365/wps-office-365_12.8.2.20327.AK.preload.sw_arm64.deb
-Size: 792631008
-MD5sum: c01d8be673ac2c805b168532cd25b427
-SHA1: 39f075dd7bf9c98aa0aa44d3319b7935f3c125a8
-SHA256: af14e38f9d166174fb477f51673bdf5f55711a334bbde65a76ee93195d526f17
-SHA512: 723b2743720debff37d37587a9d77edab25d5314b6fbe56f3a9a8f173731652d974e165adbfbee02e048c1a374ccc4f3641082dbf13ac7baa3f962a3a2ac3965
-Homepage: http://wps-community.org
-Description: WPS Office, is an office productivity suite.
- WPS Office including Writer, Presentation
- and Spreadsheets, is a powerful office suite, which is able to process
- word file, produce wonderful slides, and analyze data as well. It is
- deeply compatible with all of the latest Microsoft Office file formats. 
- It can easily open and read the documents created with Microsoft Office.
- This is the Linux version, and it's now a TESTING package.
- Welcome to our website: http://wps-community.org
-Name: wps-office
-Relocations: /opt/kingsoft
 
 Package: wps-office-365
 Architecture: arm64
