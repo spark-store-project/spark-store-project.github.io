@@ -534,22 +534,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.remmina.spark_1.0_all.deb",
-    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
-    "Name": "Remmina远程桌面",
-    "Pkgname": "org.remmina.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
-}
-
-,
-{
     "Author": "onehub",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "chat.deepseek.com_1.0.0_all.deb",
@@ -564,6 +548,22 @@
     "Website": "https://bbs.spark-app.store/u/onehub",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.remmina.spark_1.0_all.deb",
+    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
+    "Name": "Remmina远程桌面",
+    "Pkgname": "org.remmina.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -1214,20 +1214,20 @@
 
 ,
 {
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.github.xfangfang.macast_0.7_arm64.deb",
-    "More": "Macast是一个跨平台的 菜单栏\n\n状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。\n\n注：如果投屏发生闪退，可尝试将硬件解码关闭",
-    "Name": "Macast",
-    "Pkgname": "com.github.xfangfang.macast",
-    "Size": "313 Mb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "com.github.xfangfang.macast_0.7_arm64.deb.torrent",
-    "Update": "2023-07-25 18:24:33",
-    "Version": "0.7",
-    "Website": "https://gitee.com/xfangfang/Macast",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
+    "Name": "附加基础库 Additional Base Lib",
+    "Version": "2.41-9-9",
+    "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
+    "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
+    "Pkgname": "additional-base-lib",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Website": "https://gitee.com/spark-store-project/additional-base-lib",
+    "Update": "2025-06-19 17:42:07",
+    "Size": "2.8M",
+    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
 }
 
 ,
@@ -1250,20 +1250,20 @@
 
 ,
 {
-    "Name": "附加基础库 Additional Base Lib",
-    "Version": "2.41-9-9",
-    "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
-    "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
-    "Pkgname": "additional-base-lib",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <shenmo@spark-app.store>",
-    "Website": "https://gitee.com/spark-store-project/additional-base-lib",
-    "Update": "2025-06-19 17:42:07",
-    "Size": "2.8M",
-    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-    "Tags": "ubuntu;deepin;uos;debian;community",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.xfangfang.macast_0.7_arm64.deb",
+    "More": "Macast是一个跨平台的 菜单栏\n\n状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。\n\n注：如果投屏发生闪退，可尝试将硬件解码关闭",
+    "Name": "Macast",
+    "Pkgname": "com.github.xfangfang.macast",
+    "Size": "313 Mb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "com.github.xfangfang.macast_0.7_arm64.deb.torrent",
+    "Update": "2023-07-25 18:24:33",
+    "Version": "0.7",
+    "Website": "https://gitee.com/xfangfang/Macast",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
 }
 
 ,
@@ -1286,24 +1286,6 @@
 
 ,
 {
-  "Author": "gfdgd_xi <3025613752@qq.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-sendbylan_1.7.3-1_arm64.deb",
-  "More": "支持深度文件管理器右键插件的快速共享工具",
-  "Name": "GXDE 共享文件夹",
-  "Pkgname": "gxde-sendbylan",
-  "Size": "36 Kb",
-  "Tags": "community;deepin;debian;native",
-  "Torrent_address": "gxde-sendbylan_1.7.3-1_arm64.deb.torrent",
-  "Update": "2025-03-04 22:36:37",
-  "Version": "1.7.3-1",
-  "Website": "https://gitee.com/GXDE-OS/gxde-sendbylan",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-sendbylan/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-sendbylan/screen_1.png\"]"
-}
-
-,
-{
   "Author": "Deepin Packages Builder <packages@deepin.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "deepin-mirror-selector_1.0.1_arm64.deb",
@@ -1318,6 +1300,24 @@
   "Website": "https://www.deepin.org/",
   "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "gfdgd_xi <3025613752@qq.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-sendbylan_1.7.3-1_arm64.deb",
+  "More": "支持深度文件管理器右键插件的快速共享工具",
+  "Name": "GXDE 共享文件夹",
+  "Pkgname": "gxde-sendbylan",
+  "Size": "36 Kb",
+  "Tags": "community;deepin;debian;native",
+  "Torrent_address": "gxde-sendbylan_1.7.3-1_arm64.deb.torrent",
+  "Update": "2025-03-04 22:36:37",
+  "Version": "1.7.3-1",
+  "Website": "https://gitee.com/GXDE-OS/gxde-sendbylan",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-sendbylan/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-sendbylan/screen_1.png\"]"
 }
 
 ,
