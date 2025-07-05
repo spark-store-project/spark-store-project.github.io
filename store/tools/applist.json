@@ -2433,24 +2433,6 @@
 
 ,
 {
-  "Name": "樱花助手",
-  "Version": "2.2.5-20230427",
-  "Filename": "sakura-assistant_2.2.5-20230427_amd64.deb",
-  "Torrent_address": "sakura-assistant_2.2.5-20230427_amd64.deb.torrent",
-  "Pkgname": "sakura-assistant",
-  "Author": "momen  <momen@deepinos.org>",
-  "Contributor": "vmomenv <vmomenv@gmail.com>",
-  "Website": "https://github.com:vmomenv/SparkAssistant.git",
-  "Update": "2023-05-03 11:48:11",
-  "Size": "333.56 KB",
-  "More": "本软件主要功能有，系统中软件更新，天气预报，todo清单",
-  "Tags": "community;deepin;uos;dtk5;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/2abab04b-9c48-40d9-9c89-6943c0d6ea7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/6c97082e-9c76-4d66-912a-103bea9cf174.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/22be2471-22e7-499c-a119-6db9390e0583.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/48a4479f-c2bd-45af-b15c-3a8d72dd6833.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/03/65ed39b6-498f-4ef1-bedc-41c53cf48bd1.png"
-}
-
-,
-{
   "Name": "系统传感器显示工具",
   "Version": "1.2-20241204",
   "Filename": "simple-sensor-monitor_1.2-20241204_amd64.deb",
@@ -2465,6 +2447,24 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/47117e84ed3b402da4691c2e03c8c7f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/5c9e83b381dc4f4899e4a1d86abb0f2f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/b1ffb76726d14c74a3674b9bb44643ae.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/e4e5b589e4674330b30ce76208d6851f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/5f6630b0d85749c388d5439e25069347.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/12/04/c5f970b03a564c829c9958b5ab90691a.png"
+}
+
+,
+{
+  "Name": "樱花助手",
+  "Version": "2.2.5-20230427",
+  "Filename": "sakura-assistant_2.2.5-20230427_amd64.deb",
+  "Torrent_address": "sakura-assistant_2.2.5-20230427_amd64.deb.torrent",
+  "Pkgname": "sakura-assistant",
+  "Author": "momen  <momen@deepinos.org>",
+  "Contributor": "vmomenv <vmomenv@gmail.com>",
+  "Website": "https://github.com:vmomenv/SparkAssistant.git",
+  "Update": "2023-05-03 11:48:11",
+  "Size": "333.56 KB",
+  "More": "本软件主要功能有，系统中软件更新，天气预报，todo清单",
+  "Tags": "community;deepin;uos;dtk5;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/2abab04b-9c48-40d9-9c89-6943c0d6ea7d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/6c97082e-9c76-4d66-912a-103bea9cf174.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/22be2471-22e7-499c-a119-6db9390e0583.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/03/48a4479f-c2bd-45af-b15c-3a8d72dd6833.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/03/65ed39b6-498f-4ef1-bedc-41c53cf48bd1.png"
 }
 
 ,
@@ -5370,6 +5370,24 @@
 
 ,
 {
+  "Name": "Ollama 测试器(千问客户端)",
+  "Version": "0.0.1-20250325",
+  "Filename": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb",
+  "Torrent_address": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb.torrent",
+  "Pkgname": "com.gitee.zinface.ollama-qwen-client",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "http://gitee.com/zinface/python.ollama-qwen-client",
+  "Update": "2025-03-25 10:27:22",
+  "Size": "119.07 MB",
+  "More": "基于 PySide6 的 Ollama 千问工具\n .\n 灵感来自可视化一切\n .\n Build for GXDE15.14.3 through spark-deb-build.\n\n\n一种简单的 Ollama 可视化使用工具，适用于可观性测试，而不是生产与日常使用，just for fun。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/25/ad2e48a3ccd74988900bb8a5b5012c37.png\",\"https://spk-json.spark-app.store/images/2025/03/25/0dab3cfe2d214d21ba1068ae45698e8f.png\",\"https://spk-json.spark-app.store/images/2025/03/25/30185125e4db49549a1403c9a973f9aa.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/03/25/3284a0614413476bbcb5e4bc60e4dc8c.png"
+}
+
+,
+{
   "Name": "绘树文件加密",
   "Version": "1.0.2",
   "Filename": "top.chenziji.fileencryptionsystem_1.0.2_amd64.deb",
@@ -5472,24 +5490,6 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5bcea340-9560-11eb-89f1-e720d46b794c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5bef71b0-9560-11eb-89f1-e720d46b794c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5c326e20-9560-11eb-89f1-e720d46b794c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/05/5c10b550-9560-11eb-89f1-e720d46b794c.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/05/54af0f50-9560-11eb-89f1-e720d46b794c.png"
-}
-
-,
-{
-  "Name": "Ollama 测试器(千问客户端)",
-  "Version": "0.0.1-20250325",
-  "Filename": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb",
-  "Torrent_address": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb.torrent",
-  "Pkgname": "com.gitee.zinface.ollama-qwen-client",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "http://gitee.com/zinface/python.ollama-qwen-client",
-  "Update": "2025-03-25 10:27:22",
-  "Size": "119.07 MB",
-  "More": "基于 PySide6 的 Ollama 千问工具\n .\n 灵感来自可视化一切\n .\n Build for GXDE15.14.3 through spark-deb-build.\n\n\n一种简单的 Ollama 可视化使用工具，适用于可观性测试，而不是生产与日常使用，just for fun。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/25/ad2e48a3ccd74988900bb8a5b5012c37.png\",\"https://spk-json.spark-app.store/images/2025/03/25/0dab3cfe2d214d21ba1068ae45698e8f.png\",\"https://spk-json.spark-app.store/images/2025/03/25/30185125e4db49549a1403c9a973f9aa.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/03/25/3284a0614413476bbcb5e4bc60e4dc8c.png"
 }
 
 ,

@@ -11238,19 +11238,19 @@ Vendor: 友虹（北京）科技有限公司 <service@scofd.com>
 
 Package: koodo-reader
 Architecture: amd64
-Version: 2.0.0
+Version: 2.0.4
 Priority: optional
 Section: default
 Maintainer: App by Troye <feedback@koodoreader.com>
-Installed-Size: 349856
+Installed-Size: 350389
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./reading/koodo-reader/koodo-reader_2.0.0_amd64.deb
-Size: 85695930
-MD5sum: c5fba04b9818d3f4b5ce04becc24a9c5
-SHA1: 1e3e3495d829ad6b0632e52a919e70d30c3fd819
-SHA256: 04324e09bdee1fc0957b648c119db3a7a19faf181bac45da907793c3743d7eca
-SHA512: b083b0b65660283ee0cbc68550855beda9cad5c78c14a1f0923059d3b4ffc9435084843eb4d21a134cbec9564d002a89728942713c892d334313435a2c86fdff
+Filename: ./reading/koodo-reader/koodo-reader_2.0.4_amd64.deb
+Size: 85123776
+MD5sum: 567603151dfa26f61aa5a8afb19af2dd
+SHA1: e5b759032057b7c3346515a943b6cf203116ca91
+SHA256: e2674e9a4bf591e53f08e99083177ee3950e935c6ab76218935b090e234ff227
+SHA512: 55b9071f61d60b1ac5563484371f760628555f32f98e194d2f3379b2af411aa20e5031bf93d8cc011a86631361363098e8c720481dd907ddf0c595f7285dd41a
 Homepage: https://./
 Description: 
   Koodo Reader is a cross-platform ebook reader
@@ -35436,11 +35436,11 @@ Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
 Filename: ./network/firefox-spark/firefox-spark_140.0.2_amd64.deb
-Size: 77745920
-MD5sum: 027739e740f9191690aab0e59683cf91
-SHA1: f2359a0f9cf1afbf7f922b7f8fddca786bc5d647
-SHA256: 5064772fd24ec64eeae8526e9fd358eefc88ebdd7bb236205f155dc926627fe5
-SHA512: d44ae4f00220a255fa47fbab83d2c923cccf2144b6d4397db26713c97642efb435fbb171776fbb24ff0fa505ee0393ab9e4a89c079499a54ce4fecfa191f8137
+Size: 77748668
+MD5sum: 3c1c6226f1d7c0673deeca29990fc3d8
+SHA1: 9b7cba766eea385d3a0db8ac9a3fe8388e5ed7a5
+SHA256: 0272c7b20030332808cadd61fea0c35b6255e6728c130c7a47ad9f40ba364534
+SHA512: 8d16c227b383b424a9470482c4f9fd4bd21d30322d2dc6ee99af9c211a5715773e66b7b3d871a54cc10316defe41f6acb798395af9fbaca3e8dcd610bb597e53
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -40695,11 +40695,11 @@ Recommends: birdtray
 Conflicts: thunderbird
 Replaces: thunderbird(=140.0)
 Filename: ./chat/thunderbird.spark/thunderbird.spark_140.0_amd64.deb
-Size: 76110320
-MD5sum: 0b45cccd4dc491af4ced1d5be4004673
-SHA1: d7897ce69a3a15aeae25ea1ad44345c4f3326d2e
-SHA256: a03c7f44bef51ec98babf1101dbc89de5d22448294cde5063950e08bba0105f6
-SHA512: 61710d8cf0aedac5c442d37ec0f7c08669383d9f85f9c2e95fceb5b062bb0c08d19836ab3d3f4941745f51377fb2951bede44a810555008eaa06b1d78f0708ab
+Size: 76111784
+MD5sum: 8a3dae31b37494e2c0630300f784ab80
+SHA1: 49144844eda4a80889d6d95025249ad202897da3
+SHA256: 51a2c80fe044943efe0c88ea206125a1a3576c4e47c887fa37ac7bef786fca35
+SHA512: aa968934e679680aab94bc74968333aac0da9783374fdfe6d02c2f6d92aec6ecaaeea5cdc394448c9c4e835261a864ffd85db6910072951b75ce2b57129efe43
 Homepage: https://www.thunderbird.net
 Description: Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端
 

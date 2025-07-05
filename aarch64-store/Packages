@@ -4466,6 +4466,27 @@ SHA256: d13490953efa9b5fd91ba101d876749d235a282721e2a93c05bbb2d645672ccc
 SHA512: b2327718f7dc0b43ed5c67fda154035ee81bb4aabe56c3c062b40b3e996a7c3e060415d96235ac5fabf2b9a9376565e18a0268ac6412a6fdd9e7928f4c58a4d3
 Description: Youdao Dict for Linux
 
+Package: koodo-reader
+Architecture: arm64
+Version: 2.0.4
+Priority: optional
+Section: default
+Maintainer: App by Troye <feedback@koodoreader.com>
+Installed-Size: 365455
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./reading/koodo-reader/koodo-reader_2.0.4_arm64.deb
+Size: 80664428
+MD5sum: bffc2c52bc4e3597c6ca099657fd99ee
+SHA1: c8931bb1cde45ee787f6dbd68d195c30e5698ee5
+SHA256: ef6f6fe18622ad24d63ae2a2e5aad8632f0edb7525b972d3004ca9dda041f928
+SHA512: 367b693fe0ce71e1cd4c5f928750c367759952210fb58a282f7af80d15edec0badd21629fe363d681475e61fe0b312b310a82385226bf0ac1d2ecf90df42be9c
+Homepage: https://./
+Description: 
+  Koodo Reader is a cross-platform ebook reader
+License: unknown
+Vendor: App by Troye <feedback@koodoreader.com>
+
 Package: pot
 Architecture: arm64
 Version: 3.0.7
