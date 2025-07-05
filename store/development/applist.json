@@ -590,24 +590,6 @@
 
 ,
 {
-  "Name": "XTerminal",
-  "Version": "2.9.3-84",
-  "Filename": "xterminal_2.9.3-84_amd64.deb",
-  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
-  "Pkgname": "xterminal",
-  "Author": "Xterminal",
-  "Contributor": "sgb76",
-  "Website": "https://xterminal.cn",
-  "Update": "2025-01-04 11:32:44",
-  "Size": "117.89 MB",
-  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
-}
-
-,
-{
   "Author": "wntr <Unknown>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "finalshell_4.5.12_amd64.deb",
@@ -622,6 +604,24 @@
   "Website": "kentrl",
   "icons": "https://spk-json.spark-app.store/store/development/finalshell/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/development/finalshell/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "XTerminal",
+  "Version": "2.9.3-84",
+  "Filename": "xterminal_2.9.3-84_amd64.deb",
+  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
+  "Pkgname": "xterminal",
+  "Author": "Xterminal",
+  "Contributor": "sgb76",
+  "Website": "https://xterminal.cn",
+  "Update": "2025-01-04 11:32:44",
+  "Size": "117.89 MB",
+  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
 }
 
 ,
@@ -1118,6 +1118,23 @@
 
 ,
 {
+    "Name": "navicat",
+    "Version": "17.1.8",
+    "Filename": "navicat_17.1.8_amd64.deb",
+    "Torrent_address": "navicat_17.1.8_amd64.deb.torrent",
+    "Pkgname": "navicat",
+    "Author": "navicat",
+    "Contributor": "momen <vmomenv@gmail.com>",
+    "Website": "https://www.navicat.com.cn/",
+    "Update": "2025-03-11 17:00:08",
+    "Size": "194.33 MB",
+    "More": "Navicat 是一款功能强大的数据库管理工具，支持 MySQL、MariaDB、PostgreSQL、Oracle、SQLite、SQL Server 等多种数据库。它主要用于数据库的管理、开发和维护，适合开发人员、数据库管理员以及数据分析师使用。",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/11/9310863c9aaa4d26803c9ded5792f67e.png\",\"https://spk-json.spark-app.store/images/2025/03/11/87da15ae56b147768df85148d4346b46.png\",\"https://spk-json.spark-app.store/images/2025/03/11/187200aea4cd4e44829ba9eccd4266f7.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/11/f45399980b2d4c66979c50458263fefe.png"
+}
+,
+{
   "Name": "quardCRT",
   "Version": "0.51",
   "Filename": "quardcrt_0.51_amd64.deb",
@@ -1134,23 +1151,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/29/aca254ab507b4bf49acaff08b7b069e5.png"
 }
 
-,
-{
-    "Name": "navicat",
-    "Version": "17.1.8",
-    "Filename": "navicat_17.1.8_amd64.deb",
-    "Torrent_address": "navicat_17.1.8_amd64.deb.torrent",
-    "Pkgname": "navicat",
-    "Author": "navicat",
-    "Contributor": "momen <vmomenv@gmail.com>",
-    "Website": "https://www.navicat.com.cn/",
-    "Update": "2025-03-11 17:00:08",
-    "Size": "194.33 MB",
-    "More": "Navicat 是一款功能强大的数据库管理工具，支持 MySQL、MariaDB、PostgreSQL、Oracle、SQLite、SQL Server 等多种数据库。它主要用于数据库的管理、开发和维护，适合开发人员、数据库管理员以及数据分析师使用。",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/11/9310863c9aaa4d26803c9ded5792f67e.png\",\"https://spk-json.spark-app.store/images/2025/03/11/87da15ae56b147768df85148d4346b46.png\",\"https://spk-json.spark-app.store/images/2025/03/11/187200aea4cd4e44829ba9eccd4266f7.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/11/f45399980b2d4c66979c50458263fefe.png"
-}
 ,
 {
     "Name": "Tiny RDM",
@@ -1635,23 +1635,6 @@
 
 ,
 {
-    "Name": "VOFA+",
-    "Version": "4.1.7",
-    "Filename": "vofa_plus_4.1.7_amd64.deb",
-    "Torrent_address": "vofa_plus_4.1.7_amd64.deb.torrent",
-    "Pkgname": "vofa+",
-    "Author": "je00 <zjt@gutega.com>",
-    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Website": "https://www.vofa.plus/",
-    "Update": "2025-04-01 23:19:13",
-    "Size": "20.24 MB",
-    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。\n\n更新记录：\n- 1.4.2-1\n  * 【全平台】修复Logo区域窗口拖拽失效问题无 \n  * 【Windows】【多屏适配】拖入副屏，出现多余标题栏问题修复  \n  * 【Windows】【多屏适配】拖入副屏，软件无法拖动问题修复\n- 1.4.1  \n  * 控件拖入加入网格吸附，支持响应式布局\n  * 适配了系统原生窗体响应\n  * 适配了系统屏幕缩放\n  * 清除数据后，通道名称不会丢失\n  * 修复TCP Server闪退问题\n  * 优化控件体验\n  * 优化英文翻译",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/cea72549fea74dd791ee5c87374c096d.png\",\"https://spk-json.spark-app.store/images/2025/04/01/590d8899815549519def60c5b2ff4467.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/9b669740f6b8498fa489903ff53e03cd.png"
-}
-,
-{
   "Name": "Scratch 1.4",
   "Version": "1.4.0.6~dfsg1-6",
   "Filename": "scratch_1.4.0.6~dfsg1-6_all.deb",
@@ -1668,6 +1651,23 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/f12da169cb654dd78dad72fda224fc12.png"
 }
 
+,
+{
+    "Name": "VOFA+",
+    "Version": "4.1.7",
+    "Filename": "vofa_plus_4.1.7_amd64.deb",
+    "Torrent_address": "vofa_plus_4.1.7_amd64.deb.torrent",
+    "Pkgname": "vofa+",
+    "Author": "je00 <zjt@gutega.com>",
+    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Website": "https://www.vofa.plus/",
+    "Update": "2025-04-01 23:19:13",
+    "Size": "20.24 MB",
+    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。\n\n更新记录：\n- 1.4.2-1\n  * 【全平台】修复Logo区域窗口拖拽失效问题无 \n  * 【Windows】【多屏适配】拖入副屏，出现多余标题栏问题修复  \n  * 【Windows】【多屏适配】拖入副屏，软件无法拖动问题修复\n- 1.4.1  \n  * 控件拖入加入网格吸附，支持响应式布局\n  * 适配了系统原生窗体响应\n  * 适配了系统屏幕缩放\n  * 清除数据后，通道名称不会丢失\n  * 修复TCP Server闪退问题\n  * 优化控件体验\n  * 优化英文翻译",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/cea72549fea74dd791ee5c87374c096d.png\",\"https://spk-json.spark-app.store/images/2025/04/01/590d8899815549519def60c5b2ff4467.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/9b669740f6b8498fa489903ff53e03cd.png"
+}
 ,
 {
   "Name": "Liberica JDK 17 Full",
@@ -1955,6 +1955,20 @@
 
 ,
 {
+    "Name": "Lazydocker",
+    "Author": "wcbing <i@wcbing.top>",
+    "Website": "https://github.com/jesseduffield/lazydocker",
+    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
+    "Tags": "debian;community;ubuntu;deepin",
+    "Pkgname": "lazydocker",
+    "Version": "0.24.1",
+    "Filename": "lazydocker_0.24.1-1_amd64.deb",
+    "Update": "2025-03-07 20:54:23",
+    "Size": "3.87MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
     "Name": "Kylin Code",
     "Version": "0.5.0",
     "Filename": "kylin-code_0.5.0_amd64.deb",
@@ -1988,20 +2002,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/04/4f40ca00-139e-11ed-8756-c505056a962f.png"
 }
 
-,
-{
-    "Name": "Lazydocker",
-    "Author": "wcbing <i@wcbing.top>",
-    "Website": "https://github.com/jesseduffield/lazydocker",
-    "More": "一个简单的终端 UI 程序，用于 docker 和 docker-compose，用 Go 语言编写，使用 gocui 库。",
-    "Tags": "debian;community;ubuntu;deepin",
-    "Pkgname": "lazydocker",
-    "Version": "0.24.1",
-    "Filename": "lazydocker_0.24.1-1_amd64.deb",
-    "Update": "2025-03-07 20:54:23",
-    "Size": "3.87MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "Cutter",

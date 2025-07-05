@@ -322,15 +322,15 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "uos-packaging-tools_1.7.5_all.deb",
+    "Filename": "uos-packaging-tools_1.7.6_all.deb",
     "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
     "Name": "维护打包工具箱",
     "Pkgname": "uos-packaging-tools",
     "Size": "78 Kb",
     "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
-    "Update": "2025-06-16 23:07:11",
-    "Version": "1.7.5",
+    "Torrent_address": "uos-packaging-tools_1.7.6_all.deb.torrent",
+    "Update": "2025-07-03 17:02:44",
+    "Version": "1.7.6",
     "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
     "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
@@ -480,24 +480,6 @@
 
 ,
 {
-  "Author": "shenmo <jifengshenmo@outlook.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "sm-refresh_1.1_all.deb",
-  "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
-  "Name": "右键刷新插件",
-  "Pkgname": "sm-refresh",
-  "Size": "12 Kb",
-  "Tags": "community;deepin;uos;native",
-  "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
-  "Update": "2023-04-27 21:26:37",
-  "Version": "1.1",
-  "Website": "http://blog.shenmo.tech",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_2.png\"]"
-}
-
-,
-{
     "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "deepin-wine-builder_3.3.1.013-1_arm64.deb",
@@ -512,6 +494,24 @@
     "Website": "https://www.deepin.org",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-builder/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-builder/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "shenmo <jifengshenmo@outlook.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "sm-refresh_1.1_all.deb",
+  "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+  "Name": "右键刷新插件",
+  "Pkgname": "sm-refresh",
+  "Size": "12 Kb",
+  "Tags": "community;deepin;uos;native",
+  "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+  "Update": "2023-04-27 21:26:37",
+  "Version": "1.1",
+  "Website": "http://blog.shenmo.tech",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_2.png\"]"
 }
 
 ,
@@ -534,6 +534,22 @@
 
 ,
 {
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.remmina.spark_1.0_all.deb",
+    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
+    "Name": "Remmina远程桌面",
+    "Pkgname": "org.remmina.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
+}
+
+,
+{
     "Author": "onehub",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "chat.deepseek.com_1.0.0_all.deb",
@@ -548,22 +564,6 @@
     "Website": "https://bbs.spark-app.store/u/onehub",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.remmina.spark_1.0_all.deb",
-    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
-    "Name": "Remmina远程桌面",
-    "Pkgname": "org.remmina.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -677,15 +677,15 @@
 {
     "Author": "zinface <zinface@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store-submitter_1.5.7.4-20250614_arm64.deb",
+    "Filename": "spark-store-submitter_1.5.7.5-20250703_arm64.deb",
     "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n",
     "Name": "星火商店投稿器",
     "Pkgname": "spark-store-submitter",
-    "Size": "2859 Kb",
+    "Size": "2858 Kb",
     "Tags": "community;deepin;ubuntu;debian",
-    "Torrent_address": "spark-store-submitter_1.5.7.4-20250614_arm64.deb.torrent",
-    "Update": "2025-06-14 15:33:38",
-    "Version": "1.5.7.4-20250614",
+    "Torrent_address": "spark-store-submitter_1.5.7.5-20250703_arm64.deb.torrent",
+    "Update": "2025-07-03 16:24:00",
+    "Version": "1.5.7.5-20250703",
     "Website": "https://gitee.com/spark-store-project",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_5.png\"]"
@@ -890,6 +890,24 @@
 
 ,
 {
+  "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "deepin-wine-diag_3.1.1.002-1_arm64.deb",
+  "More": "deepin wine应用出现故障时，方便用户操作收集相关日志信息供开发者分析",
+  "Name": "deepin-wine诊断工具",
+  "Pkgname": "deepin-wine-diag",
+  "Size": "51 Kb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "deepin-wine-diag_3.1.1.002-1_arm64.deb.torrent",
+  "Update": "2025-05-23 21:38:39",
+  "Version": "3.1.1.002-1",
+  "Website": "http://www.linuxdeepin.com/",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-diag/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-diag/screen_1.png\"]"
+}
+
+,
+{
   "Author": "Qi An Xin Technology Group Inc.",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.qianxin.qaxsafe_7.0.5.1600_arm64.deb",
@@ -922,24 +940,6 @@
   "Website": "https://www.deepin.com/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
-}
-
-,
-{
-  "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "deepin-wine-diag_3.1.1.002-1_arm64.deb",
-  "More": "deepin wine应用出现故障时，方便用户操作收集相关日志信息供开发者分析",
-  "Name": "deepin-wine诊断工具",
-  "Pkgname": "deepin-wine-diag",
-  "Size": "51 Kb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "deepin-wine-diag_3.1.1.002-1_arm64.deb.torrent",
-  "Update": "2025-05-23 21:38:39",
-  "Version": "3.1.1.002-1",
-  "Website": "http://www.linuxdeepin.com/",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-diag/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-diag/screen_1.png\"]"
 }
 
 ,
@@ -1355,24 +1355,6 @@
 
 ,
 {
-    "Author": "gfdgd xi <3025613752@qq.com>、为什么您不喜欢熊出没和阿布呢",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "spark-webapp-runtime-runner_1.1.0_arm64.deb",
-    "More": "一个 spark-webapp-runtime（星火网页应用运行环境）图形化运行器，可以让你更加方便的使用星火网页应用运行环境\n\n更新内容：\n※1、程序全部重构，语言从 Python 转 C++、GUI 从 Tkinter 转 DTK、布局大改，参考了 sgb76 大佬的 Wine 运行器设计图、zty79的桌面快捷方式编辑器的参考布局\n※2、程序新增打包功能",
-    "Name": "spark-webapp-runtime 运行器",
-    "Pkgname": "spark-webapp-runtime-runner",
-    "Size": "41 Kb",
-    "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
-    "Torrent_address": "spark-webapp-runtime-runner_1.1.0_arm64.deb.torrent",
-    "Update": "2023-03-05 19:33:48",
-    "Version": "1.1.0",
-    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/",
-    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-webapp-runtime-runner/icon.png",
-    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-webapp-runtime-runner/screen_1.png\"]"
-}
-
-,
-{
   "Author": "zinface <zinface@163.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "z-tools-adbmanager_0.1-20230129_arm64.deb",
@@ -1387,6 +1369,24 @@
   "Website": "https://gitee.com/zinface/z-tools",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "gfdgd xi <3025613752@qq.com>、为什么您不喜欢熊出没和阿布呢",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "spark-webapp-runtime-runner_1.1.0_arm64.deb",
+    "More": "一个 spark-webapp-runtime（星火网页应用运行环境）图形化运行器，可以让你更加方便的使用星火网页应用运行环境\n\n更新内容：\n※1、程序全部重构，语言从 Python 转 C++、GUI 从 Tkinter 转 DTK、布局大改，参考了 sgb76 大佬的 Wine 运行器设计图、zty79的桌面快捷方式编辑器的参考布局\n※2、程序新增打包功能",
+    "Name": "spark-webapp-runtime 运行器",
+    "Pkgname": "spark-webapp-runtime-runner",
+    "Size": "41 Kb",
+    "Tags": "community;debian;deepin;dtk5;ubuntu;uos",
+    "Torrent_address": "spark-webapp-runtime-runner_1.1.0_arm64.deb.torrent",
+    "Update": "2023-03-05 19:33:48",
+    "Version": "1.1.0",
+    "Website": "https://gitee.com/gfdgd-xi/spark-webapp-runtime-runner/",
+    "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-webapp-runtime-runner/icon.png",
+    "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/spark-webapp-runtime-runner/screen_1.png\"]"
 }
 
 ,
@@ -1429,6 +1429,24 @@
 {
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
+  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
+  "Name": "GXDE 2025 升级工具",
+  "Pkgname": "gxde-25-upgrader",
+  "Size": "1217 Kb",
+  "Tags": "community;debian;native",
+  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
+  "Update": "2025-05-11 23:20:45",
+  "Version": "1.1.5",
+  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
+  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.grub-customizer_5.2.2-2_all.deb",
   "More": "Grub Customizer 是一个用户友好的Grub定制工具，可以定制启动顺序，方式和主题\n\n从系统仓库获取，版本号无意义",
   "Name": "Grub  Customizer 启动定制工具",
@@ -1459,24 +1477,6 @@
     "Website": " https://github.com/sonichy/HTYScreenPen",
     "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/icon.png",
     "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/htyscreenpen/screen_4.png\"]"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
-  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
-  "Name": "GXDE 2025 升级工具",
-  "Pkgname": "gxde-25-upgrader",
-  "Size": "1217 Kb",
-  "Tags": "community;debian;native",
-  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
-  "Update": "2025-05-11 23:20:45",
-  "Version": "1.1.5",
-  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
 }
 
 ,
@@ -1715,6 +1715,24 @@
 
 ,
 {
+    "Author": "ieusr<ieusr@qq.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.wubidzt.deepin_0.0.1_all.deb",
+    "More": "五笔打字通中文版是专门为五笔初学设计的一款软件。五笔打字通中文版操作傻瓜化，不用看帮助文档就可上手，独有的空心字提示非常直观，还设计有存档功能，可以接着上一次练习继续学习。",
+    "Name": "五笔打字通",
+    "Pkgname": "com.wubidzt.deepin",
+    "Size": "48 Mb",
+    "Tags": "deepin;uos;ubuntu;dwine5;debian",
+    "Torrent_address": "com.wubidzt.deepin_0.0.1_all.deb.torrent",
+    "Update": "2024-08-30 11:13:19",
+    "Version": "0.0.1",
+    "Website": "ieusr@qq.com",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.wubidzt.deepin/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.wubidzt.deepin/screen_1.png\"]"
+}
+
+,
+{
   "Author": "sgb76 <sgb76@163.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.filegee.spark_11.7.4spark1_all.deb",
@@ -1769,24 +1787,6 @@
 
 ,
 {
-    "Author": "ieusr<ieusr@qq.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.wubidzt.deepin_0.0.1_all.deb",
-    "More": "五笔打字通中文版是专门为五笔初学设计的一款软件。五笔打字通中文版操作傻瓜化，不用看帮助文档就可上手，独有的空心字提示非常直观，还设计有存档功能，可以接着上一次练习继续学习。",
-    "Name": "五笔打字通",
-    "Pkgname": "com.wubidzt.deepin",
-    "Size": "48 Mb",
-    "Tags": "deepin;uos;ubuntu;dwine5;debian",
-    "Torrent_address": "com.wubidzt.deepin_0.0.1_all.deb.torrent",
-    "Update": "2024-08-30 11:13:19",
-    "Version": "0.0.1",
-    "Website": "ieusr@qq.com",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.wubidzt.deepin/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.wubidzt.deepin/screen_1.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "amber-ce-trixie_13.8.4_arm64.deb",
@@ -1801,6 +1801,24 @@
     "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "z-tools-dockerfile_0.1-20230129_arm64.deb",
+  "More": "Linux toolbox under development",
+  "Name": "dockerfile生成器(测试版本)",
+  "Pkgname": "z-tools-dockerfile",
+  "Size": "33 Kb",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "Torrent_address": "z-tools-dockerfile_0.1-20230129_arm64.deb.torrent",
+  "Update": "2023-03-06 20:57:54",
+  "Version": "0.1-20230129",
+  "Website": "https://gitee.com/zinface/z-tools",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-dockerfile/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-dockerfile/screen_1.png\"]"
 }
 
 ,
@@ -1837,24 +1855,6 @@
   "Website": "http://doublecommander.com/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "z-tools-dockerfile_0.1-20230129_arm64.deb",
-  "More": "Linux toolbox under development",
-  "Name": "dockerfile生成器(测试版本)",
-  "Pkgname": "z-tools-dockerfile",
-  "Size": "33 Kb",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "Torrent_address": "z-tools-dockerfile_0.1-20230129_arm64.deb.torrent",
-  "Update": "2023-03-06 20:57:54",
-  "Version": "0.1-20230129",
-  "Website": "https://gitee.com/zinface/z-tools",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-dockerfile/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-dockerfile/screen_1.png\"]"
 }
 
 ,
@@ -2011,10 +2011,10 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/0ec1daa5df0f4f9597c0440c39e69116.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f50bab7804504b66a266b027c29c0adc.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/01/01/5db109ad0dd9452b81b87088b512a512.png",
     "Pkgname": "cloudflared",
-    "Version": "2025.6.1",
-    "Filename": "cloudflared_2025.6.1_arm64.deb",
-    "Update": "2025-06-19 01:47:46",
-    "Size": "18.88MB",
+    "Version": "2025.7.0",
+    "Filename": "cloudflared_2025.7.0_arm64.deb",
+    "Update": "2025-07-04 01:41:02",
+    "Size": "18.89MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,

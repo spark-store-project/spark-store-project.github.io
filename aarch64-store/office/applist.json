@@ -522,21 +522,18 @@
 
 ,
 {
-  "Name": "思源笔记",
-  "Author": "云南链滴科技有限公司 <845765@qq.com>",
-  "Website": "https://b3log.org/siyuan/",
-  "More": "思源笔记是一款本地优先的个人知识管理系统，支持完全离线使用，同时也支持端到端加密同步。",
-  "Tags": "debian;ubuntu;deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/office/siyuan/screen_1.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_2.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_3.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_4.png\"]",
-  "icons": "https://spk-json.spark-app.store/store/office/siyuan/icon.png",
-  "Pkgname": "siyuan",
-  "Version": "3.1.32",
-  "Filename": "siyuan_3.1.32_arm64.deb",
-  "Update": "2025-06-04 01:43:52",
-  "Size": "178.28MB",
-  "Contributor": "https://gitee.com/spark-building-service/github"
+    "Name": "思源笔记",
+    "Author": "云南链滴科技有限公司 <845765@qq.com>",
+    "Website": "https://b3log.org/siyuan/",
+    "More": "思源笔记是一款本地优先的个人知识管理系统，支持完全离线使用，同时也支持端到端加密同步。",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "Pkgname": "siyuan",
+    "Version": "3.2.0",
+    "Filename": "siyuan_3.2.0_arm64.deb",
+    "Update": "2025-07-04 01:40:17",
+    "Size": "184.67MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
 }
-
 ,
 {
   "Author": "SHENZHEN EDRAW SOFTWARE CO.LTD <support@edrawsoft.com>",
@@ -647,24 +644,6 @@
 
 ,
 {
-  "Author": "sgb76 <sgb76@163.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.evernote.spark_7.2.6.8111spark4_all.deb",
-  "More": "随时随地获取、整理、分享笔记，让灵感时刻与你同行",
-  "Name": "印象笔记（wine）",
-  "Pkgname": "com.evernote.spark",
-  "Size": "201 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
-  "Torrent_address": "com.evernote.spark_7.2.6.8111spark4_all.deb.torrent",
-  "Update": "2024-03-24 16:57:04",
-  "Version": "7.2.6.8111spark4",
-  "Website": "https://www.yinxiang.com/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_3.png\"]"
-}
-
-,
-{
   "Author": "emily@mysher.com",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "org.deepin.scanner_5.5.15-1_arm64.deb",
@@ -679,6 +658,24 @@
   "Website": "https://www.deepin.org/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "sgb76 <sgb76@163.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.evernote.spark_7.2.6.8111spark4_all.deb",
+  "More": "随时随地获取、整理、分享笔记，让灵感时刻与你同行",
+  "Name": "印象笔记（wine）",
+  "Pkgname": "com.evernote.spark",
+  "Size": "201 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
+  "Torrent_address": "com.evernote.spark_7.2.6.8111spark4_all.deb.torrent",
+  "Update": "2024-03-24 16:57:04",
+  "Version": "7.2.6.8111spark4",
+  "Website": "https://www.yinxiang.com/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_3.png\"]"
 }
 
 ,
@@ -791,6 +788,24 @@
 
 ,
 {
+  "Author": "waittingsummer",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "net.haoxg.ediary.spark_4.2.6_all.deb",
+  "More": "eDiary的作用不仅仅在于写日记，您也可以用它来记流水帐、写工作日志， 记录学习心得，或者用它来管理你的日常文档。eDiary以时间为主线，以文 字为载体，记录你的心路历程。\n\n软件特点:\n界面简单清新，支持皮肤切换；\n严格的数据加密机制，充分保护用户隐私；\n强大的编辑功能，编辑器体验和 Word 一致；\n支持日记模板功能，并预置常用模板；\n简单合理的文档管理功能，为您梳理日常信息；\n每个日记本对应一个单独的数据文件，干净简单；\n支持 Markdown、双链、代码块；\n支持多端数据云同步。",
+  "Name": "eDiary",
+  "Pkgname": "net.haoxg.ediary.spark",
+  "Size": "71 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
+  "Torrent_address": "net.haoxg.ediary.spark_4.2.6_all.deb.torrent",
+  "Update": "2024-05-27 17:32:04",
+  "Version": "4.2.6",
+  "Website": "http://www.haoxg.net/index.html",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_4.png\"]"
+}
+
+,
+{
   "Author": "shenmo<shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.classin_5.0.5.2_all.deb",
@@ -823,24 +838,6 @@
   "Website": "https://wenku.baidu.com/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.baidu.wenku.spark/screen_4.png\"]"
-}
-
-,
-{
-  "Author": "waittingsummer",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "net.haoxg.ediary.spark_4.2.6_all.deb",
-  "More": "eDiary的作用不仅仅在于写日记，您也可以用它来记流水帐、写工作日志， 记录学习心得，或者用它来管理你的日常文档。eDiary以时间为主线，以文 字为载体，记录你的心路历程。\n\n软件特点:\n界面简单清新，支持皮肤切换；\n严格的数据加密机制，充分保护用户隐私；\n强大的编辑功能，编辑器体验和 Word 一致；\n支持日记模板功能，并预置常用模板；\n简单合理的文档管理功能，为您梳理日常信息；\n每个日记本对应一个单独的数据文件，干净简单；\n支持 Markdown、双链、代码块；\n支持多端数据云同步。",
-  "Name": "eDiary",
-  "Pkgname": "net.haoxg.ediary.spark",
-  "Size": "71 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
-  "Torrent_address": "net.haoxg.ediary.spark_4.2.6_all.deb.torrent",
-  "Update": "2024-05-27 17:32:04",
-  "Version": "4.2.6",
-  "Website": "http://www.haoxg.net/index.html",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/office/net.haoxg.ediary.spark/screen_4.png\"]"
 }
 
 ,
@@ -899,6 +896,24 @@
 
 ,
 {
+  "Author": "quantum6 <liukp@ts-it.cn>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "cn.ts-it.suite_5.1.0.487_arm64.deb",
+  "More": "（推荐用 WPS Office）\n泰山办公2022是一款由泰山信息科技自主开发、拥有自主知识产权的办公软件。整个软件产品包括五个应用，分别为文字、表格、放映、PDF、OFD。产品针对市场对办公软件新的需求，使用了Java作为开发语言，采用了全新的数据结构，彻底解决了无障碍跨平台的技术难题，能够在Windows、Linux等不同的平台上运行，尤其对国产主流的Linux系统的适配尤为出色。\n泰山Suite 不仅提供了一些常用功能，如形状、剪贴画、图表等，还扩展了同类Ofice的功能应用，开发了很多实用的功能。其中表格应用在金融方面的使用尤其突出，包括财务函数，强大的图表功能，甚至是专业的数据处理功能，包括模拟运算表，分类汇总，数据分析等。泰山办公2022功能完备，适用性强，不仅可以满足一般用户的办公需求，还提供了丰富的二次开发接口和插件机制，完全可以满足不同行业的专业级用户需求。",
+  "Name": "泰山办公2022专业版",
+  "Pkgname": "cn.ts-it.suite",
+  "Size": "407 Mb",
+  "Tags": "deepin;uos;debian;native",
+  "Torrent_address": "cn.ts-it.suite_5.1.0.487_arm64.deb.torrent",
+  "Update": "2023-04-29 07:55:31",
+  "Version": "5.1.0.487",
+  "Website": "www.ts-it.cn",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/screen_1.png\"]"
+}
+
+,
+{
   "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb",
@@ -931,24 +946,6 @@
   "Website": "http://pinyin.sogou.com/linux",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouhw/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouhw/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouhw/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouhw/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.sogou.sogoupinyin-deepin-sogouhw/screen_4.png\"]"
-}
-
-,
-{
-  "Author": "quantum6 <liukp@ts-it.cn>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "cn.ts-it.suite_5.1.0.487_arm64.deb",
-  "More": "（推荐用 WPS Office）\n泰山办公2022是一款由泰山信息科技自主开发、拥有自主知识产权的办公软件。整个软件产品包括五个应用，分别为文字、表格、放映、PDF、OFD。产品针对市场对办公软件新的需求，使用了Java作为开发语言，采用了全新的数据结构，彻底解决了无障碍跨平台的技术难题，能够在Windows、Linux等不同的平台上运行，尤其对国产主流的Linux系统的适配尤为出色。\n泰山Suite 不仅提供了一些常用功能，如形状、剪贴画、图表等，还扩展了同类Ofice的功能应用，开发了很多实用的功能。其中表格应用在金融方面的使用尤其突出，包括财务函数，强大的图表功能，甚至是专业的数据处理功能，包括模拟运算表，分类汇总，数据分析等。泰山办公2022功能完备，适用性强，不仅可以满足一般用户的办公需求，还提供了丰富的二次开发接口和插件机制，完全可以满足不同行业的专业级用户需求。",
-  "Name": "泰山办公2022专业版",
-  "Pkgname": "cn.ts-it.suite",
-  "Size": "407 Mb",
-  "Tags": "deepin;uos;debian;native",
-  "Torrent_address": "cn.ts-it.suite_5.1.0.487_arm64.deb.torrent",
-  "Update": "2023-04-29 07:55:31",
-  "Version": "5.1.0.487",
-  "Website": "www.ts-it.cn",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/cn.ts-it.suite/screen_1.png\"]"
 }
 
 ,

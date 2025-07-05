@@ -132,8 +132,8 @@
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2025-07-03 01:36:32",
-    "Size": "75928",
+    "Update": "2025-07-05 01:35:29",
+    "Size": "75924",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/87ad15a3d25b442aa5e78358ca31a8e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/30/4c7826cf206d4c8bbab36e8e8fc79568.png\"]",
@@ -1190,24 +1190,6 @@
 
 ,
 {
-    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "browser360ent-cn-stable_10.5.2002.500-1_amd64.deb",
-    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
-    "Name": "360企业安全浏览器",
-    "Pkgname": "browser360ent-cn-stable",
-    "Size": "97 Mb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "browser360ent-cn-stable_10.5.2002.500-1_amd64.deb.torrent",
-    "Update": "2025-06-15 06:59:34",
-    "Version": "10.5.2002.500-1",
-    "Website": "https://browser.360.net",
-    "icons": "https://spk-json.spark-app.store/store/network/browser360ent-cn-stable/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/network/browser360ent-cn-stable/screen_1.png\",\"https://spk-json.spark-app.store/store/network/browser360ent-cn-stable/screen_2.png\"]"
-}
-
-,
-{
     "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "quark-cloud-drive_2.2.3_all.deb",
@@ -1222,6 +1204,24 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "360安全浏览器团队 <pc_browser_kefu@360.cn>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "browser360ent-cn-stable_10.5.2002.500-1_amd64.deb",
+    "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
+    "Name": "360企业安全浏览器",
+    "Pkgname": "browser360ent-cn-stable",
+    "Size": "97 Mb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "browser360ent-cn-stable_10.5.2002.500-1_amd64.deb.torrent",
+    "Update": "2025-06-15 06:59:34",
+    "Version": "10.5.2002.500-1",
+    "Website": "https://browser.360.net",
+    "icons": "https://spk-json.spark-app.store/store/network/browser360ent-cn-stable/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/network/browser360ent-cn-stable/screen_1.png\",\"https://spk-json.spark-app.store/store/network/browser360ent-cn-stable/screen_2.png\"]"
 }
 
 ,
@@ -1333,23 +1333,6 @@
 
 ,
 {
-  "Name": "SnowFlake 终端",
-  "Version": "1.0.4-fix1",
-  "Filename": "snowflake_1.0.4-fix1_amd64.deb",
-  "Pkgname": "snowflake",
-  "Author": "subhra74",
-  "Contributor": "dfc643",
-  "Website": "https://github.com/subhra74/snowflake",
-  "Update": "2020-12-17 06:25:57",
-  "Size": "193.45 MB",
-  "More": "一款集成了 SFTP 和 SSH 功能的远程终端管理程序。应该可以媲美 MobaXterm 了。\n我打包的时候修复了 Deepin 上启动不了和字体发虚的问题。\n\n顺带测试我写的 Appimage2Deb 生成的包能不能投稿（滑稽）",
-  "Tags": "a2d;debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095937c0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095c1df0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0960b1d0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0966cc50-402d-11eb-9901-b19676ce26f7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/066e4cd0-402d-11eb-9901-b19676ce26f7.png"
-}
-
-,
-{
   "Name": "115生活(Linux版)",
   "Version": "2.0.10.2",
   "Filename": "115_2.0.10.2_all.deb",
@@ -1364,6 +1347,23 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/26/8cc806ef18fd4046af8e2001c9f6ad04.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/26/b8c54940333e4ba1bc4736772eeed062.png"
+}
+
+,
+{
+  "Name": "SnowFlake 终端",
+  "Version": "1.0.4-fix1",
+  "Filename": "snowflake_1.0.4-fix1_amd64.deb",
+  "Pkgname": "snowflake",
+  "Author": "subhra74",
+  "Contributor": "dfc643",
+  "Website": "https://github.com/subhra74/snowflake",
+  "Update": "2020-12-17 06:25:57",
+  "Size": "193.45 MB",
+  "More": "一款集成了 SFTP 和 SSH 功能的远程终端管理程序。应该可以媲美 MobaXterm 了。\n我打包的时候修复了 Deepin 上启动不了和字体发虚的问题。\n\n顺带测试我写的 Appimage2Deb 生成的包能不能投稿（滑稽）",
+  "Tags": "a2d;debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095937c0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/095c1df0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0960b1d0-402d-11eb-9901-b19676ce26f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/17/0966cc50-402d-11eb-9901-b19676ce26f7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/17/066e4cd0-402d-11eb-9901-b19676ce26f7.png"
 }
 
 ,
@@ -2465,24 +2465,6 @@
 
 ,
 {
-  "Name": "ODE 多功能助手",
-  "Version": "1.1.1",
-  "Filename": "com.ode.deepin_1.1.1_all.deb",
-  "Torrent_address": "com.ode.deepin_1.1.1_all.deb.torrent",
-  "Pkgname": "com.ode.deepin",
-  "Author": "爱蚂蚁爱生活",
-  "Contributor": "爱蚂蚁爱生活",
-  "Website": "https://www.xzji.com/soft/7166.html",
-  "Update": "2024-11-21 21:49:06",
-  "Size": "297.85 MB",
-  "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。\n版本更新到1.1.1。",
-  "Tags": "deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/633d7060be5c473fa82dc569c2224cfc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/5b9e41fa71414141ae6ea9284d068107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/a98be89493e940da9a09db5383d01f4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/247dce41874149d3882433ac6e3e1871.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/21/6cd065ab559e44f3a7935dc368e6b411.png"
-}
-
-,
-{
   "Name": "Veyon",
   "Version": "4.8.3.0-debian.buster",
   "Filename": "veyon_4.8.3.0-debian.buster_amd64.deb",
@@ -2497,6 +2479,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/e01b17acd9bb4519b46e4337012c9d34.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/23/a71b3083fca5472390b6a207d6922dc8.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/23/91e411960932405ca2a6b3d8e6d93ba4.png"
+}
+
+,
+{
+  "Name": "ODE 多功能助手",
+  "Version": "1.1.1",
+  "Filename": "com.ode.deepin_1.1.1_all.deb",
+  "Torrent_address": "com.ode.deepin_1.1.1_all.deb.torrent",
+  "Pkgname": "com.ode.deepin",
+  "Author": "爱蚂蚁爱生活",
+  "Contributor": "爱蚂蚁爱生活",
+  "Website": "https://www.xzji.com/soft/7166.html",
+  "Update": "2024-11-21 21:49:06",
+  "Size": "297.85 MB",
+  "More": "这是一款电脑端下载工具，其实它的主要功能是链接下载，和迅雷、idm是一样类型的下载软件，支持链接下载和网盘链接解析下载。\n版本更新到1.1.1。",
+  "Tags": "deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/633d7060be5c473fa82dc569c2224cfc.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/5b9e41fa71414141ae6ea9284d068107.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/a98be89493e940da9a09db5383d01f4f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/21/247dce41874149d3882433ac6e3e1871.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/21/6cd065ab559e44f3a7935dc368e6b411.png"
 }
 
 ,

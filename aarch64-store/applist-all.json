@@ -288,15 +288,15 @@
     {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "uos-packaging-tools_1.7.5_all.deb",
+      "Filename": "uos-packaging-tools_1.7.6_all.deb",
       "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
       "Name": "维护打包工具箱",
       "Pkgname": "uos-packaging-tools",
       "Size": "78 Kb",
       "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
-      "Update": "2025-06-16 23:07:11",
-      "Version": "1.7.5",
+      "Torrent_address": "uos-packaging-tools_1.7.6_all.deb.torrent",
+      "Update": "2025-07-03 17:02:44",
+      "Version": "1.7.6",
       "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
       "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
@@ -428,22 +428,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/uos-ai/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/uos-ai/screen_2.png\"]"
     },
     {
-      "Author": "shenmo <jifengshenmo@outlook.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "sm-refresh_1.1_all.deb",
-      "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
-      "Name": "右键刷新插件",
-      "Pkgname": "sm-refresh",
-      "Size": "12 Kb",
-      "Tags": "community;deepin;uos;native",
-      "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
-      "Update": "2023-04-27 21:26:37",
-      "Version": "1.1",
-      "Website": "http://blog.shenmo.tech",
-      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/icon.png",
-      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_2.png\"]"
-    },
-    {
       "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "deepin-wine-builder_3.3.1.013-1_arm64.deb",
@@ -458,6 +442,22 @@
       "Website": "https://www.deepin.org",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-builder/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/deepin-wine-builder/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <jifengshenmo@outlook.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "sm-refresh_1.1_all.deb",
+      "More": "深度右键刷新插件,请在星火商店的应用详情页面卸载或输入\nsudo apt purge sm-refresh -y\n更新内容：\n支持了非中文环境下显示为Refresh\n改预依赖为普通依赖以便处理\n\n修复了可能的失效问题",
+      "Name": "右键刷新插件",
+      "Pkgname": "sm-refresh",
+      "Size": "12 Kb",
+      "Tags": "community;deepin;uos;native",
+      "Torrent_address": "sm-refresh_1.1_all.deb.torrent",
+      "Update": "2023-04-27 21:26:37",
+      "Version": "1.1",
+      "Website": "http://blog.shenmo.tech",
+      "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/icon.png",
+      "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/sm-refresh/screen_2.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -603,15 +603,15 @@
     {
       "Author": "zinface <zinface@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "spark-store-submitter_1.5.7.4-20250614_arm64.deb",
+      "Filename": "spark-store-submitter_1.5.7.5-20250703_arm64.deb",
       "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件\n\n",
       "Name": "星火商店投稿器",
       "Pkgname": "spark-store-submitter",
-      "Size": "2859 Kb",
+      "Size": "2858 Kb",
       "Tags": "community;deepin;ubuntu;debian",
-      "Torrent_address": "spark-store-submitter_1.5.7.4-20250614_arm64.deb.torrent",
-      "Update": "2025-06-14 15:33:38",
-      "Version": "1.5.7.4-20250614",
+      "Torrent_address": "spark-store-submitter_1.5.7.5-20250703_arm64.deb.torrent",
+      "Update": "2025-07-03 16:24:00",
+      "Version": "1.5.7.5-20250703",
       "Website": "https://gitee.com/spark-store-project",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store-submitter/screen_5.png\"]"
@@ -1557,22 +1557,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-terminal/screen_1.png\"]"
     },
     {
-      "Author": "shenmo <shenmo@spark-app.store>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "gxde-app-upgrader_1.5.2_all.deb",
-      "More": "使用 gxde-app-upgrader 以进行检查更新",
-      "Name": "GXDE 软件包更新器",
-      "Pkgname": "gxde-app-upgrader",
-      "Size": "20 Kb",
-      "Tags": "community;deepin;uos;ubuntu;native",
-      "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
-      "Update": "2025-03-04 22:33:19",
-      "Version": "1.5.2",
-      "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
-      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/screen_1.png\"]"
-    },
-    {
       "Author": "ieusr<ieusr@qq.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.wubidzt.deepin_0.0.1_all.deb",
@@ -1587,6 +1571,22 @@
       "Website": "ieusr@qq.com",
       "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.wubidzt.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.wubidzt.deepin/screen_1.png\"]"
+    },
+    {
+      "Author": "shenmo <shenmo@spark-app.store>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "gxde-app-upgrader_1.5.2_all.deb",
+      "More": "使用 gxde-app-upgrader 以进行检查更新",
+      "Name": "GXDE 软件包更新器",
+      "Pkgname": "gxde-app-upgrader",
+      "Size": "20 Kb",
+      "Tags": "community;deepin;uos;ubuntu;native",
+      "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
+      "Update": "2025-03-04 22:33:19",
+      "Version": "1.5.2",
+      "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
+      "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/screen_1.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -1789,10 +1789,10 @@
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/0ec1daa5df0f4f9597c0440c39e69116.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f50bab7804504b66a266b027c29c0adc.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/01/01/5db109ad0dd9452b81b87088b512a512.png",
       "Pkgname": "cloudflared",
-      "Version": "2025.6.1",
-      "Filename": "cloudflared_2025.6.1_arm64.deb",
-      "Update": "2025-06-19 01:47:46",
-      "Size": "18.88MB",
+      "Version": "2025.7.0",
+      "Filename": "cloudflared_2025.7.0_arm64.deb",
+      "Update": "2025-07-04 01:41:02",
+      "Size": "18.89MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -3502,6 +3502,19 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.qicase.tupian.deepin/screen_4.png\"]"
     },
     {
+      "Name": "火焰截图flameshot",
+      "Version": "12.1.0-1",
+      "Filename": "flameshot_12.1.0-1_arm64.deb",
+      "Pkgname": "flameshot",
+      "Author": "Boyuan Yang <byang@debian.org>",
+      "Contributor": "wcbing <i@wcbing.top>",
+      "Website": "https://github.com/flameshot-org/flameshot",
+      "Update": "2023-05-26 23:40:29",
+      "Size": "604.00 KB",
+      "More": "好用的截图软件，支持划区截图，贴图等。",
+      "Tags": "community;debian;deepin;ubuntu;uos"
+    },
+    {
       "Author": "yanglin <yanglin@zwcad.com>",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "com.zwsoft.zwcada2023_23.2.3.4_arm64.deb",
@@ -3516,19 +3529,6 @@
       "Website": "https://www.zwcad.com",
       "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/icon.png",
       "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zwcada2023/screen_4.png\"]"
-    },
-    {
-      "Name": "火焰截图flameshot",
-      "Version": "12.1.0-1",
-      "Filename": "flameshot_12.1.0-1_arm64.deb",
-      "Pkgname": "flameshot",
-      "Author": "Boyuan Yang <byang@debian.org>",
-      "Contributor": "wcbing <i@wcbing.top>",
-      "Website": "https://github.com/flameshot-org/flameshot",
-      "Update": "2023-05-26 23:40:29",
-      "Size": "604.00 KB",
-      "More": "好用的截图软件，支持划区截图，贴图等。",
-      "Tags": "community;debian;deepin;ubuntu;uos"
     },
     {
       "Author": "shenmo <shenmos@spark-app.store>",
@@ -5923,14 +5923,12 @@
       "Author": "云南链滴科技有限公司 <845765@qq.com>",
       "Website": "https://b3log.org/siyuan/",
       "More": "思源笔记是一款本地优先的个人知识管理系统，支持完全离线使用，同时也支持端到端加密同步。",
-      "Tags": "debian;ubuntu;deepin;uos;native",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/office/siyuan/screen_1.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_2.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_3.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_4.png\"]",
-      "icons": "https://spk-json.spark-app.store/store/office/siyuan/icon.png",
+      "Tags": "debian;ubuntu;deepin;uos",
       "Pkgname": "siyuan",
-      "Version": "3.1.32",
-      "Filename": "siyuan_3.1.32_arm64.deb",
-      "Update": "2025-06-04 01:43:52",
-      "Size": "178.28MB",
+      "Version": "3.2.0",
+      "Filename": "siyuan_3.2.0_arm64.deb",
+      "Update": "2025-07-04 01:40:17",
+      "Size": "184.67MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -6030,22 +6028,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/screen_1.png\"]"
     },
     {
-      "Author": "sgb76 <sgb76@163.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.evernote.spark_7.2.6.8111spark4_all.deb",
-      "More": "随时随地获取、整理、分享笔记，让灵感时刻与你同行",
-      "Name": "印象笔记（wine）",
-      "Pkgname": "com.evernote.spark",
-      "Size": "201 Mb",
-      "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
-      "Torrent_address": "com.evernote.spark_7.2.6.8111spark4_all.deb.torrent",
-      "Update": "2024-03-24 16:57:04",
-      "Version": "7.2.6.8111spark4",
-      "Website": "https://www.yinxiang.com/",
-      "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/icon.png",
-      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_3.png\"]"
-    },
-    {
       "Author": "emily@mysher.com",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "org.deepin.scanner_5.5.15-1_arm64.deb",
@@ -6060,6 +6042,22 @@
       "Website": "https://www.deepin.org/",
       "icons": "https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/icon.png",
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_2.png\"]"
+    },
+    {
+      "Author": "sgb76 <sgb76@163.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "com.evernote.spark_7.2.6.8111spark4_all.deb",
+      "More": "随时随地获取、整理、分享笔记，让灵感时刻与你同行",
+      "Name": "印象笔记（wine）",
+      "Pkgname": "com.evernote.spark",
+      "Size": "201 Mb",
+      "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
+      "Torrent_address": "com.evernote.spark_7.2.6.8111spark4_all.deb.torrent",
+      "Update": "2024-03-24 16:57:04",
+      "Version": "7.2.6.8111spark4",
+      "Website": "https://www.yinxiang.com/",
+      "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/icon.png",
+      "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/com.evernote.spark/screen_3.png\"]"
     },
     {
       "Author": "gfdgd xi <3025613752@qq.com>",
@@ -9116,19 +9114,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/com.foxmail.deepin/screen_1.png\"]"
     },
     {
-      "Author": "mygzb.com <pc@mygzb.com>",
-      "Contributor": "shenmo <shenmo@spark-app.store>",
-      "Filename": "gzb_8.1.21_arm64.deb",
-      "More": "工作宝",
-      "Name": "工作宝",
-      "Pkgname": "gzb",
-      "Size": "102Mb",
-      "Tags": "community;debian;deepin;ubuntu;uos",
-      "Update": "2023-04-20 18:41:53",
-      "Version": "8.1.21",
-      "Website": "https://www.mygzb.com/download.html"
-    },
-    {
       "Author": "Deepin WINE Team",
       "Contributor": "gfdgd_xi <3025613752@qq.com>",
       "Filename": "cn.10086.ipower.uc.deepin_3.16.0deepin4_arm64.deb",
@@ -9143,6 +9128,19 @@
       "Website": "https://www.125339.com.cn/",
       "icons": "https://spk-json.spark-app.store/aarch64-store/chat/cn.10086.ipower.uc.deepin/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/chat/cn.10086.ipower.uc.deepin/screen_1.png\"]"
+    },
+    {
+      "Author": "mygzb.com <pc@mygzb.com>",
+      "Contributor": "shenmo <shenmo@spark-app.store>",
+      "Filename": "gzb_8.1.21_arm64.deb",
+      "More": "工作宝",
+      "Name": "工作宝",
+      "Pkgname": "gzb",
+      "Size": "102Mb",
+      "Tags": "community;debian;deepin;ubuntu;uos",
+      "Update": "2023-04-20 18:41:53",
+      "Version": "8.1.21",
+      "Website": "https://www.mygzb.com/download.html"
     },
     {
       "Author": "Lark Linux Team <contact@larksuite.com>",

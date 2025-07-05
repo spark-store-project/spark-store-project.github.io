@@ -633,20 +633,22 @@
 
 ,
 {
-    "Name": "星火商店投稿器",
-    "Version": "1.5.7.4-20250614",
-    "Filename": "spark-store-submitter_1.5.7.4-20250614_amd64.deb",
-    "Torrent_address": "spark-store-submitter_1.5.7.4-20250614_amd64.deb.torrent",
-    "Pkgname": "spark-store-submitter",
     "Author": "zinface <zinface@163.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/spark-store-project",
-    "Update": "2025-06-14 12:32:17",
-    "Size": "3.26 MB",
+    "Filename": "spark-store-submitter_1.5.7.5-20250703_amd64.deb",
     "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/592515c415ba4cc592b4459a0fdb9f35.png\",\"https://spk-json.spark-app.store/images/2025/06/14/0eaf5337d9504327a3a62f2971e122d8.png\",\"https://spk-json.spark-app.store/images/2025/06/14/548c94d1a8534c99a343625e3c28f1e3.png\",\"https://spk-json.spark-app.store/images/2025/06/14/43f4c74ef16d45d7a5b5ced701c1f160.png\",\"https://spk-json.spark-app.store/images/2025/06/14/f8f34460dc974e87afe8aadec2617674.png\"]"
+    "Name": "星火商店投稿器",
+    "Pkgname": "spark-store-submitter",
+    "Size": "3418 Kb",
+    "Tags": "community;deepin;ubuntu;debian",
+    "Torrent_address": "spark-store-submitter_1.5.7.5-20250703_amd64.deb.torrent",
+    "Update": "2025-07-03 16:17:30",
+    "Version": "1.5.7.5-20250703",
+    "Website": "https://gitee.com/spark-store-project",
+    "icons": "https://spk-json.spark-app.store/store/tools/spark-store-submitter/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_3.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_4.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_5.png\"]"
 }
+
 ,
 {
   "Author": "shenmo <shenmo@spark-app.store>",
@@ -667,23 +669,6 @@
 
 ,
 {
-    "Name": "桌面快捷方式编辑器",
-    "Version": "1.4.5+1",
-    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
-    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
-    "Author": "linuxdeepin / zty199",
-    "Contributor": "zty199",
-    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
-    "Update": "2021-04-19 03:26:08",
-    "Size": "71.16 KB",
-    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
-    "Tags": "community;deepin;uos;dtk5;debian",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
-}
-
-,
-{
   "Name": "统信UOS助手deepin移植",
   "Version": "1.12.0.0026-1~spark",
   "Filename": "deepin-mobile-assistant_1.12.0.0026-1~spark_amd64.deb",
@@ -697,6 +682,23 @@
   "Tags": "deepin;dtk5;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/9301fd60-7b3f-11ec-a975-71d53bbb6f15.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/01/22/9ac26530-7b3f-11ec-a975-71d53bbb6f15.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/01/22/911f33a0-7b3f-11ec-a975-71d53bbb6f15.png"
+}
+
+,
+{
+    "Name": "桌面快捷方式编辑器",
+    "Version": "1.4.5+1",
+    "Filename": "com.gitee.deepin-opensource.desktop-entry-editor_1.4.5_plus_1_amd64.deb",
+    "Pkgname": "com.gitee.deepin-opensource.desktop-entry-editor",
+    "Author": "linuxdeepin / zty199",
+    "Contributor": "zty199",
+    "Website": "https://gitee.com/deepin-opensource/desktop-entry-editor",
+    "Update": "2021-04-19 03:26:08",
+    "Size": "71.16 KB",
+    "More": "桌面快捷方式编辑器，帮助你快速创建桌面快捷方式，支持修改、另存为等基本文件操作。\n\n【更新日志】\nv1.4.5\n1. 重构部分代码，使用信号槽函数取代直接操作私有成员；\n2. 重新在 UOS 个人版 1030 系统中使用 Qt 5.11.3 进行编译，修复兼容性。",
+    "Tags": "community;deepin;uos;dtk5;debian",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a3938df0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a5aeccd0-a07b-11eb-82a7-f56bde74eca0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/19/a79a7030-a07b-11eb-82a7-f56bde74eca0.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/19/9f9229f0-a07b-11eb-82a7-f56bde74eca0.png"
 }
 
 ,
@@ -858,15 +860,15 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "uos-packaging-tools_1.7.5_all.deb",
+    "Filename": "uos-packaging-tools_1.7.6_all.deb",
     "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
     "Name": "维护打包工具箱",
     "Pkgname": "uos-packaging-tools",
     "Size": "78 Kb",
     "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
-    "Update": "2025-06-16 23:07:11",
-    "Version": "1.7.5",
+    "Torrent_address": "uos-packaging-tools_1.7.6_all.deb.torrent",
+    "Update": "2025-07-03 17:02:44",
+    "Version": "1.7.6",
     "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
     "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
@@ -1216,24 +1218,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store-console_4.8.0-console1_all.deb",
-    "More": "现在并入主线\n支持龙架构\n感谢支持\n修复部分机型客户端白屏，修复连接源失败问题",
-    "Name": "星火应用商店终端版",
-    "Pkgname": "spark-store-console",
-    "Size": "148 Kb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "spark-store-console_4.8.0-console1_all.deb.torrent",
-    "Update": "2025-06-18 18:54:18",
-    "Version": "4.8.0-console1",
-    "Website": "https://www.spark-app.store/",
-    "icons": "https://spk-json.spark-app.store/store/tools/spark-store-console/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_3.png\"]"
-}
-
-,
-{
   "Name": "Deepin系统升级工具（20升23）",
   "Version": "6.0.9-1",
   "Filename": "deepin-system-upgrade_6.0.9-1_amd64.deb",
@@ -1248,6 +1232,24 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/46668d3bda6a46028ad3842bd961346f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/42e6744260854dd49e303072fc5e2f8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/379070dd31584db8bfef997b7534187d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/30/3f63b22011e745b1841e332c80e94181.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/30/33f81e2af39a45d5bbea8d83e0f2af6c.png"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store-console_4.8.0-console1_all.deb",
+    "More": "现在并入主线\n支持龙架构\n感谢支持\n修复部分机型客户端白屏，修复连接源失败问题",
+    "Name": "星火应用商店终端版",
+    "Pkgname": "spark-store-console",
+    "Size": "148 Kb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "spark-store-console_4.8.0-console1_all.deb.torrent",
+    "Update": "2025-06-18 18:54:18",
+    "Version": "4.8.0-console1",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://spk-json.spark-app.store/store/tools/spark-store-console/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-console/screen_3.png\"]"
 }
 
 ,
@@ -1336,24 +1338,6 @@
 
 ,
 {
-  "Name": "Scrcpy安卓手机投屏",
-  "Version": "2.4+szbt4",
-  "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
-  "Torrent_address": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb.torrent",
-  "Pkgname": "scrcpy.genymobile.github",
-  "Author": "SZBT CI <lu1044100652@outlook.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://bbs.deepin.org/user/95253",
-  "Update": "2024-04-05 12:11:05",
-  "Size": "1.92 MB",
-  "More": "Scrcpy安卓手机投屏，只支持数据线连接",
-  "Tags": "community;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
-}
-
-,
-{
   "Name": "UOS AI",
   "Version": "1.2.13-1",
   "Filename": "uos-ai_1.2.13-1_amd64.deb",
@@ -1368,6 +1352,24 @@
   "Tags": "deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/10/6ae026a047b949eaa54ef28bde8258d2.png\",\"https://spk-json.spark-app.store/images/2025/04/10/cd39e74888d5499c9e66971a67f6a60d.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/04/10/c4f0935c3c7c4c67a1557bf2dd212d2b.png"
+}
+
+,
+{
+  "Name": "Scrcpy安卓手机投屏",
+  "Version": "2.4+szbt4",
+  "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
+  "Torrent_address": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb.torrent",
+  "Pkgname": "scrcpy.genymobile.github",
+  "Author": "SZBT CI <lu1044100652@outlook.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://bbs.deepin.org/user/95253",
+  "Update": "2024-04-05 12:11:05",
+  "Size": "1.92 MB",
+  "More": "Scrcpy安卓手机投屏，只支持数据线连接",
+  "Tags": "community;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
 }
 
 ,
@@ -1673,6 +1675,23 @@
 
 ,
 {
+  "Name": "TLP 设置",
+  "Version": "1.3.1-1",
+  "Filename": "python3-tlpui_1.3.1-1_all.deb",
+  "Pkgname": "python3-tlpui",
+  "Author": "Daniel Christophis",
+  "Contributor": "lidanger",
+  "Website": "https://github.com/d4nj1/TLPUI",
+  "Update": "2020-10-24 01:58:02",
+  "Size": "56.46 KB",
+  "More": "GTK UI for tlp (Python 3)",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
+}
+
+,
+{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1687,23 +1706,6 @@
   "Website": "ttps://gitee.com/deepin-community-store/web-packer",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
-}
-
-,
-{
-  "Name": "TLP 设置",
-  "Version": "1.3.1-1",
-  "Filename": "python3-tlpui_1.3.1-1_all.deb",
-  "Pkgname": "python3-tlpui",
-  "Author": "Daniel Christophis",
-  "Contributor": "lidanger",
-  "Website": "https://github.com/d4nj1/TLPUI",
-  "Update": "2020-10-24 01:58:02",
-  "Size": "56.46 KB",
-  "More": "GTK UI for tlp (Python 3)",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
 }
 
 ,
@@ -1954,24 +1956,6 @@
 
 ,
 {
-  "Name": "VirtualBox 7.1（GXDE/Debian12）",
-  "Version": "7.1.8-168469~Debian~bookworm",
-  "Filename": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb",
-  "Torrent_address": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb.torrent",
-  "Pkgname": "virtualbox-7.1",
-  "Author": "Oracle Corporation <info@virtualbox.org>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.virtualbox.org/",
-  "Update": "2025-04-22 23:03:56",
-  "Size": "112.35 MB",
-  "More": "VirtualBox is a powerful PC virtualization solution allowing you to run a\n wide range of PC operating systems on your Linux system. This includes\n Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad\n feature set and excellent performance, making it the premier virtualization\n software solution on the market.",
-  "Tags": "debian;ubuntu;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/22/bdf8fc4bc66a43f6ba6b082164baf87d.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5b1afb0b9d2e4011bbd1314cb8fb63fb.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5f4fecd4fbc7449480bc1d5295e079d2.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/22/45cb3c2d306d4f8d82500c67754bb3da.png"
-}
-
-,
-{
   "Name": "QGIS(书虫版)",
   "Version": "3.32.1-fix1-cursor",
   "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
@@ -1986,6 +1970,24 @@
   "Tags": "community;ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+}
+
+,
+{
+  "Name": "VirtualBox 7.1（GXDE/Debian12）",
+  "Version": "7.1.8-168469~Debian~bookworm",
+  "Filename": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb",
+  "Torrent_address": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb.torrent",
+  "Pkgname": "virtualbox-7.1",
+  "Author": "Oracle Corporation <info@virtualbox.org>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.virtualbox.org/",
+  "Update": "2025-04-22 23:03:56",
+  "Size": "112.35 MB",
+  "More": "VirtualBox is a powerful PC virtualization solution allowing you to run a\n wide range of PC operating systems on your Linux system. This includes\n Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad\n feature set and excellent performance, making it the premier virtualization\n software solution on the market.",
+  "Tags": "debian;ubuntu;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/22/bdf8fc4bc66a43f6ba6b082164baf87d.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5b1afb0b9d2e4011bbd1314cb8fb63fb.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5f4fecd4fbc7449480bc1d5295e079d2.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/22/45cb3c2d306d4f8d82500c67754bb3da.png"
 }
 
 ,
@@ -2124,9 +2126,9 @@
     "icons": "https://spk-json.spark-app.store/store/tools/ollama/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/ollama/screen_1.png\"]",
     "Pkgname": "ollama",
-    "Version": "0.9.4",
-    "Filename": "ollama_0.9.4_amd64.deb",
-    "Update": "2025-07-02 01:38:48",
+    "Version": "0.9.5",
+    "Filename": "ollama_0.9.5_amd64.deb",
+    "Update": "2025-07-04 01:40:36",
     "Size": "9.43MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
@@ -2592,6 +2594,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
+  "More": "HardInfo 硬件信息查看器 从系统源获取",
+  "Name": "HardInfo 硬件信息查看器",
+  "Pkgname": "store.spark-app.appwrapper.hardinfo",
+  "Size": "3 Kb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb.torrent",
+  "Update": "2024-11-05 22:24:26",
+  "Version": "0.5.1+git20180227-2.1+b1",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+}
+
+,
+{
   "Name": "Apk 文件查看器",
   "Version": "1.1-20241010",
   "Filename": "z-tools-base-apk-view_1.1-20241010_amd64.deb",
@@ -2624,24 +2644,6 @@
   "Tags": "community;debian;ubuntu;deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/10/9d8fa01463ba4bd4aca58695e3bd1af0.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/10/fe905c9c1939447c98ea66269226cad8.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
-  "More": "HardInfo 硬件信息查看器 从系统源获取",
-  "Name": "HardInfo 硬件信息查看器",
-  "Pkgname": "store.spark-app.appwrapper.hardinfo",
-  "Size": "3 Kb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb.torrent",
-  "Update": "2024-11-05 22:24:26",
-  "Version": "0.5.1+git20180227-2.1+b1",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
 }
 
 ,
@@ -2790,24 +2792,6 @@
 
 ,
 {
-  "Name": "GeoGebra Classic 5 经典",
-  "Version": "5.0.668.0-3930",
-  "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
-  "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
-  "Pkgname": "geogebra5",
-  "Author": "International GeoGebra Institute <office@geogebra.org>",
-  "Contributor": "老於",
-  "Website": "http://www.geogebra.org/",
-  "Update": "2023-01-20 12:04:41",
-  "Size": "59.66 MB",
-  "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
-}
-
-,
-{
   "Author": "Beijing Rising Inc.",
   "Contributor": "dg1vg4 <risingrav@163.com>",
   "Filename": "com.rising.antivirus_3.0.5.16_amd64.deb",
@@ -2822,6 +2806,24 @@
   "Website": "http://www.rising.com.cn/",
   "icons": "https://spk-json.spark-app.store/store/tools/com.rising.antivirus/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/com.rising.antivirus/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/com.rising.antivirus/screen_2.png\"]"
+}
+
+,
+{
+  "Name": "GeoGebra Classic 5 经典",
+  "Version": "5.0.668.0-3930",
+  "Filename": "geogebra5_5.0.668.0-3930_amd64.deb",
+  "Torrent_address": "geogebra5_5.0.668.0-3930_amd64.deb.torrent",
+  "Pkgname": "geogebra5",
+  "Author": "International GeoGebra Institute <office@geogebra.org>",
+  "Contributor": "老於",
+  "Website": "http://www.geogebra.org/",
+  "Update": "2023-01-20 12:04:41",
+  "Size": "59.66 MB",
+  "More": "绘制数学图形的工具，目前商店已有的6版软件和5版的功能不同，很多场景还需要5版。",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/df48bc9f05f14507ba4b159078ce5148.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/65c5cd60591246f38bb41bb90993efc7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/20/10f205b81e2d4e799a2caced95ca2b1c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/20/d1bf58e0fe5349fa8d51022408f3302a.png"
 }
 
 ,
@@ -2965,24 +2967,6 @@
 
 ,
 {
-  "Name": "中州韵98五笔套件",
-  "Version": "1.0.5",
-  "Filename": "rime98wb_1.0.5_amd64.deb",
-  "Torrent_address": "rime98wb_1.0.5_amd64.deb.torrent",
-  "Pkgname": "rime98wb",
-  "Author": "98五笔小组",
-  "Contributor": "98五笔小组",
-  "Website": "https://wubi98.gitee.io/index.html",
-  "Update": "2024-02-13 21:03:51",
-  "Size": "134.7 MB",
-  "More": "fcitx5-rime 框架下的98五笔全套解决方案",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/52346f20-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5236e020-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5237f190-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5235a7a0-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5238b4e0-ca70-11ee-b382-01f3b3a087f2.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/13/3f5a3b50-ca70-11ee-b382-01f3b3a087f2.png"
-}
-
-,
-{
   "Name": "deepin 计算器",
   "Version": "6.0.1",
   "Filename": "deepin-calculator_6.0.1_amd64.deb",
@@ -2997,6 +2981,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/27/c03acc06a6d74fe59be63144592bcae8.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/27/db44377bb2614f2b973e19201b4dd8f8.png"
+}
+
+,
+{
+  "Name": "中州韵98五笔套件",
+  "Version": "1.0.5",
+  "Filename": "rime98wb_1.0.5_amd64.deb",
+  "Torrent_address": "rime98wb_1.0.5_amd64.deb.torrent",
+  "Pkgname": "rime98wb",
+  "Author": "98五笔小组",
+  "Contributor": "98五笔小组",
+  "Website": "https://wubi98.gitee.io/index.html",
+  "Update": "2024-02-13 21:03:51",
+  "Size": "134.7 MB",
+  "More": "fcitx5-rime 框架下的98五笔全套解决方案",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/52346f20-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5236e020-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5237f190-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5235a7a0-ca70-11ee-b382-01f3b3a087f2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/13/5238b4e0-ca70-11ee-b382-01f3b3a087f2.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/13/3f5a3b50-ca70-11ee-b382-01f3b3a087f2.png"
 }
 
 ,
@@ -3959,24 +3961,6 @@
 
 ,
 {
-  "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
-  "Version": "0.0.1-20240602",
-  "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
-  "Torrent_address": "amd-backlight_0.0.1-20240602_amd64.deb.torrent",
-  "Pkgname": "amd-backlight",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/cpp.amd_backlight",
-  "Update": "2024-06-02 15:53:16",
-  "Size": "6.99 KB",
-  "More": "amd_backlight 是一个简单的命令行工具，它可以提供超过系统屏幕亮度的更低阈值设置。\n\ndeepin 控制中心亮度设计不合理，最小阈值为 15。\n\n此工具可以提供 5 - 255 区间的亮度设置，再小就看不清了！",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/6e80e9507d414518b70a745a732d76c0.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/a8d92f56d08944ce9b158532acad9196.png"
-}
-
-,
-{
   "Name": "nvtop (v23 构建)",
   "Version": "3.0.2",
   "Filename": "nvtop_3.0.2_amd64.deb",
@@ -3991,6 +3975,24 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/55f8b0a6013a4e02b7fd62900c36b2fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/ede86c41672f424bafe7d5cb532dcc16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/be6833d261554d7a93ee8841804c5919.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/ad6a1887fef141d499e4a067b3682760.png"
+}
+
+,
+{
+  "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
+  "Version": "0.0.1-20240602",
+  "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
+  "Torrent_address": "amd-backlight_0.0.1-20240602_amd64.deb.torrent",
+  "Pkgname": "amd-backlight",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/cpp.amd_backlight",
+  "Update": "2024-06-02 15:53:16",
+  "Size": "6.99 KB",
+  "More": "amd_backlight 是一个简单的命令行工具，它可以提供超过系统屏幕亮度的更低阈值设置。\n\ndeepin 控制中心亮度设计不合理，最小阈值为 15。\n\n此工具可以提供 5 - 255 区间的亮度设置，再小就看不清了！",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/02/6e80e9507d414518b70a745a732d76c0.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/02/a8d92f56d08944ce9b158532acad9196.png"
 }
 
 ,
@@ -4353,6 +4355,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.stpre>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "autotrash-bash_1.2.0_all.deb",
+  "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
+  "Name": "autotrash(自动删除回收站文件)",
+  "Pkgname": "autotrash-bash",
+  "Size": "3 Kb",
+  "Tags": "community;deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "autotrash-bash_1.2.0_all.deb.torrent",
+  "Update": "2025-03-05 12:55:40",
+  "Version": "1.2.0",
+  "Website": "https://gitee.com/spark-community-works-collections/transhell",
+  "icons": "https://spk-json.spark-app.store/store/tools/autotrash-bash/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/autotrash-bash/screen_1.png\"]"
+}
+
+,
+{
   "Name": "无线鼠标",
   "Version": "1.1.0",
   "Filename": "mousemove_1.1.0_amd64.deb",
@@ -4402,24 +4422,6 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/13/5d467e3b2be549028f6d460eead4f4bf.png\",\"https://spk-json.spark-app.store/images/2025/01/13/67276208c913463f9e9347256614ec58.png\",\"https://spk-json.spark-app.store/images/2025/01/13/10d8949770444dbca7397f83a4c5e7c6.png\",\"https://spk-json.spark-app.store/images/2025/01/13/e8980e0d9c9c41adb2dcec1d272d0edb.png\",\"https://spk-json.spark-app.store/images/2025/01/13/bdfbcf7bef044b3e8d781d957d4ad9a9.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/13/88b71047b4fd4ee1b55b545cc8bf5ff7.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.stpre>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "autotrash-bash_1.2.0_all.deb",
-  "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
-  "Name": "autotrash(自动删除回收站文件)",
-  "Pkgname": "autotrash-bash",
-  "Size": "3 Kb",
-  "Tags": "community;deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "autotrash-bash_1.2.0_all.deb.torrent",
-  "Update": "2025-03-05 12:55:40",
-  "Version": "1.2.0",
-  "Website": "https://gitee.com/spark-community-works-collections/transhell",
-  "icons": "https://spk-json.spark-app.store/store/tools/autotrash-bash/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/autotrash-bash/screen_1.png\"]"
 }
 
 ,
@@ -4760,6 +4762,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
+  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
+  "Name": "Barrier 键鼠共享软件",
+  "Pkgname": "store.spark-app.appwrapper.barrier",
+  "Size": "3 Kb",
+  "Tags": "community;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
+  "Update": "2025-02-14 21:54:41",
+  "Version": "2.4.0+dfsg-3",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
+}
+
+,
+{
   "Name": "logger Wine应用日志收集工具",
   "Version": "0.0.10-1",
   "Filename": "logger_0.0.10-1_amd64.deb",
@@ -4846,24 +4866,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/59b905ca0e3b4fc68351728c53338d9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/ad47da43093a40de847b6497e4ab8660.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/3cde7addd6624a48a9262ea1949c74d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/e5d9163025df4dceaa3636be1564f513.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/f9f991d2e5754dc5b1757d1bd85d459b.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
-  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
-  "Name": "Barrier 键鼠共享软件",
-  "Pkgname": "store.spark-app.appwrapper.barrier",
-  "Size": "3 Kb",
-  "Tags": "community;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
-  "Update": "2025-02-14 21:54:41",
-  "Version": "2.4.0+dfsg-3",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
 }
 
 ,
@@ -5189,6 +5191,24 @@
 
 ,
 {
+  "Name": "转换工具（convert tool）",
+  "Version": "10.0.0",
+  "Filename": "convertwithmoss_10.0.0_amd64.deb",
+  "Torrent_address": "convertwithmoss_10.0.0_amd64.deb.torrent",
+  "Pkgname": "convertwithmoss",
+  "Author": "Jürgen Moßgraber <Unknown>",
+  "Contributor": "Jürgen Moßgraber <Unknown>",
+  "Website": "https://www.mossgrabers.de/Software/ConvertWithMoss/ConvertWithMoss.html",
+  "Update": "2024-06-15 13:23:42",
+  "Size": "85.66 MB",
+  "More": "将特定源格式的多采样转换为其他目标格式。此外，它还可以从普通WAV文件创建多样本文件。 \n\n\n如果格式支持，转换过程会读取和写入元数据（名称、类别、创建者、描述和关键字）。如果源格式不支持该信息，则对名称应用猜测算法。 \n\n\n此外，可以将样本分组为组和关键范围。每个样本可以具有1个或不具有循环以及用于音高和不同回放参数的参数。",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/4286c51170db4a5e88f544cda70dc078.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/fb2dba8807ae42008298512a11d2616b.png"
+}
+
+,
+{
   "Name": "Caesium Image Compressor",
   "Version": "2.7.0spark2",
   "Filename": "com.github.caesium-image-compressor.spark_2.7.0spark2_all.deb",
@@ -5220,24 +5240,6 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/21/ae816260-a2b4-11eb-8bc4-3d1ce405dce1.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/21/ae8707b0-a2b4-11eb-8bc4-3d1ce405dce1.png"
-}
-
-,
-{
-  "Name": "转换工具（convert tool）",
-  "Version": "10.0.0",
-  "Filename": "convertwithmoss_10.0.0_amd64.deb",
-  "Torrent_address": "convertwithmoss_10.0.0_amd64.deb.torrent",
-  "Pkgname": "convertwithmoss",
-  "Author": "Jürgen Moßgraber <Unknown>",
-  "Contributor": "Jürgen Moßgraber <Unknown>",
-  "Website": "https://www.mossgrabers.de/Software/ConvertWithMoss/ConvertWithMoss.html",
-  "Update": "2024-06-15 13:23:42",
-  "Size": "85.66 MB",
-  "More": "将特定源格式的多采样转换为其他目标格式。此外，它还可以从普通WAV文件创建多样本文件。 \n\n\n如果格式支持，转换过程会读取和写入元数据（名称、类别、创建者、描述和关键字）。如果源格式不支持该信息，则对名称应用猜测算法。 \n\n\n此外，可以将样本分组为组和关键范围。每个样本可以具有1个或不具有循环以及用于音高和不同回放参数的参数。",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/4286c51170db4a5e88f544cda70dc078.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/fb2dba8807ae42008298512a11d2616b.png"
 }
 
 ,
@@ -5607,10 +5609,10 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/0ec1daa5df0f4f9597c0440c39e69116.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f50bab7804504b66a266b027c29c0adc.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/01/01/5db109ad0dd9452b81b87088b512a512.png",
     "Pkgname": "cloudflared",
-    "Version": "2025.6.1",
-    "Filename": "cloudflared_2025.6.1_amd64.deb",
-    "Update": "2025-06-19 01:47:35",
-    "Size": "20.16MB",
+    "Version": "2025.7.0",
+    "Filename": "cloudflared_2025.7.0_amd64.deb",
+    "Update": "2025-07-04 01:40:53",
+    "Size": "20.17MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -6324,10 +6326,10 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/436161c0bd2443caa020445c0f02cff0.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/01/01/b76df8b0e9824a6094b5faefef0fbc36.png",
     "Pkgname": "cloudflared-fips",
-    "Version": "2025.6.1",
-    "Filename": "cloudflared-fips_2025.6.1_amd64.deb",
-    "Update": "2025-06-19 01:47:35",
-    "Size": "20.44MB",
+    "Version": "2025.7.0",
+    "Filename": "cloudflared-fips_2025.7.0_amd64.deb",
+    "Update": "2025-07-04 01:40:38",
+    "Size": "20.45MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,

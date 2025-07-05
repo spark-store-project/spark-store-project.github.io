@@ -594,21 +594,6 @@
 
 ,
 {
-  "Name": "Iease-Music",
-  "Version": "1.3.4",
-  "Filename": "ieaseMusic-1.3.4-linux-amd64.deb",
-  "Pkgname": "iease-music",
-  "Author": "trazyn",
-  "Contributor": "jalawov",
-  "Website": "https://github.com/trazyn/ieaseMusic",
-  "Update": "2020-07-09 09:23",
-  "Size": "55.37MB",
-  "More": "美观的第三方网易云,由Electron, React, MobX, JSS构建",
-  "Tags": "debian"
-}
-
-,
-{
     "Name": "QQ音乐(Wine）",
     "Version": "21.51",
     "Filename": "com.qqmusic.deepin_21.51_amd64.deb",
@@ -624,6 +609,21 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/28/6e52efad104940c2b4b96a2d2497a16c.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/06/28/0b27778178c24d54977a233e06dbfbce.png"
 }
+,
+{
+  "Name": "Iease-Music",
+  "Version": "1.3.4",
+  "Filename": "ieaseMusic-1.3.4-linux-amd64.deb",
+  "Pkgname": "iease-music",
+  "Author": "trazyn",
+  "Contributor": "jalawov",
+  "Website": "https://github.com/trazyn/ieaseMusic",
+  "Update": "2020-07-09 09:23",
+  "Size": "55.37MB",
+  "More": "美观的第三方网易云,由Electron, React, MobX, JSS构建",
+  "Tags": "debian"
+}
+
 ,
 {
   "Name": "FLB Music",
@@ -1294,21 +1294,6 @@
 }
 ,
 {
-  "Name": "XunScore",
-  "Version": "1.2.7.1",
-  "Filename": "xunscore_1.2.7.1_amd64.deb",
-  "Pkgname": "xunscore",
-  "Author": "XunScore",
-  "Contributor": "Anysets",
-  "Website": "https://www.xunscore.cn/",
-  "Update": "2020-08-23 18:34",
-  "Size": "31.06MB",
-  "More": "让你简易自由地创建和分享乐谱。编辑器之所以称为“埙”，是寄望它更多地兼顾华夏民族乐谱，更好地符合国人使用习惯。",
-  "Tags": "debian"
-}
-
-,
-{
   "Author": "spark-store",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "io.mstream_5.11.4_amd64.deb",
@@ -1323,6 +1308,21 @@
   "Website": "https://msream.io/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/music/io.mstream/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/music/io.mstream/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/music/io.mstream/screen_2.png\"]"
+}
+
+,
+{
+  "Name": "XunScore",
+  "Version": "1.2.7.1",
+  "Filename": "xunscore_1.2.7.1_amd64.deb",
+  "Pkgname": "xunscore",
+  "Author": "XunScore",
+  "Contributor": "Anysets",
+  "Website": "https://www.xunscore.cn/",
+  "Update": "2020-08-23 18:34",
+  "Size": "31.06MB",
+  "More": "让你简易自由地创建和分享乐谱。编辑器之所以称为“埙”，是寄望它更多地兼顾华夏民族乐谱，更好地符合国人使用习惯。",
+  "Tags": "debian"
 }
 
 ,

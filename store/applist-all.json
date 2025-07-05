@@ -567,19 +567,20 @@
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
-      "Name": "星火商店投稿器",
-      "Version": "1.5.7.4-20250614",
-      "Filename": "spark-store-submitter_1.5.7.4-20250614_amd64.deb",
-      "Torrent_address": "spark-store-submitter_1.5.7.4-20250614_amd64.deb.torrent",
-      "Pkgname": "spark-store-submitter",
       "Author": "zinface <zinface@163.com>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Website": "https://gitee.com/spark-store-project",
-      "Update": "2025-06-14 12:32:17",
-      "Size": "3.26 MB",
+      "Filename": "spark-store-submitter_1.5.7.5-20250703_amd64.deb",
       "More": "社区商店投稿器 \n1. 优雅的点线效果的背景\n2. 优雅的自由角度的通知与问候\n3. 优雅的可应用信息显示对话框\n4. 优雅的将可应用信息自动填充\n5. 优雅的可多选的下拉列表\n6. 优雅的微型加载控件效果\n7. 优雅的添加默认的空图标\n---\n旨为高效投稿而设计的软件",
-      "Tags": "community;debian;ubuntu;deepin",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/592515c415ba4cc592b4459a0fdb9f35.png\",\"https://spk-json.spark-app.store/images/2025/06/14/0eaf5337d9504327a3a62f2971e122d8.png\",\"https://spk-json.spark-app.store/images/2025/06/14/548c94d1a8534c99a343625e3c28f1e3.png\",\"https://spk-json.spark-app.store/images/2025/06/14/43f4c74ef16d45d7a5b5ced701c1f160.png\",\"https://spk-json.spark-app.store/images/2025/06/14/f8f34460dc974e87afe8aadec2617674.png\"]"
+      "Name": "星火商店投稿器",
+      "Pkgname": "spark-store-submitter",
+      "Size": "3418 Kb",
+      "Tags": "community;deepin;ubuntu;debian",
+      "Torrent_address": "spark-store-submitter_1.5.7.5-20250703_amd64.deb.torrent",
+      "Update": "2025-07-03 16:17:30",
+      "Version": "1.5.7.5-20250703",
+      "Website": "https://gitee.com/spark-store-project",
+      "icons": "https://spk-json.spark-app.store/store/tools/spark-store-submitter/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_3.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_4.png\",\"https://spk-json.spark-app.store/store/tools/spark-store-submitter/screen_5.png\"]"
     },
     {
       "Author": "shenmo <shenmo@spark-app.store>",
@@ -767,15 +768,15 @@
     {
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "uos-packaging-tools_1.7.5_all.deb",
+      "Filename": "uos-packaging-tools_1.7.6_all.deb",
       "More": "uos-packaging-tools 一共包含了五个工具\n可在deepin/UOS上使用\n详情见截图",
       "Name": "维护打包工具箱",
       "Pkgname": "uos-packaging-tools",
       "Size": "78 Kb",
       "Tags": "community;deepin;ubuntu;debian;native",
-      "Torrent_address": "uos-packaging-tools_1.7.5_all.deb.torrent",
-      "Update": "2025-06-16 23:07:11",
-      "Version": "1.7.5",
+      "Torrent_address": "uos-packaging-tools_1.7.6_all.deb.torrent",
+      "Update": "2025-07-03 17:02:44",
+      "Version": "1.7.6",
       "Website": "https://gitee.com/spark-store-project/uos-packaging-tools",
       "icons": "https://spk-json.spark-app.store/store/tools/uos-packaging-tools/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/uos-packaging-tools/screen_2.png\"]"
@@ -1741,22 +1742,6 @@
       "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
     },
     {
-      "Name": "VirtualBox 7.1（GXDE/Debian12）",
-      "Version": "7.1.8-168469~Debian~bookworm",
-      "Filename": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb",
-      "Torrent_address": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb.torrent",
-      "Pkgname": "virtualbox-7.1",
-      "Author": "Oracle Corporation <info@virtualbox.org>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Website": "https://www.virtualbox.org/",
-      "Update": "2025-04-22 23:03:56",
-      "Size": "112.35 MB",
-      "More": "VirtualBox is a powerful PC virtualization solution allowing you to run a\n wide range of PC operating systems on your Linux system. This includes\n Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad\n feature set and excellent performance, making it the premier virtualization\n software solution on the market.",
-      "Tags": "debian;ubuntu;native",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/22/bdf8fc4bc66a43f6ba6b082164baf87d.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5b1afb0b9d2e4011bbd1314cb8fb63fb.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5f4fecd4fbc7449480bc1d5295e079d2.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/04/22/45cb3c2d306d4f8d82500c67754bb3da.png"
-    },
-    {
       "Name": "QGIS(书虫版)",
       "Version": "3.32.1-fix1-cursor",
       "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
@@ -1771,6 +1756,22 @@
       "Tags": "community;ubuntu;deepin;uos;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
+    },
+    {
+      "Name": "VirtualBox 7.1（GXDE/Debian12）",
+      "Version": "7.1.8-168469~Debian~bookworm",
+      "Filename": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb",
+      "Torrent_address": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb.torrent",
+      "Pkgname": "virtualbox-7.1",
+      "Author": "Oracle Corporation <info@virtualbox.org>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Website": "https://www.virtualbox.org/",
+      "Update": "2025-04-22 23:03:56",
+      "Size": "112.35 MB",
+      "More": "VirtualBox is a powerful PC virtualization solution allowing you to run a\n wide range of PC operating systems on your Linux system. This includes\n Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad\n feature set and excellent performance, making it the premier virtualization\n software solution on the market.",
+      "Tags": "debian;ubuntu;native",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/22/bdf8fc4bc66a43f6ba6b082164baf87d.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5b1afb0b9d2e4011bbd1314cb8fb63fb.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5f4fecd4fbc7449480bc1d5295e079d2.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/04/22/45cb3c2d306d4f8d82500c67754bb3da.png"
     },
     {
       "Name": "海天鹰浮球",
@@ -1893,9 +1894,9 @@
       "icons": "https://spk-json.spark-app.store/store/tools/ollama/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/tools/ollama/screen_1.png\"]",
       "Pkgname": "ollama",
-      "Version": "0.9.4",
-      "Filename": "ollama_0.9.4_amd64.deb",
-      "Update": "2025-07-02 01:38:48",
+      "Version": "0.9.5",
+      "Filename": "ollama_0.9.5_amd64.deb",
+      "Update": "2025-07-04 01:40:36",
       "Size": "9.43MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
@@ -3875,6 +3876,22 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/02/18/edb4e68ae4ab4f05a1b6190801489372.png"
     },
     {
+      "Author": "shenmo <shenmo@spark-app.stpre>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Filename": "autotrash-bash_1.2.0_all.deb",
+      "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
+      "Name": "autotrash(自动删除回收站文件)",
+      "Pkgname": "autotrash-bash",
+      "Size": "3 Kb",
+      "Tags": "community;deepin;uos;ubuntu;debian;native",
+      "Torrent_address": "autotrash-bash_1.2.0_all.deb.torrent",
+      "Update": "2025-03-05 12:55:40",
+      "Version": "1.2.0",
+      "Website": "https://gitee.com/spark-community-works-collections/transhell",
+      "icons": "https://spk-json.spark-app.store/store/tools/autotrash-bash/icon.png",
+      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/autotrash-bash/screen_1.png\"]"
+    },
+    {
       "Name": "无线鼠标",
       "Version": "1.1.0",
       "Filename": "mousemove_1.1.0_amd64.deb",
@@ -3920,22 +3937,6 @@
       "Tags": "debian;deepin;ubuntu;uos;native",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/13/5d467e3b2be549028f6d460eead4f4bf.png\",\"https://spk-json.spark-app.store/images/2025/01/13/67276208c913463f9e9347256614ec58.png\",\"https://spk-json.spark-app.store/images/2025/01/13/10d8949770444dbca7397f83a4c5e7c6.png\",\"https://spk-json.spark-app.store/images/2025/01/13/e8980e0d9c9c41adb2dcec1d272d0edb.png\",\"https://spk-json.spark-app.store/images/2025/01/13/bdfbcf7bef044b3e8d781d957d4ad9a9.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/01/13/88b71047b4fd4ee1b55b545cc8bf5ff7.png"
-    },
-    {
-      "Author": "shenmo <shenmo@spark-app.stpre>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "autotrash-bash_1.2.0_all.deb",
-      "More": "一个脚本，可以删除在回收站中长期滞留的文件，实现自动清理回收站",
-      "Name": "autotrash(自动删除回收站文件)",
-      "Pkgname": "autotrash-bash",
-      "Size": "3 Kb",
-      "Tags": "community;deepin;uos;ubuntu;debian;native",
-      "Torrent_address": "autotrash-bash_1.2.0_all.deb.torrent",
-      "Update": "2025-03-05 12:55:40",
-      "Version": "1.2.0",
-      "Website": "https://gitee.com/spark-community-works-collections/transhell",
-      "icons": "https://spk-json.spark-app.store/store/tools/autotrash-bash/icon.png",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/tools/autotrash-bash/screen_1.png\"]"
     },
     {
       "Name": "GtkHash-哈希计算工具",
@@ -4618,6 +4619,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/17/541bdde19e5b4faabcec1cd1d0d82937.png"
     },
     {
+      "Name": "转换工具（convert tool）",
+      "Version": "10.0.0",
+      "Filename": "convertwithmoss_10.0.0_amd64.deb",
+      "Torrent_address": "convertwithmoss_10.0.0_amd64.deb.torrent",
+      "Pkgname": "convertwithmoss",
+      "Author": "Jürgen Moßgraber <Unknown>",
+      "Contributor": "Jürgen Moßgraber <Unknown>",
+      "Website": "https://www.mossgrabers.de/Software/ConvertWithMoss/ConvertWithMoss.html",
+      "Update": "2024-06-15 13:23:42",
+      "Size": "85.66 MB",
+      "More": "将特定源格式的多采样转换为其他目标格式。此外，它还可以从普通WAV文件创建多样本文件。 \n\n\n如果格式支持，转换过程会读取和写入元数据（名称、类别、创建者、描述和关键字）。如果源格式不支持该信息，则对名称应用猜测算法。 \n\n\n此外，可以将样本分组为组和关键范围。每个样本可以具有1个或不具有循环以及用于音高和不同回放参数的参数。",
+      "Tags": "community;debian;deepin;ubuntu;uos;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/4286c51170db4a5e88f544cda70dc078.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/fb2dba8807ae42008298512a11d2616b.png"
+    },
+    {
       "Name": "Caesium Image Compressor",
       "Version": "2.7.0spark2",
       "Filename": "com.github.caesium-image-compressor.spark_2.7.0spark2_all.deb",
@@ -4647,22 +4664,6 @@
       "Tags": "community;debian;deepin;ubuntu;uos;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/21/ae816260-a2b4-11eb-8bc4-3d1ce405dce1.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/21/ae8707b0-a2b4-11eb-8bc4-3d1ce405dce1.png"
-    },
-    {
-      "Name": "转换工具（convert tool）",
-      "Version": "10.0.0",
-      "Filename": "convertwithmoss_10.0.0_amd64.deb",
-      "Torrent_address": "convertwithmoss_10.0.0_amd64.deb.torrent",
-      "Pkgname": "convertwithmoss",
-      "Author": "Jürgen Moßgraber <Unknown>",
-      "Contributor": "Jürgen Moßgraber <Unknown>",
-      "Website": "https://www.mossgrabers.de/Software/ConvertWithMoss/ConvertWithMoss.html",
-      "Update": "2024-06-15 13:23:42",
-      "Size": "85.66 MB",
-      "More": "将特定源格式的多采样转换为其他目标格式。此外，它还可以从普通WAV文件创建多样本文件。 \n\n\n如果格式支持，转换过程会读取和写入元数据（名称、类别、创建者、描述和关键字）。如果源格式不支持该信息，则对名称应用猜测算法。 \n\n\n此外，可以将样本分组为组和关键范围。每个样本可以具有1个或不具有循环以及用于音高和不同回放参数的参数。",
-      "Tags": "community;debian;deepin;ubuntu;uos;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/15/4286c51170db4a5e88f544cda70dc078.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/15/fb2dba8807ae42008298512a11d2616b.png"
     },
     {
       "Name": "Copy 2 Online",
@@ -4990,10 +4991,10 @@
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/0ec1daa5df0f4f9597c0440c39e69116.png\",\"https://spk-json.spark-app.store/images/2025/01/01/f50bab7804504b66a266b027c29c0adc.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/01/01/5db109ad0dd9452b81b87088b512a512.png",
       "Pkgname": "cloudflared",
-      "Version": "2025.6.1",
-      "Filename": "cloudflared_2025.6.1_amd64.deb",
-      "Update": "2025-06-19 01:47:35",
-      "Size": "20.16MB",
+      "Version": "2025.7.0",
+      "Filename": "cloudflared_2025.7.0_amd64.deb",
+      "Update": "2025-07-04 01:40:53",
+      "Size": "20.17MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -5629,10 +5630,10 @@
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/01/436161c0bd2443caa020445c0f02cff0.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/01/01/b76df8b0e9824a6094b5faefef0fbc36.png",
       "Pkgname": "cloudflared-fips",
-      "Version": "2025.6.1",
-      "Filename": "cloudflared-fips_2025.6.1_amd64.deb",
-      "Update": "2025-06-19 01:47:35",
-      "Size": "20.44MB",
+      "Version": "2025.7.0",
+      "Filename": "cloudflared-fips_2025.7.0_amd64.deb",
+      "Update": "2025-07-04 01:40:38",
+      "Size": "20.45MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -6221,22 +6222,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/5c5436018d924edba8cebe543d18129a.png"
     },
     {
-      "Name": "Anki",
-      "Version": "23.12.1",
-      "Filename": "com.anki.spark_23.12.1_amd64.deb",
-      "Torrent_address": "com.anki.spark_23.12.1_amd64.deb.torrent",
-      "Pkgname": "com.anki.spark",
-      "Author": "anki <767729940@qq.com>",
-      "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Website": "https://apps.ankiweb.net/",
-      "Update": "2024-03-16 19:34:28",
-      "Size": "138.39 MB",
-      "More": "Anki是一个程序，它使记住事情变得容易。 因为它比传统的学习方法有效得多，所以您可以大大减少学习时间，也可以大大增加学习量。",
-      "Tags": "community;ubuntu;deepin;uos;debian",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/70211e68107d44dea94e746746fc9ea3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/c8759b1ce16e4c93b854ca01995f09b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/76e62f0947124c0c9f5316476e5c884d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/f2f4bd3110b64b47bcf5f5f8b3f4b3b1.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/67ee951c16cd4a42b5abb58b500c2e17.png"
-    },
-    {
       "Author": "shenmo",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
       "Filename": "com.pdfgear_2.1.8_all.deb",
@@ -6251,6 +6236,22 @@
       "Website": "https://www.pdfgear.com/zh/",
       "icons": "https://spk-json.spark-app.store/store/reading/com.pdfgear/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/reading/com.pdfgear/screen_1.png\"]"
+    },
+    {
+      "Name": "Anki",
+      "Version": "23.12.1",
+      "Filename": "com.anki.spark_23.12.1_amd64.deb",
+      "Torrent_address": "com.anki.spark_23.12.1_amd64.deb.torrent",
+      "Pkgname": "com.anki.spark",
+      "Author": "anki <767729940@qq.com>",
+      "Contributor": "shenmo <jifengshenmo@outlook.com>",
+      "Website": "https://apps.ankiweb.net/",
+      "Update": "2024-03-16 19:34:28",
+      "Size": "138.39 MB",
+      "More": "Anki是一个程序，它使记住事情变得容易。 因为它比传统的学习方法有效得多，所以您可以大大减少学习时间，也可以大大增加学习量。",
+      "Tags": "community;ubuntu;deepin;uos;debian",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/70211e68107d44dea94e746746fc9ea3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/c8759b1ce16e4c93b854ca01995f09b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/76e62f0947124c0c9f5316476e5c884d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/03/16/f2f4bd3110b64b47bcf5f5f8b3f4b3b1.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/16/67ee951c16cd4a42b5abb58b500c2e17.png"
     },
     {
       "Name": "BookxNote Pro",
@@ -8570,19 +8571,6 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/30/1556791475bd43bbb809873107c3725a.png"
     },
     {
-      "Name": "Iease-Music",
-      "Version": "1.3.4",
-      "Filename": "ieaseMusic-1.3.4-linux-amd64.deb",
-      "Pkgname": "iease-music",
-      "Author": "trazyn",
-      "Contributor": "jalawov",
-      "Website": "https://github.com/trazyn/ieaseMusic",
-      "Update": "2020-07-09 09:23",
-      "Size": "55.37MB",
-      "More": "美观的第三方网易云,由Electron, React, MobX, JSS构建",
-      "Tags": "debian"
-    },
-    {
       "Name": "QQ音乐(Wine）",
       "Version": "21.51",
       "Filename": "com.qqmusic.deepin_21.51_amd64.deb",
@@ -8597,6 +8585,19 @@
       "Tags": "debian;ubuntu;deepin;dwine5",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/28/6e52efad104940c2b4b96a2d2497a16c.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/06/28/0b27778178c24d54977a233e06dbfbce.png"
+    },
+    {
+      "Name": "Iease-Music",
+      "Version": "1.3.4",
+      "Filename": "ieaseMusic-1.3.4-linux-amd64.deb",
+      "Pkgname": "iease-music",
+      "Author": "trazyn",
+      "Contributor": "jalawov",
+      "Website": "https://github.com/trazyn/ieaseMusic",
+      "Update": "2020-07-09 09:23",
+      "Size": "55.37MB",
+      "More": "美观的第三方网易云,由Electron, React, MobX, JSS构建",
+      "Tags": "debian"
     },
     {
       "Name": "FLB Music",
@@ -15326,22 +15327,6 @@
       "icons": "https://spk-json.spark-app.store/icons/2025/04/10/4c90d53d850443ffab5d6f31ce31cca7.png"
     },
     {
-      "Name": "植物大战僵尸娘化版",
-      "Version": "1.0.2.56spark0",
-      "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
-      "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
-      "Pkgname": "com.pgvz.spark",
-      "Author": "gfdgd xi <3025613752@qq.com>",
-      "Contributor": "gfdgd_xi <3025613752@qq.com>",
-      "Website": "https://space.bilibili.com/20530305",
-      "Update": "2024-06-30 07:00:15",
-      "Size": "356.24 MB",
-      "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
-      "Tags": "ubuntu;deepin;uos;dwine5;debian",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
-    },
-    {
       "Name": "复刻魂斗罗",
       "Version": "1.0spark1",
       "Filename": "com.commando.spark_1.0spark1_all.deb",
@@ -15356,6 +15341,22 @@
       "Tags": "debian;deepin;uos;dwine5",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/05/ec6bddb8a2bd40f6b4fcc7add194cc6f.png\",\"https://spk-json.spark-app.store/images/2025/04/05/9901e04f92424130ab66d74a6189c1bd.png\",\"https://spk-json.spark-app.store/images/2025/04/05/31632337686548f494f2ee262733a9e8.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/04/05/585e1566ccd24afb80afd6e9a89523cf.png"
+    },
+    {
+      "Name": "植物大战僵尸娘化版",
+      "Version": "1.0.2.56spark0",
+      "Filename": "com.pgvz.spark_1.0.2.56spark0_all.deb",
+      "Torrent_address": "com.pgvz.spark_1.0.2.56spark0_all.deb.torrent",
+      "Pkgname": "com.pgvz.spark",
+      "Author": "gfdgd xi <3025613752@qq.com>",
+      "Contributor": "gfdgd_xi <3025613752@qq.com>",
+      "Website": "https://space.bilibili.com/20530305",
+      "Update": "2024-06-30 07:00:15",
+      "Size": "356.24 MB",
+      "More": "将会带来非常好看的二次元动漫娘化形象，很多植物都变成了二次元妹子，但是也会有很多植物还是原版的样子，只是在这里增加了一部分的特色内容，让我们能够使游戏变得更加丰富。",
+      "Tags": "ubuntu;deepin;uos;dwine5;debian",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/2cc7414794aa44b9bdbd51119c3a4365.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/30/0a10d4acc31947fab6c828ebcb65c83d.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/30/23867e72dd784dba91f402ed93cf2562.png"
     },
     {
       "Name": "死神VS火影绊3.8.1.1竞技版",
@@ -19388,14 +19389,12 @@
       "Author": "云南链滴科技有限公司 <845765@qq.com>",
       "Website": "https://b3log.org/siyuan/",
       "More": "思源笔记是一款本地优先的个人知识管理系统，支持完全离线使用，同时也支持端到端加密同步。",
-      "Tags": "debian;ubuntu;deepin;uos;native",
-      "img_urls": "[\"https://spk-json.spark-app.store/store/office/siyuan/screen_1.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_2.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_3.png\",\"https://spk-json.spark-app.store/store/office/siyuan/screen_4.png\"]",
-      "icons": "https://spk-json.spark-app.store/store/office/siyuan/icon.png",
+      "Tags": "debian;ubuntu;deepin;uos",
       "Pkgname": "siyuan",
-      "Version": "3.1.32",
-      "Filename": "siyuan_3.1.32_amd64.deb",
-      "Update": "2025-06-04 01:42:51",
-      "Size": "182.94MB",
+      "Version": "3.2.0",
+      "Filename": "siyuan_3.2.0_amd64.deb",
+      "Update": "2025-07-04 01:39:17",
+      "Size": "189.67MB",
       "Contributor": "https://gitee.com/spark-building-service/github"
     },
     {
@@ -22705,6 +22704,22 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/11/22/b7a87a40-2c80-11eb-b495-df5b3874f1b7.png"
     },
     {
+      "Name": "小学数学试卷生成器",
+      "Version": "1.0",
+      "Filename": "com.xxsxsjscqx.deepin_1.0_all.deb",
+      "Torrent_address": "com.xxsxsjscqx.deepin_1.0_all.deb.torrent",
+      "Pkgname": "com.xxsxsjscqx.deepin",
+      "Author": "wang",
+      "Contributor": "wang",
+      "Website": "https://www.qqtn.com/down/631421.html",
+      "Update": "2024-09-05 22:42:50",
+      "Size": "13.01 MB",
+      "More": "小学数学试卷生成器是一款为小学老师和家长们准备的数学试卷生成器，能够帮助用户生成难度合理的小学生数学试卷，可以很好的提高学生的数学水平，支持打印.",
+      "Tags": "deepin;uos;dwine5;debian;native",
+      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/05/fde95a95cf264128ae112f5f939b0342.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/05/55d80c6eda7d4cd3b49bc04294b027fd.png\"]",
+      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/05/ca09f798d6504611b3690999db86a710.png"
+    },
+    {
       "Name": "上海市数字证书助手（UOS x86）",
       "Version": "1.0.1",
       "Filename": "xkapp_linux_uos_x64_20_v1.0.1.deb",
@@ -22761,22 +22776,6 @@
       "Tags": "ubuntu;deepin;uos;debian;native",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/20/bc36fab0-5af1-11eb-bdea-55bdbb71dafd.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/20/b54fdbe0-5af1-11eb-bdea-55bdbb71dafd.png"
-    },
-    {
-      "Name": "小学数学试卷生成器",
-      "Version": "1.0",
-      "Filename": "com.xxsxsjscqx.deepin_1.0_all.deb",
-      "Torrent_address": "com.xxsxsjscqx.deepin_1.0_all.deb.torrent",
-      "Pkgname": "com.xxsxsjscqx.deepin",
-      "Author": "wang",
-      "Contributor": "wang",
-      "Website": "https://www.qqtn.com/down/631421.html",
-      "Update": "2024-09-05 22:42:50",
-      "Size": "13.01 MB",
-      "More": "小学数学试卷生成器是一款为小学老师和家长们准备的数学试卷生成器，能够帮助用户生成难度合理的小学生数学试卷，可以很好的提高学生的数学水平，支持打印.",
-      "Tags": "deepin;uos;dwine5;debian;native",
-      "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/05/fde95a95cf264128ae112f5f939b0342.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/05/55d80c6eda7d4cd3b49bc04294b027fd.png\"]",
-      "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/05/ca09f798d6504611b3690999db86a710.png"
     },
     {
       "Name": "Taskade",
@@ -24007,7 +24006,7 @@
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <shenmo@spark-app.store>",
       "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-      "Update": "2025-07-03 01:36:32",
+      "Update": "2025-07-04 01:36:58",
       "Size": "75928",
       "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
       "Tags": "community;ubuntu;deepin;uos;debian",
@@ -27569,6 +27568,19 @@
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/87aaf280-ceb2-11eb-8e42-478bd3bfb991.png"
     },
     {
+      "Name": "MystiQ影音转换器",
+      "Version": "20.03.23-1",
+      "Filename": "mystiq_20.03.23-1_amd64.deb",
+      "Pkgname": "mystiq",
+      "Author": "swl-x",
+      "Contributor": "anima",
+      "Website": "https://github.com/swl-x/MystiQ",
+      "Update": "2020-06-25 18:15",
+      "Size": "583.85KB",
+      "More": "MystiQ是一款基于 Qt5/C++ 的 FFmpeg 媒体格式转换器。",
+      "Tags": "debian"
+    },
+    {
       "Name": "UxPlay (AirPlay 服务器)",
       "Version": "1.54d-1",
       "Filename": "uxplay_1.54d-1_amd64.deb",
@@ -27599,19 +27611,6 @@
       "Tags": "community;debian;deepin;ubuntu;uos",
       "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/13/81ccf63087c54fadb855a017fddcba20.png\"]",
       "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/13/28fed83d448148d68677cb6455ab61be.png"
-    },
-    {
-      "Name": "MystiQ影音转换器",
-      "Version": "20.03.23-1",
-      "Filename": "mystiq_20.03.23-1_amd64.deb",
-      "Pkgname": "mystiq",
-      "Author": "swl-x",
-      "Contributor": "anima",
-      "Website": "https://github.com/swl-x/MystiQ",
-      "Update": "2020-06-25 18:15",
-      "Size": "583.85KB",
-      "More": "MystiQ是一款基于 Qt5/C++ 的 FFmpeg 媒体格式转换器。",
-      "Tags": "debian"
     },
     {
       "Name": "Avidemux",
@@ -27954,22 +27953,6 @@
       "img_urls": "[\"https://spk-json.spark-app.store/store/video/webtorrent-desktop/screen_1.png\",\"https://spk-json.spark-app.store/store/video/webtorrent-desktop/screen_2.png\"]"
     },
     {
-      "Name": "HD Video Converter Factory高清视频转换软件",
-      "Version": "26.5",
-      "Filename": "com.hdvideoconverterfactorypro.deepin_26.5_all.deb",
-      "Torrent_address": "com.hdvideoconverterfactorypro.deepin_26.5_all.deb.torrent",
-      "Pkgname": "com.hdvideoconverterfactorypro.deepin",
-      "Author": "WonderFox Soft, Inc",
-      "Contributor": "wang",
-      "Website": "https://www.videoconverterfactory.com/",
-      "Update": "2025-03-27 23:25:29",
-      "Size": "337.95 MB",
-      "More": "HD Video Converter Factory 是一款来自国外的优秀软件，在视频格式转换方面表现卓越，支持的格式丰富多样。它不仅具备“视频转换”功能，还有“视频下载”“屏幕录像”“GIF 制作”等强大的功能模块，是视频处理的得力助手。它的强大之处在于可以支持 300 多种音频、视频格式的转换，常见的 AVI、MP4、MKV、WMV、MPG、MOV 等格式都不在话下,最高可支持 4K 画质，让转换后的视频保持高质量。软件的工具箱还包含了“照片转视频”“分屏工具”“铃声工具”和“字幕导出器”等实用功能。",
-      "Tags": "debian;ubuntu;deepin;uos;dwine5",
-      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/27/33c3c04dcefb42aa830fe9389a3707d3.png\",\"https://spk-json.spark-app.store/images/2025/03/27/624b060210c24d7895fb80e76d3e711e.png\",\"https://spk-json.spark-app.store/images/2025/03/27/154544e0e94c43e287796d9bf2028b61.png\",\"https://spk-json.spark-app.store/images/2025/03/27/0609cb4cd96442589246379510f3b5e8.png\",\"https://spk-json.spark-app.store/images/2025/03/27/bbb61fc934e14a86adae2f79d365cef8.png\"]",
-      "icons": "https://spk-json.spark-app.store/icons/2025/03/27/f1217d0f5a0f4c4c9c2d7fed342e2fa2.png"
-    },
-    {
       "Name": "Open格式转换",
       "Version": "1.2",
       "Filename": "com.mrarub.open_1.2_amd64.deb",
@@ -27984,6 +27967,22 @@
       "Tags": "community;debian;deepin",
       "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/020fc45fe4be4a88823ddf3a99afbc62.png\"]",
       "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4254f809edec471a810db6514166e36d.png"
+    },
+    {
+      "Name": "HD Video Converter Factory高清视频转换软件",
+      "Version": "26.5",
+      "Filename": "com.hdvideoconverterfactorypro.deepin_26.5_all.deb",
+      "Torrent_address": "com.hdvideoconverterfactorypro.deepin_26.5_all.deb.torrent",
+      "Pkgname": "com.hdvideoconverterfactorypro.deepin",
+      "Author": "WonderFox Soft, Inc",
+      "Contributor": "wang",
+      "Website": "https://www.videoconverterfactory.com/",
+      "Update": "2025-03-27 23:25:29",
+      "Size": "337.95 MB",
+      "More": "HD Video Converter Factory 是一款来自国外的优秀软件，在视频格式转换方面表现卓越，支持的格式丰富多样。它不仅具备“视频转换”功能，还有“视频下载”“屏幕录像”“GIF 制作”等强大的功能模块，是视频处理的得力助手。它的强大之处在于可以支持 300 多种音频、视频格式的转换，常见的 AVI、MP4、MKV、WMV、MPG、MOV 等格式都不在话下,最高可支持 4K 画质，让转换后的视频保持高质量。软件的工具箱还包含了“照片转视频”“分屏工具”“铃声工具”和“字幕导出器”等实用功能。",
+      "Tags": "debian;ubuntu;deepin;uos;dwine5",
+      "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/27/33c3c04dcefb42aa830fe9389a3707d3.png\",\"https://spk-json.spark-app.store/images/2025/03/27/624b060210c24d7895fb80e76d3e711e.png\",\"https://spk-json.spark-app.store/images/2025/03/27/154544e0e94c43e287796d9bf2028b61.png\",\"https://spk-json.spark-app.store/images/2025/03/27/0609cb4cd96442589246379510f3b5e8.png\",\"https://spk-json.spark-app.store/images/2025/03/27/bbb61fc934e14a86adae2f79d365cef8.png\"]",
+      "icons": "https://spk-json.spark-app.store/icons/2025/03/27/f1217d0f5a0f4c4c9c2d7fed342e2fa2.png"
     },
     {
       "Name": "mediaChips",
@@ -30794,15 +30793,15 @@
     {
       "Author": "dingtalk alibaba-inc",
       "Contributor": "shenmo <jifengshenmo@outlook.com>",
-      "Filename": "com.alibabainc.dingtalk_7.6.45.5041701-spark1_amd64.deb",
+      "Filename": "com.alibabainc.dingtalk_7.6.45.5062501-spark1_amd64.deb",
       "More": "多端同步，无缝切换\n钉钉客户端同时支持 Android，iOS，iPadOS，macOS，Windows，Linux 版本确保您的钉钉客户端为最新版本，以获取最新功能",
       "Name": "钉钉(Linux)",
       "Pkgname": "com.alibabainc.dingtalk",
       "Size": "344 Mb",
-      "Tags": "deepin;uos;ubuntu;debian",
-      "Torrent_address": "com.alibabainc.dingtalk_7.6.45.5041701-spark1_amd64.deb.torrent",
-      "Update": "2025-05-06 00:24:41",
-      "Version": "7.6.45.5041701-spark1",
+      "Tags": "deepin;ubuntu;debian",
+      "Torrent_address": "com.alibabainc.dingtalk_7.6.45.5062501-spark1_amd64.deb.torrent",
+      "Update": "2025-07-03 16:12:49",
+      "Version": "7.6.45.5062501-spark1",
       "Website": "https://gov.dingtalk.com",
       "icons": "https://spk-json.spark-app.store/store/chat/com.alibabainc.dingtalk/icon.png",
       "img_urls": "[\"https://spk-json.spark-app.store/store/chat/com.alibabainc.dingtalk/screen_1.png\",\"https://spk-json.spark-app.store/store/chat/com.alibabainc.dingtalk/screen_2.png\",\"https://spk-json.spark-app.store/store/chat/com.alibabainc.dingtalk/screen_3.png\",\"https://spk-json.spark-app.store/store/chat/com.alibabainc.dingtalk/screen_4.png\"]"
@@ -30984,15 +30983,15 @@
     },
     {
       "Name": "雷鸟邮件 Thunderbird",
-      "Version": "139.0.2",
-      "Filename": "thunderbird.spark_139.0.2_amd64.deb",
-      "Torrent_address": "thunderbird.spark_139.0.2_amd64.deb.torrent",
+      "Version": "140.0",
+      "Filename": "thunderbird.spark_140.0_amd64.deb",
+      "Torrent_address": "thunderbird.spark_140.0_amd64.deb.torrent",
       "Pkgname": "thunderbird.spark",
       "Author": "shenmo <shenmo@spark-app.store>",
       "Contributor": "shenmo <shenmo@spark-app.store>",
       "Website": "https://www.thunderbird.net",
-      "Update": "2025-06-12 01:40:07",
-      "Size": "73976",
+      "Update": "2025-07-04 01:38:04",
+      "Size": "74328",
       "More": "Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端\n现在由星火自动维护系统（测试版）维护中...",
       "Tags": "community;ubuntu;deepin;uos;debian"
     },
