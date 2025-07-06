@@ -2916,6 +2916,21 @@ SHA512: 89c42eddfdc56220ff4473b4df78fce480c46e6c5e27aec178e36053671a6cd70e1ffde0
 Homepage: http://www.linuxdeepin.com/
 Description: logger.
 
+Package: cpux
+Architecture: arm64
+Version: 5.3.1
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Depends: libfuse2
+Filename: ./tools/cpux/cpux_5.3.1_arm64.deb
+Size: 21205802
+MD5sum: 40241becb2022d35fb9a4e5982c2e26c
+SHA1: 4a078619e4af0b72f8acd69b8260093fb7c3ec29
+SHA256: 65d96a9050b2dfb55aceb2032c89dc1d7e33c1fed27f673fe4cf1acc2bc6b8e0
+SHA512: 2de79dfb85915a8bc843c21d7e986e754bb1dd8f2fcfecf298e03027d46df55e591e65da090b7c93d1f90315853c263e22f292338550e5e92ba2069437864e0e
+Description: cpux Software Package created by Appimage2Deb
+
 Package: rustdesk
 Architecture: arm64
 Version: 1.4.0
@@ -4468,19 +4483,19 @@ Description: Youdao Dict for Linux
 
 Package: koodo-reader
 Architecture: arm64
-Version: 2.0.4
+Version: 2.0.5
 Priority: optional
 Section: default
 Maintainer: App by Troye <feedback@koodoreader.com>
-Installed-Size: 365455
+Installed-Size: 365461
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./reading/koodo-reader/koodo-reader_2.0.4_arm64.deb
-Size: 80664428
-MD5sum: bffc2c52bc4e3597c6ca099657fd99ee
-SHA1: c8931bb1cde45ee787f6dbd68d195c30e5698ee5
-SHA256: ef6f6fe18622ad24d63ae2a2e5aad8632f0edb7525b972d3004ca9dda041f928
-SHA512: 367b693fe0ce71e1cd4c5f928750c367759952210fb58a282f7af80d15edec0badd21629fe363d681475e61fe0b312b310a82385226bf0ac1d2ecf90df42be9c
+Filename: ./reading/koodo-reader/koodo-reader_2.0.5_arm64.deb
+Size: 80666698
+MD5sum: d144e7d535daa1b6ff9f67b13705aa27
+SHA1: 281837c77dd2364c9894e72f4ebfd473b0688a67
+SHA256: f45b200b86847f20ba0243cd9a7b696326b8b3348118efda7b875c4d994166a6
+SHA512: 254c747b9bda1b800ea465a02539c1ef3d0f886e2ec2616ef31774b84859fe1d00d5ec9c5f2999c6d29f3a4215816958e6216769985a419a0ca795d85c3b8d26
 Homepage: https://./
 Description: 
   Koodo Reader is a cross-platform ebook reader
@@ -6669,6 +6684,24 @@ SHA256: f98ce959b1cdc78a90afce668d5ee51ca9c41f1327c2029376898d7bab1fb527
 SHA512: 1637a77bdadf630ea0137bcb8831bb7a426e36ad66918d01e2b32304cb794d47c40e3bd8cb8a363160d3f4df85124f46260fc0a69a144cd7f9b9398808fd7836
 Description: UOS 推荐字体包（Part1）
 
+Package: com.hp.hplip
+Architecture: arm64
+Version: 3.24.12.1
+Priority: optional
+Section: office tool
+Maintainer: HPLIP
+Installed-Size: 52068
+Provides: hplip
+Depends: libusb-1.0-0,libexpat1,libjpeg62-turbo,libcups2,libcupsimage2,python3-dbus,python3-pyqt5,python3-reportlab,libsnmp30,libsane, deepin-elf-verify (>= 1.1.10-1)
+Replaces: libsane-hpaio,printer-driver-hpcups,printer-driver-postscript-hp,hplip-data,libhpmud0,printer-driver-hpijs,hpijs-ppd,hplip,hplip-gui,hplip-plugin
+Filename: ./others/com.hp.hplip/com.hp.hplip_3.24.12.1_arm64.deb
+Size: 24614838
+MD5sum: 84b52ca7d1d4d9473f80615e32dbfda8
+SHA1: a20d2b9c4841745963c5c03820dacdb2612e8436
+SHA256: 31745a781a1e014469760dcb131a18a0c4b525049ea0c07768eb0fdc93a297ff
+SHA512: 4bd15f882cdca3fb80f82a45df4b81edabbc646646e75ed757299a217749a709f6b4ce25fbe030598a4b36b706f736cf56ef6f295441120eb1b174e7956df1b3
+Description: HP Linux Imaging and Printing
+
 Package: fonts-harmonyos-sans-cn
 Architecture: all
 Version: 1.0.0
@@ -7064,6 +7097,23 @@ Description: include a Simplified Chinese GB2312 truetype font "Alimama DongFang
  阿里妈妈东方大楷为中文简体字库，收纳的中文字符包括但不限于GB2312，共计
  6763个汉字；英文大小写（含全角、半角、合体字等）共105个；常用标点符号共
  175个，总计7043个字符。
+
+Package: com.hp.uld-hp
+Architecture: arm64
+Version: 00.23
+Priority: standard
+Section: non-free
+Maintainer: Laxmeesh Markod <laxmeesh.markod@hp.com>
+Installed-Size: 7181
+Depends: deepin-elf-verify (>= 0.0.16.7-1), com.hp.uld-common, cups, libsane, debconf (>= 0.2.17)
+Filename: ./others/com.hp.uld-hp/com.hp.uld-hp_00.23_arm64.deb
+Size: 495550
+MD5sum: 30c5ba28598df34d4738cb3600f1e0f7
+SHA1: 6942709840cf45cf529be967fed03c880dd026db
+SHA256: 7c9fe78cb60a02871e17536237f77450e46f0b1114fee1efb2e7cdaf9f0e88fd
+SHA512: 8e52adf0554f39c8c227e853a298389795c52ba15c98411268f96a2afa7b655238dcaab52e75dfc49c1a2368e29ae3678c9cc8e241190317af656b774ee91ca5
+Description: Unified Linux Driver(ULD)
+ ULD-hp is driver for hp Printer and Scanner devices
 
 Package: fonts-alimama-shuheiti
 Architecture: all
@@ -7710,6 +7760,27 @@ MD5sum: 41f7d290e917ca27e05bd1bbd7c99a31
 SHA1: f23519f928052c9c05eb31e8e689675856f0c689
 SHA256: 2d536c11786df43085ac6b690a60876271ffec28ada53b85f38d5e476778ab2f
 SHA512: a6092d97d5072d1d2c7380d7dfb49cefea60a6d3d77e3dddd46d3eb2b7d87c77b114cc129b1b78a0e62c009e1168e7e4c610ea4cf1daf85565ede94e18127aef
+Homepage: https://www.glenfly.com
+Description: Glenfly Tech Co., Ltd. Graphics drivers
+
+Package: arise-linux-graphics-driver-dri
+Architecture: arm64
+Version: 25.00.41
+Multi-Arch: same
+Priority: optional
+Section: restricted/misc
+Maintainer: Glenfly Tech Co., Ltd.
+Installed-Size: 62824
+Pre-Depends: libgl1-mesa-glx | libglx-mesa0, dkms (>= 1.95), libgbm1, libglvnd0, libwayland-client0, libwayland-server0, libwayland-egl1
+Depends: libc6(>=2.14),libdrm2(>=2.3.1),libx11-6(>=2:1.4.99.1),libx11-xcb1,libxcb-dri2-0(>=1.8),libxcb-dri3-0,libxcb-glx0(>=1.8),libxcb-present0,libxcb-sync1,libxcb1(>=1.9.2),libxdamage1(>=1:1.1),libxext6,libxfixes3,libxshmfence1,libxcb-randr0,libxcb-render0,libxcb-shape0,libxcb-xfixes0, deepin-elf-verify (>= 1.1.10-1)
+Conflicts: gf-arise-linux-graphics-driver-dri
+Replaces: gf-arise-linux-graphics-driver-dri
+Filename: ./others/arise-linux-graphics-driver-dri/arise-linux-graphics-driver-dri_25.00.41_arm64.deb
+Size: 13112134
+MD5sum: 966c4b327812869fb8622ee42ad4d572
+SHA1: c91a30aeb818b43d052b31f092f0318fc061fb49
+SHA256: 86014c7c5b3a9340e42595f28e97bbb0d1aeadcbcdcce337d5eff98f6ea0de5b
+SHA512: 004f2927f57e73876c8c66891bcf3c30b2a828dbfafc5b9947d880c792ff2012077adc9cc0e890e260224d0e3d8527212a22fe91ca398c37a382e875a5f04948
 Homepage: https://www.glenfly.com
 Description: Glenfly Tech Co., Ltd. Graphics drivers
 
@@ -8777,6 +8848,21 @@ MD5sum: b715e20dc5913cfcf6a48f0d4a528d24
 SHA1: 22f664dc82bc138cbdc189428be60d327a1bdf1d
 SHA256: f93a045a37f846278b6896ecf02e57603399783b8aa738e667c830acf78ed77a
 SHA512: 82d0b2c83841f18d1c5677f665a1e061837454b1bc80ada2d4a97b11efce4d1f4132fd6115bdf35f7a5ce1f7aed58f61f9f8050c990264699c1e19a4d92bde74
+Description: 瑞印万能打印驱动（个人版）
+
+Package: com.brocadesoft.ruiyin
+Architecture: arm64
+Version: 1.3.0.1
+Priority: optional
+Section: utils
+Maintainer: support@brocadesoft.com
+Depends: deepin-elf-verify (>= 1.1.10-1),  deepin-elf-verify (>= 0.0.16.7-1)
+Filename: ./office/com.brocadesoft.ruiyin/com.brocadesoft.ruiyin_1.3.0.1_arm64.deb
+Size: 20208566
+MD5sum: fa9dfbea115543534e017890483aa7eb
+SHA1: d5f0bea99757a363a00ccd5089fb9a3a072502ea
+SHA256: 21a2a3bcdff0797fc6b6694d61851fcef1279ba93219e2934ff1cd3339e759e8
+SHA512: 502fb135f195a8fee37eb5a801fb7904f7e559dee3e5080b5cf2628d12e4ded41c236713bae904fb2d1287c85f5eaac12e950dccd1e4ae9550af45ab300a9e0d
 Description: 瑞印万能打印驱动（个人版）
 
 Package: com.thunisoft.input
@@ -12350,17 +12436,17 @@ Description: 简介部分
 
 Package: lazygit
 Architecture: arm64
-Version: 0.52.0-1
+Version: 0.53.0-1
 Priority: optional
 Section: utils
 Maintainer: wcbing <i@wcbing.top>
 Depends: git
-Filename: ./development/lazygit/lazygit_0.52.0_arm64.deb
-Size: 4940148
-MD5sum: 91ec1ecaa83ccef4e053a16c7f91908e
-SHA1: ef104494ef7f1c39a20b69d82978905b0644816c
-SHA256: 12dabdd1f14d9cb5c5e9f37f113a231a5078c9855406f3842583a0d6188cdee0
-SHA512: dee87b50032b97ad2ffa6f121bab4b20233183ed41453700394c5707d96c919bcf6592b05d5b329dc370c8f9344c7ee0f4a6dbf35e8e33911fe1367e70665c9b
+Filename: ./development/lazygit/lazygit_0.53.0_arm64.deb
+Size: 4963492
+MD5sum: 1206d36152490751b172d85c4b360754
+SHA1: 676b2ff0f110088ffea96012f544ca7823ae70ce
+SHA256: 056296005f2687e4312af0f43315fc7d04bb2f93086aa02ad405d5fbdda3be02
+SHA512: 884bcfe8f107437ddb16cfee0851c3461aec70f81e4617528c25a79f0c29681e1a9c3cbc37d70e38f3c9b4c5745cf61d20df287e1db82090dcb58b5a7c606a7a
 Homepage: https://github.com/jesseduffield/lazygit
 Description: A simple terminal UI for git commands
 
@@ -12860,6 +12946,23 @@ SHA256: 810779e2cb8bd8cf14f91b2404a0f5f50045aab3d6e65cebb26cac03d52244c2
 SHA512: bd34187e92d9cf1debd47473ab1b4b623527ef210c73a7b8120e5af906f36c0605966872b9a12eabaebbcd47051a995788063fa19eff8290b98048fe8fc78595
 Homepage: https//www.youdu.cn/
 Description: 有度即时通
+
+Package: com.foxmail.deepin
+Architecture: arm64
+Version: 7.2.25.375deepin9
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 178221
+Depends: deepin-wine8-stable (>= 8.16deepin40), com.wine-helper.deepin (>= 5.4.1-1), deepin-box64 (>= 0.3.2deepin5-1), exagear-utils (>= 3336.2), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./chat/com.foxmail.deepin/com.foxmail.deepin_7.2.25.375deepin9_arm64.deb
+Size: 152422314
+MD5sum: 48162cdfa81e55efef5d76b3e2d296a2
+SHA1: b8c981aa8c63fd60d6f55ef9362ed66beee782e1
+SHA256: 53bb53d7b0df0de5c9fb8e7d71c4818d07565b64a6fb3327e4488d69f498ba0d
+SHA512: 68ae3534cba420f498f2cd8af8b8a54cd4e69ebe369291e3530d6f2ef6e40e801cf3afc6283e07db2f5f3da693df87010740d89ea0d5532f77a9962b87bac406
+Description: Foxmail Client on Deepin Wine8
 
 Package: com.foxmail.deepin
 Architecture: arm64

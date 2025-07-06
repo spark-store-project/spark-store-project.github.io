@@ -822,20 +822,20 @@
 
 ,
 {
-  "Name": "CPU-X",
-  "Version": "4.5.2-1",
-  "Filename": "cpux_4.5.2-1_amd64.deb",
-  "Torrent_address": "cpux_4.5.2-1_amd64.deb.torrent",
-  "Pkgname": "cpux",
-  "Author": "spark-store",
-  "Contributor": "uniartisan <lizhiyuan@uniartisan.com>",
-  "Website": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
-  "Update": "2023-03-01 13:11:44",
-  "Size": "41.15 MB",
-  "More": "CPU-X是一款免费软件，可收集有关CPU，主板等的信息。\nCPU-X是一个系统分析和监控应用程序（类似于Windows的CPU-Z），但CPU-X是一个为GNU/Linux和FreeBSD设计的免费开源软件。\n该软件是用C编写的，并使用CMake工具构建。\n它可以使用 GTK 在图形模式下使用，也可以使用 NCurses 在基于文本的模式下使用。命令行中存在转储模式。",
-  "Tags": "ubuntu;a2d;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/b83245e0755c44c4ab7d67e0f780ed18.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/56487b8f010d432b8adcd58b52978ed4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/01/2c6b2fddd78d45d28d9b1aa5685e5341.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/01/3324f96e7685440eb1d55138326f6829.png"
+    "Author": "spark-store",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cpux_5.3.1_amd64.deb",
+    "More": "CPU-X是一款免费软件，可收集有关CPU，主板等的信息。\nCPU-X是一个系统分析和监控应用程序（类似于Windows的CPU-Z），但CPU-X是一个为GNU/Linux和FreeBSD设计的免费开源软件。\n该软件是用C编写的，并使用CMake工具构建。\n它可以使用 GTK 在图形模式下使用，也可以使用 NCurses 在基于文本的模式下使用。命令行中存在转储模式。",
+    "Name": "CPU-X",
+    "Pkgname": "cpux",
+    "Size": "23 Mb",
+    "Tags": "ubuntu;native",
+    "Torrent_address": "cpux_5.3.1_amd64.deb.torrent",
+    "Update": "2025-07-06 22:29:24",
+    "Version": "5.3.1",
+    "Website": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
+    "icons": "https://spk-json.spark-app.store/store/tools/cpux/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/cpux/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/cpux/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/cpux/screen_3.png\"]"
 }
 
 ,
@@ -1675,23 +1675,6 @@
 
 ,
 {
-  "Name": "TLP 设置",
-  "Version": "1.3.1-1",
-  "Filename": "python3-tlpui_1.3.1-1_all.deb",
-  "Pkgname": "python3-tlpui",
-  "Author": "Daniel Christophis",
-  "Contributor": "lidanger",
-  "Website": "https://github.com/d4nj1/TLPUI",
-  "Update": "2020-10-24 01:58:02",
-  "Size": "56.46 KB",
-  "More": "GTK UI for tlp (Python 3)",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1706,6 +1689,23 @@
   "Website": "ttps://gitee.com/deepin-community-store/web-packer",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "TLP 设置",
+  "Version": "1.3.1-1",
+  "Filename": "python3-tlpui_1.3.1-1_all.deb",
+  "Pkgname": "python3-tlpui",
+  "Author": "Daniel Christophis",
+  "Contributor": "lidanger",
+  "Website": "https://github.com/d4nj1/TLPUI",
+  "Update": "2020-10-24 01:58:02",
+  "Size": "56.46 KB",
+  "More": "GTK UI for tlp (Python 3)",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
 }
 
 ,
@@ -4068,6 +4068,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
+  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
+  "Name": "GXDE 2025 升级工具",
+  "Pkgname": "gxde-25-upgrader",
+  "Size": "1217 Kb",
+  "Tags": "community;debian;native",
+  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
+  "Update": "2025-05-11 23:20:45",
+  "Version": "1.1.5",
+  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
+  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+}
+
+,
+{
   "Name": "Flix 快传",
   "Version": "1.4.0+48",
   "Filename": "flix_1.4.0_plus48_amd64.deb",
@@ -4172,24 +4190,6 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/16/a19dcac4d26846a590a985030dd5e226.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/16/acb56bd27d5b4e4d829f2ed2e1f9838a.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
-  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
-  "Name": "GXDE 2025 升级工具",
-  "Pkgname": "gxde-25-upgrader",
-  "Size": "1217 Kb",
-  "Tags": "community;debian;native",
-  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
-  "Update": "2025-05-11 23:20:45",
-  "Version": "1.1.5",
-  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
 }
 
 ,
@@ -4976,22 +4976,21 @@
 
 ,
 {
-  "Name": "文本编码转换-月森版",
-  "Version": "5.0",
-  "Filename": "mfra.bianmazh_5.0_amd64.deb",
-  "Torrent_address": "mfra.bianmazh_5.0_amd64.deb.torrent",
-  "Pkgname": "mfra.bianmazh",
-  "Author": "校医软件室",
-  "Contributor": "校医软件室",
-  "Website": "https://t.me/otohime_soft_room/6",
-  "Update": "2025-05-19 20:40:48",
-  "Size": "34.49 MB",
-  "More": "本软件可以转换文件夹下文本文件的编码\n\nv5.0更新：\n1、新增“定”模式，支持软件挂前台。\n2、下拉框万岁！可以选择后缀名和编码啦！\n3、允许原地批量更改后缀名。\n4、“关于”移到独立的窗口中了。\n5、UI大改版，回归“工具”属性。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/19/8d1624f24dc94627ab0f556cef31ee62.png\",\"https://spk-json.spark-app.store/images/2025/05/19/e71827f90edc497d8494fdc4e2be76a9.png\",\"https://spk-json.spark-app.store/images/2025/05/19/b23152ecdfb24bf49b39df26a492c9e8.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/05/19/eda417d68c2d446692107761904f7bd2.png"
+    "Name": "文本编码转换月森版",
+    "Version": "6.1",
+    "Filename": "mfra.bianmazh_6.1_amd64.deb",
+    "Torrent_address": "mfra.bianmazh_6.1_amd64.deb.torrent",
+    "Pkgname": "mfra.bianmazh",
+    "Author": "校医软件室",
+    "Contributor": "校医软件室",
+    "Website": "t.me/otohime_soft_room/6",
+    "Update": "2025-07-03 20:52:06",
+    "Size": "33.75 MB",
+    "More": "转换文件夹下文本文件编码，将乱码文本恢复成正常文本\n\nv6.1更新： \n1、下拉框复位修正\n2、新增“乱码恢复”功能，“锟斤拷烫烫烫”成为过去\n3、新增big5编码\n4、简单换个图标\n5、修正部分UI\n6、仅支持glibc2.38及以上的deb系发行版运行\n7、毕业后的我们，会将一切困难险阻统统送归的！（彩蛋）",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/03/f381f55bab9449d4a026aee633238c48.png\",\"https://spk-json.spark-app.store/images/2025/07/03/b325b73b54ee47c9b0b5edde955d9420.png\",\"https://spk-json.spark-app.store/images/2025/07/03/b211cf43c6764d0a9e7f53be2ed9d7c4.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/03/cb0903a23c7946079ce3b137ad971f2b.png"
 }
-
 ,
 {
   "Name": "ExifCleaner",
@@ -5477,6 +5476,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-autotrash_1.2.0_all.deb",
+  "More": "自动清理回收站的工具",
+  "Name": "GXDE 回收站清理工具",
+  "Pkgname": "gxde-autotrash",
+  "Size": "87 Kb",
+  "Tags": "community;deepin;ubuntu;debian;native",
+  "Torrent_address": "gxde-autotrash_1.2.0_all.deb.torrent",
+  "Update": "2025-02-25 18:54:23",
+  "Version": "1.2.0",
+  "Website": "https://gitee.com/GXDE-OS/gxde-autotrash",
+  "icons": "https://spk-json.spark-app.store/store/tools/gxde-autotrash/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-autotrash/screen_1.png\"]"
+}
+
+,
+{
   "Name": "摸鱼股票球",
   "Version": "0.0-2",
   "Filename": "findfish-stockball_0.0-2_amd64.deb",
@@ -5508,24 +5525,6 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/22/b192bc8f4aec4b618543261b07be679b.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/22/4227f7a52d34461189108883e71af8e9.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-autotrash_1.2.0_all.deb",
-  "More": "自动清理回收站的工具",
-  "Name": "GXDE 回收站清理工具",
-  "Pkgname": "gxde-autotrash",
-  "Size": "87 Kb",
-  "Tags": "community;deepin;ubuntu;debian;native",
-  "Torrent_address": "gxde-autotrash_1.2.0_all.deb.torrent",
-  "Update": "2025-02-25 18:54:23",
-  "Version": "1.2.0",
-  "Website": "https://gitee.com/GXDE-OS/gxde-autotrash",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-autotrash/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-autotrash/screen_1.png\"]"
 }
 
 ,

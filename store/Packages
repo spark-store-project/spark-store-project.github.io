@@ -5877,6 +5877,21 @@ SHA256: d197121dbd19d675821e166fd8d15e64e1d1ed361dddf064b0c951dd8316edf0
 SHA512: 00edd5f29c7eacb4f7366287a514a062d51d1cd150508428217ef8f3027d45ed8d448eff5228de561671a4e28b88d2649d5c1f72e0b659ad12b467976d524201
 Description: cpux Software Package created by Appimage2Deb
 
+Package: cpux
+Architecture: amd64
+Version: 5.3.1
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Depends: libfuse2
+Filename: ./tools/cpux/cpux_5.3.1_amd64.deb
+Size: 23065150
+MD5sum: a8ec2a3b45165a2b7a1c23385b580f42
+SHA1: 3d9f79ace128176907fa5e6148dc31f4dc8dd705
+SHA256: 59f2f7955ffc26403f76b8cb677bf51e758759eba887d6905c0947ab51f7b0c4
+SHA512: 52220f4e2d8e7e8aecb6bd0e966e004ba4242ae92400945d2b42cbcbaa760da235e9b0548da45e44c9135dc1ce9e888834e8464f243795b4c097c272c380d5cc
+Description: cpux Software Package created by Appimage2Deb
+
 Package: rustdesk
 Architecture: amd64
 Version: 1.4.0
@@ -7828,16 +7843,16 @@ Description: Get up and running with Llama 3.2, Mistral, Gemma 2, and other larg
 
 Package: mfra.bianmazh
 Architecture: amd64
-Version: 5.0
+Version: 6.1
 Priority: optional
 Maintainer: otohime_soft_room
-Filename: ./tools/mfra.bianmazh/mfra.bianmazh_5.0_amd64.deb
-Size: 36166064
-MD5sum: 2df683a91a1ff1af1a5882f150aebd96
-SHA1: b0db4e6cdb593509afde676d4cd2731e435aaae7
-SHA256: a3730a94f3ed69e4e67cd4782dcce31fc50d0d4de8da59800e06046c025a76a9
-SHA512: d21bd720e99861b845cfc0b10f017f9d6b0edc8e0e356ed14e907d690f001dac96916c99d32a15560974c672eaf00a07138e6db5da91ff8bdf6d7f65c324ff4c
-Description: 文本编码转换-月森版v5
+Filename: ./tools/mfra.bianmazh/mfra.bianmazh_6.1_amd64.deb
+Size: 35386232
+MD5sum: fb4f28fbdc7bd3a98b38e16438630f29
+SHA1: 6f8726d0b07358e172cdd51f114be71ab1753584
+SHA256: de7ae58256749db877979c05e40e6ae37ae51b2ac9abcecc26592d745118e2f5
+SHA512: 4925e84830012289ce5a7623770f9ff8bbefc21f7bb1c3df34119accaf0cd2eafa45d0a60211ecf34a7d035bddeee330051c22258a90e7d91c975b1cc640b3a7
+Description: 文本编码转换-月森版v6
 
 Package: uncon
 Architecture: amd64
@@ -11238,19 +11253,19 @@ Vendor: 友虹（北京）科技有限公司 <service@scofd.com>
 
 Package: koodo-reader
 Architecture: amd64
-Version: 2.0.4
+Version: 2.0.5
 Priority: optional
 Section: default
 Maintainer: App by Troye <feedback@koodoreader.com>
-Installed-Size: 350389
+Installed-Size: 350395
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./reading/koodo-reader/koodo-reader_2.0.4_amd64.deb
-Size: 85123776
-MD5sum: 567603151dfa26f61aa5a8afb19af2dd
-SHA1: e5b759032057b7c3346515a943b6cf203116ca91
-SHA256: e2674e9a4bf591e53f08e99083177ee3950e935c6ab76218935b090e234ff227
-SHA512: 55b9071f61d60b1ac5563484371f760628555f32f98e194d2f3379b2af411aa20e5031bf93d8cc011a86631361363098e8c720481dd907ddf0c595f7285dd41a
+Filename: ./reading/koodo-reader/koodo-reader_2.0.5_amd64.deb
+Size: 85132866
+MD5sum: 454c1e40af482df848e0c70cfec1938f
+SHA1: 66f51f6983f35c5ed252a7177a310296807e1304
+SHA256: a1144bd8be32f569710e26d5f8f57b75a9e57b0792e580dae0dfa22fcad01071
+SHA512: eea93ce981c728f574e94a3bc141a057b77b3bea90fef3aa5f2b2cade31a1879826af5a63a67d18a64615cfdce122f6ede236648c99da7c13c5099317e6ebff3
 Homepage: https://./
 Description: 
   Koodo Reader is a cross-platform ebook reader
@@ -14144,6 +14159,23 @@ SHA1: 5349595d337ca5720b6f5d17e72d54bce510e02e
 SHA256: e37f023cc1316723ca57174aeb4bf86075eb86f2e6bf14edfd36fc4c1a5eee3e
 SHA512: b08014b45cd97999d6385b1a36c82c290e225f28c82d798eca9b2cef6ccd39881ca9d1ae5f35cc325cc75d1fb8c94ebc475e1c62fe0ee41a0ad4ef5d7068a7f4
 Description:  FL Studio on Wine
+
+Package: com.qnwyp.spark
+Architecture: all
+Version: 2.0.0.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 336781
+Depends: spark-wine8 | spark-wine8-bcm | spark-wine8-dcm | com.spark-wine8.deepin, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: ./music/com.qnwyp.spark/com.qnwyp.spark_2.0.0.1_all.deb
+Size: 336814148
+MD5sum: 9623ca79db7bedc6f13f5ef0f8032b31
+SHA1: 5a1473edfab60bd0e164b574b077b463013a536d
+SHA256: 5e34cb4f507e9d320afdc9884b803a1e8dcd7365fbc6d3d01fea7c975e16a209
+SHA512: 73df427d862c94261efd8aeefbaa03a571f9b47fb5a3bddef98b5d9ddab88ea9c28b1366b559df9399638ce0deb7ed8ce9d4843f7a085ab095b838fd9e95e7a6
+Description: 全能王音频格式转换器是一款高效易用、功能实用的音频处理工具。
 
 Package: com.qianqian.ttplayer.spark
 Architecture: i386
@@ -18570,6 +18602,24 @@ SHA256: a78daf8711cf60e2534311a94e30ce3c2c673273af5a44a82accce8dc1d6731e
 SHA512: b6225ae5a4ec85fc38f5e394c1ce26aaeda46351bb2882b81c5e3c3bea16d4bb23c66b61c6a3c44b7b1a3c043ecb38d2ab952992b56e8c930e66a61fb136d523
 Description: HP Linux Imaging and Printing
 
+Package: com.hp.hplip
+Architecture: amd64
+Version: 3.24.12.1
+Priority: optional
+Section: office tool
+Maintainer: HPLIP
+Installed-Size: 56300
+Provides: com.hp.hplip
+Depends: libusb-1.0-0,libexpat1,libjpeg62-turbo,libcups2,libcupsimage2,python3-dbus,python3-pyqt5,python3-reportlab,libsnmp30,libsane, deepin-elf-verify (>= 1.1.10-1)
+Replaces: libsane-hpaio,printer-driver-hpcups,printer-driver-postscript-hp,hplip-data,libhpmud0,printer-driver-hpijs,hpijs-ppd,hplip,hplip-plugin,hplip-gui
+Filename: ./others/com.hp.hplip/com.hp.hplip_3.24.12.1_amd64.deb
+Size: 27149442
+MD5sum: 79be0a697194b64dcf932c84a20ecd9d
+SHA1: 10c5ffe8a8503f76964543b2457acce1722270dd
+SHA256: d05d0bb99e0aa1b41ac64040a669ad566db800575269118a69e06d8c3a861036
+SHA512: e26ce2650ed63ca7fd2ebf8484eb68ca31f3e77c992c988798b23a781323917bf10bdb12d05778334d9f511a2f7f6ad6ee15cc07cca86326294b010eb7dab325
+Description: HP Linux Imaging and Printing
+
 Package: fonts-harmonyos-sans-cn
 Architecture: all
 Version: 1.0.0
@@ -20309,6 +20359,27 @@ SHA1: a1c7518f290c42636a60d8006b7e1c3e6b518c6a
 SHA256: b46c59689ddb10a1fba645e1862c01c2210bb7c64db54d862c21bf238934364a
 SHA512: 2e1dff6da4bca1c4379134a972abb03de3fdad8d7593017e71c21061c4bb4704b0e14c316593ca0bd71d0072801d2fd2c6318a0c6f1a17c81fb6887d532ac72c
 Description: G语翻译器
+
+Package: arise-linux-graphics-driver-dri
+Architecture: amd64
+Version: 25.00.41
+Multi-Arch: same
+Priority: optional
+Section: restricted/misc
+Maintainer: Glenfly Tech Co., Ltd.
+Installed-Size: 61576
+Pre-Depends: libgl1-mesa-glx | libglx-mesa0, dkms (>= 1.95), libgbm1, libglvnd0, libwayland-client0, libwayland-server0, libwayland-egl1
+Depends: libc6(>=2.14),libdrm2(>=2.3.1),libx11-6(>=2:1.4.99.1),libx11-xcb1,libxcb-dri2-0(>=1.8),libxcb-dri3-0,libxcb-glx0(>=1.8),libxcb-present0,libxcb-sync1,libxcb1(>=1.9.2),libxdamage1(>=1:1.1),libxext6,libxfixes3,libxshmfence1,libxcb-randr0,libxcb-render0,libxcb-shape0,libxcb-xfixes0, deepin-elf-verify (>= 1.1.10-1)
+Conflicts: gf-arise-linux-graphics-driver-dri
+Replaces: gf-arise-linux-graphics-driver-dri
+Filename: ./others/arise-linux-graphics-driver-dri/arise-linux-graphics-driver-dri_25.00.41_amd64.deb
+Size: 14095486
+MD5sum: 14013e6897f9584d3ed2908db90c1f61
+SHA1: 1e8709e07b797f029f1538c5e7fbbaacb58e4ee4
+SHA256: 3e6214d05bc0b86aed8b7eaed4a1983ff98a1039e1a470440d092826ffb877cb
+SHA512: 275d57f2ca66d2dbcb53f372f8cbfdf0ba1c09148b360de498ed3c0024298a617a0d5dbda3ebabb50edea716b1caa975200edfc909bc75672697e002b7337320
+Homepage: https://www.glenfly.com
+Description: Glenfly Tech Co., Ltd. Graphics drivers
 
 Package: arise-linux-graphics-driver-dri
 Architecture: amd64
@@ -27763,6 +27834,23 @@ SHA512: 7aa065b64d6af5cfe81f02377828ca3a8f5561bd54319a5801894a704ef650d36dbbfcd4
 Homepage: https://excshare.com/
 Description: ScreenShare
 
+Package: com.qnwfilerenamer.spark
+Architecture: all
+Version: 2.0.0.1
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 248577
+Depends: spark-wine8 | spark-wine8-bcm | spark-wine8-dcm | com.spark-wine8.deepin, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: ./office/com.qnwfilerenamer.spark/com.qnwfilerenamer.spark_2.0.0.1_all.deb
+Size: 248603556
+MD5sum: 1ffcfff23acbb0ac09d146f404b615c2
+SHA1: a688f3606d140c9126b72ee253aba84d90a9864e
+SHA256: 38683f93457367d240f6c99eed15aa977d77bf2a1bb342ad0e9781af6e5ee0fb
+SHA512: f95d0a5cfb21f4e2aed1745942c2874a75fef59fa9f57ab951896c2a7d7700aa87dac047367c380bce9d8c45586430eb3f7e905e3a19414f2fcce76d2d888594
+Description: 文件批量重命名软件是一款简单实用的批量改名文件名的工具，也是批量重命名工具。
+
 Package: qing-zhu
 Architecture: amd64
 Version: 3.1.7
@@ -31074,6 +31162,23 @@ Homepage: https://www.giuspen.com/cherrytree/
 Description: Hierarchical Note Taking
  A hierarchical note taking application, featuring rich text and syntax highlighting, storing data in a single xml or sqlite file.
 
+Package: com.qnwocr.spark
+Architecture: all
+Version: 2.0.2.0
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 330145
+Depends: spark-wine8 | spark-wine8-bcm | spark-wine8-dcm | com.spark-wine8.deepin, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: ./office/com.qnwocr.spark/com.qnwocr.spark_2.0.2.0_all.deb
+Size: 330179156
+MD5sum: f864cd1f2ab7105fd2abad01edee3703
+SHA1: a49da3e04bb8c428d1d40a971bdf8d47b545ba72
+SHA256: 08ecb5c9e9da58c412786bdd839712d7f2a9758099379a6d7f27727407947472
+SHA512: c34b6ee6b2941ae45751282eb42357703697921f515c8dcc7f3b8eef8974e29edcb2f1ff033cbb13ef674f937ce5cfec43b2b3b28ada8d40ac370593c4dd7134
+Description: .全能王OCR图片文字识别是一款高效易用、识别率高、支持批量操作、安全可靠的图片转文字软件，软件支持多种票证识别。
+
 Package: web-gitmind
 Architecture: amd64
 Version: 1.0spark0
@@ -33666,6 +33771,23 @@ SHA512: 7b9562d009fff51c8dfebc6afd085df2f20b633a9b30ca945b2e6010c60fcdc4586ecca5
 Homepage: https://changxie.uniontech.com
 Description: 畅想无界，自由书写 一款集云盘与文档为一体的应用 致力于为企业提供高效、安全、统一的办公服务。
 
+Package: com.qnwspeechconvert.spark
+Architecture: all
+Version: 2.0.1.2
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: wang
+Installed-Size: 291560
+Depends: spark-wine8 | spark-wine8-bcm | spark-wine8-dcm | com.spark-wine8.deepin, spark-dwine-helper | store.spark-app.spark-dwine-helper | deepin-wine-helper | com.wine-helper.deepin, fonts-wqy-microhei, fonts-wqy-zenhei
+Filename: ./network/com.qnwspeechconvert.spark/com.qnwspeechconvert.spark_2.0.1.2_all.deb
+Size: 291591028
+MD5sum: 5a16987dc33138125f338def20433a01
+SHA1: 22558d7cae5fe8aeca3de17a6a01bac0590926e1
+SHA256: 619759769021bab18827a4a8345d1e6e77cea69cca0d440c4a9053103bf50b8b
+SHA512: 0e9736936d1ffe2c4f7161e9db1e96bacb20e7bc09731a149f436e9fc4f03a468fc1ca51c282c7842b59cb0641a30921f4f228a5419a919b0dbdd14bbbbbe59b
+Description: 全能王语音转文字软件是一款智能文字、语音互转的文字语音转换软件，应用于商场店铺广告、公共场所播报、音频制作、办公文件语音转换、博主短视频配音等场景。
+
 Package: com.flashcenter.deepin
 Architecture: i386
 Version: 3.4.5.35
@@ -35436,11 +35558,11 @@ Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
 Filename: ./network/firefox-spark/firefox-spark_140.0.2_amd64.deb
-Size: 77748668
-MD5sum: 3c1c6226f1d7c0673deeca29990fc3d8
-SHA1: 9b7cba766eea385d3a0db8ac9a3fe8388e5ed7a5
-SHA256: 0272c7b20030332808cadd61fea0c35b6255e6728c130c7a47ad9f40ba364534
-SHA512: 8d16c227b383b424a9470482c4f9fd4bd21d30322d2dc6ee99af9c211a5715773e66b7b3d871a54cc10316defe41f6acb798395af9fbaca3e8dcd610bb597e53
+Size: 77747540
+MD5sum: 17d6dd0b26f7039b2fdab294c4b173f0
+SHA1: dd2239449f6a90ff027d321acbc0ff596821ce13
+SHA256: a000ab4b80d4af512ce66d1b1fd614864fb356f0b27c37d793390e29fa610a14
+SHA512: 8426ce1cc0dee2b3646f7a5cafa7990514c90705c70a1b4fb8b73da30e2b3389513519a06ae1e05a05a551c577595f82a5d407ab49736cca7013479060f4100e
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -38254,17 +38376,17 @@ Description: aya Software Package created by Appimage2Deb
 
 Package: lazygit
 Architecture: amd64
-Version: 0.52.0-1
+Version: 0.53.0-1
 Priority: optional
 Section: utils
 Maintainer: wcbing <i@wcbing.top>
 Depends: git
-Filename: ./development/lazygit/lazygit_0.52.0_amd64.deb
-Size: 5762948
-MD5sum: 14f39a95fae367d73df219c9ff3ac2cd
-SHA1: c525e55f53c83afeadd0e0248dbeb330e0e08443
-SHA256: 4d931fe402abfbe0ccd6a5f1b377083632ea7a1ead080a98a63f8032e50ea0dc
-SHA512: cdde24436b470c0a9ddc829dc78782198edb22bd095c5b8f448cd86aa93121028e26a4fe457c4fb5b122359167fe39e1d540011605fd817b068ab2d58cfa5da8
+Filename: ./development/lazygit/lazygit_0.53.0_amd64.deb
+Size: 5780864
+MD5sum: 522a6078458f2f568856c6a21276da0c
+SHA1: 625cc0b6b73d9ac82280a740e1cfcbae59e97c26
+SHA256: 5497f4819fd4989931ed30db470a85dfe3c8dd5a8361239b64bcf4276aec41ca
+SHA512: b336ab078a3abb1c9e62a0878c8571db25abeaaa7eb8f90f6f5688db9e246954c411900211753f96b6cc7caed6c25b3514c8882cec6e3c28ecd92d4164714cbe
 Homepage: https://github.com/jesseduffield/lazygit
 Description: A simple terminal UI for git commands
 
@@ -38540,18 +38662,18 @@ Description: Unleash your repo
 
 Package: dbeaver-ce
 Architecture: amd64
-Version: 25.1.1
+Version: 25.1.2
 Priority: extra
 Section: devel
 Maintainer: DBeaver Corp <support@dbeaver.com>
-Installed-Size: 167858
+Installed-Size: 167673
 Replaces: dbeaver-ce
-Filename: ./development/dbeaver-ce/dbeaver-ce_25.1.1_amd64.deb
-Size: 132532808
-MD5sum: d94cde204e05c76cb717af892ffbf01e
-SHA1: 080a49d50c551fa2ca99d7e9d9d97064040a238f
-SHA256: e11ac9ddf3dff10c3f4d5bc9c7a95078aaa1a630b75e44a4ed7fc43e5b63cfdb
-SHA512: 9add2d99a7a76840c1f6a954002a2017f3eb0d687a7d2bad7b41414c64995fa6891739dad94608a0f600b4e99ebfaaefd0a34c535f92ab90840baed1566d9517
+Filename: ./development/dbeaver-ce/dbeaver-ce_25.1.2_amd64.deb
+Size: 132407702
+MD5sum: b41035fcb95d83fb0b551ada0a555590
+SHA1: e40bffe8f96eebebfd6fa0ed3002d7ee6e43de0f
+SHA256: 6f8b729b8012e3b48692266af69b1b43f69e0c82d5fa1f44a85ee2dffa87724b
+SHA512: 53b8f6e22a28515f2642064b906062fceed2536a36c2b28eddcfea38393db0e07d613c79a1f4a9f8d2c0e28576af9ecbdf6b0fa03cf379b51c77fdc844c9663f
 Homepage: https://dbeaver.io/
 Description: DBeaver Community
  Universal Database Manager and SQL Client
@@ -39486,17 +39608,17 @@ Description: BellSoft Liberica is a build of OpenJDK verified by the OpenJDK Tec
 
 Package: io.github.msojocs.wechat-devtools-linux
 Architecture: amd64
-Version: 1.06.2503290-3
+Version: 1.06.2504010-1
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 1039100
-Filename: ./development/io.github.msojocs.wechat-devtools-linux/io.github.msojocs.wechat-devtools-linux_1.06.2503290-3_amd64.deb
-Size: 233794688
-MD5sum: eab6d071d9a60496c55cb148c2189ee5
-SHA1: c4780dd7afef632791e6543ef3bd82e7021ef3d7
-SHA256: 380d37c8f1721ac42cd0108d5a539895d26f4915b234b8a48c1216e6322fd954
-SHA512: d6ec75bae5c79d3a411be4b745e836f8360516821f3ed2416e246837e26c3d09e20c7e4c9cf28c3f0c6d0a354f4a8cbdde6f423a67f12eef7559b96dea8e1fb6
+Installed-Size: 1038965
+Filename: ./development/io.github.msojocs.wechat-devtools-linux/io.github.msojocs.wechat-devtools-linux_1.06.2504010-1_amd64.deb
+Size: 233795048
+MD5sum: af8242e879eb237b2bca80f92d7171c3
+SHA1: 86f6aca1e04e75710bc821b4d799a1d899b22ea7
+SHA256: 0d3915d5d3ef79d2697e85f3b245978a12386b4c788b32d048faf636788064d7
+SHA512: e35ab45a301c8c25fc8d09ec2f8031ea48e339ea454171ce70445b376fd9edf7b6d3eb6b1e72837d42ff8d24fdef1f9007ab0ee79dcb65c2c7052fce33ab9b45
 Description: WeChat Devtools For Linux.
   To help developers develop and debug Weixin Mini Programs more simply and efficiently,
   Tencent have launched the new Weixin DevTools based on the original Official Account
@@ -40651,6 +40773,23 @@ SHA256: 29a86001e0c1d500bb0d2f480c2d721b3edd52b208baaea7cfd7c4e709c72544
 SHA512: 428892b194b8de67c4b63ed4d7928d2c4c536e820a274761972777589250f5046e51d0312c237d2a0ec40aaea2e01dd322a22328c62e38625e989c4f677f6a6c
 Description: Foxmail Client on Deepin Wine8
 
+Package: com.foxmail.deepin
+Architecture: amd64
+Version: 7.2.25.375deepin9
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 178221
+Depends: deepin-wine8-stable (>= 8.16deepin30), deepin-wine-helper (>= 5.4.1-1), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
+Filename: ./chat/com.foxmail.deepin/com.foxmail.deepin_7.2.25.375deepin9_amd64.deb
+Size: 152425750
+MD5sum: 4247a105d4b796ea7dda41009f1dbdb1
+SHA1: e6cd9cf5ff04d2166580bd7616b690956f9604d1
+SHA256: 6155e60b5776dc6d81fb56c241bd0cf9841977662c77b1e30a4a36f3d7f26d81
+SHA512: 307d01b86c57dca9c39c5d19c0f07c31f823ff2bb83d431878aaf7acd28f0ee32e6d0e39a91cd759344decb01a182b700ee15b0e980c3ed2fed1eb8304b13bd8
+Description: Foxmail Client on Deepin Wine8
+
 Package: web-jgchat
 Architecture: amd64
 Version: 1.0spark0
@@ -40695,11 +40834,11 @@ Recommends: birdtray
 Conflicts: thunderbird
 Replaces: thunderbird(=140.0)
 Filename: ./chat/thunderbird.spark/thunderbird.spark_140.0_amd64.deb
-Size: 76111784
-MD5sum: 8a3dae31b37494e2c0630300f784ab80
-SHA1: 49144844eda4a80889d6d95025249ad202897da3
-SHA256: 51a2c80fe044943efe0c88ea206125a1a3576c4e47c887fa37ac7bef786fca35
-SHA512: aa968934e679680aab94bc74968333aac0da9783374fdfe6d02c2f6d92aec6ecaaeea5cdc394448c9c4e835261a864ffd85db6910072951b75ce2b57129efe43
+Size: 76107280
+MD5sum: 97c7413d9acdce334e08e90f325c423d
+SHA1: 15b195eb08b42c3e86286dba2c01c6118cded80d
+SHA256: e99249571d0381a60a8f280e1fe3c8be44579dfd99b82e30b5feafc2f6751c64
+SHA512: 6629af4f1a5c493b3003f2de51364e02357f4faa127c2e0a53e28a5300b60755d839df1459f08796d193bcb2edc742b1507b7530bbb98dbd54f5d30f573ca16f
 Homepage: https://www.thunderbird.net
 Description: Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端
 

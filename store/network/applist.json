@@ -132,7 +132,7 @@
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <shenmo@spark-app.store>",
     "Website": "https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release",
-    "Update": "2025-07-06 01:34:50",
+    "Update": "2025-07-07 01:34:36",
     "Size": "75928",
     "More": "Firefox是一个自由和开放源代码的网页浏览器\n一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...",
     "Tags": "community;ubuntu;deepin;uos;debian",
@@ -3084,6 +3084,23 @@
 
 ,
 {
+    "Name": "ToDesk企业版被控端",
+    "Version": "2.0.3.2",
+    "Filename": "todeskhost_2.0.3.2_amd64.deb",
+    "Torrent_address": "todeskhost_2.0.3.2_amd64.deb.torrent",
+    "Pkgname": "todeskhost",
+    "Author": "help@todesk.com",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.todesk.com",
+    "Update": "2025-03-14 22:26:20",
+    "Size": "42.66 MB",
+    "More": "全功能版被控端，可直接访问，适用于远程办公/无人值守场景",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/e6e8077d5d794fc6b0ad36059d229ee3.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/371fdc74f3ea45a3bab9e9c6f10b14af.png"
+}
+,
+{
   "Name": "Firefox浏览器中国版(app内更新版)",
   "Version": "2307",
   "Filename": "firefox-cn_2307_amd64.deb.update",
@@ -3134,23 +3151,6 @@
     "Tags": "debian;ubuntu;deepin;uos;dwine5",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/22/211b143b8eec49c384c44b3a5f197e68.png\",\"https://spk-json.spark-app.store/images/2025/02/22/6a6eadf73519439ca0ba116eeeba6844.png\",\"https://spk-json.spark-app.store/images/2025/02/22/abcfc8141e804460a9cafd0e844f4646.png\",\"https://spk-json.spark-app.store/images/2025/02/22/1fcdb64e597d49ae985a5e2fea80224b.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/02/22/3de58744f51641e08bd4013bb35033d6.png"
-}
-,
-{
-    "Name": "ToDesk企业版被控端",
-    "Version": "2.0.3.2",
-    "Filename": "todeskhost_2.0.3.2_amd64.deb",
-    "Torrent_address": "todeskhost_2.0.3.2_amd64.deb.torrent",
-    "Pkgname": "todeskhost",
-    "Author": "help@todesk.com",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.todesk.com",
-    "Update": "2025-03-14 22:26:20",
-    "Size": "42.66 MB",
-    "More": "全功能版被控端，可直接访问，适用于远程办公/无人值守场景",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/e6e8077d5d794fc6b0ad36059d229ee3.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/371fdc74f3ea45a3bab9e9c6f10b14af.png"
 }
 ,
 {
@@ -3277,4 +3277,21 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/01/07badbb2280344a99ddcc1d16d03580b.png"
 }
 
+,
+{
+    "Name": "全能王文字语音转换器",
+    "Version": "2.0.1.2",
+    "Filename": "com.qnwspeechconvert.spark_2.0.1.2_all.deb",
+    "Torrent_address": "com.qnwspeechconvert.spark_2.0.1.2_all.deb.torrent",
+    "Pkgname": "com.qnwspeechconvert.spark",
+    "Author": "深圳超时代软件有限公司",
+    "Contributor": "wang",
+    "Website": "https://www.hoposoft.com/",
+    "Update": "2025-07-02 23:19:45",
+    "Size": "278.08 MB",
+    "More": "全能王语音转文字软件是一款智能文字、语音互转的文字语音转换软件，应用于商场店铺广告、公共场所播报、音频制作、办公文件语音转换、博主短视频配音等场景。",
+    "Tags": "deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/02/76f9a7e9f35946828acc489130987116.png\",\"https://spk-json.spark-app.store/images/2025/07/02/ca1283fa4756400e974541803c3c5988.png\",\"https://spk-json.spark-app.store/images/2025/07/02/771b0b4c694c44b0a65c2ac84cde8972.png\",\"https://spk-json.spark-app.store/images/2025/07/02/679858abfb864626bb47bcaf81f847e2.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/02/c1e76edee39e4c09a6309fb138fe18e4.png"
+}
 ]

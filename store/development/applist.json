@@ -286,10 +286,10 @@
     "More": "免费的多平台数据库工具，面向开发人员、数据库管理员、分析师和所有需要使用数据库的人。支持所有流行的数据库：MySQL、PostgreSQL、SQLite、Oracle、DB2、SQL Server、Sybase、MS Access、Teradata、Firebird、Apache Hive、Phoenix、Presto等。",
     "Tags": "community;debian;deepin;ubuntu;uos",
     "Pkgname": "dbeaver-ce",
-    "Version": "25.1.1",
-    "Filename": "dbeaver-ce_25.1.1_amd64.deb",
-    "Update": "2025-06-23 01:45:09",
-    "Size": "132.53MB",
+    "Version": "25.1.2",
+    "Filename": "dbeaver-ce_25.1.2_amd64.deb",
+    "Update": "2025-07-07 02:14:08",
+    "Size": "132.41MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -353,10 +353,10 @@
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/26/eaad04a9d7af4a248adc166450239a2d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/26/940086cf1c1948b38f6b1efecd105914.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/26/1f2237a123e74355bf3045bdd077bfed.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/26/e964c95eeca2459297d6df5c501fd471.png",
     "Pkgname": "io.github.msojocs.wechat-devtools-linux",
-    "Version": "1.06.2503290-3",
-    "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2503290-3_amd64.deb",
-    "Update": "2025-05-30 01:43:47",
-    "Size": "233.79MB",
+    "Version": "1.06.2504010-1",
+    "Filename": "io.github.msojocs.wechat-devtools-linux_1.06.2504010-1_amd64.deb",
+    "Update": "2025-07-07 01:36:56",
+    "Size": "233.80MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -590,24 +590,6 @@
 
 ,
 {
-  "Name": "XTerminal",
-  "Version": "2.9.3-84",
-  "Filename": "xterminal_2.9.3-84_amd64.deb",
-  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
-  "Pkgname": "xterminal",
-  "Author": "Xterminal",
-  "Contributor": "sgb76",
-  "Website": "https://xterminal.cn",
-  "Update": "2025-01-04 11:32:44",
-  "Size": "117.89 MB",
-  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
-}
-
-,
-{
   "Author": "wntr <Unknown>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "finalshell_4.5.12_amd64.deb",
@@ -622,6 +604,24 @@
   "Website": "kentrl",
   "icons": "https://spk-json.spark-app.store/store/development/finalshell/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/development/finalshell/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "XTerminal",
+  "Version": "2.9.3-84",
+  "Filename": "xterminal_2.9.3-84_amd64.deb",
+  "Torrent_address": "xterminal_2.9.3-84_amd64.deb.torrent",
+  "Pkgname": "xterminal",
+  "Author": "Xterminal",
+  "Contributor": "sgb76",
+  "Website": "https://xterminal.cn",
+  "Update": "2025-01-04 11:32:44",
+  "Size": "117.89 MB",
+  "More": "一款功能强大的跨平台开发工具，支持 Windows、macOS、Linux 系统，它在 SSH 客户端的基础之上，整合了自动补全、密钥管理、笔记、云端仓库、监控工具，快捷动作等功能。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/04/a1e83f536cea4c7a857d27b1902ed05a.png\",\"https://spk-json.spark-app.store/images/2025/01/04/0ff48b09303642689835856c34424ea0.png\",\"https://spk-json.spark-app.store/images/2025/01/04/74b296c1d8b24c1ba6cfc69c736b7b01.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/04/b3eab21a1b9c4ce9acc61b727de62a6e.png"
 }
 
 ,
@@ -2431,10 +2431,10 @@
     "More": "用于 git 命令的简单终端 UI 程序",
     "Tags": "debian;community;ubuntu;deepin",
     "Pkgname": "lazygit",
-    "Version": "0.52.0",
-    "Filename": "lazygit_0.52.0_amd64.deb",
-    "Update": "2025-06-08 01:44:14",
-    "Size": "5.76MB",
+    "Version": "0.53.0",
+    "Filename": "lazygit_0.53.0_amd64.deb",
+    "Update": "2025-07-07 01:35:50",
+    "Size": "5.78MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
