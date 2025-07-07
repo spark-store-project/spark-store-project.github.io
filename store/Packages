@@ -4512,6 +4512,26 @@ Description: deepin scanner is an deepin remote scanner config helper
 
 Package: amber-ce-trixie
 Architecture: amd64
+Version: 13.8.5
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Source: amber-ce
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 145627
+Depends: bubblewrap, flatpak, zenity, policykit-1 | pkexec | polkit-1 | polkit, systemd, procps
+Filename: ./tools/amber-ce-trixie/amber-ce-trixie_13.8.5_amd64.deb
+Size: 148234998
+MD5sum: 47e983d96146929061c5d2953a6033c8
+SHA1: c9b7aaf107cf11881ded92e0f55bcbb6af715397
+SHA256: 69db6b64b5a903b73f96a818dd18f9b85633e31104b0f0b1ba7761c9f0e8ea44
+SHA512: 6675155b2d40b6ae86b5c6ca196f591a8f886bc5f0fae8c3635e7b3bfff4856349cd51739ddd5a327737d4d36129824cd8110fa8374af102de8a97bcfbb7b878
+Homepage: https://gitee.com/amber-ce/amber-ce-bookworm/
+Description: bwrap wrapper for install and running debs inside a Trixie container
+Conflists: ace-host-integration
+
+Package: amber-ce-trixie
+Architecture: amd64
 Version: 13.8.4
 Multi-Arch: foreign
 Priority: optional
@@ -6232,6 +6252,26 @@ SHA256: 1530bc216571e3dbbcbd85b5b4a0d7246f44d7a9762e520976eb6c15377b850a
 SHA512: 2db3ed04086d997c609980100ad1a70199aaeea4f317b3970a0cd02fb6c8c2b84adc6f8d2c7f7331e4d43f56ebeddff8137f43e457278e0b5af8e34d9cea6461
 Description: Transaction package to amber-ce-bookworm
 
+Package: cn.flamescion.bookworm-compatibility-mode
+Architecture: amd64
+Version: 12.8.5
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Source: amber-ce-bookworm
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 185380
+Depends: bubblewrap, flatpak, zenity, policykit-1 | pkexec | polkit-1 | polkit, systemd, procps
+Conflicts: ace-host-integration
+Filename: ./tools/cn.flamescion.bookworm-compatibility-mode/cn.flamescion.bookworm-compatibility-mode_12.8.5_amd64.deb
+Size: 140622060
+MD5sum: c15f32815db9ec6d123dc078d5f0741d
+SHA1: 14a900703c56f69ce062743e72d477edc66faee4
+SHA256: 20a20b7951589292b31d6f11cd7c7de894648b2ecbf2458d6c240cf5ad21f1ac
+SHA512: b6380b7b7bb4f747e68018329dbf9fc71a24a7836f49ddb2523ce38589479358f82c6f5e448775e38e3a6c1e0c7881979fa7b107fccc2878baefad95053f7580
+Homepage: https://gitee.com/amber-ce/amber-ce-bookworm/
+Description: bwrap wrapper for install and running debs inside a bookworm container
+
 Package: electerm
 Architecture: amd64
 Version: 1.70.6-1
@@ -6710,6 +6750,26 @@ SHA1: 2dd470a8dce0f653b9ded34bb969e10544fab4a7
 SHA256: 8175787d77315fc2182229f3d786d244c25ca98c894cb03e89a31bb37ef4be67
 SHA512: 827b39ea1e0a5cab45ef02cb7ae53f6e8db55d56062eddee1949a2d93f01fd8502a9688bd0ea8b7b6300de5b0f0a7bb83fde9e569cac27ef0fcdae660b59ac22
 Description: 9.22
+
+Package: amber-ce-sid
+Architecture: amd64
+Version: 13.8.5-roling
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Source: amber-ce
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 145627
+Depends: bubblewrap, flatpak, zenity, policykit-1 | pkexec | polkit-1 | polkit, systemd, procps
+Filename: ./tools/amber-ce-sid/amber-ce-sid_13.8.5-roling_amd64.deb
+Size: 148912478
+MD5sum: 7666ee43598c50a29b6a4f366f6bbb69
+SHA1: c65719086e37e5cd02f8512f9b7660e23f399bbc
+SHA256: f170d9cc880b52e6ad4bada7349be864dc7402063ed6898764e2c453110eb0b6
+SHA512: 2819507389587196e839d028ddd4a56f14a1d906fbd4eb2f9df05ca6620a1891bace1062ccef6082d79ebb0a45252c5dd5ae9d54891d70667e2eedbba936116c
+Homepage: https://gitee.com/amber-ce/amber-ce-bookworm/
+Description: bwrap wrapper for install and running debs inside a SID container
+Conflists: ace-host-integration
 
 Package: gtkhash
 Architecture: amd64
@@ -8146,6 +8206,26 @@ SHA256: 97f57ca6f8adceef7d2293be6f08e8aec83607fb416e9a8106f7881c1fedb7f9
 SHA512: cd51e213153f38beabb9d8977f54b574a67d20421fa70e0c726fc9995474cf383e076f76cc0249896bbd6b927c7e4b5ea6f11d2d684cf3ada8c54ad76d98b4be
 Homepage: http://www.360.cn/
 Description: 360终端安全防护系统 V10.0 (ac1e606eb56bbe1387b6efefb76dec947dd10fc7)
+
+Package: amber-ce-deepin23
+Architecture: amd64
+Version: 23.8.5
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Source: amber-ce
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 145627
+Depends: bubblewrap, flatpak, zenity, policykit-1 | pkexec | polkit-1 | polkit, systemd, procps
+Filename: ./tools/amber-ce-deepin23/amber-ce-deepin23_23.8.5_amd64.deb
+Size: 169150684
+MD5sum: d3efe30ca162ca94c2169358e9767130
+SHA1: 2c4444edbca8da29da4d51f8032f86a719e9c50e
+SHA256: dc1ed8846bd981b09634fdd04c4bb4dfe6a6bade0f8ae276eff584d80349e6d6
+SHA512: fed07b2e90a0220a5c9e177ee36c8714125d3a9446840e2f1a56c16ca9dbdeba0eba7bbf8fff7e984e5c413d66ba7428c484e0980c614b998de3d82e8e2f71b3
+Homepage: https://gitee.com/amber-ce/amber-ce-bookworm/
+Description: bwrap wrapper for install and running debs inside a deepin23 container
+Conflists: ace-host-integration
 
 Package: amber-ce-deepin23
 Architecture: amd64

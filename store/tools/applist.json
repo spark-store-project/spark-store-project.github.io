@@ -177,19 +177,19 @@
 ,
 {
     "Name": "ACE Bookworm 兼容环境",
-    "Version": "12.8.4",
-    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.8.4_amd64.deb",
-    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.8.4_amd64.deb.torrent",
+    "Version": "12.8.5",
+    "Filename": "cn.flamescion.bookworm-compatibility-mode_12.8.5_amd64.deb",
+    "Torrent_address": "cn.flamescion.bookworm-compatibility-mode_12.8.5_amd64.deb.torrent",
     "Pkgname": "cn.flamescion.bookworm-compatibility-mode",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "Update": "2025-06-14 13:56:50",
-    "Size": "136.67 MB",
+    "Update": "2025-07-07 11:00:59",
+    "Size": "134.11 MB",
     "More": "安装ACE兼容环境后可大大提升应用安装成功率，推荐安装！\nACE Bookworm 是一个极轻量级 Debian 容器，安装后可改善应用兼容性，带来更好的使用体验！\n注：安装后需重启或注销后生效\n\n* 修复安装卡顿问题",
     "Tags": "community;debian;ubuntu;deepin;native",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/a1c5d81fc0a64a298e874253f022e534.png\",\"https://spk-json.spark-app.store/images/2025/06/14/14db3d302ccc43749012c1e3a57c55fe.png\",\"https://spk-json.spark-app.store/images/2025/06/14/2a76673f702d4467ac1c8c856a512b2b.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/ad3174f319dc45f7b1d93426d83e6666.png"
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/60bf884e4a5748a2bfe5faab256b1ce4.png\",\"https://spk-json.spark-app.store/images/2025/07/07/34547c2a389c4c5c8c33d6513eb7bfbc.png\",\"https://spk-json.spark-app.store/images/2025/07/07/fd071be2159842aea9f83493cb8c0805.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/73c1fd8bab2349029b5959a2f9aac730.png"
 }
 ,
 {
@@ -3393,19 +3393,19 @@
 ,
 {
     "Name": "AmberCE deepin23",
-    "Version": "23.8.4",
-    "Filename": "amber-ce-deepin23_23.8.4_amd64.deb",
-    "Torrent_address": "amber-ce-deepin23_23.8.4_amd64.deb.torrent",
+    "Version": "23.8.5",
+    "Filename": "amber-ce-deepin23_23.8.5_amd64.deb",
+    "Torrent_address": "amber-ce-deepin23_23.8.5_amd64.deb.torrent",
     "Pkgname": "amber-ce-deepin23",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "Update": "2025-06-14 15:36:51",
-    "Size": "218.98 MB",
+    "Update": "2025-07-07 11:29:55",
+    "Size": "161.31 MB",
     "More": "deepin 23的ACE\n通过deepin23-run启动\n\n首次安装后需要重启以展示已安装应用",
     "Tags": "community;debian;ubuntu;deepin;native",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/7caccec9eca74c8cb0f09daebd4a3b38.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/6bbbe94db9fc46dfa9dcb7cd9956fe75.png"
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/08904d12acd9479a9ab64bdc0b0f2c7c.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/ab6f30cfa0164e4da4f7bae0af1ca798.png"
 }
 ,
 {
@@ -3481,19 +3481,19 @@
 ,
 {
     "Name": "ACE Trixie  兼容环境",
-    "Version": "13.8.4",
-    "Filename": "amber-ce-trixie_13.8.4_amd64.deb",
-    "Torrent_address": "amber-ce-trixie_13.8.4_amd64.deb.torrent",
+    "Version": "13.8.5",
+    "Filename": "amber-ce-trixie_13.8.5_amd64.deb",
+    "Torrent_address": "amber-ce-trixie_13.8.5_amd64.deb.torrent",
     "Pkgname": "amber-ce-trixie",
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "Update": "2025-06-14 12:56:49",
-    "Size": "142.62 MB",
+    "Update": "2025-07-07 11:17:21",
+    "Size": "141.37 MB",
     "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
     "Tags": "community;debian;ubuntu;deepin;native",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/173ba8a22edf4060b7ff4fb1a3a2555a.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8214a82fbe05477d87485f7ebcb5688d.png"
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/72bfdd65f0134407a602d05448a27c32.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/8ce75a266b6749de9ee86c46f05fde3b.png"
 }
 ,
 {
@@ -6474,4 +6474,21 @@
   "icons": "https://spk-json.spark-app.store/icons/2025/05/23/e5e17d0fcb1345d8a82a84ebf345d5a3.png"
 }
 
+,
+{
+    "Name": "ACE SID 兼容环境",
+    "Version": "13.8.5-roling",
+    "Filename": "amber-ce-sid_13.8.5-roling_amd64.deb",
+    "Torrent_address": "amber-ce-sid_13.8.5-roling_amd64.deb.torrent",
+    "Pkgname": "amber-ce-sid",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+    "Update": "2025-07-07 11:00:00",
+    "Size": "142.01 MB",
+    "More": "ACE SID",
+    "Tags": "community;debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/b40a8bfbe2f54b25a3b967d06f924616.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/117da115882244b68729f5843a601d88.png"
+}
 ]
