@@ -3971,6 +3971,27 @@ Homepage: https://www.spark-app.store/
 Description: Spark Store
  A community powered app store, based on DTK.
 
+Package: spark-store-console
+Architecture: all
+Version: 4.8.0-console1-patch1
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 656
+Provides: spark-store, aptss
+Depends: wget,aria2, zenity, policykit-1 | pkexec | polkit-1 | polkit, libnotify-bin, python3, desktop-file-utils,curl,sudo,lsb-release,gnupg
+Conflicts: spark-store, aptss
+Replaces: spark-store, aptss
+Filename: ./tools/spark-store-console/spark-store-console_4.8.0-console1-patch1_all.deb
+Size: 148780
+MD5sum: e6f31cfd1941f38ba704d71e47086f42
+SHA1: 9b13007488c6e85d59dcf6f07ca2ccd73df00067
+SHA256: 94bef9952a61399f2fc4de53939f068d235f257f744929f6f377c4ef980301c4
+SHA512: 294488a508264a6ec97feb5fcb36347344d0ba5f76660f9d30ab300006223b42b3ca3c9765050ede4226b2b71d05c5916e2c9a04e502d63abf1039e62241334d
+Homepage: https://www.spark-app.store/
+Description: Spark Store
+ A community powered app store, based on DTK.
+
 Package: com.sugarcane.formatfactory
 Architecture: all
 Version: 5.11.0
