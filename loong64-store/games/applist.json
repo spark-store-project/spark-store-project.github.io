@@ -338,24 +338,6 @@
 
 ,
 {
-  "Author": "Visual Arts.Key",
-  "Contributor": "杀毒软件吧",
-  "Filename": "air-key_1.0_all.deb",
-  "More": "这是一个galgame,它的诞生，打破了传统galgame的言情题材取向的传统，从此galgame的题材向着更加多元化的方向发展。\n它既不是催泪，也不是感动，而是渺远。",
-  "Name": "AIR-简体中文测试版",
-  "Pkgname": "air-key",
-  "Size": "211 Mb",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "Torrent_address": "AIR-Key_1.0_all.deb.torrent",
-  "Update": "2024-08-29 23:40:29",
-  "Version": "1.0",
-  "Website": "http://key.visualarts.gr.jp/",
-  "icons": "https://spk-json.spark-app.store/loong64-store/games/air-key/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/air-key/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/air-key/screen_2.png\"]"
-}
-
-,
-{
     "Author": "unknown <shenmo-ikun@shenmo-ikun-PC>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.mihoyo.sr-cloud_1.0.1_all.deb",
@@ -370,6 +352,24 @@
     "Website": "<insert the upstream URL, if relevant>",
     "icons": "https://spk-json.spark-app.store/store/games/com.mihoyo.sr-cloud/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/games/com.mihoyo.sr-cloud/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "Visual Arts.Key",
+  "Contributor": "杀毒软件吧",
+  "Filename": "air-key_1.0_all.deb",
+  "More": "这是一个galgame,它的诞生，打破了传统galgame的言情题材取向的传统，从此galgame的题材向着更加多元化的方向发展。\n它既不是催泪，也不是感动，而是渺远。",
+  "Name": "AIR-简体中文测试版",
+  "Pkgname": "air-key",
+  "Size": "211 Mb",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "Torrent_address": "AIR-Key_1.0_all.deb.torrent",
+  "Update": "2024-08-29 23:40:29",
+  "Version": "1.0",
+  "Website": "http://key.visualarts.gr.jp/",
+  "icons": "https://spk-json.spark-app.store/loong64-store/games/air-key/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/air-key/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/air-key/screen_2.png\"]"
 }
 
 ,
@@ -464,6 +464,42 @@
 
 ,
 {
+  "Author": "Debian Games Team <pkg-games-devel@lists.alioth.debian.org>",
+  "Contributor": "杀毒软件吧",
+  "Filename": "wesnoth_1:1.18.3-1_all.deb",
+  "More": "韦诺之战（The Battle For Wesnoth）是一款开放源代码、跨平台的免费的回合制策略游戏，是自由游戏联盟成员，任何人都可以向它贡献自己的创意和代码。游戏设计成熟，并且在开源社区拥有广泛的玩家群体，此外它还是Linux上少有的支持中文的游戏。玩家可以进行单机战役、局域网联机、或通过官方服务器与全世界玩家进行在线游戏。\n韦诺之战是一个基于六边格地图的回合制策略游戏。它的故事背景是一个基于西方奇幻故事框架的架空国度韦诺王国，游戏通过16个官方战役描绘了韦诺王国所在的这块大陆上一千余年间的诸般故事。游戏包括种族系统、单位系统、地形系统、昼夜系统、经验系统以及一套非常完善友好的操作与帮助系统。\n作为设计目的之一韦诺之战的游戏规则非常简单，在设计友好的帮助系统提示下一般玩家可以在1个小时内上手。但是游戏非常强调策略，玩家的后期提升空间很大，并且免费支持全球玩家在线游戏，因而具有良好的可玩性\n",
+  "Name": "Wesnote(韦诺之战)（ACE-bookworm）",
+  "Pkgname": "wesnoth",
+  "Size": "1 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "Torrent_address": "wesnoth_1:1.18.3-1_all.deb.torrent",
+  "Update": "2025-01-17 14:43:26",
+  "Version": "1:1.18.3-1",
+  "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+  "icons": "https://spk-json.spark-app.store/loong64-store/games/wesnoth/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/wesnoth/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/wesnoth/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "杀毒软件吧",
+    "Contributor": "杀毒软件吧",
+    "Filename": "web-start.qq.com_1.0_all.deb",
+    "More": "这是一个基于星火网页应用框架的应用，版本号无意义。\n云游戏确实是缓解Linux应用生态的一种好手段",
+    "Name": "腾讯START云游戏",
+    "Pkgname": "web-start.qq.com",
+    "Size": "12 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "web-start.qq.com_1.0_all.deb.torrent",
+    "Update": "2025-05-01 00:17:53",
+    "Version": "1.0",
+    "Website": "https://start.qq.com/webgame/home",
+    "icons": "https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/screen_1.png\"]"
+}
+
+,
+{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb",
@@ -514,42 +550,6 @@
     "Website": "https://github.com/FWGS/xash3d-fwgs",
     "icons": "https://spk-json.spark-app.store/loong64-store/games/xash3d-games/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_3.png\"]"
-}
-
-,
-{
-  "Author": "Debian Games Team <pkg-games-devel@lists.alioth.debian.org>",
-  "Contributor": "杀毒软件吧",
-  "Filename": "wesnoth_1:1.18.3-1_all.deb",
-  "More": "韦诺之战（The Battle For Wesnoth）是一款开放源代码、跨平台的免费的回合制策略游戏，是自由游戏联盟成员，任何人都可以向它贡献自己的创意和代码。游戏设计成熟，并且在开源社区拥有广泛的玩家群体，此外它还是Linux上少有的支持中文的游戏。玩家可以进行单机战役、局域网联机、或通过官方服务器与全世界玩家进行在线游戏。\n韦诺之战是一个基于六边格地图的回合制策略游戏。它的故事背景是一个基于西方奇幻故事框架的架空国度韦诺王国，游戏通过16个官方战役描绘了韦诺王国所在的这块大陆上一千余年间的诸般故事。游戏包括种族系统、单位系统、地形系统、昼夜系统、经验系统以及一套非常完善友好的操作与帮助系统。\n作为设计目的之一韦诺之战的游戏规则非常简单，在设计友好的帮助系统提示下一般玩家可以在1个小时内上手。但是游戏非常强调策略，玩家的后期提升空间很大，并且免费支持全球玩家在线游戏，因而具有良好的可玩性\n",
-  "Name": "Wesnote(韦诺之战)（ACE-bookworm）",
-  "Pkgname": "wesnoth",
-  "Size": "1 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "Torrent_address": "wesnoth_1:1.18.3-1_all.deb.torrent",
-  "Update": "2025-01-17 14:43:26",
-  "Version": "1:1.18.3-1",
-  "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
-  "icons": "https://spk-json.spark-app.store/loong64-store/games/wesnoth/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/wesnoth/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/wesnoth/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "杀毒软件吧",
-    "Contributor": "杀毒软件吧",
-    "Filename": "web-start.qq.com_1.0_all.deb",
-    "More": "这是一个基于星火网页应用框架的应用，版本号无意义。\n云游戏确实是缓解Linux应用生态的一种好手段",
-    "Name": "腾讯START云游戏",
-    "Pkgname": "web-start.qq.com",
-    "Size": "12 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "web-start.qq.com_1.0_all.deb.torrent",
-    "Update": "2025-05-01 00:17:53",
-    "Version": "1.0",
-    "Website": "https://start.qq.com/webgame/home",
-    "icons": "https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/screen_1.png\"]"
 }
 
 ,

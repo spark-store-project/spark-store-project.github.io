@@ -700,24 +700,6 @@
 
 ,
 {
-  "Author": "sgb76 <sgb76@163.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
-  "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
-  "Name": "bilidown",
-  "Pkgname": "vip.zhouql.bilidown.spark",
-  "Size": "102 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb.torrent",
-  "Update": "2023-10-15 02:36:06",
-  "Version": "1.0.5spark0",
-  "Website": "http://zhouql.vip/bilibili/pc/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
-}
-
-,
-{
     "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "quark-cloud-drive_2.2.3_all.deb",
@@ -736,20 +718,38 @@
 
 ,
 {
-    "Name": "Tailscale",
-    "Version": "1.84.0",
-    "Filename": "tailscale_1.84.0_arm64.deb",
-    "Torrent_address": "tailscale_1.84.0_arm64.deb.torrent",
-    "Pkgname": "tailscale",
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
-    "Website": "https://tailscale.com/",
-    "Update": "2025-05-22 17:32:50",
-    "Size": "30M",
-    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
-    "Tags": "ubuntu;deepin;uos;debian",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
+    "Author": "AnyDesk Software GmbH <linux-support@anydesk.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "anydesk_6.4.2_arm64.deb",
+    "More": "The fastest remote desktop software on the market.\n  It allows for new usage scenarios and applications that have not been possible with current remote desktop software.",
+    "Name": "AnyDesk在线远程桌面",
+    "Pkgname": "anydesk",
+    "Size": "8228 Kb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "anydesk_6.4.2_arm64.deb.torrent",
+    "Update": "2025-03-14 22:12:20",
+    "Version": "6.4.2",
+    "Website": "https://anydesk.com/",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/network/anydesk/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/anydesk/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "sgb76 <sgb76@163.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb",
+  "More": "一款简洁好用的B站视频下载工具。支持由UP主上传的单集，多集及相关封面，弹幕，字幕，音乐，刮削等等。支持任意粒度批量组合，登录后支持到1080P，大会员可获取所有音质及画质。",
+  "Name": "bilidown",
+  "Pkgname": "vip.zhouql.bilidown.spark",
+  "Size": "102 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "vip.zhouql.bilidown.spark_1.0.5spark0_all.deb.torrent",
+  "Update": "2023-10-15 02:36:06",
+  "Version": "1.0.5spark0",
+  "Website": "http://zhouql.vip/bilibili/pc/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/vip.zhouql.bilidown.spark/screen_4.png\"]"
 }
 
 ,
@@ -772,20 +772,20 @@
 
 ,
 {
-    "Author": "AnyDesk Software GmbH <linux-support@anydesk.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "anydesk_6.4.2_arm64.deb",
-    "More": "The fastest remote desktop software on the market.\n  It allows for new usage scenarios and applications that have not been possible with current remote desktop software.",
-    "Name": "AnyDesk在线远程桌面",
-    "Pkgname": "anydesk",
-    "Size": "8228 Kb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "anydesk_6.4.2_arm64.deb.torrent",
-    "Update": "2025-03-14 22:12:20",
-    "Version": "6.4.2",
-    "Website": "https://anydesk.com/",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/network/anydesk/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/anydesk/screen_1.png\"]"
+    "Name": "Tailscale",
+    "Version": "1.84.0",
+    "Filename": "tailscale_1.84.0_arm64.deb",
+    "Torrent_address": "tailscale_1.84.0_arm64.deb.torrent",
+    "Pkgname": "tailscale",
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Website": "https://tailscale.com/",
+    "Update": "2025-05-22 17:32:50",
+    "Size": "30M",
+    "More": "一款非常强大的异地组网软件，全平台多架构。\n此软件没有gui,所以需要命令行启动。\nsudo tailscale up",
+    "Tags": "ubuntu;deepin;uos;debian",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store//tailscale/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store//tailscale/icon.png"
 }
 
 ,
@@ -1199,6 +1199,24 @@
 
 ,
 {
+    "Author": "中国经济信息社有限公司 <xinhuacaijing@xinhua.org>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "com.ceis.app_2.3.81_arm64.deb",
+    "More": ".\n中国金融信息网由新华社主管,中国经济信息社主办,是配合新华财经金融信息平台项目打造的国家级专业财经网站,定位于建设中国财经金融信息领域的权威发布和服务平台",
+    "Name": "新华财经",
+    "Pkgname": "com.ceis.app",
+    "Size": "67 Mb",
+    "Tags": "deepin;ubuntu;debian",
+    "Torrent_address": "com.ceis.app_2.3.81_arm64.deb.torrent",
+    "Update": "2025-07-09 22:55:22",
+    "Version": "2.3.81",
+    "Website": "x.cnfic.com.cn",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/screen_1.png\"]"
+}
+
+,
+{
   "Author": "UnionTech <zhangzhonghui@uniontech.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.uos.drive_7.1.1-beta.3_arm64.deb",
@@ -1213,24 +1231,6 @@
   "Website": "https://changxie.uniontech.com",
   "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/network/com.uos.drive/screen_5.png\"]"
-}
-
-,
-{
-  "Author": "中国经济信息社有限公司 <xinhuacaijing@xinhua.org>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.ceis.app_2.3.58_amd64.deb",
-  "More": ".\n中国金融信息网由新华社主管,中国经济信息社主办,是配合新华财经金融信息平台项目打造的国家级专业财经网站,定位于建设中国财经金融信息领域的权威发布和服务平台",
-  "Name": "新华财经",
-  "Pkgname": "com.ceis.app",
-  "Size": "66 Mb",
-  "Tags": "deepin;uos;ubuntu;debian",
-  "Torrent_address": "com.ceis.app_2.3.58_amd64.deb.torrent",
-  "Update": "2025-01-23 11:49:01",
-  "Version": "2.3.58",
-  "Website": "x.cnfic.com.cn",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/com.ceis.app/screen_1.png\"]"
 }
 
 ,

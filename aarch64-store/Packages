@@ -2460,17 +2460,18 @@ Description: Spark Deepin Wine Helper
 
 Package: xiaoq-tools
 Architecture: all
-Version: 1.04
+Version: 2.05
 Priority: optional
 Section: utils
 Maintainer: fb93<fb93@fb93.com>
+Installed-Size: 1472
 Depends: bash, libnotify-bin
-Filename: ./tools/xiaoq-tools/xiaoq-tools_1.04_all.deb
-Size: 1401452
-MD5sum: 149ffde46d3323db8cb9051905bf4ba8
-SHA1: 34c196b07380831e35645ace9edac84986023c85
-SHA256: 7f6902297b66f3dbeb88abb157be11cee004dae8f3936776a846ae0a0b863dd0
-SHA512: 3e25c4a6c23f41671f2150cee3d11303dcb0d218cbdfdd43e0a84e7c9206f991f6628279189e17da0c7f83addebae399891820dd512c333ae2d38c654ea8711b
+Filename: ./tools/xiaoq-tools/xiaoq-tools_2.05_all.deb
+Size: 1402584
+MD5sum: a44be9723002ab9ef6de0ecb15a44b9e
+SHA1: f42a3083dd03eb4c37761d6db456d8f678cced13
+SHA256: 09eea939d2e619cab253a0a0ca59525e49fba13f464ec6178cd7f885be5d0bb5
+SHA512: 52cb8e1e367b80743019d703c989c9c7f62a5bb6a2eff7caf72877fd7391c2f465b6398fd170b56faf66bcc5b0543edadcbd6a33bfc5305df7dc35a2c561dd3a
 Description: 强大的文件目录清理工具
  本工具提供全面的文件管理功能：
   * 多种路径输入方式（命令行/交互式/拖放）
@@ -2847,6 +2848,24 @@ Description: All-In-One development tools.
   All-In-One development tools
 License: MIT
 Vendor: he3
+
+Package: gxde-25-upgrader
+Architecture: all
+Version: 1.1.7
+Multi-Arch: foreign
+Priority: optional
+Section: unknown
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 1206
+Depends: zenity, garma, spark-store | spark-store-console | aptss, sudo, bash, gxde-terminal
+Filename: ./tools/gxde-25-upgrader/gxde-25-upgrader_1.1.7_all.deb
+Size: 1217048
+MD5sum: 948837207153cb353071a31075dfb052
+SHA1: ec3e426a5ed733d0df34fdddc0f304b3656a0abd
+SHA256: ecc60eb65f0da8f7e3c19d6c5354b7d21df556074a71411029477140f1b5a070
+SHA512: 2b06221aa0fd59e4cbce63a92674e55a64f97853d54e5172f5029cf151eef322a26dee0326a4847dd52197173a81c33b583fcc98d7d84958e4f119dcebe2ab28
+Homepage: https://gitee.com/GXDE-OS/gxde-25-upgrader
+Description: GXDE OS 15 to 25 Upgrader
 
 Package: gxde-25-upgrader
 Architecture: all
@@ -4223,27 +4242,6 @@ SHA512: 69c810f858a61010522b3e4d4f025d559a18c582750b17792a200ca600c04b4d8101f7a0
 Homepage: https://gitee.com/spark-store-project/ccc-app-manager
 Description: manage your applications.
  应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包。支持deepin、uos系统。
-
-Package: spark-store-console
-Architecture: all
-Version: 4.8.0-console1
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 656
-Provides: spark-store, aptss
-Depends: wget,aria2, zenity, policykit-1 | pkexec | polkit-1 | polkit, libnotify-bin, python3, desktop-file-utils,curl,sudo,lsb-release,gnupg
-Conflicts: spark-store, aptss
-Replaces: spark-store, aptss
-Filename: ./tools/spark-store-console/spark-store-console_4.8.0-console1_all.deb
-Size: 148772
-MD5sum: ed427c554c76de60b2066961211be5be
-SHA1: bd8c9a075e8b97262277a2176862adf39c70cd88
-SHA256: b036ed1c823e6b0683582e65271b3e0dc35fbaaa357c9f30aebb2c407d132af5
-SHA512: 627ced2d5314a7397d0fbadf5ebf4e1fa6b1befb757ee47f21e61a1d3dc0d3592b0831c34af1a90c35780d333ebb2b349582b5f538708a70b7e842e41f6c72a2
-Homepage: https://www.spark-app.store/
-Description: Spark Store
- A community powered app store, based on DTK.
 
 Package: spark-store-console
 Architecture: all
@@ -5984,17 +5982,17 @@ Description: The Microsoft Piant of Vista on Deepin Wine
 
 Package: gimp-spark
 Architecture: arm64
-Version: 3.0.2
+Version: 3.0.4
 Priority: optional
 Section: utils
 Maintainer: spark-store
 Depends: libfuse2
-Filename: ./image_graphics/gimp-spark/gimp-spark_3.0.2_arm64.deb
-Size: 434966620
-MD5sum: d6458df04bbbbf29a9d225d79230dc2b
-SHA1: 963d03670f44bb2dc9d9573bea21f8e473a3a5bd
-SHA256: 7cd06cc314a4a4ac00e10cef11d1c4175b3cafacecf95aa82d91633975a61d82
-SHA512: 0dc22575cfeddab502a11bafc5d55a001cbe6b4ec6fa0f643cf085ed11774a485b67d2e3c2368e0547de10de93ccea7f3447fc7af60a1bc778ff88b1baa933fb
+Filename: ./image_graphics/gimp-spark/gimp-spark_3.0.4_arm64.deb
+Size: 114386968
+MD5sum: b20073c724b001c59bee2b466b9d8aae
+SHA1: 3243ccfd0b9c7420b0cc144281bf0bb18c6f5b46
+SHA256: f562d7084580b09f91d3d70502794baf481a01aa65dad109d8ac7703edcd3480
+SHA512: 0b778f983188fdf4148b9f4835bcbd795b46cb87102b1d7fbadcb51c8e5b3377e60c87bebe0dd41c93e0d2d493ca655614091f6c952f090e6ae37d1801adff16
 Description: gimp-spark Software Package created by Appimage2Deb
 
 Package: cn.photosir.himirage
@@ -7430,6 +7428,23 @@ Description: <编程教室> <人工智能编程教学平台>
 
 Package: com.51ifind
 Architecture: arm64
+Version: 1.10.12.394.001
+Priority: optional
+Section: utils
+Maintainer: shenjianwei <shenjianwei@myhexin.com>
+Installed-Size: 1637700
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./others/com.51ifind/com.51ifind_1.10.12.394.001_arm64.deb
+Size: 179237946
+MD5sum: 0e3ce0e95657ac519abdabb397b09767
+SHA1: 86ef1cc7f3c4d30e8f45d0a0d35ea786a3600653
+SHA256: a7869ef499d7fd3f8a5ba1960e9b667cb18ba63f4fe96bf5be2f68eb5e28674a
+SHA512: 93ceacbe2c742067c0154e490c7e6e9e6a9dd8ac403ba8009396738c3bea4e91527db0e6ec79e4f7da766e4c166f57e6f91f97a2cbab44495ddf6ba1c2e4f574
+Homepage: http://www.51ifind.com
+Description: a market leading financial data terminal
+
+Package: com.51ifind
+Architecture: arm64
 Version: 1.10.12.393.001
 Priority: optional
 Section: utils
@@ -7729,6 +7744,22 @@ SHA512: 197fb010005cf609a70bb54a5f61080cf94bb5fcd852c5337787f5c8a3eb417584719d1b
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
 
+Package: com.wind.wft
+Architecture: arm64
+Version: 25.1.4.07030
+Priority: optional
+Section: utils
+Maintainer: service@wind.com.cn
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./others/com.wind.wft/com.wind.wft_25.1.4.07030_arm64.deb
+Size: 327497014
+MD5sum: 16c484d218e1a59e669f22f9a72e9eac
+SHA1: ae9446e6ac5e1010c758f78172e4c8da6e258118
+SHA256: e28025dae388be8e59592b49d58402947a70c44d9fa6f20dd7ac7ba386bef57b
+SHA512: c4fed9fce20f815ad5726362017dbc7149312fb82bb9e0bd36c94b3979b656846a688c199677dea1dac28a36f14c91df108e35d90123f230614e30526e245a2f
+Homepage: http://www.wind.com.cn
+Description: Wind-领先的金融数据和分析工具服务商
+
 Package: com.tdx.tdxcfv
 Architecture: arm64
 Version: 7.64
@@ -7762,27 +7793,6 @@ SHA256: 1b2ac9ea1c533875d7b98c2cddcde5929f98d25bd0832d17a3fe347fbd9cc5e1
 SHA512: 2343bb57a0b64691948e758f9db57167d257b7360d37376d76fd7ecae034f52a7ea459ac898dec3856c2b834115ea3334a7c9a5c82577a1accc719bb673ffba8
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
-
-Package: arise-linux-graphics-driver-dri
-Architecture: arm64
-Version: 25.00.32
-Multi-Arch: same
-Priority: optional
-Section: restricted/misc
-Maintainer: Glenfly Tech Co., Ltd.
-Installed-Size: 62488
-Pre-Depends: libgl1-mesa-glx | libglx-mesa0, dkms (>= 1.95), libgbm1, libglvnd0, libwayland-client0, libwayland-server0, libwayland-egl1
-Depends: libc6(>=2.14),libdrm2(>=2.3.1),libx11-6(>=2:1.4.99.1),libx11-xcb1,libxcb-dri2-0(>=1.8),libxcb-dri3-0,libxcb-glx0(>=1.8),libxcb-present0,libxcb-sync1,libxcb1(>=1.9.2),libxdamage1(>=1:1.1),libxext6,libxfixes3,libxshmfence1,libxcb-randr0,libxcb-render0,libxcb-shape0,libxcb-xfixes0, deepin-elf-verify (>= 1.1.10-1)
-Conflicts: gf-arise-linux-graphics-driver-dri
-Replaces: gf-arise-linux-graphics-driver-dri
-Filename: ./others/arise-linux-graphics-driver-dri/arise-linux-graphics-driver-dri_25.00.32_arm64.deb
-Size: 13073178
-MD5sum: 41f7d290e917ca27e05bd1bbd7c99a31
-SHA1: f23519f928052c9c05eb31e8e689675856f0c689
-SHA256: 2d536c11786df43085ac6b690a60876271ffec28ada53b85f38d5e476778ab2f
-SHA512: a6092d97d5072d1d2c7380d7dfb49cefea60a6d3d77e3dddd46d3eb2b7d87c77b114cc129b1b78a0e62c009e1168e7e4c610ea4cf1daf85565ede94e18127aef
-Homepage: https://www.glenfly.com
-Description: Glenfly Tech Co., Ltd. Graphics drivers
 
 Package: arise-linux-graphics-driver-dri
 Architecture: arm64
@@ -8855,21 +8865,6 @@ Description: A fan made game of Fallout Equestria.
  there came an era when the ideals of friendship gave way to envy, selfishness, greed and cruelty. The Great War for natural resources broke out, in which there were no winners. A magical spark struck by pony hooves quickly raged out of control and turned into flames that engulfed whole continents. Dragon fire and black magic, turned into destructive weapons, almost ended all life on the planet. Soil, water and air became poisoned from radiation, cities were destroyed, civilizations collapsed. Both ponies and their enemies were almost wiped off the face of the earth. Apocalypse, predicted by insane prophets, whom almost no one believed until the last day, finally has come...
  But it was not the end yet. Many ponies survived, some - hiding in the huge underground shelters-stables, others - somehow adapting to new conditions. Apocalypse was just a prologue for another bloody chapter of pony history. On the scorched and poisoned Wasteland, violence and cruelty became not just permissible - now they were means of survival...
  Since that day, the last day of the former Equestria, about two hundred years have passed...
-
-Package: com.brocadesoft.ruiyin
-Architecture: arm64
-Version: 1.2.0.1
-Priority: optional
-Section: utils
-Maintainer: Brocadesoft
-Depends: deepin-elf-verify (>= 1.1.1-1),  deepin-elf-verify (>= 0.0.16.7-1)
-Filename: ./office/com.brocadesoft.ruiyin/com.brocadesoft.ruiyin_1.2.0.1_arm64.deb
-Size: 5927130
-MD5sum: b715e20dc5913cfcf6a48f0d4a528d24
-SHA1: 22f664dc82bc138cbdc189428be60d327a1bdf1d
-SHA256: f93a045a37f846278b6896ecf02e57603399783b8aa738e667c830acf78ed77a
-SHA512: 82d0b2c83841f18d1c5677f665a1e061837454b1bc80ada2d4a97b11efce4d1f4132fd6115bdf35f7a5ce1f7aed58f61f9f8050c990264699c1e19a4d92bde74
-Description: 瑞印万能打印驱动（个人版）
 
 Package: com.brocadesoft.ruiyin
 Architecture: arm64
@@ -11206,6 +11201,23 @@ SHA512: 79ba5ca42f55fb7cb7643b1bd023162aa646220f283d9dc04580fc846b1a834315d67876
 Homepage: x.cnfic.com.cn
 Description: 中经社新华财经终端
 
+Package: com.ceis.app
+Architecture: arm64
+Version: 2.3.81
+Priority: optional
+Section: Office
+Maintainer: 中国经济信息社有限公司 <xinhuacaijing@xinhua.org>
+Installed-Size: 444483
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./network/com.ceis.app/com.ceis.app_2.3.81_arm64.deb
+Size: 67027734
+MD5sum: 3a811f11d9e0766607db5652016681be
+SHA1: 9f82f023a37f7b5328e740934ff4c36d441a03e1
+SHA256: 155dd2659b04a21f740a1b0e4bcc8d14c55e6425e5797318bfafed928fbc834a
+SHA512: 2a52011d94d8a9dcec47245bd4ad348527c83fe1e9881886d9c6f75642f846039c85d16f8e7fd7d80bff5a3c1dd794475147dd58a83ad877697761effad4b6d9
+Homepage: x.cnfic.com.cn
+Description: 中经社新华财经终端
+
 Package: com.dlife.corpcloud
 Architecture: arm64
 Version: 1.0.0.0
@@ -12983,23 +12995,6 @@ MD5sum: 48162cdfa81e55efef5d76b3e2d296a2
 SHA1: b8c981aa8c63fd60d6f55ef9362ed66beee782e1
 SHA256: 53bb53d7b0df0de5c9fb8e7d71c4818d07565b64a6fb3327e4488d69f498ba0d
 SHA512: 68ae3534cba420f498f2cd8af8b8a54cd4e69ebe369291e3530d6f2ef6e40e801cf3afc6283e07db2f5f3da693df87010740d89ea0d5532f77a9962b87bac406
-Description: Foxmail Client on Deepin Wine8
-
-Package: com.foxmail.deepin
-Architecture: arm64
-Version: 7.2.25.375deepin6
-Multi-Arch: foreign
-Priority: optional
-Section: non-free/otherosfs
-Maintainer: Deepin WINE Team
-Installed-Size: 177675
-Depends: deepin-wine8-stable (>= 8.16deepin40), com.wine-helper.deepin (>= 5.4.1-1), deepin-box64 (>= 0.3.2deepin5-1), exagear-utils (>= 3336.2), fonts-wqy-microhei, deepin-elf-verify (>= 1.1.10-1)
-Filename: ./chat/com.foxmail.deepin/com.foxmail.deepin_7.2.25.375deepin6_arm64.deb
-Size: 152088506
-MD5sum: c441db239a73cf5aa2e6a1a55fd01d50
-SHA1: 595f3a53d3d92c0ef0d2b13276e38e7424364017
-SHA256: eba15030373421fedb9608ee85337fba5e78e895ff6fc1c8379ec9685c6cbeca
-SHA512: 245926519090e96742613af694d4eb360fdc33d9c53dd58c3000383af1ab72786cd792d94409e22523e0a0a337bb772848c3a8e484acd1737f2163b974d890e2
 Description: Foxmail Client on Deepin Wine8
 
 Package: gzb

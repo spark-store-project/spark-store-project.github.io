@@ -56,24 +56,6 @@
 {
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store_4.8.0_arm64.deb",
-    "More": "## 更新内容\n* 支持把应用安装到指定的 ACE 兼容环境中 ( Debian 12/13/SID , deepin 23 ），支持把应用强制安装到主机，大幅提升了应用兼容能力（deepin 20/23/25 ， UOS HOME 20 21 22 ，专业版 1060+ ， Ubuntu 22.04+ ） 教程： https://wiki.spark-app.store/#/Submit/Submit?id=%e9%80%89%e6%8b%a9%e5%ba%94%e7%94%a8%e6%a0%87%e7%ad%be\n* 重写了应用投递指南 https://wiki.spark-app.store/#/Submit/Submit\n* 修复在高分屏下的tag模糊问题\n* 重写了 ssinstall 和 ssaudit ",
-    "Name": "星火应用商店",
-    "Pkgname": "spark-store",
-    "Size": "3649 Kb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "spark-store_4.8.0_arm64.deb.torrent",
-    "Update": "2025-06-15 01:19:21",
-    "Version": "4.8.0",
-    "Website": "https://www.spark-app.store/",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/spark-store/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_4.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "cn.flamescion.bookworm-compatibility-mode_12.8.4_arm64.deb",
     "More": "安装ACE兼容环境后可大大提升应用安装成功率，推荐安装！\nACE Bookworm 是一个极轻量级 Debian 容器，安装后可改善应用兼容性，带来更好的使用体验！\n注：安装后需重启或注销后生效\n\n* 修复安装卡顿问题",
     "Name": "ACE Bookworm 兼容环境",
@@ -86,6 +68,24 @@
     "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cn.flamescion.bookworm-compatibility-mode/screen_3.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store_4.8.0_arm64.deb",
+    "More": "## 更新内容\n* 支持把应用安装到指定的 ACE 兼容环境中 ( Debian 12/13/SID , deepin 23 ），支持把应用强制安装到主机，大幅提升了应用兼容能力（deepin 20/23/25 ， UOS HOME 20 21 22 ，专业版 1060+ ， Ubuntu 22.04+ ） 教程： https://wiki.spark-app.store/#/Submit/Submit?id=%e9%80%89%e6%8b%a9%e5%ba%94%e7%94%a8%e6%a0%87%e7%ad%be\n* 重写了应用投递指南 https://wiki.spark-app.store/#/Submit/Submit\n* 修复在高分屏下的tag模糊问题\n* 重写了 ssinstall 和 ssaudit ",
+    "Name": "星火应用商店",
+    "Pkgname": "spark-store",
+    "Size": "3649 Kb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "spark-store_4.8.0_arm64.deb.torrent",
+    "Update": "2025-06-15 01:19:21",
+    "Version": "4.8.0",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/spark-store/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/spark-store/screen_4.png\"]"
 }
 
 ,
@@ -890,6 +890,24 @@
 
 ,
 {
+  "Author": "gfdgd_xi <3025613752@qq.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
+  "More": "GXDE 软件包安装器",
+  "Name": "GXDE 软件包安装器",
+  "Pkgname": "gxde-deb-installer",
+  "Size": "183 Kb",
+  "Tags": "community;deepin;ubuntu;debian;native",
+  "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
+  "Update": "2025-03-04 22:34:10",
+  "Version": "1.5.3",
+  "Website": "https://www.deepin.com/",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
+}
+
+,
+{
   "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "deepin-wine-diag_3.1.1.002-1_arm64.deb",
@@ -922,24 +940,6 @@
   "Website": "https://www.qianxin.com/",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_4.png\"]"
-}
-
-,
-{
-  "Author": "gfdgd_xi <3025613752@qq.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
-  "More": "GXDE 软件包安装器",
-  "Name": "GXDE 软件包安装器",
-  "Pkgname": "gxde-deb-installer",
-  "Size": "183 Kb",
-  "Tags": "community;deepin;ubuntu;debian;native",
-  "Torrent_address": "gxde-deb-installer_1.5.3_arm64.deb.torrent",
-  "Update": "2025-03-04 22:34:10",
-  "Version": "1.5.3",
-  "Website": "https://www.deepin.com/",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-deb-installer/screen_1.png\"]"
 }
 
 ,
@@ -1070,6 +1070,24 @@
 
 ,
 {
+  "Author": "phytium",
+  "Contributor": "PlaneCN",
+  "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
+  "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
+  "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
+  "Pkgname": "cn.com.phytium.phyvirt.kylin",
+  "Size": "126 Mb",
+  "Tags": "native",
+  "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
+  "Update": "2024-05-16 17:43:17",
+  "Version": "1.5.5.0",
+  "Website": "https://www.phytium.com.cn/developer/39/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
+}
+
+,
+{
     "Author": "LinkAndroid",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "linkandroid_0.0.12_arm64.deb",
@@ -1102,24 +1120,6 @@
   "Website": "https://github.com/SeptemberHX/dde-top-panel",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
-}
-
-,
-{
-  "Author": "phytium",
-  "Contributor": "PlaneCN",
-  "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
-  "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
-  "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
-  "Pkgname": "cn.com.phytium.phyvirt.kylin",
-  "Size": "126 Mb",
-  "Tags": "native",
-  "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
-  "Update": "2024-05-16 17:43:17",
-  "Version": "1.5.5.0",
-  "Website": "https://www.phytium.com.cn/developer/39/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
 }
 
 ,
@@ -1214,24 +1214,6 @@
 
 ,
 {
-    "Name": "附加基础库 Additional Base Lib",
-    "Version": "2.41-9-9",
-    "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
-    "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
-    "Pkgname": "additional-base-lib",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <shenmo@spark-app.store>",
-    "Website": "https://gitee.com/spark-store-project/additional-base-lib",
-    "Update": "2025-06-19 17:42:07",
-    "Size": "2.8M",
-    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
-    "Tags": "ubuntu;deepin;uos;debian;community",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
-}
-
-,
-{
   "Author": "zinface <zinface@163.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "z-tools-base-apk-view_1.0-20230129_arm64.deb",
@@ -1246,24 +1228,6 @@
   "Website": "https://gitee.com/zinface/z-tools",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "com.github.xfangfang.macast_0.7_arm64.deb",
-    "More": "Macast是一个跨平台的 菜单栏\n\n状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。\n\n注：如果投屏发生闪退，可尝试将硬件解码关闭",
-    "Name": "Macast",
-    "Pkgname": "com.github.xfangfang.macast",
-    "Size": "313 Mb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "com.github.xfangfang.macast_0.7_arm64.deb.torrent",
-    "Update": "2023-07-25 18:24:33",
-    "Version": "0.7",
-    "Website": "https://gitee.com/xfangfang/Macast",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
 }
 
 ,
@@ -1286,20 +1250,38 @@
 
 ,
 {
-  "Author": "Deepin Packages Builder <packages@deepin.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "deepin-mirror-selector_1.0.1_arm64.deb",
-  "More": "近期随着 deepin V23 正式版本的发布，国内外的关注异常火爆，不仅仅是盼望已久的用户在第一时间下载/更新体验，同时还有一些其他“势力”也在大展身手，导致 deepin的一些服务能力持续满载，给大家的正常使用带来了一些困扰，为了能进一步提升仓库的使用稳定性，今天紧急搓了一个镜像源切换工具，可以在仓库源使用不稳定时，通过该工具手动切换其他可用的镜像源。\n\n\n直接下载安装，启动后，可以手动切换其他源，再尝试更新即可。\n国内用户推荐tuna ustc aliyun等cn结尾的地址",
-  "Name": "deepin23 镜像源选择器",
-  "Pkgname": "deepin-mirror-selector",
-  "Size": "17 Kb",
-  "Tags": "deepin;native",
-  "Torrent_address": "deepin-mirror-selector_1.0.1_arm64.deb.torrent",
-  "Update": "2024-08-19 11:43:23",
-  "Version": "1.0.1",
-  "Website": "https://www.deepin.org/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/screen_1.png\"]"
+    "Author": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "com.github.xfangfang.macast_0.7_arm64.deb",
+    "More": "Macast是一个跨平台的 菜单栏\n\n状态栏 应用，用户可以使用电脑接收发送自手机的视频、图片和音乐，支持主流视频音乐软件和其他任何符合DLNA协议的投屏软件。\n\n注：如果投屏发生闪退，可尝试将硬件解码关闭",
+    "Name": "Macast",
+    "Pkgname": "com.github.xfangfang.macast",
+    "Size": "313 Mb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "com.github.xfangfang.macast_0.7_arm64.deb.torrent",
+    "Update": "2023-07-25 18:24:33",
+    "Version": "0.7",
+    "Website": "https://gitee.com/xfangfang/Macast",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/icon.png",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.github.xfangfang.macast/screen_1.png\"]"
+}
+
+,
+{
+    "Name": "附加基础库 Additional Base Lib",
+    "Version": "2.41-9-9",
+    "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
+    "Torrent_address": "additional-base-lib_2.41-9-9_arm64.deb.torrent",
+    "Pkgname": "additional-base-lib",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Website": "https://gitee.com/spark-store-project/additional-base-lib",
+    "Update": "2025-06-19 17:42:07",
+    "Size": "2.8M",
+    "More": "内置glibc和libstdc++\n其实原理还是我们最爱的bwrap，创建一个容器把libc和ld.so替换掉，就这么简单（bwrap真是为大家节约了不少生命）。此外用了一点小技巧让大家仍然可以自己\n设置LD_LIBRARY_PATH变量来寻找自己安装的动态库。选用的glibc和libstdc++是从debian bookworm（debian 12，目前是测试版）上下载的，支持到GLIBC_2.36、GLIBCXX_3.4.30。\n安装：下载解压得到deb包，打开终端，输入 sudo apt install ，输入空格后在文件管理器里用鼠标按住deb包拖拽过去，然后按回车。\n使用：安装好了后，在终端运行不兼容的软件时，只需要在前面加上ablrun和空格就可以了。ablrun [命令]\n删除：sudo apt remove additional-base-lib\n注意事项：\n1、所有gcc库中我只加入了libstdc++（毕竟比较常用）。如果需要其他比如objective-c，fortran，d等语言的标准库，可以留言\n2、应该能在其他基于debian的发行版上运行，但是我还没测试\n3、由于包括的库比较少，只能解决部分兼容问题。但是通过学习，大家能解决所有常见问题。（可以看我之前的帖子：https://bbs.deepin.org/post/256081）\n4、不能保证程序没有故障，各位需要为自己系统的安全负责",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/additional-base-lib/icon.png"
 }
 
 ,
@@ -1322,6 +1304,24 @@
 
 ,
 {
+  "Author": "Deepin Packages Builder <packages@deepin.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "deepin-mirror-selector_1.0.1_arm64.deb",
+  "More": "近期随着 deepin V23 正式版本的发布，国内外的关注异常火爆，不仅仅是盼望已久的用户在第一时间下载/更新体验，同时还有一些其他“势力”也在大展身手，导致 deepin的一些服务能力持续满载，给大家的正常使用带来了一些困扰，为了能进一步提升仓库的使用稳定性，今天紧急搓了一个镜像源切换工具，可以在仓库源使用不稳定时，通过该工具手动切换其他可用的镜像源。\n\n\n直接下载安装，启动后，可以手动切换其他源，再尝试更新即可。\n国内用户推荐tuna ustc aliyun等cn结尾的地址",
+  "Name": "deepin23 镜像源选择器",
+  "Pkgname": "deepin-mirror-selector",
+  "Size": "17 Kb",
+  "Tags": "deepin;native",
+  "Torrent_address": "deepin-mirror-selector_1.0.1_arm64.deb.torrent",
+  "Update": "2024-08-19 11:43:23",
+  "Version": "1.0.1",
+  "Website": "https://www.deepin.org/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/deepin-mirror-selector/screen_1.png\"]"
+}
+
+,
+{
   "Name": "Chatbox 多模型AI客户端",
   "Version": "1.14.1",
   "Filename": "xyz.chatboxapp.app_1.14.1_arm64.deb",
@@ -1333,24 +1333,6 @@
   "Size": "72.91 MB",
   "More": "一个多模型的AI客户端，支持提示词模板、支持chatgpt、支持跨平台。\n\n来源于官网\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-amd64.deb\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-arm64.deb",
   "Tags": "debian;ubuntu;deepin;uos;native"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "spark-web-packer_0.1.3_all.deb",
-  "More": "0.1-可以快速创建web app咯！\n",
-  "Name": "星火网页打包工具",
-  "Pkgname": "spark-web-packer",
-  "Size": "6 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "Torrent_address": "spark-web-packer_0.1.3_all.deb.torrent",
-  "Update": "2023-12-09 16:08:13",
-  "Version": "0.1.3",
-  "Website": "ttps://gitee.com/deepin-community-store/web-packer",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
 }
 
 ,
@@ -1369,6 +1351,24 @@
   "Website": "https://gitee.com/zinface/z-tools",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-adbmanager/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "spark-web-packer_0.1.3_all.deb",
+  "More": "0.1-可以快速创建web app咯！\n",
+  "Name": "星火网页打包工具",
+  "Pkgname": "spark-web-packer",
+  "Size": "6 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "Torrent_address": "spark-web-packer_0.1.3_all.deb.torrent",
+  "Update": "2023-12-09 16:08:13",
+  "Version": "0.1.3",
+  "Website": "ttps://gitee.com/deepin-community-store/web-packer",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-web-packer/screen_1.png\"]"
 }
 
 ,
@@ -1409,20 +1409,20 @@
 
 ,
 {
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-25-upgrader_1.1.5_all.deb",
-  "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
-  "Name": "GXDE 2025 升级工具",
-  "Pkgname": "gxde-25-upgrader",
-  "Size": "1217 Kb",
-  "Tags": "community;debian;native",
-  "Torrent_address": "gxde-25-upgrader_1.1.5_all.deb.torrent",
-  "Update": "2025-05-11 23:20:45",
-  "Version": "1.1.5",
-  "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "gxde-25-upgrader_1.1.7_all.deb",
+    "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
+    "Name": "GXDE 2025 升级工具",
+    "Pkgname": "gxde-25-upgrader",
+    "Size": "1217 Kb",
+    "Tags": "community;debian;native",
+    "Torrent_address": "gxde-25-upgrader_1.1.7_all.deb.torrent",
+    "Update": "2025-07-09 11:38:53",
+    "Version": "1.1.7",
+    "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
+    "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
 }
 
 ,
@@ -1481,24 +1481,6 @@
 
 ,
 {
-  "Author": "zty199 <zty2864@gmail.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
-  "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
-  "Name": "任务栏显卡切换插件",
-  "Pkgname": "dde-dock-graphics-plugin",
-  "Size": "39 Kb",
-  "Tags": "community;deepin;uos;dtk5;native",
-  "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
-  "Update": "2023-03-06 20:53:35",
-  "Version": "1.8.4-3",
-  "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
-}
-
-,
-{
   "Author": "Beijing Rising Inc.",
   "Contributor": "dg1vg4 <risingrav@163.com>",
   "Filename": "com.rising.antivirus_3.0.5.16_arm64.deb",
@@ -1513,6 +1495,24 @@
   "Website": "http://www.rising.com.cn/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.rising.antivirus/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.rising.antivirus/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.rising.antivirus/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "zty199 <zty2864@gmail.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb",
+  "More": "dde-dock 显卡切换插件，在任务栏显示图标方便快速切换显卡。\n修改自论坛大佬 chanforever 的切换显卡插件，原贴地址：https://bbs.deepin.org/zh/post/197280\n\n【更新日志】\nv1.8.4-2:\n1. 修复社区版 20.7 上插件加载或移动位置时异常退出问题",
+  "Name": "任务栏显卡切换插件",
+  "Pkgname": "dde-dock-graphics-plugin",
+  "Size": "39 Kb",
+  "Tags": "community;deepin;uos;dtk5;native",
+  "Torrent_address": "dde-dock-graphics-plugin_1.8.4-3_arm64.deb.torrent",
+  "Update": "2023-03-06 20:53:35",
+  "Version": "1.8.4-3",
+  "Website": "https://github.com/zty199/dde-dock-switch_graphics_card",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-dock-graphics-plugin/screen_3.png\"]"
 }
 
 ,
@@ -1661,6 +1661,24 @@
 
 ,
 {
+  "Author": "sgb76 <sgb76@163.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.filegee.spark_11.7.4spark1_all.deb",
+  "More": "FileGee文件同步备份系统，强大高效的文件备份与文件同步解决方案，它在功能、效率、容错、稳定等方面具有非常优异的表现",
+  "Name": "FileGee",
+  "Pkgname": "com.filegee.spark",
+  "Size": "24 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
+  "Torrent_address": "com.filegee.spark_11.7.4spark1_all.deb.torrent",
+  "Update": "2024-03-24 22:28:31",
+  "Version": "11.7.4spark1",
+  "Website": "https://cn.filegee.com/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_2.png\"]"
+}
+
+,
+{
   "Author": "https://app.lizardbyte.dev",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "sunshine_2025.122.141614_arm64.deb",
@@ -1733,24 +1751,6 @@
 
 ,
 {
-  "Author": "sgb76 <sgb76@163.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.filegee.spark_11.7.4spark1_all.deb",
-  "More": "FileGee文件同步备份系统，强大高效的文件备份与文件同步解决方案，它在功能、效率、容错、稳定等方面具有非常优异的表现",
-  "Name": "FileGee",
-  "Pkgname": "com.filegee.spark",
-  "Size": "24 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
-  "Torrent_address": "com.filegee.spark_11.7.4spark1_all.deb.torrent",
-  "Update": "2024-03-24 22:28:31",
-  "Version": "11.7.4spark1",
-  "Website": "https://cn.filegee.com/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_2.png\"]"
-}
-
-,
-{
   "Author": "gfdgd_xi <3025613752@qq.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-terminal_5.0.5_arm64.deb",
@@ -1765,42 +1765,6 @@
   "Website": "https://github.com/linuxdeepin/gxde-terminal",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-terminal/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-terminal/screen_1.png\"]"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-app-upgrader_1.5.2_all.deb",
-  "More": "使用 gxde-app-upgrader 以进行检查更新",
-  "Name": "GXDE 软件包更新器",
-  "Pkgname": "gxde-app-upgrader",
-  "Size": "20 Kb",
-  "Tags": "community;deepin;uos;ubuntu;native",
-  "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
-  "Update": "2025-03-04 22:33:19",
-  "Version": "1.5.2",
-  "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "amber-ce-trixie_13.8.4_arm64.deb",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
-    "Name": "ACE Trixie  兼容环境",
-    "Pkgname": "amber-ce-trixie",
-    "Size": "137 Mb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "amber-ce-trixie_13.8.4_arm64.deb.torrent",
-    "Update": "2025-06-15 21:14:56",
-    "Version": "13.8.4",
-    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/screen_1.png\"]"
 }
 
 ,
@@ -1825,18 +1789,18 @@
 {
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb",
-  "More": "从系统源获取的Remmina，版本号无意义\n\nhttps://gitee.com/shenmo7192/taowa-tools/",
-  "Name": "Remmina(系统源版)",
-  "Pkgname": "store.spark-app.appwrapper.remmina",
-  "Size": "3 Kb",
-  "Tags": "community;deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb.torrent",
-  "Update": "2024-12-31 19:00:51",
-  "Version": "1.4.34+dfsg-1",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_2.png\"]"
+  "Filename": "gxde-app-upgrader_1.5.2_all.deb",
+  "More": "使用 gxde-app-upgrader 以进行检查更新",
+  "Name": "GXDE 软件包更新器",
+  "Pkgname": "gxde-app-upgrader",
+  "Size": "20 Kb",
+  "Tags": "community;deepin;uos;ubuntu;native",
+  "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
+  "Update": "2025-03-04 22:33:19",
+  "Version": "1.5.2",
+  "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/gxde-app-upgrader/screen_1.png\"]"
 }
 
 ,
@@ -1859,20 +1823,56 @@
 
 ,
 {
-  "Author": "fb93<fb93@fb93.com>",
-  "Contributor": "fb93<fb93@fb93.com>",
-  "Filename": "xiaoq-tools_1.04_all.deb",
-  "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统.\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n支持arm64",
-  "Name": "小Q工具箱",
-  "Pkgname": "xiaoq-tools",
-  "Size": "1401 Kb",
-  "Tags": "community;deepin;uos;native",
-  "Torrent_address": "xiaoq-tools_1.04_all.deb.torrent",
-  "Update": "2025-05-09 11:07:26",
-  "Version": "1.04",
-  "Website": "https://gitee.com/seeker_ok",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_3.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_4.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_5.png\"]"
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "amber-ce-trixie_13.8.4_arm64.deb",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
+    "Name": "ACE Trixie  兼容环境",
+    "Pkgname": "amber-ce-trixie",
+    "Size": "137 Mb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "amber-ce-trixie_13.8.4_arm64.deb.torrent",
+    "Update": "2025-06-15 21:14:56",
+    "Version": "13.8.4",
+    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb",
+  "More": "从系统源获取的Remmina，版本号无意义\n\nhttps://gitee.com/shenmo7192/taowa-tools/",
+  "Name": "Remmina(系统源版)",
+  "Pkgname": "store.spark-app.appwrapper.remmina",
+  "Size": "3 Kb",
+  "Tags": "community;deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.remmina_1.4.34_plus_dfsg-1_all.deb.torrent",
+  "Update": "2024-12-31 19:00:51",
+  "Version": "1.4.34+dfsg-1",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "fb93<fb93@fb93.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "xiaoq-tools_2.05_all.deb",
+    "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统(支持amd64与arm64系统).\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n1、修复权限的问题。 \n2、增加删除了文件列表显示 \n3、增加检测版本功能 \n4、增加防止删除系统备份目录/backup提示 \n5、增加检测版本功能 ，检测是否为最新的版本 \n6、本次优化检测版本功能，解决部分国产电脑无法使用的问题。\n7、优化MimeType，减少重复。",
+    "Name": "小Q工具箱",
+    "Pkgname": "xiaoq-tools",
+    "Size": "1402 Kb",
+    "Tags": "community;deepin;ubuntu;debian",
+    "Torrent_address": "xiaoq-tools_2.05_all.deb.torrent",
+    "Update": "2025-07-07 16:59:48",
+    "Version": "2.05",
+    "Website": "https://gitee.com/seeker_ok",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/xiaoq-tools/screen_3.png\"]"
 }
 
 ,
@@ -1895,24 +1895,6 @@
 
 ,
 {
-  "Author": "BaoquTech",
-  "Contributor": "BaoquTech",
-  "Filename": "com.duba.antivirus_1.1.0.15_arm64.deb",
-  "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
-  "Name": "金山毒霸",
-  "Pkgname": "com.duba.antivirus",
-  "Size": "205 Mb",
-  "Tags": "deepin;uos;debian;native",
-  "Torrent_address": "com.duba.antivirus_1.1.0.15_arm64.deb.torrent",
-  "Update": "2023-06-30 15:29:26",
-  "Version": "1.1.0.15",
-  "Website": "https://www.duba.net/",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_3.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "cn.flamescion.taowa-tools_1.2.3_all.deb",
@@ -1927,6 +1909,24 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/tools/cn.flamescion.taowa-tools/icon.png",
     "img_urls": "[]"
+}
+
+,
+{
+  "Author": "BaoquTech",
+  "Contributor": "BaoquTech",
+  "Filename": "com.duba.antivirus_1.1.0.15_arm64.deb",
+  "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
+  "Name": "金山毒霸",
+  "Pkgname": "com.duba.antivirus",
+  "Size": "205 Mb",
+  "Tags": "deepin;uos;debian;native",
+  "Torrent_address": "com.duba.antivirus_1.1.0.15_arm64.deb.torrent",
+  "Update": "2023-06-30 15:29:26",
+  "Version": "1.1.0.15",
+  "Website": "https://www.duba.net/",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_3.png\"]"
 }
 
 ,
@@ -2019,6 +2019,24 @@
 }
 ,
 {
+    "Author": "spark-store",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "cpux_5.3.1_arm64.deb",
+    "More": "CPU-X是一款免费软件，可收集有关CPU，主板等的信息。\nCPU-X是一个系统分析和监控应用程序（类似于Windows的CPU-Z），但CPU-X是一个为GNU/Linux和FreeBSD设计的免费开源软件。\n该软件是用C编写的，并使用CMake工具构建。\n它可以使用 GTK 在图形模式下使用，也可以使用 NCurses 在基于文本的模式下使用。命令行中存在转储模式。",
+    "Name": "CPU-X",
+    "Pkgname": "cpux",
+    "Size": "21 Mb",
+    "Tags": "ubuntu;debian;native",
+    "Torrent_address": "cpux_5.3.1_arm64.deb.torrent",
+    "Update": "2025-07-06 22:30:16",
+    "Version": "5.3.1",
+    "Website": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cpux/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_3.png\"]"
+}
+
+,
+{
     "Author": "shenmo <ouyangyunrui@uniontech.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "com.github.gerryfredinandus.bittorrent-tracker-editor_1.33.0.beta.6_arm64.deb",
@@ -2069,24 +2087,6 @@
     "Website": "https://gitee.com/amber-ce/amber-ce-sid/",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-sid/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-sid/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "spark-store",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "cpux_5.3.1_arm64.deb",
-    "More": "CPU-X是一款免费软件，可收集有关CPU，主板等的信息。\nCPU-X是一个系统分析和监控应用程序（类似于Windows的CPU-Z），但CPU-X是一个为GNU/Linux和FreeBSD设计的免费开源软件。\n该软件是用C编写的，并使用CMake工具构建。\n它可以使用 GTK 在图形模式下使用，也可以使用 NCurses 在基于文本的模式下使用。命令行中存在转储模式。",
-    "Name": "CPU-X",
-    "Pkgname": "cpux",
-    "Size": "21 Mb",
-    "Tags": "ubuntu;debian;native",
-    "Torrent_address": "cpux_5.3.1_arm64.deb.torrent",
-    "Update": "2025-07-06 22:30:16",
-    "Version": "5.3.1",
-    "Website": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cpux/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_3.png\"]"
 }
 
 ]

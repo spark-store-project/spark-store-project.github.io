@@ -3952,27 +3952,6 @@ Description: manage your applications.
 
 Package: spark-store-console
 Architecture: all
-Version: 4.8.0-console1
-Priority: optional
-Section: utils
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 656
-Provides: spark-store, aptss
-Depends: wget,aria2, zenity, policykit-1 | pkexec | polkit-1 | polkit, libnotify-bin, python3, desktop-file-utils,curl,sudo,lsb-release,gnupg
-Conflicts: spark-store, aptss
-Replaces: spark-store, aptss
-Filename: ./tools/spark-store-console/spark-store-console_4.8.0-console1_all.deb
-Size: 148772
-MD5sum: ed427c554c76de60b2066961211be5be
-SHA1: bd8c9a075e8b97262277a2176862adf39c70cd88
-SHA256: b036ed1c823e6b0683582e65271b3e0dc35fbaaa357c9f30aebb2c407d132af5
-SHA512: 627ced2d5314a7397d0fbadf5ebf4e1fa6b1befb757ee47f21e61a1d3dc0d3592b0831c34af1a90c35780d333ebb2b349582b5f538708a70b7e842e41f6c72a2
-Homepage: https://www.spark-app.store/
-Description: Spark Store
- A community powered app store, based on DTK.
-
-Package: spark-store-console
-Architecture: all
 Version: 4.8.0-console1-patch1
 Priority: optional
 Section: utils
@@ -7392,6 +7371,23 @@ Description: <编程教室> <人工智能编程教学平台>
 
 Package: com.51ifind
 Architecture: loong64
+Version: 1.10.12.394.001
+Priority: optional
+Section: utils
+Maintainer: shenjianwei <shenjianwei@myhexin.com>
+Installed-Size: 718876
+Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: ./others/com.51ifind/com.51ifind_1.10.12.394.001_loong64.deb
+Size: 159222918
+MD5sum: c80c235feb77f5493edcb89f9c738c2e
+SHA1: e1edbadb4736e54149753a8e72619fc1efa42581
+SHA256: 22cc359ce246283cb719afe806999eb9807666185be697eb51a7afce55ceb7bc
+SHA512: 0c93a96223327820449344f9265bbdb7e5a03026db79a3a7c8596b8c84c11aad40a46525d4a8e7d8d27717a2371918aa759b21043da863194dd0d6134f24e936
+Homepage: http://www.51ifind.com
+Description: a market leading financial data terminal
+
+Package: com.51ifind
+Architecture: loong64
 Version: 1.10.12.393.001
 Priority: optional
 Section: utils
@@ -7742,6 +7738,22 @@ Description: include an open-source Chinese GB2312 font "Smiley Sans" (得意黑
 
 Package: com.wind.wft
 Architecture: loong64
+Version: 25.1.4.07030
+Priority: optional
+Section: utils
+Maintainer: service@wind.com.cn
+Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: ./others/com.wind.wft/com.wind.wft_25.1.4.07030_loong64.deb
+Size: 327019370
+MD5sum: 029bd03ae48db6ccc29c1bd8c67b20db
+SHA1: 93b7cea9b8d091c97dacf906557164a81a73d42e
+SHA256: d76c0c4c82be3525ad760437b3c1d2a81c3cb984b333bf3504d19c77451ec469
+SHA512: f048eb992b94fd73d7b19880a45b3c5be206b70d9f3613f6fe13247e67e55fca02e2b8ba991effe6a699b2d099b57389ec22621fd7ee2832f7d130aa0243acc7
+Homepage: http://www.wind.com.cn
+Description: Wind-领先的金融数据和分析工具服务商
+
+Package: com.wind.wft
+Architecture: loong64
 Version: 25.1.3.06171
 Priority: optional
 Section: utils
@@ -7814,27 +7826,6 @@ SHA256: 6877cf8fad46504d1e4b089bbc38f115595e8e9ff4401df789d794a36afb5a69
 SHA512: d899612abda5d5a64d7bdda11a76f55bff70bdaf84a723a57b8fa3ea0b6f6576629eb4274b0f302cf186ffb5214a9627bf9e7a7be387d09db26f58e88693382b
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
-
-Package: arise-linux-graphics-driver-dri
-Architecture: loong64
-Version: 25.00.32
-Multi-Arch: same
-Priority: optional
-Section: restricted/misc
-Maintainer: Glenfly Tech Co., Ltd.
-Installed-Size: 67332
-Pre-Depends: libgl1-mesa-glx | libglx-mesa0, dkms (>= 1.95), libgbm1, libglvnd0, libwayland-client0, libwayland-server0, libwayland-egl1, liblol,liblol-dkms
-Depends: libc6(>=2.14),libdrm2(>=2.3.1),libx11-6(>=2:1.4.99.1),libx11-xcb1,libxcb-dri2-0(>=1.8),libxcb-dri3-0,libxcb-glx0(>=1.8),libxcb-present0,libxcb-sync1,libxcb1(>=1.9.2),libxdamage1(>=1:1.1),libxext6,libxfixes3,libxshmfence1,libxcb-randr0,libxcb-render0,libxcb-shape0,libxcb-xfixes0, deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
-Conflicts: gf-arise-linux-graphics-driver-dri
-Replaces: gf-arise-linux-graphics-driver-dri
-Filename: ./others/arise-linux-graphics-driver-dri/arise-linux-graphics-driver-dri_25.00.32_loong64.deb
-Size: 13881578
-MD5sum: 1125b53afa6ff1183291f7ec812f3c1e
-SHA1: f873c62347ec8a1fc67f9f748533a3afaf0f2c64
-SHA256: bb8abb85d4941737d627923968f0e0aef0b21acd1c7a5fee92ec04ca0115e166
-SHA512: 33e23ea866be515a9562f39be6f4edf05ee703a9ca76ef44368e57dd9e7522aea750c799d9ead415cf0ee3114fd53abafdaf10b2275098f008b29d8ac0693cde
-Homepage: https://www.glenfly.com
-Description: Glenfly Tech Co., Ltd. Graphics drivers
 
 Package: arise-linux-graphics-driver-dri
 Architecture: loong64

@@ -827,23 +827,6 @@
 
 ,
 {
-  "Name": "lightworks",
-  "Version": "2021.2",
-  "Filename": "lightworks_2021.2_amd64.deb",
-  "Pkgname": "lightworks",
-  "Author": "LWKS Software Ltd.",
-  "Contributor": "安洛",
-  "Website": "https://www.lwks.com/",
-  "Update": "2021-06-16 22:54:22",
-  "Size": "69.61 MB",
-  "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。现版本已内置中文，可在设置中切换。",
-  "Tags": "ubuntu",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/9a4f9760-ceb2-11eb-8e42-478bd3bfb991.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/87aaf280-ceb2-11eb-8e42-478bd3bfb991.png"
-}
-
-,
-{
   "Name": "Simple Live",
   "Version": "1.7.3+10703.1",
   "Filename": "simple-live_1.7.3_plus10703.1_amd64.deb",
@@ -858,6 +841,23 @@
   "Tags": "community;debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/09/13/81ccf63087c54fadb855a017fddcba20.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/09/13/28fed83d448148d68677cb6455ab61be.png"
+}
+
+,
+{
+  "Name": "lightworks",
+  "Version": "2021.2",
+  "Filename": "lightworks_2021.2_amd64.deb",
+  "Pkgname": "lightworks",
+  "Author": "LWKS Software Ltd.",
+  "Contributor": "安洛",
+  "Website": "https://www.lwks.com/",
+  "Update": "2021-06-16 22:54:22",
+  "Size": "69.61 MB",
+  "More": "Lightworks 是一套剪辑 2K/4K 电影和 PAL/NTSC、标清以及高清电视的专业非线性编辑系统。现版本已内置中文，可在设置中切换。",
+  "Tags": "ubuntu",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/16/9a4f9760-ceb2-11eb-8e42-478bd3bfb991.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/16/87aaf280-ceb2-11eb-8e42-478bd3bfb991.png"
 }
 
 ,
@@ -1084,6 +1084,20 @@
 
 ,
 {
+    "Name": "zyfun[ZyPlayer]",
+    "Author": "zyfun team",
+    "Website": "https://github.com/Hiram-Wong/ZyPlayer",
+    "More": "跨平台桌面端视频资源播放器,免费高颜值\nzyfun[zyplayer]是一款免费易用且打造的全功能媒体播放器。它基于electron-Vite框架, 结合TDesign组件库和vue3全家桶, 致力于提供流畅、高效的跨平台娱乐体验。\n\n    名称说明 zyfun[新名称 >=3.3.8] zyplayer[老名称 <=3.3.7]",
+    "Tags": "community;debian;deepin;ubuntu",
+    "Pkgname": "zyfun",
+    "Version": "3.4.0",
+    "Filename": "zyfun_3.4.0_amd64.deb",
+    "Update": "2025-05-30 01:45:00",
+    "Size": "93.34MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "UniFab 视频格式转换器",
   "Version": "2.0.2.4",
   "Filename": "com.unifab.deepin_2.0.2.4_all.deb",
@@ -1100,20 +1114,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/16/9fdddfe3da13416fac4ce6d5da3b2bb0.png"
 }
 
-,
-{
-    "Name": "zyfun[ZyPlayer]",
-    "Author": "zyfun team",
-    "Website": "https://github.com/Hiram-Wong/ZyPlayer",
-    "More": "跨平台桌面端视频资源播放器,免费高颜值\nzyfun[zyplayer]是一款免费易用且打造的全功能媒体播放器。它基于electron-Vite框架, 结合TDesign组件库和vue3全家桶, 致力于提供流畅、高效的跨平台娱乐体验。\n\n    名称说明 zyfun[新名称 >=3.3.8] zyplayer[老名称 <=3.3.7]",
-    "Tags": "community;debian;deepin;ubuntu",
-    "Pkgname": "zyfun",
-    "Version": "3.4.0",
-    "Filename": "zyfun_3.4.0_amd64.deb",
-    "Update": "2025-05-30 01:45:00",
-    "Size": "93.34MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "GridPlayer",
@@ -1309,6 +1309,24 @@
 }
 ,
 {
+  "Name": "Windows Media Player 11.0怀旧回忆",
+  "Version": "11.0.5721",
+  "Filename": "com.wmp11zh.deepin_11.0.5721_amd64.deb",
+  "Torrent_address": "com.wmp11zh.deepin_11.0.5721_amd64.deb.torrent",
+  "Pkgname": "com.wmp11zh.deepin",
+  "Author": "ieusr<ieusr@qq.com>",
+  "Contributor": "ieusr<ieusr@qq.com>",
+  "Website": "https://www.microsoft.com/zh-cn/",
+  "Update": "2024-11-10 12:50:17",
+  "Size": "24.1 MB",
+  "More": "注意,不要切换皮肤,否则卡死,只能重装,保持默认皮肤即可,切记,切记.",
+  "Tags": "community;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/39783720d1df454ebca009ede7db3d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/2d4f907f98fb44c7b368fb73874e16ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/2870e9d8b5294ebd99ea2fcd2ea2b1ef.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/10/c8d13f785ac84e1380ddb7aff4189a3b.png"
+}
+
+,
+{
   "Name": "mediaChips",
   "Version": "0.11.2spark0",
   "Filename": "app.mediachips.spark_0.11.2spark0_amd64.deb",
@@ -1340,24 +1358,6 @@
   "Tags": "deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/13/1665e046051e4931aa556d63e3b361c9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/13/1caf0ef0a782406bb64dbfa6c67b58cc.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/13/1efe9ac638174015940c2f3e0a7530cc.png"
-}
-
-,
-{
-  "Name": "Windows Media Player 11.0怀旧回忆",
-  "Version": "11.0.5721",
-  "Filename": "com.wmp11zh.deepin_11.0.5721_amd64.deb",
-  "Torrent_address": "com.wmp11zh.deepin_11.0.5721_amd64.deb.torrent",
-  "Pkgname": "com.wmp11zh.deepin",
-  "Author": "ieusr<ieusr@qq.com>",
-  "Contributor": "ieusr<ieusr@qq.com>",
-  "Website": "https://www.microsoft.com/zh-cn/",
-  "Update": "2024-11-10 12:50:17",
-  "Size": "24.1 MB",
-  "More": "注意,不要切换皮肤,否则卡死,只能重装,保持默认皮肤即可,切记,切记.",
-  "Tags": "community;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/39783720d1df454ebca009ede7db3d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/2d4f907f98fb44c7b368fb73874e16ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/2870e9d8b5294ebd99ea2fcd2ea2b1ef.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/10/c8d13f785ac84e1380ddb7aff4189a3b.png"
 }
 
 ,
