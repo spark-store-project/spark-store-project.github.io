@@ -5709,24 +5709,6 @@ SHA512: 2b06221aa0fd59e4cbce63a92674e55a64f97853d54e5172f5029cf151eef322a26dee03
 Homepage: https://gitee.com/GXDE-OS/gxde-25-upgrader
 Description: GXDE OS 15 to 25 Upgrader
 
-Package: gxde-25-upgrader
-Architecture: all
-Version: 1.1.5
-Multi-Arch: foreign
-Priority: optional
-Section: unknown
-Maintainer: shenmo <shenmo@spark-app.store>
-Installed-Size: 1206
-Depends: zenity, garma, spark-store | spark-store-console | aptss, sudo, bash, gxde-terminal
-Filename: ./tools/gxde-25-upgrader/gxde-25-upgrader_1.1.5_all.deb
-Size: 1217032
-MD5sum: 6c8b167d4884a9ab12f61fa54d979a0c
-SHA1: 4b417692e1a802e5dbb182e4f6eb98c93b0fec30
-SHA256: 87a578770d0fcc7d22af1a3384854e70d3d08d9d1d00162aa930016f9e0f94a3
-SHA512: 5cd1d8db837c4ebed7dbede71fb3d57975a973331348f1cc95931b35edc45c3121e8805ef0095fb119c51b7ab3e34d336d8e2c788cd2b138deb8f4fa5645cb9b
-Homepage: https://gitee.com/GXDE-OS/gxde-25-upgrader
-Description: GXDE OS 15 to 25 Upgrader
-
 Package: linux-wifi-hotspot
 Architecture: amd64
 Version: 4.7.2
@@ -19705,23 +19687,6 @@ SHA512: 4f5dc63d0a942a006e4ddd39f167626b38864b8473c69d990294507e894c4052bcaf8949
 Homepage: http://www.51ifind.com
 Description: a market leading financial data terminal
 
-Package: com.51ifind
-Architecture: amd64
-Version: 1.10.12.393.001
-Priority: optional
-Section: utils
-Maintainer: shenjianwei <shenjianwei@myhexin.com>
-Installed-Size: 1493272
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: ./others/com.51ifind/com.51ifind_1.10.12.393.001_amd64.deb
-Size: 177628482
-MD5sum: ffc50bbb0b1b3de67cc6cf5238938572
-SHA1: abbb3584d787799287171cca3c1039493a0d2060
-SHA256: 1d2136b0a2dbb3e5520e1c03566116b1e1ce074a21699f3e6f131e5e63171eca
-SHA512: a58bf687e9d808d303346008492c38363851d1a3c67c305f29e7d6a8e50264ad36f652f2a2ca1468a378f5b3273c9ff52900e343cc4c260e7c768cc1cfde2982
-Homepage: http://www.51ifind.com
-Description: a market leading financial data terminal
-
 Package: fah-client
 Architecture: amd64
 Version: 8.3.18
@@ -20233,22 +20198,6 @@ MD5sum: 48a10cb0e19faef685107e45ff5a1577
 SHA1: 6306ddcb1966a1458b534dde46902573daadc957
 SHA256: b263d14d3ab4568a04063ba0259f8a8b9afc262551d30549fada25dc6c34e518
 SHA512: 8249c7353712b23cd2057a622dc25f26ce9d6ff922eca09648df9c72d32dd80af8829f31b265fc9dcabe9aff8ef5e61a8b05c81c6821980aa6853dfa981028d7
-Homepage: http://www.wind.com.cn
-Description: Wind-领先的金融数据和分析工具服务商
-
-Package: com.wind.wft
-Architecture: amd64
-Version: 25.1.2.05281
-Priority: optional
-Section: utils
-Maintainer: service@wind.com.cn
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: ./others/com.wind.wft/com.wind.wft_25.1.2.05281_amd64.deb
-Size: 335372170
-MD5sum: 2a022740776651de6ee7ee6e76992f07
-SHA1: 3c40b12e79cda4f1ca9533a34dad185ebffde007
-SHA256: 9bedade0df9e46a7a45fa5d6dfaa54910693e177e5ffb7e540519bc957941699
-SHA512: fcbdd3d3fe56a715ceb541f96e51e7d13d99c6d4c9322d00677f94195a501bb9cfb38dfbcddd5e687141386e1c43350a7fc0fae5372fb80ac203fd1a55f194e9
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
 
@@ -33826,23 +33775,6 @@ Description: Flash大厅
 
 Package: com.ceis.app
 Architecture: amd64
-Version: 2.3.58
-Priority: optional
-Section: Office
-Maintainer: 中国经济信息社有限公司 <xinhuacaijing@xinhua.org>
-Installed-Size: 444483
-Depends: deepin-elf-verify (>= 1.1.10-1)
-Filename: ./network/com.ceis.app/com.ceis.app_2.3.58_amd64.deb
-Size: 66081346
-MD5sum: 2607c940e99b822fd521baccfae6c35c
-SHA1: a350fd6d7e9ac696bfc08b3df7bb3c58e2613d9b
-SHA256: 465fad522ae9606a28b309f5449dedf8e893247c99418f91ecc5b53da4c2567a
-SHA512: 79ba5ca42f55fb7cb7643b1bd023162aa646220f283d9dc04580fc846b1a834315d6787600340ee02645ced15c84edbf336cba548b7475d26f661a6979568c46
-Homepage: x.cnfic.com.cn
-Description: 中经社新华财经终端
-
-Package: com.ceis.app
-Architecture: amd64
 Version: 2.3.81
 Priority: optional
 Section: Office
@@ -35594,11 +35526,11 @@ Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox,firefox-spark(<=117.0)
 Filename: ./network/firefox-spark/firefox-spark_140.0.4_amd64.deb
-Size: 77721960
-MD5sum: 20ff67d946cbe4826fac1fa057168112
-SHA1: 123192563b081d6f4b98345e8d381b39870ec874
-SHA256: b3350e4b622e4bbb06b7223926278f6ac0d0805645aaf4dcedfa63f364598693
-SHA512: 058c758994788726dd4db6bfa28d69bed51d978ba6062ff7a88b69d520204b16c985bffc66c89382145cabc15fcda8412336d0ccea85715516602db1f4d6c67e
+Size: 77721576
+MD5sum: be500110c57649661b176413938ff429
+SHA1: ddc8b3f3701b207fe83882e9fe5e1a6bcd760bac
+SHA256: d756d4ba60311f8a978c8a534b282439edc1ac05135c4c5704dc868ed1a6c0d4
+SHA512: 317d8892e72bde9c3c81cd081fed86867124aafd6e5a2259ae18ae7320c06e5eb403953d45e21c447cddd464625b15ecefee181064e5efd14cd2aa86db736048
 Homepage: https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -40842,22 +40774,22 @@ Description: store.spark-app.feedback
 
 Package: thunderbird.spark
 Architecture: amd64
-Version: 140.0
+Version: 140.0.1
 Priority: optional
 Section: web
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 214784
-Provides: thunderbird(=140.0)
+Provides: thunderbird(=140.0.1)
 Depends: libdbus-glib-1-2,zenity
 Recommends: birdtray
 Conflicts: thunderbird
-Replaces: thunderbird(=140.0)
-Filename: ./chat/thunderbird.spark/thunderbird.spark_140.0_amd64.deb
-Size: 76108404
-MD5sum: 1c54e460ca9b517152c8b889b82afdd7
-SHA1: 2760638bcd1b51e762171a8df14ba0f9d8dae70a
-SHA256: b046dde1c8c9a216ccb9abbb6bdb2ae6c9331b29608086eff863767175abc21d
-SHA512: 7d0676cc6fe82a82780bc873b0a08aa441b49a7ace08ba958296740b09d8998afc42571e4c31797165d41dddb4d49925c778f5c73b53b1fcfc8ea8c5c01b3297
+Replaces: thunderbird(=140.0.1)
+Filename: ./chat/thunderbird.spark/thunderbird.spark_140.0.1_amd64.deb
+Size: 76116916
+MD5sum: 9033a04296835f98ca282e16d624daa3
+SHA1: 5ffaa762e669e8fba8c1439d99d5660a9da7f47d
+SHA256: 660fbf7bb5427c2d08e61a7b50e41668711164d78959867c7c3a6b6b2df22714
+SHA512: bb6382907aded653d015ab500013d2e6b4495c103be6151716f5d67e64e0c84f17a5f15a44955aa188d39a3586983a7d110a282142a85ada19a64192c89ce860
 Homepage: https://www.thunderbird.net
 Description: Thunderbird是Mozilla开发的一款流行的跨平台邮件客户端
 

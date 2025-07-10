@@ -1425,24 +1425,6 @@
 
 ,
 {
-  "Name": "chat2db",
-  "Version": "2.1.0",
-  "Filename": "com.github.chat2db_2.1.0_amd64.deb",
-  "Torrent_address": "com.github.chat2db_2.1.0_amd64.deb.torrent",
-  "Pkgname": "com.github.chat2db",
-  "Author": "spark-store",
-  "Contributor": "GershonWang <986432015@qq.com>",
-  "Website": "https://chat2db.ai/",
-  "Update": "2023-09-18 15:07:08",
-  "Size": "172.99 MB",
-  "More": "Chat2DB一款开源免费的多数据库客户端工具，支持windows、mac本地安装，也支持服务器端部署，web网页访问。 和传统的数据库客户端软件Navicat、DBeaver 相比Chat2DB集成了AIGC的能力，能够将自然语言转换为SQL， 也可以将SQL转换为自然语言，可以给出研发人员SQL的优化建议，极大的提升人员的效率，是AI时代数据库研发人员的利器， 不懂SQL的运营或业务也可以轻松使用快速查询业务数据、生成报表的能力。",
-  "Tags": "community;deepin;uos;a2d;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/9a6ff8bfd6914b0f9962337309a3e9c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c39c01e2b9f4462c8ef40fc97c4687d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c447562a52a6482b9789fc043d3297ef.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/18/71343774701d43c9ba0c5540c0195970.png"
-}
-
-,
-{
   "Name": "CCompare",
   "Version": "1.16.1.0",
   "Filename": "cn.itdp.ccompare_1.16.1.0_amd64.deb",
@@ -1457,6 +1439,24 @@
   "Tags": "community;ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/28/825831840baa429698c182b53c9937af.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/28/2288b23228ad461c928ab3e3f119c7b7.png"
+}
+
+,
+{
+  "Name": "chat2db",
+  "Version": "2.1.0",
+  "Filename": "com.github.chat2db_2.1.0_amd64.deb",
+  "Torrent_address": "com.github.chat2db_2.1.0_amd64.deb.torrent",
+  "Pkgname": "com.github.chat2db",
+  "Author": "spark-store",
+  "Contributor": "GershonWang <986432015@qq.com>",
+  "Website": "https://chat2db.ai/",
+  "Update": "2023-09-18 15:07:08",
+  "Size": "172.99 MB",
+  "More": "Chat2DB一款开源免费的多数据库客户端工具，支持windows、mac本地安装，也支持服务器端部署，web网页访问。 和传统的数据库客户端软件Navicat、DBeaver 相比Chat2DB集成了AIGC的能力，能够将自然语言转换为SQL， 也可以将SQL转换为自然语言，可以给出研发人员SQL的优化建议，极大的提升人员的效率，是AI时代数据库研发人员的利器， 不懂SQL的运营或业务也可以轻松使用快速查询业务数据、生成报表的能力。",
+  "Tags": "community;deepin;uos;a2d;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/9a6ff8bfd6914b0f9962337309a3e9c2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c39c01e2b9f4462c8ef40fc97c4687d8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/18/c447562a52a6482b9789fc043d3297ef.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/18/71343774701d43c9ba0c5540c0195970.png"
 }
 
 ,
@@ -1635,6 +1635,23 @@
 
 ,
 {
+    "Name": "VOFA+",
+    "Version": "4.1.7",
+    "Filename": "vofa_plus_4.1.7_amd64.deb",
+    "Torrent_address": "vofa_plus_4.1.7_amd64.deb.torrent",
+    "Pkgname": "vofa+",
+    "Author": "je00 <zjt@gutega.com>",
+    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Website": "https://www.vofa.plus/",
+    "Update": "2025-04-01 23:19:13",
+    "Size": "20.24 MB",
+    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。\n\n更新记录：\n- 1.4.2-1\n  * 【全平台】修复Logo区域窗口拖拽失效问题无 \n  * 【Windows】【多屏适配】拖入副屏，出现多余标题栏问题修复  \n  * 【Windows】【多屏适配】拖入副屏，软件无法拖动问题修复\n- 1.4.1  \n  * 控件拖入加入网格吸附，支持响应式布局\n  * 适配了系统原生窗体响应\n  * 适配了系统屏幕缩放\n  * 清除数据后，通道名称不会丢失\n  * 修复TCP Server闪退问题\n  * 优化控件体验\n  * 优化英文翻译",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/cea72549fea74dd791ee5c87374c096d.png\",\"https://spk-json.spark-app.store/images/2025/04/01/590d8899815549519def60c5b2ff4467.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/9b669740f6b8498fa489903ff53e03cd.png"
+}
+,
+{
   "Name": "Scratch 1.4",
   "Version": "1.4.0.6~dfsg1-6",
   "Filename": "scratch_1.4.0.6~dfsg1-6_all.deb",
@@ -1651,23 +1668,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/29/f12da169cb654dd78dad72fda224fc12.png"
 }
 
-,
-{
-    "Name": "VOFA+",
-    "Version": "4.1.7",
-    "Filename": "vofa_plus_4.1.7_amd64.deb",
-    "Torrent_address": "vofa_plus_4.1.7_amd64.deb.torrent",
-    "Pkgname": "vofa+",
-    "Author": "je00 <zjt@gutega.com>",
-    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Website": "https://www.vofa.plus/",
-    "Update": "2025-04-01 23:19:13",
-    "Size": "20.24 MB",
-    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。\n\n更新记录：\n- 1.4.2-1\n  * 【全平台】修复Logo区域窗口拖拽失效问题无 \n  * 【Windows】【多屏适配】拖入副屏，出现多余标题栏问题修复  \n  * 【Windows】【多屏适配】拖入副屏，软件无法拖动问题修复\n- 1.4.1  \n  * 控件拖入加入网格吸附，支持响应式布局\n  * 适配了系统原生窗体响应\n  * 适配了系统屏幕缩放\n  * 清除数据后，通道名称不会丢失\n  * 修复TCP Server闪退问题\n  * 优化控件体验\n  * 优化英文翻译",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/cea72549fea74dd791ee5c87374c096d.png\",\"https://spk-json.spark-app.store/images/2025/04/01/590d8899815549519def60c5b2ff4467.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/9b669740f6b8498fa489903ff53e03cd.png"
-}
 ,
 {
   "Name": "Liberica JDK 17 Full",
@@ -2040,6 +2040,23 @@
 
 ,
 {
+    "Name": "嘉立创EDA专业版",
+    "Version": "2.2.36.7-1",
+    "Filename": "lceda-pro_2.2.36.7-1_amd64.deb",
+    "Torrent_address": "lceda-pro_2.2.36.7-1_amd64.deb.torrent",
+    "Pkgname": "lceda-pro",
+    "Author": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Website": "https://lceda.cn/",
+    "Update": "2025-02-27 11:18:00",
+    "Size": "209.55 MB",
+    "More": "嘉立创EDA是一款友好易用的，强大的EDA(Electronics Design Automation: 电子设计自动化)工具，起于2010年，现属于嘉立创旗下的一个重要部门。 嘉立创EDA服务于广大电子工程师、教育者、学生、爱好者和电子设计企业。致力于中小电路（1万Pin左右）的原理图、电路图绘制，仿真，PCB设计及制造一站式体验。\n嘉立创EDA具有以下特点：\n轻量级：嘉立创EDA可以不需要安装任何软件或插件。只需打开浏览器即可使用，也可以下载客户端支持离线使用。浏览器推荐谷歌浏览器，Edge浏览器和火狐浏览器。\n高性能：在浏览器也可以实现传统主流EDA工具相同的运行效率与速度。部分性能甚至更优。\n多年积累：嘉立创EDA是知名在线EDA软件EasyEDA的国内版本，嘉立创EDA专注国内用户，EasyEDA专注国外用户\n跨平台：无论你使用的是Linux, Mac, Windows，在何处使用，访问地址：https://pro.lceda.cn/editor\n自主可控：完全由中国人独立开发，拥有独立自主知识产权。\n良好支持：国内用户提供友好的社区支持。社区请访问：https://www.jlc-bbs.com/eda\n更新迅速：积极响应用户需求，快速更新，满足用户不同需求。\n特色功能：具有创新的特色功能，更符合国人使用习惯，提升作业效率。",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/95938608613d4d678e155151a6157928.png\",\"https://spk-json.spark-app.store/images/2025/02/27/722dd3df5de84052925f31e2398d777e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/f9d8288bdee34146a4b787827ccf5da9.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/fb346eeda86c475cb302325543d9d8ff.png"
+}
+,
+{
   "Name": "Adobe Flash Builder 4.2",
   "Version": "4.6deepin1",
   "Filename": "com.adobe.flashbuilder.spark_4.6deepin1_i386.deb",
@@ -2056,23 +2073,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/07/67e947a5dfc0414e96ba9225a26a371b.png"
 }
 
-,
-{
-    "Name": "嘉立创EDA专业版",
-    "Version": "2.2.36.7-1",
-    "Filename": "lceda-pro_2.2.36.7-1_amd64.deb",
-    "Torrent_address": "lceda-pro_2.2.36.7-1_amd64.deb.torrent",
-    "Pkgname": "lceda-pro",
-    "Author": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Website": "https://lceda.cn/",
-    "Update": "2025-02-27 11:18:00",
-    "Size": "209.55 MB",
-    "More": "嘉立创EDA是一款友好易用的，强大的EDA(Electronics Design Automation: 电子设计自动化)工具，起于2010年，现属于嘉立创旗下的一个重要部门。 嘉立创EDA服务于广大电子工程师、教育者、学生、爱好者和电子设计企业。致力于中小电路（1万Pin左右）的原理图、电路图绘制，仿真，PCB设计及制造一站式体验。\n嘉立创EDA具有以下特点：\n轻量级：嘉立创EDA可以不需要安装任何软件或插件。只需打开浏览器即可使用，也可以下载客户端支持离线使用。浏览器推荐谷歌浏览器，Edge浏览器和火狐浏览器。\n高性能：在浏览器也可以实现传统主流EDA工具相同的运行效率与速度。部分性能甚至更优。\n多年积累：嘉立创EDA是知名在线EDA软件EasyEDA的国内版本，嘉立创EDA专注国内用户，EasyEDA专注国外用户\n跨平台：无论你使用的是Linux, Mac, Windows，在何处使用，访问地址：https://pro.lceda.cn/editor\n自主可控：完全由中国人独立开发，拥有独立自主知识产权。\n良好支持：国内用户提供友好的社区支持。社区请访问：https://www.jlc-bbs.com/eda\n更新迅速：积极响应用户需求，快速更新，满足用户不同需求。\n特色功能：具有创新的特色功能，更符合国人使用习惯，提升作业效率。",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/95938608613d4d678e155151a6157928.png\",\"https://spk-json.spark-app.store/images/2025/02/27/722dd3df5de84052925f31e2398d777e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/f9d8288bdee34146a4b787827ccf5da9.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/fb346eeda86c475cb302325543d9d8ff.png"
-}
 ,
 {
   "Name": "服务监控助手",
@@ -2865,6 +2865,23 @@
 }
 ,
 {
+    "Name": "儿童编程Scratch3",
+    "Version": "1.0.0",
+    "Filename": "scratch-webkit_1.0.0_amd64.deb",
+    "Torrent_address": "scratch-webkit_1.0.0_amd64.deb.torrent",
+    "Pkgname": "scratch-webkit",
+    "Author": "fu huizhong<fuhuizn@163.com>",
+    "Contributor": "fu huizhong<fuhuizn@163.com>",
+    "Website": "https://gitee.com/rocket049/",
+    "Update": "2025-06-28 19:47:09",
+    "Size": "98.2 MB",
+    "More": "用WebKitGtk-6.0打包的儿童编程软件scratch-gui v5.1.82",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/28/08726b846d014ab0a9c209bd53f04f0d.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/28/421d7c3b11b541a690936ebf898f1330.png"
+}
+,
+{
   "Name": "Clion(过渡包)",
   "Version": "2022.2.4",
   "Filename": "com.jetbrains.clion_2022.2.4_all.deb",
@@ -2897,23 +2914,6 @@
     "Tags": "debian;ubuntu;a2d",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/02/4317f567643e41e2906c1629608aaa5c.png\",\"https://spk-json.spark-app.store/images/2025/06/02/2eed952385b34d269c66f099c7e1b113.png\",\"https://spk-json.spark-app.store/images/2025/06/02/0a808d763d8f406fb0e8a419b973fbb7.png\",\"https://spk-json.spark-app.store/images/2025/06/02/7f86bd3662744ae5b8d35ae6fecb467b.png\",\"https://spk-json.spark-app.store/images/2025/06/02/15e310038d4944c790943029dc75dbaf.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/06/02/cb71bdbcaea74022aeb02ed872731837.png"
-}
-,
-{
-    "Name": "儿童编程Scratch3",
-    "Version": "1.0.0",
-    "Filename": "scratch-webkit_1.0.0_amd64.deb",
-    "Torrent_address": "scratch-webkit_1.0.0_amd64.deb.torrent",
-    "Pkgname": "scratch-webkit",
-    "Author": "fu huizhong<fuhuizn@163.com>",
-    "Contributor": "fu huizhong<fuhuizn@163.com>",
-    "Website": "https://gitee.com/rocket049/",
-    "Update": "2025-06-28 19:47:09",
-    "Size": "98.2 MB",
-    "More": "用WebKitGtk-6.0打包的儿童编程软件scratch-gui v5.1.82",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/28/08726b846d014ab0a9c209bd53f04f0d.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/28/421d7c3b11b541a690936ebf898f1330.png"
 }
 ,
 {

@@ -1374,24 +1374,6 @@
 
 ,
 {
-  "Name": "DDE Top Panel 顶栏程序",
-  "Version": "0.6.8",
-  "Filename": "dde-top-panel_0.6.8_amd64.deb",
-  "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
-  "Pkgname": "dde-top-panel",
-  "Author": "SeptemberHX",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "https://github.com/SeptemberHX/dde-top-panel",
-  "Update": "2023-02-12 12:59:59",
-  "Size": "7.84 MB",
-  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
-  "Tags": "community;deepin;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
-}
-
-,
-{
     "Author": "shenmo <jifengshenmo@outlook.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "gxde-app-uninstaller_1.5.1_all.deb",
@@ -1424,6 +1406,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/05/12cb91cf76e640e0be0f8867a0fcffa5.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/05/bdf414cde19e4b94a64da8af11fa69ba.png"
+}
+
+,
+{
+  "Name": "DDE Top Panel 顶栏程序",
+  "Version": "0.6.8",
+  "Filename": "dde-top-panel_0.6.8_amd64.deb",
+  "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
+  "Pkgname": "dde-top-panel",
+  "Author": "SeptemberHX",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "https://github.com/SeptemberHX/dde-top-panel",
+  "Update": "2023-02-12 12:59:59",
+  "Size": "7.84 MB",
+  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+  "Tags": "community;deepin;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
 }
 
 ,
@@ -1568,6 +1568,24 @@
 
 ,
 {
+    "Name": "深度求索（DeepSeek）",
+    "Version": "1.0.0",
+    "Filename": "chat.deepseek.com_1.0.0_all.deb",
+    "Torrent_address": "chat.deepseek.com_1.0.0_all.deb.torrent",
+    "Pkgname": "chat.deepseek.com",
+    "Author": "onehub",
+    "Contributor": "onehub",
+    "Website": "https://bbs.spark-app.store/u/onehub",
+    "Update": "2025-03-21 10:51:13",
+    "Size": "5.68 KB",
+    "More": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/5c842ca5f9674baa8197ddbc1c88f864.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/21/53ed473e05cd4570803de026e1895fc8.png"
+}
+
+,
+{
   "Name": "Macast",
   "Version": "0.7",
   "Filename": "macast_0.7_amd64.deb",
@@ -1599,24 +1617,6 @@
   "Tags": "deepin;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1ecc550-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e1d63010-99d0-11eb-a1c7-3d36672ee7aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/10/e2033380-99d0-11eb-a1c7-3d36672ee7aa.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/10/a9dde130-99d0-11eb-a1c7-3d36672ee7aa.svg"
-}
-
-,
-{
-    "Name": "深度求索（DeepSeek）",
-    "Version": "1.0.0",
-    "Filename": "chat.deepseek.com_1.0.0_all.deb",
-    "Torrent_address": "chat.deepseek.com_1.0.0_all.deb.torrent",
-    "Pkgname": "chat.deepseek.com",
-    "Author": "onehub",
-    "Contributor": "onehub",
-    "Website": "https://bbs.spark-app.store/u/onehub",
-    "Update": "2025-03-21 10:51:13",
-    "Size": "5.68 KB",
-    "More": "深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/5c842ca5f9674baa8197ddbc1c88f864.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/21/53ed473e05cd4570803de026e1895fc8.png"
 }
 
 ,
@@ -1956,24 +1956,6 @@
 
 ,
 {
-  "Name": "QGIS(书虫版)",
-  "Version": "3.32.1-fix1-cursor",
-  "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
-  "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
-  "Pkgname": "org.qgis.qgis",
-  "Author": "shenmo<ouyangyunrui@uniontech.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "https://qgis.org/",
-  "Update": "2023-08-20 16:04:58",
-  "Size": "622.3 MB",
-  "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
-  "Tags": "community;ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
-}
-
-,
-{
   "Name": "VirtualBox 7.1（GXDE/Debian12）",
   "Version": "7.1.8-168469~Debian~bookworm",
   "Filename": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb",
@@ -1988,6 +1970,24 @@
   "Tags": "debian;ubuntu;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/22/bdf8fc4bc66a43f6ba6b082164baf87d.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5b1afb0b9d2e4011bbd1314cb8fb63fb.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5f4fecd4fbc7449480bc1d5295e079d2.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/04/22/45cb3c2d306d4f8d82500c67754bb3da.png"
+}
+
+,
+{
+  "Name": "QGIS(书虫版)",
+  "Version": "3.32.1-fix1-cursor",
+  "Filename": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb",
+  "Torrent_address": "org.qgis.qgis_3.32.1-fix1-cursor_amd64.deb.torrent",
+  "Pkgname": "org.qgis.qgis",
+  "Author": "shenmo<ouyangyunrui@uniontech.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "https://qgis.org/",
+  "Update": "2023-08-20 16:04:58",
+  "Size": "622.3 MB",
+  "More": "一款免费的开源地理信息系统\n\n A Geographic Information System (GIS) manages, analyzes, and displays\n databases of geographic information. QGIS supports shape file viewing and\n editing, spatial data storage with PostgreSQL/PostGIS, projection on-the-fly,\n map composition, and a number of other features via a plugin interface. QGIS\n also supports display of various georeferenced raster and Digital Elevation\n Model (DEM) formats including GeoTIFF, Arc/Info ASCII Grid, and USGS ASCII\n DEM.",
+  "Tags": "community;ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/0242916c1eca488e98137daf10193c4e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/20/74a9c8eefd83424490112c7fd3e4c1f1.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/20/cc2dabfeb636416fa76e62ba58a53540.png"
 }
 
 ,
@@ -2134,6 +2134,21 @@
 }
 ,
 {
+  "Name": "Chatbox 多模型AI客户端",
+  "Version": "1.14.1",
+  "Filename": "xyz.chatboxapp.app_1.14.1_amd64.deb",
+  "Pkgname": "xyz.chatboxapp.app",
+  "Author": "Mediocre Company <hi@chatboxai.com>",
+  "Contributor": "wcbing <i@wcbing.top>",
+  "Website": "https://chatboxai.app/",
+  "Update": "2025-06-21 18:57:25",
+  "Size": "76.93 MB",
+  "More": "一个多模型的AI客户端，支持提示词模板、支持chatgpt、支持跨平台。\n\n来源于官网\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-amd64.deb\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-arm64.deb",
+  "Tags": "debian;ubuntu;deepin;uos;native"
+}
+
+,
+{
   "Name": "深度云扫描",
   "Version": "1.2-spark0",
   "Filename": "spark-deepin-cloud-scanner_1.2-spark0_amd64.deb",
@@ -2147,21 +2162,6 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b44337e0-98ec-11eb-83e4-07d70af35066.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/04/09/b73ca1c0-98ec-11eb-83e4-07d70af35066.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/04/09/923c20d0-98ec-11eb-83e4-07d70af35066.png"
-}
-
-,
-{
-  "Name": "Chatbox 多模型AI客户端",
-  "Version": "1.14.1",
-  "Filename": "xyz.chatboxapp.app_1.14.1_amd64.deb",
-  "Pkgname": "xyz.chatboxapp.app",
-  "Author": "Mediocre Company <hi@chatboxai.com>",
-  "Contributor": "wcbing <i@wcbing.top>",
-  "Website": "https://chatboxai.app/",
-  "Update": "2025-06-21 18:57:25",
-  "Size": "76.93 MB",
-  "More": "一个多模型的AI客户端，支持提示词模板、支持chatgpt、支持跨平台。\n\n来源于官网\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-amd64.deb\nhttps://download.chatboxai.app/releases/Chatbox-1.14.1-arm64.deb",
-  "Tags": "debian;ubuntu;deepin;uos;native"
 }
 
 ,
@@ -2238,23 +2238,6 @@
 
 ,
 {
-  "Name": "radeontop",
-  "Version": "1.3-1",
-  "Filename": "radeontop_1.3-1_amd64.deb",
-  "Pkgname": "radeontop",
-  "Author": "clbr",
-  "Contributor": "RubbishZhYic",
-  "Website": "https://github.com/clbr/radeontop",
-  "Update": "2020-12-19 03:48:51",
-  "Size": "19.63 KB",
-  "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
-}
-
-,
-{
   "Name": "奇安信网神终端安全管理系统",
   "Version": "7.0.5.1600",
   "Filename": "com.qianxin.qaxsafe_7.0.5.1600_amd64.deb",
@@ -2269,6 +2252,23 @@
   "Tags": "deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/e09fefaa861d4c72a4a35f0fec293ee8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/515d6f69d687424097b48f409ad614c8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/d6043d97cf784955b856210763893ce4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/01/ad6833efdc524d84aabb04d5ec0c2928.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/01/cbe6253af7d547bda9c80f37fb59991f.png"
+}
+
+,
+{
+  "Name": "radeontop",
+  "Version": "1.3-1",
+  "Filename": "radeontop_1.3-1_amd64.deb",
+  "Pkgname": "radeontop",
+  "Author": "clbr",
+  "Contributor": "RubbishZhYic",
+  "Website": "https://github.com/clbr/radeontop",
+  "Update": "2020-12-19 03:48:51",
+  "Size": "19.63 KB",
+  "More": "用于查看amd Radeon GPU占用情况的shell工具，类似于nvidia-smi。\n不同于默认源中1.2版本，此版本由最新1.3版在deepin 20(1005)下编译，完美支持最新ryzen 4000系renoir核显",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/96985c80-41ac-11eb-a62b-59c00f47350f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/19/c533d1a0-41ac-11eb-a62b-59c00f47350f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/19/8c22bfc0-41ac-11eb-a62b-59c00f47350f.png"
 }
 
 ,
@@ -2415,24 +2415,6 @@
 
 ,
 {
-  "Name": "Genymotion",
-  "Version": "3.8.0",
-  "Filename": "genymotion_3.8.0_amd64.deb",
-  "Torrent_address": "genymotion_3.8.0_amd64.deb.torrent",
-  "Pkgname": "genymotion",
-  "Author": "genymotion",
-  "Contributor": "Love-in-idleness <3499847908@qq.com>",
-  "Website": "genymotion.com",
-  "Update": "2024-12-09 19:08:28",
-  "Size": "110.66 MB",
-  "More": "一款极为优秀的安卓模拟器。\n本版本通过脚本安装genmotion，如有特殊需求，可自行download并修改\n运行arm的app需要自行安装arm兼容包，地址：https://github.com/m9rco/Genymotion_ARM_Translation（<=9.0, 配置简单)；https://github.com/niizam/Genymotion_A11_libhoudini（=11, 配置相对复杂）\n\n更新说明：更好支持了wayland环境；安卓12以上版本添加了手柄支持",
-  "Tags": "community;debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/49133b17bbbc4f6d862c5c5999b448a6.png\",\"https://spk-json.spark-app.store/images/2024/12/09/53b783f89b684674821d8040972cee08.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2024/12/09/bbcb0284111e4482aa7aa0dd4dfd11dd.png"
-}
-
-,
-{
   "Name": "系统传感器显示工具",
   "Version": "1.2-20241204",
   "Filename": "simple-sensor-monitor_1.2-20241204_amd64.deb",
@@ -2447,6 +2429,24 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/47117e84ed3b402da4691c2e03c8c7f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/5c9e83b381dc4f4899e4a1d86abb0f2f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/b1ffb76726d14c74a3674b9bb44643ae.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/e4e5b589e4674330b30ce76208d6851f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/04/5f6630b0d85749c388d5439e25069347.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/12/04/c5f970b03a564c829c9958b5ab90691a.png"
+}
+
+,
+{
+  "Name": "Genymotion",
+  "Version": "3.8.0",
+  "Filename": "genymotion_3.8.0_amd64.deb",
+  "Torrent_address": "genymotion_3.8.0_amd64.deb.torrent",
+  "Pkgname": "genymotion",
+  "Author": "genymotion",
+  "Contributor": "Love-in-idleness <3499847908@qq.com>",
+  "Website": "genymotion.com",
+  "Update": "2024-12-09 19:08:28",
+  "Size": "110.66 MB",
+  "More": "一款极为优秀的安卓模拟器。\n本版本通过脚本安装genmotion，如有特殊需求，可自行download并修改\n运行arm的app需要自行安装arm兼容包，地址：https://github.com/m9rco/Genymotion_ARM_Translation（<=9.0, 配置简单)；https://github.com/niizam/Genymotion_A11_libhoudini（=11, 配置相对复杂）\n\n更新说明：更好支持了wayland环境；安卓12以上版本添加了手柄支持",
+  "Tags": "community;debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/49133b17bbbc4f6d862c5c5999b448a6.png\",\"https://spk-json.spark-app.store/images/2024/12/09/53b783f89b684674821d8040972cee08.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/09/bbcb0284111e4482aa7aa0dd4dfd11dd.png"
 }
 
 ,
@@ -2540,24 +2540,6 @@
 
 ,
 {
-  "Name": "alist",
-  "Version": "1",
-  "Filename": "alist_1_amd64.deb",
-  "Torrent_address": "alist_1_amd64.deb.torrent",
-  "Pkgname": "alist",
-  "Author": "BoYanZh",
-  "Contributor": "WAYYYAW <way610@126.com>",
-  "Website": "https://alist.nn.ci/zh/",
-  "Update": "2023-01-12 17:38:15",
-  "Size": "12.77 MB",
-  "More": "一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。\n-云盘挂载,支持\n-webdav\n-安装后不会自动开启，请打开“配置alist”\n-添加云盘请参考https://alist.nn.ci/zh/guide/install/manual.html",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/7740e89529ec46f78d3ae37c3a868aa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/69dcb6f9ba8e46a092936441c9301308.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/763c88e1d66c4660935b572e27e00340.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/aec20b0cebb148e899fc1c673f75950d.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/7945cd0cc29047d4b2f77634be91f2fc.png"
-}
-
-,
-{
   "Name": "AIDA64（Wine）",
   "Version": "6.90.6500",
   "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
@@ -2576,20 +2558,20 @@
 
 ,
 {
-  "Name": "guiscrcpy",
-  "Version": "3.9.3",
-  "Filename": "guiscrcpy_3.9.3_amd64.deb",
-  "Pkgname": "guiscrcpy",
-  "Author": "guiscrcpy",
-  "Contributor": "shenmo",
-  "Website": "https://gitee.com/deepin-opensource/guiscrcpy",
-  "Update": "2020-09-16 12:36:42",
-  "Size": "102.27 MB",
-  "More": "非常好用的一款手机投屏工具",
-  "tags": "ubuntu;deepin;uos;a2d",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/16/36dc2300-f7d6-11ea-92e2-f908c3a7711e.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/16/232598f0-f7d6-11ea-92e2-f908c3a7711e.png",
-  "Tags": "debian;native"
+  "Name": "alist",
+  "Version": "1",
+  "Filename": "alist_1_amd64.deb",
+  "Torrent_address": "alist_1_amd64.deb.torrent",
+  "Pkgname": "alist",
+  "Author": "BoYanZh",
+  "Contributor": "WAYYYAW <way610@126.com>",
+  "Website": "https://alist.nn.ci/zh/",
+  "Update": "2023-01-12 17:38:15",
+  "Size": "12.77 MB",
+  "More": "一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs。\n-云盘挂载,支持\n-webdav\n-安装后不会自动开启，请打开“配置alist”\n-添加云盘请参考https://alist.nn.ci/zh/guide/install/manual.html",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/7740e89529ec46f78d3ae37c3a868aa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/69dcb6f9ba8e46a092936441c9301308.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/763c88e1d66c4660935b572e27e00340.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/aec20b0cebb148e899fc1c673f75950d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/7945cd0cc29047d4b2f77634be91f2fc.png"
 }
 
 ,
@@ -2608,6 +2590,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "guiscrcpy",
+  "Version": "3.9.3",
+  "Filename": "guiscrcpy_3.9.3_amd64.deb",
+  "Pkgname": "guiscrcpy",
+  "Author": "guiscrcpy",
+  "Contributor": "shenmo",
+  "Website": "https://gitee.com/deepin-opensource/guiscrcpy",
+  "Update": "2020-09-16 12:36:42",
+  "Size": "102.27 MB",
+  "More": "非常好用的一款手机投屏工具",
+  "tags": "ubuntu;deepin;uos;a2d",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/09/16/36dc2300-f7d6-11ea-92e2-f908c3a7711e.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/09/16/232598f0-f7d6-11ea-92e2-f908c3a7711e.png",
+  "Tags": "debian;native"
 }
 
 ,
@@ -2738,24 +2738,6 @@
 
 ,
 {
-  "Name": "Furmark（wine）",
-  "Version": "2.2.0.1spark0",
-  "Filename": "com.furmark.deepin_2.2.0.1spark0_all.deb",
-  "Torrent_address": "com.furmark.deepin_2.2.0.1spark0_all.deb.torrent",
-  "Pkgname": "com.furmark.deepin",
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.geeks3d.com/furmark/",
-  "Update": "2024-04-27 06:45:16",
-  "Size": "51.23 MB",
-  "More": "使用spark-wine7-devel打包\n用于检测显卡稳定性，显卡散热以及驱动是否正常。\nPS：笔记本用户请注意机器通风，同时请在有电源连接的情况下使用，还建议大家拿另一个软件如深度应用商店里的CPU-X关注一下显卡温度",
-  "Tags": "ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/6934335d691944b0a36878fd47e0ddbe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/3038e8416a494f7e9521e343b544d88d.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/b1b4dd4088b749dfab855499b9952da5.png"
-}
-
-,
-{
   "Name": "gnome-pie应用启动器",
   "Version": "0.7.3-1",
   "Filename": "gnome-pie_0.7.3-1_amd64.deb",
@@ -2770,6 +2752,24 @@
   "Tags": "ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/c1863a361a7748f48416130267dc63f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/abe899971c2347c5972ed64b31e5ad49.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/77ae9699ba9c492083e6d748930a2997.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/0f17e577c7bf4f59b8187b7a7924f6fc.png"
+}
+
+,
+{
+  "Name": "Furmark（wine）",
+  "Version": "2.2.0.1spark0",
+  "Filename": "com.furmark.deepin_2.2.0.1spark0_all.deb",
+  "Torrent_address": "com.furmark.deepin_2.2.0.1spark0_all.deb.torrent",
+  "Pkgname": "com.furmark.deepin",
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.geeks3d.com/furmark/",
+  "Update": "2024-04-27 06:45:16",
+  "Size": "51.23 MB",
+  "More": "使用spark-wine7-devel打包\n用于检测显卡稳定性，显卡散热以及驱动是否正常。\nPS：笔记本用户请注意机器通风，同时请在有电源连接的情况下使用，还建议大家拿另一个软件如深度应用商店里的CPU-X关注一下显卡温度",
+  "Tags": "ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/6934335d691944b0a36878fd47e0ddbe.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/27/3038e8416a494f7e9521e343b544d88d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/27/b1b4dd4088b749dfab855499b9952da5.png"
 }
 
 ,
@@ -2861,23 +2861,6 @@
 
 ,
 {
-  "Name": "Komorebi",
-  "Version": "2.2.0-1",
-  "Filename": "komorebi_2.2.1-1_amd64.deb",
-  "Pkgname": "komorebi",
-  "Author": "Komorebi-Fork",
-  "Contributor": "anima",
-  "Website": "https://github.com/Komorebi-Fork/komorebi",
-  "Update": "2020-10-25 02:57:31",
-  "Size": "30.79 MB",
-  "More": "Komorebi - Animated Wallpapers for Linux",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-
-,
-{
   "Name": "安卓信息查看器(adb)",
   "Version": "0.1.1-20230817",
   "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
@@ -2892,6 +2875,23 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/7e95222de2df4e8cb06e5766ae78610c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/08/17/38e21561bc794278b31f6c869edff8a8.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/17/2997e98fdb2248098275d5397fa21bed.png"
+}
+
+,
+{
+  "Name": "Komorebi",
+  "Version": "2.2.0-1",
+  "Filename": "komorebi_2.2.1-1_amd64.deb",
+  "Pkgname": "komorebi",
+  "Author": "Komorebi-Fork",
+  "Contributor": "anima",
+  "Website": "https://github.com/Komorebi-Fork/komorebi",
+  "Update": "2020-10-25 02:57:31",
+  "Size": "30.79 MB",
+  "More": "Komorebi - Animated Wallpapers for Linux",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
 }
 
 ,
@@ -3462,6 +3462,23 @@
 
 ,
 {
+    "Name": "ACE Trixie  兼容环境",
+    "Version": "13.8.5",
+    "Filename": "amber-ce-trixie_13.8.5_amd64.deb",
+    "Torrent_address": "amber-ce-trixie_13.8.5_amd64.deb.torrent",
+    "Pkgname": "amber-ce-trixie",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+    "Update": "2025-07-07 11:17:21",
+    "Size": "141.37 MB",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
+    "Tags": "community;debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/72bfdd65f0134407a602d05448a27c32.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/8ce75a266b6749de9ee86c46f05fde3b.png"
+}
+,
+{
   "Name": "Deepin Live CD",
   "Version": "1.1+201804181734-1",
   "Filename": "live-filesystem_1.1_plus201804181734-1_amd64.deb",
@@ -3480,21 +3497,22 @@
 
 ,
 {
-    "Name": "ACE Trixie  兼容环境",
-    "Version": "13.8.5",
-    "Filename": "amber-ce-trixie_13.8.5_amd64.deb",
-    "Torrent_address": "amber-ce-trixie_13.8.5_amd64.deb.torrent",
-    "Pkgname": "amber-ce-trixie",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "Update": "2025-07-07 11:17:21",
-    "Size": "141.37 MB",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
-    "Tags": "community;debian;ubuntu;deepin;native",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/72bfdd65f0134407a602d05448a27c32.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/8ce75a266b6749de9ee86c46f05fde3b.png"
+  "Name": "Rubick",
+  "Version": "2.0.4-beta.3",
+  "Filename": "rubick_2.0.4-beta.3_amd64.deb",
+  "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
+  "Pkgname": "rubick",
+  "Author": "muwoo <2424880409@qq.com>",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "https://github.com/rubickCenter/rubick",
+  "Update": "2023-02-12 13:54:32",
+  "Size": "57.13 MB",
+  "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
 }
+
 ,
 {
   "Name": "黑阈激活器",
@@ -3546,24 +3564,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/f707dc995c584ea5a64aec042c87b117.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/09/9173e58be36e43a7bb2ea4566663b5f5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/09/2654b8e153f947a7845fc36dce46655f.png"
-}
-
-,
-{
-  "Name": "Rubick",
-  "Version": "2.0.4-beta.3",
-  "Filename": "rubick_2.0.4-beta.3_amd64.deb",
-  "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
-  "Pkgname": "rubick",
-  "Author": "muwoo <2424880409@qq.com>",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "https://github.com/rubickCenter/rubick",
-  "Update": "2023-02-12 13:54:32",
-  "Size": "57.13 MB",
-  "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
 }
 
 ,
@@ -3853,6 +3853,24 @@
 
 ,
 {
+  "Name": "Escrcpy",
+  "Version": "1.29.6",
+  "Filename": "escrcpy_1.29.6_amd64.deb",
+  "Torrent_address": "escrcpy_1.29.6_amd64.deb.torrent",
+  "Pkgname": "escrcpy",
+  "Author": "viarotel-org",
+  "Contributor": "viarotel-org",
+  "Website": "https://github.com/viarotel-org/escrcpy",
+  "Update": "2025-05-29 20:48:33",
+  "Size": "183.68 MB",
+  "More": "一款开源的 Android 设备远程控制和屏幕镜像软件，它基于 Scrcpy（Screen Copy and Control）开发，并增加了额外的功能以满足特定用户群体的需求。",
+  "Tags": "debian;ubuntu;deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/f3c6d0128bd04eb7a9b1fdb1ce1e0dce.png\",\"https://spk-json.spark-app.store/images/2025/05/29/cf12cba13fa0420b9515ecf0f5f8f84e.png\",\"https://spk-json.spark-app.store/images/2025/05/29/6b64e2e942d04a16a4cb2293a304f516.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/a729930092694cc99d9f7693ac84dab5.png"
+}
+
+,
+{
   "Name": "Mathpix",
   "Version": "3.00.0093",
   "Filename": "mathpix-spark_3.00.0093_amd64.deb",
@@ -3885,24 +3903,6 @@
     "Tags": "community;debian;deepin;ubuntu;uos",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/18/ae9066aa54a6430abe2275aec218454b.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/18/403837423ce147a79747925ecb125dea.png"
-}
-
-,
-{
-  "Name": "Escrcpy",
-  "Version": "1.29.6",
-  "Filename": "escrcpy_1.29.6_amd64.deb",
-  "Torrent_address": "escrcpy_1.29.6_amd64.deb.torrent",
-  "Pkgname": "escrcpy",
-  "Author": "viarotel-org",
-  "Contributor": "viarotel-org",
-  "Website": "https://github.com/viarotel-org/escrcpy",
-  "Update": "2025-05-29 20:48:33",
-  "Size": "183.68 MB",
-  "More": "一款开源的 Android 设备远程控制和屏幕镜像软件，它基于 Scrcpy（Screen Copy and Control）开发，并增加了额外的功能以满足特定用户群体的需求。",
-  "Tags": "debian;ubuntu;deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/f3c6d0128bd04eb7a9b1fdb1ce1e0dce.png\",\"https://spk-json.spark-app.store/images/2025/05/29/cf12cba13fa0420b9515ecf0f5f8f84e.png\",\"https://spk-json.spark-app.store/images/2025/05/29/6b64e2e942d04a16a4cb2293a304f516.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/a729930092694cc99d9f7693ac84dab5.png"
 }
 
 ,
@@ -4014,24 +4014,6 @@
 
 ,
 {
-  "Name": "ToDesk企业版主控端",
-  "Version": "2.0.3.2",
-  "Filename": "todeskclient_2.0.3.2_amd64.deb",
-  "Torrent_address": "todeskclient_2.0.3.2_amd64.deb.torrent",
-  "Pkgname": "todeskclient",
-  "Author": "help@todesk.com",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.todesk.com",
-  "Update": "2025-03-14 22:20:51",
-  "Size": "43.02 MB",
-  "More": "详细日志\n日志+水印+录屏，信息防盗三保险\n￼ \n高效管理\n统一管理员工操作权限和设备状态\n￼ \n极速网络\n企业级优质线路和网络服务",
-  "Tags": "debian;ubuntu;deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/989ce17848e14826b08150f5f02597bc.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8827b4f6c15345269374a692e2b30eb3.png"
-}
-
-,
-{
   "Name": "时钟大师",
   "Version": "1.5-20240517",
   "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
@@ -4046,6 +4028,24 @@
   "Tags": "community;ubuntu;deepin;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
+}
+
+,
+{
+  "Name": "ToDesk企业版主控端",
+  "Version": "2.0.3.2",
+  "Filename": "todeskclient_2.0.3.2_amd64.deb",
+  "Torrent_address": "todeskclient_2.0.3.2_amd64.deb.torrent",
+  "Pkgname": "todeskclient",
+  "Author": "help@todesk.com",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.todesk.com",
+  "Update": "2025-03-14 22:20:51",
+  "Size": "43.02 MB",
+  "More": "详细日志\n日志+水印+录屏，信息防盗三保险\n￼ \n高效管理\n统一管理员工操作权限和设备状态\n￼ \n极速网络\n企业级优质线路和网络服务",
+  "Tags": "debian;ubuntu;deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/989ce17848e14826b08150f5f02597bc.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8827b4f6c15345269374a692e2b30eb3.png"
 }
 
 ,
@@ -4066,6 +4066,23 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
 }
 
+,
+{
+    "Name": "小Q工具箱",
+    "Version": "2.05",
+    "Filename": "xiaoq-tools_2.05_all.deb",
+    "Torrent_address": "xiaoq-tools_2.05_all.deb.torrent",
+    "Pkgname": "xiaoq-tools",
+    "Author": "fb93<fb93@fb93.com>",
+    "Contributor": "fb93<fb93@fb93.com>",
+    "Website": "https://gitee.com/seeker_ok",
+    "Update": "2025-07-07 16:59:14",
+    "Size": "1.34 MB",
+    "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统(支持amd64与arm64系统).\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n1、修复权限的问题。 \n2、增加删除了文件列表显示 \n3、增加检测版本功能 \n4、增加防止删除系统备份目录/backup提示 \n5、增加检测版本功能 ，检测是否为最新的版本 \n6、本次优化检测版本功能，解决部分国产电脑无法使用的问题。\n7、优化MimeType，减少重复。",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/8ae46ca1c1f64f7b976f402b8c0581a7.png\",\"https://spk-json.spark-app.store/images/2025/07/07/cc82f2fe74d9429b804c76dd55139439.png\",\"https://spk-json.spark-app.store/images/2025/07/07/7637728a452e46d1aab2cf87da478b59.png\",\"https://spk-json.spark-app.store/images/2025/07/07/6b75bce9ef7e45e19bb6ce651c0f505b.png\",\"https://spk-json.spark-app.store/images/2025/07/07/2896ea07962646eba0c41abbe3816c57.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/32ea50bca3844f0bb4234273a50c41a9.png"
+}
 ,
 {
     "Author": "shenmo <shenmo@spark-app.store>",
@@ -4138,23 +4155,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/06/fb067ae581734ca7b52cf059a7044d2a.png"
 }
 
-,
-{
-    "Name": "小Q工具箱",
-    "Version": "2.05",
-    "Filename": "xiaoq-tools_2.05_all.deb",
-    "Torrent_address": "xiaoq-tools_2.05_all.deb.torrent",
-    "Pkgname": "xiaoq-tools",
-    "Author": "fb93<fb93@fb93.com>",
-    "Contributor": "fb93<fb93@fb93.com>",
-    "Website": "https://gitee.com/seeker_ok",
-    "Update": "2025-07-07 16:59:14",
-    "Size": "1.34 MB",
-    "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统(支持amd64与arm64系统).\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n1、修复权限的问题。 \n2、增加删除了文件列表显示 \n3、增加检测版本功能 \n4、增加防止删除系统备份目录/backup提示 \n5、增加检测版本功能 ，检测是否为最新的版本 \n6、本次优化检测版本功能，解决部分国产电脑无法使用的问题。\n7、优化MimeType，减少重复。",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/8ae46ca1c1f64f7b976f402b8c0581a7.png\",\"https://spk-json.spark-app.store/images/2025/07/07/cc82f2fe74d9429b804c76dd55139439.png\",\"https://spk-json.spark-app.store/images/2025/07/07/7637728a452e46d1aab2cf87da478b59.png\",\"https://spk-json.spark-app.store/images/2025/07/07/6b75bce9ef7e45e19bb6ce651c0f505b.png\",\"https://spk-json.spark-app.store/images/2025/07/07/2896ea07962646eba0c41abbe3816c57.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/32ea50bca3844f0bb4234273a50c41a9.png"
-}
 ,
 {
   "Name": "xbj-com",
@@ -4530,6 +4530,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "gxde-app-upgrader_1.5.2_all.deb",
+  "More": "使用 gxde-app-upgrader 以进行检查更新",
+  "Name": "GXDE 软件包更新器",
+  "Pkgname": "gxde-app-upgrader",
+  "Size": "20 Kb",
+  "Tags": "community;deepin;uos;ubuntu;native",
+  "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
+  "Update": "2025-02-25 18:48:57",
+  "Version": "1.5.2",
+  "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
+  "icons": "https://spk-json.spark-app.store/store/tools/gxde-app-upgrader/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-app-upgrader/screen_1.png\"]"
+}
+
+,
+{
   "Name": "小说助手",
   "Version": "1.0.1",
   "Filename": "epub-tool_1.0.1_amd64.deb",
@@ -4615,24 +4633,6 @@
   "Tags": "ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/09/17/5e7ce55ba35a4066a240a4db9d788b61.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/09/17/d8ff081d08f84c759f18c0363ddd3fd1.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "gxde-app-upgrader_1.5.2_all.deb",
-  "More": "使用 gxde-app-upgrader 以进行检查更新",
-  "Name": "GXDE 软件包更新器",
-  "Pkgname": "gxde-app-upgrader",
-  "Size": "20 Kb",
-  "Tags": "community;deepin;uos;ubuntu;native",
-  "Torrent_address": "gxde-app-upgrader_1.5.2_all.deb.torrent",
-  "Update": "2025-02-25 18:48:57",
-  "Version": "1.5.2",
-  "Website": "https://gitee.com/GXDE-OS/gxde-app-upgrader",
-  "icons": "https://spk-json.spark-app.store/store/tools/gxde-app-upgrader/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-app-upgrader/screen_1.png\"]"
 }
 
 ,
@@ -5511,6 +5511,24 @@
 
 ,
 {
+  "Name": "瑞星ESM防病毒系统单机版",
+  "Version": "3.0.5.12",
+  "Filename": "com.rising.antivirus.single_3.0.5.12_amd64.deb",
+  "Torrent_address": "com.rising.antivirus.single_3.0.5.12_amd64.deb.torrent",
+  "Pkgname": "com.rising.antivirus.single",
+  "Author": "Beijing Rising Inc.",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "http://rising.com.cn/",
+  "Update": "2025-04-19 12:09:17",
+  "Size": "118.48 MB",
+  "More": "国产AI智能反病毒引擎；\n跨平台统一管控；\n智能的变频杀毒；\n部署升级方便快捷。",
+  "Tags": "debian;ubuntu;deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/19/6a401b109fe844b68d7c03d0988bf90a.png\",\"https://spk-json.spark-app.store/images/2025/04/19/99b6abd72547400ea4f3122514358534.png\",\"https://spk-json.spark-app.store/images/2025/04/19/82c3e79a65ae4509a28acd8a23a920f1.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/19/19a84b8542d549ef980d36c5010250e7.png"
+}
+
+,
+{
   "Name": "墨干编辑器",
   "Version": "1.1.3-1",
   "Filename": "mogan_1.1.3-1_amd64.deb",
@@ -5561,24 +5579,6 @@
   "Tags": "community;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/30/09a74621a9f14c61ab42e4afc32128af.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/30/c1a104e2da9b4701b13198e868db1773.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/30/7899f8b03dc941c4876a348e325b9450.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/30/f16b97f88e7f485cb30fac597431cfed.png"
-}
-
-,
-{
-  "Name": "瑞星ESM防病毒系统单机版",
-  "Version": "3.0.5.12",
-  "Filename": "com.rising.antivirus.single_3.0.5.12_amd64.deb",
-  "Torrent_address": "com.rising.antivirus.single_3.0.5.12_amd64.deb.torrent",
-  "Pkgname": "com.rising.antivirus.single",
-  "Author": "Beijing Rising Inc.",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "http://rising.com.cn/",
-  "Update": "2025-04-19 12:09:17",
-  "Size": "118.48 MB",
-  "More": "国产AI智能反病毒引擎；\n跨平台统一管控；\n智能的变频杀毒；\n部署升级方便快捷。",
-  "Tags": "debian;ubuntu;deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/19/6a401b109fe844b68d7c03d0988bf90a.png\",\"https://spk-json.spark-app.store/images/2025/04/19/99b6abd72547400ea4f3122514358534.png\",\"https://spk-json.spark-app.store/images/2025/04/19/82c3e79a65ae4509a28acd8a23a920f1.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/19/19a84b8542d549ef980d36c5010250e7.png"
 }
 
 ,
@@ -5652,6 +5652,24 @@
 
 ,
 {
+    "Author": "skyyx2002 <mzldkj@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "skydisktest_1.01-1fix_amd64.deb",
+    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
+    "Name": "Sky磁盘测试工具",
+    "Pkgname": "skydisktest",
+    "Size": "109 Kb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "skydisktest_1.01-1fix_amd64.deb.torrent",
+    "Update": "2025-06-15 07:16:07",
+    "Version": "1.01-1fix",
+    "Website": "none",
+    "icons": "https://spk-json.spark-app.store/store/tools/skydisktest/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_2.png\"]"
+}
+
+,
+{
   "Name": "Pomotroid",
   "Version": "0.13.0",
   "Filename": "pomotroid_0.13.0_amd64.deb",
@@ -5720,24 +5738,6 @@
   "Tags": "community;debian;ubuntu;deepin;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/02/ce740195dd47471eba9b01f70e288e36.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/04/02/4a8ee3f2771944cd895a33c9579b06ec.png"
-}
-
-,
-{
-    "Author": "skyyx2002 <mzldkj@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "skydisktest_1.01-1fix_amd64.deb",
-    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
-    "Name": "Sky磁盘测试工具",
-    "Pkgname": "skydisktest",
-    "Size": "109 Kb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "skydisktest_1.01-1fix_amd64.deb.torrent",
-    "Update": "2025-06-15 07:16:07",
-    "Version": "1.01-1fix",
-    "Website": "none",
-    "icons": "https://spk-json.spark-app.store/store/tools/skydisktest/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_2.png\"]"
 }
 
 ,

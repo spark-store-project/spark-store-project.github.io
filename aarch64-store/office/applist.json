@@ -378,24 +378,6 @@
 
 ,
 {
-  "Author": "gfdgd xi<3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.microsoft2003.installer.spark_2003spark0_all.deb",
-  "More": "Wine 的 Microsof Office 2003\n因为不能提供激活的 Wine 版本（安装程序强制规定要输入秘钥了），所以这个 deb 包只提供了 Office 2003 的安装程序和对应组件的 .desktop 启动方式，安装该 deb 后需要在启动器里找到 Office 2003 安装程序/修复程序来安装 Office 2003\n安装后即可正常调用其它的 .desktop 启动 Office 2003",
-  "Name": "Microsoft Office 2003（Wine）",
-  "Pkgname": "com.microsoft2003.installer.spark",
-  "Size": "768 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
-  "Torrent_address": "com.microsoft2003.installer.spark_2003spark0_all.deb.torrent",
-  "Update": "2023-06-24 12:31:24",
-  "Version": "2003spark0",
-  "Website": "http;//www.microsoft.com",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_5.png\"]"
-}
-
-,
-{
   "Author": "jiangjiang <jiangjiang@taotics-inc.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "sogou-ime-ng-fcitx5-kylin-desktop_10.0.9.0.6-20231128000607_arm64.deb",
@@ -410,6 +392,24 @@
   "Website": "https://www.taotics.com/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/office/sogou-ime-ng-fcitx5-kylin-desktop/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/sogou-ime-ng-fcitx5-kylin-desktop/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "gfdgd xi<3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.microsoft2003.installer.spark_2003spark0_all.deb",
+  "More": "Wine 的 Microsof Office 2003\n因为不能提供激活的 Wine 版本（安装程序强制规定要输入秘钥了），所以这个 deb 包只提供了 Office 2003 的安装程序和对应组件的 .desktop 启动方式，安装该 deb 后需要在启动器里找到 Office 2003 安装程序/修复程序来安装 Office 2003\n安装后即可正常调用其它的 .desktop 启动 Office 2003",
+  "Name": "Microsoft Office 2003（Wine）",
+  "Pkgname": "com.microsoft2003.installer.spark",
+  "Size": "768 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
+  "Torrent_address": "com.microsoft2003.installer.spark_2003spark0_all.deb.torrent",
+  "Update": "2023-06-24 12:31:24",
+  "Version": "2003spark0",
+  "Website": "http;//www.microsoft.com",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_4.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.microsoft2003.installer.spark/screen_5.png\"]"
 }
 
 ,
@@ -626,24 +626,6 @@
 
 ,
 {
-  "Author": "QSLS",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.deepin.cajv_7.2.0spark3_all.deb",
-  "More": "可阅读中国知网的文献",
-  "Name": "CAJViewer(wine)",
-  "Pkgname": "com.deepin.cajv",
-  "Size": "68 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
-  "Torrent_address": "com.deepin.cajv_7.2.0spark3_all.deb.torrent",
-  "Update": "2023-12-29 13:48:12",
-  "Version": "7.2.0spark3",
-  "Website": "https://www.cnki.net/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/screen_1.png\"]"
-}
-
-,
-{
   "Author": "emily@mysher.com",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "org.deepin.scanner_5.5.15-1_arm64.deb",
@@ -658,6 +640,24 @@
   "Website": "https://www.deepin.org/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/org.deepin.scanner/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "QSLS",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.deepin.cajv_7.2.0spark3_all.deb",
+  "More": "可阅读中国知网的文献",
+  "Name": "CAJViewer(wine)",
+  "Pkgname": "com.deepin.cajv",
+  "Size": "68 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian;native",
+  "Torrent_address": "com.deepin.cajv_7.2.0spark3_all.deb.torrent",
+  "Update": "2023-12-29 13:48:12",
+  "Version": "7.2.0spark3",
+  "Website": "https://www.cnki.net/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.deepin.cajv/screen_1.png\"]"
 }
 
 ,
@@ -1327,24 +1327,6 @@
 
 ,
 {
-  "Author": "CloudLink Kit Team",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.isoftstone.hwcloudlink_1.9.23_arm64.deb",
-  "More": "HW CloudLink Desktop & Mobile新一代高清视频会议软终端，采用全新视觉体系、极简信息架构设计，提供轻松预约、自主召集、便捷入会等功能，基于H.265 SVC技术实现会场画面自由看，具备超强网络适应性，带来清晰流畅的会议体验，是个人视频会议的理想选择。",
-  "Name": "HW  CloudLink 视频会议",
-  "Pkgname": "com.isoftstone.hwcloudlink",
-  "Size": "85 Mb",
-  "Tags": "deepin;uos;debian;native",
-  "Torrent_address": "com.isoftstone.hwcloudlink_1.9.23_arm64.deb.torrent",
-  "Update": "2025-02-11 13:16:53",
-  "Version": "1.9.23",
-  "Website": "https://e.huawei.com/cn/products/enterprise-collaboration/cloudlink/cloudlink-kit",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_3.png\"]"
-}
-
-,
-{
     "Author": "netease <account@note.youdao.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.netease.youdaonote_8.1.30_arm64.deb",
@@ -1359,6 +1341,24 @@
     "Website": "https://note.youdao.com/",
     "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.netease.youdaonote/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "CloudLink Kit Team",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.isoftstone.hwcloudlink_1.9.23_arm64.deb",
+  "More": "HW CloudLink Desktop & Mobile新一代高清视频会议软终端，采用全新视觉体系、极简信息架构设计，提供轻松预约、自主召集、便捷入会等功能，基于H.265 SVC技术实现会场画面自由看，具备超强网络适应性，带来清晰流畅的会议体验，是个人视频会议的理想选择。",
+  "Name": "HW  CloudLink 视频会议",
+  "Pkgname": "com.isoftstone.hwcloudlink",
+  "Size": "85 Mb",
+  "Tags": "deepin;uos;debian;native",
+  "Torrent_address": "com.isoftstone.hwcloudlink_1.9.23_arm64.deb.torrent",
+  "Update": "2025-02-11 13:16:53",
+  "Version": "1.9.23",
+  "Website": "https://e.huawei.com/cn/products/enterprise-collaboration/cloudlink/cloudlink-kit",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/office/com.isoftstone.hwcloudlink/screen_3.png\"]"
 }
 
 ,

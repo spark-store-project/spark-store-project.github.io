@@ -7386,23 +7386,6 @@ SHA512: 0c93a96223327820449344f9265bbdb7e5a03026db79a3a7c8596b8c84c11aad40a46525
 Homepage: http://www.51ifind.com
 Description: a market leading financial data terminal
 
-Package: com.51ifind
-Architecture: loong64
-Version: 1.10.12.393.001
-Priority: optional
-Section: utils
-Maintainer: shenjianwei <shenjianwei@myhexin.com>
-Installed-Size: 718516
-Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
-Filename: ./others/com.51ifind/com.51ifind_1.10.12.393.001_loong64.deb
-Size: 158722246
-MD5sum: 082c8a34a52b6d686b253083cca1e985
-SHA1: 5d91620b71d20050416cb2104bfd1d2fe53f3014
-SHA256: 0f397e491948c60c6b7e7aaa4da1a3916dc2e0f0f370101eb3f81b585672c3f8
-SHA512: e38cf29f2757f3f824fd89ac1a519b770a26fdb427df46630702350dcdc222211cb8dd32dfe561328bf319daddda586ac5b1913c6a105e3b1778859873d9b499
-Homepage: http://www.51ifind.com
-Description: a market leading financial data terminal
-
 Package: web-hx.nobook.com
 Architecture: all
 Version: 1.0
@@ -7749,22 +7732,6 @@ MD5sum: 029bd03ae48db6ccc29c1bd8c67b20db
 SHA1: 93b7cea9b8d091c97dacf906557164a81a73d42e
 SHA256: d76c0c4c82be3525ad760437b3c1d2a81c3cb984b333bf3504d19c77451ec469
 SHA512: f048eb992b94fd73d7b19880a45b3c5be206b70d9f3613f6fe13247e67e55fca02e2b8ba991effe6a699b2d099b57389ec22621fd7ee2832f7d130aa0243acc7
-Homepage: http://www.wind.com.cn
-Description: Wind-领先的金融数据和分析工具服务商
-
-Package: com.wind.wft
-Architecture: loong64
-Version: 25.1.3.06171
-Priority: optional
-Section: utils
-Maintainer: service@wind.com.cn
-Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
-Filename: ./others/com.wind.wft/com.wind.wft_25.1.3.06171_loong64.deb
-Size: 326947818
-MD5sum: 110e852270d0d4c21555b7953a793ab4
-SHA1: 0a12bb697383083a966ade14e5e43af9f569c34f
-SHA256: 89c81c5405fd2f6d5ef59da9f5d5cb64ecad18f239e601feac604196e720c24d
-SHA512: 5f228d113f628360da7217b5be01b898f2b109f56075ef992f399c368fc4510b2e8edb9eb8121be0995efe17b39abffe4edfa84abcc4deeef755d11d3e48b22d
 Homepage: http://www.wind.com.cn
 Description: Wind-领先的金融数据和分析工具服务商
 
