@@ -1748,20 +1748,20 @@ Description: protocol buffers C++ library
 
 Package: spark-box64
 Architecture: arm64
-Version: 0.3.6-1~box32
+Version: 0.3.6-2~box32
 Priority: extra
 Section: utils
 Maintainer: shenmo@spark-app.store
-Installed-Size: 35220
+Installed-Size: 104476
 Provides: box64
 Depends: binfmt-support
 Conflicts:  box64-android, box64-rpi4arm64, box64-rpi3arm64, box64-tegrax1, box64-rk3399, box64-rk3588
-Filename: ./depends/box8664/spark-box64_0.3.6-1~box32_arm64.deb
-Size: 16110876
-MD5sum: e8bc81aaecfea846985a7e53bc97c8e2
-SHA1: e619c4bf87625f2c46479ea2229c1c3441f65b4d
-SHA256: ce04eb99898ff4b6cd3197aa0236be73bf58554dc0ae074fc6c39819e5797071
-SHA512: cb37edb9ae32d6ac1c525963cd68752875a20337f52d4abb9efe96df5736f631a398f3cb82d58e3cb2e22e36eb0c956e52fc86d8fc26ff9a1e89d3f71ea3a825
+Filename: ./depends/box8664/spark-box64_0.3.6-2~box32_arm64.deb
+Size: 16267236
+MD5sum: ada7459779031277699165f46fe105db
+SHA1: 338411d6bab4098983a849d63d34fb50eaa518d1
+SHA256: 8ecc70eb7dfa969076881c91b8b3306e4e3f12f9d75f8b2304638bd6cb8298e0
+SHA512: 54655ad651b5a439b6dfe347c772075c97d50fef8bd7f9f4d4544bd469bf9c742bd5c6abb662007e2183bb6a16dd2f3c046f07033ab43b691ec4dbabf2088978
 Description: Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
  Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
 
@@ -3004,19 +3004,19 @@ Description: 基于 Qt 的微型屏幕涂鸦程序
 
 Package: linglong-store
 Architecture: arm64
-Version: 1.4.1
+Version: 1.4.2
 Priority: optional
 Section: default
 Maintainer: Jokul <986432015@qq.com>
-Installed-Size: 323839
+Installed-Size: 325802
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: linglong-bin, linglong-box
-Filename: ./tools/linglong-store/linglong-store_1.4.1_arm64.deb
-Size: 72393814
-MD5sum: fafd2d2b96d58dbd172cb6023493f108
-SHA1: cf66febfb9ad437094e1e9197718120a32dad200
-SHA256: 99334616621537547bfe21278dc9de05f3ed4e237976fa6bd656e7ae124b1729
-SHA512: 53610f3d144997384ecf9c2aabb203f8aaee600c0c53e156aefa083cc7fee1d0816a09fdc7ded1852f4e6c2b6fca96b735e5f5b6871717f3dc59c612ae69e715
+Filename: ./tools/linglong-store/linglong-store_1.4.2_arm64.deb
+Size: 72576116
+MD5sum: ac80c6550dc0524ff5c9e6e09eeb8cd2
+SHA1: 6bfa33bc2ac1f7887da978b1492132e5b7c3bceb
+SHA256: aa3a25c758ba863df85f6ae4a6b98455359f7b53d46fc83331708c5f5cad9762
+SHA512: 1530d8c4cffbac9f709d276c664ca219338d7144d814b5946c35ba737c554847b89ae2a415faf25e0c5ecf4c16ce5fcf4de44005ab9f32c92dcfc10a4fe5e3c2
 Homepage: https://github.com/GershonWang/linglong-store
 Description: 
   简易式玲珑商店客户端
@@ -3420,6 +3420,27 @@ SHA1: 78d7e06c05c97370afe281e37089ae506f51d0c0
 SHA256: 284db376a723a67c0d9f6fdf6c7d8e0136ea30cd33b8ea8053879541dc5588c0
 SHA512: 9efcaaf4e68dc8e45368c3acb84145b244b1ad4cff2bcfb0d6ddbc5f84b8adb47343f8fad6eb2d2cfe16dc566cb903a44c380a29c665735c425f7a5f5b75127c
 Description: Wrapper package of brasero
+
+Package: cherrystudio
+Architecture: arm64
+Version: 1.4.11
+Priority: optional
+Section: default
+Maintainer: electronjs.org
+Installed-Size: 404485
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./tools/cherrystudio/cherrystudio_1.4.11_arm64.deb
+Size: 99492184
+MD5sum: 5f552560b81d3860423296866ade75c1
+SHA1: 839bd383e3a673a8de472a06ef07ae433163821f
+SHA256: 99a161fb26113fd6d1cf9167fd9d047b3874d144f6b0adeae117eb8d54df565e
+SHA512: ac178f4f2c76169c44b62dee7586011ce8c8e38ff5f4cedeb0d4283ab02d99e7921e3d90a7431eb88581038ef1d2a4e3c3da533bb1116ae8dd7f9c597159b250
+Homepage: https://github.com/CherryHQ/cherry-studio
+Description: 
+  A powerful AI assistant for producer.
+License: unknown
+Vendor: electronjs.org
 
 Package: deepin-wine-diag
 Architecture: arm64
@@ -4448,6 +4469,42 @@ SHA1: e0d106a826f6f8ffeb8a497f7ce35f783c85035f
 SHA256: 394f4650e593aba73c6cbe23c02dfc1a7e524f37b4334708917bb36692fc0d6f
 SHA512: 1028f976df3a348620969dcfe803120520f246e1d3735c4c67f4659bf10c93ab65ae52ade8c2072c41b93cae19e26f1bda9cad4757603117059daa7a3a987d3f
 Description: 一个 ISO 镜像工具（deepin-wine6）——ultraliso
+
+Package: FlClash
+Architecture: arm64
+Version: 0.8.86+2025061501
+Priority: optional
+Essential: no
+Section: x11
+Maintainer: chen08209 <chen08209@gmail.com>
+Installed-Size: 6604
+Depends: libayatana-appindicator3-dev, libkeybinder-3.0-dev
+Filename: ./xrea/flclash/flclash_0.8.86_arm64.deb
+Size: 36191266
+MD5sum: c6c0e08dfbaa1f40022143df757eb620
+SHA1: e8f29d983e88738326935850566b33afc0d4a9ca
+SHA256: 6620867dd411578486a52fa7d5e1933e6686221c0e1ec061d75bfe69f7ef9cf7
+SHA512: 1b551c6a4b929433464816583cbb4e46bdc5fc8b565e84e12dfc5f3131e41ffd8aebe37b1b462da33d8e6cf670edd84550869c8dec0903b944410d6922ecf07b
+Description: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
+
+Package: mihomo
+Architecture: arm64
+Version: 1.19.11
+Priority: optional
+Section: net
+Maintainer: MetaCubeX <none@example.com>
+Installed-Size: 29731
+Filename: ./xrea/mihomo/mihomo_1.19.11_arm64.deb
+Size: 10943160
+MD5sum: f54b06172bdc64752f8c5fe1143ed095
+SHA1: caa532f5afda15a784d8893512dbe9c6d94b054d
+SHA256: f689efa5198a2bda69688b9166467fa8eb4908e43d44ff2c221ac66b49714c4c
+SHA512: 51176151387bef87c17415f879bb25b555d9daa35502a8198be81a2879dfdf844428439fcb22865df261183a1f50ec67301ee8cdd60ed14c2762b9d3aeccecfa
+Homepage: https://wiki.metacubex.one/
+Description: The universal proxy platform.
+License: GPL-3.0-or-later
+Vendor: none
+Bug: https://github.com/MetaCubeX/mihomo/issues
 
 Package: spark-zjeav.com-runner
 Architecture: all
@@ -10222,16 +10279,16 @@ Vendor: TencentDocs
 
 Package: hugo
 Architecture: arm64
-Version: 0.147.9
+Version: 0.148.1
 Priority: optional
 Maintainer: Bjørn Erik Pedersen <bjorn.erik.pedersen@gmail.com>
-Installed-Size: 49841
-Filename: ./office/hugo/hugo_0.147.9_arm64.deb
-Size: 18011684
-MD5sum: f5fa8ffe396ccaf2779c01528b8c5517
-SHA1: d124ecb1ca62c144d973f334b1cab972faa6881b
-SHA256: baa7cd7bf6d0af5a69b74a34cb3c54070293934ba6eba287c7ab66985784ca45
-SHA512: c60cfabe1694b4e681240ba0c22e17600faa06116fefcb48dae2f734fb76361d6cf4b798bfef1acf1ece94c4613890827586e0c8595bebcc7c87a544d92003bd
+Installed-Size: 49865
+Filename: ./office/hugo/hugo_0.148.1_arm64.deb
+Size: 18027452
+MD5sum: 46f09e9c9380cc7591e7f52fe686c814
+SHA1: eb4b4aa036fbd6774fd1a53ff6ac9229beb580ed
+SHA256: 9f3b14b098f0757b4a0263d7ec4fe1133f2727b1de1e303d7a359465af007003
+SHA512: e6a6e4a023b4837b4bbdfde5edc7fbc95cc394f5da2576d7500b5b1a27d46237f4cca4674bbabec2548a410e90a977110310365cbfc6fc7a06987c4eeadf35d5
 Homepage: https://github.com/gohugoio/hugo
 Description: A fast and flexible Static Site Generator written in Go.
 
@@ -10750,18 +10807,18 @@ Description: 奇安信可信浏览器
 
 Package: firefox-spark-ace
 Architecture: all
-Version: 136.0.4+build1-0ubuntu0.22.04.1~mt1
+Version: 140.0+build1-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo <shenmo@spark-app.store>
 Installed-Size: 10
 Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Filename: ./network/firefox-spark-ace/firefox-spark-ace_136.0.4+build1-0ubuntu0.22.04.1~mt1_all.deb
-Size: 1672
-MD5sum: b9bd095795b77ad23132e880bc5f9a13
-SHA1: 1b2c0238a33ce531be5be5ce0f7d635db037a02e
-SHA256: 1e830c5c44f3b3760e5d67a16d4e99df6ae86837d2ee3391aa21e9c57f747355
-SHA512: e62310e7d66d0d413b6dc73240fb1fe8971da78838afda056bdd4c3fe6be20f186ce52660a3d99221e5223fea4fab8c9288a7ccca7af182c743794d32c0fc796
+Filename: ./network/firefox-spark-ace/firefox-spark-ace_140.0+build1-0ubuntu0.22.04.1~mt1_all.deb
+Size: 1664
+MD5sum: 1b7364568e91c81b23541615759e9bcd
+SHA1: db4985b2234ef2af0465490d97e259a21cf5bb4b
+SHA256: 77df28aec9193686ef0d9a27b35fd368d4a99e4f4ccd95e7608aac37db57ef79
+SHA512: 731a0d1dcb5f8a19a0163325700b5de93afdb6c88abd7b0a1253b8e04cb76939acbc7f865d3b2fe1463792a406107a48e2a543efb98401b295e278074f166a8f
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: 一款开源自由的浏览器，现在由星火自动维护系统（测试版）维护中...
 
@@ -10956,7 +11013,7 @@ Vendor: 天翼数字生活科技有限公司保留所有权利
 
 Package: browser360-cn-stable
 Architecture: arm64
-Version: 13.4.1000.58-1
+Version: 13.4.1000.61-1
 Priority: optional
 Section: web
 Maintainer: 360安全浏览器团队 <pc_browser_kefu@360.cn>
@@ -10965,12 +11022,12 @@ Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.60), libexpat1 (>= 2.1~beta3), libgbm1 (>= 8.1~0), libglib2.0-0 (>= 2.39.4), libgtk-3-0, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, libxtst6, wget, xdg-utils (>= 1.0.2)
 Recommends: libu2f-udev, libvulkan1
-Filename: ./network/browser360-cn-stable/browser360-cn-stable_13.4.1000.58-1_arm64.deb
-Size: 128274616
-MD5sum: e45ab8a12dad978fd73bb4f70a2e39be
-SHA1: e3e78f2045414efef206b553a90f19661f04c734
-SHA256: 89d9a6abbf3db223f0d414e542b399168a791b64f53753cf4230add94b2d1737
-SHA512: f202d8363a9fcfea5a3721505cde10f6258a1218d969f447ecc0a8b723775f7bcd1627c53480959ab2f40c5032955be4577bd0a442b96dfc2a83c2416abb5f0a
+Filename: ./network/browser360-cn-stable/browser360-cn-stable_13.4.1000.61-1_arm64.deb
+Size: 128274804
+MD5sum: 9aacd8b0716f5ae7fed8830019b0e151
+SHA1: 06eb43f59cb8d9df7685c4f890292ebf07eff9e7
+SHA256: 82376480607eab9a12767d49d4e2386c3ddb87d7def56f91989444ae6a6bccd8
+SHA512: edc25bc45dd9516b150489a12af6adca56f72a5b284065d03cc767d9242ae39fc392ac0341de1478e64d6415f61cf3758716308c7f9b3ace504db0a41a05df9f
 Description: 360安全浏览器
  360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。
 
@@ -11209,6 +11266,28 @@ MD5sum: 1dad7bd3f799543172fd3d753b42c9be
 SHA1: 3e072c811c51da7f6c8eb080419e03392bc682c3
 SHA256: 6bf526bf296614c49d33cc5cb91bfbff386e7b51e224565abbe19bce462823f7
 SHA512: 15801967154f4889714a431c498fc15381aa97042f3fd043e715530ce968129ee16b3e556ec30abbf8cb25afb61866a0d0b08773a18a93fbec02594e2f7ba781
+Homepage: http://www.loongnix.cn/zh/api/lbrowser/
+Description: The web browser from Loongson
+ Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
+
+Package: cn.loongnix.lbrowser
+Architecture: arm64
+Version: 3.3.2189.7-1.stable
+Priority: optional
+Section: web
+Source: lbrowser
+Maintainer: Lbrowser Team <browser@loongson.cn>
+Installed-Size: 249705
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev, libvulkan1
+Filename: ./network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.2189.7-1.stable_arm64.deb
+Size: 81493348
+MD5sum: dca5946371397d1003812f3ae3f9dc53
+SHA1: 5dd065fa33e1c4ce5d895780a85df5275038bec8
+SHA256: 2d66f14725aed5820a9d6e6b1ae1487bcb5545b003101594a7a562f053889a82
+SHA512: 245563d068e47a5f89e5ca207aa03c655c09b466cadcff7c5dc3f17713c4d220efd52b18f0e5c5281772150346b720ae5bbd3fe83f099d11f9c93722a1d718ab
 Homepage: http://www.loongnix.cn/zh/api/lbrowser/
 Description: The web browser from Loongson
  Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
@@ -11759,22 +11838,22 @@ Description: .高中地理通关游戏――宇宙中的地球将宇宙中的地
 
 Package: firefox-spark
 Architecture: arm64
-Version: 140.0+build1-0ubuntu0.22.04.1~mt1
+Version: 140.0.4+build1-0ubuntu0.22.04.1~mt1
 Priority: optional
 Section: utils
 Maintainer: shenmo<shenmo@spark-app.store>
 Installed-Size: 52K
-Provides: x-www-browser,gnome-www-browser,firefox(=140.0+build1-0ubuntu0.22.04.1~mt1)
+Provides: x-www-browser,gnome-www-browser,firefox(=140.0.4+build1-0ubuntu0.22.04.1~mt1)
 Depends: libdbus-glib-1-2,libgtk-3-0
 Recommends: speech-dispatcher
 Conflicts: firefox,firefox-spark(<=117.0)
 Replaces: firefox
-Filename: ./network/firefox-spark/firefox-spark_140.0+build1-0ubuntu0.22.04.1~mt1_arm64.deb
-Size: 63563844
-MD5sum: 625a832d1e3d0a34d8ed343770801694
-SHA1: 88d03d30a72800c1a2cfacfe5c2fefe8b12d3f46
-SHA256: b18f89f84ca6fac7597130a8f5967778fd3a8f3bc0a019a472b6224a55480d65
-SHA512: 86b4f270feb89c4ac4495e54d227026be7f599546cb7c85dca00ea14e79c8a8b4d47b5ae587aa193c8f3c8d9cf1ca884f7613490dd72d8efb03fb1461a5dd786
+Filename: ./network/firefox-spark/firefox-spark_140.0.4+build1-0ubuntu0.22.04.1~mt1_arm64.deb
+Size: 63571440
+MD5sum: 70df517fcbe32af186916e634cd2b62f
+SHA1: 2ccc16ae4032529c68a8324ed91bdbb1d62cf6ad
+SHA256: 1b18194cee8b46da8289ce9ed345ffc1c590fdf1624a91bd7d39612cb3467f36
+SHA512: 14e816bddb8078929312e2331db04054ffcae5f18a5c36116e8bf3098fd62f3b675c67e57bcf15da18bf2ceb0e9fa8cc85c4b2e2b576db3e7d617482ab74d222
 Homepage: https://gitee.com/spark-building-service/firefox-spark-arm
 Description: 一款开源自由的浏览器
  长介绍
@@ -12679,22 +12758,22 @@ Description: VSCode 历史项目信息分析器
 
 Package: codium
 Architecture: arm64
-Version: 1.101.24242
+Version: 1.102.04606
 Priority: optional
 Section: devel
 Maintainer: VSCodium Team https://github.com/VSCodium/vscodium/graphs/contributors
-Installed-Size: 406479
+Installed-Size: 406684
 Provides: visual-studio-codium
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 6), libstdc++6 (>= 9), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-codium
 Replaces: visual-studio-codium
-Filename: ./development/codium/codium_1.101.24242_arm64.deb
-Size: 98417332
-MD5sum: 22b88777774277fed7588c461c87a808
-SHA1: 2af0e6658c699f7f8cec6f8af07a288464ee963c
-SHA256: 7a003c5f9f55877920ca3eb67cc43fe347db67e7c981efa2e8dc5763f8c0790a
-SHA512: a0de0813b378cb9a4e5a7ac0d708378c4d3fbff775c2ba4800c6ce126c685685811f8b1106ccaaf9ab938a815bdefd72aff1d706b4db34aab420ccd360e58444
+Filename: ./development/codium/codium_1.102.04606_arm64.deb
+Size: 98443392
+MD5sum: 88b76fb96502f962ed0443d69326b107
+SHA1: e418a2f1562f2e1371d8dad02f75b8b4dc377716
+SHA256: 077d99cebd3b337c8a350b631d3c6fd3bb42c71f77ca54dfd7e04c6b65d30741
+SHA512: d83606f0d16fb5af8cdd0e6e152bb00a7c31033b1551aa39cbb6dfb264e7b363fd058c97105f1e0041a264ebc3da81ef3121f10ba34811cdd69e50c845610844
 Homepage: https://vscodium.com/
 Description: Code editing. Redefined.
  VSCodium is a new choice of tool that combines the simplicity of
@@ -12756,22 +12835,22 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.101.2-1750797955
+Version: 1.102.0-1752099871
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
-Installed-Size: 416445
+Installed-Size: 416593
 Provides: visual-studio-code
 Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libc6 (>= 2.25), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.37.3), libgtk-3-0 (>= 3.9.10), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.30), libnss3 (>= 3.26), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libstdc++6 (>= 5), libstdc++6 (>= 5.2), libstdc++6 (>= 6), libstdc++6 (>= 9), libudev1 (>= 183), libx11-6, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxkbfile1 (>= 1:1.1.0), libxrandr2, xdg-utils (>= 1.0.2)
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: ./development/code/code_1.101.2-1750797955_arm64.deb
-Size: 100446558
-MD5sum: 61f77de4a46c7a6543e51e4e928b2783
-SHA1: ce603f2b93b831ee3c35edab7b470f9f303ebf34
-SHA256: b3518d070bb87867f14ee72c12803b7b03fbd3bd051314338e53d472160ec204
-SHA512: 5dcae3f4a0c2827341ad28cd46be22ce2ff0882a7aee848b10d047538a902e1285d969f99054f40f1ef51cdfe39ef24f656c8b8fbb1c8599774755f984dd877f
+Filename: ./development/code/code_1.102.0-1752099871_arm64.deb
+Size: 100498766
+MD5sum: d3e3bedebc68e7748ffb0e4b319ac80b
+SHA1: e06dc3bee24eb5ca99e6b14c7e74cc574ca97238
+SHA256: c5011e6d752e14cd2d9951632ff0106196654873725d9b3af1f59de3755e0394
+SHA512: b10c5f5709d795ee6c73352d7263e53e5b9aa12c78c8254d9cc9e0c935756967c4e841d05d4d3903c563553ed1d11f41826b41e1653a95dc2b09309befcb505e
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
@@ -13114,19 +13193,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: arm64
-Version: 3.2.18-36580
+Version: 3.2.18-37051
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 538255
+Installed-Size: 539431
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-36580_arm64.deb
-Size: 166112936
-MD5sum: 96dbe7be39964bb417f3f873ffe7c42f
-SHA1: 28b522140a61d6cc6a1d721b7195b4811b2ea2ec
-SHA256: eed789591befcf96da26c68798ec2790b801701c56394086a55dbe3071fb4e27
-SHA512: d8a00a723b2c9fda1549315d7c3d1a89235a6d7f8607ba9a009cc85d11ba9335e197d3c9c3db2fbcd99cbe40dd0e160c4b1d731c3f594a6e7da744a94938c6d1
+Filename: ./chat/linuxqq/linuxqq_3.2.18-37051_arm64.deb
+Size: 166570680
+MD5sum: 2e5a6cc4a07feaa6a407dabb1b3e261e
+SHA1: 1fe0ecf4550864dc4d832f26c1877f74a37b3969
+SHA256: dfb1c45e92f27888e05ec0289cd8d2dd8688c24e08b762c3cba623e25a8af784
+SHA512: 2b25a2a544be9039d757982e07c3c55ee208a021611bd17080ad0314b7f8bc3b54806954b231bf748b14fc4fdea98625dc5ca0ffb71949524bb5f744b68eb07e
 Homepage: https://im.qq.com
 Description: 
   QQ

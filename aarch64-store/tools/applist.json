@@ -114,10 +114,10 @@
     "More": "Jokul自制简易式玲珑商店客户端，是玲珑官方SIG项目之一,使用过程中出现BUG，请在商店关于内问题反馈，或者在作者得github或者gitee上留issue，谢谢！",
     "Tags": "debian;community;ubuntu;deepin",
     "Pkgname": "linglong-store",
-    "Version": "1.4.1",
-    "Filename": "linglong-store_1.4.1_arm64.deb",
-    "Update": "2025-07-02 01:39:31",
-    "Size": "72.39MB",
+    "Version": "1.4.2",
+    "Filename": "linglong-store_1.4.2_arm64.deb",
+    "Update": "2025-07-12 02:42:01",
+    "Size": "72.58MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -534,6 +534,22 @@
 
 ,
 {
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.remmina.spark_1.0_all.deb",
+    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
+    "Name": "Remmina远程桌面",
+    "Pkgname": "org.remmina.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
+}
+
+,
+{
     "Author": "onehub",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "chat.deepseek.com_1.0.0_all.deb",
@@ -548,22 +564,6 @@
     "Website": "https://bbs.spark-app.store/u/onehub",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.remmina.spark_1.0_all.deb",
-    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
-    "Name": "Remmina远程桌面",
-    "Pkgname": "org.remmina.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -1643,6 +1643,24 @@
 
 ,
 {
+  "Author": "https://app.lizardbyte.dev",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "sunshine_2025.122.141614_arm64.deb",
+  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
+  "Name": "Sunshine",
+  "Pkgname": "sunshine",
+  "Size": "7432 Kb",
+  "Tags": "community;ubuntu;native",
+  "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
+  "Update": "2025-02-07 11:12:49",
+  "Version": "2025.122.141614",
+  "Website": "https://app.lizardbyte.dev/Sunshine",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
+}
+
+,
+{
   "Author": "Beijing Rising Inc.",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.rising.antivirus.single_3.0.5.12_arm64.deb",
@@ -1675,24 +1693,6 @@
   "Website": "https://cn.filegee.com/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/com.filegee.spark/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "https://app.lizardbyte.dev",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "sunshine_2025.122.141614_arm64.deb",
-  "More": "Sunshine 是 Moonlight 的自托管游戏串流服务端。我们提供低延迟、云游戏服务器功能，支持 AMD、Intel 和 Nvidia GPU 进行硬件编码，同时也支持软件编码。您可以使用 Moonlight 客户端在各种设备上连接到 Sunshine。我们提供了 Web 用户界面，您可以通过您喜欢的 Web 浏览器进行配置和客户端配对，无论是从本地服务器还是从任何移动设备上。\n\nSunshine is a self-hosted game stream host for Moonlight. Offering low latency, cloud gaming server capabilities with support for AMD, Intel, and Nvidia GPUs for hardware encoding. Software encoding is also available. You can connect to Sunshine from any Moonlight client on a variety of devices. A web UI is provided to allow configuration, and client pairing, from your favorite web browser. Pair from the local server or any mobile device.\n\n",
-  "Name": "Sunshine",
-  "Pkgname": "sunshine",
-  "Size": "7432 Kb",
-  "Tags": "community;ubuntu;native",
-  "Torrent_address": "sunshine_2025.122.141614_arm64.deb.torrent",
-  "Update": "2025-02-07 11:12:49",
-  "Version": "2025.122.141614",
-  "Website": "https://app.lizardbyte.dev/Sunshine",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/tools/sunshine/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/sunshine/screen_1.png\"]"
 }
 
 ,
@@ -2087,6 +2087,24 @@
     "Website": "https://gitee.com/amber-ce/amber-ce-sid/",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-sid/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-sid/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "electronjs.org",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "cherrystudio_1.4.11_arm64.deb",
+    "More": "一个强大的AI客户端！",
+    "Name": "Cherry Studio",
+    "Pkgname": "cherrystudio",
+    "Size": "99 Mb",
+    "Tags": "community;ubuntu;debian",
+    "Torrent_address": "cherrystudio_1.4.11_arm64.deb.torrent",
+    "Update": "2025-07-11 20:53:53",
+    "Version": "1.4.11",
+    "Website": "https://github.com/CherryHQ/cherry-studio",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cherrystudio/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cherrystudio/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherrystudio/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cherrystudio/screen_3.png\"]"
 }
 
 ]

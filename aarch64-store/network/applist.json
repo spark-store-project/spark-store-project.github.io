@@ -1,14 +1,14 @@
 [
 {
     "Name": "360安全浏览器(Linux)",
-    "Version": "13.4.1000.58-1",
-    "Filename": "browser360-cn-stable_13.4.1000.58-1_arm64.deb",
-    "Torrent_address": "browser360-cn-stable_13.4.1000.58-1_arm64.deb.torrent",
+    "Version": "13.4.1000.61-1",
+    "Filename": "browser360-cn-stable_13.4.1000.61-1_arm64.deb",
+    "Torrent_address": "browser360-cn-stable_13.4.1000.61-1_arm64.deb.torrent",
     "Pkgname": "browser360-cn-stable",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://browser.360.net/gc/index.html/",
-    "Update": "2025-06-06 17:36:56",
+    "Update": "2025-07-11 18:31:57",
     "Size": "123M",
     "More": "360安全浏览器结合最新的Chromium内核，领先的国密套件支持，完整的信创迁移方案，为政企客户提供最极速、最安全、最易用的浏览器。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -19,14 +19,14 @@
 ,
 {
     "Name": "Firefox火狐浏览器",
-    "Version": "140.0+build1-0ubuntu0.22.04.1~mt1",
-    "Filename": "firefox-spark_140.0+build1-0ubuntu0.22.04.1~mt1_arm64.deb",
-    "Torrent_address": "firefox-spark_140.0+build1-0ubuntu0.22.04.1~mt1_arm64.deb.torrent",
+    "Version": "140.0.4+build1-0ubuntu0.22.04.1~mt1",
+    "Filename": "firefox-spark_140.0.4+build1-0ubuntu0.22.04.1~mt1_arm64.deb",
+    "Torrent_address": "firefox-spark_140.0.4+build1-0ubuntu0.22.04.1~mt1_arm64.deb.torrent",
     "Pkgname": "firefox-spark",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/firefox-spark-arm",
-    "Update": "2025-06-24 17:39:57",
+    "Update": "2025-07-11 18:03:36",
     "Size": "61M",
     "More": "Firefox最新版。适用于Ubuntu 2204/Debian 12/deepin23. 其他用户请使用firefox-spark-ace.",
     "Tags": "ubuntu;deepin;debian;community",
@@ -37,19 +37,16 @@
 ,
 {
     "Name": "Firefox火狐浏览器(ACE)",
-    "Version": "136.0.4+build1-0ubuntu0.22.04.1~mt1",
-    "Filename": "firefox-spark-ace_136.0.4+build1-0ubuntu0.22.04.1~mt1_all.deb",
-    "Torrent_address": "firefox-spark-ace_136.0.4+build1-0ubuntu0.22.04.1~mt1_all.deb.torrent",
+    "Version": "140.0+build1-0ubuntu0.22.04.1~mt1",
+    "Filename": "firefox-spark-ace_140.0+build1-0ubuntu0.22.04.1~mt1_all.deb",
     "Pkgname": "firefox-spark-ace",
     "Author": "shenmo<shenmo@spark-app.store>",
-    "Contributor": "shenmo<shenmo@spark-app.store>",
+    "Contributor": "https://gitee.com/spark-building-service",
     "Website": "https://gitee.com/spark-building-service/firefox-spark-ace",
-    "Update": "2025-03-31 01:34:43",
+    "Update": "2025-07-12 02:04:52",
     "Size": "4.0K",
     "More": "Firefox最新版\n全都能用，小小电脑和termux请不要安装，转而使用firefox-spark",
-    "Tags": "ubuntu;deepin;uos;community;debian",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/firefox-spark-ace/icon.png"
+    "Tags": "ubuntu;deepin;uos;community;debian"
 }
 
 ,
@@ -214,20 +211,20 @@
 
 ,
 {
-  "Author": "Lbrowser Team <browser@loongson.cn>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "cn.loongnix.lbrowser_3.3.2001.5-1.stable_arm64.deb",
-  "More": "龙芯浏览器是基于chromium内核开发的一款安全高效的浏览器，提供常见的管理功能：浏览器历史记录管理，书签管理，下载管理，集成web开发者工具功能，支持npapi插件功能，支持国家商用密码算法模块和国产安全协议模块，深度优化多媒体、图形库等模块，增加DoH、本地数据加密等安全特性，鼠标手势\n、划词翻译等功能特性。龙芯浏览器已经兼容龙芯、\n鲲鹏 兆芯以及飞腾等国产处理器架构，以及UOS、银河麒麟等操作系统，高效满足信创平台办公需求。",
-  "Name": "龙芯浏览器",
-  "Pkgname": "cn.loongnix.lbrowser",
-  "Size": "87 Mb",
-  "Tags": "deepin;uos;ubuntu;debian",
-  "Torrent_address": "cn.loongnix.lbrowser_3.3.2001.5-1.stable_arm64.deb.torrent",
-  "Update": "2025-01-15 13:48:08",
-  "Version": "3.3.2001.5-1.stable",
-  "Website": "http://www.loongnix.cn/zh/api/lbrowser/",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/screen_3.png\"]"
+    "Author": "Lbrowser Team <browser@loongson.cn>",
+    "Contributor": "Lbrowser Team <browser@loongson.cn>",
+    "Filename": "cn.loongnix.lbrowser_3.3.2189.7-1.stable_arm64.deb",
+    "More": "龙芯浏览器是基于chromium内核开发的一款安全高效的浏览器，提供常见的管理功能：浏览器历史记录管理，书签管理，下载管理，集成web开发者工具功能，支持npapi插件功能，支持国家商用密码算法模块和国产安全协议模块，深度优化多媒体、图形库等模块，增加DoH、本地数据加密等安全特性，鼠标手势\n、划词翻译等功能特性。龙芯浏览器已经兼容龙芯、\n鲲鹏 兆芯以及飞腾等国产处理器架构，以及UOS、银河麒麟等操作系统，高效满足信创平台办公需求。",
+    "Name": "龙芯浏览器",
+    "Pkgname": "cn.loongnix.lbrowser",
+    "Size": "81 Mb",
+    "Tags": "deepin;ubuntu;debian",
+    "Torrent_address": "cn.loongnix.lbrowser_3.3.2189.7-1.stable_arm64.deb.torrent",
+    "Update": "2025-07-11 22:49:35",
+    "Version": "3.3.2189.7-1.stable",
+    "Website": "http://www.loongnix.cn/zh/api/lbrowser/",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/network/cn.loongnix.lbrowser/screen_3.png\"]"
 }
 
 ,
@@ -983,6 +980,24 @@
 
 ,
 {
+    "Name": "frpc（frp 客户端）",
+    "Version": "0.63.0-1",
+    "Filename": "frpc_0.63.0-1_arm64.deb",
+    "Torrent_address": "frpc_0.63.0-1_arm64.deb.torrent",
+    "Pkgname": "frpc",
+    "Author": "wcbing <i@wcbing.top>",
+    "Contributor": "wcbing <i@wcbing.top>",
+    "Website": "https://github.com/wcbing/frp-debs",
+    "Update": "2025-06-26 17:47:53",
+    "Size": "3.7M",
+    "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frpc/icon.png"
+}
+
+,
+{
     "Author": "Oray <dev@oray.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "sunloginremote_6.5.5.20079_arm64.deb",
@@ -1015,24 +1030,6 @@
   "Website": "https://github.com/chenhb23/lanzouyun-disk",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/com.lanzou.spark/screen_3.png\"]"
-}
-
-,
-{
-    "Name": "frpc（frp 客户端）",
-    "Version": "0.63.0-1",
-    "Filename": "frpc_0.63.0-1_arm64.deb",
-    "Torrent_address": "frpc_0.63.0-1_arm64.deb.torrent",
-    "Pkgname": "frpc",
-    "Author": "wcbing <i@wcbing.top>",
-    "Contributor": "wcbing <i@wcbing.top>",
-    "Website": "https://github.com/wcbing/frp-debs",
-    "Update": "2025-06-26 17:47:53",
-    "Size": "3.7M",
-    "More": "官方 frpc（frp 客户端）CLI 程序的封装。\n\nfrp 是简单、高效的内网穿透工具，支持多种代理类型以及 P2P 通信，为不同场景下的需求提供丰富的解决方案。",
-    "Tags": "ubuntu;deepin;uos;debian;community",
-    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/frpc/screen_5.png\"]",
-    "icons": "https://cdn.d.store.deepinos.org.cn/store/network/frpc/icon.png"
 }
 
 ,
