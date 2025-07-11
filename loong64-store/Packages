@@ -4142,6 +4142,25 @@ Description: UltraISO for dwine8
 
 Package: clash-verge
 Architecture: loong64
+Version: 2.3.1-2
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 122148
+Provides: clash-verge
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: clash-verge
+Replaces: clash-verge
+Filename: ./xrea/clash-verge/clash-verge_2.3.1-2_loong64.deb
+Size: 30857528
+MD5sum: 09534640205b8c8e061fed010d4707f3
+SHA1: b33247319612056b07fce9ab891eca615b63da61
+SHA256: e81875e56e6a1f4674b39ce3edb7131e32b0747c27b382c6b70243854ac10ba3
+SHA512: c9ddf19864fe2dafb32ff923486621ade560eb94ab297ec217c4344be21788c4d0b252a9d175e1983c7756862a6d0085aa051270dd0335d0ad7c13bc9c1dfe2e
+Description: Clash Verge Rev
+ Clash Verge Rev
+
+Package: clash-verge
+Architecture: loong64
 Version: 2.2.3-1
 Priority: optional
 Maintainer: zzzgydi, wonfen, MystiPanda

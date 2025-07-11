@@ -17,6 +17,8 @@
 			  
 			<resources>
 				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/com.ceis.app/com.ceis.app_2.3.81_amd64.deb</url>
+				  
 				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/com.ceis.app/com.ceis.app_2.3.81_amd64.deb</url>
 				  
 				<url type="http" location="cn" preference="100">https://sparks.opkg.cn/d/cn/store/./network/com.ceis.app/com.ceis.app_2.3.81_amd64.deb</url>

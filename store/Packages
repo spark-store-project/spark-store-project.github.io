@@ -7557,6 +7557,27 @@ Description: It will redirect dedit to cherrystudio
 
 Package: cherrystudio
 Architecture: amd64
+Version: 1.4.11
+Priority: optional
+Section: default
+Maintainer: electronjs.org
+Installed-Size: 402382
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./tools/cherrystudio/cherrystudio_1.4.11_amd64.deb
+Size: 105951400
+MD5sum: 6226be1b9e8c2f5d8748f62909ed81d3
+SHA1: a7690f35d3dd9b86710fa9ec9caafadb5d25c78d
+SHA256: d01b5fe5db1d86ec25eea5bacd6b74535f70381e4c294d9121afd4b7499d9877
+SHA512: 30f716d8c0d76f51b4600cf5999c65aedef72e3c721444c40ee9d9c4f5df5b1333de511a53beb573a649e1016cfc32aa148cdb5c0a56fd249985721db2db82b3
+Homepage: https://github.com/CherryHQ/cherry-studio
+Description: 
+  A powerful AI assistant for producer.
+License: unknown
+Vendor: electronjs.org
+
+Package: cherrystudio
+Architecture: amd64
 Version: 1.4.9
 Priority: optional
 Section: default
@@ -15768,6 +15789,21 @@ SHA1: e054dce6a780e468a8cd8fab0447f25db9b3b7b9
 SHA256: 5bd3bac779b3e7a4413cff40470478adea2a0d099a5cddeb9d1aa138676fe592
 SHA512: e484e0cb79f28e1b8afc7037e54516043763bfab653a0ad86c3351276c606fb68f5c3a7ebe0637a7ba7797b413080f256a9c2d440e1996d5f64cdd1fd30aed7d
 Description: A webapp of https://app.clipchamp.com packed by appdeveloper using spark webapp runtime
+
+Package: gimp-spark
+Architecture: amd64
+Version: 3.0.4
+Priority: optional
+Section: utils
+Maintainer: spark-store
+Depends: libfuse2
+Filename: ./image_graphics/gimp-spark/gimp-spark_3.0.4_amd64.deb
+Size: 125402080
+MD5sum: 9916dd1ef65b063dd380e0f1da0ec6b2
+SHA1: 1b3f7454f1dfe2c6ee1fd0ffa74b0bb308878cdb
+SHA256: 38b03ee73cd18e243398d8aa5e7d630c0a0a98fd7c4b90fa39074822d2449992
+SHA512: b49eaa9871d21fbacdc57d8c260cf53432e1bd462f2ac91d595e53bf45b5574f5a01dc703afb23c7a988aae4ebebd4f6ee0e9aedbb8567331f75ee4cd23b90e2
+Description: gimp-spark Software Package created by Appimage2Deb
 
 Package: gimp-spark
 Architecture: amd64

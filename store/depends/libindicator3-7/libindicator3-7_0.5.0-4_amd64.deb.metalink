@@ -17,6 +17,8 @@
 			  
 			<resources>
 				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./depends/libindicator3-7/libindicator3-7_0.5.0-4_amd64.deb</url>
+				  
 				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./depends/libindicator3-7/libindicator3-7_0.5.0-4_amd64.deb</url>
 				  
 				<url type="http" location="cn" preference="100">https://sparks.opkg.cn/d/cn/store/./depends/libindicator3-7/libindicator3-7_0.5.0-4_amd64.deb</url>

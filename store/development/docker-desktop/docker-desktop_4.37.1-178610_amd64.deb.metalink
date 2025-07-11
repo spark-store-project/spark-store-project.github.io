@@ -17,6 +17,8 @@
 			  
 			<resources>
 				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./development/docker-desktop/docker-desktop_4.37.1-178610_amd64.deb</url>
+				  
 				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./development/docker-desktop/docker-desktop_4.37.1-178610_amd64.deb</url>
 				  
 				<url type="http" location="cn" preference="100">https://sparks.opkg.cn/d/cn/store/./development/docker-desktop/docker-desktop_4.37.1-178610_amd64.deb</url>

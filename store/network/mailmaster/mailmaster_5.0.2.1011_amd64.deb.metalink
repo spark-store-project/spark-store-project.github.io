@@ -17,6 +17,8 @@
 			  
 			<resources>
 				   
+				<url type="http" location="cn" preference="100">https://mirrors.sdu.edu.cn/spark-store/store/./network/mailmaster/mailmaster_5.0.2.1011_amd64.deb</url>
+				  
 				<url type="http" location="cn" preference="100">https://spark.momen.world:59144/store/./network/mailmaster/mailmaster_5.0.2.1011_amd64.deb</url>
 				  
 				<url type="http" location="cn" preference="100">https://sparks.opkg.cn/d/cn/store/./network/mailmaster/mailmaster_5.0.2.1011_amd64.deb</url>
