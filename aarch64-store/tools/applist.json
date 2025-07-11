@@ -534,22 +534,6 @@
 
 ,
 {
-    "Author": "shenmo <jifengshenmo@outlook.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "org.remmina.spark_1.0_all.deb",
-    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
-    "Name": "Remmina远程桌面",
-    "Pkgname": "org.remmina.spark",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
-    "Update": "2023-05-02 20:20:09",
-    "Version": "1.0",
-    "Website": "https://shenmo7192.gitee.io/"
-}
-
-,
-{
     "Author": "onehub",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "chat.deepseek.com_1.0.0_all.deb",
@@ -564,6 +548,22 @@
     "Website": "https://bbs.spark-app.store/u/onehub",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/chat.deepseek.com/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "shenmo <jifengshenmo@outlook.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "org.remmina.spark_1.0_all.deb",
+    "More": "remmina的虚包，安装后会自动安装适合版本的remmina",
+    "Name": "Remmina远程桌面",
+    "Pkgname": "org.remmina.spark",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "org.remmina.spark_1.0_all.deb.torrent",
+    "Update": "2023-05-02 20:20:09",
+    "Version": "1.0",
+    "Website": "https://shenmo7192.gitee.io/"
 }
 
 ,
@@ -890,6 +890,24 @@
 
 ,
 {
+  "Author": "tav",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_arm64.deb",
+  "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
+  "Name": "腾讯御点",
+  "Pkgname": "com.tencent.yudian",
+  "Size": "57 Mb",
+  "Tags": "deepin;uos;debian;native",
+  "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_arm64.deb.torrent",
+  "Update": "2023-03-07 21:45:44",
+  "Version": "2.1.0.348-1.uos20",
+  "Website": "http://tav.qq.com",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_4.png\"]"
+}
+
+,
+{
   "Author": "gfdgd_xi <3025613752@qq.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "gxde-deb-installer_1.5.3_arm64.deb",
@@ -940,24 +958,6 @@
   "Website": "https://www.qianxin.com/",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.qianxin.qaxsafe/screen_4.png\"]"
-}
-
-,
-{
-  "Author": "tav",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_arm64.deb",
-  "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
-  "Name": "腾讯御点",
-  "Pkgname": "com.tencent.yudian",
-  "Size": "57 Mb",
-  "Tags": "deepin;uos;debian;native",
-  "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_arm64.deb.torrent",
-  "Update": "2023-03-07 21:45:44",
-  "Version": "2.1.0.348-1.uos20",
-  "Website": "http://tav.qq.com",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.tencent.yudian/screen_4.png\"]"
 }
 
 ,
@@ -1052,6 +1052,24 @@
 
 ,
 {
+  "Author": "SeptemberHX",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "dde-top-panel_0.6.8_arm64.deb",
+  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+  "Name": "DDE Top Panel 顶栏程序",
+  "Pkgname": "dde-top-panel",
+  "Size": "7119 Kb",
+  "Tags": "community;deepin;uos;native",
+  "Torrent_address": "dde-top-panel_0.6.8_arm64.deb.torrent",
+  "Update": "2023-03-05 18:52:16",
+  "Version": "0.6.8",
+  "Website": "https://github.com/SeptemberHX/dde-top-panel",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
+}
+
+,
+{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
@@ -1066,24 +1084,6 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "phytium",
-  "Contributor": "PlaneCN",
-  "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
-  "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
-  "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
-  "Pkgname": "cn.com.phytium.phyvirt.kylin",
-  "Size": "126 Mb",
-  "Tags": "native",
-  "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
-  "Update": "2024-05-16 17:43:17",
-  "Version": "1.5.5.0",
-  "Website": "https://www.phytium.com.cn/developer/39/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
 }
 
 ,
@@ -1106,20 +1106,20 @@
 
 ,
 {
-  "Author": "SeptemberHX",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "dde-top-panel_0.6.8_arm64.deb",
-  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
-  "Name": "DDE Top Panel 顶栏程序",
-  "Pkgname": "dde-top-panel",
-  "Size": "7119 Kb",
-  "Tags": "community;deepin;uos;native",
-  "Torrent_address": "dde-top-panel_0.6.8_arm64.deb.torrent",
-  "Update": "2023-03-05 18:52:16",
-  "Version": "0.6.8",
-  "Website": "https://github.com/SeptemberHX/dde-top-panel",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
+  "Author": "phytium",
+  "Contributor": "PlaneCN",
+  "Filename": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb",
+  "More": "注：仅适用于银河麒麟，UOS用户请下载UOS版\nPhyVirt是一款可直接运行在飞腾平台和主流国产操作系统的虚拟化平台软件，主要用于在信创环境下安装虚拟机，同时支持桌面融合技术，满足终端虚拟化和应用虚拟化的需求。",
+  "Name": "飞腾Phyvirt虚拟化套件 银河麒麟版",
+  "Pkgname": "cn.com.phytium.phyvirt.kylin",
+  "Size": "126 Mb",
+  "Tags": "native",
+  "Torrent_address": "cn.com.phytium.phyvirt.kylin_1.5.5.0_arm64.deb.torrent",
+  "Update": "2024-05-16 17:43:17",
+  "Version": "1.5.5.0",
+  "Website": "https://www.phytium.com.cn/developer/39/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/aarch64-store/tools/cn.com.phytium.phyvirt.kylin/screen_3.png\"]"
 }
 
 ,
@@ -1769,6 +1769,24 @@
 
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "amber-ce-trixie_13.8.4_arm64.deb",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
+    "Name": "ACE Trixie  兼容环境",
+    "Pkgname": "amber-ce-trixie",
+    "Size": "137 Mb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "amber-ce-trixie_13.8.4_arm64.deb.torrent",
+    "Update": "2025-06-15 21:14:56",
+    "Version": "13.8.4",
+    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/screen_1.png\"]"
+}
+
+,
+{
   "Author": "zinface <zinface@163.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "z-tools-dockerfile_0.1-20230129_arm64.deb",
@@ -1837,24 +1855,6 @@
   "Website": "http://doublecommander.com/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/doublecmd-spark/screen_2.png\"]"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "amber-ce-trixie_13.8.4_arm64.deb",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
-    "Name": "ACE Trixie  兼容环境",
-    "Pkgname": "amber-ce-trixie",
-    "Size": "137 Mb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "amber-ce-trixie_13.8.4_arm64.deb.torrent",
-    "Update": "2025-06-15 21:14:56",
-    "Version": "13.8.4",
-    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/amber-ce-trixie/screen_1.png\"]"
 }
 
 ,

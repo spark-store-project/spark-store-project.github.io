@@ -422,19 +422,19 @@
 ,
 {
     "Name": "musicfox （网易云音乐命令行版）",
-    "Version": "4.6.2-7",
-    "Filename": "go-musicfox_4.6.2-7_amd64.deb",
-    "Torrent_address": "go-musicfox_4.6.2-7_amd64.deb.torrent",
+    "Version": "4.6.3-1",
+    "Filename": "go-musicfox_4.6.3-1_amd64.deb",
+    "Torrent_address": "go-musicfox_4.6.3-1_amd64.deb.torrent",
     "Pkgname": "go-musicfox",
     "Author": "anhoder <anhoder@88.com>",
-    "Contributor": "anhoder <anhoder@88.com>",
+    "Contributor": "xmb505 <530060699@qq.com>",
     "Website": "https://github.com/go-musicfox/go-musicfox",
-    "Update": "2025-06-25 19:43:59",
-    "Size": "5.74 MB",
-    "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。\n\n新毛维护的星火商店版本：\n2024/09/26：修复了Ubuntu 24.04缺失依赖库的问题\n\n2024/10/28：跟进上游版本\n\n2024/11/15：跟进上游版本\n\n2025/06/25：跟进上游版本，上游版本已经打包deb版本，但是并没有对于Ubuntu 2204支持，此版本重打包重新修复了libFLAC8的问题",
+    "Update": "2025-07-09 17:35:20",
+    "Size": "5.9 MB",
+    "More": "go-musicfox 是用 Go 写的又一款网易云音乐命令行客户端，支持各种音质级别、UnblockNeteaseMusic、Last.fm、MPRIS 和 macOS 交互响应（睡眠暂停、蓝牙耳机连接断开响应和菜单栏控制等）等功能特性。\n\n新毛维护的星火商店版本：\n2024/09/26：修复了Ubuntu 24.04缺失依赖库的问题\n\n2024/10/28：跟进上游版本\n\n2024/11/15：跟进上游版本\n\n2025/06/25：跟进上游版本，上游版本已经打包deb版本，但是并没有对于Ubuntu 2204支持，此版本重打包重新修复了libFLAC8的问题\n\n2025/07/09：跟进上游版本",
     "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/25/0e00e97495de4be4b6e450bcf9d6c61f.png\",\"https://spk-json.spark-app.store/images/2025/06/25/db6b6c789a784338acc963f44f8d1d50.png\",\"https://spk-json.spark-app.store/images/2025/06/25/45e76f26d5e44aa29a5ece9a77b77e75.png\",\"https://spk-json.spark-app.store/images/2025/06/25/2f306d14d43f4a2eab9a29b6438801ea.png\",\"https://spk-json.spark-app.store/images/2025/06/25/4408dd417d02458a84725bf8e0b65950.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/25/81dfc1c2a48a4f56abcfdc96f341d7d8.png"
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/09/50a5f73bcc9c425f8cb7577b9009a739.png\",\"https://spk-json.spark-app.store/images/2025/07/09/2229a320f2f84efdbe9be0e8f71650f8.png\",\"https://spk-json.spark-app.store/images/2025/07/09/4ac96b81f9d24b828033f2c68786e510.png\",\"https://spk-json.spark-app.store/images/2025/07/09/9472da63a3eb4e5fa7373df238c153fb.png\",\"https://spk-json.spark-app.store/images/2025/07/09/b2dc27bef1284a808d9ce842a42edd44.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/09/3171d3f9d3d54e9084ebdf2fc1a57d92.png"
 }
 ,
 {
@@ -1379,6 +1379,23 @@
 
 ,
 {
+    "Name": "OpenUtau",
+    "Version": "0.1.529.0",
+    "Filename": "com.openutau.www_0.1.529.0_amd64.deb",
+    "Torrent_address": "com.openutau.www_0.1.529.0_amd64.deb.torrent",
+    "Pkgname": "com.openutau.www",
+    "Author": "linglongsha <499918911@qq.com>",
+    "Contributor": "linglongsha <499918911@qq.com>",
+    "Website": "www.openutau.www",
+    "Update": "2025-04-02 20:52:24",
+    "Size": "80.94 MB",
+    "More": "开放式歌唱合成平台 / 开源 UTAU 后继者",
+    "Tags": "debian;ubuntu;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/02/173a62899a154eb3aab8ebd4f4a8e38a.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/02/e80377149364403292baecf204173302.png"
+}
+,
+{
   "Name": "Tenacity",
   "Version": "1.3.4spark0",
   "Filename": "org.tenacityaudio.tenacity.spark_1.3.4spark0_amd64.deb",
@@ -1413,23 +1430,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/12/1497c2a4d87945ffbcc1464ec572dfbb.png"
 }
 
-,
-{
-    "Name": "OpenUtau",
-    "Version": "0.1.529.0",
-    "Filename": "com.openutau.www_0.1.529.0_amd64.deb",
-    "Torrent_address": "com.openutau.www_0.1.529.0_amd64.deb.torrent",
-    "Pkgname": "com.openutau.www",
-    "Author": "linglongsha <499918911@qq.com>",
-    "Contributor": "linglongsha <499918911@qq.com>",
-    "Website": "www.openutau.www",
-    "Update": "2025-04-02 20:52:24",
-    "Size": "80.94 MB",
-    "More": "开放式歌唱合成平台 / 开源 UTAU 后继者",
-    "Tags": "debian;ubuntu;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/02/173a62899a154eb3aab8ebd4f4a8e38a.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/02/e80377149364403292baecf204173302.png"
-}
 ,
 {
   "Name": "Opal",

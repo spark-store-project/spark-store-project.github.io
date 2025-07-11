@@ -771,21 +771,6 @@
 
 ,
 {
-  "Name": "Intel核心管理器",
-  "Version": "0.2.0",
-  "Filename": "dde-pstate_0.2.0_all.deb",
-  "Pkgname": "dde-pstate",
-  "Author": "搬运自网络",
-  "Contributor": "奇点法则",
-  "Website": "Q群：226570931",
-  "Update": "2020-07-27 00:32",
-  "Size": "74.25KB",
-  "More": "适用于Intel平台的核心频率管理器,仅支持deepin",
-  "Tags": "debian;native"
-}
-
-,
-{
   "Name": "简单任务栏网速插件",
   "Version": "0.0.7",
   "Filename": "com.github.ccc-proc-info-plugin_0.0.7_amd64.deb",
@@ -800,6 +785,21 @@
   "Tags": "community;deepin;dtk5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/ac412623a90b4b3bba9ee72c9cd07f82.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f2a297c639e544ddb3de0f3ba49d58e1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/3f7be342f15f443bbfa7d398780f3b2b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/17/f75d32298c1946ca94a1eb08fe214ac5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/17/52bcd9c3e94d422a83b0d5390dd95f5f.png"
+}
+
+,
+{
+  "Name": "Intel核心管理器",
+  "Version": "0.2.0",
+  "Filename": "dde-pstate_0.2.0_all.deb",
+  "Pkgname": "dde-pstate",
+  "Author": "搬运自网络",
+  "Contributor": "奇点法则",
+  "Website": "Q群：226570931",
+  "Update": "2020-07-27 00:32",
+  "Size": "74.25KB",
+  "More": "适用于Intel平台的核心频率管理器,仅支持deepin",
+  "Tags": "debian;native"
 }
 
 ,
@@ -1356,24 +1356,6 @@
 
 ,
 {
-  "Name": "UOS AI",
-  "Version": "1.2.13-1",
-  "Filename": "uos-ai_1.2.13-1_amd64.deb",
-  "Torrent_address": "uos-ai_1.2.13-1_amd64.deb.torrent",
-  "Pkgname": "uos-ai",
-  "Author": "deepin <packages@deepin.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.deepin.org/",
-  "Update": "2025-04-10 22:29:55",
-  "Size": "3.16 MB",
-  "More": "UOS AI 插件\n适用于deepin 23",
-  "Tags": "deepin;uos;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/10/6ae026a047b949eaa54ef28bde8258d2.png\",\"https://spk-json.spark-app.store/images/2025/04/10/cd39e74888d5499c9e66971a67f6a60d.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/10/c4f0935c3c7c4c67a1557bf2dd212d2b.png"
-}
-
-,
-{
     "Author": "shenmo <jifengshenmo@outlook.com>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "gxde-app-uninstaller_1.5.1_all.deb",
@@ -1388,6 +1370,24 @@
     "Website": "https://gitee.com/GXDE-OS/gxde-app-uninstaller",
     "icons": "https://spk-json.spark-app.store/store/tools/gxde-app-uninstaller/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-app-uninstaller/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "UOS AI",
+  "Version": "1.2.13-1",
+  "Filename": "uos-ai_1.2.13-1_amd64.deb",
+  "Torrent_address": "uos-ai_1.2.13-1_amd64.deb.torrent",
+  "Pkgname": "uos-ai",
+  "Author": "deepin <packages@deepin.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.deepin.org/",
+  "Update": "2025-04-10 22:29:55",
+  "Size": "3.16 MB",
+  "More": "UOS AI 插件\n适用于deepin 23",
+  "Tags": "deepin;uos;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/10/6ae026a047b949eaa54ef28bde8258d2.png\",\"https://spk-json.spark-app.store/images/2025/04/10/cd39e74888d5499c9e66971a67f6a60d.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/10/c4f0935c3c7c4c67a1557bf2dd212d2b.png"
 }
 
 ,
@@ -1885,20 +1885,20 @@
 
 ,
 {
-    "Name": "Cherry Studio",
-    "Version": "1.4.2",
-    "Filename": "cherry-studio_1.4.2_amd64.deb",
-    "Torrent_address": "cherry-studio_1.4.2_amd64.deb.torrent",
-    "Pkgname": "cherry-studio",
-    "Author": "spark-store",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://cherry-ai.com/",
-    "Update": "2025-06-14 15:22:45",
-    "Size": "91.78 MB",
-    "More": "支持多模型服务的 Windows/macOS/Linux GPT 客户端\n\n2025.2.2\n修复了之前Appimage转deb的桌面图标bug\n重新整理了软件目录，没有那啥squashfs了",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/550abcfac6f64006abb5cedf9fc01f99.png\",\"https://spk-json.spark-app.store/images/2025/06/14/20e84abb29684073b8da66362b309e9e.png\",\"https://spk-json.spark-app.store/images/2025/06/14/4ba98b79dbdc42759f121bd67e4dee30.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/4252a80d20734072b7f384fc741ad1b3.png"
+    "Name": "Cherry Studio（官网deb包版）",
+    "Version": "1.4.9",
+    "Filename": "cherrystudio_1.4.9_amd64.deb",
+    "Torrent_address": "cherrystudio_1.4.9_amd64.deb.torrent",
+    "Pkgname": "cherrystudio",
+    "Author": "electronjs.org",
+    "Contributor": "xmb505 <530060699@qq.com>",
+    "Website": "https://github.com/CherryHQ/cherry-studio",
+    "Update": "2025-07-09 16:47:03",
+    "Size": "100.53 MB",
+    "More": "一个强大的AI客户端！",
+    "Tags": "community;debian;ubuntu",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/09/43ecd46be7204ae79be910a26805ad02.png\",\"https://spk-json.spark-app.store/images/2025/07/09/62981c8241a8482eaec73e087d49a08a.png\",\"https://spk-json.spark-app.store/images/2025/07/09/85cb69808d984819bbd017f428b2215f.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/09/1120203dc4c04ede9239a21ad1b1be53.png"
 }
 ,
 {
@@ -1956,22 +1956,21 @@
 
 ,
 {
-  "Name": "VirtualBox 7.1（GXDE/Debian12）",
-  "Version": "7.1.8-168469~Debian~bookworm",
-  "Filename": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb",
-  "Torrent_address": "virtualbox-7.1_7.1.8-168469~Debian~bookworm_amd64.deb.torrent",
-  "Pkgname": "virtualbox-7.1",
-  "Author": "Oracle Corporation <info@virtualbox.org>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.virtualbox.org/",
-  "Update": "2025-04-22 23:03:56",
-  "Size": "112.35 MB",
-  "More": "VirtualBox is a powerful PC virtualization solution allowing you to run a\n wide range of PC operating systems on your Linux system. This includes\n Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad\n feature set and excellent performance, making it the premier virtualization\n software solution on the market.",
-  "Tags": "debian;ubuntu;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/22/bdf8fc4bc66a43f6ba6b082164baf87d.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5b1afb0b9d2e4011bbd1314cb8fb63fb.png\",\"https://spk-json.spark-app.store/images/2025/04/22/5f4fecd4fbc7449480bc1d5295e079d2.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/22/45cb3c2d306d4f8d82500c67754bb3da.png"
+    "Name": "VirtualBox 7.1（GXDE/Debian12）",
+    "Version": "7.1.10-169112~Debian~bookworm",
+    "Filename": "virtualbox-7.1_7.1.10-169112~Debian~bookworm_amd64.deb",
+    "Torrent_address": "virtualbox-7.1_7.1.10-169112~Debian~bookworm_amd64.deb.torrent",
+    "Pkgname": "virtualbox-7.1",
+    "Author": "Oracle Corporation <info@virtualbox.org>",
+    "Contributor": "Oracle Corporation <info@virtualbox.org>",
+    "Website": "https://www.virtualbox.org/",
+    "Update": "2025-07-09 18:40:21",
+    "Size": "113.2 MB",
+    "More": "GXDE 25版本",
+    "Tags": "community;debian",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/09/b301a1b02ed749a597582b2661d45181.png\",\"https://spk-json.spark-app.store/images/2025/07/09/48dedb6bcd074f06871a2b04aa677bbf.png\",\"https://spk-json.spark-app.store/images/2025/07/09/5f8e5da2576c469cb795cfc17bbf47d4.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/09/237b6928567d4c82b6b80c7eb179bb50.png"
 }
-
 ,
 {
   "Name": "QGIS(书虫版)",
@@ -2648,24 +2647,6 @@
 
 ,
 {
-  "Author": "shenmo<shenmo@spark-app.store>",
-  "Contributor": "shenmo<shenmo@spark-app.store>",
-  "Filename": "open-in-terminal-tool_1.0.1_all.deb",
-  "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
-  "Name": "在终端中打开工具",
-  "Pkgname": "open-in-terminal-tool",
-  "Size": "80 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
-  "Update": "2024-03-14 18:11:00",
-  "Version": "1.0.1",
-  "Website": "https://gitee.com/deepin-community-store/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
-}
-
-,
-{
   "Name": "Bitwarden密码管理",
   "Version": "2022.9.1",
   "Filename": "bitwarden-spark_2022.9.1_amd64.deb",
@@ -2680,6 +2661,24 @@
   "Tags": "a2d;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/11/60f5c865-61cf-4375-94a3-e9da3d24b0de.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/11/e4e8a83f-5036-4821-988c-697bfc04cea3.png"
+}
+
+,
+{
+  "Author": "shenmo<shenmo@spark-app.store>",
+  "Contributor": "shenmo<shenmo@spark-app.store>",
+  "Filename": "open-in-terminal-tool_1.0.1_all.deb",
+  "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
+  "Name": "在终端中打开工具",
+  "Pkgname": "open-in-terminal-tool",
+  "Size": "80 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
+  "Update": "2024-03-14 18:11:00",
+  "Version": "1.0.1",
+  "Website": "https://gitee.com/deepin-community-store/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
 ,
@@ -3161,24 +3160,6 @@
 
 ,
 {
-  "Name": "dock栏居中配置(dde)",
-  "Version": "0.0.3",
-  "Filename": "dde-dock-display-center_0.0.3_all.deb",
-  "Torrent_address": "dde-dock-display-center_0.0.3_all.deb.torrent",
-  "Pkgname": "dde-dock-display-center",
-  "Author": "Individual developer <packages@email.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/dde-dock-display-center",
-  "Update": "2025-01-22 09:40:41",
-  "Size": "1.23 KB",
-  "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。\n适用于 GXOS dde15系列。",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/22/54e0a42b377148759b61fe0c248ce36a.png\",\"https://spk-json.spark-app.store/images/2025/01/22/1c8fc1f0cc914371971fd3a4d1583967.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/01/22/854c7e80bd7a4338927b6df0e2922c11.png"
-}
-
-,
-{
   "Name": "deepin23 镜像源选择器",
   "Version": "1.0.1",
   "Filename": "deepin-mirror-selector_1.0.1_amd64.deb",
@@ -3193,6 +3174,24 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/08/19/a204ac734d794c0b90f36da3cb871f88.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/19/43ab021f296648cf8df9d922a5e8a5ea.png"
+}
+
+,
+{
+  "Name": "dock栏居中配置(dde)",
+  "Version": "0.0.3",
+  "Filename": "dde-dock-display-center_0.0.3_all.deb",
+  "Torrent_address": "dde-dock-display-center_0.0.3_all.deb.torrent",
+  "Pkgname": "dde-dock-display-center",
+  "Author": "Individual developer <packages@email.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/dde-dock-display-center",
+  "Update": "2025-01-22 09:40:41",
+  "Size": "1.23 KB",
+  "More": "dde dock栏居中配置(dde-dock-display-center)\n\n1. 原本用于解决 dock 栏时尚居中的问题(修改版dde-dock可用)\n2. 脚本拥有重启 dde-dock 功能\n3. 当 dde-dock 出现异常时可作为重启 dde-dock 而用。\n\n适用于 deepin 20.x 与 deepin 23.x 全系列任意架构。\n适用于 GXOS dde15系列。",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/22/54e0a42b377148759b61fe0c248ce36a.png\",\"https://spk-json.spark-app.store/images/2025/01/22/1c8fc1f0cc914371971fd3a4d1583967.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/01/22/854c7e80bd7a4338927b6df0e2922c11.png"
 }
 
 ,
@@ -4050,6 +4049,24 @@
 
 ,
 {
+  "Name": "Flix 快传",
+  "Version": "1.4.0+48",
+  "Filename": "flix_1.4.0_plus48_amd64.deb",
+  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
+  "Pkgname": "flix",
+  "Author": "zhangjian <2242634757@qq.com>",
+  "Contributor": "洺渊",
+  "Website": "https://flix.center/",
+  "Update": "2025-04-01 20:19:21",
+  "Size": "16.27 MB",
+  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
+}
+
+,
+{
   "Name": "Aechoterm闪令",
   "Version": "3.0.3",
   "Filename": "aechoterm_3.0.3_amd64.deb",
@@ -4099,24 +4116,6 @@
     "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
     "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
-}
-
-,
-{
-  "Name": "Flix 快传",
-  "Version": "1.4.0+48",
-  "Filename": "flix_1.4.0_plus48_amd64.deb",
-  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
-  "Pkgname": "flix",
-  "Author": "zhangjian <2242634757@qq.com>",
-  "Contributor": "洺渊",
-  "Website": "https://flix.center/",
-  "Update": "2025-04-01 20:19:21",
-  "Size": "16.27 MB",
-  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
 }
 
 ,
@@ -4355,6 +4354,24 @@
 
 ,
 {
+  "Name": "GtkHash-哈希计算工具",
+  "Version": "1.4+git20220617-3",
+  "Filename": "gtkhash_1.4_plus_git20220617-3_amd64.deb",
+  "Torrent_address": "gtkhash_1.4_plus_git20220617-3_amd64.deb.torrent",
+  "Pkgname": "gtkhash",
+  "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+  "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+  "Website": "https://gtkhash.org",
+  "Update": "2024-05-04 14:05:47",
+  "Size": "113.28 KB",
+  "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
+}
+
+,
+{
   "Author": "shenmo <shenmo@spark-app.stpre>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "autotrash-bash_1.2.0_all.deb",
@@ -4386,24 +4403,6 @@
   "Tags": "uos;deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/699f79a0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/9201c330-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/971d49c0-dff6-11eb-8d27-75bc4085fde2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/07/08/a1057390-dff6-11eb-8d27-75bc4085fde2.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/07/08/99cd4400-dff5-11eb-8d27-75bc4085fde2.svg"
-}
-
-,
-{
-  "Name": "GtkHash-哈希计算工具",
-  "Version": "1.4+git20220617-3",
-  "Filename": "gtkhash_1.4_plus_git20220617-3_amd64.deb",
-  "Torrent_address": "gtkhash_1.4_plus_git20220617-3_amd64.deb.torrent",
-  "Pkgname": "gtkhash",
-  "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-  "Contributor": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-  "Website": "https://gtkhash.org",
-  "Update": "2024-05-04 14:05:47",
-  "Size": "113.28 KB",
-  "More": "GtkHash是一个用于计算消息校验和的桌面实用程序。支持大多数著名的哈希函数，包括MD5，SHA1，SHA 2（SHA 256/SHA 512）、SHA 3和BLAKE 2。版本为1.5-1，在deepin23测试通过。在deepin20.9会报缺少依赖。",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/3c0466ee8c894032932cf06b323aa9ba.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/b99da6009db640cdadd419b107f2627e.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/04/fc0ed7cb39204a06b0ba8398ea2783a9.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/04/d6506139cb2245688bd6f60bb7aacdbf.png"
 }
 
 ,
@@ -4444,6 +4443,24 @@
 
 ,
 {
+  "Name": "LM Studio",
+  "Version": "0.3.16",
+  "Filename": "lmstudio_0.3.16_amd64.deb",
+  "Torrent_address": "lmstudio_0.3.16_amd64.deb.torrent",
+  "Pkgname": "lmstudio",
+  "Author": "lmstudio-ai",
+  "Contributor": "enkl03B",
+  "Website": "https://lmstudio.ai/",
+  "Update": "2025-05-29 20:55:28",
+  "Size": "646.39 MB",
+  "More": "LM Studio,本地部署/运行LLM。\n点击主界面右下角齿轮图标-Language可设置中文。",
+  "Tags": "debian;ubuntu;deepin;uos;a2d;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/741d8dfd48db49d19ac8bb7ca5bb5ca2.png\",\"https://spk-json.spark-app.store/images/2025/05/29/41dbfe6a0a174d15a620ebe72a27822f.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/027b836c2a4d4ab2a2d21d1d18bca2f9.png"
+}
+
+,
+{
     "Name": "ResourceHacker (Wine)",
     "Version": "5.1.8",
     "Filename": "spark-resourcehacker_5.1.8_all.deb",
@@ -4475,24 +4492,6 @@
   "Tags": "community;deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9961f0-f737-11eb-8738-31b965866860.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/07/5c9e1ce0-f737-11eb-8738-31b965866860.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/07/4c475fa0-f737-11eb-8738-31b965866860.png"
-}
-
-,
-{
-  "Name": "LM Studio",
-  "Version": "0.3.16",
-  "Filename": "lmstudio_0.3.16_amd64.deb",
-  "Torrent_address": "lmstudio_0.3.16_amd64.deb.torrent",
-  "Pkgname": "lmstudio",
-  "Author": "lmstudio-ai",
-  "Contributor": "enkl03B",
-  "Website": "https://lmstudio.ai/",
-  "Update": "2025-05-29 20:55:28",
-  "Size": "646.39 MB",
-  "More": "LM Studio,本地部署/运行LLM。\n点击主界面右下角齿轮图标-Language可设置中文。",
-  "Tags": "debian;ubuntu;deepin;uos;a2d;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/741d8dfd48db49d19ac8bb7ca5bb5ca2.png\",\"https://spk-json.spark-app.store/images/2025/05/29/41dbfe6a0a174d15a620ebe72a27822f.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/027b836c2a4d4ab2a2d21d1d18bca2f9.png"
 }
 
 ,
@@ -4619,6 +4618,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
+  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
+  "Name": "Barrier 键鼠共享软件",
+  "Pkgname": "store.spark-app.appwrapper.barrier",
+  "Size": "3 Kb",
+  "Tags": "community;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
+  "Update": "2025-02-14 21:54:41",
+  "Version": "2.4.0+dfsg-3",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
+}
+
+,
+{
   "Name": "今天吃什么",
   "Version": "1.1.2",
   "Filename": "jim.yhj_1.1.2_amd64.deb",
@@ -4691,24 +4708,6 @@
 
 ,
 {
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
-  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
-  "Name": "Barrier 键鼠共享软件",
-  "Pkgname": "store.spark-app.appwrapper.barrier",
-  "Size": "3 Kb",
-  "Tags": "community;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
-  "Update": "2025-02-14 21:54:41",
-  "Version": "2.4.0+dfsg-3",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
-}
-
-,
-{
     "Name": "WPS优化工具",
     "Version": "3.3",
     "Filename": "wps-optimizer_3.3_all.deb",
@@ -4740,6 +4739,24 @@
   "Tags": "community;deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/09/da991b4e86124ebaa72058607fdf9b2f.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/09/261c439a051e48b7ad4aa56793dfc079.png"
+}
+
+,
+{
+  "Name": "ARCHPR 压缩文件密码破解",
+  "Version": "4.66.266spark1",
+  "Filename": "com.elcomsoft.deepin_4.66.266spark1_all.deb",
+  "Torrent_address": "com.elcomsoft.deepin_4.66.266spark1_all.deb.torrent",
+  "Pkgname": "com.elcomsoft.deepin",
+  "Author": "wang",
+  "Contributor": "wang",
+  "Website": " https://www.elcomsoft.com/",
+  "Update": "2024-05-23 21:29:42",
+  "Size": "10.28 MB",
+  "More": "最好的工具是通过软件破解：Advanced Archive Password Recovery简称“ARCHPR” 是一款加密压缩文件密码破解恢复工具。可以实现暴力破解、字典破解。",
+  "Tags": "deepin;uos;ubuntu;wine5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/664845e0-1908-11ef-8b98-af7814f0fdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/666347f0-1908-11ef-8b98-af7814f0fdda.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/619f0920-1908-11ef-8b98-af7814f0fdda.png"
 }
 
 ,
@@ -4830,24 +4847,6 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/a2f7a6c43bfe487fb17dd57ce893ba67.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7122a0d26cd149b7877626e9a771fd19.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/eb9527856e1148d7851917733de9c56e.png"
-}
-
-,
-{
-  "Name": "ARCHPR 压缩文件密码破解",
-  "Version": "4.66.266spark1",
-  "Filename": "com.elcomsoft.deepin_4.66.266spark1_all.deb",
-  "Torrent_address": "com.elcomsoft.deepin_4.66.266spark1_all.deb.torrent",
-  "Pkgname": "com.elcomsoft.deepin",
-  "Author": "wang",
-  "Contributor": "wang",
-  "Website": " https://www.elcomsoft.com/",
-  "Update": "2024-05-23 21:29:42",
-  "Size": "10.28 MB",
-  "More": "最好的工具是通过软件破解：Advanced Archive Password Recovery简称“ARCHPR” 是一款加密压缩文件密码破解恢复工具。可以实现暴力破解、字典破解。",
-  "Tags": "deepin;uos;ubuntu;wine5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/664845e0-1908-11ef-8b98-af7814f0fdda.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/23/666347f0-1908-11ef-8b98-af7814f0fdda.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/23/619f0920-1908-11ef-8b98-af7814f0fdda.png"
 }
 
 ,

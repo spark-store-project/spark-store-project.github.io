@@ -5932,6 +5932,32 @@ Description: Huion Tablet Driver Setting Software
 
 Package: virtualbox-7.1
 Architecture: amd64
+Version: 7.1.10-169112~Debian~bookworm
+Priority: optional
+Section: contrib/misc
+Maintainer: Oracle Corporation <info@virtualbox.org>
+Installed-Size: 268094
+Provides: virtualbox
+Pre-Depends: debconf (>= 1.1) | debconf-2.0
+Depends: psmisc, adduser, libvulkan1, libatk1.0-0 (>= 1.12.4), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.2.4), libcurl4 (>= 7.16.2), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.4), libgdk-pixbuf-2.0-0 (>= 2.31.1), libgl1, libglib2.0-0 (>= 2.33.14), libgtk-3-0 (>= 3.9.10), libgtk2.0-bin (>= 2.24.0), liblzma5 (>= 5.1.1alpha+20120614), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 12), libvpx9 (>= 1.12.0), libx11-6, libx11-xcb1 (>= 2:1.8.4), libxcb-cursor0 (>= 0.0.99), libxcb-icccm4 (>= 0.4.1), libxcb-image0 (>= 0.2.1), libxcb-keysyms1 (>= 0.4.0), libxcb-randr0 (>= 1.12), libxcb-render-util0, libxcb-render0, libxcb-shape0, libxcb-shm0 (>= 1.10), libxcb-sync1, libxcb-xfixes0, libxcb-xkb1, libxcb1 (>= 1.8), libxkbcommon-x11-0 (>= 0.5.0), libxkbcommon0 (>= 0.5.0), libxml2 (>= 2.7.4), libxt6, zlib1g (>= 1:1.2.3.4)
+Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, kmod | kldutils | module-init-tools, linux-headers-generic | linux-headers-generic-pae | linux-headers-686-pae | linux-headers-amd64 | linux-headers-2.6-686 | linux-headers-2.6-amd64 | linux-headers, linux-image, gcc, make | build-essential | dpkg-dev, binutils, pdf-viewer
+Conflicts: virtualbox, virtualbox-dkms, virtualbox-guest-additions-iso, virtualbox-ose, virtualbox-qt
+Replaces: virtualbox
+Filename: ./tools/virtualbox-7.1/virtualbox-7.1_7.1.10-169112~Debian~bookworm_amd64.deb
+Size: 118695084
+MD5sum: c063abe862379b6773b533f69e9ae5e9
+SHA1: 97e7977d386c5e9f00ce67b9ef0d56d9be1e25ad
+SHA256: 386e62547fd04d91a7bf72175197440d213ab3b19ef1e0c45ed5bfe8126a9f21
+SHA512: 0abcb27f462f85c0e1d7e93becfd99d23e77e97ef519971983dbb21869fcc35064094f457c45fc6f4aa5fc609d5e21e5f8babf9672270c4c2ffd418755e00baf
+Description: Oracle VirtualBox
+ VirtualBox is a powerful PC virtualization solution allowing you to run a
+ wide range of PC operating systems on your Linux system. This includes
+ Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad
+ feature set and excellent performance, making it the premier virtualization
+ software solution on the market.
+
+Package: virtualbox-7.1
+Architecture: amd64
 Version: 7.1.8-168469~Debian~bookworm
 Priority: optional
 Section: contrib/misc
@@ -6833,21 +6859,6 @@ Description:
 License: unknown
 Vendor: muwoo <2424880409@qq.com>
 
-Package: cherry-studio
-Architecture: amd64
-Version: 1.4.2
-Priority: optional
-Section: utils
-Maintainer: spark-store
-Depends: libfuse2
-Filename: ./tools/cherry-studio/cherry-studio_1.4.2_amd64.deb
-Size: 96234876
-MD5sum: 8ac564925cd303c18ccda0e171842660
-SHA1: 0975bb498720d5d2f22e7c58b9b77d2e2be2b859
-SHA256: afa37073f601fbce89414311e9ea6b17fc7f1d4ac45c408a9bea22299e276141
-SHA512: af1f45a766a03a39e2bcc760f80c6640333c860f804ce930b88c3b524bcabdcf5dc90ce29d0c4f47c8cb6ca851b0b2f97a6a5f3176d09ece4955408de1087436
-Description: cherry-studio Software Package created by Appimage2Deb
-
 Package: oneclickbingwallpaper
 Architecture: amd64
 Version: 0.9
@@ -7526,6 +7537,44 @@ SHA1: 8f7b22df65cbaee6861b2ada2f31b81864b30b36
 SHA256: cdf374e54ef12dcc7733aa90e78636bc36c6cdbb7a57e7ceee70822225a468f5
 SHA512: 43d5aa93496d5a6e4721ab3fff6cf84521ddc58f93188855b7e6bfed6b3fbc56116449da563feb4375332aa6fe8c4f5dd6c44e9a4e557c76cd81684bf9a50f25
 Description: NTPWEdit By Deepin Wine 6 Stable And Build By Wine Runner Easy Packager
+
+Package: cherry-studio
+Architecture: all
+Version: 1.4.99
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 12
+Depends: cherrystudio
+Filename: ./tools/cherrystudio/cherry-studio_1.4.99_all.deb
+Size: 752
+MD5sum: f98a6158f0da1f9a8432366d9cbaa04c
+SHA1: f092254273474136293856b2336068397612ab1a
+SHA256: 03a257d4cdb680d2cbbc5930aff580df3f0ed8a70c0da4fcad298e2d1c21b5fb
+SHA512: e429cb9073f296fa2e3d1f7b6abbf87e690cc904147266310e15759dd42c88be8c151e2069167d1af3255e5575634130f94d0a2b310e65a756e6222298be837b
+Homepage: https://shenmo7192.gitee.io/
+Description: It will redirect dedit to cherrystudio
+
+Package: cherrystudio
+Architecture: amd64
+Version: 1.4.9
+Priority: optional
+Section: default
+Maintainer: electronjs.org
+Installed-Size: 400850
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Filename: ./tools/cherrystudio/cherrystudio_1.4.9_amd64.deb
+Size: 105415206
+MD5sum: 96cd66eab1a314b303eb7758e6f0ac43
+SHA1: a4df491df08ac71d5f227fa190f5f8c313a8d4c8
+SHA256: eb136c55436a04b5675f9fd07c472cb616b3fc4b775a0acfbcbab8242987129f
+SHA512: 324cc10af8918b984eff6f628fd47e2c209d4a4b0e84054d35c6bcf0c117ff51b7a607fcda8fee6f5592cb381d2a3ad510a0c1ee9b3bbbf0cad4e79e98036d8e
+Homepage: https://github.com/CherryHQ/cherry-studio
+Description: 
+  A powerful AI assistant for producer.
+License: unknown
+Vendor: electronjs.org
 
 Package: com.github.ccc-proc-info-plugin
 Architecture: amd64
@@ -14009,6 +14058,23 @@ MD5sum: e4ef25456138b7f383362b090881bfda
 SHA1: 0c76a90c3388b4cb21e36011f2e7e4b3a3dc96a7
 SHA256: 8b8899b30a9ba17dcae00428999917c111fa510a55ef1c8f41974740430f71f9
 SHA512: 9f809db85fa4ebac2d6ef320c2de700031ec4d45b10789cba3362ef2599cc4a2d11d96f866ba9a648d68059bef4ebbd9408f6847a395204dea1cf976e1ada9b5
+Homepage: https://github.com/go-musicfox/go-musicfox
+Description: A NetEase music player in terminal.
+
+Package: go-musicfox
+Architecture: amd64
+Version: 4.6.3-1
+Priority: optional
+Section: sound
+Maintainer: anhoder <anhoder@88.com>
+Depends: flac, libasound2-dev
+Conflicts: go-musicfox-git
+Filename: ./music/go-musicfox/go-musicfox_4.6.3-1_amd64.deb
+Size: 5693460
+MD5sum: 9e7e2aa5022bfe7ca2769dfe1e9f2ef6
+SHA1: 57b98344226c9a5d83a0d32424fc846ea4d1a63a
+SHA256: 3a2eeef39fd769f2c3e2a713ba3c0339e098573e0cdb7fb7acab63f0cc7db685
+SHA512: e10da6a7cd3e702cc8d60a6ec06d33172d00ff0ca549831a5942337efbf642371805b5bb307a3258a23a632fb946c4cfb6f2ce0d7eea4abd79088ddb252ae763
 Homepage: https://github.com/go-musicfox/go-musicfox
 Description: A NetEase music player in terminal.
 
@@ -28362,6 +28428,23 @@ Description:
   wolai，为有志成功的个人和团队应运而生的云端协作平台。多人编辑、数据表格、块级引用、双向链接......知识整理与协同办公的不二之选。
 License: unknown
 Vendor: 上海我云网络科技有限公司 <hello@wolai.com>
+
+Package: cn.coremail.cmclient
+Architecture: amd64
+Version: 4.2.0-1273
+Priority: standard
+Section: mail
+Maintainer: <cyt@coremail.cn>
+Installed-Size: 501461
+Depends: libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.29), libcairo2 (>= 1.14.0), libcups2 (>= 1.7.0), libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libgcc-s1 (>= 4.2), libgdk-pixbuf2.0-bin (>= 2.22.0), libglib2.0-0 (>= 2.49.3), libgtk-3-0 (>= 3.22.25), libjavascriptcoregtk-4.0-bin, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.31), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 9), libuuid1 (>= 2.16), libwebkit2gtk-4.1-0 (>= 2.15.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2
+Filename: ./office/cn.coremail.cmclient/cn.coremail.cmclient_4.2.0-1273_amd64.deb
+Size: 137110316
+MD5sum: 32aeed2ee39eece62981b67e119e4b8c
+SHA1: bc7d884c497168b9493c577494a6ddc5e231f550
+SHA256: e654adc46d98e1cb9dc75970d819657d2c2ca9eb6d665f0924fc6e9a17663ade
+SHA512: 1b2ac84a3a133ab4b3df0620b8a7070d7276eff7e04f3aead48a327ff8216e31c9e42e8dbf8a97c11f79201a0f49ddda371cb52a39930d82965b7a4c6eebf98d
+Homepage: https://www.coremail.cn
+Description: Coremail client
 
 Package: co.effie.spark
 Architecture: all
