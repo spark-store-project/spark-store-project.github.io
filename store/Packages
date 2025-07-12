@@ -10416,14 +10416,14 @@ Version: 0.0.12-1
 Priority: optional
 Section: utils
 Maintainer: keke <243768648@qq.com>
-Installed-Size: 501
+Installed-Size: 584
 Depends: libc6 (>= 2.28), libgcc1 (>= 1:3.4), libgl1, libqt5concurrent5 | libqt5concurrent5t64, libqt5core5a (>= 5.11.0~rc1), libqt5gui5 (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libdtkcore5 (>= 5.4), libdtkgui5 (>= 5.4), libdtkwidget5 (>= 5.4)
 Filename: ./tools/com.github.ccc-app-manager/com.github.ccc-app-manager_0.0.12-1_amd64.deb
-Size: 197188
-MD5sum: b16d79628589fa20deb35fd02601ca80
-SHA1: 6ae24d6115fed595172f25f22960b7dd9fe73374
-SHA256: bbac1c265f60df093ad8bc3877189e7dc7c1ac2cfda716d91cda0134aa54c626
-SHA512: cbad670729b085211de87b7ca725a6355bcb0eb461628248168f67df765a3ea378a5124bb9fccf634906b71ed89080d57de8afe4f52a0798f719c9d065a0add4
+Size: 211512
+MD5sum: 80481d7706a849f83a247fc8d73764ba
+SHA1: 13b2d280bc528a07819ac138369ae0af56664c23
+SHA256: 17e47953fe4f038c1d0f5e64707517425f9df00d95ebb698cfd753363a8fabd8
+SHA512: 4e5e0e7ec89e52c92a330e24ae3a65a0499c61ee1913ee000a78b3f7da2adc7dfda5841197fec62c2fa6ce67e23128ac4bb3721ac527f2c6b557e10b9d1ae1c1
 Homepage: https://gitee.com/spark-store-project/ccc-app-manager
 Description: manage your applications.
  应用管理器，可查看应用包信息，可卸载和打开应用，可在线或离线提取安装包。支持deepin、uos系统。
@@ -10915,6 +10915,23 @@ MD5sum: 6655d7cd535949858cde522d0ff8be42
 SHA1: b40ad8cfb0302cf5b0a705d3c35e5715d3275ccc
 SHA256: c0cdbca73d95bf99e4be56bbf242869105da64dcc62e410af068051159b6044d
 SHA512: 409c6fbb6f2264936fa7109e5ad20b5bde66b5e2aa1ec6629fdee1d86e4b5886cb3ee7ffe096a3cb879e4f006a4cf8757031d5e7e53267ad7e7bd700845e6815
+Description: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
+
+Package: FlClash
+Architecture: amd64
+Version: 0.8.86+2025061501
+Priority: optional
+Essential: no
+Section: x11
+Maintainer: chen08209 <chen08209@gmail.com>
+Installed-Size: 6604
+Depends: libayatana-appindicator3-dev, libkeybinder-3.0-dev
+Filename: ./xrea/flclash/flclash_0.8.86+2025061501_amd64.deb
+Size: 31492696
+MD5sum: 2f745524616ee4a9bd1b9d780cbe9978
+SHA1: 4859a5125196727a69d6cc8c5b0d7a82272e3fca
+SHA256: 4a44cd071c9e65b054e954544d578ac670bfa6d5fb9d63aa678216cb03f45347
+SHA512: 270f88b5b48db3f17ca528c495295e0967d08e915c52b3da02b456c5b0f19b5875834864a716bdfcac32ace441a9c719604b7b4eb1e65bfb111e908bf8c8953f
 Description: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
 
 Package: com.ssr.spark

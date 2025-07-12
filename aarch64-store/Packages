@@ -4487,6 +4487,23 @@ SHA256: 6620867dd411578486a52fa7d5e1933e6686221c0e1ec061d75bfe69f7ef9cf7
 SHA512: 1b551c6a4b929433464816583cbb4e46bdc5fc8b565e84e12dfc5f3131e41ffd8aebe37b1b462da33d8e6cf670edd84550869c8dec0903b944410d6922ecf07b
 Description: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
 
+Package: FlClash
+Architecture: arm64
+Version: 0.8.86+2025061501
+Priority: optional
+Essential: no
+Section: x11
+Maintainer: chen08209 <chen08209@gmail.com>
+Installed-Size: 6604
+Depends: libayatana-appindicator3-dev, libkeybinder-3.0-dev
+Filename: ./xrea/flclash/flclash_0.8.86+2025061501_arm64.deb
+Size: 29785240
+MD5sum: d8d3a071b4489a49116737284726a3e2
+SHA1: ea4ed442206741f00142dfc614a5c5c3844e5bea
+SHA256: 1f9fb5ce4f007ec0a17b59e5a0264f62e02ed188f158a85292dbb9ed57e49a5a
+SHA512: 985daa6cce1cc0b114f3b99898a7f370a06b3ff12e4b5424f72ad4517e7fb3402402a20b419775ea8a8489354fc7c872abab7787b816cbaf50d45c1eeb9873ad
+Description: A multi-platform proxy client based on ClashMeta, simple and easy to use, open-source and ad-free.
+
 Package: mihomo
 Architecture: arm64
 Version: 1.19.11
