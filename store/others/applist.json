@@ -697,24 +697,6 @@
 
 ,
 {
-    "Name": "dde-dock 栏高效居中版本(限 v23 使用)",
-    "Version": "6.0.22",
-    "Filename": "spark.dde-dock_6.0.22_amd64.deb",
-    "Torrent_address": "spark.dde-dock_6.0.22_amd64.deb.torrent",
-    "Pkgname": "spark.dde-dock",
-    "Author": "Deepin Packages Builder <packages@deepin.com>",
-    "Contributor": "zinface <zinface@163.com>",
-    "Website": "http://www.deepin.org/",
-    "Update": "2023-11-22 00:17:08",
-    "Size": "1.4 MB",
-    "More": "适用于 v23 版本 dde-dock 的内容替换包，安装本包将替换 dde-dock v6.0.22 的内容。\n安装后注销再登录，或自行重启 dde-dock 即可查看高效居中的效果。\n\n替换规则：\n1. 由 Replaces 定义 dde-dock (= 6.0.22)\n2. 安装此包时将会对 dde-dock 进行文件替换\n\n还原操作：\n1. 卸载 spark.dde-dock 将会移除被替换的文件，此时本地 dde-dock 变成为虚空包\n2. 重新安装 dde-dock 即可还原被替换的文件\n\n还原命令：\nsudo apt remove spark.dde-dock\nsudo apt install dde-dock --reinstall",
-    "Tags": "deepin;debian;native",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/22/75c5faf411d948f7bf6dc5fb47e8be2c.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/22/a2327c05a9e24b7c9419cbd0e49a2a7a.png"
-}
-
-,
-{
     "Author": "shenjianwei <shenjianwei@myhexin.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.51ifind_1.10.12.394.001_amd64.deb",
@@ -733,20 +715,20 @@
 
 ,
 {
-    "Name": "国泰君安富易（UOS版）",
-    "Version": "1.1.1221",
-    "Filename": "com.gtja.richeasy_1.1.1221_amd64.deb",
-    "Torrent_address": "com.gtja.richeasy_1.1.1221_amd64.deb.torrent",
-    "Pkgname": "com.gtja.richeasy",
-    "Author": "xiahaoran <xiahaoran@gtjas.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://www.gtja.com/content/index.html",
-    "Update": "2022-12-31 13:27:18",
-    "Size": "115.85 MB",
-    "More": "首家支持UOS操作系统的股票基金交易终端。全景行情数据，30秒高效选股；新一代低延时极速核心，交易速度领先。",
-    "Tags": "ubuntu;deepin;uos;debian;native",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/68726ade7bc74b8e8d2053a887eaed3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/0e46c641a63d4e9897eb59f8ea6ffc91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/970d7c5842a64155b8fa3e7695268c0e.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/7333c0e6d9384d24928a21abf63dc582.png"
+    "Name": "dde-dock 栏高效居中版本(限 v23 使用)",
+    "Version": "6.0.22",
+    "Filename": "spark.dde-dock_6.0.22_amd64.deb",
+    "Torrent_address": "spark.dde-dock_6.0.22_amd64.deb.torrent",
+    "Pkgname": "spark.dde-dock",
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "zinface <zinface@163.com>",
+    "Website": "http://www.deepin.org/",
+    "Update": "2023-11-22 00:17:08",
+    "Size": "1.4 MB",
+    "More": "适用于 v23 版本 dde-dock 的内容替换包，安装本包将替换 dde-dock v6.0.22 的内容。\n安装后注销再登录，或自行重启 dde-dock 即可查看高效居中的效果。\n\n替换规则：\n1. 由 Replaces 定义 dde-dock (= 6.0.22)\n2. 安装此包时将会对 dde-dock 进行文件替换\n\n还原操作：\n1. 卸载 spark.dde-dock 将会移除被替换的文件，此时本地 dde-dock 变成为虚空包\n2. 重新安装 dde-dock 即可还原被替换的文件\n\n还原命令：\nsudo apt remove spark.dde-dock\nsudo apt install dde-dock --reinstall",
+    "Tags": "deepin;debian;native",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/22/75c5faf411d948f7bf6dc5fb47e8be2c.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/22/a2327c05a9e24b7c9419cbd0e49a2a7a.png"
 }
 
 ,
@@ -765,6 +747,24 @@
     "Tags": "debian;deepin;ubuntu;uos;native",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/04/bfbda319a8384caf801f61a383616a2c.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/04/c79578564dc34902b2292e68a65783a7.png"
+}
+
+,
+{
+    "Name": "国泰君安富易（UOS版）",
+    "Version": "1.1.1221",
+    "Filename": "com.gtja.richeasy_1.1.1221_amd64.deb",
+    "Torrent_address": "com.gtja.richeasy_1.1.1221_amd64.deb.torrent",
+    "Pkgname": "com.gtja.richeasy",
+    "Author": "xiahaoran <xiahaoran@gtjas.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://www.gtja.com/content/index.html",
+    "Update": "2022-12-31 13:27:18",
+    "Size": "115.85 MB",
+    "More": "首家支持UOS操作系统的股票基金交易终端。全景行情数据，30秒高效选股；新一代低延时极速核心，交易速度领先。",
+    "Tags": "ubuntu;deepin;uos;debian;native",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/68726ade7bc74b8e8d2053a887eaed3b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/0e46c641a63d4e9897eb59f8ea6ffc91.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/970d7c5842a64155b8fa3e7695268c0e.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/7333c0e6d9384d24928a21abf63dc582.png"
 }
 
 ,
@@ -1460,23 +1460,6 @@
 
 ,
 {
-    "Name": "Visual Family Tree",
-    "Version": "1.4.0",
-    "Filename": "visual-family-tree_1.4.0_amd64.deb",
-    "Pkgname": "visual-family-tree",
-    "Author": "Jens Hoernecke",
-    "Contributor": "sgb76",
-    "Website": "https://jisco.me/visual-family-tree/",
-    "Update": "2021-12-15 23:18:25",
-    "Size": "75.41 MB",
-    "More": "一款实用方便的家谱树状图绘制软件",
-    "Tags": "deepin;native",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/15/1cb9ed90-5dba-11ec-9a6c-430f1d3521e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/15/221dc7c0-5dba-11ec-9a6c-430f1d3521e8.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/15/187788f0-5dba-11ec-9a6c-430f1d3521e8.png"
-}
-
-,
-{
     "Name": "NoBook 小学科学（web）",
     "Version": "1.0",
     "Filename": "web-science.nobook.com_1.0_all.deb",
@@ -1491,6 +1474,23 @@
     "Tags": "ubuntu;deepin;uos;debian;native",
     "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/05/305572798b904d5c8a16e958d901f11f.png\"]",
     "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/05/bf50faeddb084ae8be1c2969fc7db29f.png"
+}
+
+,
+{
+    "Name": "Visual Family Tree",
+    "Version": "1.4.0",
+    "Filename": "visual-family-tree_1.4.0_amd64.deb",
+    "Pkgname": "visual-family-tree",
+    "Author": "Jens Hoernecke",
+    "Contributor": "sgb76",
+    "Website": "https://jisco.me/visual-family-tree/",
+    "Update": "2021-12-15 23:18:25",
+    "Size": "75.41 MB",
+    "More": "一款实用方便的家谱树状图绘制软件",
+    "Tags": "deepin;native",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/15/1cb9ed90-5dba-11ec-9a6c-430f1d3521e8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/15/221dc7c0-5dba-11ec-9a6c-430f1d3521e8.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/15/187788f0-5dba-11ec-9a6c-430f1d3521e8.png"
 }
 
 ,

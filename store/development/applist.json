@@ -944,24 +944,6 @@
 
 ,
 {
-  "Name": "Rider",
-  "Version": "2024.1",
-  "Filename": "jetbrains-rider_2024.1_all.deb",
-  "Torrent_address": "jetbrains-rider_2024.1_all.deb.torrent",
-  "Pkgname": "jetbrains-rider",
-  "Author": "懵仙兔兔",
-  "Contributor": "懵仙兔兔",
-  "Website": "https://www.jetbrains.com/zh-cn/rider/",
-  "Update": "2024-04-10 21:34:34",
-  "Size": "2.55 KB",
-  "More": "Rider\n  快速且强大的跨平台 .NET IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/aa3adaf60f1d48268265d34ed0c1927c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/3bfbc9354d6f477a949e0ae223964aa9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/13f3a0d0ea524b8990e36b7c7085f7f6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/4a9cb07e47eb4f4c9f50be38bf9ce5db.png"
-}
-
-,
-{
   "Name": "海龟编辑器",
   "Version": "0.1.3",
   "Filename": "cn.codemao.wood_0.1.3_amd64.deb",
@@ -976,6 +958,24 @@
   "Tags": "ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/f13739abcebf47d7a96bc5efae2383e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/01/082973b24d3645c5922317bd4158a18f.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/01/2b75ab8ba96346cf904c9f5ab1e7505f.png"
+}
+
+,
+{
+  "Name": "Rider",
+  "Version": "2024.1",
+  "Filename": "jetbrains-rider_2024.1_all.deb",
+  "Torrent_address": "jetbrains-rider_2024.1_all.deb.torrent",
+  "Pkgname": "jetbrains-rider",
+  "Author": "懵仙兔兔",
+  "Contributor": "懵仙兔兔",
+  "Website": "https://www.jetbrains.com/zh-cn/rider/",
+  "Update": "2024-04-10 21:34:34",
+  "Size": "2.55 KB",
+  "More": "Rider\n  快速且强大的跨平台 .NET IDE\n\n- 修复Wayland下在线安装显示问题\n- 增加检测 /tmp 目录空闲空间大小或使用 /var/tmp 目录\n\n  此安装包为在线安装包 - 懵仙兔兔",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/aa3adaf60f1d48268265d34ed0c1927c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/3bfbc9354d6f477a949e0ae223964aa9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/10/13f3a0d0ea524b8990e36b7c7085f7f6.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/4a9cb07e47eb4f4c9f50be38bf9ce5db.png"
 }
 
 ,
@@ -1218,6 +1218,22 @@
 
 ,
 {
+    "Name": "Neovim",
+    "Author": "Neovim.io",
+    "Website": "https://neovim.io/",
+    "More": "Vim-fork focused on extensibility and usability.",
+    "Tags": "debian;deepin;uos;ubuntu",
+    "icons": "https://spk-json.spark-app.store/store/development/neovim/icon.png",
+    "img_urls": "[]",
+    "Pkgname": "neovim",
+    "Version": "0.11.2",
+    "Filename": "neovim_0.11.2_amd64.deb",
+    "Update": "2025-06-07 01:38:52",
+    "Size": "9.60MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "微信开发者工具 Wine版",
   "Version": "1.06.2306020-1",
   "Filename": "io.github.msojocs.wechat-devtools-wine_1.06.2306020-1_amd64.deb",
@@ -1234,22 +1250,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/08/25/4b66d48238ab476fb074808dbcc3a08c.png"
 }
 
-,
-{
-    "Name": "Neovim",
-    "Author": "Neovim.io",
-    "Website": "https://neovim.io/",
-    "More": "Vim-fork focused on extensibility and usability.",
-    "Tags": "debian;deepin;uos;ubuntu",
-    "icons": "https://spk-json.spark-app.store/store/development/neovim/icon.png",
-    "img_urls": "[]",
-    "Pkgname": "neovim",
-    "Version": "0.11.2",
-    "Filename": "neovim_0.11.2_amd64.deb",
-    "Update": "2025-06-07 01:38:52",
-    "Size": "9.60MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "LibrePCB",
@@ -1306,6 +1306,24 @@
 
 ,
 {
+  "Name": "Liberica JDK 21 Full",
+  "Version": "21.0.3+10",
+  "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
+  "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
+  "Pkgname": "bellsoft-java21-full",
+  "Author": "BellSoft <info@bell-sw.com>",
+  "Contributor": "ThinkYoung",
+  "Website": "https://bell-sw.com/pages/libericajdk/",
+  "Update": "2024-05-09 11:09:43",
+  "Size": "281.55 MB",
+  "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
+}
+
+,
+{
   "Name": "mqttfx",
   "Version": "1.7.1",
   "Filename": "mqttfx-1.7.1-64bit.deb",
@@ -1335,24 +1353,6 @@
   "Tags": "ubuntu",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
-}
-
-,
-{
-  "Name": "Liberica JDK 21 Full",
-  "Version": "21.0.3+10",
-  "Filename": "bellsoft-java21-full_21.0.3_plus10_amd64.deb",
-  "Torrent_address": "bellsoft-java21-full_21.0.3_plus10_amd64.deb.torrent",
-  "Pkgname": "bellsoft-java21-full",
-  "Author": "BellSoft <info@bell-sw.com>",
-  "Contributor": "ThinkYoung",
-  "Website": "https://bell-sw.com/pages/libericajdk/",
-  "Update": "2024-05-09 11:09:43",
-  "Size": "281.55 MB",
-  "More": "Liberica JDK 是由 Bellsoft 公司开发的一个 OpenJDK 发行版，Full 版本集成了JavaFX，无需配置、开箱即用。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/09/b0baff509e8f476285b670841a2d2e18.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/09/fe4c5ef81af045ffb930cbe83f1b26f4.png"
 }
 
 ,
@@ -1617,6 +1617,23 @@
 
 ,
 {
+    "Name": "VOFA+",
+    "Version": "4.1.7",
+    "Filename": "vofa_plus_4.1.7_amd64.deb",
+    "Torrent_address": "vofa_plus_4.1.7_amd64.deb.torrent",
+    "Pkgname": "vofa+",
+    "Author": "je00 <zjt@gutega.com>",
+    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Website": "https://www.vofa.plus/",
+    "Update": "2025-04-01 23:19:13",
+    "Size": "20.24 MB",
+    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。\n\n更新记录：\n- 1.4.2-1\n  * 【全平台】修复Logo区域窗口拖拽失效问题无 \n  * 【Windows】【多屏适配】拖入副屏，出现多余标题栏问题修复  \n  * 【Windows】【多屏适配】拖入副屏，软件无法拖动问题修复\n- 1.4.1  \n  * 控件拖入加入网格吸附，支持响应式布局\n  * 适配了系统原生窗体响应\n  * 适配了系统屏幕缩放\n  * 清除数据后，通道名称不会丢失\n  * 修复TCP Server闪退问题\n  * 优化控件体验\n  * 优化英文翻译",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/cea72549fea74dd791ee5c87374c096d.png\",\"https://spk-json.spark-app.store/images/2025/04/01/590d8899815549519def60c5b2ff4467.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/9b669740f6b8498fa489903ff53e03cd.png"
+}
+,
+{
   "Name": "OpenCore Auxiliary Tools",
   "Version": "20220230",
   "Filename": "com.github.ocat-linux_20220230_amd64.deb",
@@ -1633,23 +1650,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/08/03/d63a22c0-12dd-11ed-abd7-e50de85e8c4e.png"
 }
 
-,
-{
-    "Name": "VOFA+",
-    "Version": "4.1.7",
-    "Filename": "vofa_plus_4.1.7_amd64.deb",
-    "Torrent_address": "vofa_plus_4.1.7_amd64.deb.torrent",
-    "Pkgname": "vofa+",
-    "Author": "je00 <zjt@gutega.com>",
-    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Website": "https://www.vofa.plus/",
-    "Update": "2025-04-01 23:19:13",
-    "Size": "20.24 MB",
-    "More": "VOFA+致力于降低图形化调试的门槛：\n\n保留了传统字节流调试助手风格的数据收发功能，以应对非图形化调试需求；\n通过直观极简的协议设计和方便快捷的命令绑定，硬件工程师无需处理复杂的协议逻辑，只需以面向串口助手的编程方式，就能获得强大的数据可视化、数据分析、使用控件发送指令的能力；\n拥有一个可裁剪的系统，\"丰俭由人\"。通过添加控件的方式，工程师可以定制一个无限丰富的调试界面；也可以仅仅使用极简的字节流收发界面，无须担忧系统占用繁重；\n拥有一个开放、开源的插件系统：\n用户可以定制符合自己需求的协议和控件；\n通过开源社区的力量，VOFA+的调试生态可以不断发展繁荣。\n\n更新记录：\n- 1.4.2-1\n  * 【全平台】修复Logo区域窗口拖拽失效问题无 \n  * 【Windows】【多屏适配】拖入副屏，出现多余标题栏问题修复  \n  * 【Windows】【多屏适配】拖入副屏，软件无法拖动问题修复\n- 1.4.1  \n  * 控件拖入加入网格吸附，支持响应式布局\n  * 适配了系统原生窗体响应\n  * 适配了系统屏幕缩放\n  * 清除数据后，通道名称不会丢失\n  * 修复TCP Server闪退问题\n  * 优化控件体验\n  * 优化英文翻译",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/cea72549fea74dd791ee5c87374c096d.png\",\"https://spk-json.spark-app.store/images/2025/04/01/590d8899815549519def60c5b2ff4467.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/04/01/9b669740f6b8498fa489903ff53e03cd.png"
-}
 ,
 {
   "Name": "Scratch 1.4",
@@ -2303,6 +2303,23 @@
 
 ,
 {
+    "Name": "Ghostty 终端模拟器",
+    "Version": "1.1.2-0~ppa1",
+    "Filename": "ghostty_1.1.2-0~ppa1_amd64.deb",
+    "Torrent_address": "ghostty_1.1.2-0~ppa1_amd64.deb.torrent",
+    "Pkgname": "ghostty",
+    "Author": "Mike Kasberg <kasberg.mike@gmail.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://ghostty.org/",
+    "Update": "2025-03-21 02:57:41",
+    "Size": "14.52 MB",
+    "More": "Ghostty is a terminal emulator that differentiates itself by being fast,\n feature-rich, and native. While there are many excellent terminal emulators\n available, they all force you to choose between speed, features, or native\n UIs. Ghostty provides all three.",
+    "Tags": "community;debian;ubuntu",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/0865ee2cb0284939984043bb1fbc7180.png\",\"https://spk-json.spark-app.store/images/2025/03/21/1b42bdc1181a4bf88b1c563b121a4867.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/21/8a977b1a24814d2c95a61e3d8df8d2ea.png"
+}
+,
+{
   "Name": "360易创API示例",
   "Version": "16.0.3",
   "Filename": "com.360.electron360-api-demos_16.0.3_amd64.deb",
@@ -2371,23 +2388,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/10/eb2a4b6534cb4db68c35da00efb9611e.png"
 }
 
-,
-{
-    "Name": "Ghostty 终端模拟器",
-    "Version": "1.1.2-0~ppa1",
-    "Filename": "ghostty_1.1.2-0~ppa1_amd64.deb",
-    "Torrent_address": "ghostty_1.1.2-0~ppa1_amd64.deb.torrent",
-    "Pkgname": "ghostty",
-    "Author": "Mike Kasberg <kasberg.mike@gmail.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://ghostty.org/",
-    "Update": "2025-03-21 02:57:41",
-    "Size": "14.52 MB",
-    "More": "Ghostty is a terminal emulator that differentiates itself by being fast,\n feature-rich, and native. While there are many excellent terminal emulators\n available, they all force you to choose between speed, features, or native\n UIs. Ghostty provides all three.",
-    "Tags": "community;debian;ubuntu",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/0865ee2cb0284939984043bb1fbc7180.png\",\"https://spk-json.spark-app.store/images/2025/03/21/1b42bdc1181a4bf88b1c563b121a4867.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/21/8a977b1a24814d2c95a61e3d8df8d2ea.png"
-}
 ,
 {
     "Name": "Android/Repo 开源项目信息分析器",

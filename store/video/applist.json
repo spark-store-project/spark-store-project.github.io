@@ -1,14 +1,14 @@
 [
 {
     "Name": "bilibili客户端",
-    "Version": "1.16.5-2",
-    "Filename": "io.github.msojocs.bilibili_1.16.5-2_amd64.deb",
-    "Torrent_address": "io.github.msojocs.bilibili_1.16.5-2_amd64.deb.torrent",
+    "Version": "1.16.5-4",
+    "Filename": "io.github.msojocs.bilibili_1.16.5-4_amd64.deb",
+    "Torrent_address": "io.github.msojocs.bilibili_1.16.5-4_amd64.deb.torrent",
     "Pkgname": "io.github.msojocs.bilibili",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://github.com/msojocs/bilibili-linux/releases",
-    "Update": "2025-06-01 17:37:26",
+    "Update": "2025-07-13 17:38:00",
     "Size": "205M",
     "More": "由msojocs编写的哔哩哔哩客户端 Linux 移植版本",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -124,6 +124,21 @@
 
 ,
 {
+  "Name": "腾讯视频",
+  "Version": "1.0.10",
+  "Filename": "Tenvideo_universal_1.0.10_amd64.deb",
+  "Pkgname": "tenvideo-universal",
+  "Author": " ",
+  "Contributor": "anima",
+  "Website": "https://v.qq.com/",
+  "Update": "2020-08-28 21:08",
+  "Size": "48.29MB",
+  "More": "中国领先的在线视频媒体平台，海量高清视频在线观看．",
+  "Tags": "debian"
+}
+
+,
+{
   "Name": "全聚合影视",
   "Version": "2.55.1-9",
   "Filename": "vst-video_2.55.1-9_amd64.deb",
@@ -137,21 +152,6 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/05/7722ec80-36da-11eb-8ba0-11cb974e4981.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/05/71baf3a0-36da-11eb-8ba0-11cb974e4981.png"
-}
-
-,
-{
-  "Name": "腾讯视频",
-  "Version": "1.0.10",
-  "Filename": "Tenvideo_universal_1.0.10_amd64.deb",
-  "Pkgname": "tenvideo-universal",
-  "Author": " ",
-  "Contributor": "anima",
-  "Website": "https://v.qq.com/",
-  "Update": "2020-08-28 21:08",
-  "Size": "48.29MB",
-  "More": "中国领先的在线视频媒体平台，海量高清视频在线观看．",
-  "Tags": "debian"
 }
 
 ,
@@ -507,24 +507,6 @@
 
 ,
 {
-  "Name": "jellyfin",
-  "Version": "10.8.8-1",
-  "Filename": "jellyfin_10.8.8-1_all.deb",
-  "Torrent_address": "jellyfin_10.8.8-1_all.deb.torrent",
-  "Pkgname": "jellyfin",
-  "Author": "Jellyfin Packaging Team <packaging@jellyfin.org>",
-  "Contributor": "fallingstar",
-  "Website": "https://jellyfin.org",
-  "Update": "2023-01-08 13:33:59",
-  "Size": "2.23 KB",
-  "More": "开源的影音系统，局域网内的影视、音乐、书籍管理，将你的linux系统拥有Nas般的体验，依赖：依赖：jellyfin-server, jellyfin-web, jellyfin-ffmpeg，安装后运行“jellyfin”，忽略初次运行的报错，浏览器访问http://localhost:8096/使用",
-  "Tags": "deepin",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/c4673fc5f85a4bbf95691d43af173c14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/592f1957463744f7858820ccbcd8fda0.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/08/e1b7ba0f3c1745d38e7a06d1da065d0a.png"
-}
-
-,
-{
   "Name": "Bilibili客户端(第三方)",
   "Version": "0.2.2",
   "Filename": "avalonia.bilibili_0.2.2_amd64.deb",
@@ -539,6 +521,24 @@
   "Tags": "community;ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/5789cf7e-852b-41e2-a545-88c82a193814.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/98f7ac13-288e-403e-8034-99a3d6b9a25b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/ed172989-61e4-4366-a01d-ca34940a1e8a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/b57a3724-3643-4ede-a208-e7e008a62852.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/19/5875cb2c-ddef-4ff8-b0d2-5f74035dc074.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/19/7ecd3c39-c81c-437d-ae06-69a338857592.png"
+}
+
+,
+{
+  "Name": "jellyfin",
+  "Version": "10.8.8-1",
+  "Filename": "jellyfin_10.8.8-1_all.deb",
+  "Torrent_address": "jellyfin_10.8.8-1_all.deb.torrent",
+  "Pkgname": "jellyfin",
+  "Author": "Jellyfin Packaging Team <packaging@jellyfin.org>",
+  "Contributor": "fallingstar",
+  "Website": "https://jellyfin.org",
+  "Update": "2023-01-08 13:33:59",
+  "Size": "2.23 KB",
+  "More": "开源的影音系统，局域网内的影视、音乐、书籍管理，将你的linux系统拥有Nas般的体验，依赖：依赖：jellyfin-server, jellyfin-web, jellyfin-ffmpeg，安装后运行“jellyfin”，忽略初次运行的报错，浏览器访问http://localhost:8096/使用",
+  "Tags": "deepin",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/c4673fc5f85a4bbf95691d43af173c14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/08/592f1957463744f7858820ccbcd8fda0.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/08/e1b7ba0f3c1745d38e7a06d1da065d0a.png"
 }
 
 ,
@@ -1067,6 +1067,20 @@
 
 ,
 {
+    "Name": "zyfun[ZyPlayer]",
+    "Author": "zyfun team",
+    "Website": "https://github.com/Hiram-Wong/ZyPlayer",
+    "More": "跨平台桌面端视频资源播放器,免费高颜值\nzyfun[zyplayer]是一款免费易用且打造的全功能媒体播放器。它基于electron-Vite框架, 结合TDesign组件库和vue3全家桶, 致力于提供流畅、高效的跨平台娱乐体验。\n\n    名称说明 zyfun[新名称 >=3.3.8] zyplayer[老名称 <=3.3.7]",
+    "Tags": "community;debian;deepin;ubuntu",
+    "Pkgname": "zyfun",
+    "Version": "3.4.0",
+    "Filename": "zyfun_3.4.0_amd64.deb",
+    "Update": "2025-05-30 01:45:00",
+    "Size": "93.34MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "Moo0视频压缩器（wine）",
   "Version": "1.283spark0",
   "Filename": "com.moo0.videominimizer.spark_1.283spark0_i386.deb",
@@ -1082,20 +1096,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/18/5fe28310-fff6-11eb-b720-c76750e1d0dc.png"
 }
 
-,
-{
-    "Name": "zyfun[ZyPlayer]",
-    "Author": "zyfun team",
-    "Website": "https://github.com/Hiram-Wong/ZyPlayer",
-    "More": "跨平台桌面端视频资源播放器,免费高颜值\nzyfun[zyplayer]是一款免费易用且打造的全功能媒体播放器。它基于electron-Vite框架, 结合TDesign组件库和vue3全家桶, 致力于提供流畅、高效的跨平台娱乐体验。\n\n    名称说明 zyfun[新名称 >=3.3.8] zyplayer[老名称 <=3.3.7]",
-    "Tags": "community;debian;deepin;ubuntu",
-    "Pkgname": "zyfun",
-    "Version": "3.4.0",
-    "Filename": "zyfun_3.4.0_amd64.deb",
-    "Update": "2025-05-30 01:45:00",
-    "Size": "93.34MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "UniFab 视频格式转换器",
@@ -1292,6 +1292,24 @@
 }
 ,
 {
+    "Author": "zhangmingming9 <zhangmingming9@hikvision.com>",
+    "Contributor": "zhangmingming9 <zhangmingming9@hikvision.com>",
+    "Filename": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb",
+    "More": "国产电脑系统网页看录像机画面，浏览器插件下载\nhttps://knowbot.hikvision.com/webchatbot-pc/#/sharingPath?params=359407&sysNum=1693447044565&type=0\n国产系统访问录像机时，推荐使用谷歌浏览器；\n原因：1、部分NVR录像机通过谷歌浏览器网页访问时，可直接下载对应系统的插件；2、谷歌浏览器下载的插件都是线上下载的，且国产插件需要线上下载，故而推荐使用谷歌浏览器。\n\n\n——链接里的插件下载下来之后，运行安装即可：\n若谷歌浏览器访问录像机无插件下载的界面，可在如下链接中下载符合自己国产电脑的插件，具体适用情况请以现场为准：\n麒麟兆芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_amd64_kylin.deb\n \nuos兆芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_amd64_uos.deb\n\n麒麟飞腾：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_arm64_kylin.deb\n\nuos飞腾：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_arm64_uos.deb\n\n麒麟龙芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_mips64el_kylin.deb\n \nuos龙芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_mips64el_uos.deb\n\n\n\n",
+    "Name": "海康威视监控软件浏览器插件",
+    "Pkgname": "com.hikvision.weblocalserver",
+    "Size": "26 Mb",
+    "Tags": "deepin",
+    "Torrent_address": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb.torrent",
+    "Update": "2025-06-19 16:27:48",
+    "Version": "1.0.002-1",
+    "Website": "https://www.hikvision.com",
+    "icons": "https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/screen_1.png\"]"
+}
+
+,
+{
     "Name": "HD Video Converter Factory高清视频转换软件",
     "Version": "26.5",
     "Filename": "com.hdvideoconverterfactorypro.deepin_26.5_all.deb",
@@ -1323,24 +1341,6 @@
   "Tags": "community;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/39783720d1df454ebca009ede7db3d68.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/2d4f907f98fb44c7b368fb73874e16ad.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/10/2870e9d8b5294ebd99ea2fcd2ea2b1ef.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/10/c8d13f785ac84e1380ddb7aff4189a3b.png"
-}
-
-,
-{
-    "Author": "zhangmingming9 <zhangmingming9@hikvision.com>",
-    "Contributor": "zhangmingming9 <zhangmingming9@hikvision.com>",
-    "Filename": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb",
-    "More": "国产电脑系统网页看录像机画面，浏览器插件下载\nhttps://knowbot.hikvision.com/webchatbot-pc/#/sharingPath?params=359407&sysNum=1693447044565&type=0\n国产系统访问录像机时，推荐使用谷歌浏览器；\n原因：1、部分NVR录像机通过谷歌浏览器网页访问时，可直接下载对应系统的插件；2、谷歌浏览器下载的插件都是线上下载的，且国产插件需要线上下载，故而推荐使用谷歌浏览器。\n\n\n——链接里的插件下载下来之后，运行安装即可：\n若谷歌浏览器访问录像机无插件下载的界面，可在如下链接中下载符合自己国产电脑的插件，具体适用情况请以现场为准：\n麒麟兆芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_amd64_kylin.deb\n \nuos兆芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_amd64_uos.deb\n\n麒麟飞腾：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_arm64_kylin.deb\n\nuos飞腾：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_arm64_uos.deb\n\n麒麟龙芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_mips64el_kylin.deb\n \nuos龙芯：http://hikdownload.ys7.com/web/webplugin/linux/local-service-components/v1.0.0.0/standard/LocalServiceComponent_mips64el_uos.deb\n\n\n\n",
-    "Name": "海康威视监控软件浏览器插件",
-    "Pkgname": "com.hikvision.weblocalserver",
-    "Size": "26 Mb",
-    "Tags": "deepin",
-    "Torrent_address": "com.hikvision.weblocalserver_1.0.002-1_amd64.deb.torrent",
-    "Update": "2025-06-19 16:27:48",
-    "Version": "1.0.002-1",
-    "Website": "https://www.hikvision.com",
-    "icons": "https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/video/com.hikvision.weblocalserver/screen_1.png\"]"
 }
 
 ,

@@ -11021,18 +11021,18 @@ Description: A Clash Proxy Fronted based on Clash
 
 Package: com.github.clash-for-windows
 Architecture: amd64
-Version: 0.20.39
+Version: 0.20.39-opt3
 Priority: optional
 Section: net
 Maintainer: 懵仙兔兔 <acgm@qq.com>
-Installed-Size: 283552
+Installed-Size: 336612
 Depends: nftables, iproute2
-Filename: ./xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39_amd64.deb
-Size: 85045848
-MD5sum: d3f7466d01cc928eb6d5ce36376da855
-SHA1: 036b651b333e7600c34cc9478fb1a17c7ab7c274
-SHA256: 5367ca9e72872a34c68b76c40157c1d3e4841e9959cfb68f8f1e971121155848
-SHA512: 3f1d9aab96871c03931dee14def88d60e79c3e131ecaf2176b52011859939153bed95aa2271b3752362abf8d2d1983abd228305b56b883181e5baab9535caac5
+Filename: ./xrea/com.github.clash-for-windows/com.github.clash-for-windows_0.20.39-opt3_amd64.deb
+Size: 97804192
+MD5sum: 5c2f4bd42e6988d1fb1746d62cf2412d
+SHA1: d512f6b2fcbc808169515297fa8fa2962d7874da
+SHA256: 0cb40da1a161361022147c50ed33c8e8f8a1e7a96b1912cc04a6b3dd9a589591
+SHA512: dd045d7b29b9a7c5841bee7d7d4fc0755e32bc8fe7873659eb5af883f24f1da69328ba4e5dc242fdefbf022930dda8844e8e3da553a5a4d740bcfc803b404f80
 Homepage: https://github.com/Fndroid/clash_for_windows_pkg
 Description: A rule-based tunnel in Go.
  A Windows/macOS GUI based on Clash.
@@ -11479,18 +11479,18 @@ Description: Reader on Deepin Wine6
 
 Package: com.mosoink.mosobooks
 Architecture: amd64
-Version: 1.0.29
+Version: 1.0.31
 Priority: optional
 Section: unknown
 Maintainer: 北京智启蓝墨信息技术有限公司 <service@mosoink.com>
-Installed-Size: 311910
+Installed-Size: 312009
 Depends: libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcups2 (>= 1.7.0), libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 17.1.0~rc2), libgcc1 (>= 1:4.2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.22), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 5.2), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.3-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, deepin-elf-verify (>= 1.1.10-1)
-Filename: ./reading/com.mosoink.mosobooks/com.mosoink.mosobooks_1.0.29_amd64.deb
-Size: 93066818
-MD5sum: e31604fbdce8cde248e951f93f8346bd
-SHA1: b890264ae5b07fcee6cb73e60d298a286d4e5cc9
-SHA256: 219de158a4c1565a2befbc2d22f96c793e5e5135f28572399f9f69ef552b5f19
-SHA512: 5f6f2c971f24e1f908b3056592d9a58d72b8724d8a5abd8db240e8ebcffc37e9cd34bdf9b786e2cd0912ba250b396d13f9c09f9f7481126196b5915788d5516f
+Filename: ./reading/com.mosoink.mosobooks/com.mosoink.mosobooks_1.0.31_amd64.deb
+Size: 93068870
+MD5sum: a198e3f73290721d2478411f960f5c9f
+SHA1: 8144cbdeceea7861998199c9a44b3b7a1c30494a
+SHA256: 5b6028008504eb88f67d4f64c61d98459051cffd85eec78e2bc85b24a0e13c09
+SHA512: a47a05446ba1ba3b4d0023453166cf43659d48f73679a57b50774821a9c87da3f4aa34a3262b6b0c46cbcf055cd90742d1ce0c243daca6e16a742888ced65c41
 Homepage: https://yunshu.zgxzsj.com/
 Description: 云书|云教材由中国出版协会主管，线装书局主办，蓝墨科技提供技术支撑的面向行业的数字图书和数字教材公共服务平台。
 
@@ -16485,19 +16485,19 @@ Description: IM-Compressor Client on Deepin Wine8
 
 Package: draw.io
 Architecture: amd64
-Version: 27.0.9
+Version: 28.0.4
 Priority: optional
 Section: default
 Maintainer: JGraph <support@draw.io>
-Installed-Size: 374913
+Installed-Size: 384715
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./image_graphics/draw.io/draw.io_27.0.9_amd64.deb
-Size: 101638066
-MD5sum: 5b3541849adc467a912901dc8afb79bf
-SHA1: ed4c91641358da87892dd9acf6ecbaf7fd89188e
-SHA256: 3b941454f05f175ff21c983d589f7804229801bd82e1a0e8c1d97af302c2fae0
-SHA512: 90b1ef4a19dabe78ea03e8dbbf6a1f1a74a1f884d1e85d45261fbf865c8ce4b738cd35634aa60f24877bd943ff73819c632cf6a6c7b6782ae4c9e01837cd92cf
+Filename: ./image_graphics/draw.io/draw.io_28.0.4_amd64.deb
+Size: 104223148
+MD5sum: 88bc32bf49391b9693bcbff166a43de3
+SHA1: cc83ad7a23d156133200b974e5388ef4ada2b13c
+SHA256: fb10f723f0aacaba06faf6d3fae6a04cc86588d6704a72aad001e4f22f4f72b4
+SHA512: 00665c34db99b493911b827e369db55159fd80e4c049d04d2dfd27dbb3207ba5b045692ad33b5dab887d73b12ff2b8b3feaa6b05e169d234b50db403df7ae00c
 Homepage: https://github.com/jgraph/drawio
 Description: 
   draw.io desktop
@@ -25940,19 +25940,19 @@ Description: PileMd is a Markdown Note App.
 
 Package: ynote-desktop
 Architecture: amd64
-Version: 8.1.30-8935
+Version: 8.1.51-9247
 Priority: optional
 Section: default
 Maintainer: 网易公司 <account@note.youdao.com>
-Installed-Size: 417122
+Installed-Size: 1008659
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./office/ynote-desktop/ynote-desktop_8.1.30-8935_amd64.deb
-Size: 121121324
-MD5sum: 4d984798dce226095d6c42bc58634255
-SHA1: ce29444dbe283c926fe0fbc65efad47c91bd1bf5
-SHA256: d4996389dc79e304071527760902c3b63be92004a790da228088eaf238aa5cca
-SHA512: 50d03ad9f65e0d239bf31e122ff8f2766a3a5f09944f26bc4fd39126a1e21d4df9902136101e5233e1cf181c865b8f1305e3dc19db856ec4637efdb0d2e832a6
+Filename: ./office/ynote-desktop/ynote-desktop_8.1.51-9247_amd64.deb
+Size: 128709506
+MD5sum: 4f5041196b061795964a5cd6e2a31abf
+SHA1: 5efb6dead7ff9f21665b4718741d91341cc01d6a
+SHA256: 2899b36ebe0f09c243d2ac2c7d8efd004f90e7a4777ce91612c47e6973762f28
+SHA512: 737bfeb3cc413ad844fdd959f245c5a7cee69083ec7a9e1660e57adf9f450f545f368893f2bcff32340c6f3466b9d3389b1024326d0a5569db555d3a8bd29171
 Homepage: https://note.youdao.com/
 Description: 
   ynote-desktop
@@ -35708,17 +35708,33 @@ Description: open-source AirPlay mirroring server
 
 Package: io.github.msojocs.bilibili
 Architecture: amd64
-Version: 1.16.5-2
+Version: 1.16.5-4
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 1217857
-Filename: ./video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.16.5-2_amd64.deb
-Size: 214690432
-MD5sum: 4a62bb0e4c8d712e3e185925166b1418
-SHA1: a6ff9ce34c62879e94830b7ab11eadf6e299e55d
-SHA256: cd36c736b77be70d31d9d60e7f1c87dfb1a5806f074f4604c54c59414fb533f4
-SHA512: 5826ff885c79dafd114d46ceec291b3b5c7972e9a2686c37c0b9cd37242a6293852e49a1ebf629e27ce5645912a1cbb0418ade67568650b8d70a42bc95d7b62c
+Installed-Size: 1217938
+Filename: ./video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.16.5-4_amd64.1.deb
+Size: 214715380
+MD5sum: 78322f38085ce4612c90cebe15aac157
+SHA1: a3c68b7702d2135dc71a4065e6a38fff4da95068
+SHA256: 4bb4785e6067ab25ee8307f985e9ce646e53cc6530e08ad4e3649720d9ba59cc
+SHA512: f66bdb8f9b5e4c72d88dbd92d9fedeed218111b044628132a572818cc459ffd9537305b1c9c35bed5e0260ef56436718fdfea5a266fbba997e031940c99e208e
+Description: BiliBili For Linux.
+  BiliBili For Linux. This version is unofficial.
+
+Package: io.github.msojocs.bilibili
+Architecture: amd64
+Version: 1.16.5-4
+Priority: optional
+Section: application
+Maintainer: msojocs
+Installed-Size: 1217938
+Filename: ./video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.16.5-4_amd64.deb
+Size: 214715380
+MD5sum: 78322f38085ce4612c90cebe15aac157
+SHA1: a3c68b7702d2135dc71a4065e6a38fff4da95068
+SHA256: 4bb4785e6067ab25ee8307f985e9ce646e53cc6530e08ad4e3649720d9ba59cc
+SHA512: f66bdb8f9b5e4c72d88dbd92d9fedeed218111b044628132a572818cc459ffd9537305b1c9c35bed5e0260ef56436718fdfea5a266fbba997e031940c99e208e
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 

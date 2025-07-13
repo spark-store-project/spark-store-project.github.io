@@ -98,10 +98,10 @@
     "img_urls": "[\"https://spk-json.spark-app.store/store/image_graphics/draw.io/screen_1.png\"]",
     "icons": "https://spk-json.spark-app.store/store/image_graphics/draw.io/icon.png",
     "Pkgname": "draw.io",
-    "Version": "27.0.9",
-    "Filename": "draw.io_27.0.9_arm64.deb",
-    "Update": "2025-05-28 01:39:43",
-    "Size": "96.93MB",
+    "Version": "28.0.4",
+    "Filename": "draw.io_28.0.4_arm64.deb",
+    "Update": "2025-07-14 01:44:58",
+    "Size": "99.16MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
 ,
@@ -232,24 +232,6 @@
 
 ,
 {
-  "Author": "刘久胜 <891599396@qq.com>",
-  "Contributor": "刘久胜 <891599396@qq.com>",
-  "Filename": "xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb",
-  "More": " gis成果查看、国土空间规划、esri file gdb、shapefile、mdb、pdf、jpeg/jpg、png、zip、docx、xlsx、txt\n",
-  "Name": "GIS成果浏览器",
-  "Pkgname": "xyz.liujiusheng.gisbrowser",
-  "Size": "5401 Kb",
-  "Tags": "deepin;uos;ubuntu;debian",
-  "Torrent_address": "xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb.torrent",
-  "Update": "2023-07-14 17:01:20",
-  "Version": "0.3.0",
-  "Website": "https://github.com/liujiusheng/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_3.png\"]"
-}
-
-,
-{
   "Author": "lishuaiwei <lishuaiwei@zwcad.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.zwsoft.zwcad2025_25.0.3.4_arm64.deb",
@@ -264,6 +246,24 @@
   "Website": "https://www.zwsoft.cn",
   "icons": "https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.zwsoft.zwcad2025/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/aarch64-store/image_graphics/com.zwsoft.zwcad2025/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "刘久胜 <891599396@qq.com>",
+  "Contributor": "刘久胜 <891599396@qq.com>",
+  "Filename": "xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb",
+  "More": " gis成果查看、国土空间规划、esri file gdb、shapefile、mdb、pdf、jpeg/jpg、png、zip、docx、xlsx、txt\n",
+  "Name": "GIS成果浏览器",
+  "Pkgname": "xyz.liujiusheng.gisbrowser",
+  "Size": "5401 Kb",
+  "Tags": "deepin;uos;ubuntu;debian",
+  "Torrent_address": "xyz.liujiusheng.gisbrowser_0.3.0_arm64.deb.torrent",
+  "Update": "2023-07-14 17:01:20",
+  "Version": "0.3.0",
+  "Website": "https://github.com/liujiusheng/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/xyz.liujiusheng.gisbrowser/screen_3.png\"]"
 }
 
 ,
@@ -358,6 +358,24 @@
 
 ,
 {
+  "Author": "Deepin WINE Team and gtjdoctor@163.com",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.microsoft.paint.deepin_1.0spark2_all.deb",
+  "More": "实在不习惯使用的深度的画板工具，所以打包这个Windows的画图工具。\n1. 使用Windows Vista的画图\nWindows vista，相较于windows XP的画图工具，图标进行了改进，图形缩放工具，增加了滑块儿。\n2. 默认自动调用UOS/deepin的文件管理器\n通信的打包脚本，depin-wine5默认使用系统的文件管理器。\n3. 重新绘制了高清矢量图标\n这个有点费时间，但谁让自己有强迫症呢？使用inkscap重新绘制了适量图标，svg格式。\n更新内容：\n1、使用 spark dwine helper\n2、使用 deepin wine6 stable\n3、添加自动清理脚本",
+  "Name": "Windows Vista 画图（Wine）",
+  "Pkgname": "com.microsoft.paint.deepin",
+  "Size": "21 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.microsoft.paint.deepin_1.0spark2_all.deb.torrent",
+  "Update": "2025-01-11 13:20:13",
+  "Version": "1.0spark2",
+  "Website": "https://bbs.deepin.org/post/218516",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_3.png\"]"
+}
+
+,
+{
   "Author": "嘉立创 <lichuang>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "cn.lceda_6.5.39_arm64.deb",
@@ -390,24 +408,6 @@
   "Website": "https://www.zwsoft.cn",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zw3dprofessional/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zw3dprofessional/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.zwsoft.zw3dprofessional/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "Deepin WINE Team and gtjdoctor@163.com",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.microsoft.paint.deepin_1.0spark2_all.deb",
-  "More": "实在不习惯使用的深度的画板工具，所以打包这个Windows的画图工具。\n1. 使用Windows Vista的画图\nWindows vista，相较于windows XP的画图工具，图标进行了改进，图形缩放工具，增加了滑块儿。\n2. 默认自动调用UOS/deepin的文件管理器\n通信的打包脚本，depin-wine5默认使用系统的文件管理器。\n3. 重新绘制了高清矢量图标\n这个有点费时间，但谁让自己有强迫症呢？使用inkscap重新绘制了适量图标，svg格式。\n更新内容：\n1、使用 spark dwine helper\n2、使用 deepin wine6 stable\n3、添加自动清理脚本",
-  "Name": "Windows Vista 画图（Wine）",
-  "Pkgname": "com.microsoft.paint.deepin",
-  "Size": "21 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.microsoft.paint.deepin_1.0spark2_all.deb.torrent",
-  "Update": "2025-01-11 13:20:13",
-  "Version": "1.0spark2",
-  "Website": "https://bbs.deepin.org/post/218516",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_3.png\"]"
 }
 
 ,

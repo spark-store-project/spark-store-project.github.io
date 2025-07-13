@@ -519,6 +519,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <shenmo@spark-app.store>",
+  "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
+  "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
+  "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
+  "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
+  "Size": "3 Kb",
+  "Tags": "deepin;native",
+  "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
+  "Update": "2025-05-29 21:12:04",
+  "Version": "1.0.1-alpha-lnd25.5",
+  "Website": "https://www.loongson.cn/",
+  "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
+}
+
+,
+{
   "Author": "zinface <zinface@163.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "simple-sensor-monitor_1.1-20240324_loong64.deb",
@@ -605,24 +623,6 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.remmina/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <shenmo@spark-app.store>",
-  "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
-  "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
-  "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
-  "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
-  "Size": "3 Kb",
-  "Tags": "deepin;native",
-  "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
-  "Update": "2025-05-29 21:12:04",
-  "Version": "1.0.1-alpha-lnd25.5",
-  "Website": "https://www.loongson.cn/",
-  "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
 }
 
 ,
@@ -933,6 +933,24 @@
 
 ,
 {
+    "Author": "skyyx2002 <mzldkj@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "skydisktest_1.01-1fix_loong64.deb",
+    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
+    "Name": "Sky磁盘测试工具",
+    "Pkgname": "skydisktest",
+    "Size": "105 Kb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "skydisktest_1.01-1fix_loong64.deb.torrent",
+    "Update": "2025-06-15 07:18:55",
+    "Version": "1.01-1fix",
+    "Website": "none",
+    "icons": "https://spk-json.spark-app.store/loong64-store/tools/skydisktest/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/tools/skydisktest/screen_2.png\"]"
+}
+
+,
+{
   "Name": "QQ 用户服务",
   "Version": "0.0.1",
   "Filename": "linuxqq-autoservice_0.0.1_all.deb",
@@ -1126,24 +1144,6 @@
   "Website": "https://gitee.com/spark-building-service/spark-building-service",
   "icons": "https://spk-json.spark-app.store/store/tools/spark-building-service/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-building-service/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "skyyx2002 <mzldkj@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "skydisktest_1.01-1fix_loong64.deb",
-    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
-    "Name": "Sky磁盘测试工具",
-    "Pkgname": "skydisktest",
-    "Size": "105 Kb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "skydisktest_1.01-1fix_loong64.deb.torrent",
-    "Update": "2025-06-15 07:18:55",
-    "Version": "1.01-1fix",
-    "Website": "none",
-    "icons": "https://spk-json.spark-app.store/loong64-store/tools/skydisktest/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/tools/skydisktest/screen_2.png\"]"
 }
 
 ,
@@ -1478,6 +1478,24 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/30/40d34b20-884a-11ed-96cb-3d8750470e30.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/30/3eff9c90-884a-11ed-96cb-3d8750470e30.png"
+}
+
+,
+{
+    "Author": "liweitao <liweitao@loongson.cn>",
+    "Contributor": "liweitao <liweitao@loongson.cn>",
+    "Filename": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb",
+    "More": "VBIOS(Video BIOS)是显卡的 BIOS,VBIOS 提供显示芯片的配置参数信息,包括显示卡型号、规格、生产厂家、出厂时间、硬件配置,显示芯片与外围器件的连接关系等信息。VBIOS 的作用是隔离龙芯主板的设计差异,保证内核驱动代码的稳定。VBIOS 目前用于龙芯显卡驱动的配置,龙芯内核显示驱动通过解析 VBIOS固件中的硬件信息,配置,代码等内容完成驱动的初始化。由内核驱动和 VBIOS固件共同控制龙芯显卡,实现显示,背光调节,渲染等功能。",
+    "Name": "龙芯vbios2.1生成工具",
+    "Pkgname": "loongson-vbios-creator",
+    "Size": "867 Kb",
+    "Tags": "deepin;ubuntu;debian;native",
+    "Torrent_address": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb.torrent",
+    "Update": "2025-07-13 11:49:46",
+    "Version": "2.1.0-1.lnd.1",
+    "Website": "http://www.loongnix.org/index.php/%E2%98%85_Loongson-vbios-creator",
+    "icons": "https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/screen_1.png\"]"
 }
 
 ,

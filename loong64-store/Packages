@@ -3103,6 +3103,24 @@ SHA256: 8175787d77315fc2182229f3d786d244c25ca98c894cb03e89a31bb37ef4be67
 SHA512: 827b39ea1e0a5cab45ef02cb7ae53f6e8db55d56062eddee1949a2d93f01fd8502a9688bd0ea8b7b6300de5b0f0a7bb83fde9e569cac27ef0fcdae660b59ac22
 Description: 9.22
 
+Package: loongson-vbios-creator
+Architecture: loong64
+Version: 2.1.0-1.lnd.1
+Priority: optional
+Section: devel
+Maintainer: liweitao <liweitao@loongson.cn>
+Installed-Size: 2144
+Depends: liblol, liblol-dkms, libc6 (>= 2.28.19), libgcc1 (>= 1:3.0), libgl1, libqt5core5a (>= 5.5.0), libqt5gui5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6
+Filename: ./tools/loongson-vbios-creator/loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb
+Size: 867480
+MD5sum: 6659315eaf3f431ed4188459eb007b29
+SHA1: 635a1c994aeed9e377b66007c96a3074d8f8a9f9
+SHA256: bfba1a3846575057010d8cc0a064736bb0ed374c110af992eb3413b6f75125f6
+SHA512: 8def99d6d4af3b41e5336e7a514737459b9fd078ddea40cf97db28bf449d281b4a8ba03170af8f9227cc428ec92e8eca5af0191ca5eaa6a142c88be178ea2608
+Homepage: http://www.loongnix.org/index.php/%E2%98%85_Loongson-vbios-creator
+Description: It is used to generate vbios files for loongson-drm-gpu driver.
+ The file store information that the ralationship between graphics and driver.
+
 Package: com.bandisoft.bandizip.spark
 Architecture: all
 Version: 7.32spark0
@@ -10640,28 +10658,6 @@ Homepage: http://www.loongnix.cn/zh/api/lbrowser/
 Description: The web browser from Loongson
  Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
-Package: cn.loongnix.lbrowser
-Architecture: loong64
-Version: 3.3.2091.6-1.stable
-Priority: optional
-Section: web
-Source: lbrowser
-Maintainer: Lbrowser Team <browser@loongson.cn>
-Installed-Size: 306771
-Provides: www-browser
-Pre-Depends: dpkg (>= 1.14.0)
-Depends: ca-certificates, libasound2 (>= 1.0.17), libatk1.0-0 (>= 2.2.0), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.28), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libdrm2 (>= 2.4.75), libexpat1 (>= 2.0.1), libgbm1 (>= 8.1~0), libgcc1 (>= 1:4.2), libgdk-pixbuf-2.0-0 (>= 2.22.0) | libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libgtk2.0-0 (>= 2.24.0), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2), liblol, liblol-dkms
-Recommends: libu2f-udev, libvulkan1
-Filename: ./network/cn.loongnix.lbrowser/cn.loongnix.lbrowser_3.3.2091.6-1.stable_loong64.deb
-Size: 88313072
-MD5sum: 4b5f02596b2455e1c94b19e70026e22c
-SHA1: ca1ecfa96a7975443b56e06e6d431cbfe601c7ed
-SHA256: 3d526112d895b3a450a86e55b77a6e2b220448a2d5b4cd79a6fcb44f49223cd0
-SHA512: 0d17c12fbc71bec13df646239d222a477e92d7ca216e35480193844d2f5ff2621dd99de7e159b4a4a9b21a44ce45f01c60ab45270d9ce6aba45e17595b7e758b
-Homepage: http://www.loongnix.cn/zh/api/lbrowser/
-Description: The web browser from Loongson
- Lbrowser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
-
 Package: com.bitcomet.spark
 Architecture: all
 Version: 2.03.1
@@ -11039,17 +11035,33 @@ Description: The web browser from qianxin.com
 
 Package: io.github.msojocs.bilibili
 Architecture: loong64
-Version: 1.16.5-2
+Version: 1.16.5-4
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 398716
-Filename: ./video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.16.5-2_loong64.deb
-Size: 94109888
-MD5sum: a2e13354a7b7cd471e026c7084a8bca0
-SHA1: ebe701be4985303325f74a41c09cce63bf4444da
-SHA256: d2318fc6567f6c1b07983ffc8584a7a319c667c7606eeaa13f37a3a2dd2c0b43
-SHA512: 341bba59b60434803af6d2b32cbdbf4cb16b9e8d9d9b39029477a6a602b16580db17c11a0251c863ca40dc0c42a11538b1c23af34efe4ca660891f746d760ddd
+Installed-Size: 398797
+Filename: ./video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.16.5-4_loong64.1.deb
+Size: 94107568
+MD5sum: 3cf535168cc0ddaf563ae635eb57342d
+SHA1: ae6ee16006fdaa5662a61c6c465d6e441a0608f2
+SHA256: 2e882f75c214b1527e10d240c5933e4c1f927e1aa517ceb5034205085319e469
+SHA512: ebf378432aef516e45b6e23a211e26d85f27588449b169cecc6c5b50280482f613404b5ce42ccc59a6cdc869c8247a4a2d79daf4e308fecbc8bbf9313e925d12
+Description: BiliBili For Linux.
+  BiliBili For Linux. This version is unofficial.
+
+Package: io.github.msojocs.bilibili
+Architecture: loong64
+Version: 1.16.5-4
+Priority: optional
+Section: application
+Maintainer: msojocs
+Installed-Size: 398797
+Filename: ./video/io.github.msojocs.bilibili/io.github.msojocs.bilibili_1.16.5-4_loong64.deb
+Size: 94107568
+MD5sum: 3cf535168cc0ddaf563ae635eb57342d
+SHA1: ae6ee16006fdaa5662a61c6c465d6e441a0608f2
+SHA256: 2e882f75c214b1527e10d240c5933e4c1f927e1aa517ceb5034205085319e469
+SHA512: ebf378432aef516e45b6e23a211e26d85f27588449b169cecc6c5b50280482f613404b5ce42ccc59a6cdc869c8247a4a2d79daf4e308fecbc8bbf9313e925d12
 Description: BiliBili For Linux.
   BiliBili For Linux. This version is unofficial.
 

@@ -1,0 +1,16 @@
+{
+    "Author": "liweitao <liweitao@loongson.cn>",
+    "Contributor": "liweitao <liweitao@loongson.cn>",
+    "Filename": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb",
+    "More": "VBIOS(Video BIOS)是显卡的 BIOS,VBIOS 提供显示芯片的配置参数信息,包括显示卡型号、规格、生产厂家、出厂时间、硬件配置,显示芯片与外围器件的连接关系等信息。VBIOS 的作用是隔离龙芯主板的设计差异,保证内核驱动代码的稳定。VBIOS 目前用于龙芯显卡驱动的配置,龙芯内核显示驱动通过解析 VBIOS固件中的硬件信息,配置,代码等内容完成驱动的初始化。由内核驱动和 VBIOS固件共同控制龙芯显卡,实现显示,背光调节,渲染等功能。",
+    "Name": "龙芯vbios2.1生成工具",
+    "Pkgname": "loongson-vbios-creator",
+    "Size": "867 Kb",
+    "Tags": "deepin;ubuntu;debian;native",
+    "Torrent_address": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb.torrent",
+    "Update": "2025-07-13 11:49:46",
+    "Version": "2.1.0-1.lnd.1",
+    "Website": "http://www.loongnix.org/index.php/%E2%98%85_Loongson-vbios-creator",
+    "icons": "https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/screen_1.png\"]"
+}
