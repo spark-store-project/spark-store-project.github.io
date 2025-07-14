@@ -336,24 +336,6 @@
 
 ,
 {
-  "Name": "阿里云盘（小白羊修复版）",
-  "Version": "3.13.5",
-  "Filename": "xbyyunpan_3.13.5_amd64.deb",
-  "Torrent_address": "xbyyunpan_3.13.5_amd64.deb.torrent",
-  "Pkgname": "xbyyunpan",
-  "Author": "gavingaozhangmin <gaozhangmin@gmail.com>",
-  "Contributor": "gavingaozhangmin <gaozhangmin@gmail.com>",
-  "Website": "https://github.com/gaozhangmin/aliyunpan",
-  "Update": "2024-06-03 22:16:54",
-  "Size": "83.83 MB",
-  "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/6ffd0e16d96846c6aa99c37588a66c0d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/bf3ba2b5bca440d892afe20e3a502a08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/8e851d2961644d4ba1c5e2cd4f1fda14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/1d2b3f9ce4d740ea8d509d347246da1d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/c8589c3ed82f4b0e92dd72aca1e4b678.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/9869ae3f054f4adc85f6ef75d3adf574.png"
-}
-
-,
-{
   "Name": "EasyConnect for V23 (NEW!)",
   "Version": "7.6.7.7-r1",
   "Filename": "easyconnect_7.6.7.7-r1_amd64.deb",
@@ -368,6 +350,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/11/04/51d286255f974ace9ca32e6893fed2f4.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/11/04/3dd495ddcf874c5590dcd4bd5870d558.png"
+}
+
+,
+{
+  "Name": "阿里云盘（小白羊修复版）",
+  "Version": "3.13.5",
+  "Filename": "xbyyunpan_3.13.5_amd64.deb",
+  "Torrent_address": "xbyyunpan_3.13.5_amd64.deb.torrent",
+  "Pkgname": "xbyyunpan",
+  "Author": "gavingaozhangmin <gaozhangmin@gmail.com>",
+  "Contributor": "gavingaozhangmin <gaozhangmin@gmail.com>",
+  "Website": "https://github.com/gaozhangmin/aliyunpan",
+  "Update": "2024-06-03 22:16:54",
+  "Size": "83.83 MB",
+  "More": "修复版小白羊云盘\n基于阿里云盘网页版开发的第三方Linux客户端(超好用)。\n***关于安装后应用没有图标问题：\n0.打开终端，依次输入以下命令：\n1.sudo gedit /usr/share/applications/xbyyunpan.desktop\n(deepin和uos需要将gedit换为vim，vim用法请自行百度\n2.将“Icon=xbyyunpan”一行改为\n“Icon=/opt/小白羊云盘/resources/images/icon_256x256.png”\n3.保存退出",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/6ffd0e16d96846c6aa99c37588a66c0d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/bf3ba2b5bca440d892afe20e3a502a08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/8e851d2961644d4ba1c5e2cd4f1fda14.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/1d2b3f9ce4d740ea8d509d347246da1d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/03/c8589c3ed82f4b0e92dd72aca1e4b678.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/03/9869ae3f054f4adc85f6ef75d3adf574.png"
 }
 
 ,
@@ -1068,6 +1068,23 @@
 
 ,
 {
+    "Name": "夸克浏览器",
+    "Version": "2.0.5.220spark1",
+    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
+    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
+    "Pkgname": "cn.quark.quarkpc.spark",
+    "Author": "广州市动悦信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.quark.cn/",
+    "Update": "2025-02-27 22:56:53",
+    "Size": "251.42 MB",
+    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
+    "Tags": "debian;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
+}
+,
+{
   "Name": "SwitchHosts",
   "Version": "4.2.0",
   "Filename": "switchhosts_4.2.0_amd64.deb",
@@ -1084,23 +1101,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/08/19/afa6bb8b68b047239f1dada07bc54603.png"
 }
 
-,
-{
-    "Name": "夸克浏览器",
-    "Version": "2.0.5.220spark1",
-    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
-    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
-    "Pkgname": "cn.quark.quarkpc.spark",
-    "Author": "广州市动悦信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.quark.cn/",
-    "Update": "2025-02-27 22:56:53",
-    "Size": "251.42 MB",
-    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
-    "Tags": "debian;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
-}
 ,
 {
   "Name": "OneDrive for Linux 命令行版",

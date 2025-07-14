@@ -9752,6 +9752,22 @@ SHA512: 845c6a52d5475f7be385b5e7ee981ce19418b8e62359cf696e1c0f660b8c7467c05b9423
 Description: CrossPaste
 Built-With: Hydraulic Conveyor
 
+Package: mouse-machine
+Architecture: amd64
+Version: 1.0.0
+Priority: optional
+Maintainer: fu huizhong<fuhuizn@163.com>
+Depends: libx11-6, libgl1, libc6, libxcb1, libxext6, libglvnd0, libglx0
+Filename: ./tools/mouse-machine/mouse-machine_1.0.0_amd64.deb
+Size: 9415332
+MD5sum: 62fb72d2444db2ada20a13f0c9ce23b9
+SHA1: a535c1363b22dfd20f407693900366675e4bcad1
+SHA256: ae3e58205559b31e1dad561461ead9d55e17f863d1a45294689e1ecc4d4b4385
+SHA512: 7ec1714302763ec23d2eea8ca1122e1be5aeda54fabc240dd4cf4e5f886b56632871b6576a45c8926f3502065f462727914fc2de8d6a35c51ba3d596243fa280
+Homepage: https://gitee.com/rocket049/
+Description: 重复执行录制的鼠标点击动作. Repeat mouse click actions. Record mouse click actions.
+iSection: utils
+
 Package: lfxnet
 Architecture: amd64
 Version: 1.0.0-1
@@ -40081,6 +40097,21 @@ SHA256: 76899647cb80d5bc0349e795c3b86a319b39b25f1485924ec08489f114cac5ed
 SHA512: 04a2b5c20089481a061f834e2b905fd7be79603247be11e265b66de853f9dd08f2849a6d1baba341f8cb31bef2b5644092b13e6d967978a173f358fc9e04ccb2
 Homepage: https://github.com/aliyun/oss-browser
 Description: OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
+
+Package: sourcegit
+Architecture: amd64
+Version: 2025.26
+Priority: optional
+Maintainer: longshuang@msn.cn
+Installed-Size: 66432
+Depends: libx11-6, libice6, libsm6, libicu | libicu76 | libicu74 | libicu72 | libicu71 | libicu70 | libicu69 | libicu68 | libicu67 | libicu66 | libicu65 | libicu63 | libicu60 | libicu57 | libicu55 | libicu52, xdg-utils
+Filename: ./development/sourcegit/sourcegit_2025.26_amd64.deb
+Size: 26369276
+MD5sum: 332105af23a99be8cb73e5c13dea7d72
+SHA1: e44af11727c0f5a923e2c4577a0b784211cffdfe
+SHA256: 64d2199d6e27c2ab01cb7af585814cbac0022bcf0c16c22d01c0dc316d30b7f8
+SHA512: 2fcd869e2bdb7acaf10b3455098db500d01c2ea86f25f2492997a65a385a279ae4b2be22bda28cdb2f19a3923d80967bcf7d3fb372239857924030ffa33b5b23
+Description: Open-source & Free Git GUI Client
 
 Package: stm32cubeprogrammer
 Architecture: amd64

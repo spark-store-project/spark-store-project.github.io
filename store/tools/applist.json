@@ -2027,24 +2027,6 @@
 
 ,
 {
-  "Name": "CPU-Z（Wine）",
-  "Version": "2.09spark0",
-  "Filename": "com.cpuz.spark_2.09spark0_all.deb",
-  "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
-  "Pkgname": "com.cpuz.spark",
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://www.cpuid.com/",
-  "Update": "2024-04-26 22:50:38",
-  "Size": "6.22 MB",
-  "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
-}
-
-,
-{
   "Name": "奔图打印机驱动",
   "Version": "8.0.25-1+uos",
   "Filename": "com.pantum.pantum_8.0.25-1_plusuos_amd64.deb",
@@ -2059,6 +2041,24 @@
   "Tags": "debian;deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/29/51c9f5123c544720bfd66c1e2797643b.png\",\"https://spk-json.spark-app.store/images/2025/03/29/bc9e9229357f4142a711d84ed87deb64.png\",\"https://spk-json.spark-app.store/images/2025/03/29/f15fdc188f6d4825ba59f42778976dee.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/29/8aced712793e4f0c9cc2d68a51882409.png"
+}
+
+,
+{
+  "Name": "CPU-Z（Wine）",
+  "Version": "2.09spark0",
+  "Filename": "com.cpuz.spark_2.09spark0_all.deb",
+  "Torrent_address": "com.cpuz.spark_2.09spark0_all.deb.torrent",
+  "Pkgname": "com.cpuz.spark",
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://www.cpuid.com/",
+  "Update": "2024-04-26 22:50:38",
+  "Size": "6.22 MB",
+  "More": "免费的 CPU 信息检测软件。这些信息包括：CPU 名称、厂商、性能、当前电压、L1 L2 cache情况；内核进程；内部和外部时钟等，支持全系列的Intel以及AMD品牌的CPU。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a298d0dfc0d447f6b2a38368cbb44123.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/a202f3f6a650450fb2f4d814e35136b3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/26/0eb9c7aa609243c08417db538c9f6281.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/26/b1a4eb4608ab418888fa6e8a6d787958.png"
 }
 
 ,
@@ -2290,24 +2290,6 @@
 
 ,
 {
-  "Name": "Deepin Community Live CD 2.0.0-mini",
-  "Version": "2.0.0gxde0",
-  "Filename": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb",
-  "Torrent_address": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb.torrent",
-  "Pkgname": "live-filesystem-community-mini",
-  "Author": "LinuxDeepin Project <linuxdeepin@linuxdeepin.com>, gfdgd xi<3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://gfdgd-xi.github.io",
-  "Update": "2024-04-14 15:10:00",
-  "Size": "765.22 MB",
-  "More": "此 Live CD 基于 deepin 20.8 和原 Live CD 2.0 制作，安装部分维护工具（如果还有需要添加的就说），感谢 https://bbs.deepin.org/post/166409 的作者 @xchngg的参考文档，测试 Ventoy 在 Legary 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.7 均可运行\n同时也借鉴了以下文章的内容：\nhttps://bbs.deepin.org/post/228930 @deepin-superuser\nhttps://bbs.deepin.org/post/228568 @木一明\nfull 用户密码（包括root密码）为：123456\ntiny、mini、install root 密码未知\n\n并且此 Live CD 密码未知，如果有使用密码的需求建议使用 passwd 修改密码",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/5c87450a8e184887b42cc82febe97afa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/8a591d027862455c80a1d986485511b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/27f011a6bdc64745b6d5e575bd4d0227.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/432f1d069c0140aea625dad213585950.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/296c03083b7845ffbfae4c796a367168.png"
-}
-
-,
-{
   "Name": "dolphin-文件管理器",
   "Version": "25.03.70.03",
   "Filename": "org.kde.dolphin_25.03.70.03_amd64.deb",
@@ -2322,6 +2304,24 @@
   "Tags": "deepin;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/07/d3d257976340462a8e6ae2af743f16e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/07/65d0f3eb00f24ea886d6b846da7d5d0b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/07/e03bbd885d9a4cd8b74ce188c1df7c90.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/12/07/6021d9760a4f49c1a6d7120a83a00c78.png"
+}
+
+,
+{
+  "Name": "Deepin Community Live CD 2.0.0-mini",
+  "Version": "2.0.0gxde0",
+  "Filename": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb",
+  "Torrent_address": "live-filesystem-community-mini_2.0.0gxde0_amd64.deb.torrent",
+  "Pkgname": "live-filesystem-community-mini",
+  "Author": "LinuxDeepin Project <linuxdeepin@linuxdeepin.com>, gfdgd xi<3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://gfdgd-xi.github.io",
+  "Update": "2024-04-14 15:10:00",
+  "Size": "765.22 MB",
+  "More": "此 Live CD 基于 deepin 20.8 和原 Live CD 2.0 制作，安装部分维护工具（如果还有需要添加的就说），感谢 https://bbs.deepin.org/post/166409 的作者 @xchngg的参考文档，测试 Ventoy 在 Legary 和 UEFT 模式下均可运行此 Live CD，有常用驱动（网卡、显卡、声卡），理论上能运行 deepin 20.7 均可运行\n同时也借鉴了以下文章的内容：\nhttps://bbs.deepin.org/post/228930 @deepin-superuser\nhttps://bbs.deepin.org/post/228568 @木一明\nfull 用户密码（包括root密码）为：123456\ntiny、mini、install root 密码未知\n\n并且此 Live CD 密码未知，如果有使用密码的需求建议使用 passwd 修改密码",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/5c87450a8e184887b42cc82febe97afa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/8a591d027862455c80a1d986485511b7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/27f011a6bdc64745b6d5e575bd4d0227.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/14/432f1d069c0140aea625dad213585950.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/14/296c03083b7845ffbfae4c796a367168.png"
 }
 
 ,
@@ -3996,6 +3996,24 @@
 
 ,
 {
+  "Name": "时钟大师",
+  "Version": "1.5-20240517",
+  "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
+  "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
+  "Pkgname": "com.gitee.xinghuo.clock",
+  "Author": "夜行者",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "https://gitee.com/xinghuowangluo/clockwidget",
+  "Update": "2024-06-08 09:33:03",
+  "Size": "54.19 KB",
+  "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
+  "Tags": "community;ubuntu;deepin;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
+}
+
+,
+{
   "Name": "字帖生成器",
   "Version": "0.2.7",
   "Filename": "copybook_0.2.7_amd64.deb",
@@ -4013,22 +4031,21 @@
 
 ,
 {
-  "Name": "时钟大师",
-  "Version": "1.5-20240517",
-  "Filename": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb",
-  "Torrent_address": "com.gitee.xinghuo.clock_1.5-20240517_amd64.deb.torrent",
-  "Pkgname": "com.gitee.xinghuo.clock",
-  "Author": "夜行者",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "https://gitee.com/xinghuowangluo/clockwidget",
-  "Update": "2024-06-08 09:33:03",
-  "Size": "54.19 KB",
-  "More": "桌面时钟圆形钟盘设计，钟盘内为星期、时间及日期显示。可设置圆环颜色、刻度及指针颜色，同时可以设置闹钟。",
-  "Tags": "community;ubuntu;deepin;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
+    "Name": "小Q工具箱",
+    "Version": "2.05",
+    "Filename": "xiaoq-tools_2.05_all.deb",
+    "Torrent_address": "xiaoq-tools_2.05_all.deb.torrent",
+    "Pkgname": "xiaoq-tools",
+    "Author": "fb93<fb93@fb93.com>",
+    "Contributor": "fb93<fb93@fb93.com>",
+    "Website": "https://gitee.com/seeker_ok",
+    "Update": "2025-07-07 16:59:14",
+    "Size": "1.34 MB",
+    "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统(支持amd64与arm64系统).\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n1、修复权限的问题。 \n2、增加删除了文件列表显示 \n3、增加检测版本功能 \n4、增加防止删除系统备份目录/backup提示 \n5、增加检测版本功能 ，检测是否为最新的版本 \n6、本次优化检测版本功能，解决部分国产电脑无法使用的问题。\n7、优化MimeType，减少重复。",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/8ae46ca1c1f64f7b976f402b8c0581a7.png\",\"https://spk-json.spark-app.store/images/2025/07/07/cc82f2fe74d9429b804c76dd55139439.png\",\"https://spk-json.spark-app.store/images/2025/07/07/7637728a452e46d1aab2cf87da478b59.png\",\"https://spk-json.spark-app.store/images/2025/07/07/6b75bce9ef7e45e19bb6ce651c0f505b.png\",\"https://spk-json.spark-app.store/images/2025/07/07/2896ea07962646eba0c41abbe3816c57.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/32ea50bca3844f0bb4234273a50c41a9.png"
 }
-
 ,
 {
   "Name": "ToDesk企业版主控端",
@@ -4083,23 +4100,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
 }
 
-,
-{
-    "Name": "小Q工具箱",
-    "Version": "2.05",
-    "Filename": "xiaoq-tools_2.05_all.deb",
-    "Torrent_address": "xiaoq-tools_2.05_all.deb.torrent",
-    "Pkgname": "xiaoq-tools",
-    "Author": "fb93<fb93@fb93.com>",
-    "Contributor": "fb93<fb93@fb93.com>",
-    "Website": "https://gitee.com/seeker_ok",
-    "Update": "2025-07-07 16:59:14",
-    "Size": "1.34 MB",
-    "More": "小Q工具箱：集合多种实用工具和脚本的开源项目，旨在简化日常开发任务，提升效率。集合有强制删除文件或文件夹（支持拖放）和一键清除只读不可更改权限工具,兼容统信UOS、deepin系统和麒麟系统(支持amd64与arm64系统).\n一、本工具提供全面的文件管理功能：\n  * 多种路径输入方式（命令行/交互式/拖放）\n  * 路径验证与二次确认机制\n  * 自动权限管理\n  * 按文件类型选择性删除\n  * 空目录自动清理\n  * 桌面通知与终端反馈\n  * 使用sudo权限保障安全\n  * 批量处理能力\n .\n 专为需要精确控制删除操作的系统管理员设计。\n .\n 功能特点：\n  1) 支持路径自动处理（~和引号）\n  2) 递归权限修改与删除\n  3) 通配符文件类型过滤\n  4) 多级错误处理机制\n  5) 兼容所有标准Linux环境\n  6) 操作日志全程记录\n  7) 防止误删系统文件\n  8) 退出前自动清理\n\n二、一个用于Linux系统的文件/文件夹权限管理工具，旨在帮助用户递归地移除文件或文件夹的不可变属性（如i属性，防止文件被删除、修改或重命名）以及设置用户可写权限。此脚本对于恢复被错误设置为只读或防止编辑的文件/文件夹特别有用。此脚本通过提供上述功能权限，帮助用户有效地管理文件/文件夹的权限，特别是在处理被错误设置为只读或防止编辑的文件/文件夹时。\n\n================\n1、修复权限的问题。 \n2、增加删除了文件列表显示 \n3、增加检测版本功能 \n4、增加防止删除系统备份目录/backup提示 \n5、增加检测版本功能 ，检测是否为最新的版本 \n6、本次优化检测版本功能，解决部分国产电脑无法使用的问题。\n7、优化MimeType，减少重复。",
-    "Tags": "community;debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/8ae46ca1c1f64f7b976f402b8c0581a7.png\",\"https://spk-json.spark-app.store/images/2025/07/07/cc82f2fe74d9429b804c76dd55139439.png\",\"https://spk-json.spark-app.store/images/2025/07/07/7637728a452e46d1aab2cf87da478b59.png\",\"https://spk-json.spark-app.store/images/2025/07/07/6b75bce9ef7e45e19bb6ce651c0f505b.png\",\"https://spk-json.spark-app.store/images/2025/07/07/2896ea07962646eba0c41abbe3816c57.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/32ea50bca3844f0bb4234273a50c41a9.png"
-}
 ,
 {
     "Author": "shenmo <shenmo@spark-app.store>",
@@ -6437,6 +6437,23 @@
   "icons": "https://spk-json.spark-app.store/icons/2024/12/11/e9dd61fc8c2c4088a917e7135455f18c.png"
 }
 
+,
+{
+    "Name": "鼠标自动机",
+    "Version": "1.0.0",
+    "Filename": "mouse-machine_1.0.0_amd64.deb",
+    "Torrent_address": "mouse-machine_1.0.0_amd64.deb.torrent",
+    "Pkgname": "mouse-machine",
+    "Author": "fu huizhong<fuhuizn@163.com>",
+    "Contributor": "fu huizhong<fuhuizn@163.com>",
+    "Website": "https://gitee.com/rocket049/",
+    "Update": "2025-07-14 13:12:44",
+    "Size": "9.62 MB",
+    "More": "记录鼠标左键点击动作，并重复执行鼠标左键点击动作。\nRecord mouse left click actions. And repeat mouse left click actions.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/14/f440dfb23313430384a4d1ce75c08c43.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/14/3a61626112274618bc6aed9db38a2462.png"
+}
 ,
 {
   "Name": "为每行文本添加双引号",

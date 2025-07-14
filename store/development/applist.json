@@ -839,23 +839,6 @@
 
 ,
 {
-  "Name": "mongodb-compass",
-  "Version": "1.29.0",
-  "Filename": "mongodb-compass_1.29.0_amd64.deb",
-  "Pkgname": "mongodb-compass",
-  "Author": "mongodb",
-  "Contributor": "hernay",
-  "Website": "https://compass.mongodb.com",
-  "Update": "2021-11-12 11:54:34",
-  "Size": "68.64 MB",
-  "More": "MongoDB官方连接数据库软件。",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/12/f6e558b0-436b-11ec-8461-b7129e4d4ed8.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/12/adc9fbe0-436b-11ec-8461-b7129e4d4ed8.png"
-}
-
-,
-{
     "Name": "MobaXterm Pro（汉化版）",
     "Version": "25.0spark0",
     "Filename": "net.mobatek.mobaxterm-pro-chs_25.0spark0_all.deb",
@@ -871,6 +854,23 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/eb1a09a99a45435e8e24f115ccc3ebd9.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8a909828b2fa491f807699b4514b5692.png"
 }
+,
+{
+  "Name": "mongodb-compass",
+  "Version": "1.29.0",
+  "Filename": "mongodb-compass_1.29.0_amd64.deb",
+  "Pkgname": "mongodb-compass",
+  "Author": "mongodb",
+  "Contributor": "hernay",
+  "Website": "https://compass.mongodb.com",
+  "Update": "2021-11-12 11:54:34",
+  "Size": "68.64 MB",
+  "More": "MongoDB官方连接数据库软件。",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/11/12/f6e558b0-436b-11ec-8461-b7129e4d4ed8.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/11/12/adc9fbe0-436b-11ec-8461-b7129e4d4ed8.png"
+}
+
 ,
 {
   "Name": "SQLiteStudio",
@@ -1288,6 +1288,24 @@
 
 ,
 {
+  "Name": "Geany",
+  "Version": "1.38-1",
+  "Filename": "geany_1.38-1_amd64.deb",
+  "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
+  "Pkgname": "geany",
+  "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+  "Contributor": "卢博轩",
+  "Website": "http://www.geany.org",
+  "Update": "2023-04-02 15:08:40",
+  "Size": "1.18 MB",
+  "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
+  "Tags": "ubuntu",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
+}
+
+,
+{
   "Name": "多功能调试助手",
   "Version": "1.0.1.5",
   "Filename": "fire-tool_1.0.1.5_amd64.deb",
@@ -1335,24 +1353,6 @@
   "Size": "72.41MB",
   "More": "MQTT.fx是一个跨平台的MQTT的图形化客户端",
   "Tags": "debian"
-}
-
-,
-{
-  "Name": "Geany",
-  "Version": "1.38-1",
-  "Filename": "geany_1.38-1_amd64.deb",
-  "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
-  "Pkgname": "geany",
-  "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-  "Contributor": "卢博轩",
-  "Website": "http://www.geany.org",
-  "Update": "2023-04-02 15:08:40",
-  "Size": "1.18 MB",
-  "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
-  "Tags": "ubuntu",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
 }
 
 ,
@@ -2865,6 +2865,23 @@
 }
 ,
 {
+    "Name": "AYA",
+    "Version": "1.11.0",
+    "Filename": "aya_1.11.0_amd64.deb",
+    "Torrent_address": "aya_1.11.0_amd64.deb.torrent",
+    "Pkgname": "aya",
+    "Author": "liriliri",
+    "Contributor": "Bit0r <nie_wang@outlook.com>",
+    "Website": "https://aya.liriliri.io/zh",
+    "Update": "2025-06-02 20:27:59",
+    "Size": "80.91 MB",
+    "More": "AYA 是一款内置 ADB 并基于其功能编写用户界面的桌面应用。相比于原始的 ADB 命令行输入，AYA 安装傻瓜，功能齐全，全图形化界面，一键操作，极大地提高用户效率。",
+    "Tags": "debian;ubuntu;a2d",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/02/4317f567643e41e2906c1629608aaa5c.png\",\"https://spk-json.spark-app.store/images/2025/06/02/2eed952385b34d269c66f099c7e1b113.png\",\"https://spk-json.spark-app.store/images/2025/06/02/0a808d763d8f406fb0e8a419b973fbb7.png\",\"https://spk-json.spark-app.store/images/2025/06/02/7f86bd3662744ae5b8d35ae6fecb467b.png\",\"https://spk-json.spark-app.store/images/2025/06/02/15e310038d4944c790943029dc75dbaf.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/02/cb71bdbcaea74022aeb02ed872731837.png"
+}
+,
+{
     "Name": "儿童编程Scratch3",
     "Version": "1.0.0",
     "Filename": "scratch-webkit_1.0.0_amd64.deb",
@@ -2898,23 +2915,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
 }
 
-,
-{
-    "Name": "AYA",
-    "Version": "1.11.0",
-    "Filename": "aya_1.11.0_amd64.deb",
-    "Torrent_address": "aya_1.11.0_amd64.deb.torrent",
-    "Pkgname": "aya",
-    "Author": "liriliri",
-    "Contributor": "Bit0r <nie_wang@outlook.com>",
-    "Website": "https://aya.liriliri.io/zh",
-    "Update": "2025-06-02 20:27:59",
-    "Size": "80.91 MB",
-    "More": "AYA 是一款内置 ADB 并基于其功能编写用户界面的桌面应用。相比于原始的 ADB 命令行输入，AYA 安装傻瓜，功能齐全，全图形化界面，一键操作，极大地提高用户效率。",
-    "Tags": "debian;ubuntu;a2d",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/02/4317f567643e41e2906c1629608aaa5c.png\",\"https://spk-json.spark-app.store/images/2025/06/02/2eed952385b34d269c66f099c7e1b113.png\",\"https://spk-json.spark-app.store/images/2025/06/02/0a808d763d8f406fb0e8a419b973fbb7.png\",\"https://spk-json.spark-app.store/images/2025/06/02/7f86bd3662744ae5b8d35ae6fecb467b.png\",\"https://spk-json.spark-app.store/images/2025/06/02/15e310038d4944c790943029dc75dbaf.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/02/cb71bdbcaea74022aeb02ed872731837.png"
-}
 ,
 {
   "Name": "Test Mace",
