@@ -11299,19 +11299,19 @@ Vendor: 友虹（北京）科技有限公司 <service@scofd.com>
 
 Package: koodo-reader
 Architecture: amd64
-Version: 2.0.5
+Version: 2.0.6
 Priority: optional
 Section: default
 Maintainer: App by Troye <feedback@koodoreader.com>
-Installed-Size: 350395
+Installed-Size: 350429
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./reading/koodo-reader/koodo-reader_2.0.5_amd64.deb
-Size: 85132866
-MD5sum: 454c1e40af482df848e0c70cfec1938f
-SHA1: 66f51f6983f35c5ed252a7177a310296807e1304
-SHA256: a1144bd8be32f569710e26d5f8f57b75a9e57b0792e580dae0dfa22fcad01071
-SHA512: eea93ce981c728f574e94a3bc141a057b77b3bea90fef3aa5f2b2cade31a1879826af5a63a67d18a64615cfdce122f6ede236648c99da7c13c5099317e6ebff3
+Filename: ./reading/koodo-reader/koodo-reader_2.0.6_amd64.deb
+Size: 86800496
+MD5sum: b5d9d74a4b02ffca67a231ce57cc4d76
+SHA1: 2a69844aa4b408de6f787b16b68789c9ff64b868
+SHA256: fe3f211b5c50f216880b7f1f99ca180abc158b1e3ec23027b006c526b66e3eee
+SHA512: 5ad20f0451c704826f2a16f3438364b57cc068998a4b772afb7522911daddbdc3ae1747345ec0f4e75fbe0b361962d63c02ca7c5f1d21f42bc997197cd470dce
 Homepage: https://./
 Description: 
   Koodo Reader is a cross-platform ebook reader
@@ -37762,19 +37762,19 @@ Description: A software reverse engineering (SRE) framework created and maintain
 
 Package: termius-app
 Architecture: amd64
-Version: 9.25.1
+Version: 9.26.0
 Priority: optional
 Section: default
 Maintainer: Termius Corporation <support@termius.com>
-Installed-Size: 374239
+Installed-Size: 374243
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./development/termius-app/termius-app_9.25.1_amd64.deb
-Size: 100706758
-MD5sum: 65aa6f52c4c78488970cca36ddebb49a
-SHA1: ac0caaf7e90790d6b8349c528a0400b56b184a9e
-SHA256: 8278abfc37764808c743f48a5caf2c0ab6eb175708d694bc05ae2c5e7dc1208b
-SHA512: a76af7f47a3cc99b58b69402ce4fdf8825e7cafa882b0058db0632182835a540c8654d8f01e9ce772e46c8d7e9fa32899fc5f1454fdb15f9bb62c70132df595e
+Filename: ./development/termius-app/termius-app_9.26.0_amd64.deb
+Size: 100396930
+MD5sum: 1d62d6fa56f943cbd06dd010b6b058c5
+SHA1: 7f0189112eb66fcfdcb49ab87d3d031ae13c8619
+SHA256: 5588a19602c1c5afc44fb9afe302ec858990bcd6c23ccde8a8c1ae18edf15222
+SHA512: a90ab37f19b5af1f57121232dfee4148787aca383194e9b747591ff9211c549e5f77a88976e8d386fce2dc653d16453d57254a53b7a512b100cbb8e6a8748c48
 Homepage: https://termius.com/
 Description: 
   Desktop SSH Client

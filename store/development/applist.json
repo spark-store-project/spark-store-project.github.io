@@ -450,15 +450,15 @@
 ,
 {
     "Name": "Termius",
-    "Version": "9.25.1",
-    "Filename": "termius-app_9.25.1_amd64.deb",
-    "Torrent_address": "termius-app_9.25.1_amd64.deb.torrent",
+    "Version": "9.26.0",
+    "Filename": "termius-app_9.26.0_amd64.deb",
+    "Torrent_address": "termius-app_9.26.0_amd64.deb.torrent",
     "Pkgname": "termius-app",
     "Author": "<https://gitee.com/spark-building-service/termius-app>",
     "Contributor": "<https://gitee.com/spark-building-service/termius-app>",
     "Website": "https://termius.com/",
-    "Update": "2025-07-11 18:29:49",
-    "Size": "97M",
+    "Update": "2025-07-14 17:35:29",
+    "Size": "96M",
     "More": "Desktop SSH Client\nSSH 桌面客户端",
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/development/termius-app/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/termius-app/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/termius-app/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/termius-app/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/development/termius-app/screen_5.png\"]",
@@ -1288,24 +1288,6 @@
 
 ,
 {
-  "Name": "Geany",
-  "Version": "1.38-1",
-  "Filename": "geany_1.38-1_amd64.deb",
-  "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
-  "Pkgname": "geany",
-  "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
-  "Contributor": "卢博轩",
-  "Website": "http://www.geany.org",
-  "Update": "2023-04-02 15:08:40",
-  "Size": "1.18 MB",
-  "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
-  "Tags": "ubuntu",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
-}
-
-,
-{
   "Name": "多功能调试助手",
   "Version": "1.0.1.5",
   "Filename": "fire-tool_1.0.1.5_amd64.deb",
@@ -1320,6 +1302,24 @@
   "Tags": "debian;deepin;ubuntu;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e74a630-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e808d10-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e7ae7c0-171d-11ef-aa54-156affbdb62c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/21/9e876ae0-171d-11ef-aa54-156affbdb62c.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/21/6c8ac960-171d-11ef-aa54-156affbdb62c.png"
+}
+
+,
+{
+  "Name": "Geany",
+  "Version": "1.38-1",
+  "Filename": "geany_1.38-1_amd64.deb",
+  "Torrent_address": "geany_1.38-1_amd64.deb.torrent",
+  "Pkgname": "geany",
+  "Author": "Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>",
+  "Contributor": "卢博轩",
+  "Website": "http://www.geany.org",
+  "Update": "2023-04-02 15:08:40",
+  "Size": "1.18 MB",
+  "More": "Geany is a small and lightweight integrated development environment.\n It was developed to provide a small and fast IDE, which has only a\n few dependencies from other packages. It is using only the GTK3 toolkit\n and therefore you need only the GTK3 runtime libraries to run Geany.\n .\n The basic features of Geany are:\n  - syntax highlighting\n  - code completion\n  - auto completion of constructs like if, for and while, XML and HTML\n  - call tips\n  - folding\n  - many supported filetypes like C, Java, PHP, HTML, Python, Perl, Pascal\n  - symbol lists\n  - embedded terminal emulation\n翻译：\nGeany 是一个小型轻量级的集成开发环境。\n 它被开发来提供一个小而快速的IDE，它只有一个\n 来自其他包的依赖项很少。它仅使用 GTK3 工具包\n 因此，您只需要 GTK3 运行时库即可运行 Geany。\n .\n Geany的基本功能是：\n  - 语法高亮\n  - 代码完成\n  - 自动完成构造，如if，for和while，XML和HTML\n  - 通话提示\n  -折叠\n  - 许多支持的文件类型，如C，Java，PHP，HTML，Python，Perl，Pascal\n  - 符号列表\n  - 嵌入式终端仿真\n总结：\nGTK+ 编写的轻快的 IDE",
+  "Tags": "ubuntu",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/a1e826fedb904149b3fc4347b91fc2ce.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/916d6c5cb473401785f30ae2f5b64fd7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/02/ae730f7a7471434e88ff531e36117869.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/02/4fa116ab40ab49be89b782c2097b2b7c.png"
 }
 
 ,
@@ -1706,24 +1706,6 @@
 
 ,
 {
-  "Name": "Ghidra",
-  "Version": "10.4.0",
-  "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
-  "Torrent_address": "com.nsa.ghidra_10.4.0_amd64.deb.torrent",
-  "Pkgname": "com.nsa.ghidra",
-  "Author": "NationalSecurityAgency",
-  "Contributor": "wingsummer <1326224942@qq.com>",
-  "Website": "https://www.nsa.gov/ghidra",
-  "Update": "2023-10-01 10:55:50",
-  "Size": "323.23 MB",
-  "More": "A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. \n由美国国家安全局研究局创建和维护的软件逆向工程（SRE）框架。\n\n【注】本包由寂静的羽夏打包，相对于之前的版本，我把运行时（ jre 17 ）打包进去了，也就是说不需要再安装其他依赖了。于此同时我修改了一下启动脚本，实现安装即可用。",
-  "Tags": "community;ubuntu;deepin;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
-}
-
-,
-{
   "Name": "Mind+",
   "Version": "202307011900",
   "Filename": "com.dfrobot.mindplus_202307011900_amd64.deb",
@@ -1738,6 +1720,24 @@
   "Tags": "ubuntu;deepin;uos;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/860aeab96f6742cdb6a769a2993f7a77.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/7963142613304945996ec8e462f46e5c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/dfea2f033c8c47328a184a2d8e59f6b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/22/678204a54a0d4723963b335e97397f63.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/22/8ce6d3c24e064c4d9764617067ccfd4b.png"
+}
+
+,
+{
+  "Name": "Ghidra",
+  "Version": "10.4.0",
+  "Filename": "com.nsa.ghidra_10.4.0_amd64.deb",
+  "Torrent_address": "com.nsa.ghidra_10.4.0_amd64.deb.torrent",
+  "Pkgname": "com.nsa.ghidra",
+  "Author": "NationalSecurityAgency",
+  "Contributor": "wingsummer <1326224942@qq.com>",
+  "Website": "https://www.nsa.gov/ghidra",
+  "Update": "2023-10-01 10:55:50",
+  "Size": "323.23 MB",
+  "More": "A software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. \n由美国国家安全局研究局创建和维护的软件逆向工程（SRE）框架。\n\n【注】本包由寂静的羽夏打包，相对于之前的版本，我把运行时（ jre 17 ）打包进去了，也就是说不需要再安装其他依赖了。于此同时我修改了一下启动脚本，实现安装即可用。",
+  "Tags": "community;ubuntu;deepin;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/93f04bc877e84f8ca81d8dd9fc2de917.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/c6b2ed2ba7d54ce0a343d1cb3e22b054.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/01/b5b29eca4e20422687ca01caf313ff40.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/01/84c38f7839b14eec939f5f9f23b2073d.png"
 }
 
 ,
@@ -2915,6 +2915,23 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/19/f1b35f59-8a7c-4ae9-810e-156982eb0218.png"
 }
 
+,
+{
+    "Name": "sourcegit",
+    "Version": "2025.26",
+    "Filename": "sourcegit_2025.26_amd64.deb",
+    "Torrent_address": "sourcegit_2025.26_amd64.deb.torrent",
+    "Pkgname": "sourcegit",
+    "Author": "longshuang@msn.cn",
+    "Contributor": "Gadfly <gadfly@gadfly.vip>",
+    "Website": "https://sourcegit-scm.github.io/",
+    "Update": "2025-07-14 12:51:52",
+    "Size": "25.15 MB",
+    "More": "Windows/macOS/Linux GUI client for GIT users \n面向 GIT 用户的 Windows/macOS/Linux GUI 客户端",
+    "Tags": "community;debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/14/f1719550db694271be90fe11e5eae922.png\",\"https://spk-json.spark-app.store/images/2025/07/14/e75b0267bc2441f0bcb364cbd3dd7076.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/14/9861bc35999340d1af69f66736f9926f.png"
+}
 ,
 {
   "Name": "Test Mace",

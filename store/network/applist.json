@@ -1154,23 +1154,6 @@
 
 ,
 {
-  "Name": "闪电下载（wine）",
-  "Version": "1.5.5spark3",
-  "Filename": "com.xiaokanba.bbs.spark_1.5.5spark3_i386.deb",
-  "Pkgname": "com.xiaokanba.bbs.spark",
-  "Author": "闪电下载官方",
-  "Contributor": "anima",
-  "Website": "http://bbs.xiaokanba.com/",
-  "Update": "2021-08-23 13:20:17",
-  "Size": "40.48 MB",
-  "More": "闪电下载，闪电侠⚡️,支持磁力、种子、电驴、万能下载神器，支持边下边播。",
-  "Tags": "deepin;uos;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/2f587fe0-03d1-11ec-9613-c5951eba9744.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/2f74ba70-03d1-11ec-9613-c5951eba9744.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/2f873100-03d1-11ec-9613-c5951eba9744.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/3ba21950-03d1-11ec-9613-c5951eba9744.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/23/89f1dbe0-03d1-11ec-9613-c5951eba9744.png"
-}
-
-,
-{
     "Author": "moe.edu.cn <ncetbgs@moe.edu.cn>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "quark-cloud-drive_2.2.3_all.deb",
@@ -1185,6 +1168,23 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "闪电下载（wine）",
+  "Version": "1.5.5spark3",
+  "Filename": "com.xiaokanba.bbs.spark_1.5.5spark3_i386.deb",
+  "Pkgname": "com.xiaokanba.bbs.spark",
+  "Author": "闪电下载官方",
+  "Contributor": "anima",
+  "Website": "http://bbs.xiaokanba.com/",
+  "Update": "2021-08-23 13:20:17",
+  "Size": "40.48 MB",
+  "More": "闪电下载，闪电侠⚡️,支持磁力、种子、电驴、万能下载神器，支持边下边播。",
+  "Tags": "deepin;uos;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/2f587fe0-03d1-11ec-9613-c5951eba9744.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/2f74ba70-03d1-11ec-9613-c5951eba9744.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/2f873100-03d1-11ec-9613-c5951eba9744.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/23/3ba21950-03d1-11ec-9613-c5951eba9744.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/23/89f1dbe0-03d1-11ec-9613-c5951eba9744.png"
 }
 
 ,
@@ -1711,6 +1711,21 @@
 }
 ,
 {
+    "Name": "AB Download Manager",
+    "Author": "abdownloadmanager.com",
+    "Website": "https://abdownloadmanager.com/",
+    "More": "一款界面美观，功能类似 IDM 的下载器。界面支持设定为中文。",
+    "Tags": "debian;deepin;ubuntu;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/24/43f32eb15f0148ffb619a5e2537fd80e.png\",\"https://spk-json.spark-app.store/images/2025/01/24/e7a7bc2942da4ccea9a87177a8cf1d47.png\"]",
+    "Pkgname": "abdownloadmanager",
+    "Version": "1.5.8",
+    "Filename": "abdownloadmanager_1.5.8_amd64.deb",
+    "Update": "2025-05-11 01:43:13",
+    "Size": "73.67MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "畅邮",
   "Version": "6.6.4.6",
   "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
@@ -1727,21 +1742,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
 }
 
-,
-{
-    "Name": "AB Download Manager",
-    "Author": "abdownloadmanager.com",
-    "Website": "https://abdownloadmanager.com/",
-    "More": "一款界面美观，功能类似 IDM 的下载器。界面支持设定为中文。",
-    "Tags": "debian;deepin;ubuntu;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/24/43f32eb15f0148ffb619a5e2537fd80e.png\",\"https://spk-json.spark-app.store/images/2025/01/24/e7a7bc2942da4ccea9a87177a8cf1d47.png\"]",
-    "Pkgname": "abdownloadmanager",
-    "Version": "1.5.8",
-    "Filename": "abdownloadmanager_1.5.8_amd64.deb",
-    "Update": "2025-05-11 01:43:13",
-    "Size": "73.67MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
     "Name": "Midori 浏览器（一个轻量级的 Web 浏览器）",
@@ -1761,23 +1761,6 @@
 }
 ,
 {
-  "Name": "megasync",
-  "Version": "4.3.8-1.1",
-  "Filename": "MEGASync.deb",
-  "Pkgname": "megasync",
-  "Author": "MEGA Linux Team <linux@mega.co.nz>",
-  "Contributor": "neko",
-  "Website": "https://mega.nz",
-  "Update": "2021-01-02 16:03:12",
-  "Size": "12.29 MB",
-  "More": "linux下最好用的网盘",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
-}
-
-,
-{
   "Author": "shenmo",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.ugreen.client_4.9.0.9559_all.deb",
@@ -1792,6 +1775,23 @@
   "Website": "",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/com.ugreen.client/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "megasync",
+  "Version": "4.3.8-1.1",
+  "Filename": "MEGASync.deb",
+  "Pkgname": "megasync",
+  "Author": "MEGA Linux Team <linux@mega.co.nz>",
+  "Contributor": "neko",
+  "Website": "https://mega.nz",
+  "Update": "2021-01-02 16:03:12",
+  "Size": "12.29 MB",
+  "More": "linux下最好用的网盘",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/02/f3c05e40-4d13-11eb-92f3-bbda55832fa7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/02/f1376970-4d13-11eb-92f3-bbda55832fa7.png"
 }
 
 ,
