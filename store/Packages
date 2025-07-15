@@ -1375,6 +1375,58 @@ SHA256: 8071250c5b35af7d69a2f12b66ffda6090512dc14497d6b9952e391a5f28dc91
 SHA512: ec69514424b7e706b715df9ab29e55e98c0eadcd01af170fc536f9ce3381c8ae5058f55e68b6cdf5e70ce1f2d90033bdc735b84fe73d04d14b9fdb0fc45fc030
 Description: wine7 is wine8
 
+Package: spark-wine10-i386
+Architecture: i386
+Version: 10.12-spark-3
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 658204
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: libasound2 (>= 1.2.7), libc6 (>= 2.35), libglib2.0-0 (>= 2.73.3), libgphoto2-6 (>= 2.5.29), libgphoto2-port12 (>= 2.5.29), libgstreamer-plugins-base1.0-0 (>= 1.21.0), libgstreamer1.0-0 (>= 1.21.0), libldap-2.4-2 (>= 2.4.7) | libldap-2.5-0 (>= 2.5.12) | libldap2 (>= 2.5.9), libopenal1 (>= 1.17), libpcap0.8 (>= 1.10.1), libpulse0 (>= 0.99.1), libsane (>= 1.1.9) | libsane1, libudev1 (>= 240), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.9) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-ugly, libcups2t64 | libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libgl1-mesa-dri, libgl1-mesa-glx | libglx-mesa0, libgstreamer1.0-0, libpcsclite1, libpulse0, libvulkan1, libnss-winbind, libxcomposite1, libxcursor1, libxfixes3, libxinerama1, libxrandr2, libxrender1, libxxf86vm1, spark-wine10 (>= 10.12-spark-3)
+Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
+Filename: ./depends/spark-wine/spark-wine10/spark-wine10-i386_10.12-spark-3_i386.deb
+Size: 111723460
+MD5sum: 15a2136f0e6cdc0c41a351e2c00fd55e
+SHA1: 3a9d8297aafb72d085d7b17256fc54e6eb8e3993
+SHA256: bedcfde6bfde7e695a1b6c90f9c674dd1c7ebe1676b3c8266ae754e444d2bc31
+SHA512: 283aeb4e55ee8a3f7325486e0e0bae711799948f220920d56086b27a6cb0730a2174dfd32fe008e4b495122393fae8ee0c5285bfd02c6b577c5635bec95e1f85
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This package contains the files needed to support 32-bit Windows
+ programs.
+
+Package: spark-wine10-amd64
+Architecture: amd64
+Version: 10.12-spark-3
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX6900XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 779508
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: libasound2 (>= 1.2.7), libc6 (>= 2.35), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.73.3), libgphoto2-6 (>= 2.5.29), libgphoto2-port12 (>= 2.5.29), libgstreamer-plugins-base1.0-0 (>= 1.21.0), libgstreamer1.0-0 (>= 1.21.0), libldap-2.4-2 (>= 2.4.7) | libldap-2.5-0 (>= 2.5.12) | libldap2 (>= 2.5.9), libopenal1 (>= 1.17), libpcap0.8 (>= 1.10.1), libpulse0 (>= 0.99.1), libsane (>= 1.1.9) | libsane1, libudev1 (>= 240), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.9) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, libwine, libunwind8, spark-wine10 (>= 10.12-spark-3)
+Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libjpeg62-turbo | libjpeg8, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
+Filename: ./depends/spark-wine/spark-wine10/spark-wine10-amd64_10.12-spark-3_amd64.deb
+Size: 122570700
+MD5sum: df2aed2408ee1569e1f9beaa648160b6
+SHA1: ffde6f3f7b38abbdf2b1e553e5408b3dbff5e1c4
+SHA256: fde86f3c16e6c09291e096d39721d5b6e96650300e86c00af581ee178450ff79
+SHA512: 02fb1e07b86385d3e8b50c77365b46fe983a5149bdf05bf705e61a486a73f98b6028d7093dc43c5354af478ed67dabb56f34812e35fdf0a73cdd964ecc4d8382
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix.
+ .
+ This package contains the files needed to support 64-bit Windows
+ programs.
+
 Package: spark-wine10-wow-ace
 Architecture: all
 Version: 10.7-spark-1
@@ -1396,9 +1448,43 @@ Homepage: https://shenmo7192.gitee.io/
 Description: spark-wine9 ACE test package
  spark-wine9 ACE test package
 
+Package: spark-wine-wow
+Architecture: all
+Version: 10.12-spark-2
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
+Installed-Size: 28
+Depends: spark-wine10-wow (= 10.12-spark-2) | spark-wine10-wow-ace
+Filename: ./depends/spark-wine/spark-wine10/spark-wine-wow_10.12-spark-2_all.deb
+Size: 1328
+MD5sum: 67696a5d94c4bbf6d452c8862b6bd553
+SHA1: 0d2061550d2c82440dd33adc5197713b00dae9f4
+SHA256: 58edda3625f022ea49f6e70a6c6863664c5d2e515daef77235acd174d29b90ea
+SHA512: b60cdf60cc7e51fbfbc147c3d6b4c3c6c859c066c3ea2b0188a1b688b2516697ce691f17db3c69de6347e0b1e17c191d89271502d30258fa1f9b86ed88dafa3b
+Description: Spark wine meta package
+
+Package: spark-wine
+Architecture: all
+Version: 10.12-spark-3
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
+Installed-Size: 28
+Depends: spark-wine10
+Filename: ./depends/spark-wine/spark-wine10/spark-wine_10.12-spark-3_all.deb
+Size: 1296
+MD5sum: 0f3ad95a44380bf27c73dbe3d782e948
+SHA1: 03c75b48efd1499b0f7567a5c34d811811faaeb3
+SHA256: 43a9c8f3826b84605a653534f3d045ef3c34cf079a6fb68f04e7a38c6a6e9176
+SHA512: 5e6a811a415a2c6374f743e3e1a813b8d553532093c5b3115a8a55e588c00a9637e839215839d5e8e2e72b0f4aec117e87fe838d257da2709079c88f95698373
+Description: Spark wine meta package
+
 Package: spark-wine10
 Architecture: amd64
-Version: 10.7-spark-2
+Version: 10.12-spark-3
 Multi-Arch: foreign
 Priority: optional
 Section: otherosfs
@@ -1407,14 +1493,14 @@ Maintainer: RX7900XT
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
 Installed-Size: 74800
 Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.35), spark-wine10-i386 (>= 10.7-spark-2), spark-wine10-amd64 (>= 10.7-spark-2), spark-winehq10 (>= 10.7-spark-2), spark-dwine-helper
+Depends: debconf (>= 0.5) | debconf-2.0, libc6 (>= 2.35), spark-wine10-i386 (>= 10.12-spark-3), spark-wine10-amd64 (>= 10.12-spark-3), spark-winehq10 (>= 10.12-spark-3), spark-dwine-helper
 Recommends: libcap2-bin
-Filename: ./depends/spark-wine/spark-wine10/spark-wine10_10.7-spark-2_amd64.deb
-Size: 31646772
-MD5sum: 6034aa549a279b53e0dad8591fb980e6
-SHA1: 311ee3b422f88c3a129a6ceffda88d8061c4186d
-SHA256: fdac58bec85db14e485f550d51194fdd5edae09f57c456dc7f130aafd01b17f7
-SHA512: 3a1024cd3c20a9f0ea3f128177d80e269f09fa52cd43c899319f7fc8b3970c7f3a186a3112d03ac5d9921c8d2247ea33515628d4a6024205dde679026c5dee80
+Filename: ./depends/spark-wine/spark-wine10/spark-wine10_10.12-spark-3_amd64.deb
+Size: 31923656
+MD5sum: f8d89ecdc8238ef4779e0180dc6c39c7
+SHA1: dfff9d539ce1124854d332108d26649e546de634
+SHA256: 08d1fe4054bafeeedececaa7836230c33dda1b128c5a93efa840057a49ba9111
+SHA512: 18ef3e8059d6e4137802fb705eb43440a245715c76ff05571c17406721d67982505dd5dc0ca1c375300d96cadbf30bb2989796e729b5b2fbe9e29c19b9a96cfa
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix. It
@@ -1423,99 +1509,53 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  API calls using their Unix or X11 equivalents.  The library may also
  be used for porting Win32 code into native Unix executables.
 
-Package: spark-wine10-amd64
-Architecture: amd64
-Version: 10.7-spark-2
-Multi-Arch: foreign
-Priority: optional
-Section: otherosfs
-Source: wine
-Maintainer: RX6900XT
-Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
-Installed-Size: 779508
-Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: libasound2 (>= 1.2.7), libc6 (>= 2.35), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.73.3), libgphoto2-6 (>= 2.5.29), libgphoto2-port12 (>= 2.5.29), libgstreamer-plugins-base1.0-0 (>= 1.21.0), libgstreamer1.0-0 (>= 1.21.0), libldap-2.4-2 (>= 2.4.7) | libldap-2.5-0 (>= 2.5.12) | libldap2 (>= 2.5.9), libopenal1 (>= 1.17), libpcap0.8 (>= 1.10.1), libpulse0 (>= 0.99.1), libsane (>= 1.1.9) | libsane1, libudev1 (>= 240), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.9) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, libwine, libunwind8, spark-wine10 (>= 10.7-spark-2)
-Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libjpeg62-turbo | libjpeg8, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
-Filename: ./depends/spark-wine/spark-wine10/spark-wine10-amd64_10.7-spark-2_amd64.deb
-Size: 122542256
-MD5sum: c7f5a2d569b3d321e8db823abb9fd1f1
-SHA1: c219f97d3a20ccc0bf6470e3550e62df5a140d72
-SHA256: 4e6f69e2a611dc1790fc2eec729c114be16550256fdad5b86cef5cef3262cd96
-SHA512: bbb0dc60c5dddb371484f587cc90bfc5525a9fd264847c09e5e72901e69598eba1ba365e3c0ed6236ccc37cfa69f5c9b40d66ea1432b2e63356bbaf04d66ce72
-Description: WINE Is Not An Emulator - runs MS Windows programs
- Wine is a program which allows running Microsoft Windows programs
- (including DOS, Windows 3.x and Win32 executables) on Unix.
- .
- This package contains the files needed to support 64-bit Windows
- programs.
-
 Package: spark-wine10-ace
 Architecture: all
-Version: 10.7-spark-2
+Version: 10.12-spark-3
 Priority: optional
 Section: utils
 Maintainer: shenmo <jifengshenmo@outlook.com>
 Installed-Size: 36
-Provides: spark-wine10(= 10.7-spark-2)
+Provides: spark-wine10(= 10.12-spark-3)
 Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
 Conflicts: spark-wine10, spark-winehq10, spark-wine10-i386, spark-wine10-amd64
 Replaces: spark-wine10, spark-winehq10, spark-wine10-i386, spark-wine10-amd64
-Filename: ./depends/spark-wine/spark-wine10/spark-wine10-ace_10.7-spark-2_all.deb
-Size: 1788
-MD5sum: 6b956208fa949a9c85d9f71d10e3ef36
-SHA1: 2e7407bbd8614e39bac81a66ea07b10cc8f8fc9b
-SHA256: 8213f72afd256b40d3563795cf79a143ff5df3cb4ded445de97b2ab9091a32f4
-SHA512: e2e1a8bd7f1b6d9cb40ab42126bf6b597c2f94b3a448924c79ec2c081c858c8b2deca2129e5f03da33337286184adb9ab63fa08e8430b9af582b325ba459eb7f
+Filename: ./depends/spark-wine/spark-wine10/spark-wine10-ace_10.12-spark-3_all.deb
+Size: 1792
+MD5sum: 49f32ac4f9c0aab30eff4a56238309eb
+SHA1: 6b4c83a3b8d368d8fb3406a6c832cd5d7418f497
+SHA256: ee9fc8d78924b66f58c1dc16d7a8316a4a2090e24c68c3de4f93d4d3464def39
+SHA512: 6523af01c0c4e7893cd0621935d3bf41560eeeb0a475b3f380ccbfc682dc2f8fab81c46ef474372d4a8d0b2a388342d192ad30aa1e733c14bdd584420bfe946b
 Homepage: https://shenmo7192.gitee.io/
 Description: spark-wine10 ACE test package
  spark-wine10 ACE test package
 
-Package: spark-wine
-Architecture: all
-Version: 10.7-spark-2
+Package: spark-winehq10
+Architecture: amd64
+Version: 10.12-spark-3
 Priority: optional
 Section: otherosfs
 Source: wine
 Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
-Installed-Size: 28
-Depends: spark-wine10
-Filename: ./depends/spark-wine/spark-wine10/spark-wine_10.7-spark-2_all.deb
-Size: 1296
-MD5sum: 6ca06447b58e1b92999f823052cce8d2
-SHA1: dd109200ff17cc39ae1319ada60164358e2ad3d4
-SHA256: 85d7b444fca3671f010e14338d82915f9f766297cf5ce7c41971cfeeb993db24
-SHA512: dd1510f91cd9049af98990379fda980e568662ec5211cf6bbd6d951076b896cd87d1ef9c9b8d9ff4193e33a0054d1e0018ca0c6595a9062e425892dd4c7c3bd4
-Description: Spark wine meta package
-
-Package: spark-wine10-i386
-Architecture: i386
-Version: 10.7-spark-2
-Multi-Arch: foreign
-Priority: optional
-Section: otherosfs
-Source: wine
-Maintainer: RX7900XT
 Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
-Installed-Size: 658204
-Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: libasound2 (>= 1.2.7), libc6 (>= 2.35), libglib2.0-0 (>= 2.73.3), libgphoto2-6 (>= 2.5.29), libgphoto2-port12 (>= 2.5.29), libgstreamer-plugins-base1.0-0 (>= 1.21.0), libgstreamer1.0-0 (>= 1.21.0), libldap-2.4-2 (>= 2.4.7) | libldap-2.5-0 (>= 2.5.12) | libldap2 (>= 2.5.9), libopenal1 (>= 1.17), libpcap0.8 (>= 1.10.1), libpulse0 (>= 0.99.1), libsane (>= 1.1.9) | libsane1, libudev1 (>= 240), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.9) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-ugly, libcups2t64 | libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libgl1-mesa-dri, libgl1-mesa-glx | libglx-mesa0, libgstreamer1.0-0, libpcsclite1, libpulse0, libvulkan1, libnss-winbind, libxcomposite1, libxcursor1, libxfixes3, libxinerama1, libxrandr2, libxrender1, libxxf86vm1, spark-wine10 (>= 10.7-spark-2)
-Recommends: libcap2-bin, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libglu1-mesa | libglu1, libgnutls30 | libgnutls28 | libgnutls26, libgssapi-krb5-2, libkrb5-3, libodbc1, libosmesa6, libsdl2-2.0-0, libv4l-0, libxcomposite1, libxcursor1, libxfixes3, libxi6, libxinerama1, libxrandr2, libxrender1, libxxf86vm1
-Filename: ./depends/spark-wine/spark-wine10/spark-wine10-i386_10.7-spark-2_i386.deb
-Size: 110774140
-MD5sum: 2c0acac0c10fd2850aa6222ded2780b8
-SHA1: 8a4c25794705df7e23949e6dcb78a465dd0221e7
-SHA256: ca30799352ff7b999ab171c940825ec92c8c9936aa8b67306e91f2a680d22d58
-SHA512: fd001141daa1035ad3907042cf3d6c6505744c79950632cd881b7820d408382f06ac844d5b0387e92ac52aad89eb0c302ab0c9be6da8f745829c5fe78e9b4530
+Installed-Size: 28
+Depends: spark-wine10 (>= 10.12-spark-3)
+Filename: ./depends/spark-wine/spark-wine10/spark-winehq10_10.12-spark-3_amd64.deb
+Size: 1748
+MD5sum: 511c812aaf989d4e65aa02360105f3ce
+SHA1: 504d41b24387a29bd180eabd8f110235e288df19
+SHA256: 5997c93d8372172d9f52dbf71fc0211af5781d1186adcba240dbf2e4a325fd5c
+SHA512: 6d364f50be78088905e266f8f40391e3a05a666aaaaea629eeac87b7b3cd63465e1893b22cff339387546f68b6a80ce0a7a990f87e30c861afc8035a04f729bc
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix.
  .
- This package contains the files needed to support 32-bit Windows
- programs.
+ This compatibility package allows to use wine-devel system-wide as
+ the default Wine version.
 
 Package: spark-wine10-wow
 Architecture: amd64
-Version: 10.7-spark-1
+Version: 10.12-spark-2
 Multi-Arch: foreign
 Priority: optional
 Section: otherosfs
@@ -1526,12 +1566,12 @@ Installed-Size: 74704
 Pre-Depends: dpkg (>= 1.14.12ubuntu3)
 Depends: debconf (>= 0.5) | debconf-2.0, spark-dwine-helper, libasound2 (>= 1.2.7), libc6 (>= 2.35), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.73.3), libgphoto2-6 (>= 2.5.29), libgphoto2-port12 (>= 2.5.29), libgstreamer-plugins-base1.0-0 (>= 1.21.0), libgstreamer1.0-0 (>= 1.21.0), libldap-2.4-2 (>= 2.4.7) | libldap-2.5-0 (>= 2.5.12) | libldap2 (>= 2.5.9), libopenal1 (>= 1.17), libpcap0.8 (>= 1.10.1), libpulse0 (>= 0.99.1), libsane (>= 1.1.9) | libsane1, libudev1 (>= 240), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.9) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses,  libunwind8,libgl1,libglx-mesa0
 Recommends: libcap2-bin
-Filename: ./depends/spark-wine/spark-wine10/spark-wine10-wow_10.7-spark-1_amd64.deb
-Size: 255106892
-MD5sum: 4aeff4e8cc1836d7a479cb72676b547e
-SHA1: 16a92a7a68d5ea880dfbc1a929216977f0513d8f
-SHA256: f7d2ca5d3a7ded1104acce08cc6130a6bc5b19e16c9504a7057fbd5a8e76442d
-SHA512: b610f3ab7e0d9f3c37c71dbd651675502de2c72417fbf02bc6964247f0990246da236146f7903ec65cc44561195058f83d90052dfb9ade7cd94d558598f12acb
+Filename: ./depends/spark-wine/spark-wine10/spark-wine10-wow_10.12-spark-2_amd64.deb
+Size: 257386140
+MD5sum: 6a754ddca49a11fc4d8bc3d17456b89c
+SHA1: 692b4afde05ae8329026f85e21f54baf22cbfdc6
+SHA256: 04a08f33570ee50c69f54aad99ae06db40c22baadaa1096fe7acd6adbc90c1b7
+SHA512: 3f4173d5f8904c02be20db1915c041840d9ce429fc1cdeea32289ac8d4a343b6ac62636beaf705d73733538794abdb6b604e4bb6c5c1250612d49a8a5bfeafcf
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix. It
@@ -1539,46 +1579,6 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  Windows binary, and a library (called Winelib) that implements Windows
  API calls using their Unix or X11 equivalents.  The library may also
  be used for porting Win32 code into native Unix executables.
-
-Package: spark-wine-wow
-Architecture: all
-Version: 10.7-spark-1
-Priority: optional
-Section: otherosfs
-Source: wine
-Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
-Installed-Size: 28
-Depends: spark-wine10-wow (= 10.7-spark-1) | spark-wine10-wow-ace
-Filename: ./depends/spark-wine/spark-wine10/spark-wine-wow_10.7-spark-1_all.deb
-Size: 1328
-MD5sum: 232abdd50e74299758af2c93640ae349
-SHA1: 3d62326e144da2c0c38658950694513d4e3ce82a
-SHA256: 27e4a8d400781a5872f4aa062f1d648656b495fc9800652f5562fb5d8f823cf0
-SHA512: 6c65749e2849142afb29d3663be2a22fc47d896f919f8b6c935cd73fe842090541a9f7e3f67f6d2de450c3f2a1f39e935409f8313d8d232f7a56dad34b181443
-Description: Spark wine meta package
-
-Package: spark-winehq10
-Architecture: amd64
-Version: 10.7-spark-2
-Priority: optional
-Section: otherosfs
-Source: wine
-Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
-Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
-Installed-Size: 28
-Depends: spark-wine10 (>= 10.7-spark-2)
-Filename: ./depends/spark-wine/spark-wine10/spark-winehq10_10.7-spark-2_amd64.deb
-Size: 1740
-MD5sum: 081c4fd9274bf7da5bc20403d6fba42b
-SHA1: 2ec0059bcb4c5aa56543164a6c72c43addc18633
-SHA256: 8ff4d11ed59b161bb7b633dfe42203a932d7274eb68af20b28fb9c627c7b8be1
-SHA512: 965acb6c67e72ef67661ed6b1ccfe711bba65e6a1641ecd9c696c3feeb68c900a987d04da258b795df753e9dcf22293299f0573645e7a38882bbd5298b6de65c
-Description: WINE Is Not An Emulator - runs MS Windows programs
- Wine is a program which allows running Microsoft Windows programs
- (including DOS, Windows 3.x and Win32 executables) on Unix.
- .
- This compatibility package allows to use wine-devel system-wide as
- the default Wine version.
 
 Package: spark-wine8-amd64
 Architecture: amd64
@@ -25536,17 +25536,17 @@ Description: 植物大战僵尸杂交版 for spark wine
 
 Package: osu-lazer
 Architecture: amd64
-Version: 2025.424.0
+Version: 2025.702.0-tachyon
 Priority: optional
 Section: utils
 Maintainer: spark-store
 Depends: libfuse2
-Filename: ./games/osu-lazer/osu-lazer_2025.424.0_amd64.deb
-Size: 132140754
-MD5sum: 248c179746ee797373315fb921cd6350
-SHA1: ba78fb36060d86af355f66d3df51aec28551f93f
-SHA256: af5c8cad272011b139e8ddffc884816766c22479051368a7709a8972ba723ce9
-SHA512: 0e8518a3550999c50b55c9f618c2bc3894a9ea60aa50b106d52125be9b9dc80c3ed5b63abbe8837c0a21ea87c78ff174b7c1b006f9e5f00cb0be94cd0546c10c
+Filename: ./games/osu-lazer/osu-lazer_2025.702.0-tachyon_amd64.deb
+Size: 132367652
+MD5sum: 96519924944e744a1c873edc0ed700c7
+SHA1: 0e8d6c7c036d773384aadc4c467ba21c061f76c8
+SHA256: b34d3ff32d150d3319ba8d2910c7563b8365b1b26cee09d85ce693d96c092c41
+SHA512: d8dbc8372c9fcfeb77eea5645f7fff72730eedbd91f9ea2d841e8551ee1b8ed03e86b8316162e3e2cf64e70df68e7f7849c2b58981cedcb76db0a27edeb78150
 Description: osu-lazer Software Package created by Appimage2Deb
 
 Package: com.dxball2.spark
@@ -26105,18 +26105,19 @@ Description: 这是一款很好用的时间管理软件，免费的功能足够�
 
 Package: org.joplin.spark
 Architecture: amd64
-Version: 3.2.12
+Version: 11.45.14
 Priority: optional
-Section: utils
-Maintainer: spark-store
-Depends: libfuse2
-Filename: ./office/org.joplin.spark/org.joplin.spark_3.2.12_amd64.deb
-Size: 146112712
-MD5sum: c3e99c9fa0ed5aa2ef236edb8fd382e2
-SHA1: 03dfa5b6c503d8ecd0744d5eae68dfb7e390ea09
-SHA256: 4b99169e631ed633282cfb4a3851d8c07e830d78d0b6331253bb0ef06e7b69ce
-SHA512: 453b8f03edae0ec0e909b99bfeeb8f42527b01fff3f5555caa6cb8478ffd12397d90f02311086ba3e10ba31478293729e233681708247b3e78477df1f3e979df
-Description: org.joplin.spark Software Package created by Appimage2Deb
+Section: default
+Maintainer: s
+Depends: joplin
+Filename: ./office/org.joplin.spark/org.joplin.spark_11.45.14_amd64.deb
+Size: 700
+MD5sum: 1769ba73cf6f1dad604229a5fc5001f2
+SHA1: 7fd88024aab386977db6ec14901f69cf15246b30
+SHA256: b4a3c2cc884ad1283afc76a18426ce548e86aed25d13f5881779ee296311b0a3
+SHA512: cccab4472754e66fdd776596ee8c90be5719763df2a20e8b4aefb419ca4278f2e8d8d43c16910d753739723345a5c8412622260245b48531df6f031728e3718d
+Description: 
+  过渡产物。
 
 Package: com.yunkanpan.numnode
 Architecture: amd64
@@ -39648,17 +39649,17 @@ Description: BellSoft Liberica is a build of OpenJDK verified by the OpenJDK Tec
 
 Package: io.github.msojocs.wechat-devtools-linux
 Architecture: amd64
-Version: 1.06.2504010-1
+Version: 1.06.2504010-2
 Priority: optional
 Section: application
 Maintainer: msojocs
-Installed-Size: 1038965
-Filename: ./development/io.github.msojocs.wechat-devtools-linux/io.github.msojocs.wechat-devtools-linux_1.06.2504010-1_amd64.deb
-Size: 233795048
-MD5sum: af8242e879eb237b2bca80f92d7171c3
-SHA1: 86f6aca1e04e75710bc821b4d799a1d899b22ea7
-SHA256: 0d3915d5d3ef79d2697e85f3b245978a12386b4c788b32d048faf636788064d7
-SHA512: e35ab45a301c8c25fc8d09ec2f8031ea48e339ea454171ce70445b376fd9edf7b6d3eb6b1e72837d42ff8d24fdef1f9007ab0ee79dcb65c2c7052fce33ab9b45
+Installed-Size: 1038968
+Filename: ./development/io.github.msojocs.wechat-devtools-linux/io.github.msojocs.wechat-devtools-linux_1.06.2504010-2_amd64.deb
+Size: 233781748
+MD5sum: cd89a5e1037ad6ddb7f99f27fcbac4c2
+SHA1: 658f5adbdbf263e4e363fb3289714b2f990637e8
+SHA256: f60bcb5554202e8a2ce006b8207e92916f18e3c34ec927a29a1b55dabc288215
+SHA512: 3c1aacec62ff69d6a9d3bd756c7ff67edffcf957a60e3faf430e3e3917cc0d5925a60f012e79b9cb878d4f02b3cfb8641de83ca56b8f99a99df266d93757fe4c
 Description: WeChat Devtools For Linux.
   To help developers develop and debug Weixin Mini Programs more simply and efficiently,
   Tencent have launched the new Weixin DevTools based on the original Official Account

@@ -105,3 +105,22 @@ Description: Windows和MS Office中的字体
  本deb安装包可以安装上简体中文版Windows上的字体和简体中文版 Microsoft Office 中的字体。       
  注意：本安装包中许多字体为版权字体，使用这些字体请自行确定拥有这些字体的使用授权。
 
+Package: spark-box64
+Architecture: riscv64
+Version: 0.3.6-1
+Priority: extra
+Section: utils
+Maintainer: shenmo@spark-app.store
+Installed-Size: 80848
+Provides: box64
+Depends: binfmt-support
+Conflicts:  box64-android, box64-rpi4arm64, box64-rpi3arm64, box64-tegrax1, box64-rk3399, box64-rk3588
+Filename: ./spark-box64_0.3.6-1_riscv64.deb
+Size: 13561772
+MD5sum: 151c04c7f5258e0f37470b9991da2aac
+SHA1: edc8a2ff17ccea7f2f41cee950846cf797a62d7d
+SHA256: a257910958c92ecfa4eec1e6591fa0a019d05651c570fe03427c83f4ba363e25
+SHA512: 71b73383658d118bb9ae44434438fe6c7a4ad1deada0b84714e687bf6fa4b6a5fd5b3de0de2cefbc4a4238d1880b1433d6e8993f7c7186420f775ffefd555a4c
+Description: Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
+ Box64 lets you run x86_64 Linux programs (such as games) on non-x86_64 Linux systems, like ARM (host system needs to be 64bit little-endian)
+

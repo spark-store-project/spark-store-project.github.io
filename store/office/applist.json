@@ -248,24 +248,6 @@
 }
 ,
 {
-  "Author": "wumeijie <wumeijie@myhexin.com>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb",
-  "More": "同花顺股票行情快、数据全、性能优，是一款受股民欢迎的免费炒股软件：具有沪深两市股票、基金行情；在线股票买卖委托交易功能等强大功能。\n deepin 23 无法启动请执行\n sudo aptss install libssl1.1 -y\n\n Ubuntu 2204下运行方式请看  https://www.deepinos.org/d/766-lubuntu2204-inux/13",
-  "Name": "同花顺",
-  "Pkgname": "cn.com.10jqka",
-  "Size": "112 Mb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb.torrent",
-  "Update": "2024-12-16 11:40:54",
-  "Version": "2.8.1.0-spark1",
-  "Website": "http://www.10jqka.com.cn",
-  "icons": "https://spk-json.spark-app.store/store/office/cn.com.10jqka/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_1.png\",\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_2.png\"]"
-}
-
-,
-{
   "Name": "腾讯文档",
   "Version": "3.9.20",
   "Filename": "tdappdesktop_3.9.20_amd64.deb",
@@ -280,6 +262,24 @@
   "Tags": "ubuntu;deepin;uos;debian;community;native",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_5.png\"]",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png"
+}
+
+,
+{
+  "Author": "wumeijie <wumeijie@myhexin.com>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb",
+  "More": "同花顺股票行情快、数据全、性能优，是一款受股民欢迎的免费炒股软件：具有沪深两市股票、基金行情；在线股票买卖委托交易功能等强大功能。\n deepin 23 无法启动请执行\n sudo aptss install libssl1.1 -y\n\n Ubuntu 2204下运行方式请看  https://www.deepinos.org/d/766-lubuntu2204-inux/13",
+  "Name": "同花顺",
+  "Pkgname": "cn.com.10jqka",
+  "Size": "112 Mb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "cn.com.10jqka_2.8.1.0-spark1_amd64.deb.torrent",
+  "Update": "2024-12-16 11:40:54",
+  "Version": "2.8.1.0-spark1",
+  "Website": "http://www.10jqka.com.cn",
+  "icons": "https://spk-json.spark-app.store/store/office/cn.com.10jqka/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_1.png\",\"https://spk-json.spark-app.store/store/office/cn.com.10jqka/screen_2.png\"]"
 }
 
 ,
@@ -849,22 +849,21 @@
 
 ,
 {
-  "Name": "Joplin",
-  "Version": "3.2.12",
-  "Filename": "org.joplin.spark_3.2.12_amd64.deb",
-  "Torrent_address": "org.joplin.spark_3.2.12_amd64.deb.torrent",
-  "Pkgname": "org.joplin.spark",
-  "Author": "spark-store",
-  "Contributor": "Love-in-idleness <3499847908@qq.com>",
-  "Website": "https://joplinapp.org/",
-  "Update": "2025-02-28 10:02:07",
-  "Size": "139.34 MB",
-  "More": "Joplin是一个开源的笔记应用程序，帮助你记录您的想法，并从任何设备安全地访问它们。",
-  "Tags": "社区开发;Debian;Ubuntu;deepin;UOS;AppImage;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/28/b60e624f14aa43b3b25b88a3567e56e8.png\",\"https://spk-json.spark-app.store/images/2025/02/28/45cbdf7acdd24932ac146b3bc47da08f.png\",\"https://spk-json.spark-app.store/images/2025/02/28/b1448223b45745f88c50f045402ba1e9.png\",\"https://spk-json.spark-app.store/images/2025/02/28/164008562179444fb11d544fbf6ab757.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/02/28/74c938d218644e7da5e30deae5d902b6.png"
+    "Name": "Joplin",
+    "Version": "11.45.14",
+    "Filename": "org.joplin.spark_11.45.14_amd64.deb",
+    "Torrent_address": "org.joplin.spark_11.45.14_amd64.deb.torrent",
+    "Pkgname": "org.joplin.spark",
+    "Author": "s",
+    "Contributor": "Love-in-idleness <3499847908@qq.com>",
+    "Website": "https://joplinapp.org/",
+    "Update": "2025-07-14 20:58:11",
+    "Size": "520 Bytes",
+    "More": "Joplin是一个开源的笔记应用程序，帮助你记录您的想法，并从任何设备安全地访问它们。\n\na2d最后一版，版本号无意义，实际调用投放在商店的官方deb进行安装。后续会对该应用进行下架。",
+    "Tags": "community;debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/14/3b075a643b604d4289203a6eb291b617.png\",\"https://spk-json.spark-app.store/images/2025/07/14/c84270d333934bdfbf0315ae1fb1becf.png\",\"https://spk-json.spark-app.store/images/2025/07/14/dd753472bba742eab3cc1c2d20140629.png\",\"https://spk-json.spark-app.store/images/2025/07/14/cdfc7bd9c8d042d88865bdfbaa7e35d9.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/14/ed1c11d328374a378f33bf3bb6cd0e41.png"
 }
-
 ,
 {
   "Name": "WPS Office 2016",
@@ -1370,23 +1369,6 @@
 
 ,
 {
-  "Name": "通达信海通证券版（wine）",
-  "Version": "1.0.0.0deepin5",
-  "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
-  "Pkgname": "com.tdxw.deepin",
-  "Author": "ericneon",
-  "Contributor": "ericneon",
-  "Website": "github.com/ericneon",
-  "Update": "2021-05-26 20:20:20",
-  "Size": "226.78 MB",
-  "More": "通达信的海通证券专用版",
-  "Tags": "deepin;ubuntu;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
-}
-
-,
-{
     "Name": "Zotero",
     "Version": "7.0.20",
     "Filename": "zotero_7.0.20_amd64.deb",
@@ -1401,6 +1383,23 @@
     "Tags": "ubuntu;deepin;uos;debian;community",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/zotero/screen_5.png\"]",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/office/zotero/icon.png"
+}
+
+,
+{
+  "Name": "通达信海通证券版（wine）",
+  "Version": "1.0.0.0deepin5",
+  "Filename": "com.tdxw.deepin_1.0.0.0deepin5_i386.deb",
+  "Pkgname": "com.tdxw.deepin",
+  "Author": "ericneon",
+  "Contributor": "ericneon",
+  "Website": "github.com/ericneon",
+  "Update": "2021-05-26 20:20:20",
+  "Size": "226.78 MB",
+  "More": "通达信的海通证券专用版",
+  "Tags": "deepin;ubuntu;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/78ced4a0-be1a-11eb-93b7-1fb62ee74886.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/26/7b3dd8d0-be1a-11eb-93b7-1fb62ee74886.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/26/c48bc1e0-be1b-11eb-93b7-1fb62ee74886.png"
 }
 
 ,
@@ -1779,23 +1778,6 @@
 
 ,
 {
-  "Name": "幕布（web）",
-  "Version": "1.0spark0",
-  "Filename": "web-mubu_1.0spark0_amd64.deb",
-  "Pkgname": "web-mubu",
-  "Author": "北京坤豆科技有限公司",
-  "Contributor": "sgb76",
-  "Website": "https://mubu.com/",
-  "Update": "2020-12-10 10:53:33",
-  "Size": "7.2 KB",
-  "More": "幕布，不只是大纲笔记，更是一种思考方式",
-  "Tags": "deepin;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/b76cad90-3ad5-11eb-86ae-e9872a4e0f31.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/bdc08d10-3ad5-11eb-86ae-e9872a4e0f31.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/10/ad09fc90-3ad5-11eb-86ae-e9872a4e0f31.png"
-}
-
-,
-{
   "Name": "滴答清单",
   "Version": "6.0.30",
   "Filename": "cn.ticktick.task_6.0.30_amd64.deb",
@@ -1810,6 +1792,23 @@
   "Tags": "debian;ubuntu;deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/02/1b0e744490e24b89b49ee4b786247be2.png\",\"https://spk-json.spark-app.store/images/2025/04/02/bd55162fc456427bad29d69ccfe5aaae.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/04/02/a13647aee2bc45c69b419bccd3fcd7e0.png"
+}
+
+,
+{
+  "Name": "幕布（web）",
+  "Version": "1.0spark0",
+  "Filename": "web-mubu_1.0spark0_amd64.deb",
+  "Pkgname": "web-mubu",
+  "Author": "北京坤豆科技有限公司",
+  "Contributor": "sgb76",
+  "Website": "https://mubu.com/",
+  "Update": "2020-12-10 10:53:33",
+  "Size": "7.2 KB",
+  "More": "幕布，不只是大纲笔记，更是一种思考方式",
+  "Tags": "deepin;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/b76cad90-3ad5-11eb-86ae-e9872a4e0f31.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/12/10/bdc08d10-3ad5-11eb-86ae-e9872a4e0f31.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/12/10/ad09fc90-3ad5-11eb-86ae-e9872a4e0f31.png"
 }
 
 ,
@@ -2041,6 +2040,23 @@
 
 ,
 {
+  "Name": "Simplenote",
+  "Version": "2.12.0-24095",
+  "Filename": "simplenote_2.12.0-24095_amd64.deb",
+  "Pkgname": "simplenote",
+  "Author": "Automattic",
+  "Contributor": "Vlary; OkayPJ",
+  "Website": "https://simplenote.com/",
+  "Update": "2021-06-07 12:07:49",
+  "Size": "97.64 MB",
+  "More": "The simplest way to keep notes\n\nAll your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/733a8d20-c745-11eb-a819-235b7a0b48f4.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/406a9610-c745-11eb-a819-235b7a0b48f4.png"
+}
+
+,
+{
   "Name": "文华赢顺Wh6(wine)",
   "Version": "6.8.412spark0",
   "Filename": "com.haqh.wh6.spark_6.8.412spark0_amd64.deb",
@@ -2070,23 +2086,6 @@
   "Size": "123.10KB",
   "More": "一个超高颜值的番茄钟！",
   "Tags": "ubuntu;debian;deepin;;native"
-}
-
-,
-{
-  "Name": "Simplenote",
-  "Version": "2.12.0-24095",
-  "Filename": "simplenote_2.12.0-24095_amd64.deb",
-  "Pkgname": "simplenote",
-  "Author": "Automattic",
-  "Contributor": "Vlary; OkayPJ",
-  "Website": "https://simplenote.com/",
-  "Update": "2021-06-07 12:07:49",
-  "Size": "97.64 MB",
-  "More": "The simplest way to keep notes\n\nAll your notes, synced on all your devices. Get Simplenote now for iOS, Android, Mac, Windows, Linux, or in your browser.",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/06/07/733a8d20-c745-11eb-a819-235b7a0b48f4.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/06/07/406a9610-c745-11eb-a819-235b7a0b48f4.png"
 }
 
 ,
@@ -2414,6 +2413,24 @@
 
 ,
 {
+  "Name": "搜狗输入法UOS版语言数据包",
+  "Version": "1.0.0",
+  "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
+  "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
+  "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
+  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "http://pinyin.sogou.com/linux",
+  "Update": "2023-05-20 22:09:03",
+  "Size": "878.22 MB",
+  "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
+  "Tags": "uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
+}
+
+,
+{
   "Name": "360安全云盘",
   "Version": "1.0.0.1013",
   "Filename": "cn.360.cloud_1.0.0.1013_amd64.deb",
@@ -2445,24 +2462,6 @@
   "Website": "https://www.ccnew.com/main/home/softwaredownload/index.shtml",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_3.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/office/com.ccnew.client.spark/screen_4.png\"]"
-}
-
-,
-{
-  "Name": "搜狗输入法UOS版语言数据包",
-  "Version": "1.0.0",
-  "Filename": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb",
-  "Torrent_address": "com.sogou.sogoupinyin-uos-sogouvoice_1.0.0_all.deb.torrent",
-  "Pkgname": "com.sogou.sogoupinyin-uos-sogouvoice",
-  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "http://pinyin.sogou.com/linux",
-  "Update": "2023-05-20 22:09:03",
-  "Size": "878.22 MB",
-  "More": "搜狗输入法UOS版使用语音功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一。",
-  "Tags": "uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/442ae1d904d449249264283f3df7cd1f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/dbc5adabad134395874f57c34aa9ffe2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/3043006c16644596818679607634c83c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/8da17b09e48d4450b3a4000646d53d31.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/bd8e4b080a744d7da23846b40f5af8d4.png"
 }
 
 ,
@@ -2680,6 +2679,24 @@
 
 ,
 {
+  "Name": "搜狗输入法UOS版手写数据包",
+  "Version": "1.0.0",
+  "Filename": "com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb",
+  "Torrent_address": "com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb.torrent",
+  "Pkgname": "com.sogou.sogoupinyin-uos-sogouhw",
+  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "http://pinyin.sogou.com/linux",
+  "Update": "2023-05-20 22:39:12",
+  "Size": "173.69 MB",
+  "More": "搜狗输入法UOS版使用手写功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+  "Tags": "uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/5454e33df9d24fb6908d7af6f6d403aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/fc26fb46d3e342a8bf437c20caa2d300.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/d9c96596e0614c36b94fd9656cfc818d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/67c17f068437489da609fbe6dbd4dc0f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/672cc55b20c74981956e5a0687ca10b2.png"
+}
+
+,
+{
   "Name": "火龙果写作",
   "Version": "4.5.1spark1",
   "Filename": "com.mypitaya.pitaya.spark_4.5.1spark1_amd64.deb",
@@ -2712,24 +2729,6 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/0be738f00e7c429ca2abbd3f20e0e4f3.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/31/e8a20d274371430eae60a5ae81b5ab2a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/31/67967d75e27a434bb528646981b73218.png"
-}
-
-,
-{
-  "Name": "搜狗输入法UOS版手写数据包",
-  "Version": "1.0.0",
-  "Filename": "com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb",
-  "Torrent_address": "com.sogou.sogoupinyin-uos-sogouhw_1.0.0_all.deb.torrent",
-  "Pkgname": "com.sogou.sogoupinyin-uos-sogouhw",
-  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "http://pinyin.sogou.com/linux",
-  "Update": "2023-05-20 22:39:12",
-  "Size": "173.69 MB",
-  "More": "搜狗输入法UOS版使用手写功能，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-  "Tags": "uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/5454e33df9d24fb6908d7af6f6d403aa.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/fc26fb46d3e342a8bf437c20caa2d300.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/d9c96596e0614c36b94fd9656cfc818d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/67c17f068437489da609fbe6dbd4dc0f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/672cc55b20c74981956e5a0687ca10b2.png"
 }
 
 ,
@@ -3425,6 +3424,24 @@
 
 ,
 {
+  "Name": "搜狗输入法UOS版小语种",
+  "Version": "1.0.0",
+  "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
+  "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
+  "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
+  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Website": "http://pinyin.sogou.com/linux",
+  "Update": "2023-05-20 21:30:22",
+  "Size": "163.83 MB",
+  "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
+  "Tags": "uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/63f618237b8a4c638870f10bd9003c08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/ce59ecf568e54d3c9c50b97074e947f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/53d2b262ec53497f9072db8a1c5802dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b290a8983c904d8a9ad7787485eaafbd.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/e999bb281693419ba3abf307624ad38d.png"
+}
+
+,
+{
   "Name": "极度公式",
   "Version": "1.4.2spark1",
   "Filename": "com.jidugs.spark_1.4.2spark1_amd64.deb",
@@ -3515,24 +3532,6 @@
 
 ,
 {
-  "Name": "搜狗输入法UOS版小语种",
-  "Version": "1.0.0",
-  "Filename": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb",
-  "Torrent_address": "com.sogou.sogoupinyin-uos-tadict_1.0.0_all.deb.torrent",
-  "Pkgname": "com.sogou.sogoupinyin-uos-tadict",
-  "Author": "Sogou IME Team <LinuxImeDev@sogou-inc.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Website": "http://pinyin.sogou.com/linux",
-  "Update": "2023-05-20 21:30:22",
-  "Size": "163.83 MB",
-  "More": "搜狗输入法UOS版输入小语种，需要安装此软件。搜狗输入法，融合了拼音、五笔、双拼、笔画、手写、英文等输入方式，是国内现今主流中文输入法之一",
-  "Tags": "uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/63f618237b8a4c638870f10bd9003c08.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/ce59ecf568e54d3c9c50b97074e947f1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/53d2b262ec53497f9072db8a1c5802dd.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/20/b290a8983c904d8a9ad7787485eaafbd.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/20/e999bb281693419ba3abf307624ad38d.png"
-}
-
-,
-{
   "Name": "云之家",
   "Version": "4.2.1-3951",
   "Filename": "cloudhub_4.2.1-3951_amd64.deb",
@@ -3565,6 +3564,24 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/0d4cfd8c8aaf438f821a7f440564019c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/c6b9d4f241d64c79b7e407420639625f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/93be605d5deb4969876ba6a5bb4c71b1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/06/03/6999c5758a604d588bfd5b43bee673c6.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/06/03/49bba88f5686402d9e9890bc7d656960.png"
+}
+
+,
+{
+  "Name": "PDF合并分割助手",
+  "Version": "1.0.0",
+  "Filename": "com.pdfhebingfengezhushouv1.0.spark_1.0.0_all.deb",
+  "Torrent_address": "com.pdfhebingfengezhushouv1.0.spark_1.0.0_all.deb.torrent",
+  "Pkgname": "com.pdfhebingfengezhushouv1.0.spark",
+  "Author": "读研札记",
+  "Contributor": "wang",
+  "Website": "https://mp.weixin.qq.com/s/qckaYaPD60D9SpbKEWRMDw",
+  "Update": "2024-07-17 11:07:06",
+  "Size": "10.24 MB",
+  "More": "一个实现pdf快速合并、分割的免费软件",
+  "Tags": "deepin;uos;dwine5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/f050a6eb837e42be9700d3d0ca879535.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/f176ca1a9fe9444ea9d6fb97f75d706b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/b35b87ec55e04919ab7a274efa1ba213.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/17/a3b0a6f77a3f424bbe7db53453642408.png"
 }
 
 ,
@@ -3617,24 +3634,6 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/48d349f0-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4b8a0580-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4e77d6a0-57f6-11eb-81be-efeb7e42bb9a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/16/3be5f670-57f6-11eb-81be-efeb7e42bb9a.png"
-}
-
-,
-{
-  "Name": "PDF合并分割助手",
-  "Version": "1.0.0",
-  "Filename": "com.pdfhebingfengezhushouv1.0.spark_1.0.0_all.deb",
-  "Torrent_address": "com.pdfhebingfengezhushouv1.0.spark_1.0.0_all.deb.torrent",
-  "Pkgname": "com.pdfhebingfengezhushouv1.0.spark",
-  "Author": "读研札记",
-  "Contributor": "wang",
-  "Website": "https://mp.weixin.qq.com/s/qckaYaPD60D9SpbKEWRMDw",
-  "Update": "2024-07-17 11:07:06",
-  "Size": "10.24 MB",
-  "More": "一个实现pdf快速合并、分割的免费软件",
-  "Tags": "deepin;uos;dwine5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/f050a6eb837e42be9700d3d0ca879535.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/f176ca1a9fe9444ea9d6fb97f75d706b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/07/17/b35b87ec55e04919ab7a274efa1ba213.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/07/17/a3b0a6f77a3f424bbe7db53453642408.png"
 }
 
 ,

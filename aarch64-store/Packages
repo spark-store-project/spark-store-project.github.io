@@ -458,6 +458,33 @@ SHA256: 8462c1b9034aafffd98a984bb4fcbf540f9d30f68e4d28308779343b81016350
 SHA512: c2a8839d85c8c511cb0031c9bf01c428408e104c10146ea82c665775f506fac511ff05fadf611d4b85afc84a5eb9135debc4f311b1f0d0d18cec1f631458c922
 Description: exagear runfs with deepin-wine needed libs
 
+Package: spark-wine10-wow
+Architecture: arm64
+Version: 10.12-spark1
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX6700XT
+Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
+Installed-Size: 1567800
+Pre-Depends: dpkg (>= 1.14.12ubuntu3)
+Depends: debconf (>= 0.5) | debconf-2.0, spark-dwine-helper, libasound2 (>= 1.2.7), libc6 (>= 2.35), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.73.3), libgphoto2-6 (>= 2.5.29), libgphoto2-port12 (>= 2.5.29), libgstreamer-plugins-base1.0-0 (>= 1.21.0), libgstreamer1.0-0 (>= 1.21.0), libldap-2.4-2 (>= 2.4.7) | libldap-2.5-0 (>= 2.5.12) | libldap2 (>= 2.5.9), libopenal1 (>= 1.17), libpcap0.8 (>= 1.10.1), libpulse0 (>= 0.99.1), libsane (>= 1.1.9) | libsane1, libudev1 (>= 240), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.9) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses,  libunwind8,libgl1,libglx-mesa0, spark-box64 | box64,  libgl1-mesa-glx
+Recommends: libcap2-bin
+Filename: ./depends/spark-wine/wine10/spark-wine10-wow_10.12-spark1_arm64.deb
+Size: 257426964
+MD5sum: e2b13291d106f90c7a243c355a8cc3ef
+SHA1: 9c6c44cd74f26044e163d38540b4a827d4267778
+SHA256: 144fa54bb6357bc3a5428807cede2ad6608112f14fc83bf00665b7bf3884c708
+SHA512: 45f5b46e3150d2ee126fd2a2cae0e1954175cdc5753d8a06e134c2f83423fee4704e4dce0168daa99764130f57f94d7fcb78a54866517c61b9897b6998ab6567
+Description: WINE Is Not An Emulator - runs MS Windows programs
+ Wine is a program which allows running Microsoft Windows programs
+ (including DOS, Windows 3.x and Win32 executables) on Unix. It
+ consists of a program loader which loads and executes a Microsoft
+ Windows binary, and a library (called Winelib) that implements Windows
+ API calls using their Unix or X11 equivalents.  The library may also
+ be used for porting Win32 code into native Unix executables.
+
 Package: spark-wine10-wow-ace
 Architecture: all
 Version: 10.5-spark-5
@@ -478,6 +505,23 @@ SHA512: 0bba534befd1f8493e3740ce2c1dc2ea935b0b12b31040bbd160bf0b0dc3142234298ee3
 Homepage: https://shenmo7192.gitee.io/
 Description: spark-wine9 ACE test package
  spark-wine9 ACE test package
+
+Package: spark-wine-wow
+Architecture: all
+Version: 10.12-spark-2
+Priority: optional
+Section: otherosfs
+Source: wine
+Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
+Installed-Size: 28
+Depends: spark-wine10-wow (= 10.12-spark-2) | spark-wine10-wow-ace
+Filename: ./depends/spark-wine/wine10/spark-wine-wow_10.12-spark-2_all.deb
+Size: 1328
+MD5sum: 67696a5d94c4bbf6d452c8862b6bd553
+SHA1: 0d2061550d2c82440dd33adc5197713b00dae9f4
+SHA256: 58edda3625f022ea49f6e70a6c6863664c5d2e515daef77235acd174d29b90ea
+SHA512: b60cdf60cc7e51fbfbc147c3d6b4c3c6c859c066c3ea2b0188a1b688b2516697ce691f17db3c69de6347e0b1e17c191d89271502d30258fa1f9b86ed88dafa3b
+Description: Spark wine meta package
 
 Package: spark-wine10-ace
 Architecture: all
@@ -500,23 +544,6 @@ Homepage: https://shenmo7192.gitee.io/
 Description: spark-wine10 ACE test package
  spark-wine10 ACE test package
 
-Package: spark-wine-wow
-Architecture: all
-Version: 10.5-spark-0
-Priority: optional
-Section: otherosfs
-Source: wine
-Maintainer: RX7900XT, shenmo<jifengshenmo@outlook.com>
-Installed-Size: 28
-Depends: spark-wine10-wow (= 10.5-spark-0) | spark-wine10-wow-ace
-Filename: ./depends/spark-wine/wine10/spark-wine-wow_10.5-spark-0_all.deb
-Size: 1328
-MD5sum: 6c5c0a448a84908236d321f916086a64
-SHA1: a828fa64b0b555476783fce55d25f36f308aaddd
-SHA256: 7dc10151835895b7366aa1aeeee2aaa0a669b096dfa7741886ddc543a0ee9a60
-SHA512: 70d7fa0a4b47992059a2f14a34652b174c9eeb09d84ce5a78870ce996525ad639e66451d526954120bfb32fa22db31af56e1c696c4f79008b30932b6b80d7961
-Description: Spark wine meta package
-
 Package: spark-wine10
 Architecture: arm64
 Version: 10.5-spark-1.1
@@ -536,33 +563,6 @@ MD5sum: 6e921c12f94803cd779925040bcd67df
 SHA1: 23178d2117976c87d00bc8822c460faedcf29f8e
 SHA256: 5298292843d434dae46bac20aa294f74611086cad9a4f53750ae132fa99b4d47
 SHA512: 7524c576d832e8a2d301bbe1349fc120b6438fed9aa7a46acd8f111fca4dc3f14e4678f821864fd37f8ed7a95030255ae7e2ca6ed56fc2e30773a681b845cbfc
-Description: WINE Is Not An Emulator - runs MS Windows programs
- Wine is a program which allows running Microsoft Windows programs
- (including DOS, Windows 3.x and Win32 executables) on Unix. It
- consists of a program loader which loads and executes a Microsoft
- Windows binary, and a library (called Winelib) that implements Windows
- API calls using their Unix or X11 equivalents.  The library may also
- be used for porting Win32 code into native Unix executables.
-
-Package: spark-wine10-wow
-Architecture: arm64
-Version: 10.5-spark1
-Multi-Arch: foreign
-Priority: optional
-Section: otherosfs
-Source: wine
-Maintainer: RX6700XT
-Original-Maintainer: WineHQ Builds <webmaster@fds-team.de>
-Installed-Size: 74704
-Pre-Depends: dpkg (>= 1.14.12ubuntu3)
-Depends: debconf (>= 0.5) | debconf-2.0, spark-dwine-helper, libasound2 (>= 1.2.7), libc6 (>= 2.35), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.73.3), libgphoto2-6 (>= 2.5.29), libgphoto2-port12 (>= 2.5.29), libgstreamer-plugins-base1.0-0 (>= 1.21.0), libgstreamer1.0-0 (>= 1.21.0), libldap-2.4-2 (>= 2.4.7) | libldap-2.5-0 (>= 2.5.12) | libldap2 (>= 2.5.9), libopenal1 (>= 1.17), libpcap0.8 (>= 1.10.1), libpulse0 (>= 0.99.1), libsane (>= 1.1.9) | libsane1, libudev1 (>= 240), libusb-1.0-0 (>= 2:1.0.21), libx11-6, libxext6, ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.9) | libopencl-1.2-1, libasound2-plugins, libncurses6 | libncurses5 | libncurses,  libunwind8,libgl1,libglx-mesa0, spark-box64 | box64,  libgl1-mesa-glx
-Recommends: libcap2-bin
-Filename: ./depends/spark-wine/wine10/spark-wine10-wow_10.5-spark1_arm64.deb
-Size: 255538188
-MD5sum: 5f6b556540ef8f1a415c341c7ce250f5
-SHA1: 355b694eff30119ab7e4b9bc927d62092aa26a1b
-SHA256: a15b764e4d47f9fa252e4b3056f6891b1979282602f1f32da4774e268960d67e
-SHA512: 4dd23c29cbb745454c27e552d6bc1f0707e1129ce1c02361335e69085333f441c9eb8ddbd2553578228c0398508d207afa34118b8a8a5847ea3f0262cbc8e973
 Description: WINE Is Not An Emulator - runs MS Windows programs
  Wine is a program which allows running Microsoft Windows programs
  (including DOS, Windows 3.x and Win32 executables) on Unix. It

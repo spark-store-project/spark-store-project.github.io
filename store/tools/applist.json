@@ -281,6 +281,20 @@
 
 ,
 {
+    "Name": "玲珑应用商店",
+    "Author": "Jokul <986432015@qq.com>",
+    "Website": "https://github.com/GershonWang/linglong-store",
+    "More": "Jokul自制简易式玲珑商店客户端，是玲珑官方SIG项目之一,使用过程中出现BUG，请在商店关于内问题反馈，或者在作者得github或者gitee上留issue，谢谢！",
+    "Tags": "debian;community;ubuntu;deepin",
+    "Pkgname": "linglong-store",
+    "Version": "1.4.2",
+    "Filename": "linglong-store_1.4.2_amd64.deb",
+    "Update": "2025-07-12 02:41:36",
+    "Size": "77.56MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+,
+{
   "Name": "右键刷新插件",
   "Version": "1.1",
   "Filename": "sm-refresh_1.1_all.deb",
@@ -297,20 +311,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/27/c81e2b152a3d4bb7bf3778b61cd1232f.png"
 }
 
-,
-{
-    "Name": "玲珑应用商店",
-    "Author": "Jokul <986432015@qq.com>",
-    "Website": "https://github.com/GershonWang/linglong-store",
-    "More": "Jokul自制简易式玲珑商店客户端，是玲珑官方SIG项目之一,使用过程中出现BUG，请在商店关于内问题反馈，或者在作者得github或者gitee上留issue，谢谢！",
-    "Tags": "debian;community;ubuntu;deepin",
-    "Pkgname": "linglong-store",
-    "Version": "1.4.2",
-    "Filename": "linglong-store_1.4.2_amd64.deb",
-    "Update": "2025-07-12 02:41:36",
-    "Size": "77.56MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
 ,
 {
   "Name": "Waydroid 运行器 1.2.0.1",
@@ -948,24 +948,6 @@
 
 ,
 {
-  "Name": "WIFI热点",
-  "Version": "4.7.2",
-  "Filename": "linux-wifi-hotspot_4.7.2_amd64.deb",
-  "Torrent_address": "linux-wifi-hotspot_4.7.2_amd64.deb.torrent",
-  "Pkgname": "linux-wifi-hotspot",
-  "Author": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
-  "Contributor": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
-  "Website": "https://github.com/lakinduakash/linux-wifi-hotspot",
-  "Update": "2024-10-07 15:07:16",
-  "Size": "82.23 KB",
-  "More": "功能丰富的虚拟wifi热点创建工具，适用于Linux，同时提供GUI和命令行界面。 它能够使用已连接wifi网络的同一块无线网卡虚拟出一块无线网卡，然后创建一个新的虚拟wifi热点（类似于Windows 10可实现的功能，或者类似猎豹虚拟wifi软件工具）。部分网卡下可能无法启用。",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/0cd3b546336148ab9af8b0b5a587f754.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/3c1587ce6f9540e0b865608af6621abe.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/07/d448585c408f41b0b5b8a5327d3ceab8.png"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
@@ -980,6 +962,24 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "WIFI热点",
+  "Version": "4.7.2",
+  "Filename": "linux-wifi-hotspot_4.7.2_amd64.deb",
+  "Torrent_address": "linux-wifi-hotspot_4.7.2_amd64.deb.torrent",
+  "Pkgname": "linux-wifi-hotspot",
+  "Author": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
+  "Contributor": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
+  "Website": "https://github.com/lakinduakash/linux-wifi-hotspot",
+  "Update": "2024-10-07 15:07:16",
+  "Size": "82.23 KB",
+  "More": "功能丰富的虚拟wifi热点创建工具，适用于Linux，同时提供GUI和命令行界面。 它能够使用已连接wifi网络的同一块无线网卡虚拟出一块无线网卡，然后创建一个新的虚拟wifi热点（类似于Windows 10可实现的功能，或者类似猎豹虚拟wifi软件工具）。部分网卡下可能无法启用。",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/0cd3b546336148ab9af8b0b5a587f754.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/3c1587ce6f9540e0b865608af6621abe.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/07/d448585c408f41b0b5b8a5327d3ceab8.png"
 }
 
 ,
@@ -1499,21 +1499,6 @@
 
 ,
 {
-  "Name": "海天鹰文件管理器",
-  "Version": "2.9",
-  "Filename": "htyfm-spark_2.9_amd64.deb",
-  "Pkgname": "htyfm-spark",
-  "Author": "黄颖",
-  "Contributor": "shenmo",
-  "Website": "github.com/sonichy",
-  "Update": "2020-09-05 19:17",
-  "Size": "83.60KB",
-  "More": "一款好用的文件管理器",
-  "Tags": "debian;native"
-}
-
-,
-{
   "Name": "desktop 图标生成器",
   "Version": "1.2.3-20250521",
   "Filename": "z-tools-desktop-generater_1.2.3-20250521_amd64.deb",
@@ -1528,6 +1513,21 @@
   "Tags": "community;debian;ubuntu;deepin;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/21/f0496d54da8e4e99a28124f06a971645.png\",\"https://spk-json.spark-app.store/images/2025/05/21/ce07f7dfcaf6425bb129e1698157b1f0.png\",\"https://spk-json.spark-app.store/images/2025/05/21/e3aeaf52db2f4dd78ca181a68865c47e.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/05/21/91910ed28b7644ac920f6d70c6f28804.png"
+}
+
+,
+{
+  "Name": "海天鹰文件管理器",
+  "Version": "2.9",
+  "Filename": "htyfm-spark_2.9_amd64.deb",
+  "Pkgname": "htyfm-spark",
+  "Author": "黄颖",
+  "Contributor": "shenmo",
+  "Website": "github.com/sonichy",
+  "Update": "2020-09-05 19:17",
+  "Size": "83.60KB",
+  "More": "一款好用的文件管理器",
+  "Tags": "debian;native"
 }
 
 ,
@@ -2539,6 +2539,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
+  "More": "HardInfo 硬件信息查看器 从系统源获取",
+  "Name": "HardInfo 硬件信息查看器",
+  "Pkgname": "store.spark-app.appwrapper.hardinfo",
+  "Size": "3 Kb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb.torrent",
+  "Update": "2024-11-05 22:24:26",
+  "Version": "0.5.1+git20180227-2.1+b1",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+}
+
+,
+{
   "Name": "AIDA64（Wine）",
   "Version": "6.90.6500",
   "Filename": "com.aida64.deepin_6.90.6500_i386.deb",
@@ -2571,24 +2589,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/7740e89529ec46f78d3ae37c3a868aa0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/69dcb6f9ba8e46a092936441c9301308.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/763c88e1d66c4660935b572e27e00340.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/12/aec20b0cebb148e899fc1c673f75950d.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/12/7945cd0cc29047d4b2f77634be91f2fc.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
-  "More": "HardInfo 硬件信息查看器 从系统源获取",
-  "Name": "HardInfo 硬件信息查看器",
-  "Pkgname": "store.spark-app.appwrapper.hardinfo",
-  "Size": "3 Kb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb.torrent",
-  "Update": "2024-11-05 22:24:26",
-  "Version": "0.5.1+git20180227-2.1+b1",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
 }
 
 ,
@@ -4014,6 +4014,24 @@
 
 ,
 {
+  "Name": "Flix 快传",
+  "Version": "1.4.0+48",
+  "Filename": "flix_1.4.0_plus48_amd64.deb",
+  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
+  "Pkgname": "flix",
+  "Author": "zhangjian <2242634757@qq.com>",
+  "Contributor": "洺渊",
+  "Website": "https://flix.center/",
+  "Update": "2025-04-01 20:19:21",
+  "Size": "16.27 MB",
+  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
+}
+
+,
+{
   "Name": "字帖生成器",
   "Version": "0.2.7",
   "Filename": "copybook_0.2.7_amd64.deb",
@@ -4066,20 +4084,20 @@
 
 ,
 {
-  "Name": "Flix 快传",
-  "Version": "1.4.0+48",
-  "Filename": "flix_1.4.0_plus48_amd64.deb",
-  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
-  "Pkgname": "flix",
-  "Author": "zhangjian <2242634757@qq.com>",
-  "Contributor": "洺渊",
-  "Website": "https://flix.center/",
-  "Update": "2025-04-01 20:19:21",
-  "Size": "16.27 MB",
-  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "gxde-25-upgrader_1.1.7_all.deb",
+    "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
+    "Name": "GXDE 2025 升级工具",
+    "Pkgname": "gxde-25-upgrader",
+    "Size": "1217 Kb",
+    "Tags": "community;debian;native",
+    "Torrent_address": "gxde-25-upgrader_1.1.7_all.deb.torrent",
+    "Update": "2025-07-09 11:38:53",
+    "Version": "1.1.7",
+    "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
+    "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
 }
 
 ,
@@ -4098,24 +4116,6 @@
   "Tags": "community;deepin;uos;dtk5;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285875876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285942776958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290006876958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290081076958200.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917290146676958200.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/09/d0deac74398244c98d02dff313a12ea22022120917285006676958200.png"
-}
-
-,
-{
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "gxde-25-upgrader_1.1.7_all.deb",
-    "More": "仅适配 GXDE OS 15.15 的系统升级工具\n\n可帮助用户从 15.15 升级到 25\n\n",
-    "Name": "GXDE 2025 升级工具",
-    "Pkgname": "gxde-25-upgrader",
-    "Size": "1217 Kb",
-    "Tags": "community;debian;native",
-    "Torrent_address": "gxde-25-upgrader_1.1.7_all.deb.torrent",
-    "Update": "2025-07-09 11:38:53",
-    "Version": "1.1.7",
-    "Website": "https://gitee.com/GXDE-OS/gxde-25-upgrader",
-    "icons": "https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/gxde-25-upgrader/screen_1.png\"]"
 }
 
 ,
@@ -4246,6 +4246,24 @@
 
 ,
 {
+  "Name": "usbimager",
+  "Version": "1.0.0",
+  "Filename": "usbimager_1.0.0_amd64.deb",
+  "Torrent_address": "usbimager_1.0.0_amd64.deb.torrent",
+  "Pkgname": "usbimager",
+  "Author": "bzt",
+  "Contributor": "bzt",
+  "Website": "https://gitlab.com/bztsrc/usbimager",
+  "Update": "2025-02-18 21:28:56",
+  "Size": "138.15 KB",
+  "More": "动态解压缩gz、bzip2、xz和zip（zip64）图像并将其写入USB设备。\n还能够通过串行端口将图像发送到Raspberry Pi机器，并创建\n从USB存储设备备份映像文件。\nUncompresses gz, bzip2, xz and zip (zip64) images on-the-fly and writes them to USB devices.\n  Also capable of sending images through serial port to Raspberry Pi machines, and to create\n  backup image files from USB storage devices.",
+  "Tags": "community;debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/18/a1e4338e4735470ea74b3c2bcf626fb8.png\",\"https://spk-json.spark-app.store/images/2025/02/18/4e33e42bbd234d809d45897e9b9e4a88.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/02/18/edb4e68ae4ab4f05a1b6190801489372.png"
+}
+
+,
+{
   "Name": "HuionTablet（绘王数位板驱动，添加libm.so.6版）",
   "Version": "15.0.0.131.1",
   "Filename": "huiontablet_15.0.0.131.1_amd64.deb",
@@ -4296,24 +4314,6 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/677526dfa5b643238b02e640023db9a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/f2ade5e5cb424665b2980dee7b91b263.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/dc6246ac4b514bbcad7c0f9f679daf8c.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/cb30b899be3c4fadb2b2f17c7fd7aa03.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/25/bfe2060a802f4fa9b9ea12b732e32f85.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/25/e827631082be42118c35aeb111f45ad2.png"
-}
-
-,
-{
-  "Name": "usbimager",
-  "Version": "1.0.0",
-  "Filename": "usbimager_1.0.0_amd64.deb",
-  "Torrent_address": "usbimager_1.0.0_amd64.deb.torrent",
-  "Pkgname": "usbimager",
-  "Author": "bzt",
-  "Contributor": "bzt",
-  "Website": "https://gitlab.com/bztsrc/usbimager",
-  "Update": "2025-02-18 21:28:56",
-  "Size": "138.15 KB",
-  "More": "动态解压缩gz、bzip2、xz和zip（zip64）图像并将其写入USB设备。\n还能够通过串行端口将图像发送到Raspberry Pi机器，并创建\n从USB存储设备备份映像文件。\nUncompresses gz, bzip2, xz and zip (zip64) images on-the-fly and writes them to USB devices.\n  Also capable of sending images through serial port to Raspberry Pi machines, and to create\n  backup image files from USB storage devices.",
-  "Tags": "community;debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/18/a1e4338e4735470ea74b3c2bcf626fb8.png\",\"https://spk-json.spark-app.store/images/2025/02/18/4e33e42bbd234d809d45897e9b9e4a88.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/02/18/edb4e68ae4ab4f05a1b6190801489372.png"
 }
 
 ,
@@ -4514,6 +4514,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
+  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
+  "Name": "Barrier 键鼠共享软件",
+  "Pkgname": "store.spark-app.appwrapper.barrier",
+  "Size": "3 Kb",
+  "Tags": "community;uos;ubuntu;debian;native",
+  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
+  "Update": "2025-02-14 21:54:41",
+  "Version": "2.4.0+dfsg-3",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
+}
+
+,
+{
   "Name": "Moo工具集",
   "Version": "1.3.0",
   "Filename": "mootool_1.3.0_all.deb",
@@ -4614,24 +4632,6 @@
   "Tags": "debian;ubuntu;deepin;uos;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/6fbed5a0fc5d42438f2952c2b699cc19.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/14/873b19f3c8e84c048b123501e8f4a437.png"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb",
-  "More": "Barrier可以在多台计算机间轻松共享你的鼠标和键盘，它还是自由开源软件。将鼠标指针从计算机\n的屏幕边缘移出到另一个屏幕，并同时共享剪贴板，只要你有一个网络连接。Barrier是跨平台的\n（可以运行于Windows，Mac OS X和Linux)",
-  "Name": "Barrier 键鼠共享软件",
-  "Pkgname": "store.spark-app.appwrapper.barrier",
-  "Size": "3 Kb",
-  "Tags": "community;uos;ubuntu;debian;native",
-  "Torrent_address": "store.spark-app.appwrapper.barrier_2.4.0+dfsg-3_all.deb.torrent",
-  "Update": "2025-02-14 21:54:41",
-  "Version": "2.4.0+dfsg-3",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.barrier/screen_2.png\"]"
 }
 
 ,
