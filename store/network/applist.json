@@ -1,14 +1,14 @@
 [
 {
     "Name": "Microsoft Edge",
-    "Version": "138.0.3351.83-1",
-    "Filename": "microsoft-edge-stable_138.0.3351.83-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-stable_138.0.3351.83-1_amd64.deb.torrent",
+    "Version": "138.0.3351.95-1",
+    "Filename": "microsoft-edge-stable_138.0.3351.95-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-stable_138.0.3351.95-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-stable",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-07-11 18:17:47",
+    "Update": "2025-07-16 17:37:22",
     "Size": "179M",
     "More": "Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.\n翻译：\nMicrosoft Edge 是一款将简约设计与先进技术相结合的浏览器，使网络更快、更安全、更轻松。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -19,14 +19,14 @@
 ,
 {
     "Name": "Google Chrome",
-    "Version": "138.0.7204.100-1",
-    "Filename": "google-chrome-stable_138.0.7204.100-1_amd64.deb",
-    "Torrent_address": "google-chrome-stable_138.0.7204.100-1_amd64.deb.torrent",
+    "Version": "138.0.7204.157-1",
+    "Filename": "google-chrome-stable_138.0.7204.157-1_amd64.deb",
+    "Torrent_address": "google-chrome-stable_138.0.7204.157-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-stable",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-07-11 18:27:15",
+    "Update": "2025-07-16 17:40:50",
     "Size": "113M",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -784,23 +784,6 @@
 
 ,
 {
-  "Name": "即刻下载器",
-  "Version": "0.0.3",
-  "Filename": "downow_0.0.3_amd64.deb",
-  "Pkgname": "downow",
-  "Author": "Jaeger   jack  Leng",
-  "Contributor": "jidro",
-  "Website": "https://downow.app/",
-  "Update": "2021-10-12 11:23:51",
-  "Size": "58.34 MB",
-  "More": "即刻下载体验\nDownow\n全平台多线程下载器，让你拥有全新的下载体验\n只为下载 无广告！！！\n速度快\n界面简洁 易操作 易上手\n后台多线程支持下载\nChrome插件安装 自动捕获下载链接\n海量的插件功能即将上线...",
-  "Tags": "debian;deepin;ubuntu;uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbac3ce0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbbbcd40-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbd4fa90-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbee4ef0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cc0ad7a0-2b0b-11ec-86bd-4581e5a372f7.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/12/aa1091d0-2b0b-11ec-86bd-4581e5a372f7.png"
-}
-
-,
-{
     "Name": "AnyDesk在线远程桌面",
     "Version": "6.4.2",
     "Filename": "anydesk_6.4.2_amd64.deb",
@@ -816,6 +799,23 @@
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/448aafef19b947339897723ed780a0ca.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/03/14/071f5936dadb45c78bdce64e0247af11.png"
 }
+,
+{
+  "Name": "即刻下载器",
+  "Version": "0.0.3",
+  "Filename": "downow_0.0.3_amd64.deb",
+  "Pkgname": "downow",
+  "Author": "Jaeger   jack  Leng",
+  "Contributor": "jidro",
+  "Website": "https://downow.app/",
+  "Update": "2021-10-12 11:23:51",
+  "Size": "58.34 MB",
+  "More": "即刻下载体验\nDownow\n全平台多线程下载器，让你拥有全新的下载体验\n只为下载 无广告！！！\n速度快\n界面简洁 易操作 易上手\n后台多线程支持下载\nChrome插件安装 自动捕获下载链接\n海量的插件功能即将上线...",
+  "Tags": "debian;deepin;ubuntu;uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbac3ce0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbbbcd40-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbd4fa90-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cbee4ef0-2b0b-11ec-86bd-4581e5a372f7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/10/12/cc0ad7a0-2b0b-11ec-86bd-4581e5a372f7.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/10/12/aa1091d0-2b0b-11ec-86bd-4581e5a372f7.png"
+}
+
 ,
 {
   "Name": "QQ 浏览器",
@@ -1119,14 +1119,14 @@
 ,
 {
     "Name": "Microsoft Edge(Beta)",
-    "Version": "139.0.3405.21-1",
-    "Filename": "microsoft-edge-beta_139.0.3405.21-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-beta_139.0.3405.21-1_amd64.deb.torrent",
+    "Version": "139.0.3405.36-1",
+    "Filename": "microsoft-edge-beta_139.0.3405.36-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-beta_139.0.3405.36-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-beta",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-07-11 18:26:20",
+    "Update": "2025-07-16 17:39:56",
     "Size": "180M",
     "More": "Microsoft Edge Beta 渠道Beta 版频道可以提供最稳定的 Microsoft Edge 预览版体验。 通过每 4 个星期一次重大更新，每个版本都融入了从开发和 Canary 版本获得的经验教训和改进。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -1226,14 +1226,14 @@
 ,
 {
     "Name": "Google Chrome 测试版",
-    "Version": "139.0.7258.31-1",
-    "Filename": "google-chrome-beta_139.0.7258.31-1_amd64.deb",
-    "Torrent_address": "google-chrome-beta_139.0.7258.31-1_amd64.deb.torrent",
+    "Version": "139.0.7258.42-1",
+    "Filename": "google-chrome-beta_139.0.7258.42-1_amd64.deb",
+    "Torrent_address": "google-chrome-beta_139.0.7258.42-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-beta",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-07-11 18:28:46",
+    "Update": "2025-07-16 17:41:45",
     "Size": "114M",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -1367,23 +1367,6 @@
 
 ,
 {
-  "Name": "Yandex浏览器",
-  "Version": "21.3.3.1195-1",
-  "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
-  "Pkgname": "yandex-browser-beta",
-  "Author": "Yandex",
-  "Contributor": "Yandex",
-  "Website": "www.yandex.com",
-  "Update": "2021-05-22 20:52:10",
-  "Size": "93.01 MB",
-  "More": "一个非常漂亮的浏览器～",
-  "Tags": "uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
-}
-
-,
-{
   "Name": "UOS 远程协助",
   "Version": "1.1.36-1",
   "Filename": "uos-remote-assistance_1.1.36-1_amd64.deb",
@@ -1398,6 +1381,23 @@
   "Tags": "deepin;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/b2dbc2a990824a77a99c44e576e7d5bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/cd7481683937450eba00a38e20a2b7e5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/04/080a51f46732469bad3bea23ac9698df.png"
+}
+
+,
+{
+  "Name": "Yandex浏览器",
+  "Version": "21.3.3.1195-1",
+  "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
+  "Pkgname": "yandex-browser-beta",
+  "Author": "Yandex",
+  "Contributor": "Yandex",
+  "Website": "www.yandex.com",
+  "Update": "2021-05-22 20:52:10",
+  "Size": "93.01 MB",
+  "More": "一个非常漂亮的浏览器～",
+  "Tags": "uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
 }
 
 ,
@@ -1418,6 +1418,23 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/03/23/31452c605637485f86633664ee842ef3.png"
 }
 
+,
+{
+    "Name": "向日葵企业版客户端",
+    "Version": "5.4.0.18280",
+    "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
+    "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
+    "Pkgname": "sunloginenterprise",
+    "Author": "Oray <dev@oray.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://sunlogin.oray.com",
+    "Update": "2025-03-14 22:31:04",
+    "Size": "75.03 MB",
+    "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
+}
 ,
 {
   "Author": "shenmo <shenmo@spark-app.store>",
@@ -1454,23 +1471,6 @@
   "icons": "https://spk-json.spark-app.store/icons/2025/01/11/5d83b25e255d4f0cae3b45a7ea422e25.png"
 }
 
-,
-{
-    "Name": "向日葵企业版客户端",
-    "Version": "5.4.0.18280",
-    "Filename": "sunloginenterprise_5.4.0.18280_amd64.deb",
-    "Torrent_address": "sunloginenterprise_5.4.0.18280_amd64.deb.torrent",
-    "Pkgname": "sunloginenterprise",
-    "Author": "Oray <dev@oray.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://sunlogin.oray.com",
-    "Update": "2025-03-14 22:31:04",
-    "Size": "75.03 MB",
-    "More": "测试可以用个人版连接该向日葵企业版客户端\n Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/10dd5227e8d248c48f45f2cd0b8df487.png\",\"https://spk-json.spark-app.store/images/2025/03/14/4b8359ab9a5740189e92b68a23fd62fd.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/8befa301ee0e4a52b48706d0131303fc.png"
-}
 ,
 {
   "Name": "局域网文件分享服务器",
@@ -1627,6 +1627,21 @@
 
 ,
 {
+  "Name": "Burpsuite",
+  "Version": "2020.5.1-0kali",
+  "Filename": "burpsuite.deb",
+  "Pkgname": "burpsuite",
+  "Author": "portswigger",
+  "Contributor": "Vlary",
+  "Website": "https://portswigger.net/burp",
+  "Update": "2020-07-08 21:27",
+  "Size": "337.20MB",
+  "More": "A platform for security testing of web applications.此版本是基于kali版本的重新打包。",
+  "Tags": "debian"
+}
+
+,
+{
   "Name": "腾讯微云（wine）",
   "Version": "5.2.1282spark1",
   "Filename": "com.weiyun.spark_5.2.1282spark1_i386.deb",
@@ -1641,21 +1656,6 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/ba1062f58e0b4b5c8e40c76765553407.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/24/e0a38f76e66b484b9de86a58d3e616ad.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/24/9254114039fc453ab804763abb79f1f8.png"
-}
-
-,
-{
-  "Name": "Burpsuite",
-  "Version": "2020.5.1-0kali",
-  "Filename": "burpsuite.deb",
-  "Pkgname": "burpsuite",
-  "Author": "portswigger",
-  "Contributor": "Vlary",
-  "Website": "https://portswigger.net/burp",
-  "Update": "2020-07-08 21:27",
-  "Size": "337.20MB",
-  "More": "A platform for security testing of web applications.此版本是基于kali版本的重新打包。",
-  "Tags": "debian"
 }
 
 ,
@@ -1832,23 +1832,6 @@
 
 ,
 {
-    "Name": "向日葵企业版控制端",
-    "Version": "6.5.5.20079",
-    "Filename": "sunloginremote_6.5.5.20079_amd64.deb",
-    "Torrent_address": "sunloginremote_6.5.5.20079_amd64.deb.torrent",
-    "Pkgname": "sunloginremote",
-    "Author": "Oray <dev@oray.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://sunlogin.oray.com",
-    "Update": "2025-03-14 22:29:53",
-    "Size": "76.21 MB",
-    "More": "Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/818e7391b1bd43f1a2be8ee049447395.png\",\"https://spk-json.spark-app.store/images/2025/03/14/be8a562dc1234ae880884bb91f39c412.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/459eb258fd7144e982bdfda37cb4a437.png"
-}
-,
-{
     "Name": "Opera浏览器",
     "Version": "118.0.5461.60",
     "Filename": "opera-stable_118.0.5461.60_amd64.deb",
@@ -1863,6 +1846,23 @@
     "Tags": "debian;ubuntu;deepin;uos",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/25/8d3e419285b84434bef7460562c240b4.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/04/25/212533b192d44afd8e1a09e4c91b9017.png"
+}
+,
+{
+    "Name": "向日葵企业版控制端",
+    "Version": "6.5.5.20079",
+    "Filename": "sunloginremote_6.5.5.20079_amd64.deb",
+    "Torrent_address": "sunloginremote_6.5.5.20079_amd64.deb.torrent",
+    "Pkgname": "sunloginremote",
+    "Author": "Oray <dev@oray.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://sunlogin.oray.com",
+    "Update": "2025-03-14 22:29:53",
+    "Size": "76.21 MB",
+    "More": "Sunlogin Remote Control is a software that supports remote control of mobile\n devices, Windows, Mac, Linux and other systems. It is the best choice for IT\n technology, game players, designers and other people with remote management\n needs. By using Sunlogin, you can control other computers or mobile phones\n anytime, anywhere. You can make things feasible, including remote high-risk\n operations, remote power on/off, download files, AFK, and so on. Download\n Sunlogin and explore more exciting features!",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/14/818e7391b1bd43f1a2be8ee049447395.png\",\"https://spk-json.spark-app.store/images/2025/03/14/be8a562dc1234ae880884bb91f39c412.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/03/14/459eb258fd7144e982bdfda37cb4a437.png"
 }
 ,
 {

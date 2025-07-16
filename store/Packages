@@ -1427,27 +1427,6 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  This package contains the files needed to support 64-bit Windows
  programs.
 
-Package: spark-wine10-wow-ace
-Architecture: all
-Version: 10.7-spark-1
-Priority: optional
-Section: utils
-Maintainer: shenmo <jifengshenmo@outlook.com>
-Installed-Size: 36
-Provides: spark-wine10-wow(=10.7-spark-1)
-Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Conflicts: spark-wine10-wow
-Replaces: spark-wine10-wow
-Filename: ./depends/spark-wine/spark-wine10/spark-wine10-wow-ace_10.7-spark-1_all.deb
-Size: 1800
-MD5sum: 62bc0c6b4d8850c03317cd6a535b44bc
-SHA1: 290fd022ce9ae6cdc4a08d6ec4e21a1d91d062f7
-SHA256: e3130a467c7cdac59e46acd8cad181f02667156a92fd823c602a02a62858fe65
-SHA512: 248269058256de25121413042db5bf079ca91ebffd3917a8711f628706319dedac795d85a8ec01fc4fe13edc84536301bd1fc5cd7c73257301da8e7291a953b7
-Homepage: https://shenmo7192.gitee.io/
-Description: spark-wine9 ACE test package
- spark-wine9 ACE test package
-
 Package: spark-wine-wow
 Architecture: all
 Version: 10.12-spark-2
@@ -1508,6 +1487,27 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  Windows binary, and a library (called Winelib) that implements Windows
  API calls using their Unix or X11 equivalents.  The library may also
  be used for porting Win32 code into native Unix executables.
+
+Package: spark-wine10-wow-ace
+Architecture: all
+Version: 10.12-spark-2
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 36
+Provides: spark-wine10-wow(=10.12-spark-2)
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Conflicts: spark-wine10-wow
+Replaces: spark-wine10-wow
+Filename: ./depends/spark-wine/spark-wine10/spark-wine10-wow-ace_10.12-spark-2_all.deb
+Size: 1804
+MD5sum: 00631527e0476b14fc978bf2a62b0d8c
+SHA1: 2961c6af60acbd37a55cfbd5aa5957a0f60e1d0a
+SHA256: 1645f1cec303a62b6e9a2c8a294a9079a81706b198e8aa48536c2765efe20e80
+SHA512: 9187589678717c3ccfcc845f672853d64c532dc7d600602f016c159128a5053b61753657b74c85b6ee74b869735ee8640462f9e4ac82a7298f988255a8d3d43d
+Homepage: https://shenmo7192.gitee.io/
+Description: spark-wine9 ACE test package
+ spark-wine9 ACE test package
 
 Package: spark-wine10-ace
 Architecture: all
@@ -29990,18 +29990,18 @@ Description: zuoyebang
 
 Package: zotero
 Architecture: amd64
-Version: 7.0.20
+Version: 7.0.21
 Priority: optional
 Section: Office
 Maintainer: Emiliano Heyns <emiliano.heyns@iris-advies.com>
-Installed-Size: 218444
+Installed-Size: 218510
 Depends: libegl1|libwayland-egl1, libegl-mesa0, libasound2, libatk1.0-0, libc6, libcairo-gobject2, libcairo2, libdbus-1-3, libdbus-glib-1-2, libfontconfig1, libfreetype6, libglib2.0-0, libgtk-3-0, libharfbuzz0b, libpango-1.0-0, libpangocairo-1.0-0, libstdc++6, libx11-6, libx11-xcb1, libxcb-shm0, libxcb1, libxcomposite1, libxcursor1, libxdamage1, libxext6, libxfixes3, libxi6, libxrandr2, libxrender1, libxtst6, gnupg
-Filename: ./office/zotero/zotero_7.0.20_amd64.deb
-Size: 118216864
-MD5sum: 8e063d430de03c8972cd234e4fe6fe99
-SHA1: f0129fe294ec26654cadc631194fbfd39e0c639c
-SHA256: 83742d42454fbc72abd373253a129fab0c1b147025c4f49398e6721eead79647
-SHA512: 2412dbb6a8f899a28fca445c98e93a35d203fa48cfcdb2a9871cdbf0721b4c508fc1379eb3cf1b11190b406681092212f759f156ffa380bf6ed6b1be7303bbb6
+Filename: ./office/zotero/zotero_7.0.21_amd64.deb
+Size: 118281884
+MD5sum: 3f97b4c7a233fd455afc03b4ef31de00
+SHA1: 823785d389d01f15d4184093014067f03332228f
+SHA256: bca2ec195470aeaa12e68cef3eec2b3071e949c1f7f7a466e73e5a4d689fd184
+SHA512: df20ab48b59f24ec2d96a82e58d7d8976432633c9ae09b5500fa61df06c71c6b8845b317000a9c91eebaaf136aff4e651795177a2620f2a826c2601c0c21743f
 Homepage: https://www.zotero.org/
 Description: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research
 
@@ -32682,20 +32682,20 @@ Description: IDM For dwine6
 
 Package: microsoft-edge-stable
 Architecture: amd64
-Version: 138.0.3351.83-1
+Version: 138.0.3351.95-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 610453
+Installed-Size: 610587
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.83-1_amd64.deb
-Size: 186851380
-MD5sum: ba8a90bf70464802dc6e0922c57eb7d7
-SHA1: 12c0e9e5dba1548973178caae3b59956a7ca7407
-SHA256: 712078ca8d340bcd9bd6920b2b62169499ba6caaca036c7ee210a9743b5599f5
-SHA512: 3f474de4765f1f71daf32522706a3f63359c006a7275cc202dfed9be1049100608085554adc15c8225d12055227fd68019baebdbf93a4b7c816b345e4c2728b2
+Filename: ./network/microsoft-edge-stable/microsoft-edge-stable_138.0.3351.95-1_amd64.deb
+Size: 186821404
+MD5sum: d1bdf07d66cd5472182de22a9a9c54b0
+SHA1: 42f98901ee4c923a26a678a0f765404ee3f9ff37
+SHA256: fb73503690e3f671f66fc13ee2959f56a55a6c4df2a91b5254e5bc9f54427ad7
+SHA512: 0fea8922fe63e6c7d88d5a14dd188fc02444697bede474cc3bc01405f12f9ea15448f2b8299fbbdfd9a40d7504b065439be26fec056519fccb0849074aa65f7d
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34394,20 +34394,20 @@ Description: SunloginRemote-6.5.5.20079 for Linux
 
 Package: microsoft-edge-beta
 Architecture: amd64
-Version: 139.0.3405.21-1
+Version: 139.0.3405.36-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 614070
+Installed-Size: 614133
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_139.0.3405.21-1_amd64.deb
-Size: 187877896
-MD5sum: cb09b4e083ec3678cd4f2f39d5bc95c6
-SHA1: 34574f93b278873da1a6be0fbcf524b3f4418352
-SHA256: e9409d84a7f8e0e8683729c069150d5966e82ee0bfb24d32d385d482bc734f71
-SHA512: 1f29502660d349bb8ca0653babe07c518beb1cbec2702358024bb824155d7d9a10a116105fdfa8eb551dd1eb3c3cc6c31dac4b92dd36f28d8702ce2c3087d70f
+Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_139.0.3405.36-1_amd64.deb
+Size: 187896400
+MD5sum: 7b230f46226093a033c6d10c0e65df07
+SHA1: 90acde67f7056579fab50d615ac40224a534755e
+SHA256: 8cbf3779218cbe08da1cf353195f285f6b0d4cdb9d4d66914979e5f20c2b4c58
+SHA512: 103c6119e610800189843254d5f4e0b8a146c1c429e60fa51bb6dea99e174373f32d40839f59c763072ce79d9741010b74e8a38f1c8cbfb5ea8445ff861af313
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -34849,20 +34849,20 @@ Description: Popcorn-Time
 
 Package: google-chrome-stable
 Architecture: amd64
-Version: 138.0.7204.100-1
+Version: 138.0.7204.157-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 376578
+Installed-Size: 377081
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/google-chrome-stable/google-chrome-stable_138.0.7204.100-1_amd64.deb
-Size: 118049688
-MD5sum: 306b9f21ae1aed8c1ee4cc5af0cd16d9
-SHA1: e3a59a9bfbdb417574d457b0c3ccfad78fbea01a
-SHA256: 1f6d9a0d332f6d4b1b0566ac1a308fd5d50a998cc3f7fe932337c1a5a8409c0f
-SHA512: e1533a3e48dffe6bd37a7eaeeb31ee2f54cf46575e8978ab1fb9d5726f001bd53ced69926a94082100d4fcc1a509a0b7dc9d8fba7744c08d9e64ec1679e5671a
+Filename: ./network/google-chrome-stable/google-chrome-stable_138.0.7204.157-1_amd64.deb
+Size: 118188228
+MD5sum: 7e18eb992050b7c1df5ee1c2abb92f5c
+SHA1: 9e91134ee8eebbfa0cf3f8da9e34b68ee77eb47d
+SHA256: 42659ebd4e1c62651cea551b146e1b43568a16e532214a2b26330c175e1bcd9e
+SHA512: a77f69bd52fff52bdcd151dc9da8a7a8acd1831e0ff7824683ac1663b3a19281cd00dfc99c1f4c01ec8b7cab36c533a8344a6fe9bc89384fb6c34d25b92b9274
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -35518,20 +35518,20 @@ Description: QuarkPC Client on Deepin Wine8
 
 Package: google-chrome-beta
 Architecture: amd64
-Version: 139.0.7258.31-1
+Version: 139.0.7258.42-1
 Priority: optional
 Section: web
 Maintainer: Chrome Linux Team <chromium-dev@chromium.org>
-Installed-Size: 378961
+Installed-Size: 379022
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.25), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/google-chrome-beta/google-chrome-beta_139.0.7258.31-1_amd64.deb
-Size: 119005356
-MD5sum: f7ec815e050614efbc965d9f2481cc20
-SHA1: 77d345f6a36ff66d65b7784688c8643bf0a54dc9
-SHA256: d3d4ac8a15bf2882dc5dc3e27ea5310198949d42cd24431e113a927b46c1bdd5
-SHA512: 1e11db7e93f5fe0f3cc924527e87f450058b6aa47cf9b9ad00024f03256a5478e2134dcf6e6407d506b11b0374de7499feb836ec6662445f8446ddf6f38ef5df
+Filename: ./network/google-chrome-beta/google-chrome-beta_139.0.7258.42-1_amd64.deb
+Size: 118976564
+MD5sum: 4105d919184e01ece3061030ad8e611c
+SHA1: 0f8239c524f63933cedf1174c56483f5145cd47e
+SHA256: 0a81546daa2fb392f95b8924787874d41520e4d24f525049f5f66c177f6bdaf9
+SHA512: 0705077ea1f5207c0c2d3a99295c0ab5a2c536a0315b51123ae7ece4fa908d9fb18949bd6e5ef0e8d5a81e0ac76c4619bb41165e53654ea7b03ea1154e9a3f93
 Description: The web browser from Google
  Google Chrome is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -40181,7 +40181,7 @@ Description: Vim-fork focused on extensibility and usability.
 
 Package: code
 Architecture: amd64
-Version: 1.102.0-1752099874
+Version: 1.102.1-1752598717
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -40191,12 +40191,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: ./development/code/code_1.102.0-1752099874_amd64.deb
-Size: 108729110
-MD5sum: 9fa5c29508dc27a19df4fd56df8a1e54
-SHA1: 3e2ff040f619119362a032dc71b3f2093a7e0699
-SHA256: 236bee2d6d9373e779e65c62be0fcb277ac57c0acdc14f3469b148574f1232be
-SHA512: a179cc55a0ce3bbe2d33c295dd004a6c85c68e97a97f5c9efa44703b0c6b3738d3a1cec163884d517d82ab37090c074470d2c45c41c1a4a5f9a16780e3db4ace
+Filename: ./development/code/code_1.102.1-1752598717_amd64.deb
+Size: 108719178
+MD5sum: cc0bd99bc5509dcc10a39c754f70c7df
+SHA1: c9ef3944421870e163dedab1cd32f07e63a480ee
+SHA256: da0c3893d5c3a8eb85ecfc72751f969632f1afad2a8037acee5673fa2674001d
+SHA512: 44972098a8f8d6b799697abe909385c102ecdbce70dfc8d7f1e7ada35cfb82faa69ca66efdf3102ee95866bd0d49863ade4ba04cbae3f8448ebcb6eeb1bda1f3
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
@@ -41346,19 +41346,19 @@ Vendor: Ferdium Contributors <hello@ferdium.org>
 
 Package: discord
 Architecture: amd64
-Version: 0.0.101
+Version: 0.0.102
 Priority: optional
 Section: net
 Maintainer: Discord Maintainer Team <native-team@discord.com>
-Installed-Size: 263096
+Installed-Size: 263092
 Depends: libc6, libasound2, libatomic1, libnotify4, libnspr4, libnss3, libstdc++6, libxss1, libxtst6
 Recommends: libappindicator1 | libayatana-appindicator1
-Filename: ./chat/discord/discord_0.0.101_amd64.deb
-Size: 104894144
-MD5sum: 9fc100f91a02e90ef10b3a1999081383
-SHA1: 6e070263696bf5943a7794985564bebb2af1beed
-SHA256: 5c74185eab3746cc8af62cbef457092bc9a4b343ae19578a5f7496dcb289594a
-SHA512: 81e694bf1ac12c183b91cee050d70050a4a9ab2cb2176c52ca30e35b8d0ae8b33d129a6e1c5996b656cb0d75a389954488cfcc0bf7b2a08e08e176f8295c5094
+Filename: ./chat/discord/discord_0.0.102_amd64.deb
+Size: 104894332
+MD5sum: a1ad8489537229ba21bf05a331b2c6fa
+SHA1: 7babc70230ece3e5ab1988aa8e5871ea60fbf785
+SHA256: ab1655cc6493d0e126eeddc4880b2d70ffb836eb558d0b17e1dfff508725f5a4
+SHA512: f30ec360ae8ba3178f272afe36eb180bc3e5cbe52ed60b2ea0b2069d80ce0e94cfd853d3e32d65afea0026ed756a87ad4b171924e8399011a0b8384080b58a0e
 Homepage: https://discord.com
 Description: Chat for Communities and Friends
  Discord is the easiest way to communicate over voice, video, and text. Chat,

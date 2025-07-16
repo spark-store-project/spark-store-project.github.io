@@ -340,6 +340,24 @@
 
 ,
 {
+  "Author": "Deepin WINE Team and gtjdoctor@163.com",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.microsoft.paint.deepin_1.0spark2_all.deb",
+  "More": "实在不习惯使用的深度的画板工具，所以打包这个Windows的画图工具。\n1. 使用Windows Vista的画图\nWindows vista，相较于windows XP的画图工具，图标进行了改进，图形缩放工具，增加了滑块儿。\n2. 默认自动调用UOS/deepin的文件管理器\n通信的打包脚本，depin-wine5默认使用系统的文件管理器。\n3. 重新绘制了高清矢量图标\n这个有点费时间，但谁让自己有强迫症呢？使用inkscap重新绘制了适量图标，svg格式。\n更新内容：\n1、使用 spark dwine helper\n2、使用 deepin wine6 stable\n3、添加自动清理脚本",
+  "Name": "Windows Vista 画图（Wine）",
+  "Pkgname": "com.microsoft.paint.deepin",
+  "Size": "21 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.microsoft.paint.deepin_1.0spark2_all.deb.torrent",
+  "Update": "2025-01-11 13:20:13",
+  "Version": "1.0spark2",
+  "Website": "https://bbs.deepin.org/post/218516",
+  "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_3.png\"]"
+}
+
+,
+{
   "Author": "sgb76 <sgb76@163.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.jpchacha.chasysdraw.spark_5.29.01spark3_all.deb",
@@ -372,24 +390,6 @@
   "Website": "https://lceda.cn/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/cn.lceda/screen_3.png\"]"
-}
-
-,
-{
-  "Author": "Deepin WINE Team and gtjdoctor@163.com",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.microsoft.paint.deepin_1.0spark2_all.deb",
-  "More": "实在不习惯使用的深度的画板工具，所以打包这个Windows的画图工具。\n1. 使用Windows Vista的画图\nWindows vista，相较于windows XP的画图工具，图标进行了改进，图形缩放工具，增加了滑块儿。\n2. 默认自动调用UOS/deepin的文件管理器\n通信的打包脚本，depin-wine5默认使用系统的文件管理器。\n3. 重新绘制了高清矢量图标\n这个有点费时间，但谁让自己有强迫症呢？使用inkscap重新绘制了适量图标，svg格式。\n更新内容：\n1、使用 spark dwine helper\n2、使用 deepin wine6 stable\n3、添加自动清理脚本",
-  "Name": "Windows Vista 画图（Wine）",
-  "Pkgname": "com.microsoft.paint.deepin",
-  "Size": "21 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.microsoft.paint.deepin_1.0spark2_all.deb.torrent",
-  "Update": "2025-01-11 13:20:13",
-  "Version": "1.0spark2",
-  "Website": "https://bbs.deepin.org/post/218516",
-  "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.microsoft.paint.deepin/screen_3.png\"]"
 }
 
 ,
@@ -466,6 +466,21 @@
 
 ,
 {
+  "Name": "火焰截图flameshot",
+  "Version": "12.1.0-1",
+  "Filename": "flameshot_12.1.0-1_arm64.deb",
+  "Pkgname": "flameshot",
+  "Author": "Boyuan Yang <byang@debian.org>",
+  "Contributor": "wcbing <i@wcbing.top>",
+  "Website": "https://github.com/flameshot-org/flameshot",
+  "Update": "2023-05-26 23:40:29",
+  "Size": "604.00 KB",
+  "More": "好用的截图软件，支持划区截图，贴图等。",
+  "Tags": "community;debian;deepin;ubuntu;uos"
+}
+
+,
+{
   "Author": "yuntucad <yuntucad@163.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.yuntucad.cloudcad_0.0.2.1_arm64.deb",
@@ -480,21 +495,6 @@
   "Website": "<https://www.yuntucad.com>",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/image_graphics/com.yuntucad.cloudcad/screen_3.png\"]"
-}
-
-,
-{
-  "Name": "火焰截图flameshot",
-  "Version": "12.1.0-1",
-  "Filename": "flameshot_12.1.0-1_arm64.deb",
-  "Pkgname": "flameshot",
-  "Author": "Boyuan Yang <byang@debian.org>",
-  "Contributor": "wcbing <i@wcbing.top>",
-  "Website": "https://github.com/flameshot-org/flameshot",
-  "Update": "2023-05-26 23:40:29",
-  "Size": "604.00 KB",
-  "More": "好用的截图软件，支持划区截图，贴图等。",
-  "Tags": "community;debian;deepin;ubuntu;uos"
 }
 
 ,
@@ -571,24 +571,6 @@
 
 ,
 {
-    "Author": "Deepin Packages Builder <packages@deepin.com>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "gxde-image-viewer_1.5.0-1_arm64.deb",
-    "More": "GXDE 看图是 GXDE 的默认看图工具",
-    "Name": "GXDE 看图",
-    "Pkgname": "gxde-image-viewer",
-    "Size": "3849 Kb",
-    "Tags": "community;deepin;ubuntu;debian",
-    "Torrent_address": "gxde-image-viewer_1.5.0-1_arm64.deb.torrent",
-    "Update": "2025-03-04 22:36:03",
-    "Version": "1.5.0-1",
-    "Website": "http://www.deepin.org",
-    "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/gxde-image-viewer/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/gxde-image-viewer/screen_1.png\"]"
-}
-
-,
-{
     "Author": "北京大麦地信息科技有限公司 <support@processon.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "com.processon.processonmind_5.5.1.0_arm64.deb",
@@ -603,6 +585,24 @@
     "Website": "https://www.processon.com/",
     "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/com.processon.processonmind/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/com.processon.processonmind/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "Deepin Packages Builder <packages@deepin.com>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "gxde-image-viewer_1.5.0-1_arm64.deb",
+    "More": "GXDE 看图是 GXDE 的默认看图工具",
+    "Name": "GXDE 看图",
+    "Pkgname": "gxde-image-viewer",
+    "Size": "3849 Kb",
+    "Tags": "community;deepin;ubuntu;debian",
+    "Torrent_address": "gxde-image-viewer_1.5.0-1_arm64.deb.torrent",
+    "Update": "2025-03-04 22:36:03",
+    "Version": "1.5.0-1",
+    "Website": "http://www.deepin.org",
+    "icons": "https://spk-json.spark-app.store/aarch64-store/image_graphics/gxde-image-viewer/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/image_graphics/gxde-image-viewer/screen_1.png\"]"
 }
 
 ,

@@ -252,24 +252,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-store_4.8.0_loong64.deb",
-    "More": "## 更新内容\n* 支持把应用安装到指定的 ACE 兼容环境中 ( Debian 12/13/SID , deepin 23 ），支持把应用强制安装到主机，大幅提升了应用兼容能力（deepin 20/23/25 ， UOS HOME 20 21 22 ，专业版 1060+ ， Ubuntu 22.04+ ） 教程： https://wiki.spark-app.store/#/Submit/Submit?id=%e9%80%89%e6%8b%a9%e5%ba%94%e7%94%a8%e6%a0%87%e7%ad%be\n* 重写了应用投递指南 https://wiki.spark-app.store/#/Submit/Submit\n* 修复在高分屏下的tag模糊问题\n* 重写了 ssinstall 和 ssaudit ",
-    "Name": "星火应用商店",
-    "Pkgname": "spark-store",
-    "Size": "3644 Kb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "spark-store_4.8.0_loong64.deb.torrent",
-    "Update": "2025-06-15 01:19:43",
-    "Version": "4.8.0",
-    "Website": "https://www.spark-app.store/",
-    "icons": "https://spk-json.spark-app.store/loong64-store/tools/spark-store/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_3.png\",\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_4.png\"]"
-}
-
-,
-{
   "Name": "GitHub 访问加速包",
   "Version": "0.0.1-20240206",
   "Filename": "github-fast-access_0.0.1-20240206_all.deb",
@@ -284,6 +266,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7cb23da7c5c84dd3a56fe99527159868.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/b08881f8c2ea4c859fb42422748a8370.png"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-store_4.8.0_loong64.deb",
+    "More": "## 更新内容\n* 支持把应用安装到指定的 ACE 兼容环境中 ( Debian 12/13/SID , deepin 23 ），支持把应用强制安装到主机，大幅提升了应用兼容能力（deepin 20/23/25 ， UOS HOME 20 21 22 ，专业版 1060+ ， Ubuntu 22.04+ ） 教程： https://wiki.spark-app.store/#/Submit/Submit?id=%e9%80%89%e6%8b%a9%e5%ba%94%e7%94%a8%e6%a0%87%e7%ad%be\n* 重写了应用投递指南 https://wiki.spark-app.store/#/Submit/Submit\n* 修复在高分屏下的tag模糊问题\n* 重写了 ssinstall 和 ssaudit ",
+    "Name": "星火应用商店",
+    "Pkgname": "spark-store",
+    "Size": "3644 Kb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "spark-store_4.8.0_loong64.deb.torrent",
+    "Update": "2025-06-15 01:19:43",
+    "Version": "4.8.0",
+    "Website": "https://www.spark-app.store/",
+    "icons": "https://spk-json.spark-app.store/loong64-store/tools/spark-store/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_3.png\",\"https://spk-json.spark-app.store/loong64-store/tools/spark-store/screen_4.png\"]"
 }
 
 ,
@@ -486,6 +486,24 @@
 
 ,
 {
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <shenmo@spark-app.store>",
+  "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
+  "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
+  "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
+  "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
+  "Size": "3 Kb",
+  "Tags": "deepin;native",
+  "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
+  "Update": "2025-05-29 21:12:04",
+  "Version": "1.0.1-alpha-lnd25.5",
+  "Website": "https://www.loongson.cn/",
+  "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
+}
+
+,
+{
   "Name": "以管理员身份打开文件（夹）",
   "Version": "1.1.1",
   "Filename": "admin-xdg-open_1.1.1_all.deb",
@@ -515,24 +533,6 @@
   "Website": "https://toolbox.uotan.cn/",
   "icons": "https://spk-json.spark-app.store/loong64-store/tools/uotantoolbox/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/uotantoolbox/screen_1.png\"]"
-}
-
-,
-{
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <shenmo@spark-app.store>",
-  "Filename": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb",
-  "More": "本软件包从系统源自动下载，版本号无意义。\n龙芯LG110显卡为龙芯7A2000桥片集成的显卡，具有自主知识产权，是目前唯一一个可在龙芯新世界平台上具有新世界驱动程序的显卡。\n不排除该驱动程序日后可兼容更强劲的龙芯显卡。",
-  "Name": "龙芯集成显卡LG110驱动程序（系统源版）",
-  "Pkgname": "store.spark-app.appwrapper.loonggpu-driver",
-  "Size": "3 Kb",
-  "Tags": "deepin;native",
-  "Torrent_address": "store.spark-app.appwrapper.loonggpu-driver_1.0.1-alpha-lnd25.5_all.deb.torrent",
-  "Update": "2025-05-29 21:12:04",
-  "Version": "1.0.1-alpha-lnd25.5",
-  "Website": "https://www.loongson.cn/",
-  "icons": "https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/store.spark-app.appwrapper.loonggpu-driver/screen_1.png\"]"
 }
 
 ,
@@ -645,24 +645,6 @@
 
 ,
 {
-  "Name": "Bandizip",
-  "Version": "7.32spark0",
-  "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
-  "Torrent_address": "com.bandisoft.bandizip.spark_7.32spark0_all.deb.torrent",
-  "Pkgname": "com.bandisoft.bandizip.spark",
-  "Author": "Bandisoft International Inc.",
-  "Contributor": "sgb76",
-  "Website": "http://www.bandisoft.com/bandizip/",
-  "Update": "2023-12-02 19:34:55",
-  "Size": "24.01 MB",
-  "More": "一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。",
-  "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
@@ -695,6 +677,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
+}
+
+,
+{
+  "Name": "Bandizip",
+  "Version": "7.32spark0",
+  "Filename": "com.bandisoft.bandizip.spark_7.32spark0_all.deb",
+  "Torrent_address": "com.bandisoft.bandizip.spark_7.32spark0_all.deb.torrent",
+  "Pkgname": "com.bandisoft.bandizip.spark",
+  "Author": "Bandisoft International Inc.",
+  "Contributor": "sgb76",
+  "Website": "http://www.bandisoft.com/bandizip/",
+  "Update": "2023-12-02 19:34:55",
+  "Size": "24.01 MB",
+  "More": "一个强大的多功能压缩文件管理工具，可提供很快的解压缩速度和其他各种实用功能。",
+  "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/9dff3e503b3a44a0bb9ec82c4e4d7584.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/6a857f372489469fbc32403a8a1eab3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/02/8ff96b2f8ee0411ea7b5adec5ef06024.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/02/f232b3707a404dfeb7bd03ade2834732.png"
 }
 
 ,
@@ -1148,6 +1148,24 @@
 
 ,
 {
+    "Author": "liweitao <liweitao@loongson.cn>",
+    "Contributor": "liweitao <liweitao@loongson.cn>",
+    "Filename": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb",
+    "More": "VBIOS(Video BIOS)是显卡的 BIOS,VBIOS 提供显示芯片的配置参数信息,包括显示卡型号、规格、生产厂家、出厂时间、硬件配置,显示芯片与外围器件的连接关系等信息。VBIOS 的作用是隔离龙芯主板的设计差异,保证内核驱动代码的稳定。VBIOS 目前用于龙芯显卡驱动的配置,龙芯内核显示驱动通过解析 VBIOS固件中的硬件信息,配置,代码等内容完成驱动的初始化。由内核驱动和 VBIOS固件共同控制龙芯显卡,实现显示,背光调节,渲染等功能。",
+    "Name": "龙芯vbios2.1生成工具",
+    "Pkgname": "loongson-vbios-creator",
+    "Size": "867 Kb",
+    "Tags": "deepin;ubuntu;debian;native",
+    "Torrent_address": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb.torrent",
+    "Update": "2025-07-13 11:49:46",
+    "Version": "2.1.0-1.lnd.1",
+    "Website": "http://www.loongnix.org/index.php/%E2%98%85_Loongson-vbios-creator",
+    "icons": "https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/screen_1.png\"]"
+}
+
+,
+{
   "Author": "”daya” <”admin@yzzi.top”>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "top.yzzi.supertabbar_0.1.0_loong64.deb",
@@ -1234,24 +1252,6 @@
   "Tags": "community;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
-}
-
-,
-{
-    "Author": "liweitao <liweitao@loongson.cn>",
-    "Contributor": "liweitao <liweitao@loongson.cn>",
-    "Filename": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb",
-    "More": "VBIOS(Video BIOS)是显卡的 BIOS,VBIOS 提供显示芯片的配置参数信息,包括显示卡型号、规格、生产厂家、出厂时间、硬件配置,显示芯片与外围器件的连接关系等信息。VBIOS 的作用是隔离龙芯主板的设计差异,保证内核驱动代码的稳定。VBIOS 目前用于龙芯显卡驱动的配置,龙芯内核显示驱动通过解析 VBIOS固件中的硬件信息,配置,代码等内容完成驱动的初始化。由内核驱动和 VBIOS固件共同控制龙芯显卡,实现显示,背光调节,渲染等功能。",
-    "Name": "龙芯vbios2.1生成工具",
-    "Pkgname": "loongson-vbios-creator",
-    "Size": "867 Kb",
-    "Tags": "deepin;ubuntu;debian;native",
-    "Torrent_address": "loongson-vbios-creator_2.1.0-1.lnd.1_loong64.deb.torrent",
-    "Update": "2025-07-13 11:49:46",
-    "Version": "2.1.0-1.lnd.1",
-    "Website": "http://www.loongnix.org/index.php/%E2%98%85_Loongson-vbios-creator",
-    "icons": "https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/tools/loongson-vbios-creator/screen_1.png\"]"
 }
 
 ,

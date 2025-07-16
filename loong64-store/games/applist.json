@@ -90,24 +90,6 @@
 
 ,
 {
-  "Author": "gfdgd xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.pvzhz.spark_2.3spark0_all.deb",
-  "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up\n更换为支持 3d 加速的容器，兼容旧版本存档",
-  "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
-  "Pkgname": "com.pvzhz.spark",
-  "Size": "341 Mb",
-  "Tags": "deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.pvzhz.spark_2.3spark0_all.deb.torrent",
-  "Update": "2024-07-29 14:16:05",
-  "Version": "2.3spark0",
-  "Website": "https://space.bilibili.com/97213827",
-  "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/screen_2.png\"]"
-}
-
-,
-{
   "Author": "shiroko <hanhaoxuan@uniontech.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "com.mihoyo.ys-cloud_1.0.0_loong64.deb",
@@ -122,6 +104,24 @@
   "Website": "https://ys.mihoyo.com/cloud/",
   "icons": "https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/com.mihoyo.ys-cloud/screen_3.png\"]"
+}
+
+,
+{
+  "Author": "gfdgd xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.pvzhz.spark_2.3spark0_all.deb",
+  "More": "一个植物大战僵尸改版\n详细可见：https://www.bilibili.com/video/BV15z42127up\n更换为支持 3d 加速的容器，兼容旧版本存档",
+  "Name": "植物大战僵尸杂交版（潜艇伟伟迷）（Wine）",
+  "Pkgname": "com.pvzhz.spark",
+  "Size": "341 Mb",
+  "Tags": "deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.pvzhz.spark_2.3spark0_all.deb.torrent",
+  "Update": "2024-07-29 14:16:05",
+  "Version": "2.3spark0",
+  "Website": "https://space.bilibili.com/97213827",
+  "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.pvzhz.spark/screen_2.png\"]"
 }
 
 ,
@@ -144,20 +144,20 @@
 
 ,
 {
-  "Author": "gfdgd_xi <3025613752@qq.com>",
-  "Contributor": "gfdgd-xi <3025613752@qq.com>",
-  "Filename": "spark-windows-zhi-pai_5.1.2600.0spark1_all.deb",
-  "More": "Windows 纸牌 For Deepin Wine6 Stable",
-  "Name": "Windows 纸牌（Wine）",
-  "Pkgname": "spark-windows-zhi-pai",
-  "Size": "8410 Kb",
-  "Tags": "debian;deepin;dwine5;ubuntu;uos",
-  "Torrent_address": "spark-windows-zhi-pai_5.1.2600.0spark1_all.deb.torrent",
-  "Update": "2024-05-02 07:37:26",
-  "Version": "5.1.2600.0spark1",
-  "Website": "https://www.microsoft.com",
-  "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/games/spark-windows-zhi-pai/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/spark-windows-zhi-pai/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/spark-windows-zhi-pai/screen_2.png\"]"
+  "Author": "shenmo <shenmo@spark-app.store>",
+  "Contributor": "shenmo <shenmo@spark-app.store>",
+  "Filename": "com.deepin.redalert2_2.1_plus_6_all.deb",
+  "More": "注意事项：如果打开游戏后解析度不合适，请执行nano  /home/${USER}/.deepinwine/Wine-RedAlert2/drive_c/Program\\ Files/Command\\ and\\ Conquer\\ Red\\ Alert\\ 2/RA2.INI，将ScreenWidth=1600和ScreenHeight=900改成你萤幕的解析度。\n\n注意事项：如果打开游戏后解析度不合适，请执行nano  /home/${USER}/.deepinwine/Wine-RedAlert2/drive_c/Program\\ Files/Command\\ and\\ Conquer\\ Red\\ Alert\\ 2/RA2MD.INI，将ScreenWidth=1600和ScreenHeight=900改成你萤幕的解析度。",
+  "Name": "终极动员令：红色警戒2",
+  "Pkgname": "com.deepin.redalert2",
+  "Size": "1482 Mb",
+  "Tags": "community;deepin;uos;ubuntu;dwine5;debian",
+  "Torrent_address": "com.deepin.redalert2_2.1_plus_6_all.deb.torrent",
+  "Update": "2025-01-11 18:41:38",
+  "Version": "2.1+6",
+  "Website": "https://www.ea.com/",
+  "icons": "https://spk-json.spark-app.store/loong64-store/games/com.deepin.redalert2/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/com.deepin.redalert2/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/com.deepin.redalert2/screen_2.png\"]"
 }
 
 ,
@@ -180,20 +180,20 @@
 
 ,
 {
-  "Author": "shenmo <shenmo@spark-app.store>",
-  "Contributor": "shenmo <shenmo@spark-app.store>",
-  "Filename": "com.deepin.redalert2_2.1_plus_6_all.deb",
-  "More": "注意事项：如果打开游戏后解析度不合适，请执行nano  /home/${USER}/.deepinwine/Wine-RedAlert2/drive_c/Program\\ Files/Command\\ and\\ Conquer\\ Red\\ Alert\\ 2/RA2.INI，将ScreenWidth=1600和ScreenHeight=900改成你萤幕的解析度。\n\n注意事项：如果打开游戏后解析度不合适，请执行nano  /home/${USER}/.deepinwine/Wine-RedAlert2/drive_c/Program\\ Files/Command\\ and\\ Conquer\\ Red\\ Alert\\ 2/RA2MD.INI，将ScreenWidth=1600和ScreenHeight=900改成你萤幕的解析度。",
-  "Name": "终极动员令：红色警戒2",
-  "Pkgname": "com.deepin.redalert2",
-  "Size": "1482 Mb",
-  "Tags": "community;deepin;uos;ubuntu;dwine5;debian",
-  "Torrent_address": "com.deepin.redalert2_2.1_plus_6_all.deb.torrent",
-  "Update": "2025-01-11 18:41:38",
-  "Version": "2.1+6",
-  "Website": "https://www.ea.com/",
-  "icons": "https://spk-json.spark-app.store/loong64-store/games/com.deepin.redalert2/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/com.deepin.redalert2/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/com.deepin.redalert2/screen_2.png\"]"
+  "Author": "gfdgd_xi <3025613752@qq.com>",
+  "Contributor": "gfdgd-xi <3025613752@qq.com>",
+  "Filename": "spark-windows-zhi-pai_5.1.2600.0spark1_all.deb",
+  "More": "Windows 纸牌 For Deepin Wine6 Stable",
+  "Name": "Windows 纸牌（Wine）",
+  "Pkgname": "spark-windows-zhi-pai",
+  "Size": "8410 Kb",
+  "Tags": "debian;deepin;dwine5;ubuntu;uos",
+  "Torrent_address": "spark-windows-zhi-pai_5.1.2600.0spark1_all.deb.torrent",
+  "Update": "2024-05-02 07:37:26",
+  "Version": "5.1.2600.0spark1",
+  "Website": "https://www.microsoft.com",
+  "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/games/spark-windows-zhi-pai/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/spark-windows-zhi-pai/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/spark-windows-zhi-pai/screen_2.png\"]"
 }
 
 ,
@@ -234,24 +234,6 @@
 
 ,
 {
-  "Author": "liuminghang  <liuminghang0821@gmail.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "minesweep_1.0.1_loong64.deb",
-  "More": "经典扫雷",
-  "Name": "扫雷",
-  "Pkgname": "minesweep",
-  "Size": "23 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos",
-  "Torrent_address": "minesweep_1.0.1_loong64.deb.torrent",
-  "Update": "2024-03-24 22:10:20",
-  "Version": "1.0.1",
-  "Website": "minesweep",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/games/minesweep/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_5.png\"]"
-}
-
-,
-{
   "Author": "gfdgd_xi",
   "Contributor": "gfdgd-xi <3025613752@qq.com>",
   "Filename": "com.zhizhuzhipai.spark_5.1.2600.5512spark1_all.deb",
@@ -266,6 +248,24 @@
   "Website": "https://www.microsoft.com",
   "icons": "https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.zhizhuzhipai.spark/icon.png",
   "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.zhizhuzhipai.spark/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.zhizhuzhipai.spark/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.zhizhuzhipai.spark/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/loong64-store/games/com.zhizhuzhipai.spark/screen_4.png\"]"
+}
+
+,
+{
+  "Author": "liuminghang  <liuminghang0821@gmail.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "minesweep_1.0.1_loong64.deb",
+  "More": "经典扫雷",
+  "Name": "扫雷",
+  "Pkgname": "minesweep",
+  "Size": "23 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos",
+  "Torrent_address": "minesweep_1.0.1_loong64.deb.torrent",
+  "Update": "2024-03-24 22:10:20",
+  "Version": "1.0.1",
+  "Website": "minesweep",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/games/minesweep/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/games/minesweep/screen_5.png\"]"
 }
 
 ,
@@ -374,6 +374,42 @@
 
 ,
 {
+  "Author": "联想(北京)有限公司软件事业部，杀毒软件吧",
+  "Contributor": "联想(北京)有限公司软件事业部，杀毒软件吧",
+  "Filename": "gobang-legend_1.1_all.deb",
+  "More": "这是联想幸福1+1版随机附赠的一款游戏",
+  "Name": "五子棋（联想幸福1+1版）",
+  "Pkgname": "gobang-legend",
+  "Size": "54 Mb",
+  "Tags": "community;debian;deepin;dwine2;dwine5;ubuntu;uos",
+  "Torrent_address": "gobang-legend_1.1_all.deb.torrent",
+  "Update": "2024-08-31 20:31:33",
+  "Version": "1.1",
+  "Website": "",
+  "icons": "https://spk-json.spark-app.store/loong64-store/games/gobang-legend/icon.png",
+  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/gobang-legend/screen_1.png\"]"
+}
+
+,
+{
+    "Author": "杀毒软件吧",
+    "Contributor": "杀毒软件吧",
+    "Filename": "web-start.qq.com_1.0_all.deb",
+    "More": "这是一个基于星火网页应用框架的应用，版本号无意义。\n云游戏确实是缓解Linux应用生态的一种好手段",
+    "Name": "腾讯START云游戏",
+    "Pkgname": "web-start.qq.com",
+    "Size": "12 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "web-start.qq.com_1.0_all.deb.torrent",
+    "Update": "2025-05-01 00:17:53",
+    "Version": "1.0",
+    "Website": "https://start.qq.com/webgame/home",
+    "icons": "https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/screen_1.png\"]"
+}
+
+,
+{
   "Author": "AQUAPLUS/Leaf",
   "Contributor": "白色相簿2吧",
   "Filename": "wa2mas-wine_1.0_all.deb",
@@ -392,20 +428,20 @@
 
 ,
 {
-  "Author": "联想(北京)有限公司软件事业部，杀毒软件吧",
-  "Contributor": "联想(北京)有限公司软件事业部，杀毒软件吧",
-  "Filename": "gobang-legend_1.1_all.deb",
-  "More": "这是联想幸福1+1版随机附赠的一款游戏",
-  "Name": "五子棋（联想幸福1+1版）",
-  "Pkgname": "gobang-legend",
-  "Size": "54 Mb",
-  "Tags": "community;debian;deepin;dwine2;dwine5;ubuntu;uos",
-  "Torrent_address": "gobang-legend_1.1_all.deb.torrent",
-  "Update": "2024-08-31 20:31:33",
-  "Version": "1.1",
-  "Website": "",
-  "icons": "https://spk-json.spark-app.store/loong64-store/games/gobang-legend/icon.png",
-  "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/gobang-legend/screen_1.png\"]"
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <shenmo@spark-app.store>",
+    "Filename": "netease-cloudgame_1.6_loong64.deb",
+    "More": "网易云游戏，使用swrt（星火网络应用运行环境）打包\n网易游戏推出的云游戏服务平台,通过平台的云游戏技术和服务器资源让玩家畅玩游戏",
+    "Name": "网易云游戏",
+    "Pkgname": "netease-cloudgame",
+    "Size": "16 Kb",
+    "Tags": "community;deepin",
+    "Torrent_address": "netease-cloudgame_1.6_loong64.deb.torrent",
+    "Update": "2025-04-29 21:00:47",
+    "Version": "1.6",
+    "Website": "https://cg.163.com/",
+    "icons": "https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_3.png\",\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_4.png\"]"
 }
 
 ,
@@ -446,24 +482,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <shenmo@spark-app.store>",
-    "Filename": "netease-cloudgame_1.6_loong64.deb",
-    "More": "网易云游戏，使用swrt（星火网络应用运行环境）打包\n网易游戏推出的云游戏服务平台,通过平台的云游戏技术和服务器资源让玩家畅玩游戏",
-    "Name": "网易云游戏",
-    "Pkgname": "netease-cloudgame",
-    "Size": "16 Kb",
-    "Tags": "community;deepin",
-    "Torrent_address": "netease-cloudgame_1.6_loong64.deb.torrent",
-    "Update": "2025-04-29 21:00:47",
-    "Version": "1.6",
-    "Website": "https://cg.163.com/",
-    "icons": "https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_3.png\",\"https://spk-json.spark-app.store/loong64-store/games/netease-cloudgame/screen_4.png\"]"
-}
-
-,
-{
   "Author": "anima <402844767@139.com>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "zuma-luxury.spark_1.0.0.2spark0_all.deb",
@@ -478,6 +496,24 @@
   "Website": " ",
   "icons": "https://spk-json.spark-app.store/store/games/zuma-luxury.spark/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/games/zuma-luxury.spark/screen_1.png\",\"https://spk-json.spark-app.store/store/games/zuma-luxury.spark/screen_2.png\"]"
+}
+
+,
+{
+    "Author": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
+    "Filename": "xash3d-games_49.0.21_loong64.deb",
+    "More": "  Use XASH3D to play half-life or Counter Strike\n基于XASH3D在龙芯平台原生运行半条命和反恐精英1.6",
+    "Name": "半条命/反恐精英1.6(half-life/Counter Strike)",
+    "Pkgname": "xash3d-games",
+    "Size": "482 Mb",
+    "Tags": "community;deepin;debian",
+    "Torrent_address": "xash3d-games_49.0.21_loong64.deb.torrent",
+    "Update": "2025-06-03 18:10:31",
+    "Version": "49.0.21",
+    "Website": "https://github.com/FWGS/xash3d-fwgs",
+    "icons": "https://spk-json.spark-app.store/loong64-store/games/xash3d-games/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_3.png\"]"
 }
 
 ,
@@ -500,24 +536,6 @@
 
 ,
 {
-    "Author": "杀毒软件吧",
-    "Contributor": "杀毒软件吧",
-    "Filename": "web-start.qq.com_1.0_all.deb",
-    "More": "这是一个基于星火网页应用框架的应用，版本号无意义。\n云游戏确实是缓解Linux应用生态的一种好手段",
-    "Name": "腾讯START云游戏",
-    "Pkgname": "web-start.qq.com",
-    "Size": "12 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "web-start.qq.com_1.0_all.deb.torrent",
-    "Update": "2025-05-01 00:17:53",
-    "Version": "1.0",
-    "Website": "https://start.qq.com/webgame/home",
-    "icons": "https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/web-start.qq.com/screen_1.png\"]"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.supertuxkart_1.4_plus_dfsg-2_all.deb",
@@ -532,24 +550,6 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/games/store.spark-app.appwrapper.supertuxkart/screen_1.png\"]"
-}
-
-,
-{
-    "Author": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Contributor": "Elysia <39023210+elysia-best@users.noreply.github.com>",
-    "Filename": "xash3d-games_49.0.21_loong64.deb",
-    "More": "  Use XASH3D to play half-life or Counter Strike\n基于XASH3D在龙芯平台原生运行半条命和反恐精英1.6",
-    "Name": "半条命/反恐精英1.6(half-life/Counter Strike)",
-    "Pkgname": "xash3d-games",
-    "Size": "482 Mb",
-    "Tags": "community;deepin;debian",
-    "Torrent_address": "xash3d-games_49.0.21_loong64.deb.torrent",
-    "Update": "2025-06-03 18:10:31",
-    "Version": "49.0.21",
-    "Website": "https://github.com/FWGS/xash3d-fwgs",
-    "icons": "https://spk-json.spark-app.store/loong64-store/games/xash3d-games/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/games/xash3d-games/screen_3.png\"]"
 }
 
 ,

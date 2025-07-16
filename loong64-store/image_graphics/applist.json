@@ -126,24 +126,6 @@
 
 ,
 {
-  "Author": "leijie <leijie@zwcad.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "com.zwsoft.zwcad2024_24.1.3.4_loong64.deb",
-  "More": "ZWCAD2024 Linux是ZWSOFT研发的计算机辅助设计软件。",
-  "Name": "中望 CAD 2024",
-  "Pkgname": "com.zwsoft.zwcad2024",
-  "Size": "175 Mb",
-  "Tags": "deepin;uos;ubuntu;debian",
-  "Torrent_address": "com.zwsoft.zwcad2024_24.1.3.4_loong64.deb.torrent",
-  "Update": "2024-03-24 14:39:05",
-  "Version": "24.1.3.4",
-  "Website": "https://www.zwsoft.cn",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_4.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "store.spark-app.ace.blender_12.7.0-loong1_loong64.deb",
@@ -158,6 +140,24 @@
     "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
     "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace.blender/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace.blender/screen_1.png\"]"
+}
+
+,
+{
+  "Author": "leijie <leijie@zwcad.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "com.zwsoft.zwcad2024_24.1.3.4_loong64.deb",
+  "More": "ZWCAD2024 Linux是ZWSOFT研发的计算机辅助设计软件。",
+  "Name": "中望 CAD 2024",
+  "Pkgname": "com.zwsoft.zwcad2024",
+  "Size": "175 Mb",
+  "Tags": "deepin;uos;ubuntu;debian",
+  "Torrent_address": "com.zwsoft.zwcad2024_24.1.3.4_loong64.deb.torrent",
+  "Update": "2024-03-24 14:39:05",
+  "Version": "24.1.3.4",
+  "Website": "https://www.zwsoft.cn",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/image_graphics/com.zwsoft.zwcad2024/screen_4.png\"]"
 }
 
 ,
@@ -378,6 +378,24 @@
 
 ,
 {
+    "Author": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
+    "Contributor": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
+    "Filename": "store.spark-app.ace-bookworm.geogebra_4.0.34.0+dfsg1-9_all.deb",
+    "More": "本包为ACE环境下自动从源安装包，版本号无意义。\\nGeoGebra 并非仅仅是一套免费的数学工具, 它更是一个平台. 这个平台旨在连接满怀热情的教师与学生, 为他们提供一种崭新的数学探索与学习方式.",
+    "Name": "GeoGebra数学绘图软件（ACE-Bookworm）",
+    "Pkgname": "store.spark-app.ace-bookworm.geogebra",
+    "Size": "1 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "store.spark-app.ace-bookworm.geogebra_4.0.34.0+dfsg1-9_all.deb.torrent",
+    "Update": "2025-03-19 09:00:08",
+    "Version": "4.0.34.0+dfsg1-9",
+    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
+    "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/screen_3.png\"]"
+}
+
+,
+{
   "Name": "汉王 PDF OCR（Wine）",
   "Version": "8.1.4.16deepin4",
   "Filename": "com.hwpdfocr.spark_8.1.4.16deepin4_all.deb",
@@ -428,24 +446,6 @@
     "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
     "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-wrapper.krita/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-wrapper.krita/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-wrapper.krita/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-wrapper.krita/screen_3.png\"]"
-}
-
-,
-{
-    "Author": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
-    "Contributor": "Debian Java Maintainers <pkg-java-maintainers@lists.alioth.debian.org>",
-    "Filename": "store.spark-app.ace-bookworm.geogebra_4.0.34.0+dfsg1-9_all.deb",
-    "More": "本包为ACE环境下自动从源安装包，版本号无意义。\\nGeoGebra 并非仅仅是一套免费的数学工具, 它更是一个平台. 这个平台旨在连接满怀热情的教师与学生, 为他们提供一种崭新的数学探索与学习方式.",
-    "Name": "GeoGebra数学绘图软件（ACE-Bookworm）",
-    "Pkgname": "store.spark-app.ace-bookworm.geogebra",
-    "Size": "1 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "store.spark-app.ace-bookworm.geogebra_4.0.34.0+dfsg1-9_all.deb.torrent",
-    "Update": "2025-03-19 09:00:08",
-    "Version": "4.0.34.0+dfsg1-9",
-    "Website": "https://gitee.com/spark-building-service/ace-host-package-creator",
-    "icons": "https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/screen_1.png\",\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/screen_2.png\",\"https://spk-json.spark-app.store/loong64-store/image_graphics/store.spark-app.ace-bookworm.geogebra/screen_3.png\"]"
 }
 
 ,

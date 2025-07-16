@@ -485,27 +485,6 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  API calls using their Unix or X11 equivalents.  The library may also
  be used for porting Win32 code into native Unix executables.
 
-Package: spark-wine10-wow-ace
-Architecture: all
-Version: 10.5-spark-5
-Priority: optional
-Section: utils
-Maintainer: shenmo <jifengshenmo@outlook.com>
-Installed-Size: 36
-Provides: spark-wine10-wow(>=10.5-spark-5)
-Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
-Conflicts: spark-wine10-wow
-Replaces: spark-wine10-wow
-Filename: ./depends/spark-wine/wine10/spark-wine10-wow-ace_10.5-spark-5_all.deb
-Size: 1800
-MD5sum: 54155c523a1a73fc09c213952ccc4f9a
-SHA1: ccd94109c576a1e3fc6bf1390a61062c97a5abd9
-SHA256: c9ee79c0420f13e2bb008120dd03795ed82366fd2d51a505674ca1c91c6ca803
-SHA512: 0bba534befd1f8493e3740ce2c1dc2ea935b0b12b31040bbd160bf0b0dc3142234298ee3300afa3d3509823718e020bc35774b90a444c7afa7cbf98258b9b744
-Homepage: https://shenmo7192.gitee.io/
-Description: spark-wine9 ACE test package
- spark-wine9 ACE test package
-
 Package: spark-wine-wow
 Architecture: all
 Version: 10.12-spark-2
@@ -570,6 +549,27 @@ Description: WINE Is Not An Emulator - runs MS Windows programs
  Windows binary, and a library (called Winelib) that implements Windows
  API calls using their Unix or X11 equivalents.  The library may also
  be used for porting Win32 code into native Unix executables.
+
+Package: spark-wine10-wow-ace
+Architecture: all
+Version: 10.12-spark-2
+Priority: optional
+Section: utils
+Maintainer: shenmo <jifengshenmo@outlook.com>
+Installed-Size: 36
+Provides: spark-wine10-wow(=10.12-spark-2)
+Depends: cn.flamescion.bookworm-compatibility-mode,bash,wget,sudo,libnotify-bin
+Conflicts: spark-wine10-wow
+Replaces: spark-wine10-wow
+Filename: ./depends/spark-wine/wine10/spark-wine10-wow-ace_10.12-spark-2_all.deb
+Size: 1804
+MD5sum: 00631527e0476b14fc978bf2a62b0d8c
+SHA1: 2961c6af60acbd37a55cfbd5aa5957a0f60e1d0a
+SHA256: 1645f1cec303a62b6e9a2c8a294a9079a81706b198e8aa48536c2765efe20e80
+SHA512: 9187589678717c3ccfcc845f672853d64c532dc7d600602f016c159128a5053b61753657b74c85b6ee74b869735ee8640462f9e4ac82a7298f988255a8d3d43d
+Homepage: https://shenmo7192.gitee.io/
+Description: spark-wine9 ACE test package
+ spark-wine9 ACE test package
 
 Package: spark-wine
 Architecture: all
@@ -12865,7 +12865,7 @@ Vendor: Codemao Ltd
 
 Package: code
 Architecture: arm64
-Version: 1.102.0-1752099871
+Version: 1.102.1-1752598707
 Priority: optional
 Section: devel
 Maintainer: Microsoft Corporation <vscode-linux@microsoft.com>
@@ -12875,12 +12875,12 @@ Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3),
 Recommends: libvulkan1
 Conflicts: visual-studio-code
 Replaces: visual-studio-code
-Filename: ./development/code/code_1.102.0-1752099871_arm64.deb
-Size: 100498766
-MD5sum: d3e3bedebc68e7748ffb0e4b319ac80b
-SHA1: e06dc3bee24eb5ca99e6b14c7e74cc574ca97238
-SHA256: c5011e6d752e14cd2d9951632ff0106196654873725d9b3af1f59de3755e0394
-SHA512: b10c5f5709d795ee6c73352d7263e53e5b9aa12c78c8254d9cc9e0c935756967c4e841d05d4d3903c563553ed1d11f41826b41e1653a95dc2b09309befcb505e
+Filename: ./development/code/code_1.102.1-1752598707_arm64.deb
+Size: 100499574
+MD5sum: aa700bc7e6e93452944cb756aaa46236
+SHA1: 1eba2078da157257652cf6e21334443e7e6878ee
+SHA256: b89a3ad40f89eea0b354a73f93b1a5d77eacdcc04adfeebd2c8fc4365ef1b6a3
+SHA512: 989e3421070c25929d7be21016237bf5bd029a0951bc9192c4554dbca6d86406dff695f2953a4ea47fa582566de512d4978dfbb5829b7c46e938eabfd52e2dba
 Homepage: https://code.visualstudio.com/
 Description: Code editing. Redefined.
  Visual Studio Code is a new choice of tool that combines the simplicity of
