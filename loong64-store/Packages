@@ -5793,18 +5793,18 @@ Description: GNU Image Manipulation Program
 
 Package: cn.photosir.himirage
 Architecture: loong64
-Version: 2.0.7.31228
+Version: 2.0.7.40408
 Priority: optional
 Section: utils
 Maintainer: weizuxing <weizuxing@photosir.cn>
-Installed-Size: 545079
-Depends: liblol, deepin-elf-verify (>= 1.1.10-1),libwebp6
-Filename: ./image_graphics/cn.photosir.himirage/cn.photosir.himirage_2.0.7.31228_loong64.deb
-Size: 196571668
-MD5sum: 59f5cadae2dfbcd0025da3a7c8326f5a
-SHA1: a308d51a2e860ba79aaf5f635a9e085a3ee82d80
-SHA256: 572ab647c2254106e4136c59f06d53b8911a788910a0a938c02dbd9acbbd14e5
-SHA512: ee25a4de02cf9ab78782c9d530ae7c2d2719ec4a9767c62a280ee81ba2c045043912e73d8a13e6fec3e8218339957a9de6d22850b5f8afe6ef435f83ac8c60d0
+Installed-Size: 560744
+Depends: liblol, liblol-dkms
+Filename: ./image_graphics/cn.photosir.himirage/cn.photosir.himirage_2.0.7.40408_loong64.deb
+Size: 201324268
+MD5sum: 308d68e5b81f7233ae8520741a144420
+SHA1: 5f55da07757e4090080e5179764aee0f796a27ff
+SHA256: 6b46153177572011bf45d0e9faa2859b08b89ae03cdaba2fb70229a27504296c
+SHA512: 58d571a5d36cd47f7136116615019136111bb0214914502935b434b1b97dca22d8b1a7bb9f4fb01dc143d81b89a7d8a56b265e01cf864ac515073b62c95195c4
 Homepage: https://www.photosir.com
 Description: 悟空图像是一款多功能图像处理软件。
 
@@ -11812,22 +11812,22 @@ Description: Decompiler and editor of Flash SWF files
 
 Package: loongblock
 Architecture: loong64
-Version: 0.1.1-8
+Version: 1.0.0-lnd.edu1
 Priority: optional
 Section: Network
-Maintainer: mahaofeng@loongson.cn
-Installed-Size: 704912
+Maintainer: xiahaoyuan@loongson.cn
+Installed-Size: 1269120
 Provides: scratch-ls,scratch-loongson
 Depends: libqt5websockets5,libqt5serialport5,libqt5widgets5,libqt5gui5,libqt5network5,libqt5xml5,libqt5core5a,libgl1,liblol,liblol-dkms
 Conflicts: scratch-ls,scratch-loongson
 Replaces: scratch-ls,scratch-loongson
-Filename: ./development/loongblock/loongblock_0.1.1-8_loong64.deb
-Size: 433196040
-MD5sum: a6a5e10c05c803589d56f6b0b6e5ee55
-SHA1: c7b00e227d274d9a5865c56972e8196252209d6f
-SHA256: f17eca0867d9f7caca9ed83f1ebe125b3fd6063f030b098120382a5478a3e725
-SHA512: c6338a9df942fb07243ca1fd3e1fde946c453e5617ab33f3d2aedad0fe0dafab12cf305077816b181f5695ec391de788ff17cd55d9abd8516a905892ceb9ce76
-Description: LoongBlock for Loongson
+Filename: ./development/loongblock/loongblock_1.0.0-lnd.edu1_loong64.deb
+Size: 508318660
+MD5sum: b2a1889d3d44064c5f33f699168b2385
+SHA1: 79287002e00f6eeb7f898a7031b1de520749ff7d
+SHA256: 0bb60bc06b3d5dcb4707c18fbd8554920035623dd3be66558595ab65c47a3bf8
+SHA512: fc15f80bcdd950d35ad17c9db069f021f5beacb71fb038b3ce7fd0adbaff015de67cc37ba2f7e710e09db4b5058e2ec328a25011f9c9caf16f367771a33b10da
+Description: loongblock for loongson
 
 Package: deepin-unioncode
 Architecture: loong64

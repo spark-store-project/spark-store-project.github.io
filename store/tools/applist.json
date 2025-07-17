@@ -948,24 +948,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
-    "More": "支持启动Wine\n修复 Scale 问题",
-    "Name": "星火Wine应用启动器",
-    "Pkgname": "spark-dwine-helper",
-    "Size": "450 Kb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "spark-dwine-helper_5.10.8-5.3.14_all.deb.torrent",
-    "Update": "2025-06-24 00:04:07",
-    "Version": "5.10.8-5.3.14",
-    "Website": "https://gitee.com/deepin-community-store/spark-wine",
-    "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
-,
-{
   "Name": "WIFI热点",
   "Version": "4.7.2",
   "Filename": "linux-wifi-hotspot_4.7.2_amd64.deb",
@@ -980,6 +962,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/0cd3b546336148ab9af8b0b5a587f754.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/3c1587ce6f9540e0b865608af6621abe.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/07/d448585c408f41b0b5b8a5327d3ceab8.png"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
+    "More": "支持启动Wine\n修复 Scale 问题",
+    "Name": "星火Wine应用启动器",
+    "Pkgname": "spark-dwine-helper",
+    "Size": "450 Kb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "spark-dwine-helper_5.10.8-5.3.14_all.deb.torrent",
+    "Update": "2025-06-24 00:04:07",
+    "Version": "5.10.8-5.3.14",
+    "Website": "https://gitee.com/deepin-community-store/spark-wine",
+    "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
 ,
@@ -1374,24 +1374,6 @@
 
 ,
 {
-  "Name": "DDE Top Panel 顶栏程序",
-  "Version": "0.6.8",
-  "Filename": "dde-top-panel_0.6.8_amd64.deb",
-  "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
-  "Pkgname": "dde-top-panel",
-  "Author": "SeptemberHX",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "https://github.com/SeptemberHX/dde-top-panel",
-  "Update": "2023-02-12 12:59:59",
-  "Size": "7.84 MB",
-  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
-  "Tags": "community;deepin;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
-}
-
-,
-{
   "Name": "Scrcpy安卓手机投屏",
   "Version": "2.4+szbt4",
   "Filename": "scrcpy.genymobile.github_2.4_plus_szbt4_amd64.deb",
@@ -1406,6 +1388,24 @@
   "Tags": "community;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/04/05/e65badf895b24fc29a28f05cd8de2342.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/04/05/b050c1bc3c7a4159affe3a97e6df63a2.png"
+}
+
+,
+{
+  "Name": "DDE Top Panel 顶栏程序",
+  "Version": "0.6.8",
+  "Filename": "dde-top-panel_0.6.8_amd64.deb",
+  "Torrent_address": "dde-top-panel_0.6.8_amd64.deb.torrent",
+  "Pkgname": "dde-top-panel",
+  "Author": "SeptemberHX",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "https://github.com/SeptemberHX/dde-top-panel",
+  "Update": "2023-02-12 12:59:59",
+  "Size": "7.84 MB",
+  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+  "Tags": "community;deepin;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/3904de29a51b4e3e8c26a2f456be12d2.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/42c6bfdbf3304cb58a8a166e8fad1ad0.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/350feda6e5324cf1be313b628c70ffbd.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/b684d9613d46447dbb3c58d544b7e9e1.png"
 }
 
 ,
@@ -1463,24 +1463,6 @@
 
 ,
 {
-  "Name": "羽云十六进制编辑器",
-  "Version": "1.5.4",
-  "Filename": "com.wingsummer.winghexexplorer_1.5.4_amd64.deb",
-  "Torrent_address": "com.wingsummer.winghexexplorer_1.5.4_amd64.deb.torrent",
-  "Pkgname": "com.wingsummer.winghexexplorer",
-  "Author": "寂静的羽夏(wingsummer)",
-  "Contributor": "wingsummer <1326224942@qq.com>",
-  "Website": "https://www.cnblogs.com/wingsummer/",
-  "Update": "2023-03-04 09:44:20",
-  "Size": "6.87 MB",
-  "More": "一个基于 QT 和 DTK 开发的强大的开源免费的十六进制编辑器。\n\n更新：\n1.修复打开某些文件因文件权限无法打开文件的问题",
-  "Tags": "community;ubuntu;deepin;dtk5;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/f315dc72ea7549a9855e404149ee73ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/b8a996cef0a84a38959b53640cf187b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/e902cdff00cc4b6087c1d4c7b171f3ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/877836654bf24157bb07589b7ed0df64.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/119941e0017a415096f6230681a97dce.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.grub-customizer_5.2.2-2_all.deb",
@@ -1495,6 +1477,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.grub-customizer/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "羽云十六进制编辑器",
+  "Version": "1.5.4",
+  "Filename": "com.wingsummer.winghexexplorer_1.5.4_amd64.deb",
+  "Torrent_address": "com.wingsummer.winghexexplorer_1.5.4_amd64.deb.torrent",
+  "Pkgname": "com.wingsummer.winghexexplorer",
+  "Author": "寂静的羽夏(wingsummer)",
+  "Contributor": "wingsummer <1326224942@qq.com>",
+  "Website": "https://www.cnblogs.com/wingsummer/",
+  "Update": "2023-03-04 09:44:20",
+  "Size": "6.87 MB",
+  "More": "一个基于 QT 和 DTK 开发的强大的开源免费的十六进制编辑器。\n\n更新：\n1.修复打开某些文件因文件权限无法打开文件的问题",
+  "Tags": "community;ubuntu;deepin;dtk5;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/f315dc72ea7549a9855e404149ee73ac.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/b8a996cef0a84a38959b53640cf187b6.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/e902cdff00cc4b6087c1d4c7b171f3ed.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/04/877836654bf24157bb07589b7ed0df64.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/04/119941e0017a415096f6230681a97dce.png"
 }
 
 ,
@@ -1532,24 +1532,6 @@
 
 ,
 {
-    "Name": "WPS Office 版本信息及字体检测小工具",
-    "Version": "0.3-1",
-    "Filename": "wps-check_0.3-1_all.deb",
-    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
-    "Pkgname": "wps-check",
-    "Author": "Careone <emacslocale@126.com>",
-    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-    "Website": "https://bbs.deepin.org/post/248386",
-    "Update": "2023-02-10 21:32:42",
-    "Size": "123.8 KB",
-    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
-    "Tags": "community;debian;deepin;ubuntu;uos",
-    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
-    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
-}
-
-,
-{
     "Name": "深度求索（DeepSeek）",
     "Version": "1.0.0",
     "Filename": "chat.deepseek.com_1.0.0_all.deb",
@@ -1564,6 +1546,24 @@
     "Tags": "community;debian;ubuntu;deepin",
     "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/21/5c842ca5f9674baa8197ddbc1c88f864.png\"]",
     "icons": "https://spk-json.spark-app.store/icons/2025/03/21/53ed473e05cd4570803de026e1895fc8.png"
+}
+
+,
+{
+    "Name": "WPS Office 版本信息及字体检测小工具",
+    "Version": "0.3-1",
+    "Filename": "wps-check_0.3-1_all.deb",
+    "Torrent_address": "wps-check_0.3-1_all.deb.torrent",
+    "Pkgname": "wps-check",
+    "Author": "Careone <emacslocale@126.com>",
+    "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+    "Website": "https://bbs.deepin.org/post/248386",
+    "Update": "2023-02-10 21:32:42",
+    "Size": "123.8 KB",
+    "More": "License: MulanPSL2 (Mulan Permissive Software License，Version 2)\n .\n 许可证：MulanPSL2 (木兰宽松许可证, 第2版)\n .\n WPS Office 版本信息检测报告工具。可以自动自动填写当前Linux系统版本号、\n 硬件平台；内核版本；WPS Office 版本号；以及其它相关信息。\n .\n 主要用途：方便用户反馈和上报 WPS Office 异常、缺陷; 缺失的常用中文/英文\n /符号字体，以及其它建议。\n .\n 测试环境:\n  * WPS Office 11.1.0.11664 (2022-6-08 发布)\n  * Debian 11.6 amd64\n .\n SourceForge: https://sourceforge.net/projects/emacslocale/files/wps-check/\n\n用法：\n以普通用户运行命令\nwps-check\n或者 带 -a 参数（可检测并记录 Windows 相关字体信息）\nwps-check -a",
+    "Tags": "community;debian;deepin;ubuntu;uos",
+    "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/10/c9d64dc5317e415dbf51e0d935bd79ca.png\"]",
+    "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/10/a77559bee8c94d93ac29d8e226971db7.png"
 }
 
 ,
@@ -1675,6 +1675,24 @@
 
 ,
 {
+  "Name": "系统监视中心",
+  "Version": "2.26.0",
+  "Filename": "system-monitoring-center_2.26.0_all.deb",
+  "Torrent_address": "system-monitoring-center_2.26.0_all.deb.torrent",
+  "Pkgname": "system-monitoring-center",
+  "Author": "Hakan Dündar <hakandundar34coding@gmail.com>",
+  "Contributor": "Hakan Dündar <hakandundar34coding@gmail.com>",
+  "Website": "https://github.com/hakandundar34coding/system-monitoring-center",
+  "Update": "2023-11-18 22:29:40",
+  "Size": "174.94 KB",
+  "More": "Provides information about CPU/RAM/Disk/Network/GPU performance, sensors,\n processes, users, services and system.\n提示：此软件为最终版本，作者已经宣布停更。\n deepin用户可安装ACE后在ACE环境中安装",
+  "Tags": "ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
+}
+
+,
+{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "spark-web-packer_0.1.3_all.deb",
@@ -1706,24 +1724,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a94af90-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a996a80-159c-11eb-b57a-2596064cdd9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/24/0a9f0fd0-159c-11eb-b57a-2596064cdd9a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/24/06e192a0-159c-11eb-b57a-2596064cdd9a.png"
-}
-
-,
-{
-  "Name": "系统监视中心",
-  "Version": "2.26.0",
-  "Filename": "system-monitoring-center_2.26.0_all.deb",
-  "Torrent_address": "system-monitoring-center_2.26.0_all.deb.torrent",
-  "Pkgname": "system-monitoring-center",
-  "Author": "Hakan Dündar <hakandundar34coding@gmail.com>",
-  "Contributor": "Hakan Dündar <hakandundar34coding@gmail.com>",
-  "Website": "https://github.com/hakandundar34coding/system-monitoring-center",
-  "Update": "2023-11-18 22:29:40",
-  "Size": "174.94 KB",
-  "More": "Provides information about CPU/RAM/Disk/Network/GPU performance, sensors,\n processes, users, services and system.\n提示：此软件为最终版本，作者已经宣布停更。\n deepin用户可安装ACE后在ACE环境中安装",
-  "Tags": "ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/d9637c265212451b99c2eb2c21cfcd3a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/18/7823e438c63945d98e784149eccb311f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/18/7fa7aea14fad473ebfc6221f7ecee220.png"
 }
 
 ,
@@ -1782,24 +1782,6 @@
 
 ,
 {
-  "Name": "electerm",
-  "Version": "1.70.6-1",
-  "Filename": "electerm_1.70.6-1_amd64.deb",
-  "Torrent_address": "electerm_1.70.6-1_amd64.deb.torrent",
-  "Pkgname": "electerm",
-  "Author": "ZHAO Xudong <zxdong@gmail.com>",
-  "Contributor": "zzy",
-  "Website": "https://electerm.html5beta.com",
-  "Update": "2025-02-25 09:21:39",
-  "Size": "70.39 MB",
-  "More": "开源终端/ssh/telnet/serialport/RDP/VNC/sftp客户端(linux, mac, win)。",
-  "Tags": "community;debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/25/41cb3753b67f43459387ee2515e53ba8.png\",\"https://spk-json.spark-app.store/images/2025/02/25/3886dd58c9cf490395ae34e52571c0b7.png\",\"https://spk-json.spark-app.store/images/2025/02/25/aba926079fc943c5a5c7a806989957f2.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/02/25/13f649e6a0d141bda5735f90d285e7f1.png"
-}
-
-,
-{
   "Name": "FreeFileSync",
   "Version": "14.0spark5",
   "Filename": "org.freefilesync.spark_14.0spark5_amd64.deb",
@@ -1814,6 +1796,24 @@
   "Tags": "ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/25/83dc1b4a418440bb9fc90870d1a1c9c5.png\",\"https://spk-json.spark-app.store/images/2025/01/25/dd8f64d607764b1caa9438302fb6fcff.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/25/81e5684f7d54480886eb3d6f2e53ca4a.png"
+}
+
+,
+{
+  "Name": "electerm",
+  "Version": "1.70.6-1",
+  "Filename": "electerm_1.70.6-1_amd64.deb",
+  "Torrent_address": "electerm_1.70.6-1_amd64.deb.torrent",
+  "Pkgname": "electerm",
+  "Author": "ZHAO Xudong <zxdong@gmail.com>",
+  "Contributor": "zzy",
+  "Website": "https://electerm.html5beta.com",
+  "Update": "2025-02-25 09:21:39",
+  "Size": "70.39 MB",
+  "More": "开源终端/ssh/telnet/serialport/RDP/VNC/sftp客户端(linux, mac, win)。",
+  "Tags": "community;debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/25/41cb3753b67f43459387ee2515e53ba8.png\",\"https://spk-json.spark-app.store/images/2025/02/25/3886dd58c9cf490395ae34e52571c0b7.png\",\"https://spk-json.spark-app.store/images/2025/02/25/aba926079fc943c5a5c7a806989957f2.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/02/25/13f649e6a0d141bda5735f90d285e7f1.png"
 }
 
 ,
@@ -1851,22 +1851,6 @@
 
 ,
 {
-    "Name": "PeaZip",
-    "Author": "Giorgio Tani <giorgio.tani.software@gmail.com>",
-    "Website": "https://peazip.github.io",
-    "More": "PeaZip是一个开源（LGPLv3）跨平台归档管理工具，支持200多种归档和压缩格式，如7Z，BZip2，Brotli，GZip，PEA，RAR，ZIP，ZPAQ，Zstandard等。\n\n--说明--\n软件默认为英文，可以在设置里设置为中文",
-    "Tags": "debian;ubuntu;deepin;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/peazip/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/peazip/screen_2.png\"]",
-    "icons": "https://spk-json.spark-app.store/store/tools/peazip/icon.png",
-    "Pkgname": "peazip",
-    "Version": "10.5.0",
-    "Filename": "peazip_10.5.0_amd64.deb",
-    "Update": "2025-06-16 01:37:39",
-    "Size": "11.83MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
-,
-{
   "Name": "7-Zip",
   "Version": "24.09spark1",
   "Filename": "org.7-zip.spark_24.09spark1_all.deb",
@@ -1883,6 +1867,22 @@
   "icons": "https://spk-json.spark-app.store/icons/2025/01/05/0bde6b9bf8e94bec9faeb82f4f37973f.png"
 }
 
+,
+{
+    "Name": "PeaZip",
+    "Author": "Giorgio Tani <giorgio.tani.software@gmail.com>",
+    "Website": "https://peazip.github.io",
+    "More": "PeaZip是一个开源（LGPLv3）跨平台归档管理工具，支持200多种归档和压缩格式，如7Z，BZip2，Brotli，GZip，PEA，RAR，ZIP，ZPAQ，Zstandard等。\n\n--说明--\n软件默认为英文，可以在设置里设置为中文",
+    "Tags": "debian;ubuntu;deepin;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/peazip/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/peazip/screen_2.png\"]",
+    "icons": "https://spk-json.spark-app.store/store/tools/peazip/icon.png",
+    "Pkgname": "peazip",
+    "Version": "10.5.0",
+    "Filename": "peazip_10.5.0_amd64.deb",
+    "Update": "2025-06-16 01:37:39",
+    "Size": "11.83MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
 ,
 {
     "Name": "Cherry Studio（官网deb包版）",
@@ -2326,6 +2326,24 @@
 
 ,
 {
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
+    "More": "会从系统的仓库获取Brasero,版本号无意义",
+    "Name": "Brasero 光盘刻录工具（系统源版）",
+    "Pkgname": "store.spark-app.appwrapper.brasero",
+    "Size": "3 Kb",
+    "Tags": "community;deepin;uos;ubuntu;debian",
+    "Torrent_address": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb.torrent",
+    "Update": "2024-10-30 21:29:33",
+    "Version": "3.12.3-2",
+    "Website": "",
+    "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
+}
+
+,
+{
     "Name": "MPaste：剪贴板管理工具",
     "Version": "0.2.0",
     "Filename": "mpaste_0.2.0_amd64.deb",
@@ -2361,20 +2379,20 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
-    "More": "会从系统的仓库获取Brasero,版本号无意义",
-    "Name": "Brasero 光盘刻录工具（系统源版）",
-    "Pkgname": "store.spark-app.appwrapper.brasero",
-    "Size": "3 Kb",
-    "Tags": "community;deepin;uos;ubuntu;debian",
-    "Torrent_address": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb.torrent",
-    "Update": "2024-10-30 21:29:33",
-    "Version": "3.12.3-2",
-    "Website": "",
-    "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
+  "Name": "网速查看器(测试版本)",
+  "Version": "0.1-20230107",
+  "Filename": "z-tools-speedwidget_0.1-20230107_amd64.deb",
+  "Torrent_address": "z-tools-speedwidget_0.1-20230107_amd64.deb.torrent",
+  "Pkgname": "z-tools-speedwidget",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://gitee.com/zinface/z-tools",
+  "Update": "2023-01-07 04:16:06",
+  "Size": "24.52 KB",
+  "More": "Linux toolbox under development",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/8a871ca1edcb43eb89d6e43ef508ac3e.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/9c4debbe7d7a4668b181f2c397b50623.png"
 }
 
 ,
@@ -2392,24 +2410,6 @@
   "Tags": "uos;deepin;ubuntu;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34b6f1a0-5a9e-11ec-badd-874205411ce9.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/12/12/34c23c40-5a9e-11ec-badd-874205411ce9.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/12/12/31596ec0-5a9e-11ec-badd-874205411ce9.png"
-}
-
-,
-{
-  "Name": "网速查看器(测试版本)",
-  "Version": "0.1-20230107",
-  "Filename": "z-tools-speedwidget_0.1-20230107_amd64.deb",
-  "Torrent_address": "z-tools-speedwidget_0.1-20230107_amd64.deb.torrent",
-  "Pkgname": "z-tools-speedwidget",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://gitee.com/zinface/z-tools",
-  "Update": "2023-01-07 04:16:06",
-  "Size": "24.52 KB",
-  "More": "Linux toolbox under development",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/01/07/8a871ca1edcb43eb89d6e43ef508ac3e.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/01/07/9c4debbe7d7a4668b181f2c397b50623.png"
 }
 
 ,
@@ -2503,24 +2503,6 @@
 
 ,
 {
-  "Name": "腾讯御点",
-  "Version": "2.1.0.348-1.uos20",
-  "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
-  "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
-  "Pkgname": "com.tencent.yudian",
-  "Author": "tav",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "http://tav.qq.com",
-  "Update": "2022-10-22 18:05:19",
-  "Size": "56.41 MB",
-  "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
-  "Tags": "deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
-}
-
-,
-{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "store.spark-app.appwrapper.hardinfo_0.5.1_plus_git20180227-2.1_plus_b1_all.deb",
@@ -2535,6 +2517,24 @@
   "Website": "",
   "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.hardinfo/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "腾讯御点",
+  "Version": "2.1.0.348-1.uos20",
+  "Filename": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb",
+  "Torrent_address": "com.tencent.yudian_2.1.0.348-1.uos20_amd64.deb.torrent",
+  "Pkgname": "com.tencent.yudian",
+  "Author": "tav",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "http://tav.qq.com",
+  "Update": "2022-10-22 18:05:19",
+  "Size": "56.41 MB",
+  "More": "终端安全管理系统是腾讯出品的企业级安全服务。依托腾讯多年的安全经验积累，终端安全管理系统将百亿量级云查杀病毒库、引擎库以及腾讯反病毒引擎的杀毒引擎、系统修复引擎应用到企业内部，可有效防御企业内网终端的病毒木马攻击。终端安全管理系统具备终端杀毒统一管控、修复漏洞统一管控以及策略管控等全方位的安全管理功能，可帮助企业管理者全面了解和管理企业内网的安全状况，保护企业安全。",
+  "Tags": "deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/899a2001-8332-495f-929a-d1661b409a8f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/4d378646-2f4b-4e8b-af43-c245061dd647.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/e0041bf0-4f24-4137-9c6d-8f1804585585.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/10/22/114d744d-dc98-4b03-892f-8a2ffe1186b1.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/10/22/58ded873-759c-405a-bceb-ba1610093b33.png"
 }
 
 ,
@@ -2860,6 +2860,24 @@
 
 ,
 {
+  "Name": "MissionCenter 任务中心",
+  "Version": "0.6.2",
+  "Filename": "io.missioncenter.missioncenter_0.6.2_amd64.deb",
+  "Torrent_address": "io.missioncenter.missioncenter_0.6.2_amd64.deb.torrent",
+  "Pkgname": "io.missioncenter.missioncenter",
+  "Author": "-=Red-13=-",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Website": "https://missioncenter.io/",
+  "Update": "2024-12-09 09:06:28",
+  "Size": "33.71 MB",
+  "More": "简洁、高效的系统资源监控工具",
+  "Tags": "community;ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/676c44fb614a40dcb619d66bac51f81c.png\",\"https://spk-json.spark-app.store/images/2024/12/09/a667609503f84fc1972dc48bfea5f325.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2024/12/09/c243f507b29d483fa984c41f38437e2e.png"
+}
+
+,
+{
   "Name": "安卓信息查看器(adb)",
   "Version": "0.1.1-20230817",
   "Filename": "z-tools-adbmanager_0.1.1-20230817_amd64.deb",
@@ -2891,24 +2909,6 @@
   "Tags": "debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2020/10/25/2356ceb0-166d-11eb-a815-b9186224f79a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2020/10/25/67e77340-166d-11eb-a815-b9186224f79a.png"
-}
-
-,
-{
-  "Name": "MissionCenter 任务中心",
-  "Version": "0.6.2",
-  "Filename": "io.missioncenter.missioncenter_0.6.2_amd64.deb",
-  "Torrent_address": "io.missioncenter.missioncenter_0.6.2_amd64.deb.torrent",
-  "Pkgname": "io.missioncenter.missioncenter",
-  "Author": "-=Red-13=-",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Website": "https://missioncenter.io/",
-  "Update": "2024-12-09 09:06:28",
-  "Size": "33.71 MB",
-  "More": "简洁、高效的系统资源监控工具",
-  "Tags": "community;ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/676c44fb614a40dcb619d66bac51f81c.png\",\"https://spk-json.spark-app.store/images/2024/12/09/a667609503f84fc1972dc48bfea5f325.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2024/12/09/c243f507b29d483fa984c41f38437e2e.png"
 }
 
 ,
@@ -3301,24 +3301,6 @@
 
 ,
 {
-  "Name": "羽云工具箱",
-  "Version": "1.0.0",
-  "Filename": "com.wingsummer.wingtool_1.0.0_amd64.deb",
-  "Torrent_address": "com.wingsummer.wingtool_1.0.0_amd64.deb.torrent",
-  "Pkgname": "com.wingsummer.wingtool",
-  "Author": "寂静的羽夏(wingsummer)",
-  "Contributor": "wingsummer <1326224942@qq.com>",
-  "Website": "https://www.cnblogs.com/wingsummer/",
-  "Update": "2022-12-01 10:29:36",
-  "Size": "4.15 MB",
-  "More": "WingTool是一个强大的插件工具箱，中文名 羽云工具箱，支持热键响应、鼠标跟踪等基本接口。通过开发强大的对应的插件，就可以大大提高生产力。\n该软件如果没有任何插件，仅支持添加热键使用默认方式打开任何文件。插件的强大决定着该软件的上限，通过热键可以配置使用热键调用插件借口；默认通过鼠标中键配合 Super键（在 Windows系统中称之为 Win键）可以调出工具窗口，选择合适的工具；也可以通过热键调出窗口工具，点击打开所需的文件或者软件，而不必从启动器翻找，避免任务栏图标过多以及桌面文件过多的情况。\n程序 Wiki：https://code.gitlink.org.cn/wingsummer/WingTool/wiki/%E7%AE%80%E4%BB%8B",
-  "Tags": "community;ubuntu;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/df1374d3f10e4abb8450ccdc66a0f791.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/20d407b92a7c44b8b03bfde82c77d652.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/f9d1c7d1070144dbb7127030fcb02215.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/01ac84ade538458bac751f958ad4e2a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/ee3ef868e23446fba57a10012bd7d97d.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/4233dfac46334fc9b1671ac795d7ab69.png"
-}
-
-,
-{
   "Name": "AppImageHub 简易搜索工具",
   "Version": "0.0.1-20231206",
   "Filename": "appimage-hub-search_0.0.1-20231206_amd64.deb",
@@ -3333,6 +3315,24 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/12/06/f9bb666ac4c94bcc885de2c8d55870b9.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/52f30c5a409d412ea461d656ee5b5b80.png"
+}
+
+,
+{
+  "Name": "羽云工具箱",
+  "Version": "1.0.0",
+  "Filename": "com.wingsummer.wingtool_1.0.0_amd64.deb",
+  "Torrent_address": "com.wingsummer.wingtool_1.0.0_amd64.deb.torrent",
+  "Pkgname": "com.wingsummer.wingtool",
+  "Author": "寂静的羽夏(wingsummer)",
+  "Contributor": "wingsummer <1326224942@qq.com>",
+  "Website": "https://www.cnblogs.com/wingsummer/",
+  "Update": "2022-12-01 10:29:36",
+  "Size": "4.15 MB",
+  "More": "WingTool是一个强大的插件工具箱，中文名 羽云工具箱，支持热键响应、鼠标跟踪等基本接口。通过开发强大的对应的插件，就可以大大提高生产力。\n该软件如果没有任何插件，仅支持添加热键使用默认方式打开任何文件。插件的强大决定着该软件的上限，通过热键可以配置使用热键调用插件借口；默认通过鼠标中键配合 Super键（在 Windows系统中称之为 Win键）可以调出工具窗口，选择合适的工具；也可以通过热键调出窗口工具，点击打开所需的文件或者软件，而不必从启动器翻找，避免任务栏图标过多以及桌面文件过多的情况。\n程序 Wiki：https://code.gitlink.org.cn/wingsummer/WingTool/wiki/%E7%AE%80%E4%BB%8B",
+  "Tags": "community;ubuntu;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/df1374d3f10e4abb8450ccdc66a0f791.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/20d407b92a7c44b8b03bfde82c77d652.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/f9d1c7d1070144dbb7127030fcb02215.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/01ac84ade538458bac751f958ad4e2a7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/12/01/ee3ef868e23446fba57a10012bd7d97d.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/12/01/4233dfac46334fc9b1671ac795d7ab69.png"
 }
 
 ,
@@ -3602,6 +3602,24 @@
 
 ,
 {
+  "Name": "QDiskInfo",
+  "Version": "0.3",
+  "Filename": "qdiskinfo.spark_0.3_amd64.deb",
+  "Torrent_address": "qdiskinfo.spark_0.3_amd64.deb.torrent",
+  "Pkgname": "qdiskinfo.spark",
+  "Author": "edisionnano",
+  "Contributor": "369Pai",
+  "Website": "https://github.com/edisionnano/QDiskInfo",
+  "Update": "2024-12-01 20:10:04",
+  "Size": "22.83 MB",
+  "More": "QDiskInfo 显示了现代硬盘驱动器的 SMART（自我监控、分析和报告技术）数据，提供了类似于 CrystalDiskInfo 的用户体验。它利用 smartctl（smartmontools包的一部分）获取相关信息。",
+  "Tags": "ubuntu;deepin;a2d;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/01/d63ea712067f40ab8975fbe72b4f3a12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/01/17f1b9ec5e17410e8597bc409e3fe530.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/12/01/c769f78c72ff4bcd92741199aa8308d8.png"
+}
+
+,
+{
   "Name": "e-search",
   "Version": "1.4.3",
   "Filename": "e-search_1.4.3_amd64.deb",
@@ -3634,24 +3652,6 @@
   "Tags": "ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce383090-d69a-11ed-8a97-15d378a127b8.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/04/09/ce5380c0-d69a-11ed-8a97-15d378a127b8.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/04/09/c066e5b0-d69a-11ed-8a97-15d378a127b8.png"
-}
-
-,
-{
-  "Name": "QDiskInfo",
-  "Version": "0.3",
-  "Filename": "qdiskinfo.spark_0.3_amd64.deb",
-  "Torrent_address": "qdiskinfo.spark_0.3_amd64.deb.torrent",
-  "Pkgname": "qdiskinfo.spark",
-  "Author": "edisionnano",
-  "Contributor": "369Pai",
-  "Website": "https://github.com/edisionnano/QDiskInfo",
-  "Update": "2024-12-01 20:10:04",
-  "Size": "22.83 MB",
-  "More": "QDiskInfo 显示了现代硬盘驱动器的 SMART（自我监控、分析和报告技术）数据，提供了类似于 CrystalDiskInfo 的用户体验。它利用 smartctl（smartmontools包的一部分）获取相关信息。",
-  "Tags": "ubuntu;deepin;a2d;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/01/d63ea712067f40ab8975fbe72b4f3a12.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/12/01/17f1b9ec5e17410e8597bc409e3fe530.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/12/01/c769f78c72ff4bcd92741199aa8308d8.png"
 }
 
 ,
@@ -3816,24 +3816,6 @@
 
 ,
 {
-  "Name": "DDE手势管理器",
-  "Version": "1.0.3.3",
-  "Filename": "com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb",
-  "Torrent_address": "com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb.torrent",
-  "Pkgname": "com.debuggerx.dde-gesture-manager",
-  "Author": "DebuggerX <dx8913712@163.com>",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "https://github.com/debuggerx01/dde_gesture_manager",
-  "Update": "2023-02-12 13:47:14",
-  "Size": "8.66 MB",
-  "More": "专为 DDE 桌面环境打造的触摸板手势管理工具（缩写：dgm），客户端使用 Flutter 构建，后端技术栈为 dart 的 Angel3 框架 + PostgreSQL + Redis + docker。",
-  "Tags": "community;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/31b6b713b891428dbf6cd1ac3b12376f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e2801c76dcd24fe68f7118439cb073d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/6e3b4b484adb44e19998b2f413b0a0f4.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/08f655712b4441bbb59256f7e049c2c9.png"
-}
-
-,
-{
   "Name": "KDiskMark 磁盘性能测试工具",
   "Version": "3.1.4",
   "Filename": "kdiskmark_3.1.4_amd64.deb",
@@ -3848,6 +3830,24 @@
   "Tags": "community;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/20/36707ce966e6455c93946c5bd32b65a9.png\",\"https://spk-json.spark-app.store/images/2024/12/20/d5b2203428fa4b72828a3a70f30aa1d2.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2024/12/20/977d9be797ec4eedb6c0e16326405890.png"
+}
+
+,
+{
+  "Name": "DDE手势管理器",
+  "Version": "1.0.3.3",
+  "Filename": "com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb",
+  "Torrent_address": "com.debuggerx.dde-gesture-manager_1.0.3.3_amd64.deb.torrent",
+  "Pkgname": "com.debuggerx.dde-gesture-manager",
+  "Author": "DebuggerX <dx8913712@163.com>",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "https://github.com/debuggerx01/dde_gesture_manager",
+  "Update": "2023-02-12 13:47:14",
+  "Size": "8.66 MB",
+  "More": "专为 DDE 桌面环境打造的触摸板手势管理工具（缩写：dgm），客户端使用 Flutter 构建，后端技术栈为 dart 的 Angel3 框架 + PostgreSQL + Redis + docker。",
+  "Tags": "community;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/31b6b713b891428dbf6cd1ac3b12376f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e2801c76dcd24fe68f7118439cb073d7.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/6e3b4b484adb44e19998b2f413b0a0f4.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/08f655712b4441bbb59256f7e049c2c9.png"
 }
 
 ,
@@ -3978,6 +3978,24 @@
 
 ,
 {
+  "Name": "Flix 快传",
+  "Version": "1.4.0+48",
+  "Filename": "flix_1.4.0_plus48_amd64.deb",
+  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
+  "Pkgname": "flix",
+  "Author": "zhangjian <2242634757@qq.com>",
+  "Contributor": "洺渊",
+  "Website": "https://flix.center/",
+  "Update": "2025-04-01 20:19:21",
+  "Size": "16.27 MB",
+  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
+}
+
+,
+{
   "Name": "AMD屏幕亮度工具(命令行) - v23 构建",
   "Version": "0.0.1-20240602",
   "Filename": "amd-backlight_0.0.1-20240602_amd64.deb",
@@ -4010,24 +4028,6 @@
   "Tags": "community;ubuntu;deepin;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/5e2984ccd58b425f82f553dc1cde8dcf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/c05fd447264b4d579157d087f7b929e5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/d10a9b5894d247cf96413130496e8ead.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/06/08/17c17f17215047d69e2b19389ea120e3.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/08/d6cd5c8c76fe4785865048fcdca8c748.png"
-}
-
-,
-{
-  "Name": "Flix 快传",
-  "Version": "1.4.0+48",
-  "Filename": "flix_1.4.0_plus48_amd64.deb",
-  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
-  "Pkgname": "flix",
-  "Author": "zhangjian <2242634757@qq.com>",
-  "Contributor": "洺渊",
-  "Website": "https://flix.center/",
-  "Update": "2025-04-01 20:19:21",
-  "Size": "16.27 MB",
-  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
 }
 
 ,
@@ -4264,6 +4264,24 @@
 
 ,
 {
+  "Name": "LM Studio",
+  "Version": "0.3.16",
+  "Filename": "lmstudio_0.3.16_amd64.deb",
+  "Torrent_address": "lmstudio_0.3.16_amd64.deb.torrent",
+  "Pkgname": "lmstudio",
+  "Author": "lmstudio-ai",
+  "Contributor": "enkl03B",
+  "Website": "https://lmstudio.ai/",
+  "Update": "2025-05-29 20:55:28",
+  "Size": "646.39 MB",
+  "More": "LM Studio,本地部署/运行LLM。\n点击主界面右下角齿轮图标-Language可设置中文。",
+  "Tags": "debian;ubuntu;deepin;uos;a2d;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/741d8dfd48db49d19ac8bb7ca5bb5ca2.png\",\"https://spk-json.spark-app.store/images/2025/05/29/41dbfe6a0a174d15a620ebe72a27822f.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/027b836c2a4d4ab2a2d21d1d18bca2f9.png"
+}
+
+,
+{
   "Name": "HuionTablet（绘王数位板驱动，添加libm.so.6版）",
   "Version": "15.0.0.131.1",
   "Filename": "huiontablet_15.0.0.131.1_amd64.deb",
@@ -4332,24 +4350,6 @@
   "Tags": "community;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
-}
-
-,
-{
-  "Name": "LM Studio",
-  "Version": "0.3.16",
-  "Filename": "lmstudio_0.3.16_amd64.deb",
-  "Torrent_address": "lmstudio_0.3.16_amd64.deb.torrent",
-  "Pkgname": "lmstudio",
-  "Author": "lmstudio-ai",
-  "Contributor": "enkl03B",
-  "Website": "https://lmstudio.ai/",
-  "Update": "2025-05-29 20:55:28",
-  "Size": "646.39 MB",
-  "More": "LM Studio,本地部署/运行LLM。\n点击主界面右下角齿轮图标-Language可设置中文。",
-  "Tags": "debian;ubuntu;deepin;uos;a2d;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/741d8dfd48db49d19ac8bb7ca5bb5ca2.png\",\"https://spk-json.spark-app.store/images/2025/05/29/41dbfe6a0a174d15a620ebe72a27822f.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/027b836c2a4d4ab2a2d21d1d18bca2f9.png"
 }
 
 ,
@@ -4761,6 +4761,24 @@
 
 ,
 {
+  "Name": "AlphaPlot",
+  "Version": "1.02-1",
+  "Filename": "alphaplot_1.02-1_amd64.deb",
+  "Torrent_address": "alphaplot_1.02-1_amd64.deb.torrent",
+  "Pkgname": "alphaplot",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "https://github.com/narunlifescience/AlphaPlot",
+  "Update": "2023-05-22 12:12:33",
+  "Size": "2.6 MB",
+  "More": "Application for statistical analysis and data visualization which can\n generate different types of publication quality 2D and 3D plots with\n extensive visual customization.",
+  "Tags": "debian;deepin;ubuntu;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/59b905ca0e3b4fc68351728c53338d9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/ad47da43093a40de847b6497e4ab8660.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/3cde7addd6624a48a9262ea1949c74d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/e5d9163025df4dceaa3636be1564f513.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/f9f991d2e5754dc5b1757d1bd85d459b.png"
+}
+
+,
+{
   "Name": "迷你工具箱(z-tools)",
   "Version": "1.2.0-20231206",
   "Filename": "z-tools-toolbox_1.2.0-20231206_amd64.deb",
@@ -4847,24 +4865,6 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/a2f7a6c43bfe487fb17dd57ce893ba67.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/02/06/7122a0d26cd149b7877626e9a771fd19.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/02/06/eb9527856e1148d7851917733de9c56e.png"
-}
-
-,
-{
-  "Name": "AlphaPlot",
-  "Version": "1.02-1",
-  "Filename": "alphaplot_1.02-1_amd64.deb",
-  "Torrent_address": "alphaplot_1.02-1_amd64.deb.torrent",
-  "Pkgname": "alphaplot",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "https://github.com/narunlifescience/AlphaPlot",
-  "Update": "2023-05-22 12:12:33",
-  "Size": "2.6 MB",
-  "More": "Application for statistical analysis and data visualization which can\n generate different types of publication quality 2D and 3D plots with\n extensive visual customization.",
-  "Tags": "debian;deepin;ubuntu;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/59b905ca0e3b4fc68351728c53338d9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/ad47da43093a40de847b6497e4ab8660.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/3cde7addd6624a48a9262ea1949c74d4.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/22/e5d9163025df4dceaa3636be1564f513.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/22/f9f991d2e5754dc5b1757d1bd85d459b.png"
 }
 
 ,
@@ -5528,6 +5528,24 @@
 
 ,
 {
+    "Author": "skyyx2002 <mzldkj@qq.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "skydisktest_1.01-1fix_amd64.deb",
+    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
+    "Name": "Sky磁盘测试工具",
+    "Pkgname": "skydisktest",
+    "Size": "109 Kb",
+    "Tags": "deepin;uos;ubuntu;debian",
+    "Torrent_address": "skydisktest_1.01-1fix_amd64.deb.torrent",
+    "Update": "2025-06-15 07:16:07",
+    "Version": "1.01-1fix",
+    "Website": "none",
+    "icons": "https://spk-json.spark-app.store/store/tools/skydisktest/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_2.png\"]"
+}
+
+,
+{
   "Name": "墨干编辑器",
   "Version": "1.1.3-1",
   "Filename": "mogan_1.1.3-1_amd64.deb",
@@ -5647,24 +5665,6 @@
   "Tags": "ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/23/2c13a2ab318540feb8eddeb26c2cd2de.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/23/a51126970c954fbfadc53bec5a521470.png"
-}
-
-,
-{
-    "Author": "skyyx2002 <mzldkj@qq.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "skydisktest_1.01-1fix_amd64.deb",
-    "More": "支持U盘、硬盘等读取测试，支持硬盘基础信息和SMART健康信息查看",
-    "Name": "Sky磁盘测试工具",
-    "Pkgname": "skydisktest",
-    "Size": "109 Kb",
-    "Tags": "deepin;uos;ubuntu;debian",
-    "Torrent_address": "skydisktest_1.01-1fix_amd64.deb.torrent",
-    "Update": "2025-06-15 07:16:07",
-    "Version": "1.01-1fix",
-    "Website": "none",
-    "icons": "https://spk-json.spark-app.store/store/tools/skydisktest/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/skydisktest/screen_2.png\"]"
 }
 
 ,
@@ -5993,6 +5993,23 @@
 
 ,
 {
+    "Name": "OpenTabletDriver(数位板驱动)",
+    "Version": "0.6.5.1",
+    "Filename": "opentabletdriver_0.6.5.1_amd64.deb",
+    "Torrent_address": "opentabletdriver_0.6.5.1_amd64.deb.torrent",
+    "Pkgname": "opentabletdriver",
+    "Author": "X9VoiD <oscar.silvestrexx@gmail.com>",
+    "Contributor": "Love-in-idleness <3499847908@qq.com>",
+    "Website": "https://opentabletdriver.net",
+    "Update": "2025-06-14 22:09:38",
+    "Size": "5.17 MB",
+    "More": "OpenTabletDriver 支持的数位板种类最多，兼容性优秀，适用于多个平台，并且配备了易于使用的图形用户界面。\n\nOpenTabletDriver 支持来自以下（非全部列举）厂商的多种数位板：\n  * Wacom\n  * Huion\n  * XP-Pen\n  * XenceLabs\n  * Gaomon\n  * Veikk\n\n安装后请执行下面命令以保证正常使用：\nsystemctl --user enable opentabletdriver.service --now",
+    "Tags": "community;debian;ubuntu",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/19925dc961b24720adc53c09e392b902.png\",\"https://spk-json.spark-app.store/images/2025/06/14/bad824723c0d4131bf2f50c67e228d0e.png\",\"https://spk-json.spark-app.store/images/2025/06/14/d334db662c6645ebbfe7fc54bbea285e.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8ba9b9015d9d4fa6b84ef54f01a93080.png"
+}
+,
+{
   "Name": "MicroDicom",
   "Version": "2025.2wine0",
   "Filename": "mdicom-wine_2025.2wine0_all.deb",
@@ -6226,20 +6243,20 @@
 }
 ,
 {
-    "Name": "OpenTabletDriver(数位板驱动)",
-    "Version": "0.6.5.1",
-    "Filename": "opentabletdriver_0.6.5.1_amd64.deb",
-    "Torrent_address": "opentabletdriver_0.6.5.1_amd64.deb.torrent",
-    "Pkgname": "opentabletdriver",
-    "Author": "X9VoiD <oscar.silvestrexx@gmail.com>",
-    "Contributor": "Love-in-idleness <3499847908@qq.com>",
-    "Website": "https://opentabletdriver.net",
-    "Update": "2025-06-14 22:09:38",
-    "Size": "5.17 MB",
-    "More": "OpenTabletDriver 支持的数位板种类最多，兼容性优秀，适用于多个平台，并且配备了易于使用的图形用户界面。\n\nOpenTabletDriver 支持来自以下（非全部列举）厂商的多种数位板：\n  * Wacom\n  * Huion\n  * XP-Pen\n  * XenceLabs\n  * Gaomon\n  * Veikk\n\n安装后请执行下面命令以保证正常使用：\nsystemctl --user enable opentabletdriver.service --now",
-    "Tags": "community;debian;ubuntu",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/14/19925dc961b24720adc53c09e392b902.png\",\"https://spk-json.spark-app.store/images/2025/06/14/bad824723c0d4131bf2f50c67e228d0e.png\",\"https://spk-json.spark-app.store/images/2025/06/14/d334db662c6645ebbfe7fc54bbea285e.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/14/8ba9b9015d9d4fa6b84ef54f01a93080.png"
+    "Name": "鼠标自动机",
+    "Version": "1.0.0",
+    "Filename": "mouse-machine_1.0.0_amd64.deb",
+    "Torrent_address": "mouse-machine_1.0.0_amd64.deb.torrent",
+    "Pkgname": "mouse-machine",
+    "Author": "fu huizhong<fuhuizn@163.com>",
+    "Contributor": "fu huizhong<fuhuizn@163.com>",
+    "Website": "https://gitee.com/rocket049/",
+    "Update": "2025-07-14 13:12:44",
+    "Size": "9.62 MB",
+    "More": "记录鼠标左键点击动作，并重复执行鼠标左键点击动作。\nRecord mouse left click actions. And repeat mouse left click actions.",
+    "Tags": "ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/14/f440dfb23313430384a4d1ce75c08c43.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/14/3a61626112274618bc6aed9db38a2462.png"
 }
 ,
 {
@@ -6437,23 +6454,6 @@
   "icons": "https://spk-json.spark-app.store/icons/2024/12/11/e9dd61fc8c2c4088a917e7135455f18c.png"
 }
 
-,
-{
-    "Name": "鼠标自动机",
-    "Version": "1.0.0",
-    "Filename": "mouse-machine_1.0.0_amd64.deb",
-    "Torrent_address": "mouse-machine_1.0.0_amd64.deb.torrent",
-    "Pkgname": "mouse-machine",
-    "Author": "fu huizhong<fuhuizn@163.com>",
-    "Contributor": "fu huizhong<fuhuizn@163.com>",
-    "Website": "https://gitee.com/rocket049/",
-    "Update": "2025-07-14 13:12:44",
-    "Size": "9.62 MB",
-    "More": "记录鼠标左键点击动作，并重复执行鼠标左键点击动作。\nRecord mouse left click actions. And repeat mouse left click actions.",
-    "Tags": "ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/14/f440dfb23313430384a4d1ce75c08c43.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/07/14/3a61626112274618bc6aed9db38a2462.png"
-}
 ,
 {
   "Name": "为每行文本添加双引号",

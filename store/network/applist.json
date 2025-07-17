@@ -444,14 +444,14 @@
 ,
 {
     "Name": "Microsoft Edge Dev开发者通道",
-    "Version": "140.0.3421.0-1",
-    "Filename": "microsoft-edge-dev_140.0.3421.0-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-dev_140.0.3421.0-1_amd64.deb.torrent",
+    "Version": "140.0.3430.1-1",
+    "Filename": "microsoft-edge-dev_140.0.3430.1-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-dev_140.0.3430.1-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-dev",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-07-11 18:20:15",
+    "Update": "2025-07-17 14:47:12",
     "Size": "180M",
     "More": "Access the Internet/连接网络\nMicrosoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier./Microsoft Edge 是一款将极简设计与先进技术相结合的浏览器，使网络变得更快、更安全、更轻松。\n每周更新\n比金丝雀更稳定。过去一周改进的最佳代表。\n我们的三个预览频道（Canary、Dev 和 Beta）可在所有受支持的 Windows、Windows Server 以及 macOS、Mobile 和 Linux 版本上使用。安装预览频道不会卸载已发布的 Microsoft Edge 版本，你可以同时安装多个预览频道。\n\n\n                    以下是 Microsoft Edge 新增功能介绍\n                从移动设备上传文件或照片\n通过扫描二维码，快速连接与 PC 处于同一网络的任何移动设备。这样，您便可以在 PC 上访问移动设备上的文件。\n阅读任何语言的 PDF\n只需右键单击 PDF，即可在 Microsoft Edge 边栏中将文本翻译为您的首选语言。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -891,14 +891,14 @@
 ,
 {
     "Name": "Google Chrome 开发者版",
-    "Version": "140.0.7259.2-1",
-    "Filename": "google-chrome-unstable_140.0.7259.2-1_amd64.deb",
-    "Torrent_address": "google-chrome-unstable_140.0.7259.2-1_amd64.deb.torrent",
+    "Version": "140.0.7299.0-1",
+    "Filename": "google-chrome-unstable_140.0.7299.0-1_amd64.deb",
+    "Torrent_address": "google-chrome-unstable_140.0.7299.0-1_amd64.deb.torrent",
     "Pkgname": "google-chrome-unstable",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://gitee.com/spark-building-service/google-chrome-stable",
-    "Update": "2025-06-27 05:04:26",
+    "Update": "2025-07-17 17:34:41",
     "Size": "114M",
     "More": "谷歌浏览器是一款将极简设计与先进技术相结合的浏览器，使网络更快、更安全、更容易。",
     "Tags": "ubuntu;deepin;uos;debian",
@@ -1711,21 +1711,6 @@
 }
 ,
 {
-    "Name": "AB Download Manager",
-    "Author": "abdownloadmanager.com",
-    "Website": "https://abdownloadmanager.com/",
-    "More": "一款界面美观，功能类似 IDM 的下载器。界面支持设定为中文。",
-    "Tags": "debian;deepin;ubuntu;uos",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/24/43f32eb15f0148ffb619a5e2537fd80e.png\",\"https://spk-json.spark-app.store/images/2025/01/24/e7a7bc2942da4ccea9a87177a8cf1d47.png\"]",
-    "Pkgname": "abdownloadmanager",
-    "Version": "1.5.8",
-    "Filename": "abdownloadmanager_1.5.8_amd64.deb",
-    "Update": "2025-05-11 01:43:13",
-    "Size": "73.67MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
-}
-,
-{
   "Name": "畅邮",
   "Version": "6.6.4.6",
   "Filename": "com.cy-email.spark_6.6.4.6_i386.deb",
@@ -1742,6 +1727,21 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/f87d6fd0-2a94-11ed-9bd6-8b4709310a39.png"
 }
 
+,
+{
+    "Name": "AB Download Manager",
+    "Author": "abdownloadmanager.com",
+    "Website": "https://abdownloadmanager.com/",
+    "More": "一款界面美观，功能类似 IDM 的下载器。界面支持设定为中文。",
+    "Tags": "debian;deepin;ubuntu;uos",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/24/43f32eb15f0148ffb619a5e2537fd80e.png\",\"https://spk-json.spark-app.store/images/2025/01/24/e7a7bc2942da4ccea9a87177a8cf1d47.png\"]",
+    "Pkgname": "abdownloadmanager",
+    "Version": "1.5.8",
+    "Filename": "abdownloadmanager_1.5.8_amd64.deb",
+    "Update": "2025-05-11 01:43:13",
+    "Size": "73.67MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
 ,
 {
     "Name": "Midori 浏览器（一个轻量级的 Web 浏览器）",
@@ -1953,6 +1953,23 @@
 
 ,
 {
+    "Name": "豆包(wine)",
+    "Version": "1.56.6wine3",
+    "Filename": "doubao-wine_1.56.6wine3_all.deb",
+    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
+    "Pkgname": "doubao-wine",
+    "Author": "豆包",
+    "Contributor": "CR.Zhu",
+    "Website": "https://www.doubao.com/download/",
+    "Update": "2025-05-26 16:27:34",
+    "Size": "519.32 MB",
+    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
+    "Tags": "debian;ubuntu;deepin;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
+}
+,
+{
   "Name": "Pritunl 客户端",
   "Version": "1.2.2653.1-0debian1~buster",
   "Filename": "pritunl-client-electron_1.2.2653.1_amd64.deb",
@@ -1986,23 +2003,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/20/c80e82b032254dc589fbd9887dc9c37a.png"
 }
 
-,
-{
-    "Name": "豆包(wine)",
-    "Version": "1.56.6wine3",
-    "Filename": "doubao-wine_1.56.6wine3_all.deb",
-    "Torrent_address": "doubao-wine_1.56.6wine3_all.deb.torrent",
-    "Pkgname": "doubao-wine",
-    "Author": "豆包",
-    "Contributor": "CR.Zhu",
-    "Website": "https://www.doubao.com/download/",
-    "Update": "2025-05-26 16:27:34",
-    "Size": "519.32 MB",
-    "More": "字节跳动公司基于云雀模型开发的AI工具，提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息",
-    "Tags": "debian;ubuntu;deepin;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/26/0b27d48f96f54bc6a12d59612c9e09a6.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/05/26/9c54866046394e6d8a89509b94e027fe.png"
-}
 ,
 {
   "Author": "wang",
@@ -2163,6 +2163,23 @@
 }
 ,
 {
+  "Name": "微云同步助手（wine）",
+  "Version": "3.0.0spark1",
+  "Filename": "com.weiyunsync.spark_3.0.0spark1_i386.deb",
+  "Pkgname": "com.weiyunsync.spark",
+  "Author": "腾讯科技（深圳）有限公司",
+  "Contributor": "anima",
+  "Website": "https://www.weiyun.com/",
+  "Update": "2021-08-30 18:56:58",
+  "Size": "47.14 MB",
+  "More": "微云与电脑硬盘关联\n文件实时同步到云端",
+  "Tags": "deepin;uos;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/e0329d00-0980-11ec-9a1f-c5ae1a09765a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/e04b2e10-0980-11ec-9a1f-c5ae1a09765a.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/30/dbbb93d0-0980-11ec-9a1f-c5ae1a09765a.png"
+}
+
+,
+{
   "Name": "蜗牛下载器",
   "Version": "1.17.1-1",
   "Filename": "snail_1.17.1-1_amd64.deb",
@@ -2181,19 +2198,20 @@
 
 ,
 {
-  "Name": "微云同步助手（wine）",
-  "Version": "3.0.0spark1",
-  "Filename": "com.weiyunsync.spark_3.0.0spark1_i386.deb",
-  "Pkgname": "com.weiyunsync.spark",
-  "Author": "腾讯科技（深圳）有限公司",
-  "Contributor": "anima",
-  "Website": "https://www.weiyun.com/",
-  "Update": "2021-08-30 18:56:58",
-  "Size": "47.14 MB",
-  "More": "微云与电脑硬盘关联\n文件实时同步到云端",
-  "Tags": "deepin;uos;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/e0329d00-0980-11ec-9a1f-c5ae1a09765a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/08/30/e04b2e10-0980-11ec-9a1f-c5ae1a09765a.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/08/30/dbbb93d0-0980-11ec-9a1f-c5ae1a09765a.png"
+  "Name": "anto  翻译工具",
+  "Version": "3.6.3",
+  "Filename": "com.anto.deepin_3.6.3_all.deb",
+  "Torrent_address": "com.anto.deepin_3.6.3_all.deb.torrent",
+  "Pkgname": "com.anto.deepin",
+  "Author": "wang",
+  "Contributor": "wang",
+  "Website": "https://www.appinn.com/anto-srt-translate/",
+  "Update": "2024-05-30 22:51:16",
+  "Size": "10.28 MB",
+  "More": "anto 是一款简单、开箱即用的 Windows 工具，用来翻译字幕文件。内置彩云小译、DeepL、微软翻译，并支持自配置的百度翻译、华为云、火山、腾讯、有道、OpenAI 翻译引擎。",
+  "Tags": "deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
 }
 
 ,
@@ -2212,24 +2230,6 @@
   "Tags": "deepin;uos",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/14/2e700ee5f4fa4dcca2a6f8a5210fbf71.png\",\"https://spk-json.spark-app.store/images/2024/12/14/d7f947a258394f218056090983571a17.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2024/12/14/0cff87616c864579bfe8f126b1b222ca.png"
-}
-
-,
-{
-  "Name": "anto  翻译工具",
-  "Version": "3.6.3",
-  "Filename": "com.anto.deepin_3.6.3_all.deb",
-  "Torrent_address": "com.anto.deepin_3.6.3_all.deb.torrent",
-  "Pkgname": "com.anto.deepin",
-  "Author": "wang",
-  "Contributor": "wang",
-  "Website": "https://www.appinn.com/anto-srt-translate/",
-  "Update": "2024-05-30 22:51:16",
-  "Size": "10.28 MB",
-  "More": "anto 是一款简单、开箱即用的 Windows 工具，用来翻译字幕文件。内置彩云小译、DeepL、微软翻译，并支持自配置的百度翻译、华为云、火山、腾讯、有道、OpenAI 翻译引擎。",
-  "Tags": "deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/76f975593fa64114944c0d15bb37c439.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/fcd7bd1efccf47d096899ed9eb68019d.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/05/30/799c32d36e5c4d12af9994133c82f06f.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/05/30/39c35facca4c4456ab7f2e4efbd2f6ab.png"
 }
 
 ,
@@ -3207,6 +3207,23 @@
 
 ,
 {
+    "Name": "NoMachine",
+    "Version": "9.0.188-11",
+    "Filename": "nomachine_9.0.188-11_amd64.deb",
+    "Torrent_address": "nomachine_9.0.188-11_amd64.deb.torrent",
+    "Pkgname": "nomachine",
+    "Author": "NoMachine S.a.r.l. <info@nomachine.com>",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Website": "https://www.nomachine.com/",
+    "Update": "2025-06-21 20:34:15",
+    "Size": "70.48 MB",
+    "More": "NoMachine is a fast and secure remote access system and terminal server\n service. It provides a full set of administration tools that make it a complete\n desktop virtualization solution for you or for your organization.\n .\n This package includes all programs and libraries necessary to\n transform your machine into a server in the cloud or a remote\n desktop client according to your needs.",
+    "Tags": "debian;ubuntu;deepin",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/21/fd0100de5da343f7b7b13775361401a1.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/06/21/10cca5a74f63446aa5f64d3183c96e34.png"
+}
+,
+{
   "Name": "PikPak客户端 Shimily 版",
   "Version": "3.0.3",
   "Filename": "com.pikpakshimily.spark_3.0.3_all.deb.update",
@@ -3241,23 +3258,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/06/01/60dab1edc03041c49927e8f7a210dc82.png"
 }
 
-,
-{
-    "Name": "NoMachine",
-    "Version": "9.0.188-11",
-    "Filename": "nomachine_9.0.188-11_amd64.deb",
-    "Torrent_address": "nomachine_9.0.188-11_amd64.deb.torrent",
-    "Pkgname": "nomachine",
-    "Author": "NoMachine S.a.r.l. <info@nomachine.com>",
-    "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Website": "https://www.nomachine.com/",
-    "Update": "2025-06-21 20:34:15",
-    "Size": "70.48 MB",
-    "More": "NoMachine is a fast and secure remote access system and terminal server\n service. It provides a full set of administration tools that make it a complete\n desktop virtualization solution for you or for your organization.\n .\n This package includes all programs and libraries necessary to\n transform your machine into a server in the cloud or a remote\n desktop client according to your needs.",
-    "Tags": "debian;ubuntu;deepin",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/06/21/fd0100de5da343f7b7b13775361401a1.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/06/21/10cca5a74f63446aa5f64d3183c96e34.png"
-}
 ,
 {
   "Name": "拖把更名器",

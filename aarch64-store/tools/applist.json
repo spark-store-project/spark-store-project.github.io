@@ -711,6 +711,23 @@
 
 ,
 {
+    "Name": "LocalSend",
+    "Author": "Tienisto <dev.tien.donam@gmail.com>",
+    "Website": "https://localsend.org/",
+    "More": "LocalSend是一个跨平台的应用程序，可以使用REST API和HTTPS加密实现设备之间的安全通信。与其他依赖外部服务器的消息传递应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为快速可靠的本地通信解决方案。\nLocalSend 使用安全通信协议，允许设备使用 REST API 相互通信。所有数据都通过HTTPS安全发送，并在每台设备上动态生成TLS / SSL证书，确保最大的安全性。",
+    "Tags": "debian;community;ubuntu;deepin;uos;a2d",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/localsend/screen_1.png\"]",
+    "icons": "https://spk-json.spark-app.store/store/tools/localsend/icon.png",
+    "Pkgname": "localsend",
+    "Version": "1.17.0",
+    "Filename": "localsend_1.17.0_arm64.deb",
+    "Update": "2025-03-07 21:12:41",
+    "Size": "10.84MB",
+    "Contributor": "https://gitee.com/spark-building-service/github"
+}
+
+,
+{
   "Author": "Zhuhai Pantum Electronics Co., Ltd <4009999810@pantum.com>",
   "Contributor": "gfdgd_xi <3025613752@qq.com>",
   "Filename": "com.pantum.pantum_8.0.25-1+uos_arm64.deb",
@@ -725,23 +742,6 @@
   "Website": "https://www.pantum.cn/",
   "icons": "https://spk-json.spark-app.store/aarch64-store/tools/com.pantum.pantum/icon.png",
   "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/com.pantum.pantum/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.pantum.pantum/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/com.pantum.pantum/screen_3.png\"]"
-}
-
-,
-{
-    "Name": "LocalSend",
-    "Author": "Tienisto <dev.tien.donam@gmail.com>",
-    "Website": "https://localsend.org/",
-    "More": "LocalSend是一个跨平台的应用程序，可以使用REST API和HTTPS加密实现设备之间的安全通信。与其他依赖外部服务器的消息传递应用程序不同，LocalSend 不需要互联网连接或第三方服务器，使其成为快速可靠的本地通信解决方案。\nLocalSend 使用安全通信协议，允许设备使用 REST API 相互通信。所有数据都通过HTTPS安全发送，并在每台设备上动态生成TLS / SSL证书，确保最大的安全性。",
-    "Tags": "debian;community;ubuntu;deepin;uos;a2d",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/localsend/screen_1.png\"]",
-    "icons": "https://spk-json.spark-app.store/store/tools/localsend/icon.png",
-    "Pkgname": "localsend",
-    "Version": "1.17.0",
-    "Filename": "localsend_1.17.0_arm64.deb",
-    "Update": "2025-03-07 21:12:41",
-    "Size": "10.84MB",
-    "Contributor": "https://gitee.com/spark-building-service/github"
 }
 
 ,
@@ -1052,24 +1052,6 @@
 
 ,
 {
-  "Author": "SeptemberHX",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "dde-top-panel_0.6.8_arm64.deb",
-  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
-  "Name": "DDE Top Panel 顶栏程序",
-  "Pkgname": "dde-top-panel",
-  "Size": "7119 Kb",
-  "Tags": "community;deepin;uos;native",
-  "Torrent_address": "dde-top-panel_0.6.8_arm64.deb.torrent",
-  "Update": "2023-03-05 18:52:16",
-  "Version": "0.6.8",
-  "Website": "https://github.com/SeptemberHX/dde-top-panel",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "store.spark-app.appwrapper.brasero_3.12.3-2_all.deb",
@@ -1084,6 +1066,24 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/store.spark-app.appwrapper.brasero/screen_2.png\"]"
+}
+
+,
+{
+  "Author": "SeptemberHX",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "dde-top-panel_0.6.8_arm64.deb",
+  "More": "如何使用？\ngithub访问有问题的请直接从网盘下载（太大了，超过了论坛附件大小限制：\n    前往 https://github.com/SeptemberHX/dde-top-panel/releases 下载最新 release 包，如果是 zip 解压后即可得到 deb，直接安装，并在启动器设置自启动\n    以下步骤为全局菜单开启步骤，不需要的不用做。 \n    前往 https://github.com/SeptemberHX/dde-globalmenu-service.git 下载最新 release 安装包\n    安装即可，在 启动器中右键设置成自启动\n    修改文件 ~/.gtkrc-2.0 ，添加 gtk-modules=appmenu-gtk-module\n    修改文件 ～/.config/gtk-3.0/settings.ini ，[Settings] 条目下 添加      gtk-modules=appmenu-gtk-module\n    注销或者重启\n网盘：https://wwi.lanzoup.com/b01bh6pfg\n密码：fih3\n\n因为顶栏高度问题，官方的时间插件显示会挤在一起，这个只能用其它插件：https://bbs.deepin.org/post/198163  （原贴找不到了，作者看见请联系我修改。。）\n卸载 panel 后如果出现窗口最大化后不显示三个按钮：看一下 ~/.config/.kwinrc 文件，里面有一个配置项就是最大化时隐藏按钮，删掉那一行，然后注销重新登录就行了；或者先把 dde-top-panel 装回来，然后 panel 设置里取消勾选最大化隐藏按钮，然后在卸载 panel，注销并重新登录\n多个显示器出现panel错位：很奇怪，一部分人遇到了，一部分人没有遇到。如果遇见了，先把多余屏幕拔下来，设置好缩放后，再插回来\n如果 panel 上托盘异常，请确保 dde-top-panel 插件目录下的 libtray.so 是系统的最新版本！系统升级时 panel 不会主动更新 libtray.so 文件。\n\n------ 2022-03-09\nBug 修复：\n某些时候切换窗口导致的随机崩溃 => 详情见 Issue #50 · SeptemberHX/dde-top-panel",
+  "Name": "DDE Top Panel 顶栏程序",
+  "Pkgname": "dde-top-panel",
+  "Size": "7119 Kb",
+  "Tags": "community;deepin;uos;native",
+  "Torrent_address": "dde-top-panel_0.6.8_arm64.deb.torrent",
+  "Update": "2023-03-05 18:52:16",
+  "Version": "0.6.8",
+  "Website": "https://github.com/SeptemberHX/dde-top-panel",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/dde-top-panel/screen_3.png\"]"
 }
 
 ,
@@ -1214,6 +1214,24 @@
 
 ,
 {
+  "Author": "shenmo<shenmo@spark-app.store>",
+  "Contributor": "shenmo<shenmo@spark-app.store>",
+  "Filename": "open-in-terminal-tool_1.0.1_all.deb",
+  "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
+  "Name": "在终端中打开工具",
+  "Pkgname": "open-in-terminal-tool",
+  "Size": "80 Kb",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
+  "Update": "2024-03-14 18:11:00",
+  "Version": "1.0.1",
+  "Website": "https://gitee.com/deepin-community-store/",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
+}
+
+,
+{
     "Name": "附加基础库 Additional Base Lib",
     "Version": "2.41-9-9",
     "Filename": "additional-base-lib_2.41-9-9_arm64.deb",
@@ -1246,24 +1264,6 @@
   "Website": "https://gitee.com/zinface/z-tools",
   "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/icon.png",
   "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/z-tools-base-apk-view/screen_2.png\"]"
-}
-
-,
-{
-  "Author": "shenmo<shenmo@spark-app.store>",
-  "Contributor": "shenmo<shenmo@spark-app.store>",
-  "Filename": "open-in-terminal-tool_1.0.1_all.deb",
-  "More": "简单的一个用于排查错误的工具，右键点击desktop以在终端中打开",
-  "Name": "在终端中打开工具",
-  "Pkgname": "open-in-terminal-tool",
-  "Size": "80 Kb",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "Torrent_address": "open-in-terminal-tool_1.0.1_all.deb.torrent",
-  "Update": "2024-03-14 18:11:00",
-  "Version": "1.0.1",
-  "Website": "https://gitee.com/deepin-community-store/",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/open-in-terminal-tool/screen_2.png\"]"
 }
 
 ,
@@ -1913,24 +1913,6 @@
 
 ,
 {
-  "Author": "BaoquTech",
-  "Contributor": "BaoquTech",
-  "Filename": "com.duba.antivirus_1.1.0.15_arm64.deb",
-  "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
-  "Name": "金山毒霸",
-  "Pkgname": "com.duba.antivirus",
-  "Size": "205 Mb",
-  "Tags": "deepin;uos;debian;native",
-  "Torrent_address": "com.duba.antivirus_1.1.0.15_arm64.deb.torrent",
-  "Update": "2023-06-30 15:29:26",
-  "Version": "1.1.0.15",
-  "Website": "https://www.duba.net/",
-  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/icon.png",
-  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_3.png\"]"
-}
-
-,
-{
     "Author": "spark-store",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "cpux_5.3.1_arm64.deb",
@@ -1945,6 +1927,24 @@
     "Website": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
     "icons": "https://spk-json.spark-app.store/aarch64-store/tools/cpux/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_1.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_2.png\",\"https://spk-json.spark-app.store/aarch64-store/tools/cpux/screen_3.png\"]"
+}
+
+,
+{
+  "Author": "BaoquTech",
+  "Contributor": "BaoquTech",
+  "Filename": "com.duba.antivirus_1.1.0.15_arm64.deb",
+  "More": "一款为用户电脑减负并提供安全保护的云查杀杀毒软件",
+  "Name": "金山毒霸",
+  "Pkgname": "com.duba.antivirus",
+  "Size": "205 Mb",
+  "Tags": "deepin;uos;debian;native",
+  "Torrent_address": "com.duba.antivirus_1.1.0.15_arm64.deb.torrent",
+  "Update": "2023-06-30 15:29:26",
+  "Version": "1.1.0.15",
+  "Website": "https://www.duba.net/",
+  "icons": "https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/icon.png",
+  "img_urls": "[\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_1.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_2.png\",\"https://mirrors.sdu.edu.cn/spark-store-repository/store/tools/com.duba.antivirus/screen_3.png\"]"
 }
 
 ,
