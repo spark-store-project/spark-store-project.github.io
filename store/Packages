@@ -5956,32 +5956,6 @@ Description: Oracle VirtualBox
  feature set and excellent performance, making it the premier virtualization
  software solution on the market.
 
-Package: virtualbox-7.1
-Architecture: amd64
-Version: 7.1.10-169112~Debian~bookworm
-Priority: optional
-Section: contrib/misc
-Maintainer: Oracle Corporation <info@virtualbox.org>
-Installed-Size: 268094
-Provides: virtualbox
-Pre-Depends: debconf (>= 1.1) | debconf-2.0
-Depends: psmisc, adduser, libvulkan1, libatk1.0-0 (>= 1.12.4), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.2.4), libcurl4 (>= 7.16.2), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.4), libgdk-pixbuf-2.0-0 (>= 2.31.1), libgl1, libglib2.0-0 (>= 2.33.14), libgtk-3-0 (>= 3.9.10), libgtk2.0-bin (>= 2.24.0), liblzma5 (>= 5.1.1alpha+20120614), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 12), libvpx9 (>= 1.12.0), libx11-6, libx11-xcb1 (>= 2:1.8.4), libxcb-cursor0 (>= 0.0.99), libxcb-icccm4 (>= 0.4.1), libxcb-image0 (>= 0.2.1), libxcb-keysyms1 (>= 0.4.0), libxcb-randr0 (>= 1.12), libxcb-render-util0, libxcb-render0, libxcb-shape0, libxcb-shm0 (>= 1.10), libxcb-sync1, libxcb-xfixes0, libxcb-xkb1, libxcb1 (>= 1.8), libxkbcommon-x11-0 (>= 0.5.0), libxkbcommon0 (>= 0.5.0), libxml2 (>= 2.7.4), libxt6, zlib1g (>= 1:1.2.3.4)
-Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, kmod | kldutils | module-init-tools, linux-headers-generic | linux-headers-generic-pae | linux-headers-686-pae | linux-headers-amd64 | linux-headers-2.6-686 | linux-headers-2.6-amd64 | linux-headers, linux-image, gcc, make | build-essential | dpkg-dev, binutils, pdf-viewer
-Conflicts: virtualbox, virtualbox-dkms, virtualbox-guest-additions-iso, virtualbox-ose, virtualbox-qt
-Replaces: virtualbox
-Filename: ./tools/virtualbox-7.1/virtualbox-7.1_7.1.10-169112~Debian~bookworm_amd64.deb
-Size: 118695084
-MD5sum: c063abe862379b6773b533f69e9ae5e9
-SHA1: 97e7977d386c5e9f00ce67b9ef0d56d9be1e25ad
-SHA256: 386e62547fd04d91a7bf72175197440d213ab3b19ef1e0c45ed5bfe8126a9f21
-SHA512: 0abcb27f462f85c0e1d7e93becfd99d23e77e97ef519971983dbb21869fcc35064094f457c45fc6f4aa5fc609d5e21e5f8babf9672270c4c2ffd418755e00baf
-Description: Oracle VirtualBox
- VirtualBox is a powerful PC virtualization solution allowing you to run a
- wide range of PC operating systems on your Linux system. This includes
- Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad
- feature set and excellent performance, making it the premier virtualization
- software solution on the market.
-
 Package: com.codedead.advanced-passgen.spark
 Architecture: amd64
 Version: 2.4.0spark0
@@ -31422,19 +31396,19 @@ Description: yidongbangong Client on Deepin Wine6
 
 Package: tdappdesktop
 Architecture: amd64
-Version: 3.9.20
+Version: 3.10.0
 Priority: optional
 Section: default
 Maintainer: TencentDocs
-Installed-Size: 769886
+Installed-Size: 779642
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./office/tdappdesktop/tdappdesktop_3.9.20_amd64.deb
-Size: 178841228
-MD5sum: 4be67d30c82c00e1ed8d1a4b9eca13fd
-SHA1: 7f508f57f895dd2925b5debeae9f38654d29a888
-SHA256: d329fda08a3df7d8fa9dfbda3db5ee51ee41389c427ec308599d1a7ebccf828a
-SHA512: 4fe34379afca4b518b59016873c85ad762d9d7771fa27acc35768344b0c8936ec86ee437a864266abcf5d5d1dadc7c3c2457a571f53916dbcb867ba64e4f0d0d
+Filename: ./office/tdappdesktop/tdappdesktop_3.10.0_amd64.deb
+Size: 181231242
+MD5sum: e6cea2c037a65f0dfc0d5f7404559ea2
+SHA1: 7014e74945e53f9f10a49e4dea50e3bbde3ddf8b
+SHA256: 19e7ad8ed550420567f468e158cfd81f88a4e509ba280179f0e4e85907492483
+SHA512: ac27d241b88eb0d4456bb79150c0670d80dc6424aa4519b07cd5e50f8cfe6945230a2f6dc8fbb3ef5c77fe5709ff16829dc8789b3ae533c1883378312b1be883
 Homepage: https://docs.qq.com/home
 Description: 
   腾讯文档
@@ -34420,20 +34394,20 @@ Description: SunloginRemote-6.5.5.20079 for Linux
 
 Package: microsoft-edge-beta
 Architecture: amd64
-Version: 139.0.3405.36-1
+Version: 139.0.3405.42-1
 Priority: optional
 Section: web
 Maintainer: Microsoft Edge for Linux Team <EdgeLinuxDev@microsoft.com>
-Installed-Size: 614133
+Installed-Size: 614206
 Provides: www-browser
 Pre-Depends: dpkg (>= 1.14.0)
 Depends: ca-certificates, fonts-liberation, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libgbm1 (>= 17.1.0~rc2), libglib2.0-0 (>= 2.39.4), libgtk-3-0 (>= 3.9.10) | libgtk-4-1, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.35), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libuuid1 (>= 2.16), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
-Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_139.0.3405.36-1_amd64.deb
-Size: 187896400
-MD5sum: 7b230f46226093a033c6d10c0e65df07
-SHA1: 90acde67f7056579fab50d615ac40224a534755e
-SHA256: 8cbf3779218cbe08da1cf353195f285f6b0d4cdb9d4d66914979e5f20c2b4c58
-SHA512: 103c6119e610800189843254d5f4e0b8a146c1c429e60fa51bb6dea99e174373f32d40839f59c763072ce79d9741010b74e8a38f1c8cbfb5ea8445ff861af313
+Filename: ./network/microsoft-edge-beta/microsoft-edge-beta_139.0.3405.42-1_amd64.deb
+Size: 187955028
+MD5sum: 9e00a4da999a22ff74864caffce7ec5e
+SHA1: 78226f2f7ab18f374db59edb68345e182f5ab76c
+SHA256: 2484d6910ec91418c80117e60fb8a31d110d6549c8d06b0ce1d9cedf296e65dd
+SHA512: da999738d113e1ecbc726b1ddb2bd4ec885366989f9a1db1a059444c2ef7d6a960d137fb1f7fcf984f8a99f0abbeab65bf6a0818e0cc86f3a4274cdd92bb2508
 Description: The web browser from Microsoft
  Microsoft Edge is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
@@ -41274,19 +41248,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: amd64
-Version: 3.2.18-37051
+Version: 3.2.18-37475
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 507351
+Installed-Size: 507145
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-37051_amd64.deb
-Size: 151033152
-MD5sum: 1bf0dcf461a132df4837ee942610ecd3
-SHA1: 5ca05cb1ee4876e061d71a98f9da4b697ac20d4b
-SHA256: 3f4db7ac86a53c08015d9a89be70a0107a93ba65a6f9d85a51e7f3b91ff86a85
-SHA512: 65295c0d42a76dc0e0d99ccba359e24032d2d98f3700ab13197421e7a2cd915c9cb21b0071df31ff1b2fef794aa3ae220ddae250496909a9eb80f8285bc37832
+Filename: ./chat/linuxqq/linuxqq_3.2.18-37475_amd64.deb
+Size: 151072446
+MD5sum: 9ddb6c3b1f4bfbb3293e23aedecb69e3
+SHA1: 295fe53783cb6dddaf39f7b633e98e71ffc35d1a
+SHA256: 699d7274515b6e9362cce6586666279e56fefe6d06a2eec894d97237067910af
+SHA512: cdd876f2a00a8b23f6340f8b7f2671f7e21dc31cde29bfd071495f4655d12b4a5b8ed4122fac0a2033b87b0d606e9571245002d4bd6612436858103bfefb72f4
 Homepage: https://im.qq.com
 Description: 
   QQ

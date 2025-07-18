@@ -1050,6 +1050,23 @@
 
 ,
 {
+    "Name": "夸克浏览器",
+    "Version": "2.0.5.220spark1",
+    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
+    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
+    "Pkgname": "cn.quark.quarkpc.spark",
+    "Author": "广州市动悦信息技术有限公司",
+    "Contributor": "sgb76",
+    "Website": "https://www.quark.cn/",
+    "Update": "2025-02-27 22:56:53",
+    "Size": "251.42 MB",
+    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
+    "Tags": "debian;ubuntu;deepin;uos;dwine5",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
+}
+,
+{
   "Name": "VNC Server",
   "Version": "7.13.1.57",
   "Filename": "realvnc-vnc-server_7.13.1.57_amd64.deb",
@@ -1066,23 +1083,6 @@
   "icons": "https://spk-json.spark-app.store/icons/2024/12/14/92c584fb9ed646e787aa9d298287ab1a.png"
 }
 
-,
-{
-    "Name": "夸克浏览器",
-    "Version": "2.0.5.220spark1",
-    "Filename": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb",
-    "Torrent_address": "cn.quark.quarkpc.spark_2.0.5.220spark1_all.deb.torrent",
-    "Pkgname": "cn.quark.quarkpc.spark",
-    "Author": "广州市动悦信息技术有限公司",
-    "Contributor": "sgb76",
-    "Website": "https://www.quark.cn/",
-    "Update": "2025-02-27 22:56:53",
-    "Size": "251.42 MB",
-    "More": "夸克浏览器PC版\n\n--说明--\n修复上一个版本卸载应用后残留容器的问题",
-    "Tags": "debian;ubuntu;deepin;uos;dwine5",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/27/a909b993175547d09263c9b0dcc2cee5.png\",\"https://spk-json.spark-app.store/images/2025/02/27/3722693222e443529709f08476b9103e.png\",\"https://spk-json.spark-app.store/images/2025/02/27/6dcbfb47d8354b3e9be0446b037e68fa.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/02/27/25222ab1b02a4472834330ccb22e3c55.png"
-}
 ,
 {
   "Name": "SwitchHosts",
@@ -1119,37 +1119,19 @@
 ,
 {
     "Name": "Microsoft Edge(Beta)",
-    "Version": "139.0.3405.36-1",
-    "Filename": "microsoft-edge-beta_139.0.3405.36-1_amd64.deb",
-    "Torrent_address": "microsoft-edge-beta_139.0.3405.36-1_amd64.deb.torrent",
+    "Version": "139.0.3405.42-1",
+    "Filename": "microsoft-edge-beta_139.0.3405.42-1_amd64.deb",
+    "Torrent_address": "microsoft-edge-beta_139.0.3405.42-1_amd64.deb.torrent",
     "Pkgname": "microsoft-edge-beta",
     "Author": "shenmo<shenmo@spark-app.store>",
     "Contributor": "shenmo<shenmo@spark-app.store>",
     "Website": "https://www.microsoft.com/zh-cn/edge",
-    "Update": "2025-07-16 17:39:56",
+    "Update": "2025-07-18 17:48:31",
     "Size": "180M",
     "More": "Microsoft Edge Beta 渠道Beta 版频道可以提供最稳定的 Microsoft Edge 预览版体验。 通过每 4 个星期一次重大更新，每个版本都融入了从开发和 Canary 版本获得的经验教训和改进。",
     "Tags": "ubuntu;deepin;uos;debian",
     "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/screen_5.png\"]",
     "icons": "https://cdn.d.store.deepinos.org.cn/store/network/microsoft-edge-beta/icon.png"
-}
-
-,
-{
-  "Name": "B23Downloader",
-  "Version": "0.9.5.4spark1",
-  "Filename": "com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb",
-  "Torrent_address": "com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb.torrent",
-  "Pkgname": "com.github.b23downloader.spark",
-  "Author": "b23downloader",
-  "Contributor": "shenmo",
-  "Website": "https://github.com/vooidzero/B23Downloader",
-  "Update": "2022-09-02 12:49:22",
-  "Size": "17.24 MB",
-  "More": "一款开源的，用来下载 B 站视频、直播、漫画的工具 \n\n支持的 URL 输入: \n\n  *用户投稿类视频链接 ，不支持互动视频 \n  *剧集（番剧，电影等）链接 ，暂不支持活动页链接 \n  *课程类视频链接 \n  *直播链接 \n  *直播活动页链接 \n  *漫画链接，暂不支持 Vomic \n  *b23.tv 视频短链，b22.top 漫画短链 \n\n部分类型可以使用编号： \n  *视频 BV 或 av 号，如 BV1ab411c7St 或 av35581924 \n  *剧集 ssid 或 epid，如 ss28341 或 ep281280 \n  *live+直播房间号，如 live6",
-  "Tags": "community;ubuntu;deepin;uos;dwine5;debian",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/94965410-2a7a-11ed-ba48-bb8fe304ca58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/9499af70-2a7a-11ed-ba48-bb8fe304ca58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/949b8430-2a7a-11ed-ba48-bb8fe304ca58.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/8c6688a0-2a7a-11ed-ba48-bb8fe304ca58.png"
 }
 
 ,
@@ -1168,6 +1150,24 @@
     "Website": "",
     "icons": "https://spk-json.spark-app.store/store/network/quark-cloud-drive/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/network/quark-cloud-drive/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "B23Downloader",
+  "Version": "0.9.5.4spark1",
+  "Filename": "com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb",
+  "Torrent_address": "com.github.b23downloader.spark_0.9.5.4spark1_amd64.deb.torrent",
+  "Pkgname": "com.github.b23downloader.spark",
+  "Author": "b23downloader",
+  "Contributor": "shenmo",
+  "Website": "https://github.com/vooidzero/B23Downloader",
+  "Update": "2022-09-02 12:49:22",
+  "Size": "17.24 MB",
+  "More": "一款开源的，用来下载 B 站视频、直播、漫画的工具 \n\n支持的 URL 输入: \n\n  *用户投稿类视频链接 ，不支持互动视频 \n  *剧集（番剧，电影等）链接 ，暂不支持活动页链接 \n  *课程类视频链接 \n  *直播链接 \n  *直播活动页链接 \n  *漫画链接，暂不支持 Vomic \n  *b23.tv 视频短链，b22.top 漫画短链 \n\n部分类型可以使用编号： \n  *视频 BV 或 av 号，如 BV1ab411c7St 或 av35581924 \n  *剧集 ssid 或 epid，如 ss28341 或 ep281280 \n  *live+直播房间号，如 live6",
+  "Tags": "community;ubuntu;deepin;uos;dwine5;debian",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/94965410-2a7a-11ed-ba48-bb8fe304ca58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/9499af70-2a7a-11ed-ba48-bb8fe304ca58.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/09/02/949b8430-2a7a-11ed-ba48-bb8fe304ca58.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/09/02/8c6688a0-2a7a-11ed-ba48-bb8fe304ca58.png"
 }
 
 ,
@@ -1367,6 +1367,23 @@
 
 ,
 {
+  "Name": "Yandex浏览器",
+  "Version": "21.3.3.1195-1",
+  "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
+  "Pkgname": "yandex-browser-beta",
+  "Author": "Yandex",
+  "Contributor": "Yandex",
+  "Website": "www.yandex.com",
+  "Update": "2021-05-22 20:52:10",
+  "Size": "93.01 MB",
+  "More": "一个非常漂亮的浏览器～",
+  "Tags": "uos",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
+}
+
+,
+{
   "Name": "UOS 远程协助",
   "Version": "1.1.36-1",
   "Filename": "uos-remote-assistance_1.1.36-1_amd64.deb",
@@ -1381,23 +1398,6 @@
   "Tags": "deepin;uos",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/b2dbc2a990824a77a99c44e576e7d5bb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/04/cd7481683937450eba00a38e20a2b7e5.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/04/080a51f46732469bad3bea23ac9698df.png"
-}
-
-,
-{
-  "Name": "Yandex浏览器",
-  "Version": "21.3.3.1195-1",
-  "Filename": "yandex-browser-beta_21.3.3.1195-1_amd64.deb",
-  "Pkgname": "yandex-browser-beta",
-  "Author": "Yandex",
-  "Contributor": "Yandex",
-  "Website": "www.yandex.com",
-  "Update": "2021-05-22 20:52:10",
-  "Size": "93.01 MB",
-  "More": "一个非常漂亮的浏览器～",
-  "Tags": "uos",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/05/22/732128d0-bafc-11eb-95ff-5bfa1a237cf6.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/05/22/1261b410-bafc-11eb-95ff-5bfa1a237cf6.jpeg"
 }
 
 ,

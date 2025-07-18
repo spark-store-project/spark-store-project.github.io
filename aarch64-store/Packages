@@ -10313,19 +10313,19 @@ Description: org.deepin.scanner
 
 Package: tdappdesktop
 Architecture: arm64
-Version: 3.9.20
+Version: 3.10.0
 Priority: optional
 Section: default
 Maintainer: TencentDocs
-Installed-Size: 779531
+Installed-Size: 789286
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./office/tdappdesktop/tdappdesktop_3.9.20_arm64.deb
-Size: 173538146
-MD5sum: e7c2573bac36108b36540440b41d5d40
-SHA1: 7a1d5c3b91200f6bb828eeab106c95809564436c
-SHA256: 9ffa645ab9b6308933e2d7d506fce846ab03f0cc9a91443cc1e39ff9ad06f677
-SHA512: 4b446cd390d118dcd44eb3a85442b7d3433dc21d243b05c80d68ed6fa655233fcc618d65df2eeaed6f3d1647980422fa3bdb0c241ae7babcbdfa262ae2a68109
+Filename: ./office/tdappdesktop/tdappdesktop_3.10.0_arm64.deb
+Size: 175305590
+MD5sum: db7989ea8e58585147a6381c00fb97e2
+SHA1: 96538154fc20c49ed9471841987ef4b7d4847e2e
+SHA256: 35fcb5eb294139274b9b99f13266781e1c20c269546e4558e497fcdfd0324d8b
+SHA512: 3b77a5ba5d7a6b59817a3002dc301c9a230259cfb0fdd0bafa8919c8836b0a3f1ec506a976beff8362c80c32fe182f88e049455f7678f0ac576a0f015344306b
 Homepage: https://docs.qq.com/home
 Description: 
   腾讯文档
@@ -13242,19 +13242,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: arm64
-Version: 3.2.18-37051
+Version: 3.2.18-37475
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 539431
+Installed-Size: 539201
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-37051_arm64.deb
-Size: 166570680
-MD5sum: 2e5a6cc4a07feaa6a407dabb1b3e261e
-SHA1: 1fe0ecf4550864dc4d832f26c1877f74a37b3969
-SHA256: dfb1c45e92f27888e05ec0289cd8d2dd8688c24e08b762c3cba623e25a8af784
-SHA512: 2b25a2a544be9039d757982e07c3c55ee208a021611bd17080ad0314b7f8bc3b54806954b231bf748b14fc4fdea98625dc5ca0ffb71949524bb5f744b68eb07e
+Filename: ./chat/linuxqq/linuxqq_3.2.18-37475_arm64.deb
+Size: 166598136
+MD5sum: 13fbbd89795c545f0ad9d954237ba7d7
+SHA1: 0d791df7b16d744ff3dbb9be7a29c6c230d2514b
+SHA256: 80b02a71fac254f6d0d5e8b3c6d867c1ef4a386b3fe58d96a93be83dc5a5e6ca
+SHA512: ec24b93a4ac5de8ba2fa64fb9c793998d7ab2d41401912a1fd0458b8da068487e0aa3eb7b347348bb8dd0c7ee7c5b9be4d5505e3366955f63adaced05face893
 Homepage: https://im.qq.com
 Description: 
   QQ

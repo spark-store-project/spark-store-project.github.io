@@ -948,24 +948,6 @@
 
 ,
 {
-  "Name": "WIFI热点",
-  "Version": "4.7.2",
-  "Filename": "linux-wifi-hotspot_4.7.2_amd64.deb",
-  "Torrent_address": "linux-wifi-hotspot_4.7.2_amd64.deb.torrent",
-  "Pkgname": "linux-wifi-hotspot",
-  "Author": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
-  "Contributor": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
-  "Website": "https://github.com/lakinduakash/linux-wifi-hotspot",
-  "Update": "2024-10-07 15:07:16",
-  "Size": "82.23 KB",
-  "More": "功能丰富的虚拟wifi热点创建工具，适用于Linux，同时提供GUI和命令行界面。 它能够使用已连接wifi网络的同一块无线网卡虚拟出一块无线网卡，然后创建一个新的虚拟wifi热点（类似于Windows 10可实现的功能，或者类似猎豹虚拟wifi软件工具）。部分网卡下可能无法启用。",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/0cd3b546336148ab9af8b0b5a587f754.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/3c1587ce6f9540e0b865608af6621abe.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/07/d448585c408f41b0b5b8a5327d3ceab8.png"
-}
-
-,
-{
     "Author": "shenmo <shenmo@spark-app.store>",
     "Contributor": "shenmo <jifengshenmo@outlook.com>",
     "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
@@ -980,6 +962,24 @@
     "Website": "https://gitee.com/deepin-community-store/spark-wine",
     "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
+}
+
+,
+{
+  "Name": "WIFI热点",
+  "Version": "4.7.2",
+  "Filename": "linux-wifi-hotspot_4.7.2_amd64.deb",
+  "Torrent_address": "linux-wifi-hotspot_4.7.2_amd64.deb.torrent",
+  "Pkgname": "linux-wifi-hotspot",
+  "Author": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
+  "Contributor": "Lakindu Akash <lakinduakash@users.noreply.github.com>",
+  "Website": "https://github.com/lakinduakash/linux-wifi-hotspot",
+  "Update": "2024-10-07 15:07:16",
+  "Size": "82.23 KB",
+  "More": "功能丰富的虚拟wifi热点创建工具，适用于Linux，同时提供GUI和命令行界面。 它能够使用已连接wifi网络的同一块无线网卡虚拟出一块无线网卡，然后创建一个新的虚拟wifi热点（类似于Windows 10可实现的功能，或者类似猎豹虚拟wifi软件工具）。部分网卡下可能无法启用。",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/0cd3b546336148ab9af8b0b5a587f754.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/3c1587ce6f9540e0b865608af6621abe.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/07/d448585c408f41b0b5b8a5327d3ceab8.png"
 }
 
 ,
@@ -1836,21 +1836,6 @@
 
 ,
 {
-  "Name": "一键更换bing壁纸",
-  "Version": "0.9",
-  "Filename": "oneclickbingwallpaper_0.9_amd64.deb",
-  "Pkgname": "oneclickbingwallpaper",
-  "Author": " ",
-  "Contributor": "shenmo",
-  "Website": " ",
-  "Update": "2020-06-25 18:10",
-  "Size": "46.53KB",
-  "More": "一键更换bing壁纸",
-  "Tags": "debian;native"
-}
-
-,
-{
   "Name": "7-Zip",
   "Version": "24.09spark1",
   "Filename": "org.7-zip.spark_24.09spark1_all.deb",
@@ -1883,6 +1868,21 @@
     "Size": "11.83MB",
     "Contributor": "https://gitee.com/spark-building-service/github"
 }
+,
+{
+  "Name": "一键更换bing壁纸",
+  "Version": "0.9",
+  "Filename": "oneclickbingwallpaper_0.9_amd64.deb",
+  "Pkgname": "oneclickbingwallpaper",
+  "Author": " ",
+  "Contributor": "shenmo",
+  "Website": " ",
+  "Update": "2020-06-25 18:10",
+  "Size": "46.53KB",
+  "More": "一键更换bing壁纸",
+  "Tags": "debian;native"
+}
+
 ,
 {
     "Name": "Cherry Studio（官网deb包版）",
@@ -2828,24 +2828,6 @@
 
 ,
 {
-  "Name": "Podman Desktop",
-  "Version": "1.2.0",
-  "Filename": "podman-desktop_1.2.0_amd64.deb",
-  "Torrent_address": "podman-desktop_1.2.0_amd64.deb.torrent",
-  "Pkgname": "podman-desktop",
-  "Author": "懵仙兔兔 <acgm@qq.com>",
-  "Contributor": "rainoffallingstar <15860147513@163.com>",
-  "Website": "https://github.com/containers/podman-desktop",
-  "Update": "2023-07-15 16:21:04",
-  "Size": "80.93 MB",
-  "More": "Podman Desktop 是一个图形界面工具，使应用程序开发人员能够无缝地使用容器和 Kubernetes。\n\nPodman Desktop 在您的本地环境中安装、配置 Podman 并使 Podman 保持最新。它提供了一个系统托盘，用于检查状态并与您的容器引擎交互，而不会失去对其他任务的关注。桌面应用程序提供了一个仪表板来与容器、图像、pod 和卷进行交互，还可以使用 OCI 注册表和网络设置来配置您的环境。Podman Desktop 还提供将 pod 连接和部署到 Kubernetes 环境的功能。\n\nPodman Desktop 还支持多种容器引擎，选择你最喜欢的并使用该工具！",
-  "Tags": "community;debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
-}
-
-,
-{
   "Name": "一键息屏 one key shut screen",
   "Version": "1.0.0",
   "Filename": "one-key-shut-screen_1.0.0_amd64.deb",
@@ -2875,6 +2857,24 @@
   "Tags": "community;ubuntu;deepin;uos;debian;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2024/12/09/676c44fb614a40dcb619d66bac51f81c.png\",\"https://spk-json.spark-app.store/images/2024/12/09/a667609503f84fc1972dc48bfea5f325.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2024/12/09/c243f507b29d483fa984c41f38437e2e.png"
+}
+
+,
+{
+  "Name": "Podman Desktop",
+  "Version": "1.2.0",
+  "Filename": "podman-desktop_1.2.0_amd64.deb",
+  "Torrent_address": "podman-desktop_1.2.0_amd64.deb.torrent",
+  "Pkgname": "podman-desktop",
+  "Author": "懵仙兔兔 <acgm@qq.com>",
+  "Contributor": "rainoffallingstar <15860147513@163.com>",
+  "Website": "https://github.com/containers/podman-desktop",
+  "Update": "2023-07-15 16:21:04",
+  "Size": "80.93 MB",
+  "More": "Podman Desktop 是一个图形界面工具，使应用程序开发人员能够无缝地使用容器和 Kubernetes。\n\nPodman Desktop 在您的本地环境中安装、配置 Podman 并使 Podman 保持最新。它提供了一个系统托盘，用于检查状态并与您的容器引擎交互，而不会失去对其他任务的关注。桌面应用程序提供了一个仪表板来与容器、图像、pod 和卷进行交互，还可以使用 OCI 注册表和网络设置来配置您的环境。Podman Desktop 还提供将 pod 连接和部署到 Kubernetes 环境的功能。\n\nPodman Desktop 还支持多种容器引擎，选择你最喜欢的并使用该工具！",
+  "Tags": "community;debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/ef47a4cb336141df8eb993963fa2df63.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2be514f2364a45f195cb6181f57d205f.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/9cad5d8694c74e1888a3f91faf7d7319.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/2faabf82fca341068dfce93d83e0e824.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/07/15/7ca47916afe545e592e32cf8c14b2b72.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/07/15/4602ae8e6a33439a988e9a2cda17ccfa.png"
 }
 
 ,
@@ -4211,6 +4211,24 @@
 
 ,
 {
+  "Name": "LM Studio",
+  "Version": "0.3.16",
+  "Filename": "lmstudio_0.3.16_amd64.deb",
+  "Torrent_address": "lmstudio_0.3.16_amd64.deb.torrent",
+  "Pkgname": "lmstudio",
+  "Author": "lmstudio-ai",
+  "Contributor": "enkl03B",
+  "Website": "https://lmstudio.ai/",
+  "Update": "2025-05-29 20:55:28",
+  "Size": "646.39 MB",
+  "More": "LM Studio,本地部署/运行LLM。\n点击主界面右下角齿轮图标-Language可设置中文。",
+  "Tags": "debian;ubuntu;deepin;uos;a2d;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/741d8dfd48db49d19ac8bb7ca5bb5ca2.png\",\"https://spk-json.spark-app.store/images/2025/05/29/41dbfe6a0a174d15a620ebe72a27822f.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/027b836c2a4d4ab2a2d21d1d18bca2f9.png"
+}
+
+,
+{
   "Name": "LingLong Apps 分析工具",
   "Version": "0.0.2-20240816",
   "Filename": "linglong-apps-analyzer_0.0.2-20240816_amd64.deb",
@@ -4261,24 +4279,6 @@
   "Tags": "community;debian;ubuntu;deepin;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/18/a1e4338e4735470ea74b3c2bcf626fb8.png\",\"https://spk-json.spark-app.store/images/2025/02/18/4e33e42bbd234d809d45897e9b9e4a88.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/02/18/edb4e68ae4ab4f05a1b6190801489372.png"
-}
-
-,
-{
-  "Name": "LM Studio",
-  "Version": "0.3.16",
-  "Filename": "lmstudio_0.3.16_amd64.deb",
-  "Torrent_address": "lmstudio_0.3.16_amd64.deb.torrent",
-  "Pkgname": "lmstudio",
-  "Author": "lmstudio-ai",
-  "Contributor": "enkl03B",
-  "Website": "https://lmstudio.ai/",
-  "Update": "2025-05-29 20:55:28",
-  "Size": "646.39 MB",
-  "More": "LM Studio,本地部署/运行LLM。\n点击主界面右下角齿轮图标-Language可设置中文。",
-  "Tags": "debian;ubuntu;deepin;uos;a2d;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/05/29/741d8dfd48db49d19ac8bb7ca5bb5ca2.png\",\"https://spk-json.spark-app.store/images/2025/05/29/41dbfe6a0a174d15a620ebe72a27822f.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/05/29/027b836c2a4d4ab2a2d21d1d18bca2f9.png"
 }
 
 ,
@@ -4337,24 +4337,6 @@
 
 ,
 {
-  "Name": "magnetw",
-  "Version": "3.1.1-linux",
-  "Filename": "magnetw-3.1.1-linux_3.1.1-linux_all.deb",
-  "Torrent_address": "magnetw-3.1.1-linux_3.1.1-linux_all.deb.torrent",
-  "Pkgname": "magnetw-3.1.1-linux",
-  "Author": "youusername",
-  "Contributor": "youusername",
-  "Website": "https://github.com/youusername/magnetX",
-  "Update": "2022-11-04 16:24:01",
-  "Size": "73.4 MB",
-  "More": "资源搜索型软件",
-  "Tags": "community;deepin;uos;debian;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
-}
-
-,
-{
   "Name": "GPT4All",
   "Version": "3.6.1~el1",
   "Filename": "io.gpt4all.repack_3.6.1~el1_amd64.deb",
@@ -4369,6 +4351,24 @@
   "Tags": "community;ubuntu;deepin;debian;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/01/03/9b811dbb05d74a7389be17877aa7c4c7.png\",\"https://spk-json.spark-app.store/images/2025/01/03/95907aa5b4a14be39b98611379280755.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/01/03/6c58cc4cc4a64cf39ae8e7ddfb88a832.png"
+}
+
+,
+{
+  "Name": "magnetw",
+  "Version": "3.1.1-linux",
+  "Filename": "magnetw-3.1.1-linux_3.1.1-linux_all.deb",
+  "Torrent_address": "magnetw-3.1.1-linux_3.1.1-linux_all.deb.torrent",
+  "Pkgname": "magnetw-3.1.1-linux",
+  "Author": "youusername",
+  "Contributor": "youusername",
+  "Website": "https://github.com/youusername/magnetX",
+  "Update": "2022-11-04 16:24:01",
+  "Size": "73.4 MB",
+  "More": "资源搜索型软件",
+  "Tags": "community;deepin;uos;debian;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/11/04/ffffffff-ffff-4fff-bfff-ffffffffffff.png"
 }
 
 ,
@@ -5315,6 +5315,24 @@
 
 ,
 {
+  "Name": "Ollama 测试器(千问客户端)",
+  "Version": "0.0.1-20250325",
+  "Filename": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb",
+  "Torrent_address": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb.torrent",
+  "Pkgname": "com.gitee.zinface.ollama-qwen-client",
+  "Author": "zinface <zinface@163.com>",
+  "Contributor": "zinface <zinface@163.com>",
+  "Website": "http://gitee.com/zinface/python.ollama-qwen-client",
+  "Update": "2025-03-25 10:27:22",
+  "Size": "119.07 MB",
+  "More": "基于 PySide6 的 Ollama 千问工具\n .\n 灵感来自可视化一切\n .\n Build for GXDE15.14.3 through spark-deb-build.\n\n\n一种简单的 Ollama 可视化使用工具，适用于可观性测试，而不是生产与日常使用，just for fun。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/25/ad2e48a3ccd74988900bb8a5b5012c37.png\",\"https://spk-json.spark-app.store/images/2025/03/25/0dab3cfe2d214d21ba1068ae45698e8f.png\",\"https://spk-json.spark-app.store/images/2025/03/25/30185125e4db49549a1403c9a973f9aa.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/03/25/3284a0614413476bbcb5e4bc60e4dc8c.png"
+}
+
+,
+{
   "Author": "shenmo <shenmo@spark-app.store>",
   "Contributor": "shenmo <jifengshenmo@outlook.com>",
   "Filename": "spark-building-service_1.1.0_all.deb",
@@ -5365,24 +5383,6 @@
   "Tags": "community;debian;ubuntu;deepin;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/27/8d4ba8c2a0794aa2b32587af26a83ed4.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/03/27/e9cc1cc41d7c4e44b43bcd6e301ea1ed.png"
-}
-
-,
-{
-  "Name": "Ollama 测试器(千问客户端)",
-  "Version": "0.0.1-20250325",
-  "Filename": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb",
-  "Torrent_address": "com.gitee.zinface.ollama-qwen-client_0.0.1-20250325_amd64.deb.torrent",
-  "Pkgname": "com.gitee.zinface.ollama-qwen-client",
-  "Author": "zinface <zinface@163.com>",
-  "Contributor": "zinface <zinface@163.com>",
-  "Website": "http://gitee.com/zinface/python.ollama-qwen-client",
-  "Update": "2025-03-25 10:27:22",
-  "Size": "119.07 MB",
-  "More": "基于 PySide6 的 Ollama 千问工具\n .\n 灵感来自可视化一切\n .\n Build for GXDE15.14.3 through spark-deb-build.\n\n\n一种简单的 Ollama 可视化使用工具，适用于可观性测试，而不是生产与日常使用，just for fun。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/03/25/ad2e48a3ccd74988900bb8a5b5012c37.png\",\"https://spk-json.spark-app.store/images/2025/03/25/0dab3cfe2d214d21ba1068ae45698e8f.png\",\"https://spk-json.spark-app.store/images/2025/03/25/30185125e4db49549a1403c9a973f9aa.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/03/25/3284a0614413476bbcb5e4bc60e4dc8c.png"
 }
 
 ,

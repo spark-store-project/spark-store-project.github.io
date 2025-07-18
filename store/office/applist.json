@@ -248,20 +248,20 @@
 }
 ,
 {
-  "Name": "腾讯文档",
-  "Version": "3.9.20",
-  "Filename": "tdappdesktop_3.9.20_amd64.deb",
-  "Torrent_address": "tdappdesktop_3.9.20_amd64.deb.torrent",
-  "Pkgname": "tdappdesktop",
-  "Author": "TencentDocs",
-  "Contributor": "TencentDocs",
-  "Website": "https://docs.qq.com/home",
-  "Update": "2025-06-04 17:46:16",
-  "Size": "171M",
-  "More": "腾讯文档\n让协作更高效，创作更轻松。\n\n支持多人在线编辑Word、Excel和PPT文档",
-  "Tags": "ubuntu;deepin;uos;debian;community;native",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_5.png\"]",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png"
+    "Name": "腾讯文档",
+    "Version": "3.10.0",
+    "Filename": "tdappdesktop_3.10.0_amd64.deb",
+    "Torrent_address": "tdappdesktop_3.10.0_amd64.deb.torrent",
+    "Pkgname": "tdappdesktop",
+    "Author": "TencentDocs",
+    "Contributor": "TencentDocs",
+    "Website": "https://docs.qq.com/home",
+    "Update": "2025-07-18 18:00:52",
+    "Size": "173M",
+    "More": "腾讯文档\n让协作更高效，创作更轻松。\n\n支持多人在线编辑Word、Excel和PPT文档",
+    "Tags": "ubuntu;deepin;uos;debian;community",
+    "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_3.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_4.png\",\"https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/screen_5.png\"]",
+    "icons": "https://cdn.d.store.deepinos.org.cn/store/office/tdappdesktop/icon.png"
 }
 
 ,
@@ -426,24 +426,6 @@
 
 ,
 {
-  "Name": "office 2010",
-  "Version": "14.0.0",
-  "Filename": "spark-deepin-office14_14.0.0_all.deb",
-  "Torrent_address": "spark-deepin-office14_14.0.0_all.deb.torrent",
-  "Pkgname": "spark-deepin-office14",
-  "Author": "Microsoft",
-  "Contributor": "cxk",
-  "Website": "https://www.microsoft.com/zh-cn",
-  "Update": "2023-10-05 18:35:24",
-  "Size": "1.16 GB",
-  "More": "包含word、excel、powerpoint三套件",
-  "Tags": "debian;deepin;dwine5;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/d927c710-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd179ee0-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1b2150-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1f8e20-636a-11ee-b2e5-dfc8faebc0c5.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/05/d2b0f640-636a-11ee-b2e5-dfc8faebc0c5.png"
-}
-
-,
-{
   "Name": "腾讯会议（wine）",
   "Version": "2.8.7.400deepin7",
   "Filename": "com.tencent.meeting.deepin_2.8.7.400deepin7_i386.deb",
@@ -458,6 +440,24 @@
   "Tags": "deepin;uos;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/3f2bfff709f849618445dd531fd8f939.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/b5f9f8d6daa14715b2aea5efe9bb1c6b.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/05/27/292f0710c3644131aa9edd75cdd57f42.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/05/27/d7e4d04aafdf47699c939824d3e6fa37.png"
+}
+
+,
+{
+  "Name": "office 2010",
+  "Version": "14.0.0",
+  "Filename": "spark-deepin-office14_14.0.0_all.deb",
+  "Torrent_address": "spark-deepin-office14_14.0.0_all.deb.torrent",
+  "Pkgname": "spark-deepin-office14",
+  "Author": "Microsoft",
+  "Contributor": "cxk",
+  "Website": "https://www.microsoft.com/zh-cn",
+  "Update": "2023-10-05 18:35:24",
+  "Size": "1.16 GB",
+  "More": "包含word、excel、powerpoint三套件",
+  "Tags": "debian;deepin;dwine5;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/d927c710-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd179ee0-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1b2150-636a-11ee-b2e5-dfc8faebc0c5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/10/05/dd1f8e20-636a-11ee-b2e5-dfc8faebc0c5.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/10/05/d2b0f640-636a-11ee-b2e5-dfc8faebc0c5.png"
 }
 
 ,
@@ -1975,6 +1975,21 @@
 
 ,
 {
+  "Name": "Indicator Stickynotes",
+  "Version": "0.5.9-7",
+  "Filename": "indicator-stickynotes_0.5.9-7_amd64.deb",
+  "Pkgname": "indicator-stickynotes",
+  "Author": " ",
+  "Contributor": "sgb76",
+  "Website": "https://github.com/umangv/indicator-stickynotes",
+  "Update": "2020-07-20 17:34",
+  "Size": "50.47KB",
+  "More": "Indicator Stickynotes是一个用于Linux的便签应用程序，它在系统托盘中运行，作为后台服务，该应用程序非常轻量级，具有许多有用的功能，使其成为一个有吸引力的笔记应用程序，如平面界面、笔记的导入和导出、可自定义的便签颜色等。",
+  "Tags": "debian;native"
+}
+
+,
+{
   "Name": "百度脑图",
   "Version": "3.2.3",
   "Filename": "com.baidu.naotu_3.2.3_amd64.deb",
@@ -2007,21 +2022,6 @@
 
 ,
 {
-  "Name": "Indicator Stickynotes",
-  "Version": "0.5.9-7",
-  "Filename": "indicator-stickynotes_0.5.9-7_amd64.deb",
-  "Pkgname": "indicator-stickynotes",
-  "Author": " ",
-  "Contributor": "sgb76",
-  "Website": "https://github.com/umangv/indicator-stickynotes",
-  "Update": "2020-07-20 17:34",
-  "Size": "50.47KB",
-  "More": "Indicator Stickynotes是一个用于Linux的便签应用程序，它在系统托盘中运行，作为后台服务，该应用程序非常轻量级，具有许多有用的功能，使其成为一个有吸引力的笔记应用程序，如平面界面、笔记的导入和导出、可自定义的便签颜色等。",
-  "Tags": "debian;native"
-}
-
-,
-{
   "Name": "Infix PDF Editor",
   "Version": "7.7.0.0spark0",
   "Filename": "com.iceni.infix.spark_7.7.0.0spark0_amd64.deb",
@@ -2036,6 +2036,21 @@
   "Tags": "ubuntu;deepin;uos;dwine5;debian;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/3ecd3a2b654e43e08b5192e7536601d5.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/2eab12f5ce5f43c7805f38f6c6f2e4cf.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/03/19/32cf939dd1d1477eb8b3aad76e15e458.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/03/19/6dc746c53d9242ed9dfa85656b17fe7b.png"
+}
+
+,
+{
+  "Name": "一只番茄",
+  "Version": "1.0.4",
+  "Filename": "top.yzzi.tomato_1.0.4_amd64.deb",
+  "Pkgname": "top.yzzi.tomato",
+  "Author": "一只科技菌",
+  "Contributor": "一只科技菌",
+  "Website": "https://blog.yzzi.top/",
+  "Update": "2020-08-14 12:54",
+  "Size": "123.10KB",
+  "More": "一个超高颜值的番茄钟！",
+  "Tags": "ubuntu;debian;deepin;;native"
 }
 
 ,
@@ -2071,21 +2086,6 @@
   "Tags": "uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2022/06/16/43c35190-ed3b-11ec-99fe-7d388596cee3.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2022/06/16/3db46a50-ed3b-11ec-99fe-7d388596cee3.png"
-}
-
-,
-{
-  "Name": "一只番茄",
-  "Version": "1.0.4",
-  "Filename": "top.yzzi.tomato_1.0.4_amd64.deb",
-  "Pkgname": "top.yzzi.tomato",
-  "Author": "一只科技菌",
-  "Contributor": "一只科技菌",
-  "Website": "https://blog.yzzi.top/",
-  "Update": "2020-08-14 12:54",
-  "Size": "123.10KB",
-  "More": "一个超高颜值的番茄钟！",
-  "Tags": "ubuntu;debian;deepin;;native"
 }
 
 ,
@@ -3604,6 +3604,24 @@
 
 ,
 {
+  "Author": "shenmo",
+  "Contributor": "shenmo <jifengshenmo@outlook.com>",
+  "Filename": "com.sbfglkhd.spark_1.0.091_all.deb",
+  "More": "社保费管理客户端(金税三期)",
+  "Name": "社保费管理客户端(金税三期)",
+  "Pkgname": "com.sbfglkhd.spark",
+  "Size": "239 Mb",
+  "Tags": "deepin;uos;ubuntu;debian;native",
+  "Torrent_address": "com.sbfglkhd.spark_1.0.091_all.deb.torrent",
+  "Update": "2023-12-28 20:03:43",
+  "Version": "1.0.091",
+  "Website": "",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.sbfglkhd.spark/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.sbfglkhd.spark/screen_1.png\"]"
+}
+
+,
+{
   "Name": "迷你日记",
   "Version": "3.3.0spark0",
   "Filename": "app.minidiary.spark_3.3.0spark0_amd64.deb",
@@ -3634,24 +3652,6 @@
   "Tags": "deepin;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/48d349f0-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4b8a0580-57f6-11eb-81be-efeb7e42bb9a.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2021/01/16/4e77d6a0-57f6-11eb-81be-efeb7e42bb9a.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2021/01/16/3be5f670-57f6-11eb-81be-efeb7e42bb9a.png"
-}
-
-,
-{
-  "Author": "shenmo",
-  "Contributor": "shenmo <jifengshenmo@outlook.com>",
-  "Filename": "com.sbfglkhd.spark_1.0.091_all.deb",
-  "More": "社保费管理客户端(金税三期)",
-  "Name": "社保费管理客户端(金税三期)",
-  "Pkgname": "com.sbfglkhd.spark",
-  "Size": "239 Mb",
-  "Tags": "deepin;uos;ubuntu;debian;native",
-  "Torrent_address": "com.sbfglkhd.spark_1.0.091_all.deb.torrent",
-  "Update": "2023-12-28 20:03:43",
-  "Version": "1.0.091",
-  "Website": "",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/office/com.sbfglkhd.spark/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/office/com.sbfglkhd.spark/screen_1.png\"]"
 }
 
 ,

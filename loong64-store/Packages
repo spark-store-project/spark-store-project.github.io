@@ -12188,19 +12188,19 @@ Description: wechat from Tencent
 
 Package: linuxqq
 Architecture: loong64
-Version: 3.2.18-37051
+Version: 3.2.18-37475
 Priority: optional
 Section: default
 Maintainer: Tencent <QQ-Team@tencent.com>
-Installed-Size: 567523
+Installed-Size: 567341
 Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, liblol,liblol-dkms
 Recommends: libappindicator3-1
-Filename: ./chat/linuxqq/linuxqq_3.2.18-37051_loong64.deb
-Size: 142761424
-MD5sum: f056d1f858ed2936fe286c075c115cf9
-SHA1: 321fdeb324252a599a9ed97e04219725b10d7328
-SHA256: 6e26f5272be4cc92e87a67b341084ebda787d62eb06e731109ccc5e83a9acac7
-SHA512: 1a1353fb33ccec6ae9ef3659ae14523c4091df07b802ac1468938b58036c58059574eaf3c5cb9bdbe84ddab979d63ac3c1cb2b852bc5621221be49d052addca5
+Filename: ./chat/linuxqq/linuxqq_3.2.18-37475_loong64.deb
+Size: 142725252
+MD5sum: 2e903f4ec1cf61097b4d6e6fe5347633
+SHA1: e6f3c7da32c597a1a32877a3e0d96df1e968ba6c
+SHA256: 859365f49ae79cce4d220dcb3f6a0d411a3cde4a196a3c17d1adbdfadedfd1c3
+SHA512: f96ac484e530ba6b1a00d9d16dea85142ee623da0eecebd751032b7bf47fd41a36f3b21acd5fcbdb4cf26785d67a05283d67335dcf5d436dd658a88c230fd8fe
 Homepage: https://im.qq.com
 Description: 
   QQ
