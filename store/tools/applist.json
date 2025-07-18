@@ -1956,21 +1956,22 @@
 
 ,
 {
-    "Name": "VirtualBox 7.1（GXDE/Debian12）",
-    "Version": "7.1.10-169112~Debian~bookworm",
-    "Filename": "virtualbox-7.1_7.1.10-169112~Debian~bookworm_amd64.deb",
-    "Torrent_address": "virtualbox-7.1_7.1.10-169112~Debian~bookworm_amd64.deb.torrent",
-    "Pkgname": "virtualbox-7.1",
     "Author": "Oracle Corporation <info@virtualbox.org>",
-    "Contributor": "Oracle Corporation <info@virtualbox.org>",
-    "Website": "https://www.virtualbox.org/",
-    "Update": "2025-07-09 18:40:21",
-    "Size": "113.2 MB",
+    "Contributor": "gfdgd_xi <3025613752@qq.com>",
+    "Filename": "virtualbox-7.1_7.1.12-169651~Debian~bookworm_amd64.deb",
     "More": "GXDE 25版本",
+    "Name": "VirtualBox 7.1（GXDE/Debian12）",
+    "Pkgname": "virtualbox-7.1",
+    "Size": "118 Mb",
     "Tags": "community;debian",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/09/b301a1b02ed749a597582b2661d45181.png\",\"https://spk-json.spark-app.store/images/2025/07/09/48dedb6bcd074f06871a2b04aa677bbf.png\",\"https://spk-json.spark-app.store/images/2025/07/09/5f8e5da2576c469cb795cfc17bbf47d4.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/07/09/237b6928567d4c82b6b80c7eb179bb50.png"
+    "Torrent_address": "virtualbox-7.1_7.1.12-169651~Debian~bookworm_amd64.deb.torrent",
+    "Update": "2025-07-18 12:15:43",
+    "Version": "7.1.12-169651~Debian~bookworm",
+    "Website": "https://www.virtualbox.org/",
+    "icons": "https://spk-json.spark-app.store/store/tools/virtualbox-7.1/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/virtualbox-7.1/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/virtualbox-7.1/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/virtualbox-7.1/screen_3.png\"]"
 }
+
 ,
 {
   "Name": "QGIS(书虫版)",
@@ -3478,6 +3479,24 @@
 }
 ,
 {
+  "Name": "Rubick",
+  "Version": "2.0.4-beta.3",
+  "Filename": "rubick_2.0.4-beta.3_amd64.deb",
+  "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
+  "Pkgname": "rubick",
+  "Author": "muwoo <2424880409@qq.com>",
+  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
+  "Website": "https://github.com/rubickCenter/rubick",
+  "Update": "2023-02-12 13:54:32",
+  "Size": "57.13 MB",
+  "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
+  "Tags": "debian;deepin;ubuntu;uos;native",
+  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
+  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
+}
+
+,
+{
   "Name": "Deepin Live CD",
   "Version": "1.1+201804181734-1",
   "Filename": "live-filesystem_1.1_plus201804181734-1_amd64.deb",
@@ -3510,24 +3529,6 @@
   "Tags": "community;ubuntu;native",
   "img_urls": "[\"https://spk-json.spark-app.store/images/2025/02/07/c6fdcfd9e7114024aa3c713a591db991.png\"]",
   "icons": "https://spk-json.spark-app.store/icons/2025/02/07/291783992b9e4b3786d4254e4579742e.png"
-}
-
-,
-{
-  "Name": "Rubick",
-  "Version": "2.0.4-beta.3",
-  "Filename": "rubick_2.0.4-beta.3_amd64.deb",
-  "Torrent_address": "rubick_2.0.4-beta.3_amd64.deb.torrent",
-  "Pkgname": "rubick",
-  "Author": "muwoo <2424880409@qq.com>",
-  "Contributor": "gfdgd xi、为什么您不喜欢熊出没和阿布呢",
-  "Website": "https://github.com/rubickCenter/rubick",
-  "Update": "2023-02-12 13:54:32",
-  "Size": "57.13 MB",
-  "More": "基于 electron 的开源工具箱，自由集成丰富插件，打造极致的桌面端效能工具。Rubick(拉比克) 是 dota 里面的英雄之一，其核心技能是插件化使用其他英雄的技能，用完即走。非常符合本工具的设计理念，所以取名 Rubick。",
-  "Tags": "debian;deepin;ubuntu;uos;native",
-  "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/e1fd85e453894de083d59e1e7959dab1.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/02/12/ce818a5edba5410b87f443339164ab0c.png\"]",
-  "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/02/12/8b3435e095794b36a3a86177e12c468d.png"
 }
 
 ,

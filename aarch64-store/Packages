@@ -4523,6 +4523,25 @@ License: GPL-3.0-or-later
 Vendor: none
 Bug: https://github.com/MetaCubeX/mihomo/issues
 
+Package: clash-verge
+Architecture: arm64
+Version: 2.3.1
+Priority: optional
+Maintainer: zzzgydi, wonfen, MystiPanda
+Installed-Size: 120231
+Provides: clash-verge
+Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Conflicts: clash-verge
+Replaces: clash-verge
+Filename: ./xrea/clash-verge/Clash.Verge_2.3.1_arm64.deb
+Size: 46684738
+MD5sum: 5603a2e444a4775c36f36b61b9030576
+SHA1: a6a0571b70c61c946d36d86ca3c6c13095407d96
+SHA256: d031f30b2c6b57abf8418ffcfcd7c9523b4ad5d71746deeca17940944d0cff5e
+SHA512: 51c1029da70f76b1bfc527a72f038b09628418e5ade762ff9ac393290e5454906c8cd5ec30e0b6959520a673abe49e422712cde63d0eec0f4d9f50cba15aa53c
+Description: Clash Verge Rev
+ Clash Verge Rev
+
 Package: com.github.clash-for-windows
 Architecture: arm64
 Version: 0.20.39-opt3

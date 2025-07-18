@@ -5932,6 +5932,32 @@ Description: Huion Tablet Driver Setting Software
 
 Package: virtualbox-7.1
 Architecture: amd64
+Version: 7.1.12-169651~Debian~bookworm
+Priority: optional
+Section: contrib/misc
+Maintainer: Oracle Corporation <info@virtualbox.org>
+Installed-Size: 267953
+Provides: virtualbox
+Pre-Depends: debconf (>= 1.1) | debconf-2.0
+Depends: psmisc, adduser, libvulkan1, libatk1.0-0 (>= 1.12.4), libc6 (>= 2.34), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.2.4), libcurl4 (>= 7.16.2), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.4), libgdk-pixbuf-2.0-0 (>= 2.31.1), libgl1, libglib2.0-0 (>= 2.33.14), libgtk-3-0 (>= 3.9.10), libgtk2.0-0 (>= 2.24.0), liblzma5 (>= 5.1.1alpha+20120614), libpango-1.0-0 (>= 1.14.0), libpangocairo-1.0-0 (>= 1.14.0), libpangoft2-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 12), libvpx7 (>= 1.12.0), libx11-6, libx11-xcb1 (>= 2:1.8.4), libxcb-cursor0 (>= 0.0.99), libxcb-icccm4 (>= 0.4.1), libxcb-image0 (>= 0.2.1), libxcb-keysyms1 (>= 0.4.0), libxcb-randr0 (>= 1.12), libxcb-render-util0, libxcb-render0, libxcb-shape0, libxcb-shm0 (>= 1.10), libxcb-sync1, libxcb-xfixes0, libxcb-xkb1, libxcb1 (>= 1.8), libxkbcommon-x11-0 (>= 0.5.0), libxkbcommon0 (>= 0.5.0), libxml2 (>= 2.7.4), libxt6, zlib1g (>= 1:1.2.3.4)
+Recommends: libasound2, libpulse0, libsdl-ttf2.0-0, kmod | kldutils | module-init-tools, linux-headers-generic | linux-headers-generic-pae | linux-headers-686-pae | linux-headers-amd64 | linux-headers-2.6-686 | linux-headers-2.6-amd64 | linux-headers, linux-image, gcc, make | build-essential | dpkg-dev, binutils, pdf-viewer
+Conflicts: virtualbox, virtualbox-dkms, virtualbox-guest-additions-iso, virtualbox-ose, virtualbox-qt
+Replaces: virtualbox
+Filename: ./tools/virtualbox-7.1/virtualbox-7.1_7.1.12-169651~Debian~bookworm_amd64.deb
+Size: 118596436
+MD5sum: 89bae511811a85e606921f3d19e05099
+SHA1: bd6d955515bd1c6075e61d7204f4aea39cd9ab4f
+SHA256: 02b9fc3ec0234265bbc544b98e61aea366cffbe6edd83d5e6074350c8db34876
+SHA512: 016abdba11cad7411370a1487779c6dc00e7d89cbe7be405a2c94da224285d8c01fa6f9a43750ad8e1a08eb5006dd369a2cdf2d4a9b6a41606f9028047b8bdc8
+Description: Oracle VirtualBox
+ VirtualBox is a powerful PC virtualization solution allowing you to run a
+ wide range of PC operating systems on your Linux system. This includes
+ Windows, Linux, FreeBSD, DOS, OpenBSD and others. VirtualBox comes with a broad
+ feature set and excellent performance, making it the premier virtualization
+ software solution on the market.
+
+Package: virtualbox-7.1
+Architecture: amd64
 Version: 7.1.10-169112~Debian~bookworm
 Priority: optional
 Section: contrib/misc
