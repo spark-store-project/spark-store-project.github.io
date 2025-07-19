@@ -8863,6 +8863,26 @@ SHA256: c548c3de5a83405be34b1b366a0ed2a56c1de984426ee89285b4c894469aec1b
 SHA512: 9c1180093dd6f3fa71839cdc9d4ddfeb3000e368998d6e8805b1fc2632fbe7b38eb4b2c793fca77b74e185e5d80d615b45fc00f1a00d4f3552f5a7b2c4be0d71
 Description: Run application for deepin-wine. Yet another a frontend to create and run wine application packages.
 
+Package: deepin-wine-builder
+Architecture: amd64
+Version: 3.3.1.017-1
+Priority: optional
+Section: utils
+Maintainer: Tingzhong Luo <luotingzhong@uniontech.com>
+Installed-Size: 44365
+Provides: deepin-wine-runner
+Depends: libc6 (>= 2.14), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.8.0), libqt5script5 (>= 5.6.0~beta), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libvulkan1, libx11-6, python3-yaml, python3-pycurl, python3-chardet, python3-requests, patool, python3-urllib3, python3-certifi, python3-pefile, python3-xdg, python3-dbus, python3-watchdog, python3-markdown, python3-gi, gir1.2-glib-2.0, fakeroot, debhelper, python3-typing-extensions, cabextract, fonts-wqy-microhei, deepin-wine10-stable (>= 10.7deepin6), deepin-elf-verify (>= 1.1.10-1)
+Recommends: deepin-wine8-stable (>= 8.16deepin25), deepin-wine-staging (>= 10.0deepin5), mesa-vulkan-drivers, dde-qt5integration, fcitx-frontend-qt5
+Conflicts: deepin-wine-runner
+Replaces: deepin-wine-runner
+Filename: ./tools/deepin-wine-builder/deepin-wine-builder_3.3.1.017-1_amd64.deb
+Size: 17122386
+MD5sum: e16dd9fe30f93895b00e51062b0f2e33
+SHA1: e1c5529ee2680c985bb3971c43da419cba7c5d6d
+SHA256: c65d4da320ca1802978b45a22954fc2a9afff8b7f1f5136c5b4a313e1a9e050d
+SHA512: ac2b416bf63d63c2bb0a00cc589a2c802f08704a49b02ba82e46d5b4db4680b07e9c4b013851d87fb4ecb8a35246cc7b3e1da6bcf511be131a1578152f30114d
+Description: Run application for deepin-wine. Yet another a frontend to create and run wine application packages.
+
 Package: org.qgis.qgis
 Architecture: amd64
 Version: 3.32.1-fix1-cursor
@@ -24787,6 +24807,22 @@ Description: Grey on Deepin Wine6
 
 Package: com.joydin.braingame
 Architecture: amd64
+Version: 2.6.1
+Priority: optional
+Section: games
+Maintainer: Joydin<support@joydin.com>
+Depends: libc6 (>=2.16), deepin-elf-verify (>= 1.1.10-1)
+Filename: ./games/com.joydin.braingame/com.joydin.braingame_2.6.1_amd64.deb
+Size: 102018758
+MD5sum: 52c8b257ba8757ff3e6a1dd7ffd8484f
+SHA1: 0165a92ee52c0aa0c01f3ab508f6743489f590eb
+SHA256: 1fe2a36e9c1c9866b522d9d571e61e0fa6ffc22232db00dadb1c9189b1a9523c
+SHA512: cd077aa3e9f51a2a56dbc8048c0432b05e5973067966e11748d1df01323b519b3048aac91960c5a209d20b95490156562f8d839255c01ced27af3822ab6d9f40
+Homepage: http://www.joydin.com
+Description: 推箱子游戏支持对战。
+
+Package: com.joydin.braingame
+Architecture: amd64
 Version: 2.6.0
 Priority: optional
 Section: games
@@ -25935,6 +25971,26 @@ SHA1: 62d004aeb14966f71579d78f9fc85f6b6e296ba2
 SHA256: 725363a46edad75b5dda246469058b9b2bc89aab88eaa1c11b2f8772d850607e
 SHA512: 4f55046252a2d4e8290ed4840ea66fac63ad2ac501da2cde3c6b32871a1ae56ef32ee64401214d7227045288378dd288ad119fd46ff37d47ae7308c44298b9ef
 Description: wiznotelite.spark Software Package created by Appimage2Deb\n实时预览 Markdown 编辑器\n聚焦于输入\n让写作与思考不受干扰
+
+Package: com.mxdraw3d.www
+Architecture: amd64
+Version: 7.0.3
+Priority: optional
+Section: utils
+Maintainer: 成都梦想凯德科技有限公司 <1298095305@qq.com>
+Installed-Size: 467367
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Recommends: libappindicator3-1
+Filename: ./office/com.mxdraw3d.www/com.mxdraw3d.www_7.0.3_amd64.deb
+Size: 138234010
+MD5sum: 738bf7acc60cb027354d5232786f8457
+SHA1: d14ab553f0be7bf14b3ff90e3f5115be0efe5d33
+SHA256: 2c0bc33ce1edc0a76eac062001f0e78ebe341a04edaf52b24cf00cfbf19d6118
+SHA512: bf0bf3bf04a9d0147a43efdf9cb7b887922a856f6b9779fd614d05c6a47aee87d8a31eb71337a7b4cf48d36006eaaf70dd28ee00f054fa4e94211a043b68ad40
+Homepage: https://www.mxdraw3d.com
+Description: CAD梦想画图 浏览编辑CAD图纸
+License: unknown
+Vendor: 成都梦想凯德科技有限公司 <1298095305@qq.com>
 
 Package: com.pilemd.spark
 Architecture: amd64
@@ -29852,6 +29908,23 @@ Description: Free mathematics software for learning and teaching
  Authoring tool to create and share interactive online learning materials.
  Available in many languages for our millions of users around the world.
  Free and open source math/maths software.
+
+Package: com.zwsoft.zwcad2026
+Architecture: amd64
+Version: 26.0.3.4
+Priority: optional
+Section: graphics
+Maintainer: lishuaiwei <lishuaiwei@zwcad.com>
+Installed-Size: 1140828
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./office/com.zwsoft.zwcad2026/com.zwsoft.zwcad2026_26.0.3.4_amd64.deb
+Size: 310060062
+MD5sum: a3c32655fd83320bf9c15efd3f20c62d
+SHA1: ee8ea959b0d0d3782731f0676cabd0d7418004da
+SHA256: 459069331c2c3e07082775f12d01546a2beb27da8cd6d7d1fe6823c0ae318bdd
+SHA512: a5f183ea11713b7857de0650b4b12c1f1e64a3668b6c17b78f80d9a463e4e6f56f46cf683f7c8e2f3ac3339fccb8638f6a92354bdc7640ed3c745db318717086
+Homepage: https://www.zwsoft.cn
+Description: com.zwsoft.zwcad2026 是 ZWSOFT 研发的计算机辅助设计软件。
 
 Package: rednotebook
 Architecture: all
@@ -33916,6 +33989,26 @@ SHA512: cf9aab204f7999543e7a285d2ee9c149676553fbbb4b6df8f105c7a8279c3f7acc896109
 Description: The web browser from Yandex
  Yandex Browser is a browser that combines a minimal design with sophisticated technology to make the web faster, safer, and easier.
 
+Package: cn.n.nami-ai-stable
+Architecture: amd64
+Version: 1.3.1189.46-1
+Priority: optional
+Section: web
+Maintainer: 360政企浏览器团队 <g-ent@360.cn>
+Installed-Size: 472522
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.16), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libglib2.0-0 (>= 2.39.4), libgtk-3-0, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev
+Filename: ./network/cn.n.nami-ai-stable/cn.n.nami-ai-stable_1.3.1189.46-1_amd64.deb
+Size: 209000128
+MD5sum: 4ae039a8907c0e6e47ad56c60ffa2142
+SHA1: 159df75dea7413ab2eb93a12f1e0e4fc538cdb75
+SHA256: 2184e383637dd9ec85acf7899fd95d39e63255612a7dcd8eff18e09f7e2aa8c0
+SHA512: 01d28635e17fa4b6575a0410d77c59445c6fe647b748bf345aade6e1c87d8695c98036688258cb4de9813f8cc3f5142c5b4fb04b719ee390279e2ab8bcfddec1
+Description: 纳米AI
+ 纳米AI是一款集成多模态搜索、多模型协同和智能内容生成功能的AI工具，支持文件解析与跨场景应用，涵盖教育、电商、创作等领域需求。
+
 Package: com.dlife.corpcloud
 Architecture: amd64
 Version: 1.0.0.0
@@ -34502,6 +34595,26 @@ SHA512: 4f8be233394022361ad88137eda394d2d7dfe25e82d0aac94d3634ab258199606a72ea72
 Homepage: https://gofrp.org/
 Description:  A fast reverse proxy to help you expose
  a local server behind a NAT or firewall to the internet.
+
+Package: bililive-tools
+Architecture: amd64
+Version: 2.2.1
+Priority: optional
+Section: default
+Maintainer: renmu123
+Installed-Size: 598102
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Recommends: libappindicator3-1
+Filename: ./network/bililive-tools/bililive-tools_2.2.1_amd64.deb
+Size: 170430122
+MD5sum: 1e1a6d5756bc9caa9dda7a1cdb3b87c2
+SHA1: 1abcac23a457e8b90e53e11c7f79a5ec65d330f7
+SHA256: baeb13e75367b8f571a0815c81c0644d081dfd5c0f31e261929746ce7aa88727
+SHA512: 02827fd36aeb3d007d8a4437d6573e1b658ca439eac4b6ae62ebe2bad51aad400dcfaa6d994148a0f02377ddf5e2b078b8aea90a3003612aeaf40a7ff0038c2a
+Homepage: https://github.com/renmu123/biliLive-tools
+Description: B站直播录制处理工具
+License: GPL-3.0
+Vendor: renmu123
 
 Package: opera-stable
 Architecture: amd64

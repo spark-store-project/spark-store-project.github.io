@@ -3791,6 +3791,26 @@ Description: GXDE deb installer tool
 
 Package: deepin-wine-builder
 Architecture: arm64
+Version: 3.3.1.017-1
+Priority: optional
+Section: utils
+Maintainer: Tingzhong Luo <luotingzhong@uniontech.com>
+Installed-Size: 44025
+Provides: deepin-wine-runner
+Depends: libc6 (>= 2.17), libdtkcore5 (>= 5.5), libdtkgui5 (>= 5.5), libdtkwidget5 (>= 5.5), libgcc1 (>= 1:3.0), libqt5concurrent5 (>= 5.0.2), libqt5core5a (>= 5.11.0~rc1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.11.0~rc1), libqt5network5 (>= 5.8.0), libqt5script5 (>= 5.6.0~beta), libqt5sql5 (>= 5.0.2), libqt5widgets5 (>= 5.11.0~rc1), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libvulkan1, libx11-6, python3-yaml, python3-pycurl, python3-chardet, python3-requests, patool, python3-urllib3, python3-certifi, python3-pefile, python3-xdg, python3-dbus, python3-watchdog, python3-markdown, python3-gi, gir1.2-glib-2.0, fakeroot, debhelper, python3-typing-extensions, cabextract, fonts-wqy-microhei, deepin-wine10-stable (>= 10.7deepin6), deepin-wine8-stable (>= 8.16deepin40), deepin-elf-verify (>= 1.1.10-1)
+Recommends: deepin-wine-staging (>= 10.0deepin5), mesa-vulkan-drivers, dde-qt5integration, fcitx-frontend-qt5
+Conflicts: deepin-wine-runner
+Replaces: deepin-wine-runner
+Filename: ./tools/deepin-wine-builder/deepin-wine-builder_3.3.1.017-1_arm64.deb
+Size: 16940602
+MD5sum: adbba8142a994b911b3ea569dfb0e76c
+SHA1: 10315b829f1e7f03492dfda462caac2d85bf5726
+SHA256: 69bc3db1019d558dc35d8c391c2b74f26be052e455739d3fa79dabb51ee8034a
+SHA512: 92e4245154603084d079547ac908aff2568cbcd414e94744ba61fe97a48957022269c1746f0722ae3bb99ec9cc54ad824d3e4a22b788eb0d58fc48bead27af00
+Description: Run application for deepin-wine. Yet another a frontend to create and run wine application packages.
+
+Package: deepin-wine-builder
+Architecture: arm64
 Version: 3.3.1.013-1
 Priority: optional
 Section: utils
@@ -4533,12 +4553,12 @@ Provides: clash-verge
 Depends: openssl, libayatana-appindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Conflicts: clash-verge
 Replaces: clash-verge
-Filename: ./xrea/clash-verge/Clash.Verge_2.3.1_arm64.deb
-Size: 46684738
-MD5sum: 5603a2e444a4775c36f36b61b9030576
-SHA1: a6a0571b70c61c946d36d86ca3c6c13095407d96
-SHA256: d031f30b2c6b57abf8418ffcfcd7c9523b4ad5d71746deeca17940944d0cff5e
-SHA512: 51c1029da70f76b1bfc527a72f038b09628418e5ade762ff9ac393290e5454906c8cd5ec30e0b6959520a673abe49e422712cde63d0eec0f4d9f50cba15aa53c
+Filename: ./xrea/clash-verge/clash-verge_2.3.1_arm64.deb
+Size: 31070660
+MD5sum: c07c88f076133cbe4bb97026be1b5379
+SHA1: feeb81dae38b7e11aced1545c6563f94b76cec6e
+SHA256: b811788cc2e18614c0ea4bde8d334afee47597fbf3fd3ed9361d379e980641b5
+SHA512: ccaf99e90f74a7add1d6312bc8dccbba0cb755a264952fed9c105c8404e46509900895bfa33c2e3f3bd2cb2646cba9700cdca1c14862e6a599437b2b5bf4bce4
 Description: Clash Verge Rev
  Clash Verge Rev
 
@@ -8679,6 +8699,23 @@ SHA256: 0dd1d4d3e50c027bc01fd5ff8e58b1fb4cd5bda741929ed020898b810d1b3f04
 SHA512: 7e55d788dadeac8919b118624c2ca93c8cac19ed5f53ba78e2477ddc2d26d4bc5b9fdddef4310a2422675450793881d3e6819fbf6a1fd6ab75d1e55ea2d1d525
 Description: 这是DemonStar的汉化版本,，当初被讹称为了雷电三,是一款纵轴射击游戏
 
+Package: com.baoweiluobo.deepin
+Architecture: all
+Version: 1.0.0.0spark3
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 48488
+Depends: deepin-wine6-stable, deepin-wine-helper
+Filename: ./games/com.baoweiluobo.deepin/com.baoweiluobo.deepin_1.0.0.0spark3_all.deb
+Size: 49631220
+MD5sum: d35a1e4b94f667bb4b528a52026e4a81
+SHA1: 36d98c5b2174cd94f6e424336cf82aa67bdf0e0f
+SHA256: d1df0d38e65cf34303d80f1d3bb0870ba6a3a991a0cd1f2f8f928714fbf8d627
+SHA512: a83b591cbeed6381ae9c34a10581d35a684dae85b112af1376b3374ee07c6c82c1effb1a6fa28918869f9942cea44c1dd4749c6f9da2bdc6c061d4d4af829317
+Description: BaoWeiLuoBo on Deepin Wine 6
+
 Package: com.immaterialandmissingpower.deepin
 Architecture: all
 Version: 1.1
@@ -8729,6 +8766,22 @@ SHA1: 484bb5db4086de1bbe278b42a3c1eb60318e8015
 SHA256: 4be79bf847fd10b35970b4bf056440935eae6dec5904ec6ad73ae5c9cbc949dd
 SHA512: 2ef62b55839df90b48681f0efa1620876c53d183bd6b1253680c4e74a2cd4a84e5f3052053453c735e3b97599f84a14c1221d60c5c2fcc53c23ff854b8fa38e2
 Description: Wrapper package of supertuxkart
+
+Package: com.joydin.braingame
+Architecture: arm64
+Version: 2.6.1
+Priority: optional
+Section: games
+Maintainer: Joydin<support@joydin.com>
+Depends: libc6 (>=2.16), deepin-elf-verify (>= 1.1.10-1)
+Filename: ./games/com.joydin.braingame/com.joydin.braingame_2.6.1_arm64.deb
+Size: 99596570
+MD5sum: d257942017c9fc2502b491d6b503ce17
+SHA1: 0fe73e15303e0bc224ce45402d1020dead5d969e
+SHA256: 99d8fe6524561d1dc865aa32c891a9d4469f1b10fa673cfa19e4165a718c795a
+SHA512: 2a47b86cd0b3c4daf3f03ba73475b6fcb8ca42742921dea3c9e5567e9c4bbbcf636a0c511dbd2dfaa787228c231639bb524f7df0bcae68a707f7a19a44eb6036
+Homepage: http://www.joydin.com
+Description: 推箱子游戏支持对战。
 
 Package: com.joydin.braingame
 Architecture: arm64
@@ -8926,6 +8979,26 @@ Description: A fan made game of Fallout Equestria.
  there came an era when the ideals of friendship gave way to envy, selfishness, greed and cruelty. The Great War for natural resources broke out, in which there were no winners. A magical spark struck by pony hooves quickly raged out of control and turned into flames that engulfed whole continents. Dragon fire and black magic, turned into destructive weapons, almost ended all life on the planet. Soil, water and air became poisoned from radiation, cities were destroyed, civilizations collapsed. Both ponies and their enemies were almost wiped off the face of the earth. Apocalypse, predicted by insane prophets, whom almost no one believed until the last day, finally has come...
  But it was not the end yet. Many ponies survived, some - hiding in the huge underground shelters-stables, others - somehow adapting to new conditions. Apocalypse was just a prologue for another bloody chapter of pony history. On the scorched and poisoned Wasteland, violence and cruelty became not just permissible - now they were means of survival...
  Since that day, the last day of the former Equestria, about two hundred years have passed...
+
+Package: com.mxdraw3d.www
+Architecture: arm64
+Version: 7.0.3
+Priority: optional
+Section: utils
+Maintainer: 成都梦想凯德科技有限公司 <1298095305@qq.com>
+Installed-Size: 455164
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0, deepin-elf-verify (>= 1.1.10-1)
+Recommends: libappindicator3-1
+Filename: ./office/com.mxdraw3d.www/com.mxdraw3d.www_7.0.3_arm64.deb
+Size: 117805594
+MD5sum: 8bf93e7728a275f6fcfee0c576d7d0f4
+SHA1: 6b050b4300a8fcb2186fde8234753d2b45945f51
+SHA256: 601ada03bb2a489abd4cdafd9b231e1f16334f868c589a5e26e2e5061f5a8da2
+SHA512: d0a1bb00a0ac8172864be080f35b05bab60512a390a65a0e15a8b8fea1872c6b8da581d32f2e6041462fd86385ac85278ffb55d22980c171110a7527b9286e69
+Homepage: https://www.mxdraw3d.com
+Description: CAD梦想画图 浏览编辑CAD图纸
+License: unknown
+Vendor: 成都梦想凯德科技有限公司 <1298095305@qq.com>
 
 Package: com.brocadesoft.ruiyin
 Architecture: arm64
@@ -9884,6 +9957,23 @@ SHA256: 72394eb05412f1071bc53284cb6bedd772c42019f6646fc5485a37669be9031c
 SHA512: 51eac79d53965d3f838f2d07c7c49e1035dc1b7e3ba1b786135198f3b5f23769c08e024e986eb38fd929fb1fcd8e74a506ea5f1d4e9254623f7e4a2217365489
 Homepage: https://www.dida365.com/home
 Description: 滴答清单 滴答清单，一款轻便的待办事项(Todo)、日程管理(GTD)应用，全球逾千万用户的共同选择。它可以帮你制定项目计划、设置会议提醒、 安排行程规划、保持工作专注，还能用于记录备忘、整理购物清单。滴答清单集计划表、备忘录、日程清单、笔记、便签、闹钟、日历、番茄钟、在线协作多种实用功能于一体，是你高效办公、目标管理、习惯养成及便捷生活的得力助手。
+
+Package: com.zwsoft.zwcad2026
+Architecture: arm64
+Version: 26.0.3.4
+Priority: optional
+Section: graphics
+Maintainer: lishuaiwei <lishuaiwei@zwcad.com>
+Installed-Size: 1051936
+Depends: deepin-elf-verify (>= 1.1.10-1)
+Filename: ./office/com.zwsoft.zwcad2026/com.zwsoft.zwcad2026_26.0.3.4_arm64.deb
+Size: 271268318
+MD5sum: cfaa022692faae8666d44fd51ed4ba7d
+SHA1: 3e08199a7ca43f33c8759562d096a51b95d3be59
+SHA256: 1c6e627acf428c2e5c54194dac462676f6f8cbb646b34d255fcb70400f033b4a
+SHA512: 7b906c5f943c84b616a43ef439349c24eb55f2f7abca85661a9d9b2b55a4e98df69da5e9d341de3327e558373a837793aa81bbeb9421a0147dd6e4615354c9ed
+Homepage: https://www.zwsoft.cn
+Description: com.zwsoft.zwcad2026 是 ZWSOFT 研发的计算机辅助设计软件。
 
 Package: sogoupinyin
 Architecture: arm64
@@ -11261,6 +11351,26 @@ SHA256: 155dd2659b04a21f740a1b0e4bcc8d14c55e6425e5797318bfafed928fbc834a
 SHA512: 2a52011d94d8a9dcec47245bd4ad348527c83fe1e9881886d9c6f75642f846039c85d16f8e7fd7d80bff5a3c1dd794475147dd58a83ad877697761effad4b6d9
 Homepage: x.cnfic.com.cn
 Description: 中经社新华财经终端
+
+Package: cn.n.nami-ai-stable
+Architecture: arm64
+Version: 1.3.1189.46-1
+Priority: optional
+Section: web
+Maintainer: 360政企浏览器团队 <g-ent@360.cn>
+Installed-Size: 482594
+Provides: www-browser
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: ca-certificates, libasound2 (>= 1.0.17), libatk-bridge2.0-0 (>= 2.5.3), libatk1.0-0 (>= 2.11.90), libatspi2.0-0 (>= 2.9.90), libc6 (>= 2.17), libcairo2 (>= 1.6.0), libcups2 (>= 1.6.0), libcurl3-gnutls | libcurl3-nss | libcurl4 | libcurl3, libdbus-1-3 (>= 1.9.14), libexpat1 (>= 2.1~beta3), libglib2.0-0 (>= 2.39.4), libgtk-3-0, libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.26), libpango-1.0-0 (>= 1.14.0), libudev1 (>= 183), libvulkan1, libx11-6 (>= 2:1.4.99.1), libxcb1 (>= 1.9.2), libxcomposite1 (>= 1:0.4.4-1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxkbcommon0 (>= 0.5.0), libxrandr2, wget, xdg-utils (>= 1.0.2)
+Recommends: libu2f-udev
+Filename: ./network/cn.n.nami-ai-stable/cn.n.nami-ai-stable_1.3.1189.46-1_arm64.deb
+Size: 201870228
+MD5sum: 225732d9a876d7eefc9a9e95fc9b401a
+SHA1: 2062bf409aa45e10c2341523ea3b6d5f91bae44a
+SHA256: 64d183930aa2d14247ae7d44fab7006f408713817666b41ce6983977b2595570
+SHA512: 76064727f7b3b56102e4022a65b958ec358898d9f33b10c9f38977733e8773df829193669965c7971a5155b3c272e8b170a71ffc16e146a1d838265eef5e3c06
+Description: 纳米AI
+ 纳米AI是一款集成多模态搜索、多模型协同和智能内容生成功能的AI工具，支持文件解析与跨场景应用，涵盖教育、电商、创作等领域需求。
 
 Package: com.dlife.corpcloud
 Architecture: arm64

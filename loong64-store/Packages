@@ -8611,6 +8611,23 @@ SHA512: 8664db08bfba336ba2c1d7eb02d7434cd45dcab3aca16a6078bfff2852b45b80da616271
 Homepage: https://gitee.com/spark-building-service/ace-host-package-creator
 Description: multi-platform emulator, including NES, GB/A, Lynx, PC Engine
 
+Package: com.baoweiluobo.deepin
+Architecture: all
+Version: 1.0.0.0spark3
+Multi-Arch: foreign
+Priority: optional
+Section: non-free/otherosfs
+Maintainer: Deepin WINE Team
+Installed-Size: 48488
+Depends: deepin-wine6-stable, deepin-wine-helper
+Filename: ./games/com.baoweiluobo.deepin/com.baoweiluobo.deepin_1.0.0.0spark3_all.deb
+Size: 49631220
+MD5sum: d35a1e4b94f667bb4b528a52026e4a81
+SHA1: 36d98c5b2174cd94f6e424336cf82aa67bdf0e0f
+SHA256: d1df0d38e65cf34303d80f1d3bb0870ba6a3a991a0cd1f2f8f928714fbf8d627
+SHA512: a83b591cbeed6381ae9c34a10581d35a684dae85b112af1376b3374ee07c6c82c1effb1a6fa28918869f9942cea44c1dd4749c6f9da2bdc6c061d4d4af829317
+Description: BaoWeiLuoBo on Deepin Wine 6
+
 Package: store.spark-app.appwrapper.supertuxkart
 Architecture: all
 Version: 1.4+dfsg-2
@@ -8642,6 +8659,22 @@ SHA256: caa42f63eea300bb9432bd771ed46bd94b39b32cf30402651b6f98fa6d3ee8a3
 SHA512: d48633c0ae7c82b10b320feab6f8bb52b4c1ee479deea030ac61ad98ec90237e31c71cca588baf3f92040eaea0fa64bc514aff89b48f4ce7ecc8dfd59786bf35
 Homepage: http://www.joydin.com
 Description: 新增了斗兽棋子游戏。
+
+Package: com.joydin.braingame
+Architecture: loong64
+Version: 2.6.1
+Priority: optional
+Section: games
+Maintainer: Joydin<support@joydin.com>
+Depends: libc6 (>=2.16), deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: ./games/com.joydin.braingame/com.joydin.braingame_2.6.1_loong64.deb
+Size: 100494150
+MD5sum: aeb314343aab900a49d313c2d465813e
+SHA1: 826c9e6308174e7a478a323ffbfe0141dd8dc26a
+SHA256: 8a0c5d024eb1293e35844114d1ea442574521d1c8196ef90d34fee080fda4587
+SHA512: 18a902cbdb953c594508aa57056391bf506e98d70df696f99c30e679235a45a52e35efbe549319f5d80ca14e4267226a630f67b79732725a8e83d96c35cc9517
+Homepage: http://www.joydin.com
+Description: 推箱子游戏支持对战。
 
 Package: icu.yzzi.24points
 Architecture: loong64
@@ -9653,6 +9686,23 @@ SHA256: 3356c27dce6f72ded50b8908ec09eb637a5e87d87b293e28add7f464f05fd578
 SHA512: 080e95e6fdde3957f406c400836661d81b24ba9b3571f18f37f2d9748fa0f1df0695db11d3ad1299b5e70586afe4fa897af85e390c487bf9f6059d7d816c6dd6
 Description: Seeds on deepin Wine6
  思记由你，关联有AI
+
+Package: com.zwsoft.zwcad2026
+Architecture: loong64
+Version: 26.0.3.4
+Priority: optional
+Section: graphics
+Maintainer: lishuaiwei <lishuaiwei@zwcad.com>
+Installed-Size: 1094836
+Depends: deepin-elf-verify (>= 1.1.10-1), liblol,liblol-dkms
+Filename: ./office/com.zwsoft.zwcad2026/com.zwsoft.zwcad2026_26.0.3.4_loong64.deb
+Size: 269486414
+MD5sum: 3b8afd4c4923d0669a168a5148fb4d28
+SHA1: 638674df86242bf3c613f8e6733b103c58070b6f
+SHA256: 6090395e3e764b24f37a1c0af66d7f84ce7a7487fff32f49c89d39037a87fe89
+SHA512: b9ce3f0dcc7e52f6a0334555ad2d0c044de0b9446d8cf6229e243a708835b6182f7342edd9aeb2737a8706b2dae7b0c6a8e21bf45e70a11cc55181843bab4f42
+Homepage: https://www.zwsoft.cn
+Description: com.zwsoft.zwcad2026 是 ZWSOFT 研发的计算机辅助设计软件。
 
 Package: rednotebook
 Architecture: all

@@ -948,24 +948,6 @@
 
 ,
 {
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
-    "More": "支持启动Wine\n修复 Scale 问题",
-    "Name": "星火Wine应用启动器",
-    "Pkgname": "spark-dwine-helper",
-    "Size": "450 Kb",
-    "Tags": "community;deepin;ubuntu;debian;native",
-    "Torrent_address": "spark-dwine-helper_5.10.8-5.3.14_all.deb.torrent",
-    "Update": "2025-06-24 00:04:07",
-    "Version": "5.10.8-5.3.14",
-    "Website": "https://gitee.com/deepin-community-store/spark-wine",
-    "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
-    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
-}
-
-,
-{
   "Name": "WIFI热点",
   "Version": "4.7.2",
   "Filename": "linux-wifi-hotspot_4.7.2_amd64.deb",
@@ -980,6 +962,24 @@
   "Tags": "community;debian;deepin;ubuntu;uos;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/0cd3b546336148ab9af8b0b5a587f754.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2024/10/07/3c1587ce6f9540e0b865608af6621abe.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2024/10/07/d448585c408f41b0b5b8a5327d3ceab8.png"
+}
+
+,
+{
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Filename": "spark-dwine-helper_5.10.8-5.3.14_all.deb",
+    "More": "支持启动Wine\n修复 Scale 问题",
+    "Name": "星火Wine应用启动器",
+    "Pkgname": "spark-dwine-helper",
+    "Size": "450 Kb",
+    "Tags": "community;deepin;ubuntu;debian;native",
+    "Torrent_address": "spark-dwine-helper_5.10.8-5.3.14_all.deb.torrent",
+    "Update": "2025-06-24 00:04:07",
+    "Version": "5.10.8-5.3.14",
+    "Website": "https://gitee.com/deepin-community-store/spark-wine",
+    "icons": "https://spk-json.spark-app.store/store/tools/spark-dwine-helper/icon.png",
+    "img_urls": "[\"https://spk-json.spark-app.store/store/tools/spark-dwine-helper/screen_1.png\"]"
 }
 
 ,
@@ -1094,15 +1094,15 @@
 {
     "Author": "Tingzhong Luo <luotingzhong@uniontech.com>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
-    "Filename": "deepin-wine-builder_3.3.1.013-1_amd64.deb",
+    "Filename": "deepin-wine-builder_3.3.1.017-1_amd64.deb",
     "More": "这是一款专为Linux用户设计的便捷工具，可以轻松便捷地享受Windows应用程序。\nUOS迁移助手支持将本地windows应用或者windows在线下载地址，通过简单的配置，打包成deb包。\n我们的目标是打破平台界限，让应用体验无缝衔接。",
     "Name": "统信Wine应用迁移助手",
     "Pkgname": "deepin-wine-builder",
     "Size": "17 Mb",
-    "Tags": "deepin;uos;ubuntu;debian;dwine5",
-    "Torrent_address": "deepin-wine-builder_3.3.1.013-1_amd64.deb.torrent",
-    "Update": "2025-06-30 16:59:21",
-    "Version": "3.3.1.013-1",
+    "Tags": "deepin;ubuntu;debian;dwine5",
+    "Torrent_address": "deepin-wine-builder_3.3.1.017-1_amd64.deb.torrent",
+    "Update": "2025-07-19 07:42:23",
+    "Version": "3.3.1.017-1",
     "Website": "https://www.deepin.org",
     "icons": "https://spk-json.spark-app.store/store/tools/deepin-wine-builder/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/deepin-wine-builder/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/deepin-wine-builder/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/deepin-wine-builder/screen_3.png\"]"
@@ -1938,24 +1938,6 @@
 
 ,
 {
-  "Author": "gfdgd_xi <3025613752@qq.com>",
-  "Contributor": "gfdgd_xi <3025613752@qq.com>",
-  "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
-  "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
-  "Name": "Wine 运行器 Qemu 拓展",
-  "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
-  "Size": "289 Mb",
-  "Tags": "community;deepin;native",
-  "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
-  "Update": "2024-06-29 17:54:44",
-  "Version": "9.0.1runner1~beige",
-  "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
-  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
-  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
-}
-
-,
-{
     "Author": "Oracle Corporation <info@virtualbox.org>",
     "Contributor": "gfdgd_xi <3025613752@qq.com>",
     "Filename": "virtualbox-7.1_7.1.12-169651~Debian~bookworm_amd64.deb",
@@ -1970,6 +1952,24 @@
     "Website": "https://www.virtualbox.org/",
     "icons": "https://spk-json.spark-app.store/store/tools/virtualbox-7.1/icon.png",
     "img_urls": "[\"https://spk-json.spark-app.store/store/tools/virtualbox-7.1/screen_1.png\",\"https://spk-json.spark-app.store/store/tools/virtualbox-7.1/screen_2.png\",\"https://spk-json.spark-app.store/store/tools/virtualbox-7.1/screen_3.png\"]"
+}
+
+,
+{
+  "Author": "gfdgd_xi <3025613752@qq.com>",
+  "Contributor": "gfdgd_xi <3025613752@qq.com>",
+  "Filename": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb",
+  "More": "内置了更新版本的 Qemu 并不与系统源内的 Qemu 冲突，让 deepin/UOS 吃上更新版本的 Qemu （内置了支持龙芯新世界的 qemu-system-loongarch64） \n安装此包后在后续版本的 Wine 运行器虚拟机配置工具将支持调用该新版本的 Qemu\n\n该版本只支持 deepin23,如需支持其它系统版本的（如 deepin 20），需要在以下链接下载：\nhttps://sourceforge.net/projects/deep-wine-runner\nWine运行器Qemu: http://ctfile.gfdgdxi.top/d/31540479-61635610-54327c?p=2061 (访问密码: 2061)",
+  "Name": "Wine 运行器 Qemu 拓展",
+  "Pkgname": "spark-deepin-wine-runner-qemu-system-extra",
+  "Size": "289 Mb",
+  "Tags": "community;deepin;native",
+  "Torrent_address": "spark-deepin-wine-runner-qemu-system-extra_9.0.1runner1~beige_amd64.deb.torrent",
+  "Update": "2024-06-29 17:54:44",
+  "Version": "9.0.1runner1~beige",
+  "Website": "https://gitee.com/gfdgd-xi/deep-wine-runner",
+  "icons": "https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/icon.png",
+  "img_urls": "[\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_1.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_2.png\",\"https://cdn.d.store.deepinos.org.cn/store/tools/spark-deepin-wine-runner-qemu-system-extra/screen_3.png\"]"
 }
 
 ,
@@ -3444,6 +3444,23 @@
 
 ,
 {
+    "Name": "ACE Trixie  兼容环境",
+    "Version": "13.8.5",
+    "Filename": "amber-ce-trixie_13.8.5_amd64.deb",
+    "Torrent_address": "amber-ce-trixie_13.8.5_amd64.deb.torrent",
+    "Pkgname": "amber-ce-trixie",
+    "Author": "shenmo <shenmo@spark-app.store>",
+    "Contributor": "shenmo <jifengshenmo@outlook.com>",
+    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
+    "Update": "2025-07-07 11:17:21",
+    "Size": "141.37 MB",
+    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
+    "Tags": "community;debian;ubuntu;deepin;native",
+    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/72bfdd65f0134407a602d05448a27c32.png\"]",
+    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/8ce75a266b6749de9ee86c46f05fde3b.png"
+}
+,
+{
   "Name": "CPU 排名搜索工具",
   "Version": "0.1-20231206",
   "Filename": "cpu-rank-search_0.1-20231206_amd64.deb",
@@ -3460,23 +3477,6 @@
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/12/06/be4215830ba54d0da98e2bf2e9438a2d.png"
 }
 
-,
-{
-    "Name": "ACE Trixie  兼容环境",
-    "Version": "13.8.5",
-    "Filename": "amber-ce-trixie_13.8.5_amd64.deb",
-    "Torrent_address": "amber-ce-trixie_13.8.5_amd64.deb.torrent",
-    "Pkgname": "amber-ce-trixie",
-    "Author": "shenmo <shenmo@spark-app.store>",
-    "Contributor": "shenmo <jifengshenmo@outlook.com>",
-    "Website": "https://gitee.com/amber-ce/amber-ce-bookworm/",
-    "Update": "2025-07-07 11:17:21",
-    "Size": "141.37 MB",
-    "More": "ACE兼容环境，使用bwrap容器在deepin或UOS上使用Debian 13的应用，为你带来更好的使用体验！\n使用教程： https://bbs.deepin.org/post/261794 \n更新内容：\n\n\n* 暂时关闭 mimetype 直通，参考 https://bbs.deepin.org.cn/post/286988\n* 修复 bwrap 无法传递命令参数\n* 修复安装缓慢的问题",
-    "Tags": "community;debian;ubuntu;deepin;native",
-    "img_urls": "[\"https://spk-json.spark-app.store/images/2025/07/07/72bfdd65f0134407a602d05448a27c32.png\"]",
-    "icons": "https://spk-json.spark-app.store/icons/2025/07/07/8ce75a266b6749de9ee86c46f05fde3b.png"
-}
 ,
 {
   "Name": "Rubick",
@@ -3943,6 +3943,24 @@
 
 ,
 {
+  "Name": "Flix 快传",
+  "Version": "1.4.0+48",
+  "Filename": "flix_1.4.0_plus48_amd64.deb",
+  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
+  "Pkgname": "flix",
+  "Author": "zhangjian <2242634757@qq.com>",
+  "Contributor": "洺渊",
+  "Website": "https://flix.center/",
+  "Update": "2025-04-01 20:19:21",
+  "Size": "16.27 MB",
+  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
+  "Tags": "debian;ubuntu;deepin;native",
+  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
+  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
+}
+
+,
+{
   "Name": "2345好压（Wine）",
   "Version": "6.4spark0",
   "Filename": "com.2345haoya.spark_6.4spark0_all.deb",
@@ -3975,24 +3993,6 @@
   "Tags": "debian;deepin;ubuntu;native",
   "img_urls": "[\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/55f8b0a6013a4e02b7fd62900c36b2fb.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/ede86c41672f424bafe7d5cb532dcc16.png\",\"https://examine-spark.oss-cn-shanghai.aliyuncs.com/images/2023/11/19/be6833d261554d7a93ee8841804c5919.png\"]",
   "icons": "https://examine-spark.oss-cn-shanghai.aliyuncs.com/icons/2023/11/19/ad6a1887fef141d499e4a067b3682760.png"
-}
-
-,
-{
-  "Name": "Flix 快传",
-  "Version": "1.4.0+48",
-  "Filename": "flix_1.4.0_plus48_amd64.deb",
-  "Torrent_address": "flix_1.4.0_plus48_amd64.deb.torrent",
-  "Pkgname": "flix",
-  "Author": "zhangjian <2242634757@qq.com>",
-  "Contributor": "洺渊",
-  "Website": "https://flix.center/",
-  "Update": "2025-04-01 20:19:21",
-  "Size": "16.27 MB",
-  "More": "Flix 是一个快速简洁的多端互传软件，像聊天一样传文件，免流量，不限速。",
-  "Tags": "debian;ubuntu;deepin;native",
-  "img_urls": "[\"https://spk-json.spark-app.store/images/2025/04/01/ba872f493006429ea6d144334850225b.png\",\"https://spk-json.spark-app.store/images/2025/04/01/9381898948f74df181b1825635dbc971.png\",\"https://spk-json.spark-app.store/images/2025/04/01/f7a557a66df04b05a1affa77c26ca31a.png\"]",
-  "icons": "https://spk-json.spark-app.store/icons/2025/04/01/7630f940375e42939efa12e591dcd35d.png"
 }
 
 ,
